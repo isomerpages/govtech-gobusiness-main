@@ -1,0 +1,11 @@
+- title: 'Enterprise Portal for Jobs and Skills (EPJS)'
+  description: Explore information and resources on relevant jobs and skills initiatives under SkillsFuture Singapore (SSG) and Workforce Singapore (WSG).
+  url: /enterprisejobskills/?src=rgp_skillsfuture_overview
+  url-new-tab: false
+  text: Find Out More
+
+- title: 'Enterprise Training Digital Services'
+  description: Browse a list of relevant e-services, including Absentee Payroll Funding, SME Declaration, and more.
+  url: /enterprisejobskills/digital-services/?src=rgp_skillsfuture_overview
+  url-new-tab: false
+  text: Find Out More

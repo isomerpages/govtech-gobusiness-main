@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Aeration System/ Oxygenation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution2146
 ---
 
-## Automatic Seed Plug Transplanter
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

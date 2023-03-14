@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Equipment-Monitoring-and-Manufacturing-Data-Collection.md
       - Manufacturing-Quality-Management.md
-      - Real-time-Production-Scheduling-and-Job-Tracking.md
-      - Product-and-Manufacturing-Process-Configuration.md
       - Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-.md
       - General-Advanced-Manufacturing-Equipment.md

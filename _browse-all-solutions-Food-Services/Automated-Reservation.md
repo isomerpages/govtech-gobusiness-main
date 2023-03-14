@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3172' target='_blank'>Weeloy Reservation System & Table Management Suite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4' target='_blank'>Weeloy Reservation System & Table Management Suite</a><br></td>
 <td>Weeloy Pte Ltd</td>
 </tr>
 </table>

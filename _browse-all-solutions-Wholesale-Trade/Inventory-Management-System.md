@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Wholesale-Trade/Inventory-Management-System
 
 Up to 70% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 
 **Recommended courses**
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3634' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3641' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 </table>

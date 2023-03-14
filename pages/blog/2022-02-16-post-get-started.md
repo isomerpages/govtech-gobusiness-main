@@ -53,9 +53,9 @@ Once you’ve mastered the fundamentals, go one step further by checking out the
 
 With COVID-19’s arrival having upturned business operations, adapting and adjusting business operations is key. These include:
 
-- Resources for [Rostered Routine Testing (RRT)](/timelimitedrrt/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for workplaces, which include the processes for obtaining ART test kits, performing self-testing, and declaring ART test results
+- Resources for [Rostered Routine Testing (RRT)](/covid/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for workplaces, which include the processes for obtaining ART test kits, performing self-testing, and declaring ART test results
 
-- The latest news and regulations regarding [safe management requirements](/safemanagement/general/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [permitted services](/permittedlist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
+- The latest news and regulations regarding [safe management requirements](/covid/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [permitted services](/covid/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
 
 - [User guides](/guides/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for additional administrative processes such as manpower declaration and exemption applications
 

@@ -1,20 +1,15 @@
 ---
-title: 'APM Smart Access System Version 1.0'
+title: 'HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)'
 permalink: /productivity-solutions-grant/solutionrepo/solution19
 ---
 
-## APM Smart Access System Version 1.0
+## HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)
 
 ## Overview
 
 **Description**
 
-APM Smart Access Solutions enables users to automate access control for various scenarios. Our solutions cover 
-1)	simple door access control, 
-2)	current access system upgrading to latest technology,  
-3)	single lane turnstile with SafeEntry, Facial Recognition and Crowd Control VMS
-4)	dual lane turnstiles for heavy human traffic with SafeEntry, Facial Recognition and Crowd Control VMS
-5)	mobile platform container with guardhouse for use in construction sites and/or outdoor events
+Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
 
 ## Solution Packages Option(s)
 
@@ -28,38 +23,38 @@ APM Smart Access Solutions enables users to automate access control for various 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Smart Access System-Pkg 1</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (50 Pax)</td>
+<td style='padding: 10px;'>$24,900.00</td>
+<td style='padding: 10px;'>$24,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_Annex3_CR_wef13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Access System Upgrading-Pkg 2</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Single Lane Turnstile Solution-Pkg 3</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'>$13,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission for SMEs (20 Pax)</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Dual Lanes Turnstiles Solution-Pkg 4</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$19,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (30 Pax)</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>APM Smart Access System Version 1.0 - Mobile Platform Access Control Solution-Pkg 5</td>
-<td style='padding: 10px;'>$29,800.00</td>
-<td style='padding: 10px;'>$22,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (40 Pax)</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -69,7 +64,7 @@ APM Smart Access Solutions enables users to automate access control for various 
 
 ## Vendor Information
 
- Company Name: APM Global Pte Ltd<br>Web URL: http://www.apmglobal.com.sg <br><br>Contact Hotline: 67104938 <br><br>Contact Email: bella@apmglobal.com.sg <br><br>
+ Company Name: Acc Pro (Singapore) Pte. Ltd.<br>Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

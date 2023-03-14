@@ -1,15 +1,15 @@
 ---
-title: 'MyRetailer Android POS'
+title: 'AIMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution3539
 ---
 
-## MyRetailer Android POS
+## AIMS
 
 ## Overview
 
 **Description**
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+Tunity Asset Inventory Management is an established and stable solution for SMEs embarking on their Digitalization Journey. Leveraging on RFID technology, robust hardware and a "tried and tested" Management Software, the solution was curated to help SMEs of various industries to effectively manage their assets/inventories. RFID allows for bulk reading of tagged assets/inventories within seconds at a meaningful distance. Increase productivity, accountability, visibility & control.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
-<td style='padding: 10px;'>$2,590.00</td>
-<td style='padding: 10px;'>$2,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
-<td style='padding: 10px;'>$2,150.00</td>
-<td style='padding: 10px;'>$2,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
-<td style='padding: 10px;'>$2,950.00</td>
-<td style='padding: 10px;'>$2,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
-<td style='padding: 10px;'>$3,650.00</td>
-<td style='padding: 10px;'>$3,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System (Interface)</td>
+<td style='padding: 10px;'>$16,050.00</td>
+<td style='padding: 10px;'>$10,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 
 ## Vendor Information
 
- Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
+ Company name:TUNITY TECHNOLOGIES PTE. LTD.<br>Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

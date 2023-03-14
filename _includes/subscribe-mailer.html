@@ -134,13 +134,13 @@
           <img class="mailer__logo" src="/images/Subscribe.png" alt="subscribe to gobusiness mailer"/>
         </div>
         <div class="mailer__Rcard--body">
-          <div class="mailer__title">Get GoBusiness updates in your inbox</div>
+          <div class="mailer__title">{{include.title}}</div>
           Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more.
         </div>
       </div>
       <div class="mailer__right-bottom">
         <div class="mailer__Lcard--body">
-          {% include primary-btn.html href="https://go.gov.sg/gobusiness-mailing-list" text="Subscribe to Newsletter" target="_blank" %}
+          {% include primary-btn.html href=include.url text="Subscribe to Newsletter" target="_blank" %}
         </div>
       </div>
     </div>

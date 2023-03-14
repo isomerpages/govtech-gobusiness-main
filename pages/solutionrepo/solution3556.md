@@ -1,16 +1,16 @@
 ---
-title: 'ZETTAPPS Inventory & Order Processing'
+title: 'AUTOCOUNT ACCOUNTING SOFTWARE Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution3556
 ---
 
-## ZETTAPPS Inventory & Order Processing
+## AUTOCOUNT ACCOUNTING SOFTWARE Version 2
 
 ## Overview
 
 **Description**
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
-For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
+I Soft Business Solutions provides business solutions to SMEs through accounting software and consultation services by experienced consultants.
+AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. The features include: flexibility, expandability and ease-to-use to help business grow and sustain development needs.
 
 ## Solution Packages Option(s)
 
@@ -24,31 +24,38 @@ For Distributors or Retailers, there are functions that enable them to track the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (5 Users)</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (15 Users)</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -58,7 +65,7 @@ For Distributors or Retailers, there are functions that enable them to track the
 
 ## Vendor Information
 
- Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+ Company name:I SOFT BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://autocountsoft.sg/autocount-accounting-singapore.html <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

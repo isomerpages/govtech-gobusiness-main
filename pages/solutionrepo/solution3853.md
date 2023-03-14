@@ -1,19 +1,15 @@
 ---
-title: 'Redoc - Document Management Version 1.0'
+title: 'AutoCount Accounting Software Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3853
 ---
 
-## Redoc - Document Management Version 1.0
+## AutoCount Accounting Software Version 2.0
 
 ## Overview
 
 **Description**
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart document management and transaction records platform. 
-
-Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights and transaction records on the performance of your business. 
-
-Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc!
+Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
 
 ## Solution Packages Option(s)
 
@@ -27,38 +23,38 @@ Increase your business flow by up to 43% through digital automation and experien
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (Up to 5 users)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
+<td style='padding: 10px;'>$4,599.00</td>
+<td style='padding: 10px;'>$4,599.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
+<td style='padding: 10px;'>$5,799.00</td>
+<td style='padding: 10px;'>$5,799.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Up to 20 users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
+<td style='padding: 10px;'>$10,999.00</td>
+<td style='padding: 10px;'>$10,999.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (Up to 40 users)</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (Up to 60 users)</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -68,7 +64,7 @@ Increase your business flow by up to 43% through digital automation and experien
 
 ## Vendor Information
 
- Company name:Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co 
+ Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br><br>Contact Hotline: 62234385 <br><br>Contact Email: enquiry@ingenious.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

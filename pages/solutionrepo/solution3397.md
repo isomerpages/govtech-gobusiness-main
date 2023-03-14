@@ -1,15 +1,15 @@
 ---
-title: 'DNS - Xero Cloud Accounting Software'
+title: 'Websentials Ecommerce Web Development - Customised eCommerce Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution3397
 ---
 
-## DNS - Xero Cloud Accounting Software
+## Websentials Ecommerce Web Development - Customised eCommerce Package
 
 ## Overview
 
 **Description**
 
-XERO is a cloud based accounting software that enables small businesses to automate everyday administrative tasks, work from anywhere and anytime. With over 3 Million + subscribers worldwide, XERO helps to transform the way business is done. Get a full picture of your financials in real time and collaborate anywhere across the world.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,10 @@ XERO is a cloud based accounting software that enables small businesses to autom
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'>$1,158.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Everyday</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Upsize</td>
-<td style='padding: 10px;'>$4,224.00</td>
-<td style='padding: 10px;'>$3,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Websentials Ecommerce Web Development - Customised eCommerce Package</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +36,7 @@ XERO is a cloud based accounting software that enables small businesses to autom
 
 ## Vendor Information
 
- Company name:D Next Stop Pte Ltd<br>Web URL: www.dnextstop.com <br>Contact Hotline: 83415321 <br>Contact Email: enquiry@dnextstop.com
+ Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

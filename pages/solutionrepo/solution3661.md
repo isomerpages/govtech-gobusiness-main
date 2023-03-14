@@ -1,15 +1,23 @@
 ---
-title: 'Xero Cloud Accounting Software'
+title: 'Qoqolo School Management System Version 4.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution3661
 ---
 
-## Xero Cloud Accounting Software
+## Qoqolo School Management System Version 4.3
 
 ## Overview
 
 **Description**
 
-Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
+Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
+Key Benefits:
+-	Easy Deployment
+-	Paperless Storage
+-	Information On-The-Go
+-	Simplify Management
+-	Instant Updates
+-	Capture Learning Journey
+-	Effective Communications
 
 ## Solution Packages Option(s)
 
@@ -23,48 +31,48 @@ Xero is an online accounting software for small businesses that lets you share a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Premier full package with consultation)</td>
-<td style='padding: 10px;'>$5,605.60</td>
-<td style='padding: 10px;'>$5,605.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Premier Pro)</td>
-<td style='padding: 10px;'>$10,077.60</td>
-<td style='padding: 10px;'>$10,077.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premier with Training)</td>
-<td style='padding: 10px;'>$2,406.60</td>
-<td style='padding: 10px;'>$2,406.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Premier with Setup)</td>
-<td style='padding: 10px;'>$2,006.60</td>
-<td style='padding: 10px;'>$2,006.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Subscription only)</td>
-<td style='padding: 10px;'>$807.60</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: 361 Degree Consultancy Pte Ltd<br>Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+ Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
