@@ -19,7 +19,11 @@ As most learnings happen at the workplace, you might want to consider putting a 
 You can approach: [National Centre of Excellence for Workplace Learning (NACE)](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning--nace-/) which offers training and consultancy to help companies set up workplace learning systems based on leading practices from Germany and Switzerland. 
 
 ### Already have an established workplace learning system?
-Get recognised for your efforts through the National Workplace Learning Certification programme. Find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"}. 
+Get recognised for your workplace learning efforts through the Workplace Learning:READY (WPL:READY) initiative, and help your workers get fast-tracked skills certifications through the Workplace Skills Recognition (WPSR) programme.
+
+NACE is launching a new WPL:READY mark, which is a new foundational-level workplace learning certification targeted at helping SMEs develop effective on-the-job learning processes. Certified companies can work with SSG’s appointed training partners to formally recognise the skills their workers trained on-the-job, without the need for further external training.
+
+Find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"}, and the [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=rgp_skillsfuture_step5).
 
 
 <script src="/jquery/jquery.min.js"></script>
