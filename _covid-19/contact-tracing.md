@@ -1,7 +1,6 @@
 ---
 title: Contact tracing
 permalink: /safemanagement/safeentry/
-third_nav_title: Safe Management Requirements
 ---
 
 ### Stepping Down TraceTogether (TT) and SafeEntry (SE)
