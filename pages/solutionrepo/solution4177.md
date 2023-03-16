@@ -26,28 +26,28 @@ Hubble Safety Management System helps businesses manage and monitor the safety o
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 1 Project)</td>
 <td style='padding: 10px;'>$16,400.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Hubble_Safety_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 2 Projects)</td>
 <td style='padding: 10px;'>$22,900.00</td>
 <td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Hubble_Safety_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 3 Projects)</td>
 <td style='padding: 10px;'>$26,900.00</td>
 <td style='padding: 10px;'>$26,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Hubble_Safety_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 4 Projects)</td>
 <td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Hubble_Safety_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

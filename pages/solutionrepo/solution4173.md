@@ -28,28 +28,28 @@ Building occupants can submit requests through their preferred messaging app (in
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
 <td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_FacilityBot_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
 <td style='padding: 10px;'>$7,200.00</td>
 <td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_FacilityBot_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
 <td style='padding: 10px;'>$15,000.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_FacilityBot_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus (Multi-Site)</td>
 <td style='padding: 10px;'>$30,000.00</td>
 <td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_FacilityBot_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,7 +26,7 @@ Guidesify offers well-designed and optimized e-commerce website solutions that c
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GuideToEcom Premium</td>
 <td style='padding: 10px;'>$8,900.00</td>
 <td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Guidesify_GuideToEcom_Premium_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

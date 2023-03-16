@@ -31,35 +31,35 @@ APM Smart Access Solutions enables users to automate access control for various 
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Access System-Pkg 1</td>
 <td style='padding: 10px;'>$4,800.00</td>
 <td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APM_Global_APM_Smart_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Access System Upgrading-Pkg 2</td>
 <td style='padding: 10px;'>$8,900.00</td>
 <td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APM_Global_APM_Smart_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Single Lane Turnstile Solution-Pkg 3</td>
 <td style='padding: 10px;'>$20,700.00</td>
 <td style='padding: 10px;'>$13,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APM_Global_APM_Smart_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dual Lanes Turnstiles Solution-Pkg 4</td>
 <td style='padding: 10px;'>$28,000.00</td>
 <td style='padding: 10px;'>$19,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APM_Global_APM_Smart_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Platform Access Control Solution-Pkg 5</td>
 <td style='padding: 10px;'>$29,800.00</td>
 <td style='padding: 10px;'>$22,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APM_Global_APM_Smart_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_APMGlobal_Annex3_CR_wef13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

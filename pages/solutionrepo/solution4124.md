@@ -26,35 +26,35 @@ Really provides the state-of-the-art platform that helps property & facilities m
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Individual Property or Project Packaged Solution</td>
 <td style='padding: 10px;'>$3,900.00</td>
 <td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_Really_Platform_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</td>
 <td style='padding: 10px;'>$12,960.00</td>
 <td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_Really_Platform_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</td>
 <td style='padding: 10px;'>$24,800.00</td>
 <td style='padding: 10px;'>$24,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_Really_Platform_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</td>
 <td style='padding: 10px;'>$34,600.00</td>
 <td style='padding: 10px;'>$34,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_Really_Platform_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</td>
 <td style='padding: 10px;'>$49,200.00</td>
 <td style='padding: 10px;'>$49,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_Really_Platform_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

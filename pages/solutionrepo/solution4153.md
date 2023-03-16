@@ -26,14 +26,14 @@ Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to va
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
 <td style='padding: 10px;'>$3,200.00</td>
 <td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_TECHNOLOGIES_Autodesk_AEC_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 3 Years</td>
 <td style='padding: 10px;'>$8,880.00</td>
 <td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_TECHNOLOGIES_Autodesk_AEC_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

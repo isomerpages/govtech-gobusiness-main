@@ -26,35 +26,35 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
 <td style='padding: 10px;'>$9,968.00</td>
 <td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_Swipetask_PRO_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
 <td style='padding: 10px;'>$17,196.00</td>
 <td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_Swipetask_PRO_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
 <td style='padding: 10px;'>$36,388.00</td>
 <td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_Swipetask_PRO_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
 <td style='padding: 10px;'>$42,388.00</td>
 <td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_Swipetask_PRO_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
 <td style='padding: 10px;'>$15,068.00</td>
 <td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_Swipetask_PRO_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
