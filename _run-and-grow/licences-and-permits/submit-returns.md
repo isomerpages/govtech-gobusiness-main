@@ -12,7 +12,7 @@ Returns are additional information you may need to submit for certain licences. 
 
 You can submit them by logging in to GoBusiness Licensing.
 
-{% include button.html text="Submit Returns on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false" type="primary" %}
+{% include button.html text="Submit Returns on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
 
 After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
 
