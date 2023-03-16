@@ -3,3 +3,5 @@ collections:
     output: true
     order:
       - overview.md
+      - contact-tracing.md
+      - sector-specific-requirements.md
