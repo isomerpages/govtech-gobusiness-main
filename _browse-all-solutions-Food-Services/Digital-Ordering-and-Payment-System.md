@@ -27,6 +27,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4055' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4210' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
+<td>APPZGATE SOLUTIONS PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
