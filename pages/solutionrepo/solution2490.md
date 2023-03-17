@@ -30,28 +30,28 @@ At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine and Social Media Marketing & Photography/Videography [3 Months Package]</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Marketing and Social Media Marketing [3 Months Package]</td>
 <td style='padding: 10px;'>$8,400.00</td>
 <td style='padding: 10px;'>$8,400.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Search Engine Marketing [6 Months Package]</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Search Engine Marketing [3 Months Package]</td>
 <td style='padding: 10px;'>$7,800.00</td>
 <td style='padding: 10px;'>$7,800.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Social Media Advertising [6 Months Package]</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Content Marketing [6 Months Package]</td>
 <td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'>$9,900.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography/Videography [6 Months Package]</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography [3 Months Package]</td>
 <td style='padding: 10px;'>$9,300.00</td>
 <td style='padding: 10px;'>$9,300.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>

@@ -23,35 +23,35 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=5,000sqm)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <= 5,000sqm)</td>
 <td style='padding: 10px;'>$11,700.00</td>
 <td style='padding: 10px;'>$11,700.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=15,000sqm)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <= 15,000sqm)</td>
 <td style='padding: 10px;'>$15,300.00</td>
 <td style='padding: 10px;'>$15,300.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=50,000sqm)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <= 50,000sqm)</td>
 <td style='padding: 10px;'>$17,700.00</td>
 <td style='padding: 10px;'>$17,700.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=100,000sqm)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <= 100,000sqm)</td>
 <td style='padding: 10px;'>$22,500.00</td>
 <td style='padding: 10px;'>$20,100.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=200,000sqm)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <= 200,000sqm)</td>
 <td style='padding: 10px;'>$27,300.00</td>
 <td style='padding: 10px;'>$20,100.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
