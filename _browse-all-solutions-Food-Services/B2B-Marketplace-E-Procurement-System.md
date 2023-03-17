@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2066' target='_blank'>Zeemart</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2056' target='_blank'>Zeemart</a><br></td>
 <td>Zeemart Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3529' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3523' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>SINGAPORE E-BUSINESS PTE. LTD.</td>
 </tr>
 </table>

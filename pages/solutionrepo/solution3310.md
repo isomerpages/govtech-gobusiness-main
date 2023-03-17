@@ -1,15 +1,15 @@
 ---
-title: 'iTrack Vehicle Fleet Tracking'
+title: 'ABSS Premier - Accounting and Sales Management System Version 23'
 permalink: /productivity-solutions-grant/solutionrepo/solution3310
 ---
 
-## iTrack Vehicle Fleet Tracking
+## ABSS Premier - Accounting and Sales Management System Version 23
 
 ## Overview
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+Managed by a Chartered Accountant with 30 years of experience, 01 BUSINESS SOLUTIONS PTE LTD is a certified ABSS partner, and had helped many local SMEs to setup accounting systems seamlessly, and with immediate result. ABSS Premier is an integrated accounting, sales, purchase and inventory management solution that integrate with PEPPOL e-invoicing network. A GST-compliant software, it helps businesses to streamline their accounting and operational procedures, and increases productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package A (1-User with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'><a href='/images/psg/01_Business_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package B (3-Users with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$4,694.00</td>
+<td style='padding: 10px;'>$4,694.00</td>
+<td style='padding: 10px;'><a href='/images/psg/01_Business_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package C (1-User Licence)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/01_Business_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package D (3-Users Licence)</td>
+<td style='padding: 10px;'>$2,744.00</td>
+<td style='padding: 10px;'>$2,744.00</td>
+<td style='padding: 10px;'><a href='/images/psg/01_Business_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus Implementation Package E (1-User with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$5,641.00</td>
+<td style='padding: 10px;'>$5,641.00</td>
+<td style='padding: 10px;'><a href='/images/psg/01_Business_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company name:01 BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://www.01businesssolutions.com/psg-grant/ <br>Contact Hotline: 62203306 <br>Contact Email: sales@01businesssolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

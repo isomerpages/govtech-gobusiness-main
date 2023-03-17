@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Mobile-Enabled-Patrol-and-Incident-Management.md
+      - Surveillance-and-Analytics.md
       - Automated-Visitor-Management.md
+      - Mobile-Enabled-Patrol-and-Incident-Management.md

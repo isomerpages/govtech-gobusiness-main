@@ -1,16 +1,16 @@
 ---
-title: 'Adventus Managed EndPoint Protection'
+title: 'Revel Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution2085
 ---
 
-## Adventus Managed EndPoint Protection
+## Revel Systems
 
 ## Overview
 
 **Description**
 
-Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
-With this all-rounded EndPoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and EndPoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
+Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
+The Revel Enterprise solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +24,41 @@ With this all-rounded EndPoint Protection, threats are disrupted, contained, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (10 Units)</td>
-<td style='padding: 10px;'>$1,370.00</td>
-<td style='padding: 10px;'>$1,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Lite</td>
+<td style='padding: 10px;'>$4,130.00</td>
+<td style='padding: 10px;'>$3,631.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_3.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (25 Units)</td>
-<td style='padding: 10px;'>$3,175.00</td>
-<td style='padding: 10px;'>$3,175.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Quick Service & Coffeeshop</td>
+<td style='padding: 10px;'>$7,732.00</td>
+<td style='padding: 10px;'>$6,734.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials -  Modern Restaurant </td>
+<td style='padding: 10px;'>$11,887.00</td>
+<td style='padding: 10px;'>$9,264.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_2.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (100 Units)</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (150 Units)</td>
-<td style='padding: 10px;'>$15,850.00</td>
-<td style='padding: 10px;'>$15,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adventus20200491_Desensitised_Annex_3(002).pdf_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Revel Systems - Revel Essentials - Bundle: 2 order license & 2 KDS</td>
+<td style='padding: 10px;'>$9,788.00</td>
+<td style='padding: 10px;'>$9,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Revel_Annex3_wef_27_Oct22_Part_4.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Adventus Singapore Pte. Ltd.<br>Web URL: https://adventus.com/ <br><br>Contact Hotline: 61003310 <br><br>Contact Email: info@adventus.com<br><br>
+ Company Name: Revel Systems Global Pte Ltd<br>Web URL: www.revelsystems.com <br><br>Contact Hotline: +6531633097 <br><br>Contact Email: sales@revelsystems.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,16 +1,15 @@
 ---
-title: 'Kaspersky Endpoint Security Version 11.6.0'
+title: 'Creative eShop'
 permalink: /productivity-solutions-grant/solutionrepo/solution2516
 ---
 
-## Kaspersky Endpoint Security Version 11.6.0
+## Creative eShop
 
 ## Overview
 
 **Description**
 
-Kaspersky Endpoint Security is the world's most tested, most awarded security application powered by next-generation technologies to protect all endpoints - and the data on them.
-It combines multi-layered, next-generation threat protection with additional proactive technologies such as Application, Web and Device controls, vulnerability and patch management and data encryption into an EDR-ready endpoint agent to protect your sensitive data on every endpoint.
+Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,24 @@ It combines multi-layered, next-generation threat protection with additional pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (10 License)</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Lite</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus  (25 License)</td>
-<td style='padding: 10px;'>$1,725.00</td>
-<td style='padding: 10px;'>$1,725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Standard</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (50 License)</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - 	Kaspersky Endpoint Security Cloud Plus (100 License)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Premium</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +50,7 @@ It combines multi-layered, next-generation threat protection with additional pro
 
 ## Vendor Information
 
- Company Name: Techfount Systems Pte Ltd<br>Web URL: http://www.techfount.com <br><br>Contact Hotline: 65478900 <br><br>Contact Email: info@techfount.com <br><br>
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

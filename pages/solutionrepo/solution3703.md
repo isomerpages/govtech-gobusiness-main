@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Solution'
+title: 'Beautec centralized version'
 permalink: /productivity-solutions-grant/solutionrepo/solution3703
 ---
 
-## HRM Labs Solution
+## Beautec centralized version
 
 ## Overview
 
 **Description**
 
-HRMLabs helps the company by handling the human resources administrative and payroll processing work. Saving the company's time and money so they can focus more on business development success. With our HR Outsource service, the company no longer needs to manage manual and complicated HR tasks. Our service automates the process from managing attendance taking, leave and payroll calculation to payslip release. We address the problem faced by companies and ease the employees to be more productive.
+Beautec is a SPA and SALON management software deigned to simply the tedious workflow processes of the highly complex beauty salons, hair salons, spas and aesthetic clinics.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ HRMLabs helps the company by handling the human resources administrative and pay
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (30)</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Standard without HW)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Beautec_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (50)</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (POS Set A100)</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'>$6,048.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Beautec_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (80)</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (150)</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (200)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (POS Set B100)</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$6,048.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Beautec_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ HRMLabs helps the company by handling the human resources administrative and pay
 
 ## Vendor Information
 
- Company name:Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br>Contact Hotline: 90255587 <br>Contact Email: contact@hrmlabs.com 
+ Company name:Beautec Pte Ltd<br>Web URL: www.beau-tec.com <br>Contact Hotline: 67772307 <br>Contact Email: support@beau-tec.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

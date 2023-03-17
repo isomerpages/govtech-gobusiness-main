@@ -1,15 +1,15 @@
 ---
-title: 'Gravis'
+title: 'Studio Manager Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution2973
 ---
 
-## Gravis
+## Studio Manager Version 8
 
 ## Overview
 
 **Description**
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. Since 2002, the software is designed for beauty operators like spa, aesthetic clinic and salons. It is a beauty POS & CRM solution designed for small to large global chains. For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Basic Plan (Up to 5 users)</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package A (Standard)</td>
+<td style='padding: 10px;'>$11,360.00</td>
+<td style='padding: 10px;'>$11,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Premium Plan (Up to 10 users)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package B (Professional)</td>
+<td style='padding: 10px;'>$16,600.00</td>
+<td style='padding: 10px;'>$16,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Enterprise Plan (Up to 30 users)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package C (Premium)</td>
+<td style='padding: 10px;'>$18,520.00</td>
+<td style='padding: 10px;'>$18,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package D (Enterprise)</td>
+<td style='padding: 10px;'>$21,920.00</td>
+<td style='padding: 10px;'>$19,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Studio Manager Version 8 - Package E (Branch)</td>
+<td style='padding: 10px;'>$6,680.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Archer_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ONE X GROUP PTE. LTD.<br>Web URL: https://www.onextech.com.sg/work <br><br>Contact Hotline: 91198609 <br><br>Contact Email: info@onextech.com <br><br>
+ Company Name: ARCHER LOGIC (S) PTE LTD<br>Web URL: www.studiomanager.asia <br><br>Contact Hotline: 67859007 <br><br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

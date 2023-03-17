@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2376' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2366' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
 <td>SIMPLR SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2713' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2704' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
 <td>Gurusoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3182' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3172' target='_blank'>iLOGON (iWMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 </table>

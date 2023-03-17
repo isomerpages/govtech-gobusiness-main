@@ -1,15 +1,15 @@
 ---
-title: 'Farm Processing Machine'
+title: 'Inoculation Cabinet (Laminar flow cabinet)'
 permalink: /productivity-solutions-grant/solutionrepo/solution2166
 ---
 
-## Farm Processing Machine
+## Inoculation Cabinet (Laminar flow cabinet)
 
 ## Overview
 
 **Description**
 
-Integrated processing system to process produce into value-added products
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Integrated processing system to process produce into value-added products
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
