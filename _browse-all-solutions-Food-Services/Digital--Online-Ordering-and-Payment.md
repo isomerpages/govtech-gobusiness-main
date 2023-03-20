@@ -48,10 +48,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2534' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
-<td>Lunchbox Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2555' target='_blank'>2DFire online ordering and payment Version 5.8.98</a><br></td>
 <td>1-Smart Technologies Pte Ltd</td>
 </tr>
@@ -138,6 +134,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3873' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4215' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
+<td>Lunchbox Pte Ltd</td>
 </tr>
 </table>
 
