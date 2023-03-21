@@ -1,23 +1,15 @@
 ---
-title: 'FLEETEYE'
+title: 'Shopmatic'
 permalink: /productivity-solutions-grant/solutionrepo/solution3980
 ---
 
-## FLEETEYE
+## Shopmatic
 
 ## Overview
 
 **Description**
 
-FLEETEYE is used to monitor and operate remote assets.
-This is a module that operates 3 types of cameras, with GPS location.
-The solution is most suited for assets that are operated by humans in faraway locations.
-
-A (BIOMETRIC) - monitors humans and measure fatigue and behaviour.
-B (SAFETY) - visual limits will trigger warnings if breached
-C (SURVEILLANCE) - outdoor recording with night vision
-
-Suited for vehicles, containers, mobile equipment or remote sites.
+Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
 
 ## Solution Packages Option(s)
 
@@ -31,20 +23,20 @@ Suited for vehicles, containers, mobile equipment or remote sites.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$4,542.00</td>
-<td style='padding: 10px;'>$3,510.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ace_20220359_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
+<td style='padding: 10px;'>$2,815.00</td>
+<td style='padding: 10px;'>$2,815.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Shopmatic_20220242_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: ACE PRIME ROBOTICS<br>Web URL: www.fleetdaemon.com <br>Contact Hotline: 67286028 <br>Contact Email: ACE88SG@YAHOO.COM <br>
+ Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: +65 88898758<br>Contact Email: jaramy.teo@goshopmatic.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

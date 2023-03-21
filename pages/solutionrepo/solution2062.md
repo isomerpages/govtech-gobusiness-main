@@ -1,38 +1,53 @@
 ---
-title: 'Automated tools management system'
+title: 'WarelyPOS Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution2062
 ---
 
-## Automated tools management system
+## WarelyPOS Version 1.1
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Cost of equipment capped at $28,000 per unit
+WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Express</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Premium</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Lite</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyPOS Version 1.1 - WarelyPOS Enterprise</td>
+<td style='padding: 10px;'>$18,300.00</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Plus65_Annex_3_CR_wef_02_June_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -40,6 +55,10 @@ Cost of equipment capped at $28,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Plus 65 Marketing Pte Ltd<br>Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

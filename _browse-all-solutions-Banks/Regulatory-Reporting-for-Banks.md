@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Banks/Regulatory-Reporting-for-Banks
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 30% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Monetary Authority of Singapore (MAS).
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3193' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3199' target='_blank'>Digital Fund Manager Compliance powered by Palmyra</a><br></td>
 <td>Vermeg International Singapore Pte. Limited</td>
 </tr>
 </table>

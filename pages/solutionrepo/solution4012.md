@@ -1,15 +1,15 @@
 ---
-title: 'DM OOm Digital Performance Marketing Package'
+title: 'DM WECOFA Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution4012
 ---
 
-## DM OOm Digital Performance Marketing Package
+## DM WECOFA Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
+Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ permalink: /productivity-solutions-grant/solutionrepo/solution4012
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/Content Marketing Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

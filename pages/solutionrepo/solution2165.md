@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
-## Humidifier Equipment
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Automated Mixer/ Compacter for Growing Media'
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
-## Crate/ Tray washing machine
+## Automated Mixer/ Compacter for Growing Media
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

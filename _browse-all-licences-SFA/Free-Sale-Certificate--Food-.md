@@ -17,7 +17,7 @@ Singapore Food Agency (SFA)
 <p>The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their<br />- Meat and Fish products intended for export.<br />- Locally processed meat and fish products intended for export<br />- Processed food products intended for export</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get the FAQ for Free Sale Certificate (Food)?</strong><br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+<li><strong>Where can I get more information for Free Sale Certificate (Food)?</strong><br />You can find more information on <a href="https://www.sfa.gov.sg/food-import-export/commercial-food-exports" target="_blank" rel="noopener">SFA website</a>.</li>
 </ol>
 
 <strong>Additional Information</strong>
