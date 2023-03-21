@@ -40,11 +40,11 @@ When purchasing a new appliance, pay attention to its energy label. The [Nationa
 
 Rising energy costs in recent months have made the transition towards energy efficiency more urgent than before. As part of the Singapore Green Plan 2030, the Government is actively encouraging enterprises to adopt solutions that would enable them to be more energy efficient. 
 
-The Government has since launched the Energy Efficiency Grant (EEG) for the Food Manufacturing, Food Services and Retail sectors. Through the EEG, businesses in these sectors can receive subsidies for their use of energy saving appliances, from various LED lighting; air-conditioners; refrigerators; induction cookers; water heaters and clothes dryers.
+The Government has since launched the [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for the Food Manufacturing, Food Services and Retail sectors. Through the EEG, businesses in these sectors can receive subsidies for their use of energy saving appliances, from various LED lighting; air-conditioners; refrigerators; induction cookers; water heaters and clothes dryers.
 
 The support provided by the grant goes up to 70 per cent of qualifying costs, capped at S$30,000 per company per year. Under the LED lighting category, companies can claim up to S$500 annually.
 
-You can check out the [extended list of the products supported by the EEG on GoBusiness](/energy-efficiency-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}.
+You can check out the extended list of the products supported by the EEG on GoBusiness.
 
 In the age of e-commerce, businesses today use websites and online platforms to conduct sales. Running a website, however, is energy-intensive. According to Web Neutral Project founder Jack Amend, powering a website produces 4,500 pounds of CO2 a year, which is equivalent to driving a new car for more than 10,000 miles. In fact, the internet produces almost as much pollution as the airline industry.
 
@@ -98,7 +98,7 @@ Another inexpensive way for businesses to offer more sustainable logistics is to
 
 Last but not least, as consumers get increasingly attuned to environmental matters, sustainability marketing is a key practice to better connect with a global customer base. Hence, when brands strengthen their commitments to sustainability, increasing brand transparency and communicating their sustainability plans will allow customers to better understand the business’s priorities in terms of reducing environmental impact.
 
-**While sustainability is a major challenge, there are support schemes available to help you make your first step towards a more sustainable future. The [launch of Energy Efficiency Grant (EEG)](/news-and-updates/updates/eeg/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is part of Singapore Green Plan 2030 to encourage enterprises to adopt more sustainable and energy efficient solutions.**
+**While sustainability is a major challenge, there are support schemes available to help you make your first step towards a more sustainable future. The [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, was launched as part of Singapore Green Plan 2030 to encourage enterprises to adopt more sustainable and energy efficient solutions.**
 
 **With EEG, businesses in the relevant sectors will be able receive reimbursement  for their purchase of energy efficient equipment. You can find out more about EEG or submit your application on GoBusiness.**
 
