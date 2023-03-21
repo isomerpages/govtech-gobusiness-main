@@ -47,6 +47,8 @@ The following equipment categories are supported under the EEG:
 
 - [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
+- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
 ----
 
 <a name='eeg-faq'></a>

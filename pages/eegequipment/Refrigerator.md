@@ -774,3 +774,115 @@ Commercial refrigerator: Inverter technology
 - SMEG - FAB32RWH5
 - SMEG - FAB32RWH5UK
 - SMEG - FAB5LBL3
+- SMEG - FAB5LBL3, FAB5RBL3, FAB5LBL5, FAB5RBL5, FAB5LCR3, FAB5RCR3, FAB5LCR5, FAB5RCR5, FAB5LDUJ3, FAB5RDUJ3, FAB5LDUJ5, FAB5RDUJ5, FAB5LOR3, FAB5ROR3, FAB5LOR5, FAB5ROR5, FAB5LPB3, FAB5RPB3, FAB5LPB5, FAB5RPB5, FAB5LPG3, FAB5RPG3, FAB5LPG5, FAB5RPG5, FAB5LPK3, FAB5RPK3, FAB5LPK5, FAB5RPK5, FAB5LRD3, FAB5RRD3, FAB5LRD5, FAB5RRD5, FAB5LSV3, FAB5RSV3, FAB5LSV5, FAB5RSV5, FAB5LWH3, FAB5RWH3, FAB5LWH5, FAB5RWH5, FAB5RDGO3, FAB5RDGO5
+- SMEG - FAB5LBL5
+- SMEG - FAB5LCR3
+- SMEG - FAB5LCR5
+- SMEG - FAB5LDUJ3
+- SMEG - FAB5LDUJ5
+- SMEG - FAB5LOR3
+- SMEG - FAB5LOR5
+- SMEG - FAB5LPB3
+- SMEG - FAB5LPB5
+- SMEG - FAB5LPG3
+- SMEG - FAB5LPG5
+- SMEG - FAB5LPK3
+- SMEG - FAB5LPK5
+- SMEG - FAB5LRD3
+- SMEG - FAB5LRD5
+- SMEG - FAB5LSV3
+- SMEG - FAB5LSV5
+- SMEG - FAB5LWH3
+- SMEG - FAB5LWH5
+- SMEG - FAB5RBL3
+- SMEG - FAB5RBL5
+- SMEG - FAB5RCR3
+- SMEG - FAB5RCR5
+- SMEG - FAB5RDGO3
+- SMEG - FAB5RDGO5
+- SMEG - FAB5RDUJ3
+- SMEG - FAB5RDUJ5
+- SMEG - FAB5ROR3
+- SMEG - FAB5ROR5
+- SMEG - FAB5RPB3
+- SMEG - FAB5RPB5
+- SMEG - FAB5RPG3
+- SMEG - FAB5RPG5
+- SMEG - FAB5RPK3
+- SMEG - FAB5RPK5
+- SMEG - FAB5RRD3
+- SMEG - FAB5RRD5
+- SMEG - FAB5RSV3
+- SMEG - FAB5RSV5
+- SMEG - FAB5RWH3
+- SMEG - FAB5RWH5
+- SOLID COOL - SC- 2DBB
+- SOLID COOL - SC-3DTF
+- SOLID COOL - SXS-500Y
+- SOLID COOL - SXS-700Y
+- Sub-Zero - ICBBI-36R/S/PH-LH
+- Sub-Zero - ICBBI-36R/S/PH-RH
+- Sub-Zero - ICBBI-36R/S/TH-LH
+- Sub-Zero - ICBBI-36R/S/TH-RH
+- Sub-Zero - ICBIC-24C-LH
+- Sub-Zero - ICBIC-24C-RH
+- Sub-Zero - ICBIC-24R-LH
+- Sub-Zero - ICBIC-24R-RH
+- Sub-Zero - ICBIC-30RID-LH
+- Sub-Zero - ICBIC-30RID-RH
+- Sub-Zero - ICBIC-36RID-LH
+- Sub-Zero - ICBIC-36RID-RH
+- Sub-Zero - ICBID-24RO
+- Sub-Zero - ICBID-30R
+- Tecno - TFR 1288-V2
+- Tecumseh - PAC66Z-3L
+- Tecumseh - PAC66Z-3XL
+- Teka - TFI3 130 D
+- Toshiba - GR-AG46SDZ
+- Toshiba - GR-AG52SDZ
+- Toshiba - GR-AG55SDZ
+- Toshiba - GR-AG58SA(GG)
+- Toshiba - GR-AG58SA(XK)
+- Toshiba - GR-AG66SA(GG)
+- Toshiba - GR-AG66SA(PGB)
+- Toshiba - GR-AG66SA(XK)
+- Ty Brand - RTGD-1DC-260-IVTH
+- Ty Brand - RTGD-1DC-330-IVTH
+- Ty Brand - RTGD-1DC-IVTH-B
+- Ty Brand - RTGD-1DC-IVTH-W
+- Ty Brand - RTGD-2DC-IVTH-B
+- Ty Brand - RTGD-2DC-IVTH-W
+- Ty Brand - RTGD-3DC-IVTH-B
+- Ty Brand - RTGD-3DC-IVTH-W
+- V-ZUG - CCO4T-51087
+- V-ZUG - CCO6T-51096
+- V-ZUG - CO6T-51098
+- V-ZUG - Jumbo T
+- Whirlpool - TM500 VCC UI
+- Whirlpool - TM500 VCC UI BL
+- YUDA - YD-0217CS-IVTH
+- YUDA - YD-0217FS-IVTH
+- YUDA - YD-021CS-IVTH
+- YUDA - YD-021FS-IVTH
+- YUDA - YD-0224CS-IVTH
+- YUDA - YD-0224FS-IVTH
+- YUDA - YD-022CS-IVTH
+- YUDA - YD-022FS-IVTH
+- Yuda - YD-X50FIF-IVT
+- Yuda - YD-X63FIF-IVT
+- Yuda - YD-X70FIF-IVT
+- Yuda - YD-X80FIF-IVT
+
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, N.A. for non-SMEs
+
+Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+
+<script src='/jquery/resize-tables.js'></script>
