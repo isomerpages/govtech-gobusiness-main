@@ -79,7 +79,6 @@
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
         | **Licence Name** | **Log In To** |
-        |Rice Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
         |Rubber Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false){:target="_blank"}{:rel="noopener"}|
 - accordion:
   letter: h
@@ -376,6 +375,7 @@
         |Registration to Import Animal Feed|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Registration to Import Live Frogs for Consumption or Fish Feeding|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Registration to Import Processed Food Products and Food Appliances|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
+        |Rice Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Supermarket Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Temporary Fair Stall Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
     - title: Singapore Land Authority (SLA)
