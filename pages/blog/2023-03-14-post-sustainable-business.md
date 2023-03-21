@@ -8,12 +8,12 @@ crumbs: business-tips-and-tricks
 description: Sustainability is a major challenge but also the key to longevity for any business. Here’s how businesses can learn to embrace it.
 ---
 
-![GoBusiness Sustainable business](/images/blog/content/SustainableBusiness Feature.jpg)
+![Sustainable business](/images/blog/content/SustainableBusiness Feature.jpg)
 <figcaption> Whether your business is big or small, there are numerous ways businesses can learn to become more sustainable (Source: Shutterstock)</figcaption>
 
-Sustainability is the topic of the moment for businesses in every industry. 2022 was marked a year for [climate action](https://www.un.org/en/climatechange/why-2022-will-matter-climate-action-0){:target="_blank"}{:rel="noopener"}, as the United Nations Climate Change Conference 2021 (COP26) in November 2021 saw over 140 member countries pledge to meet net-zero emissions in the 21st century.
+Sustainability is the topic of the moment for businesses in every industry. 2022 was a marked year for [climate action](https://www.un.org/en/climatechange/why-2022-will-matter-climate-action-0){:target="_blank"}{:rel="noopener"}, as the United Nations Climate Change Conference 2021 (COP26) in November 2021 saw over 140 member countries pledge to meet net-zero emissions in the 21st century.
 
-As nations all over the world are taking decisive strides towards decarbonisation, businesses are being held more accountable, as governments and investors are pushing for companies to disclose their carbon emissions.
+As nations all over the world are taking decisive strides towards decarbonisation, businesses are being held more accountable, while governments and investors are pushing for companies to disclose their carbon emissions.
 
 Hopping on the sustainability train could be a major transition for many industries. But apart from conserving the planet, sustainability is asking business owners to make decisions that create long-term value for their business by considering how they operate in ecological, social and economic environments.
 
@@ -25,13 +25,13 @@ To begin building a green business, little steps like using sustainable products
 
 Businesses can start small by using eco-friendly stationery. Stationery is often created using unsustainable resources such as plastics that travel around the world with a huge carbon footprint, or trees that are not replanted after being sourced to make pencils and paper.
 
-Environmentally friendly stationery on the other hand, is constructed using recycled materials wherever possible, reusing wood pulp, recycled paper and spent grain. For instance, local stationery brand [the first green store](https://thefirstgreenstore.com/corporate-projects/){:target="_blank"}{:rel="noopener"} features products ranging from pencils made from recycled wood and biodegradable pens to mousepads recycled from tyres.
+Environmentally friendly stationery on the other hand, is constructed using recycled materials wherever possible, reusing wood pulp, recycled paper and spent grain. For instance, local stationery brand [The First Green Store](https://thefirstgreenstore.com/corporate-projects/){:target="_blank"}{:rel="noopener"} features products ranging from pencils made from recycled wood and biodegradable pens to mousepads recycled from tyres.
 
 Companies can also provide reusable wares as welcome gifts for employees, and avoid supplying plastic bags to customers where possible. Alternatively, they can incentivise customers who bring along their own reusable bags through small discounts or membership card points.
 
-Businesses can also save the earth and save costs at the same time, by switching to energy-efficient appliances.
+Businesses can also save the earth and save costs at the same time, by switching to energy efficient appliances.
 
-Although it may seem more economical and sustainable to maximise the use of certain electrical appliances before replacing them with energy-efficient ones, older appliances typically consume more energy when they begin to lose their functionality. In comparison, new appliances that come with more energy-efficient features that conserve more energy can help minimise your utility bills.
+Although it may seem more economical and sustainable to maximise the use of certain electrical appliances before replacing them with energy efficient ones, older appliances typically consume more energy when they begin to lose their functionality. In comparison, new appliances that come with more energy efficient features that conserve more energy can help minimise your utility bills.
 
 ![Energy Label](/images/blog/content/SustainableBusiness 1.jpeg)
 <figcaption> Energy labels indicate on a scale of one to five ticks, how energy efficient an appliance is (Source: National Environment Agency)</figcaption>
@@ -60,7 +60,7 @@ While not all your products have to be sustainable, it is important to use your 
 
 Optimising the office environment is a crucial step towards sustainability. After all, the [built environment is responsible for almost 50 per cent of annual carbon emissions](https://architecture2030.org/why-the-building-sector/#:~:text=The%20built%20environment%20generates%20nearly,for%20an%20additional%2020%25%20annually){:target="_blank"}{:rel="noopener"}. One of the most efficient ways to achieve greener practices is through digitalisation. In addition to saving paper waste, transferring the business’s data online helps to increase visibility of data within a business team.
 
-![GoBusiness Recycling in office](/images/blog/content/SustainableBusiness 2.jpeg)
+![Recycling in office](/images/blog/content/SustainableBusiness 2.jpeg)
 <figcaption> Digitalisation enables us to edit shared data in real-time, creating a more efficient workflow while conserving paper (Source: Shutterstock)</figcaption>
 
 Technology such as the Internet of Things (IoT) creates greater connectivity between assets, giving more visibility into operations within the supply chain.  For instance, Bluetooth Low Energy beacons reduce the possibility of lost parcels and inaccurate deliveries as they indicate if the correct parcel is being placed in the right truck. This allows organisations to make better decisions that ultimately support them in achieving their sustainability end-goals.
@@ -91,16 +91,16 @@ For small businesses running on a tight budget, electric transportation and opti
 
 Some smaller businesses may only need to make local deliveries on an ad hoc basis. In this case, there are plenty of affordable electric vehicle options available for them as well. For instance, ride sharing and delivery services such as [Grab](https://www.grab.com/sg/){:target="_blank"}{:rel="noopener"} and [Gojek](https://www.gojek.com/sg/){:target="_blank"}{:rel="noopener"} now have EV options for customers to choose from. The [BlueSG](https://www.bluesg.com.sg/){:target="_blank"}{:rel="noopener"} electric car rental system is also a choice for business-owners who want to make sustainable last mile deliveries on a budget.
 
-![GoBusiness EV Blue SG](/images/blog/content/SustainableBusiness 3.jpeg)
+![EV Blue SG](/images/blog/content/SustainableBusiness 3.jpeg)
 <figcaption> The BlueSG car rental system is a more affordable option for small-scale businesses to make sustainable last-mile deliveries (Source: Shutterstock)</figcaption>
 
 Another inexpensive way for businesses to offer more sustainable logistics is to use packaging made from biodegradable and recyclable materials. Brands can allow customers the choice to opt-out of using any unnecessary packaging for their purchases or selecting more eco-friendly options for packaging, thus saving any unnecessary waste from being produced. 
 
 Last but not least, as consumers get increasingly attuned to environmental matters, sustainability marketing is a key practice to better connect with a global customer base. Hence, when brands strengthen their commitments to sustainability, increasing brand transparency and communicating their sustainability plans will allow customers to better understand the business’s priorities in terms of reducing environmental impact.
 
-**While sustainability is a major challenge, there are support schemes available to help you make your first step towards a more sustainable future. The [Energy Efficiency Grant (EEG)](/energy-efficiency-grant/?src=gobiz_blog#type-of-eeg-soln){:target="_blank"}{:rel="noopener"}, was launched as part of Singapore Green Plan 2030 to encourage enterprises to adopt more sustainable and energy efficient solutions.**
+**While sustainability is a major challenge, there are support schemes available to help you make your first step towards a more sustainable future. The [launch of Energy Efficiency Grant (EEG)](/news-and-updates/updates/eeg/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} is part of Singapore Green Plan 2030 to encourage enterprises to adopt more sustainable and energy efficient solutions.**
 
-**With EEG, businesses in the relevant sectors will be able receive reimbursement  for their purchase of energy efficient equipment. You can find out more about EEG or submit your application on [GoBusiness](/energy-efficiency-grant/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}.**
+**With EEG, businesses in the relevant sectors will be able receive reimbursement  for their purchase of energy efficient equipment. You can find out more about EEG or submit your application on GoBusiness.**
 
 <em> This article is accurate as at 14 Mar 2023</em>
 
