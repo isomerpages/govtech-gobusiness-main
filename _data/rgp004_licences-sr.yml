@@ -1,7 +1,7 @@
 - image: <img style="margin:29px 0 0 29px" src="/images/grow/submitreturns-icon.png" aria-hidden="true">
   title: Submit returns 
   description: Returns can be submitted by logging in to GoBusiness Licensing. 
-  url: https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false
+  url: https://licence1.business.gov.sg/feportal/web/frontier/home
   url-new-tab: true
   text: Log In to GoBusiness Licensing
 

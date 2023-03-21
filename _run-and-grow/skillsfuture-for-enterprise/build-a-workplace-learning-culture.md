@@ -23,7 +23,7 @@ Get recognised for your workplace learning efforts through the Workplace Learnin
 
 NACE is launching a new WPL:READY mark, which is a new foundational-level workplace learning certification targeted at helping SMEs develop effective on-the-job learning processes. Certified companies can work with SSG’s appointed training partners to formally recognise the skills their workers trained on-the-job, without the need for further external training.
 
-Find out more about the [certification process](), and the [Workplace Skills Recognition programme]().
+Find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"}, and the [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=rgp_skillsfuture_step5).
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

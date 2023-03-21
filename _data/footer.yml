@@ -42,6 +42,10 @@ navlinks:
     sublinks:
       - title: Overview
         url: /covid/
+      - title: Contact tracing
+        url: /safemanagement/safeentry/?src=topnav
+      - title: Sector-Specific Requirements
+        url: /safemanagement/sector/?src=topnav
   - title: E-Services
     url: /e-services/
     sublinks:
