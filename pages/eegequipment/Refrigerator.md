@@ -22,15 +22,103 @@ Commercial refrigerator: Inverter technology
 - Bosch - KGN56XI40J
 - BRANDT - BFD8072NX
 - Carrier - 2GDB-IVTH
+- Daiwa - 201CD-EX
+- Daiwa - 201F-EC
+- Daiwa - 201HC-EX
+- Daiwa - 201LCD-EX
+- Daiwa - 201NHC-EX
+- Daiwa - 201NYCD-EX
+- Daiwa - 201NYSS-EX
 - Daiwa - 201SS-EX
+- Daiwa - 201YCD-EX
+- Daiwa - 201YSS-EX
+- Daiwa - 203CD-EX
+- Daiwa - 203HC-EX
+- Daiwa - 203LCD-EX
+- Daiwa - 203LSS-EX
+- Daiwa - 203NYSS-EX
+- Daiwa - 203SS-EX
+- Daiwa - 203YSS-EX
 - Daiwa - 221LS1-EC
+- Daiwa - 221YS1-EC
+- Daiwa - 223LS1-EC
+- Daiwa - 301CD-EX
+- Daiwa - 301CD-NP-EX
+- Daiwa - 301S1-EX
+- Daiwa - 301S2-EX
+- Daiwa - 301SS-EX
+- Daiwa - 301SS-NP-EX
+- Daiwa - 301YCD-EX
+- Daiwa - 301YCD-NP-EX
+- Daiwa - 301YS1-EX
+- Daiwa - 301YS2-EX
+- Daiwa - 301YSS-EX
+- Daiwa - 301YSS-NP-EX
+- Daiwa - 303CD-NP-EX
+- Daiwa - 303S1-EX
+- Daiwa - 303S2-EX
+- Daiwa - 303SS-EX
+- Daiwa - 303SS-NP-EX
+- Daiwa - 303YS1-EX
+- Daiwa - 303YS2-EX
+- Daiwa - 303YSS-EX
+- Daiwa - 303YSS-NP-EX
 - Daiwa - 401CD-EX
+- Daiwa - 401CD-NP-EX
+- Daiwa - 401HC-EX
+- Daiwa - 401HC-NP-EX
+- Daiwa - 401S1-EX
 - Daiwa - 401S2-EX
+- Daiwa - 401SS-EX
 - Daiwa - 401SS-NP-EX
+- Daiwa - 401YCD-EX
+- Daiwa - 401YCD-NP-EX
+- Daiwa - 401YS1-EX
 - Daiwa - 401YS2-EX
+- Daiwa - 401YSS-EX
+- Daiwa - 401YSS-NP-EX
+- Daiwa - 403CD-EX
+- Daiwa - 403CD-NP-EX
+- Daiwa - 403HC-NP-EX
+- Daiwa - 403S1-EX
+- Daiwa - 403S2-EX
+- Daiwa - 403SS-EX
+- Daiwa - 403SS-NP-EX
+- Daiwa - 403YCD-EX
+- Daiwa - 403YCD-NP-EX
+- Daiwa - 403YS1-EX
+- Daiwa - 403YS2-EX
+- Daiwa - 403YSS-EX
+- Daiwa - 403YSS-NP-EX
 - Daiwa - 4071S-EC
 - Daiwa - 4161S-EC
 - Daiwa - 441YAKP-EC
+- Daiwa - 501CD-EX
+- Daiwa - 501CD-NP-EX
+- Daiwa - 501S1-4-EX
+- Daiwa - 501S2-4-EX
+- Daiwa - 501S2-EX
+- Daiwa - 503CD-EX
+- Daiwa - 503CD-NP-EX
+- Daiwa - 503S1-4-EX
+- Daiwa - 503S2-4-EX
+- Daiwa - 503S2-EX
+- Daiwa - 503SS-EX
+- Daiwa - 503SS-NP-EX
+- Daiwa - 503YCD-EX
+- Daiwa - 503YS2-4-EX
+- Daiwa - 503YS2-EX
+- Daiwa - 503YSS-EX
+- Daiwa - 601CD-EX
+- Daiwa - 601S2-EX
+- Daiwa - 603CD-EX
+- Daiwa - 603CD-NP-EX
+- Daiwa - 603HC-EX
+- Daiwa - 603S2-EX
+- Daiwa - 603SS-EX
+- Daiwa - 603YCD-EX
+- Daiwa - 603YS2-EX
+- Daiwa - 603YSS-EX
 - Daiwa - 6071S-EC
 - Daiwa - 6161S-EC
 - Daiwa - ROP-301FCB-EC
@@ -351,6 +439,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - NR-BX471C
 - Panasonic - NR-BX471G
 - Panasonic - NR-BX471W
+- Panasonic - NR-CW530H
 - Panasonic - NR-CW530X
 - Panasonic - NR-DZ601W
 - Panasonic - NR-F503GT-N6
@@ -380,6 +469,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - OCU-NR450DSF
 - Panasonic - OCU-NS600VSFJ
 - Panasonic - OCU-NS800VSFJ
+- Panasonic - SAR-CDV390C7L-SG
 - Panasonic - SAR-CDV390LSG
 - Panasonic - SAR-CDV490LSG
 - Panasonic - SAR-CDV690LSG
@@ -543,12 +633,14 @@ Commercial refrigerator: Inverter technology
 - Samsung - RT35K553ASL
 - Samsung - RT38K503ADX
 - Samsung - RT38K503AUT
+- Samsung - RT42CG6644S9
 - Samsung - RT43K6037SL
 - Samsung - RT43K6037UT
 - Samsung - RT43K6057B1
 - Samsung - RT46K6237BS
 - Samsung - RT46K6237DX
 - Samsung - RT46K6237SL
+- Samsung - RT47CG6444S9
 - Samsung - RT50K6257B1
 - Samsung - RT50K6257S8
 - Samsung - RT50K6257UT
@@ -586,6 +678,8 @@ Commercial refrigerator: Inverter technology
 - SHARP - SJ-RX34E-SL2
 - SHARP - SJ-RX38E-SL2
 - SHARP - SJ-RX42E-SL2
+- SHARP - SJ-SS60E-DS
+- SHARP - SJ-SS60G-BK
 - SHARP - SJ-VX57ES-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
@@ -680,104 +774,3 @@ Commercial refrigerator: Inverter technology
 - SMEG - FAB32RWH5
 - SMEG - FAB32RWH5UK
 - SMEG - FAB5LBL3
-- SMEG - FAB5LBL5
-- SMEG - FAB5LCR3
-- SMEG - FAB5LCR5
-- SMEG - FAB5LDUJ3
-- SMEG - FAB5LDUJ5
-- SMEG - FAB5LOR3
-- SMEG - FAB5LOR5
-- SMEG - FAB5LPB3
-- SMEG - FAB5LPB5
-- SMEG - FAB5LPG3
-- SMEG - FAB5LPG5
-- SMEG - FAB5LPK3
-- SMEG - FAB5LPK5
-- SMEG - FAB5LRD3
-- SMEG - FAB5LRD5
-- SMEG - FAB5LSV3
-- SMEG - FAB5LSV5
-- SMEG - FAB5LWH3
-- SMEG - FAB5LWH5
-- SMEG - FAB5RBL3
-- SMEG - FAB5RBL5
-- SMEG - FAB5RCR3
-- SMEG - FAB5RCR5
-- SMEG - FAB5RDGO3
-- SMEG - FAB5RDGO5
-- SMEG - FAB5RDUJ3
-- SMEG - FAB5RDUJ5
-- SMEG - FAB5ROR3
-- SMEG - FAB5ROR5
-- SMEG - FAB5RPB3
-- SMEG - FAB5RPB5
-- SMEG - FAB5RPG3
-- SMEG - FAB5RPG5
-- SMEG - FAB5RPK3
-- SMEG - FAB5RPK5
-- SMEG - FAB5RRD3
-- SMEG - FAB5RRD5
-- SMEG - FAB5RSV3
-- SMEG - FAB5RSV5
-- SMEG - FAB5RWH3
-- SMEG - FAB5RWH5
-- SOLID COOL - SC- 2DBB
-- SOLID COOL - SC-3DTF
-- SOLID COOL - SXS-500Y
-- SOLID COOL - SXS-700Y
-- Sub-Zero - ICBBI-36R/S/PH-LH
-- Sub-Zero - ICBBI-36R/S/PH-RH
-- Sub-Zero - ICBBI-36R/S/TH-LH
-- Sub-Zero - ICBBI-36R/S/TH-RH
-- Sub-Zero - ICBIC-24C-LH
-- Sub-Zero - ICBIC-24C-RH
-- Sub-Zero - ICBIC-24R-LH
-- Sub-Zero - ICBIC-24R-RH
-- Sub-Zero - ICBIC-30RID-LH
-- Sub-Zero - ICBIC-30RID-RH
-- Sub-Zero - ICBIC-36RID-LH
-- Sub-Zero - ICBIC-36RID-RH
-- Sub-Zero - ICBID-24RO
-- Sub-Zero - ICBID-30R
-- Tecno - TFR 1288-V2
-- Teka - TFI3 130 D
-- Toshiba - GR-AG46SDZ
-- Toshiba - GR-AG52SDZ
-- Toshiba - GR-AG55SDZ
-- Toshiba - GR-AG58SA(GG)
-- Toshiba - GR-AG58SA(XK)
-- Toshiba - GR-AG66SA(GG)
-- Toshiba - GR-AG66SA(PGB)
-- Toshiba - GR-AG66SA(XK)
-- Ty Brand - RTGD-1DC-260-IVTH
-- Ty Brand - RTGD-1DC-330-IVTH
-- Ty Brand - RTGD-1DC-IVTH-B
-- Ty Brand - RTGD-1DC-IVTH-W
-- Ty Brand - RTGD-2DC-IVTH-B
-- Ty Brand - RTGD-2DC-IVTH-W
-- Ty Brand - RTGD-3DC-IVTH-B
-- Ty Brand - RTGD-3DC-IVTH-W
-- V-ZUG - CCO4T-51087
-- V-ZUG - CCO6T-51096
-- V-ZUG - CO6T-51098
-- V-ZUG - Jumbo T
-- Whirlpool - TM500 VCC UI
-- Whirlpool - TM500 VCC UI BL
-- Yuda - YD-X50FIF-IVT
-- Yuda - YD-X63FIF-IVT
-- Yuda - YD-X70FIF-IVT
-- Yuda - YD-X80FIF-IVT
-
-### Mode and Schedule of Payment 
-
-- Direct Purchase
-
-### Support Level and Conditions
-
-Up to 70% for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
-
-<script src='/jquery/resize-tables.js'></script>
