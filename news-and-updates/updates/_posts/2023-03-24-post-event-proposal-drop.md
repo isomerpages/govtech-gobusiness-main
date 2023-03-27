@@ -4,7 +4,7 @@ title: Launch of Guide for Organising Events & Events Proposal Drop
 permalink: /news-and-updates/updates/guide-for-organising-events
 published: true
 preview: |
-  GoBusiness has launched e-Adviser for Events, a new feature to help event organisers find out which licences and permits they need to organise a physical event in Singapore.
+  GoBusiness has launched an Events proposal drop for event organisers seeking collaboration with the government.
 image: /images/news/News_Events eAdviser launch.jpg
 ---
 
