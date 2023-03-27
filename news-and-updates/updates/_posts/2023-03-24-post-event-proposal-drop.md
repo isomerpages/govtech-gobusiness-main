@@ -3,6 +3,9 @@ layout: post
 title: Launch of Guide for Organising Events & Events Proposal Drop
 permalink: /news-and-updates/updates/guide-for-organising-events
 published: true
+preview: |
+  SGoBusiness has launched the Guide for Organising Events, a new events page to provide organisers with tools to navigate the process of organsing events in Singapore such as e-Adviser for Events and Event Proposal Drop.
+image: /images/news/News_Events eAdviser launch.jpg
 ---
 
 ## Launch of Guide for Organising Events & Events Proposal Drop
