@@ -3,7 +3,7 @@ panels:
     image: /images/signpost.svg
     alt: ""
     links:
-      - text: Events Guide
+      - text: Guide for Organising Events
         href: /gobiz-guides/guide-for-organising-events/?src=eservices
         target: _blank
         is_new: true
