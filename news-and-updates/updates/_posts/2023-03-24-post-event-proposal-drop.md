@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Launch of Guide for Organising Events & Events Proposal Drop
+title: Launch of Events Proposal Drop and Guide for Organising Events
 permalink: /news-and-updates/updates/guide-for-organising-events
 published: true
 preview: |
-  GoBusiness has launched an Events proposal drop for event organisers seeking collaboration with the government.
+  GoBusiness has launched an Events proposal drop for event organisers seeking collaboration with the government. Other tools to help businesses navigate the process of organising events can also be found on the newly launched Guide for Organising Events.
 image: /images/news/News_Events eAdviser launch.jpg
 ---
 
@@ -16,4 +16,4 @@ GoBusiness has launched the [Guide for Organising Events](/gobiz-guides/guide-fo
 
 ### How does Events Proposal Drop work?
 
-The Event Proposal Drop allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for MICE, Sports and Fitness events are accepted.
+The newly launched Event Proposal Drop allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for MICE, Sports and Fitness events are accepted.
