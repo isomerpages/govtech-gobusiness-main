@@ -95,6 +95,7 @@ Induction technology
 - Mayer - MMIH302HS
 - Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
+- OZTI - 7865.N1.80903.IS
 - ROLLER GRILL Sia-Huat - (238SD-PIC25)
 - ROLLER GRILL Sia-Huat - (238SD-PID30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)
