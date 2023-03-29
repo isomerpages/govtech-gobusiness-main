@@ -8,7 +8,7 @@ preview: |
 image: /images/news/News_Events eAdviser launch.jpg
 ---
 
-## Launch of Guide for Organising Events & Events Proposal Drop
+## Launch of Events Proposal Drop and Guide for Organising Events
 
 ![](/images/news/News_Events eAdviser launch.jpg)
 
