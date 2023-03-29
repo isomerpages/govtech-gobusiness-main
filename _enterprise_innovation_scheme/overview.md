@@ -98,13 +98,13 @@ Businesses undertaking innovation projects that are capital in nature and do not
 
 Qualifying innovation projects refer to projects that predominantly involve one or more of the following innovation activities defined within the Oslo Manual 2018:
 
-a. Research and experimental development activities;
+    a. Research and experimental development activities;
 
-b. Engineering, design and other creative work activities;
+    b. Engineering, design and other creative work activities;
 
-c. IP-related activities; and
+    c. IP-related activities; and
 
-d. Software development and database activities.
+    d. Software development and database activities.
 
 This scheme will be administered by the partner institutions. The partner institutions will validate the project as a qualifying innovation project and issue the innovation project invoice. Expenditure incurred outside of the collaboration with the partner institutions will not qualify for this tax deduction. 
 
@@ -117,84 +117,84 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
     <th style='width: auto;'> <b>Contact</b> </th>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Aquaculture Innovation Centre<br>(Temasek Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr Lee Chee Wee<br><a href="mailto:leecw@tp.edu.sg">leecw@tp.edu.sg</a><br><br>
         Dr Diana Chan Pek Sian<br><a href="mailto:peksian@tp.edu.sg">peksian@tp.edu.sg</a><br><br>
         Ms Susila Krishnasamy<br><a href="mailto:krishnas@tp.edu.sg">krishnas@tp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Centre of Innovation for Complementary Health Products<br>(Temasek Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr Edmund Tian<br><a href="mailto:Edmund_TIAN@tp.edu.sg">Edmund_TIAN@tp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Centre of Innovation for Electronics and IoT<br>(Nanyang Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Mr John Fung<br><a href="mailto:John_FUNG@nyp.edu.sg">John_FUNG@nyp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Centre of Innovation for Supply Chain Management<br>(Republic Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Mr Edmund Chan<br><a href="mailto:coi-scm@rp.edu.sg">coi-scm@rp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Environment and Water Technology Centre of Innovation<br>(Ngee Ann Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Ms Ida Kwan<br><a href="mailto:Ida_KWAN@np.edu.sg">Ida_KWAN@np.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Food Innovation & Resource Centre<br>(Singapore Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Ms Tan Jia Hui<br><a href="mailto:TAN_Jia_Hui@sp.edu.sg">TAN_Jia_Hui@sp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Precision Engineering Centre of Innovation<br>(SIMTech)
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr Chua Beng Wah<br><a href="bwchua@simtech.a-star.edu.sg">bwchua@simtech.a-star.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         The Centre of Innovation for Beauty and Personal Care<br>(Singapore Polytechnic)
     </td>
-    <td style='width: auto;'>
+    <td>
         Ms Jessie Tong<br><a href="mailto:Jessie_TONG@sp.edu.sg">Jessie_TONG@sp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         The Centre of Innovation for Built Environment – Advanced Materials
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr. Yin Xi Jiang<br><a href="mailto:YIN_Xi_Jiang@sp.edu.sg">YIN_Xi_Jiang@sp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Urban Agriculture Centre of Innovation
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr Ritu Bhalla<br><a href="mailto:ritu_bhalla@rp.edu.sg">ritu_bhalla@rp.edu.sg</a>
     </td>
 </tr>
@@ -207,42 +207,42 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
     <th style='width: auto;'> <b>Contact</b> </th>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Nanyang Polytechnic
     </td>
-    <td style='width: auto;'>
+    <td>
         <a href="mailto:ryan_tan@nyp.edu.sg">ryan_tan@nyp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Ngee Ann Polytechnic
     </td>
-    <td style='width: auto;'>
+    <td>
         <a href="mailto:ewtcoi@np.edu.sg">ewtcoi@np.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Republic Polytechnic
     </td>
-    <td style='width: auto;'>
+    <td>
         <a href="mailto:Help-OTD@rp.edu.sg">Help-OTD@rp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Singapore Polytechnic
     </td>
-    <td style='width: auto;'>
+    <td>
         <a href="mailto:Jonathan_ng@sp.edu.sg">Jonathan_ng@sp.edu.sg</a>
     </td>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Temasek Polytechnic
     </td>
-    <td style='width: auto;'>
+    <td>
         <a href="mailto:rtd@tp.edu.sg">Jrtd@tp.edu.sg</a>
     </td>
 </tr>
@@ -255,10 +255,10 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
     <th style='width: auto;'> <b>Contact</b> </th>
 </tr>
 <tr>
-    <td style='width: 30%;'> 
+    <td> 
         Institute of Technical Education
     </td>
-    <td style='width: auto;'>
+    <td>
         Dr. Lee Teck Kheng<br><a href="mailto:lee_teck_kheng@ite.edu.sg">lee_teck_kheng@ite.edu.sg</a>
     </td>
 </tr>
