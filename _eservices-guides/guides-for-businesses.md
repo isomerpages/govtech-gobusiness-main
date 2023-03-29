@@ -45,7 +45,7 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 
 ### For organising events
 
-The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbiz' target='_blank' rel='noopener'>Guide for Organising Events</a><span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span> provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Drop.
+The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbiz'>Guide for Organising Events</a><span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span> provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Drop.
 
 The Events Proposal Drop allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for Sporting and MICE events are accepted.
 
