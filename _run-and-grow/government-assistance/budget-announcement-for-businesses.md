@@ -25,7 +25,7 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include letter-accordion.html accordions=site.data.acc074-budget letter="b" %}
 
-#### Toolkits / Programmes
+#### Tax incentives
 
 {% include letter-accordion.html accordions=site.data.acc074-budget letter="c" %}
 
