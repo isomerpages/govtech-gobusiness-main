@@ -7,7 +7,7 @@ The Guide for Organising Events provides event organisers with tools to navigate
 
 ![Guide for Organising Events Overview](/images/gobiz-guides/Guide-for-Organising-Events.jpg)
 
-<a name="propose_unique_events"></a>
+<a name="proposal_drop"></a>
 ### Propose unique events or seek partnership and collaboration with the government
 
 The Events Proposal Drop allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for Sporting and MICE events are accepted.
