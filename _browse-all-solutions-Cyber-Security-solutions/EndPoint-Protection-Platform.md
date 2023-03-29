@@ -67,6 +67,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3151' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4189' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
+<td>Rah Tech Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

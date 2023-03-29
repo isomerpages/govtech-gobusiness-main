@@ -119,6 +119,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4060' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4198' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
+<td>Zetta Solution Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

@@ -46,9 +46,9 @@ The support provided by the grant goes up to 70 per cent of qualifying costs, ca
 
 You can check out the extended list of the products supported by the EEG on GoBusiness.
 
-In the age of e-commerce, businesses today use websites and online platforms to conduct sales. Running a website, however, is energy-intensive. According to Web Neutral Project founder Jack Amend, powering a website produces 4,500 pounds of CO<sup>2</sup> a year, which is equivalent to driving a new car for more than 10,000 miles. In fact, the internet produces almost as much pollution as the airline industry.
+In the age of e-commerce, businesses today use websites and online platforms to conduct sales. Running a website, however, is energy-intensive. According to Web Neutral Project founder Jack Amend, powering a website produces 4,500 pounds of CO<sub>2</sub> a year, which is equivalent to driving a new car for more than 10,000 miles. In fact, the internet produces almost as much pollution as the airline industry.
 
-To cut down on CO<sup>2</sup> emissions, businesses can play their part by using green web-hosting services for their website needs. Green web hosting companies purchase renewable energy credits to offset the energy used by the website, making your website operations carbon neutral, or even negative.
+To cut down on CO<sub>2</sub> emissions, businesses can play their part by using green web-hosting services for their website needs. Green web hosting companies purchase renewable energy credits to offset the energy used by the website, making your website operations carbon neutral, or even negative.
 
 For instance, the [GreenGeeks](https://www.greengeeks.com/){:target="_blank"}{:rel="noopener"} web hosting service purchases three units of renewable energy back into the grid for every unit of energy it uses, making their customers’ website operations carbon-reducing. 
 

@@ -1,0 +1,74 @@
+- accordion:
+  letter: a
+  data:
+    - title: Part-Time Re-employment Grant (PTRG) <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        The Part-Time Re-employment Grant (PTRG) supports companies that offer part-time re-employment, other flexible work arrangements and structured career planning to senior workers.
+
+        <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Senior Employment Credit <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        The Senior Employment Credit provides wage offsets to employers that hire Singaporean workers aged 60 and above, and earning up to $4,000 a month.
+
+        <a href="https://go.gov.sg/sec-cto-eec" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Enabling Employment Credit <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        The Enabling Employment Credit provides wage offsets to employers hiring persons with disabilities.
+
+        <a href="https://go.gov.sg/sec-cto-eec" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Progressive Wage Credit Scheme <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        Provides transitional support to employers for Progressive Wages moves, by co-funding wage increases of lower-wage workers between 2022 and 2026.
+
+        <a href="https://go.gov.sg/askpwcs" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Energy Efficiency Grant (EEG) <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        Extension of support from 1 April 2023 to 31 March 2024 for up to 70% of qualifying costs, capped at $30k, for adoption of pre-approved list of energy efficiency equipment for SMEs in Food Services, Food Manufacturing, or Retail Sectors.
+
+        <a href="/energy-efficiency-grant/">Find Out More</a>
+
+    - title: Small Business Recovery Grant <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        The Uplifting Employment Credit provides wage offsets to employers hiring ex-offenders.
+
+        <a href="https://iras.gov.sg/schemes/disbursement-schemes/uplifting-employment-credit-(uec)" target="_blank" rel="noopener">Find Out More</a>
+
+- accordion:
+  letter: b
+  data:
+    - title: Enhanced Enterprise Financing Scheme - Project Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        Extension of support for domestic projects for construction sector from 1 April 2023 to 31 March 2024.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/project-loan/overview" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Enhanced Enterprise Financing Scheme - Working Capital Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        Receive greater financing support to bridge your working capital gaps. Maximum supported loan of $500,000.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/sme-working-capital/overview" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Enhanced Enterprise Financing Scheme - Trade Loan  <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+      content: |
+        Extension of enhanced support for trade financing needs from 1 April 2023 to 31 March 2024, admist inflationary pressures. Maximum supported loan of $10 million, with 70% Government risk-share.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/trade-loan/overview" target="_blank" rel="noopener">Find Out More</a>
+
+- accordion:
+  letter: c
+  data:
+      - title: Enterprise Innovation Scheme <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+        content: |
+          Enhanced deductions for R&D, innovation and capability development activities, with the option to partially convert to a cash payout in lieu of tax deductions.
+
+          <a href="https://www.go.gov.sg/iras-eis" target="_blank" rel="noopener">Find Out More</a>
+
+      - title: Corporate Volunteer Scheme (CVS) <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+        content: |
+          Under the CVS, businesses enjoy 250% tax deduction on wages and qualifying expenses when their staff volunteer or provide services to IPCs, including through secondments. Qualifying expenditure is subject to a cap of $250,000 per business per YA, and a cap of $100,000 per IPC per CY. The CVS (previously known as Business and IPC Partnership Scheme) was extended by three years to end-2026.
+
+          <a href="https://www.cityofgood.sg/organisations" target="_blank" rel="noopener">Find Out More</a>

@@ -12,6 +12,9 @@ Heat pump technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Danube - DD11HP SILVER ET2
+- Danube - DD16HP SILVER ET2
+- Danube - DD23HP SILVER ET2
 - Electrolux - EDH803Q7WB
 - Electrolux - EDH804H3WB
 - Electrolux - EDH804H5WB
