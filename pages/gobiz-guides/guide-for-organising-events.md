@@ -7,8 +7,6 @@ The Guide for Organising Events provides event organisers with tools to navigate
 
 ![Guide for Organising Events Overview](/images/gobiz-guides/Guide-for-Organising-Events.jpg)
 
-{% include overview.html anchorlinks=site.data.ov012-guide-for-organising-events %}
-
 <a name="propose_unique_events"></a>
 ### Propose unique events or seek partnership and collaboration with the government
 
