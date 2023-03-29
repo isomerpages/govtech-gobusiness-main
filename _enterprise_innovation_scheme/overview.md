@@ -7,11 +7,7 @@ permalink: /enterprise-innovation-scheme/
 
 Businesses planning to engage in research and development (“R&D”) and innovation and capability development activities may qualify for enhanced tax deductions. Eligible businesses may also opt to convert up to $100,000 of the total qualifying expenditure for each Year of Assessment (“YA”) into cash at a conversion rate of 20%.
 
-{% include overview.html anchorlinks=site.data.ov005-grow-eeg %}
-
 ----
-
-<a name='eeg-eligibility'></a>
 
 ### Summary of benefits
 
@@ -98,13 +94,13 @@ Businesses undertaking innovation projects that are capital in nature and do not
 
 Qualifying innovation projects refer to projects that predominantly involve one or more of the following innovation activities defined within the Oslo Manual 2018:
 
-    a. Research and experimental development activities;
+a. Research and experimental development activities;
 
-    b. Engineering, design and other creative work activities;
+b. Engineering, design and other creative work activities;
 
-    c. IP-related activities; and
+c. IP-related activities; and
 
-    d. Software development and database activities.
+d. Software development and database activities.
 
 This scheme will be administered by the partner institutions. The partner institutions will validate the project as a qualifying innovation project and issue the innovation project invoice. Expenditure incurred outside of the collaboration with the partner institutions will not qualify for this tax deduction. 
 
@@ -265,46 +261,6 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 </table>
 
 Click <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/centres-of-innovation" target="_blank" rel="noopener">here</a> for more information about Centres of Innovation.
-
------
-
-{% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
-
-**Note:**
-
-- From 1 Sep 2022 to 31 Mar 2024, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
-
-- Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
-
-- This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share their Corppass with the vendors to carry out submission of any grant applications or claims.
-
-----
-
-<a name='type-of-eeg-soln'></a>
-
-### Types of EE Equipment
-
-The following equipment categories are supported under the EEG:
-
-- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
-
-- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
-
-- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
-
-- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
-
-- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
-
-- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
-
-----
-
-<a name='eeg-faq'></a>
-
-### FAQ
-
-Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
