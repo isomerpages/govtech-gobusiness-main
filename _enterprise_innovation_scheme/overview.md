@@ -113,8 +113,8 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 **Centres of Innovation**
 <table>
 <tr>
-    <th style='width: 30%;'> <b>Partner Institution</b> </th>
-    <th style='width: auto;'> <b>Contact</b> </th>
+    <th> <b>Partner Institution</b> </th>
+    <th> <b>Contact</b> </th>
 </tr>
 <tr>
     <td> 
@@ -203,8 +203,8 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 **Polytechnics**
 <table>
 <tr>
-    <th style='width: 30%;'> <b>Partner Institution</b> </th>
-    <th style='width: auto;'> <b>Contact</b> </th>
+    <th> <b>Partner Institution</b> </th>
+    <th> <b>Contact</b> </th>
 </tr>
 <tr>
     <td> 
@@ -251,8 +251,8 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 **The Institute of Technical Education**
 <table>
 <tr>
-    <th style='width: 30%;'> <b>Partner Institution</b> </th>
-    <th style='width: auto;'> <b>Contact</b> </th>
+    <th> <b>Partner Institution</b> </th>
+    <th> <b>Contact</b> </th>
 </tr>
 <tr>
     <td> 
@@ -305,3 +305,5 @@ The following equipment categories are supported under the EEG:
 ### FAQ
 
 Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
+
+
