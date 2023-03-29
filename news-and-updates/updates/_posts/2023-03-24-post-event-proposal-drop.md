@@ -14,4 +14,4 @@ image: /images/news/News_Events eAdviser launch.jpg
 
 The newly launched Events Proposal Drop allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for MICE, and Sports and Fitness events are accepted.
 
-GoBusiness has also launched the [Guide for Organising Events](/gobiz-guides/guide-for-organising-events/?src=news){:target="_blank"}, a new events page to provide organisers with tools to navigate the process of organsing events in Singapore such as e-Adviser for Events and Events Proposal Drop.
+GoBusiness has also launched the [Guide for Organising Events](/gobiz-guides/guide-for-organising-events/?src=news){:target="_blank"}, a new events page to provide organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Drop.
