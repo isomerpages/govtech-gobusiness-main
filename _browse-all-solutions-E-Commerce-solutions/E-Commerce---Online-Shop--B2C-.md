@@ -179,6 +179,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4101' target='_blank'>Mobile Responsive E-Commerce</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4194' target='_blank'>GuideToEcom Premium</a><br></td>
+<td>Guidesify Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
