@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Enhanced-Retail-Management
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs,  for non-SMEs
+Up to 50% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

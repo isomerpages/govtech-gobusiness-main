@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--
 
 **Support Level and Conditions**
 
-Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -82,10 +82,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2771' target='_blank'>ePSProfessional Version 1.7</a><br></td>
 <td>Efusion Technology Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2873' target='_blank'>TRC e-Commerce Solutions</a><br></td>
-<td>The Right Company Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2987' target='_blank'>Cub3commerce</a><br></td>

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2495
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ## Solution Packages Option(s)
 

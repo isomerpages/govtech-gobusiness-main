@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs,  for non-SMEs
+Up to 50% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
