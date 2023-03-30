@@ -239,7 +239,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
         Temasek Polytechnic
     </td>
     <td>
-        <a href="mailto:rtd@tp.edu.sg">Jrtd@tp.edu.sg</a>
+        <a href="mailto:rtd@tp.edu.sg">rtd@tp.edu.sg</a>
     </td>
 </tr>
 </table>
