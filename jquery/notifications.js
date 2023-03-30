@@ -38,7 +38,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**NEA DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance from 29 Mar 2023 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance from 29 Mar 2023 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
 
 
   //[**SINGPASS**]
@@ -59,7 +59,7 @@ const custom_notifications = [
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 31 Dec 2022 11pm to 1 Jan 2023 12pm. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 2 Apr 2023 12am to 6am. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 3 Mar 2023 8pm to 4 Mar 2023 7am<br>(2) 5 Mar 2023 12am to 4pm",
 
   //[**APEX / EDH**]
