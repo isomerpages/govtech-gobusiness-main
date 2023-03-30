@@ -41,7 +41,7 @@ const customTables = [
   },
   {
     path: "/enterprise-innovation-scheme/",
-    columns: ["30%", "auto"]
+    columns: ["50%", "auto"]
   },
   {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/",
