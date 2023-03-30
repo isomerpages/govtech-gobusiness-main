@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Estate-Agency/Document-Management-for-Estate-Ag
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

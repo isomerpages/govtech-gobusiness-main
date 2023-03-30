@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-Sys
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs,  for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
