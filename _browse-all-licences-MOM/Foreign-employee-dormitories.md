@@ -10,7 +10,7 @@ Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MOM" src="http://www.mom.gov.sg/foreign-employee-dormitories" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/25fb6fbb-3bd5-4ed1-afc7-4949cbdfaf86" type="primary" %}
 
 <H3>Application Details</H3>
 
