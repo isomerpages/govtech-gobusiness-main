@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3055
 
 **Description**
 
-The digital marketing solutions could help SMEs to achieve 50-80% improvement in brand exposure, lead generation and sales conversion on digital channels, including Social Media (Facebook & Instagram) and Search Engine (Google organic search & Ads). The solutions cover objective definition to market research, strategy development & execution, as well as review & improvement. To ensure sustainability, training will be provided to equip SMEs with the right mindset and skills in digital marketing.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] The digital marketing solutions could help SMEs to achieve 50-80% improvement in brand exposure, lead generation and sales conversion on digital channels, including Social Media (Facebook & Instagram) and Search Engine (Google organic search & Ads). The solutions cover objective definition to market research, strategy development & execution, as well as review & improvement. To ensure sustainability, training will be provided to equip SMEs with the right mindset and skills in digital marketing.
 
 ## Solution Packages Option(s)
 

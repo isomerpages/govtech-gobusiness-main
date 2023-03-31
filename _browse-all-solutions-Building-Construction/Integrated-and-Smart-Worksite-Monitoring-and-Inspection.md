@@ -8,9 +8,17 @@ permalink: /browse-all-solutions-Building-Construction/Integrated-and-Smart-Work
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs,  for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by BCA.
+
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021007501'  target='_blank' rel='noopener'>1. BIM Intermediate Essential Training - Structural Modelling</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014590'  target='_blank' rel='noopener'>2. Projects-based BIM Revit Basic and Documentation Training</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014378'  target='_blank' rel='noopener'>3. Projects-based BIM Revit Architecture Modelling Advanced</a><br>
 
 ## Pre-Approved Solutions
 
