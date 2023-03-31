@@ -353,15 +353,6 @@
 
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
-        **Rice Licence**
-
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
-        A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry on wholesale dealings in rice.
-
-        <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Rice-Licence)
-
-        -----
         **Rubber Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -1286,7 +1277,7 @@
 
         Under the Foreign Employee Dormitories Act, from 1 January 2016, operators of dormitories that can house 1,000 or more foreign employees need to obtain a licence from MOM.
 
-        <a class="btn" href="http://www.mom.gov.sg/foreign-employee-dormitories" target="_blank" rel="noopener">Apply on MOM</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-employee-dormitories)
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/25fb6fbb-3bd5-4ed1-afc7-4949cbdfaf86" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-employee-dormitories)
 
         -----
         **Work passes and permits**
@@ -2042,6 +2033,15 @@
         <p>Registration to Import Processed Food Products and Food Appliances is required if Traders involve in the import of processed food (not containing meat and fish products, fresh fruits and vegetables) and food appliances.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
 
         <a class="btn" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Processed-Food-Products-and-Food-Appliances)
+
+        -----
+        **Rice Licence**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry on wholesale dealings in rice.
+
+        <a class="btn" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Food-Agency-(SFA)/Rice-Licence)
 
         -----
         **Supermarket Licence**
