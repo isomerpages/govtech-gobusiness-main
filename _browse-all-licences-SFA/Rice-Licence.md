@@ -17,5 +17,5 @@ Singapore Food Agency (SFA)
 <p>In Singapore, rice is a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) 1990 issued by the Minister of Trade and Industry.</p>
 <p>A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry on wholesale dealings in rice.</p>
 <p>Please visit <a href="https://rice.sfa.gov.sg" target="_blank" rel="noopener">Rice Website</a> for more information.</p>
-<p>The frequently asked questions (FAQ) on Rice are also listed in <a href="https://rice.sfa.gov.sg/FAQ.aspx" target="_blank" rel="noopener">Rice Website FAQs</a>.</p>
+<p>The frequently asked questions (FAQ) on Rice are also listed in <a href="https://rice.sfa.gov.sg/FAQs.aspx" target="_blank" rel="noopener">Rice Website FAQs</a>.</p>
 
