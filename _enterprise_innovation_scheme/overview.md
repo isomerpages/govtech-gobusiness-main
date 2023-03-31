@@ -78,7 +78,7 @@ An option to convert up to $100,000 of the total qualifying expenditure across a
 </tr>
 <tr>
     <td> 
-        Innovation projects carried out with polytechnics, the ITE or other qualified partners<br><br><a href="https://www.iras.gov.sg/schemes/disbursement-schemes/enterprise-innovation-scheme-(eis)" target="_blank" rel="noopener">Find out more about the EIS</a>
+        Innovation projects carried out with polytechnics, the ITE or other qualified partners
     </td>
     <td>
         <ul>
@@ -87,6 +87,8 @@ An option to convert up to $100,000 of the total qualifying expenditure across a
     </td>
 </tr>
 </table>
+
+<a href="https://www.iras.gov.sg/schemes/disbursement-schemes/enterprise-innovation-scheme-(eis)" target="_blank" rel="noopener">Find out more about the EIS</a>
 
 ### Innovation Projects carried out with Polytechnics, the ITE or other qualified partners
 
