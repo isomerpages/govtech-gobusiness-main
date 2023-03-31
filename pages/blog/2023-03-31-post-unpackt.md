@@ -9,7 +9,7 @@ description: Cost savings is one of many perks small business owners can enjoy w
 ---
 
 ![Co-founders of Unpackt](/images/blog/content/Unpackt Feature.jpg)
-<figcaption>Florence Tay (right), first started Unpackt with her Co-founder Jeff Lam, after realising that sustainability can be a practical business move (Source: Unpackt)</figcaption>
+<figcaption>Florence Tay (right), first started Unpackt with her Co-founder Jeff Lam, after realising that sustainability can be a practical business move (Image: Unpackt)</figcaption>
 
 When Florence Tay first had her daughter, she was eager to provide her with the best. Among other things, this meant sourcing organic foods for meals. But she soon found that shopping for organic food in Singapore was expensive and oftentimes wasteful, as her small family often could not finish the amount of pre-packaged food purchased before their expiry date. 
 
@@ -36,7 +36,7 @@ She also encourages business owners to reuse packaging or to encourage customers
 Another avenue businesses can look into to become more sustainable is in their own internal operations. For instance, they can consider purchasing in bulk when stocking up their corporate pantries to avoid packaging waste.
 
 ![Unpackt’s interior and goods](/images/blog/content/Unpackt 1.jpg)
-<figcaption>Purchasing food items in bulk for corporate pantries can be an easy first step for businesses to reduce packaging and food waste while saving cost (Source: Unpackt)</figcaption>
+<figcaption>Purchasing food items in bulk for corporate pantries can be an easy first step for businesses to reduce packaging and food waste while saving cost (Image: Unpackt)</figcaption>
 
 Unpackt offers corporate pantry services where businesses can order staples like coffee, tea or snacks in large bins or containers. In the office, employees can then help themselves to these items with reusable cups or bowls that they either bring from home, or are for shared use in the pantry. 
 
@@ -56,10 +56,10 @@ Resources are limited and Singapore’s only landfill, Pulau Semakau, is filling
 
 Already, Singapore has been taking steps to become a Zero Waste Nation. The [Mandatory Packaging Reporting](https://www.nea.gov.sg/our-services/waste-management/mandatory-packaging-reporting){:target="_blank"}{:rel="noopener"} scheme, for instance, requires companies to provide information on the packaging they are introducing into the country annually.
 
-“We might as well buck while [the trend] is new, so that we have time to finetune the process [of reducing packaging waste],” Florence says. 
+“We might as well buck [the trend] while it's new, so that we have time to finetune the process [of reducing packaging waste],” Florence says. 
 
 ![Gravity bins for bulk sale of food items](/images/blog/content/Unpackt 2.jpg)
-<figcaption>While there may be initial start-up costs when businesses decide to remove packaging, they can benefit from cost savings in the long run (Source: Unpackt)</figcaption>
+<figcaption>While there may be initial start-up costs when businesses decide to remove packaging, they can benefit from cost savings in the long run (Image: Unpackt)</figcaption>
 
 Nevertheless, she acknowledges that pursuing sustainability and making the effort to reduce packaging waste can be time consuming and troublesome, but believes that someone, somehow, has to start making a change.
 
