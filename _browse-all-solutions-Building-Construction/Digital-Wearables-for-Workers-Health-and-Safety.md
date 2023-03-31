@@ -8,9 +8,17 @@ permalink: /browse-all-solutions-Building-Construction/Digital-Wearables-for-Wor
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs,  for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by BCA.
+
+**Recommended courses**
+
+
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505582'  target='_blank' rel='noopener'>1. Enhance Productivity Using Virtual Collaboration Tools</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500793'  target='_blank' rel='noopener'>2. Contribute to the Design and Development of a Productivity Framework</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013033'  target='_blank' rel='noopener'>3. Apply Productivity Improvement Tools</a><br>
 
 ## Pre-Approved Solutions
 

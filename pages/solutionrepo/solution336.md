@@ -25,7 +25,7 @@ Cost of equipment capped at $35,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
 <td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'>- Minimum vacuum chamber surface area (Length x Width) of 2184cm2<br><br></td>
+<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
 </tr>
 </table>
 

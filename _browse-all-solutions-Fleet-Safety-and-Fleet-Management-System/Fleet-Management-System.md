@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -42,10 +42,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3836' target='_blank'>Fleet Management Solutions</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3860' target='_blank'>FleetManager Version 5.0</a><br></td>
-<td>LogisFleet Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3963' target='_blank'>V3Nity-FMS Fleet Management System Version 3.0</a><br></td>

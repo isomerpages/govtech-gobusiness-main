@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -62,10 +62,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2778' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
 <td>Roycemedia Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2845' target='_blank'>Sophos Firewall</a><br></td>
-<td>Centrics Networks Ptd Ltd </td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3064' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
