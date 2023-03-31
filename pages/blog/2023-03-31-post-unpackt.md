@@ -63,7 +63,7 @@ Already, Singapore has been taking steps to become a Zero Waste Nation. The [Man
 
 Nevertheless, she acknowledges that pursuing sustainability and making the effort to reduce packaging waste can be time consuming and troublesome, but believes that someone, somehow, has to start making a change.
 
-Business owners need to think more about the future, according to Florence. she says. 
+Business owners need to think more about the future, according to Florence. 
 
 From her experience of running Unpackt, she reveals that reusing packaging or encouraging customers to refill their goods may incur a larger start-up cost. But the cost savings will come in the long run, she says. 
 
