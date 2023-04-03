@@ -1,17 +1,15 @@
 ---
-title: 'DM MediaPlus Digital Marketing Package'
+title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution2980
 ---
 
-## DM MediaPlus Digital Marketing Package
+## Iorderla Digital Ordering BYOD Solution Version 1.0
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
-
-With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
+Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,27 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Social DM Package (SMA/SMM) [3 Months]</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Search DM Package (SEM/SEO) [6 Months]</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Social DM Package (SMM/SMA) [6 Months]</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Accelerate DM Package (SEO/SEM/SMA) [3 Months]</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/MediaPlus_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: MediaPlus Digital Pte Ltd<br>Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
+ Company Name: SUNTOYO TECHNOLOGY PTE LTD<br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

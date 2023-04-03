@@ -1,15 +1,15 @@
 ---
-title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
+title: 'OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution3035
 ---
 
-## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0
+## OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0
 
 ## Overview
 
 **Description**
 
-AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders and Delivery. The end-to-end solutions include integration with POS, Self-Ordering Kiosk, Kitchen Management/Display Systems, Rewards (points system, e-vouchers, e-gift cards), Online Payment with multiple payment gateways, Pay at Table, Real Time Menu controls, Data Analytics, amongst others.   AppsPOS also provides e-waiter solution for dine in restaurants to assist customers in ordering.
+OPS Sales Order Management Solution is a user-friendly B2C and B2B order management tool to optimise productivity. The solution helps businesses centrally manage all their order channels efficiently. It allows their customers to order online and let their sales team easily manage these orders from the back-end. This will reduce duplicate and manual tasks, resolving errors during orders, easily re-order and more.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Basic)</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$16,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Advanced)</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro with Go International Pack</td>
+<td style='padding: 10px;'>$35,200.00</td>
+<td style='padding: 10px;'>$33,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - Self Ordering Kiosk</td>
-<td style='padding: 10px;'>$9,240.00</td>
-<td style='padding: 10px;'>$9,220.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Multi-Store Pack</td>
+<td style='padding: 10px;'>$25,351.00</td>
+<td style='padding: 10px;'>$24,351.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR ordering (Standard)</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,660.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite Pack</td>
+<td style='padding: 10px;'>$16,245.00</td>
+<td style='padding: 10px;'>$15,245.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR Ordering (Premium)</td>
-<td style='padding: 10px;'>$11,530.00</td>
-<td style='padding: 10px;'>$11,510.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite with Go International Pack</td>
+<td style='padding: 10px;'>$34,345.00</td>
+<td style='padding: 10px;'>$32,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: AppsPOS Pte Ltd<br>Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
+ Company Name: RHS Asia Pte Ltd<br>Web URL: http://www.rhsasia.com/onprintshop-web-to-print/ <br><br>Contact Hotline: 62804321 <br><br>Contact Email: info@rhsasia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

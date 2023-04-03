@@ -1,15 +1,15 @@
 ---
-title: 'FITPRISE Job Inspection System'
+title: 'Xero Cloud Accounting Software - Premium Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution2235
 ---
 
-## FITPRISE Job Inspection System
+## Xero Cloud Accounting Software - Premium Package
 
 ## Overview
 
 **Description**
 
-FITPRISE PMS is a web-based management system that manages the QA/QC project management of engineering work. It comprises of a back-end system and front-end mobile app. The back-end system supports the data processing of workers profiles, jobs, inspection procedure information. Job inspection details are captured on mobile apps or recorded manually by workers. Full benefits are derived from the system inspection reports detailing full traceability of end-to-end job operation status.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,41 @@ FITPRISE PMS is a web-based management system that manages the QA/QC project man
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 10 users</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$25,100.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software Only</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 10 users</td>
-<td style='padding: 10px;'>$45,000.00</td>
-<td style='padding: 10px;'>$37,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Training</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 5 users</td>
-<td style='padding: 10px;'>$25,500.00</td>
-<td style='padding: 10px;'>$20,600.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Setup</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 5 users</td>
-<td style='padding: 10px;'>$40,500.00</td>
-<td style='padding: 10px;'>$37,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Company Name: YMC ACCOUNTING PTE LTD<br>Web URL: https://www.thesgservice.com/sg-accounting-firm <br><br>Contact Hotline: 93891853 <br><br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

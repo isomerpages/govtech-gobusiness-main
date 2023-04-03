@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,8 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3424' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4164' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4177' target='_blank'>Hubble Safety Management System</a><br></td>
+<td>Hubble Pte Ltd</td>
 </tr>
 </table>
 

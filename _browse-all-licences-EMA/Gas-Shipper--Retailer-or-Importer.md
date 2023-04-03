@@ -23,7 +23,7 @@ Energy Market Authority (EMA)
 <p><u>Gas Importer</u></p>
 <p>Gas importers are entites permitted to import piped or liquefied natural gas (LNG) to Singapore.</p>
 
-<h3>FAQ</strong></h3>
+<h3><strong>FAQ</strong></h3>
 <ol>
 <li>
 <strong>Do I need to apply for this licence?</strong><br>

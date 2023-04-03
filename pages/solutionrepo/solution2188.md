@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Substrate Mixing and Packing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution2188
 ---
 
-## Automated Irrigation Equipment/ System
+## Substrate Mixing and Packing Machine
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'LFSUITE Version 6'
+title: 'Sage 300Cloud Version 2022'
 permalink: /productivity-solutions-grant/solutionrepo/solution3399
 ---
 
-## LFSUITE Version 6
+## Sage 300Cloud Version 2022
 
 ## Overview
 
 **Description**
 
-LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
+Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ LFSuite in a cloud-hybrid POS system that come with an online central management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
-<td style='padding: 10px;'>$7,260.00</td>
-<td style='padding: 10px;'>$6,960.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
-<td style='padding: 10px;'>$11,460.00</td>
-<td style='padding: 10px;'>$11,160.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Digital</td>
-<td style='padding: 10px;'>$5,420.00</td>
-<td style='padding: 10px;'>$5,120.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ LFSuite in a cloud-hybrid POS system that come with an online central management
 
 ## Vendor Information
 
- Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
+ Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

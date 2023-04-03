@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/Integrated-and-Smart-Work
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,12 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2313' target='_blank'>eBIS Version V1.0</a><br></td>
-<td>NEWGENE TECHNOLOGIES PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4114' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
+<td>Airsquire Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2633' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
-<td>Airsquire Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4129' target='_blank'>eBIS Version V1.0</a><br></td>
+<td>NEWGENE TECHNOLOGIES PTE LTD</td>
 </tr>
 </table>
 

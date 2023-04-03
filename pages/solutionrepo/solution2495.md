@@ -1,15 +1,15 @@
 ---
-title: 'Smart Glasses - InnoGlas'
+title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution2495
 ---
 
-## Smart Glasses - InnoGlas
+## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'>$7,420.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>$14,740.00</td>
-<td style='padding: 10px;'>$12,740.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>$21,060.00</td>
-<td style='padding: 10px;'>$18,060.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>$15,240.00</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Glasses - InnoGlas - SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>$35,560.00</td>
-<td style='padding: 10px;'>$20,560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
+<td style='padding: 10px;'>$10,359.99</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 
 ## Vendor Information
 
- Company Name: Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br><br>Contact Hotline: 88313613 <br><br>Contact Email: hello@innowave.com.sg <br><br>
+ Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

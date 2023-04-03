@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/Quantity-Surveying-and-Va
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2309' target='_blank'>INNOCOM - ASSEMBLE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4110' target='_blank'>INNOCOM - ASSEMBLE</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3428' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4155' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br></td>
 <td>Glodon International Pte Ltd</td>
 </tr>
 </table>

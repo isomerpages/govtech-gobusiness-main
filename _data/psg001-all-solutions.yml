@@ -5,10 +5,7 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Advanced-Manufacturing/Equipment-Monitoring-and-Manufacturing-Data-Collection'>Equipment Monitoring and Manufacturing Data Collection</a>
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Manufacturing-Quality-Management'>Manufacturing Quality Management</a>
-        - <a href='/browse-all-solutions-Advanced-Manufacturing/Real-time-Production-Scheduling-and-Job-Tracking'>Real-time Production Scheduling and Job Tracking</a>
-        - <a href='/browse-all-solutions-Advanced-Manufacturing/Product-and-Manufacturing-Process-Configuration'>Product and Manufacturing Process Configuration</a>
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
         
         **Equipment**
@@ -25,15 +22,16 @@
     - title: Building & Construction
       content: |
         
+        **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
+        
         **IT Solution**
-        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
-        - <a href='/browse-all-solutions-Building-Construction/Intelligent-National-Productivity-and-Quality-Specification--iNPQS-'>Intelligent National Productivity and Quality Specification (iNPQS)</a>
-        - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
+        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
         - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
+        - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
         - <a href='/browse-all-solutions-Building-Construction/Digital-Wearables-for-Workers-Health-and-Safety'>Digital Wearables for Workers' Health and Safety</a>
-        - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
+        - <a href='/browse-all-solutions-Building-Construction/Coordination-Tools-and-Collaboration-Platform'>Coordination Tools and Collaboration Platform</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Early Childhood
@@ -43,6 +41,7 @@
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
         - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Operations'>Data Analytics for Centre Operations</a>
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
@@ -85,20 +84,10 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Payment'>Digital/ Online Ordering and Payment</a>
         - <a href='/browse-all-solutions-Food-Services/B2B-Marketplace-E-Procurement-System'>B2B Marketplace/E-Procurement System</a>
-        - <a href='/browse-all-solutions-Food-Services/Automated-Reservation'>Automated Reservation</a>
+        - <a href='/browse-all-solutions-Food-Services/Digital-Ordering-and-Payment-System'>Digital Ordering and Payment System</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Food-Services/General-Food-Services-Equipment'>General Food Services Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Healthcare
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Healthcare/Teleconsultation-Video-'>Teleconsultation(Video)</a>
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Healthcare/General-Healthcare-Equipment'>General Healthcare Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Legal
@@ -116,7 +105,6 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
         - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
-        - <a href='/browse-all-solutions-Logistics/E-Freight-Management'>E-Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         
         **Equipment**
@@ -156,15 +144,15 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
         - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
+        - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management'>Enhanced Retail Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Security
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Security/Surveillance-and-Analytics'>Surveillance and Analytics</a>
-        - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
         - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
+        - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Travel Agents
@@ -172,14 +160,15 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--Operations-'>Travel Management System (Operations)</a>
+        - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--E-Commerce-'>Travel Management System (E-Commerce)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
+        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
         
         **Equipment**
@@ -192,9 +181,9 @@
     - title: Human Resource Solutions
       content: |
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-Scheduling-System'>Human Resource E-Scheduling System</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis-+-HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
@@ -221,6 +210,13 @@
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
         <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System">View</a></td>
+        </tr>
+        <tr>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td></td>
+        <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"></td>
+        <td><a href="/browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--CRM-and-Sales-Mgmt-System">View</a></td>
         </tr>
         <tr>
         <td><img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg" alt="Checked"></td>
@@ -291,8 +287,8 @@
     - title: Cyber Security solutions
       content: |
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
 - accordion:
   letter: c
   data:

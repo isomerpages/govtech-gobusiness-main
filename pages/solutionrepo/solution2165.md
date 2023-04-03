@@ -1,15 +1,15 @@
 ---
-title: 'Hi-jack Cleaning Machinery'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution2165
 ---
 
-## Hi-jack Cleaning Machinery
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

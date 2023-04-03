@@ -1,43 +1,41 @@
 ---
-title: 'iLOGON (iWMS)'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution3170
 ---
 
-## iLOGON (iWMS)
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iWMS) - SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Keyfields_Desensitised_Annex_3_21July2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

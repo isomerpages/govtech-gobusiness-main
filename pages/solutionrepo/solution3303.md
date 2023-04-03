@@ -1,15 +1,15 @@
 ---
-title: 'BIZ POS VER 3.5'
+title: 'Synergix E1 Sales & Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution3303
 ---
 
-## BIZ POS VER 3.5
+## Synergix E1 Sales & Accounting
 
 ## Overview
 
 **Description**
 
-Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,770.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,850.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
-<td style='padding: 10px;'>$5,750.00</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$6,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,770.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 
 ## Vendor Information
 
- Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
+ Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'HeartVoice Telehealth Platform'
+title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1862
 ---
 
-## HeartVoice Telehealth Platform
+## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes 
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (1 Doctor)</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'>$2,780.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HeartVoice Telehealth Platform - Package (2 Doctors)</td>
-<td style='padding: 10px;'>$3,680.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase 
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Hotline: 64631795<br>Contact Email: hs@ourheartvoice.com<br>
+ Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

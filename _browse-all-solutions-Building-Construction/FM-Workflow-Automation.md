@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/FM-Workflow-Automation
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,32 +28,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution20' target='_blank'>APM Smart Access System Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4119' target='_blank'>APM Smart Access System Version 1.0</a><br></td>
 <td>APM Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1755' target='_blank'>SmartFM Version 1.0</a><br></td>
-<td>CHIMERIC TECHNOLOGIES PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1906' target='_blank'>iREP FM</a><br></td>
-<td>Gabkotech Innovations Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2304' target='_blank'>KEGMIL FSM</a><br></td>
-<td>FTV LABS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2317' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4124' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
 <td>Really Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2377' target='_blank'>Swipetask PRO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4133' target='_blank'>KEGMIL FSM</a><br></td>
+<td>FTV LABS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4143' target='_blank'>Simplify Version 1</a><br></td>
+<td>Noid Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4168' target='_blank'>Swipetask PRO</a><br></td>
 <td>Swipetask Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2676' target='_blank'>Simplify Version 1</a><br></td>
-<td>Noid Singapore Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4173' target='_blank'>FacilityBot</a><br></td>
+<td>FacilityBot Pte Ltd</td>
 </tr>
 </table>
 

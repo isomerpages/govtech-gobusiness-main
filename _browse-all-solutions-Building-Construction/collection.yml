@@ -3,11 +3,10 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - FM-Workflow-Automation.md
-      - Intelligent-National-Productivity-and-Quality-Specification--iNPQS-.md
-      - Coordination-Tools-and-Collaboration-Platform.md
+      - 3D-Modelling--Immersive-Visualisation-Analysis.md
       - Quantity-Surveying-and-Valuation.md
       - Integrated-and-Smart-Worksite-Monitoring-and-Inspection.md
+      - FM-Workflow-Automation.md
       - Digital-Wearables-for-Workers-Health-and-Safety.md
-      - 3D-Modelling--Immersive-Visualisation-Analysis.md
       - e-Permit-to-work--e-PTW-.md
+      - Coordination-Tools-and-Collaboration-Platform.md

@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Rice-Licence.md
       - Rubber-Licence.md

@@ -1,15 +1,15 @@
 ---
-title: 'Advante Consulting - Xero Cloud Accounting'
+title: 'BOTG'
 permalink: /productivity-solutions-grant/solutionrepo/solution3615
 ---
 
-## Advante Consulting - Xero Cloud Accounting
+## BOTG
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Standard Subscription Only)</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advante_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Standard Basic Package)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,360.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advante_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premium Basic Package)</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'>$2,625.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advante_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Standard Full Package)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$3,160.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advante_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Premium Full Package)</td>
-<td style='padding: 10px;'>$3,450.00</td>
-<td style='padding: 10px;'>$3,425.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Advante_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Advante Consulting Pte Ltd<br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com 
+ Company name:ANTSCOLONY PTE LTD<br>Web URL: http://botg.com.sg/ <br>Contact Hotline: 89077790 <br>Contact Email: info@botg.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Co
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3279' target='_blank'>Mastercam Software Version 2023</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3287' target='_blank'>Mastercam Software Version 2023</a><br></td>
 <td>Techtown Pte Ltd</td>
 </tr>
 </table>

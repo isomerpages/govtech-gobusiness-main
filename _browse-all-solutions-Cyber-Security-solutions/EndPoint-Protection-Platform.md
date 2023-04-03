@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Pl
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,52 +28,44 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1987' target='_blank'>Sophos Endpoint</a><br></td>
-<td>Advancedata Network Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2076' target='_blank'>Adventus Managed EndPoint Protection</a><br></td>
-<td>Adventus Singapore Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2131' target='_blank'>Sophos Central EndPoint Protection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2140' target='_blank'>Sophos Central EndPoint Protection</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2290' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2299' target='_blank'>TRENDMICRO ENDPOINT PROTECTION</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2507' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2516' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
 <td>Techfount Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2512' target='_blank'>Panda Adaptive Defense 360</a><br></td>
-<td>Asiacloud Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2648' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2657' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2671' target='_blank'>Singtel Endpoint Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2680' target='_blank'>Singtel Endpoint Security</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2732' target='_blank'>Eset Protect Entry</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2741' target='_blank'>Eset Protect Entry</a><br></td>
 <td>Rentalworks (SG) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2915' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2924' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
 <td>Cloudable Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2935' target='_blank'>Sophos Central Intercept X Advanced</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2944' target='_blank'>Sophos Central Intercept X Advanced</a><br></td>
 <td>SWIZ Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3139' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3151' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4189' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
+<td>Rah Tech Pte Ltd</td>
 </tr>
 </table>
 
