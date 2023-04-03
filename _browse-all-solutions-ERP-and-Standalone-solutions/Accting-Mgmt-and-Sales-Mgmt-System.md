@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-S
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -26,10 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2099' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1</a><br></td>
-<td>Singapore Corporate Services Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2132' target='_blank'>Xero</a><br></td>
@@ -98,14 +94,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2693' target='_blank'>Quickbooks Online</a><br></td>
 <td>Angels Business Consulting Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2777' target='_blank'>Quickbooks Online</a><br></td>
-<td>Quest Business Advisory Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2856' target='_blank'>Go EBOS - SMECEN Dashbod Accounting Version 1.35.4</a><br></td>
-<td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2953' target='_blank'>Counto DIY Version 1</a><br></td>

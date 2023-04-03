@@ -26,7 +26,7 @@ Cost of equipment capped at $10,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm for smaller mixers (less than 100 liters)<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
+<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
 </tr>
 </table>
 
