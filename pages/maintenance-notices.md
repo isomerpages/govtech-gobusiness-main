@@ -7,6 +7,8 @@ permalink: /maintenance-notices/
 
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
 
+---
+
 <table>
     <tr>
         <th>
@@ -50,11 +52,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
     </tr>
     <tr>
         <td>
-            <ol>
+            <ul>
                 <li>17 Feb 2023 10pm to 18 Feb 2023 8am</li>
                 <li>18 Feb 2023 6pm to 19 Feb 2023 6pm</li>
                 <li>19 Feb 2023 8pm to 20 Feb 2023 6am</li>
-            </ol>
+            </ul>
         </td>
         <td>
             <b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available
