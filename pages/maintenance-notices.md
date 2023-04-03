@@ -9,8 +9,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 <table>
 <tr>
-<th style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>><b>Scheduled Date Time</b></th>
-<th style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>><b>Remarks</b></th>
+<th style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'><b>Scheduled Date Time</b></th>
+<th style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'><b>Remarks</b></th>
 </tr>
 <tr>
 <td>8 Dec 2022 12pm to 2pm</td>
@@ -21,11 +21,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 <td><b>Information from ACRA and MyInfo</b> for GoBusiness and Business Grants will be unavailable due to scheduled maintenance</td>
 </tr>
 <tr>
-<td>(1) From 17 Feb 2023 10pm to 18 Feb 2023 8am<br>(2) from 18 Feb 2023 6pm to 19 Feb 2023 6pm<br>(3) from 19 Feb 2023 8pm to 20 Feb 2023 6am</td>
+<td>(1) 17 Feb 2023 10pm to 18 Feb 2023 8am<br>(2) 18 Feb 2023 6pm to 19 Feb 2023 6pm<br>(3) 19 Feb 2023 8pm to 20 Feb 2023 6am</td>
 <td><b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available</td>
 </tr>
 <tr>
-<td>(1) From 17 Feb 2023 10pm to 18 Feb 2023 8am<br>(2) from 18 Feb 2023 6pm to 19 Feb 2023 6pm<br>(3) from 19 Feb 2023 8pm to 20 Feb 2023 6am</td>
+<td>(1) 17 Feb 2023 10pm to 18 Feb 2023 8am<br>(2) 18 Feb 2023 6pm to 19 Feb 2023 6pm<br>(3) 19 Feb 2023 8pm to 20 Feb 2023 6am</td>
 <td><b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available</td>
 </tr>
 <tr>
