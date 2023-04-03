@@ -25,6 +25,5 @@ NACE is launching a new WPL:READY mark, which is a new foundational-level workpl
 
 Find out more about the [certification process](https://www.nace.edu.sg/certification/processes-overview/){:target="_blank"}{:rel="noopener"}, and the [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=rgp_skillsfuture_step5).
 
-
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

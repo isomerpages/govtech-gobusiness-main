@@ -14,5 +14,5 @@ Ministry of Manpower (MOM)
 
 <H3>Application Details</H3>
 
-<p>Under the Foreign Employee Dormitories Act, from 1 January 2016, operators of dormitories that can house 1,000 or more foreign employees need to obtain a licence from MOM.</p>
+<p>Under the Foreign Employee Dormitories Act, from 1 April 2023, operators of dormitories that can house 7 or more foreign employees need to obtain a licence from MOM.</p>
 

@@ -1,14 +1,19 @@
 - title: Productivity Solutions Grant (PSG)
   description: The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
-  url: /productivity-solutions-grant/
+  url: /productivity-solutions-grant/?src=about-govassist
   text: Find Out More
 
 - title: Energy Efficiency Grant (EEG)
   description: The Energy Efficiency Grant (EEG) aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy-efficient equipment.
-  url: /energy-efficiency-grant/
+  url: /energy-efficiency-grant/?src=about-govassist
   text: Find Out More
 
 - title: How to Apply With Business Grants Portal?
   description: The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
-  url: /business-grants-portal/
+  url: /business-grants-portal/?src=about-govassist
+  text: Find Out More
+
+- title: Enterprise Innovation Scheme (EIS)
+  description: Businesses planning to engage in research and development (“R&D”) and innovation and capability development activities may qualify for enhanced tax deductions. Eligible businesses may also opt to convert up to $100,000 of the total qualifying expenditure for each Year of Assessment (“YA”) into cash at a conversion rate of 20%.
+  url: /enterprise-innovation-scheme/?src=about-govassist
   text: Find Out More

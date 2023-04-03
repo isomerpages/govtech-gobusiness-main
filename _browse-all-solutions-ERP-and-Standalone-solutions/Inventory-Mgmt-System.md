@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-Sys
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -30,10 +30,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2797' target='_blank'>MuRho Inventory Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2853' target='_blank'>DST Inventory System Version 1.3</a><br></td>
-<td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2868' target='_blank'>RFID Inventory Management System</a><br></td>
