@@ -11,8 +11,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 |<b>Scheduled Date Time</b>|<b>Remarks</b>|
 |8 Dec 2022 12pm to 2pm<|<b>GoBusiness payment service</b> is unavailable due to maintenance|
 |4 Dec 2022 from 12am to 4pm|<b>Information from ACRA and MyInfo</b> for GoBusiness and Business Grants will be unavailable due to scheduled maintenance|
-|<ul><li>17 Feb 2023 10pm to 18 Feb 2023 8am</li<li>18 Feb 2023 6pm to 19 Feb 2023 6pm</li><li>19 Feb 2023 8pm to 20 Feb 2023 6am</li></ul>|<b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available|
-|<ul><li>17 Feb 2023 10pm to 18 Feb 2023 8am</li><li>18 Feb 2023 6pm to 19 Feb 2023 6pm</li><li>19 Feb 2023 8pm to 20 Feb 2023 6am</li></ul>|<b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available|
+|- 17 Feb 2023 10pm to 18 Feb 2023 8am<br> - 18 Feb 2023 6pm to 19 Feb 2023 6pm<br> - 19 Feb 2023 8pm to 20 Feb 2023 6am|<b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available|
+| - 17 Feb 2023 10pm to 18 Feb 2023 8am<br> - 18 Feb 2023 6pm to 19 Feb 2023 6pm<br> - 19 Feb 2023 8pm to 20 Feb 2023 6am|<b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available|
 |16 February 2023 from 6pm to 7pm|<b>Guided Journey for Food Services<b> will be unavailable due to scheduled maintenance|
 |16 Nov 2022 8pm to 17 Nov 2022 7am|Application, amendment & renewing of <b>Singapore Police Force (SPF) licences</b> will be unavailable due to scheduled maintenanc
 |29 Mar 2023 6:30pm to 11:59pm|Application, amendment, renewal & cancellation of <b>National Environment Agency (NEA)</b> licences will be unavailable due to scheduled maintenance|
