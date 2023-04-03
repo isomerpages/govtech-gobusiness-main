@@ -17,8 +17,8 @@ Land Transport Authority (LTA)
 <p>A Taxi Driver's Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver's Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
 <H3>FAQ</H3>
- <ol>
  <p><u><strong>TDVL/ PDVL APPLICATION</strong></u></p>
+ <ol>
  <li><strong>What are the criteria for me to apply for a TDVL/ PDVL?</strong><br>
  a. To be <Strong>eligible to apply for a TDVL/PDVL</Strong>, you have to:<br>
 - a Singaporean;<br>
@@ -67,7 +67,7 @@ Land Transport Authority (LTA)
  <li><strong>Is there a deadline to complete the course and pass the TDVL/PDVL competency test?</strong><br>
  You must complete the course and pass the competency test within 12 months from the issuance date of our approval letter.</li>
  <li><strong>I would like to register for the TDVL/ PDVL Course. Where should I go?</strong><br>
- CDG and LHUB have been appointed to conduct training for the TDVL/ PDVL Course. To find out more about the TDVL/ PDVL Course, please contact CDG at 6550 8681 (<a href="http://www.cdgtaxi.com.sg/" target="_blank" rel="noopener">http://www.cdgtaxi.com.sg/</a>), or LHUB at 6336 5482 (<a href="http://www.ntuclearninghub.com/contact-us/locate-us/" target="_blank" rel="noopener">www.ntuclearninghub.com/contact-us/locate-us/</a>).</BR>
+ CDG and LHUB have been appointed to conduct training for the TDVL/ PDVL Course. To find out more about the TDVL/ PDVL Course, please contact CDG at 6550 8681 (<a href="http://www.cdgtaxi.com.sg/" target="_blank" rel="noopener">http://www.cdgtaxi.com.sg/</a>), or LHUB at 6336 5482 (<a href="http://www.ntuclearninghub.com/contact-us/locate-us/" target="_blank" rel="noopener">www.ntuclearninghub.com/contact-us/locate-us/</a>).<br>
  <p>Details of the training providers below:</p>
 <Strong><u>ComfortDelgro Taxi (CDG)</u></Strong><br>
  Citycab Building<br>
@@ -85,11 +85,11 @@ Land Transport Authority (LTA)
 2. The original or certified true copy of your <strong>chest</strong> X-rayexamination result card signed by a radiologist; and<br>
 3. Original and copy of your <strong>GCE "O" or "N" Level certificate</strong>, with a pass (at least a D7 grade) in English OR the results for the <strong>WPL-CAT</strong> (at least a Level 3 pass in the Listening, Reading and Speaking modules).</li>
  <li><strong>I would like to apply for a TDVL/ PDVL but do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English. What can I do?</strong><br>
- TDVL/ PDVL applicants who do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English may sit for the Workplace Literacy Computer Adaptive Test (WPL-CAT) for Conversational English.</br>
+ TDVL/ PDVL applicants who do not possess a GCE "O" or "N" Level pass (at least a D7 grade) in English may sit for the Workplace Literacy Computer Adaptive Test (WPL-CAT) for Conversational English.<br>
  The WPL-CAT for Conversational English assesses an individual's English proficiency in 3 areas - Listening, Reading and Speaking - with the aid of a computer. TDVL/ PDVL applicants must obtain at least a Level 3 pass for all 3 modules in order to meet the English language requirement for a TDVL/ PDVL.<br>
  The test is approximately 3 hours long. The Listening and Reading tests use multiple-choice questions, while for the Speaking test, the trainee is required to respond to 3 questions in English posed by the computer. The WPL-CAT costs $10.50 (excluding GST).</li>
  <li><strong>What will be covered during the TDVL/ PDVL Course?</strong><br>
- For <strong>TDVL</strong>, the course covers the rules and regulations, service quality as well as general safety and route planning which has been designed to facilitate both self-study (9 hours) and classroom coaching (16 hours) within a structured learning framework.</br>
+ For <strong>TDVL</strong>, the course covers the rules and regulations, service quality as well as general safety and route planning which has been designed to facilitate both self-study (9 hours) and classroom coaching (16 hours) within a structured learning framework.<br>
  For <strong>PDVL</strong>, the course covers the rules and regulations, service quality as well as general safety which has been designed to facilitate both self-study (2 hours) and classroom coaching (8 hours) within a structured learning framework.</li>
  <li><strong>How long is the duration for the TDVL/ PDVL course?</strong><br>
  <strong>TDVL course takes 25 hours</strong> to complete (16 hours of classroom training and 9 self-study hours) and <strong>PDVL course takes 10 hours</strong> to complete (8 hours of classroom training and 2 self-study hours).</li>
