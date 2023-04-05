@@ -46,21 +46,7 @@ So you’ve laid the foundation for your business. What’s next?
 Once you’ve mastered the fundamentals, go one step further by checking out the variety of resources to run and grow business smoothly! Learn more about the different licences: apply for [government assistance](/gov-assist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} schemes applicable for your business, and keep up with the latest opportunities by [subscribing to GEBiz Alerts](/gebiz-alerts/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}, a daily email service that provides timely updates for tender notices. You can also find all the information you need on [filing for income tax and Goods and Services Tax (GST)](/run-and-grow/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}. 
 
 
-### 3. Keep Up With COVID-19 Regulations 
-
-![GoBusiness COVID Overview](/images/blog/content/GetStarted 4.jpg)
-<figcaption> Stay abreast of the latest regulations, and find resources on COVID-19 support</figcaption>
-
-With COVID-19’s arrival having upturned business operations, adapting and adjusting business operations is key. These include:
-
-- Resources for [Rostered Routine Testing (RRT)](/timelimitedrrt/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for workplaces, which include the processes for obtaining ART test kits, performing self-testing, and declaring ART test results
-
-- The latest news and regulations regarding [safe management requirements](/safemanagement/general/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and [permitted services](/permittedlist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"}
-
-- [User guides](/guides/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for additional administrative processes such as manpower declaration and exemption applications
-
-
-### 4. Get Help With e-Advisers
+### 3. Get Help With e-Advisers
 
 ![GoBusiness e-Services Navigator](/images/blog/content/GetStarted 5.jpg)
 <figcaption> With e-Advisers, you can find helpful business recommendations such as event regulatory requirements and grants tailored to your needs</figcaption>
@@ -70,7 +56,7 @@ Still unsure of what works for your business? Say hello to fuss-free assistance 
 Whether you’re seeking advice on the use of premises, or organising an event, e-Advisers help to provide personalised recommendations on the steps to take, and direct you to appropriate government channels. Those looking to apply for government assistance schemes such as grants and loans can also turn to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help you streamline your objectives and recommend the best options for your business. 
 
 
-### 5. Use the new GoBusiness Dashboard  
+### 4. Use the new GoBusiness Dashboard  
 
 Managing business processes has never been easier. With the latest addition of a personalised dashboard, you can now start, run and grow your business on a single platform. 
 

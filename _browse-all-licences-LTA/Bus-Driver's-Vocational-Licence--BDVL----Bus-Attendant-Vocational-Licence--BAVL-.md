@@ -15,8 +15,8 @@ Land Transport Authority (LTA)
 <p>A Bus Driver's Vocational Licence (BDVL) is needed before a person can drive a bus and a Bus Attendant's Vocational Licence (BAVL) is needed before a person can be a bus attendant on a school bus.</p>
  <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
  <H3>FAQ</H3>
- <ol>
  <p><strong><u>BDVL/ BAVL APPLICATION</u></strong></p>
+ <ol>
  <li><strong>What are the criteria for me to apply for a BDVL/ BAVL?</Strong><Br>
  a. To be <strong>eligible to apply for a BAVL</strong>, you must:<Br>
 - Be a Singaporean;<br>
@@ -46,7 +46,7 @@ Land Transport Authority (LTA)
  <li><strong>How do I withdraw my application?</Strong><br>
  Applicants who wish to withdraw their vocational licence application can submit a feedback to <a href="https://www.lta.gov.sg/feedback" target="_blank" rel="noopener">https://www.lta.gov.sg/feedback</a>, However, the application fee of $40 is non-refundable.</li>
  <li><strong>Where can I go for the medical check-up for the purpose of my BDVL/ BAVL application?</Strong><br>
- You may go to any registered medical clinic to have your chest x-ray and medical examination done for the purpose of you BDVL/BAVL application.<br />You will be required to use LTA's medical examination form at <a href="https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf" target="_blank" rel="noopener">https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf</a>.</li>
+ You may go to any registered medical clinic to have your chest x-ray and medical examination done for the purpose of you BDVL/BAVL application.<br>You will be required to use LTA's medical examination form at <a href="https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf" target="_blank" rel="noopener">https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf</a>.</li>
  <li><strong>What is the statutory age limit for a BDVL/ BAVL?</Strong><br>
  With effect from 1 February 2011, the statutory upper age limit for BAVL has been removed, i.e., there is no maximum age for BAVL holders. In addition, the upper age limit for BDVL holders has been raised to 75 years. <strong>This applies only to BDVL holders driving Class 3 buses</strong>.<br>
  However, from 1 January 2016, the upper age limit has been extended until heavy vehicle drivers turn 75 years old. With the revision, heavy vehicle drivers (i.e. Class 4/4A and 5), aged between 70 to 74 years old, can retain their licences if they pass an annual enhanced medical examination and proficiency driving test. Hence, these drivers can continue to drive Class 4/4A buses provided they pass the above requirements by the Traffic Police</li>
@@ -85,7 +85,7 @@ Land Transport Authority (LTA)
  <Strong><u>Singapore Safety Driving Centre Ltd (SSDC)</u></Strong><br>
  2 Woodlands Industrial Park E4<br>
  Singapore 757387<br>
- Tel: 6482 6060</br>
+ Tel: 6482 6060<br>
  When registering for the training course, please bring your approval letter, <strong>NRIC, Driving Licence</strong> and the following documents:<br>
  a. LTA's<strong> medical examination form</strong> duly completed and certified by a registered medical practitioner; and<br>
  b. The original or certified true copy of your <strong>chest X-ray</strong> examination result card signed by a radiologist;</li>

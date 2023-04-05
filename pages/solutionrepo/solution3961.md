@@ -1,15 +1,15 @@
 ---
-title: 'V3Nity-FMS Fleet Management System Version 3.0'
+title: 'T-GUARD'
 permalink: /productivity-solutions-grant/solutionrepo/solution3961
 ---
 
-## V3Nity-FMS Fleet Management System Version 3.0
+## T-GUARD
 
 ## Overview
 
 **Description**
 
-The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
+T-Guard is an enhanced safe driving management system that encompasses a collision avoidance system. It has the capability to prevent accidents due to potential causes of abnormal driver behaviour such as fatigue, smoking, distraction, yawning, and provides closed loop interventions to prevent accidents. The solution provides SMEs with greater fleet insights to improve business productivity and safety by analyzing driver behavior with score card to instill safe driving culture.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard (Per vehicle)</td>
+<td style='padding: 10px;'>$5,538.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard Enhance (Per vehicle)</td>
+<td style='padding: 10px;'>$5,657.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 
 ## Vendor Information
 
- Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+ Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 94798687 <br>Contact Email: customerservice@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Travel-Agents/Travel-Management-System--E-Comme
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, 50% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Singapore Tourism Board (STB).
 
@@ -20,7 +20,7 @@ This solution is supported by Singapore Tourism Board (STB).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3910' target='_blank'>Xplore - Booking System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3917' target='_blank'>Xplore - Booking System</a><br></td>
 <td>BEMYGUEST PTE LTD</td>
 </tr>
 </table>

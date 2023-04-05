@@ -21,6 +21,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - ACORN - AC-E27 9W LED
 - AETO - KLL760F-6
 - AREX - AR T-L1T64-13W-2700K
+- AREX - AR T-L1T64-13W-2700K, AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-15W-2700K
 - AREX - AR T-L1T64-15W-6500K
@@ -197,6 +198,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GA-15E27
 - DYCORRA - DY-GA-6E27
 - DYCORRA - DY-GA-9E27
+- DYCORRA - DY-GP-120E27
 - DYCORRA - DY-GP-12E27
 - DYCORRA - DY-GP-20E27
 - DYCORRA - DY-GP-30E27
@@ -207,13 +209,16 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GT-10E27T
 - DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
+- DYCORRA - DY-GT-9E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
 - DYCORRA - DY-LFGA-4E27
 - DYCORRA - DY-LFGB-6E27
+- DYCORRA - DY-LFGB-6E27CL
 - DYCORRA - DY-LFGB-8E27
 - DYCORRA - DY-LFGB-8E27DIM
 - DYCORRA - DY-LFGC-8E27
+- DYCORRA - DY-LFST-6E27
 - DYCORRA - DY-LFST-8E27
 - DYCORRA - DY-LFT45-4E27
 - DYCORRA - DY-PIN-10E27
@@ -352,7 +357,10 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - IKEA - LED2021G3K4
 - IKEA - LED2023G2
 - IKEA - LED2033T2
+- IKEA - LED2101G4
 - IKEA - LED2103G5
+- IKEA - LED2202G3K6
+- IKEA - LED2203G6K6
 - iLite+ - SL-DG4-1015LT-G8-S
 - iLite+ - SL-DG4-1015NT-G8-S
 - iLite+ - SL-DG4-1015WT-G8-S
@@ -405,6 +413,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Lighting Hub - WA31-40aak-F
 - Lighting Hub - WA31-50aak-F
 - Lighting Hub - WA42-5-aak-F
+- Lighting Hub - WA42-7-aak-F
 - Lighting Hub - WT8bb-0.6G-10W-F
 - Lighting Hub - WT8bb-0.6G-15W-F-01
 - Lighting Hub - WT8bb-1.2G-20W-F
@@ -498,6 +507,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - A60F7-SCL-D-4.2W-F-E27
 - Megaman - A60F8-D-7.2W-E-E27
 - Megaman - A60S1-9.6W-F-E27-3000K
+- Megaman - A60S1-9.6W-F-E27-6500K
+- Megaman - A60S1-D-5.5W-F-E27-2800K
 - Megaman - A60S1-D-8.7W-E-E27-3000K
 - Megaman - C35Y1-4.9W-F-E14-6500K
 - Megaman - G45F7-CL-D-4.2W-E-E27-2700K
@@ -515,6 +526,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LC0405.5dR9-E14-2800K
 - Megaman - LC0405.5dR9-E14-4000K
 - Megaman - LC0405.5-E14-2800K
+- Megaman - LC0405.5-E14-2800K, LC0405.5-E14-4000K, LC0405.5-E14-6500K, LC0405.5-E27-2800K, LC0405.5-E27-4000K, LC0405.5-E27-6500K
 - Megaman - LC0405.5-E14-4000K
 - Megaman - LC0405.5-E14-6500K
 - Megaman - LC0405.5-E27-2800K
@@ -593,6 +605,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LG5206W-B15d-2700K
 - Megaman - LG5206W-B22-2700K
 - Megaman - LG5206W-E14-2700K
+- Megaman - LG5206W-E14-2700K, LG5206W-E27-2700K, LG5206W-B22-2700K, LG5206W-B15d-2700K
 - Megaman - LG5206W-E27-2700K
 - Megaman - LG6104.8CS-E27-2700K
 - Megaman - LG6703GD-E27-2200K
@@ -658,6 +671,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LH0132-E27-4000K
 - Megaman - LH0132-E27-6500K
 - Megaman - LH0133-E27-2800K
+- Megaman - LH0133-E27-2800K, LH0133-E27-6500K
 - Megaman - LH0133-E27-6500K
 - Megaman - LH0246-E27-2800K
 - Megaman - LH0246-E27-4000K
@@ -672,15 +686,18 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LT200160/mb-12v00-6500K
 - Megaman - LT200160/mb-12v01-3000K
 - Megaman - LT200160/mb-12v01-4000K
+- Megaman - LT200160/mb-12v01-4000K, LT200160/mb-12v01-6500K
 - Megaman - LT200160/mb-12v01-6500K
 - Megaman - LT200160/mb-12v02-3000K
 - Megaman - LT200160/mb-12v02-4000K
+- Megaman - LT200160/mb-12v02-4000K, LT200160/mb-12v02-6500K
 - Megaman - LT200160/mb-12v02-6500K
 - Megaman - SP0205-E14-2700K
 - Megaman - SP0205-E14-4000K
 - Megaman - SP0205-E27-2700K
 - Megaman - SP0205-E27-4000K
 - Megaman - T25S1-2.1W-F-E14-2800K
+- Megaman - YKG45C7BR-D-5.6W-E27-2800K
 - Megaman - YKT8BFG3-16W-S
 - Megaman - YKT8BFG3-8W-S
 - Megaman - YTG120Z1-G120-15W-E27-4000K
@@ -848,16 +865,23 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - LED Value CLASSIC A 45W/827
 - Osram - LED Value CLASSIC A 45W/865
 - Osram - LED Value CLASSIC A Bulb 18W/865
+- Osram - LED VALUE CLASSIC A100 13W/827, LED VALUE CLASSIC A100 13W/865
 - Osram - LED VALUE CLASSIC A10013W
+- Osram - LED VALUE CLASSIC A40 4.7W/827, LED VALUE CLASSIC A40 4.7W/865
 - Osram - LED VALUE CLASSIC A40 4.9W
 - Osram - LED VALUE CLASSIC A40 5.5W
 - Osram - LED VALUE CLASSIC A60 8.5W
+- Osram - LED VALUE CLASSIC A60 8W/827, LED VALUE CLASSIC A60 8W/865
 - Osram - LED VALUE CLASSIC A60 Filament 7W/827
 - Osram - LED VALUE CLASSIC A75 10W
+- Osram - LED VALUE CLASSIC A75 10W/827, LED VALUE CLASSIC A75 10W/865
 - Osram - LED VALUE CLASSIC B25 2.5W/827 FILAMENT
+- Osram - LED VALUE CLASSIC B40 4.7W/827
+- Osram - LED VALUE CLASSIC B40 4.7W/827 FR, LED VALUE CLASSIC B40 4.7W/865 FR
 - Osram - LED VALUE CLASSIC B40 4.9W
 - Osram - LED VALUE CLASSIC B40 5.5W
 - Osram - LED VALUE CLASSIC P25 3.3W
+- Osram - LED VALUE CLASSIC P40 4.7W/827 CL, LED VALUE CLASSIC P40 4.7W/827 FR, LED VALUE CLASSIC P40 4.7W/865 FR
 - Osram - LED VALUE CLASSIC P40 4.9W
 - Osram - LED VALUE CLASSIC P40 5.5W
 - Osram - LED VALUE FILAMENT A60 7W
@@ -877,6 +901,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - LED VALUE STICK 12W/830 (2 pin)
 - Osram - LED VALUE STICK 12W/840 (2 pin)
 - Osram - LED VALUE STICK 12W/865 (2 pin)
+- Osram - LED VALUE STICK 6W/830 G24D, LED VALUE STICK 6W/840 G24D, LED VALUE STICK 6W/865 G24D
+- Osram - LED VALUE STICK 7.2W/830 G24D, LED VALUE STICK 7.2W/840 G24D, LED VALUE STICK 7.2W/865 G24D
 - Osram - LEDSTAR STICK 12W/827
 - Osram - LEDSTAR STICK 12W/840
 - Osram - LEDSTAR STICK 12W/865
@@ -962,6 +988,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - Vintage 1906 LED Globe 4W/824
 - Osram - Vintage 1906 LED Globe 6.5W/824
 - Osram - VINTAGE 1906 LED GLOBE 7W
+- OSRAM - WRCB136 (4ft)
 - Philips -  8718696 753668
 - Philips - 11W E27 3000K 8718696762462
 - Philips - 11W E27 6500K 8718696762486
@@ -1070,15 +1097,11 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718696823163
 - Philips - 8718696823163(NEW)
 - Philips - 8718696823309
-- Philips - 8718696823309
 - Philips - 8718696823309(NEW)
-- Philips - 8718696823323
 - Philips - 8718696823323
 - Philips - 8718696823323(NEW)
 - Philips - 8718696823347
-- Philips - 8718696823347
 - Philips - 8718696823347(NEW)
-- Philips - 8718696823361
 - Philips - 8718696823361
 - Philips - 8718696823361(NEW)
 - Philips - 8718696826188
@@ -1156,21 +1179,15 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699647292
 - Philips - 8718699647315
 - Philips - 8718699658120
-- Philips - 8718699658120
 - Philips - 8718699658120(NEW)
-- Philips - 8718699658144
 - Philips - 8718699658144
 - Philips - 8718699658144(NEW)
 - Philips - 8718699663957
-- Philips - 8718699663957
 - Philips - 8718699663957(NEW)
-- Philips - 8718699663971
 - Philips - 8718699663971
 - Philips - 8718699663971(NEW)
 - Philips - 8718699663995
-- Philips - 8718699663995
 - Philips - 8718699663995(NEW)
-- Philips - 8718699664015
 - Philips - 8718699664015
 - Philips - 8718699664015(NEW)
 - Philips - 8718699668341
@@ -1182,15 +1199,11 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699669768
 - Philips - 8718699669782
 - Philips - 8718699701635
-- Philips - 8718699701635
 - Philips - 8718699701635(NEW)
-- Philips - 8718699701659
 - Philips - 8718699701659
 - Philips - 8718699701659(NEW)
 - Philips - 8718699701673
-- Philips - 8718699701673
 - Philips - 8718699701673(NEW)
-- Philips - 8718699701697
 - Philips - 8718699701697
 - Philips - 8718699701697(NEW)
 - Philips - 8718699717483
@@ -1199,13 +1212,20 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699719876
 - Philips - 8718699719876(NEW)
 - Philips - 8718699780555
+- Philips - 8718699780555(NEW)
 - Philips - 8718699780579
+- Philips - 8718699780579(NEW)
 - Philips - 8718699780593
+- Philips - 8718699780593(NEW)
 - Philips - 8718699780616
+- Philips - 8718699780616(NEW)
 - Philips - 8718699780630
 - Philips - 8718699780654
+- Philips - 8718699780654(NEW)
 - Philips - 8718699780678
+- Philips - 8718699780678(NEW)
 - Philips - 8718699780692
+- Philips - 8718699780692(NEW)
 - Philips - 8718699780715
 - Philips - 8718699780753
 - Philips - 8718699780791
@@ -1580,6 +1600,11 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - PowerPac - PP6717WW
 - PowerPac - PP6719
 - PowerPac - PP6719WW
+- Prime Light - RD-100120
+- Prime Light - RD-302815
+- Prime Light - RD-324.2
+- Prime Light - SMD-4006
+- Prime Light - TD-900120
 - PVTECH - GL 4FT 12.5W
 - PVTECH - GL-2FT-8W
 - PVTECH - GL-4FT-16W
@@ -1587,6 +1612,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
 - Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
+- Racer - LED HIGH WATT SUN BRIGHT 33W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 45W 6500K E27
 - Racer - T8 CLASSIC LED TUBE 18W 3000K G13 (LN)
 - Racer - T8 CLASSIC LED TUBE 18W 3000K(IM)
@@ -1610,6 +1636,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - BELL 12W DL
 - SCHWARTZ - BELL 12W WDC
 - SCHWARTZ - BELL 12W WW
+- SCHWARTZ - BELL 12W WW, BELL 12W DL, BELL 12W WDC
 - SCHWARTZ - BELL 15W DL
 - SCHWARTZ - BELL 15W WDC
 - SCHWARTZ - BELL 15W WW
@@ -1618,10 +1645,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - BELL 18W WW
 - SCHWARTZ - BELL 7W  DL
 - SCHWARTZ - BELL 7W DL
-- SCHWARTZ - BELL 7W DL
 - SCHWARTZ - BELL 7W WDC
-- SCHWARTZ - BELL 7W WDC
-- SCHWARTZ - BELL 7W WW
 - SCHWARTZ - BELL 7W WW
 - SCHWARTZ - BELL 9W DL
 - SCHWARTZ - BELL 9W WDC
@@ -1629,10 +1653,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - C35-4W DL
 - SCHWARTZ - C35-4W WW
 - SCHWARTZ - CAN 3.5W DL
-- SCHWARTZ - CAN 3.5W DL
 - SCHWARTZ - CAN 3.5W WDC
-- SCHWARTZ - CAN 3.5W WDC
-- SCHWARTZ - CAN 3.5W WW
 - SCHWARTZ - CAN 3.5W WW
 - SCHWARTZ - G45-4W DL
 - SCHWARTZ - G45-4W WW
@@ -1650,10 +1671,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - SH9WD
 - SCHWARTZ - SH9WW
 - SCHWARTZ - SHINE 8W DL
-- SCHWARTZ - SHINE 8W DL
 - SCHWARTZ - SHINE 8W WDC
-- SCHWARTZ - SHINE 8W WDC
-- SCHWARTZ - SHINE 8W WW
 - SCHWARTZ - SHINE 8W WW
 - SCHWARTZ - STIK 10W DL
 - SCHWARTZ - STIK 10W WDC
@@ -1700,15 +1718,25 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - STANFORD - SL252C05
 - STANFORD - SL252C06
 - Sunshine - LCANC-45E14W, LCANC-45E14D
+- Sunshine - LCANE-5E14W, LCANE-5E14D
+- Sunshine - LFGAA-8E27W-T, LFGAA-8E27D
 - Sunshine - LFGAB-827W
 - Sunshine - LFGAB-8B22D
 - Sunshine - LFGAB-8B22W
 - Sunshine - LFGAB-8E27D
+- Sunshine - LFGAC-4E27D, LFGAC-4E27W
+- Sunshine - LFGGH-6E27D, LFGGH-6E27W
 - Sunshine - LFSTB-8B22D
 - Sunshine - LFSTB-8B22W
 - Sunshine - LFSTB-8E27D
 - Sunshine - LFSTB-8E27W
+- Sunshine - LGK-5E14W, LGK-5E27W, LGK-5B22W, LGK-5E14D, LGK-5E27D, LGK-5B22D
+- Sunshine - LGM-10E27W, LGM-10B22W, LGM-10E27D, KGM-10B22D
+- Sunshine - LGM-12E27W, LGM-12B22W, LGM-12E27D, LGM-12B22D
+- Sunshine - LGM-13E27W, LGM-13B22W, LGM-13E27D, LGM-13B22D
+- Sunshine - LGM-15E27W, LGM-15B22W, LGM-15E27D, LGM-15B22D
 - Sunshine - LGM-6E27W, LGM-6B22W, LGM-6E27D, LGM-6B22D
+- Sunshine - LGM-8E27W, LGM-8B22W, LGM-8E27D, LGM-8B22D
 - Sunshine - LGT-12B22D
 - Sunshine - LGT-12B22W
 - Sunshine - LGT-12E27D
@@ -1723,7 +1751,11 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LGT-9B22W
 - Sunshine - LGT-9E27D
 - Sunshine - LGT-9E27W
+- Sunshine - LPINA-12E27W, LPINA-12B22W, LPINA-12E27D, LPINA-12B22D
+- Sunshine - LPINA-7E14W, LPINA-7E27W, LPINA-7B22W, LPINA-7E14D, LPINA-7E27D, LPINA-7B22D
+- Sunshine - LTA-18E27D, LTA-18E27W
 - Sunshine - LUFOA-18W, LUFOA-18B22W, LUFOA-18D, LUFOA-18B22D
+- Sunshine - LUFOA-24W, LUFOA-24B22W, LUFOA-24D, LUFOA-24B22D
 - T&J - TJ-A40-07PW-E27
 - T&J - TJ-A40-07WW-E27
 - T&J - TJ-BL05PW-E14

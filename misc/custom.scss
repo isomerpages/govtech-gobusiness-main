@@ -647,7 +647,7 @@ em {
 }
 
 // specific image inline with text - Kevin
-img[src*="/images/budget2021/budget2021.png"] {
+img[src*="/images/budget2023/budget2023.png"] {
   display: inline;
   margin: auto;
   width: 100px;
@@ -722,6 +722,13 @@ img[src*="/images/licences/cp.png"] {
   display: inline;
   margin: auto;
   width: 36px;
+  height: auto;
+}
+
+img[src*="/images/budget2021/budget2021.png"] {
+  display: inline;
+  margin: auto;
+  width: 100px;
   height: auto;
 }
 
