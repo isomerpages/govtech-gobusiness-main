@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Co
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -30,6 +30,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3451' target='_blank'>SentroWeb Version 3.0.0</a><br></td>
 <td>Ingenique Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4201' target='_blank'>Artemis</a><br></td>
+<td>Cynopsis Solutions Pte Ltd</td>
 </tr>
 </table>
 

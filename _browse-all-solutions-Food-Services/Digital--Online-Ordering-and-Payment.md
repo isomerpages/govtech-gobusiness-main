@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food-Services/Digital--Online-Ordering-and-Paym
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,14 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2062' target='_blank'>WarelyPOS Version 1.1</a><br></td>
-<td>Plus 65 Marketing Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2095' target='_blank'>Revel Systems</a><br></td>
-<td>Revel Systems Global Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2206' target='_blank'>Popcorn Point-of-sales System Version 1</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
@@ -46,10 +38,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2333' target='_blank'>Fooyo Mini Shop Version 2.0</a><br></td>
 <td>Fooyo Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2534' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
-<td>Lunchbox Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2555' target='_blank'>2DFire online ordering and payment Version 5.8.98</a><br></td>
@@ -138,6 +126,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3873' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4215' target='_blank'>Lunchbox Smart Restaurant Solution Version 1.1.0</a><br></td>
+<td>Lunchbox Pte Ltd</td>
 </tr>
 </table>
 

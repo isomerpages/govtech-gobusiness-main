@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-P
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs,  for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -186,6 +186,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4085' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
 <td>Outrankco Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4195' target='_blank'>DM Injob Creative Digital Marketing Packages</a><br></td>
+<td>Injob Creative Pte Ltd</td>
 </tr>
 </table>
 

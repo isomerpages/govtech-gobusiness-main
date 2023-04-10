@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Pl
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -26,10 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2085' target='_blank'>Adventus Managed EndPoint Protection</a><br></td>
-<td>Adventus Singapore Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2140' target='_blank'>Sophos Central EndPoint Protection</a><br></td>
@@ -66,6 +62,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3151' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4189' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
+<td>Rah Tech Pte Ltd</td>
 </tr>
 </table>
 
