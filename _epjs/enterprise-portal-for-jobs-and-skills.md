@@ -12,7 +12,7 @@ permalink: /enterprisejobskills/
 ---
 
 
-### What's New
+### Highlights
 
 - [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=epjs_whatsnew)
 - [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}
