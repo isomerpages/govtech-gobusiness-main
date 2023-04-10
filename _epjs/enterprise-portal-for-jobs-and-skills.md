@@ -44,11 +44,17 @@ Search for Skills Training Programmes to support your business transformation.
 
 ### Quick Links
 
-- [Professional Conversion Programme Application Portal](https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP){:target="_blank"}{:rel="noopener"}
-
 - [Skills Development Levy](https://sdl.ssg.gov.sg/){:target="_blank"}{:rel="noopener"}
 
-- [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/){:target="_blank"}{:rel="noopener"}
+- [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home){:target="_blank"}{:rel="noopener"}
+
+- [SkillsFuture Work-Study Programmes](https://programmes.enterprisejobskills.gov.sg/WorkStu
+dyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}
+
+- [Career Conversion Programme Application Portal](https://conversion.mycareersfuture.gov.sg/portal/progr
+amlisting.aspx?source=PCP){:target="_blank"}{:rel="noopener"}
+
+- [CTO-as-a-Service](https://services2.imda.gov.sg/CTOaaS/){:target="_blank"}{:rel="noopener"}
 
 ---
 ### Not an Enterprise?
