@@ -16,24 +16,6 @@ Service sector companies can tap on government subsidies and professional guidan
 
 ---
 
-#### Gap between jobs and skills will widen as businesses transform: Josephine Teo
-
-Speaking at the launch of the job redesign place-and-train programme for the retail industry at the Decathlon Singapore Lab, Manpower Minister Josephine Teo shares how when businesses innovate, job requirements will follow suit. Through this new programme, WSG will work with retailers to customise their training plans and pay up to 70 per cent of the employee's salary when he or she is undergoing training.
-
-[Read more](https://www.straitstimes.com/singapore/manpower/gap-between-jobs-and-skills-will-widen-as-businesses-transform-josephine-teo){:target="_blank"}{:rel="noopener"}
-
----
-
-![Article](/images/epjs/resources-and-toolkits/videos-and-articles/Two initiatives aim to help PMETs in air transport sector pick up new skills.png)
-
-#### Two initiatives aim to help PMETs in air transport sector pick up new skills
-
-Two measures were announced by Manpower Minister Josephine Teo amid efforts to transform the air transport sector and maintain Singapore's position as a global aviation hub. Through the Redeployment Professional Conversion Programme (PCP) for Air Transport Professionals, companies can reskill or redeploy workers with salary support as the workers are undergoing training.
-
-[Read more](https://www.straitstimes.com/singapore/manpower/two-initiatives-aim-to-help-pmets-in-air-transport-sector-pick-up-new-skills ){:target="_blank"}{:rel="noopener"}
-
----
-
 #### Skills Demand For The Future Economy Report
 
 The 2nd edition of the report offers deeper analysis into the priority skills and jobs in demand within the Green, Digital and Care economies. The report also comes with a special focus on Industry 4.0 implementation, Critical Core Skills, and the support for our mid-career workers. Companies can tap on these insights guide their workforce skills investment.
@@ -50,13 +32,14 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
 
 ---
 
-#### Watch Video: Forerunners of Learning & Development
+#### Watch Video: Do You Know the Real Cost of Not Investing in Upskilling?
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/FRrkmZ9iLeQ" title="Forerunners of Learning & Development" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/LwWkFieWmrI" title="Do You Know the Real Cost of Not Investing in Upskilling?" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
+[Find more videos at our SkillsFuture Youtube page](https://www.youtube.com/c/skillsfuturesg){:target="_blank"}{:rel="noopener"}
 
 ---
 
@@ -67,5 +50,11 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
   <iframe src="https://www.youtube.com/embed/dFC9RsomiLM" title="Speed up the Transfer of Global Capabilities | Capability Transfer Programme" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
+
+---
+
+#### Stay up to date on the latest in training and upskilling by following our LinkedIn account
+
+[SkillsFuture SG](https://sg.linkedin.com/company/skillsfuture-sg){:target="_blank"}{:rel="noopener"}
 <script src="/jquery/jquery.Min.js"></script>
 <script src="/jquery/epjs-bp-menu-new-tab.js"></script>
