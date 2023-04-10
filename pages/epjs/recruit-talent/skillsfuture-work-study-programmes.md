@@ -23,10 +23,6 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 - Receive a grant of up to $15,000 per trainee placed in the programme to defray the costs of developing and providing structured on-job-training (Terms and Conditions apply)
 
-- [New] COVID-19 wage support, pegged at 70% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for existing WSP trainees hired before 1 Sep 2020
-
-- [New] COVID-19 wage support, pegged at 45% of gross monthly salaries (including Jobs Support Scheme) for up to 12 months for new WSP trainees hired from 1 Sep 2020 to 31 Mar 2021. This will be extended to 31 Mar 2022. Employers remain eligible to receive JGI Incentives when they hire new trainees from 1 Sep 2020 and meet JGI's qualifying criteria
-
 ---
 
 ### How to apply:
@@ -39,7 +35,6 @@ You can participate in the WSPs as a host employer by opening your workplace and
 
 - <a href="/images/epjs/programmes-and-initiatives/recruit-talent/SkillsFuture_WorkStudyProgrammes_EmployerFAQ.pdf" target="_blank" rel="noopener">Frequently Asked Questions (PDF, 353 KB)</a>
 
-- <a href="/images/epjs/programmes-and-initiatives/recruit-talent/COVID-19-Wage-Support-FAQ.pdf" target="_blank" rel="noopener">COVID 19 Wage Support FAQ (PDF, 41 KB)</a>
 
 {% include secondary-btn.html href="https://programmes.enterprisejobskills.gov.sg/WorkStudyEmployerProgrammes/Programme_Summary.aspx" text="Read More" target="_blank" rel="noopener" %}
 
