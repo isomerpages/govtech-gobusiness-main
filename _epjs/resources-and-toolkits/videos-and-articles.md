@@ -1,10 +1,10 @@
 ---
-title: Videos and Articles
+title: Resources
 permalink: /enterprisejobskills/resources-and-toolkits/videos-and-articles/
 third_nav_title: Resources and Toolkits
 ---
 
-## Videos and Articles
+## Resources
 
 ![Article](/images/epjs/resources-and-toolkits/videos-and-articles/New scheme offers funding and professional help for service companies to transform and boost productivity.png)
 
