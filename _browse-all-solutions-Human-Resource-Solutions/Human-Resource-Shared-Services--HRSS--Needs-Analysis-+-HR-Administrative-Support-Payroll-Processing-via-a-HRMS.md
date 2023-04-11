@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution4205' target='_blank'>BIPO HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution603' target='_blank'>BIPO HRMS</a><br></td>
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 </table>
