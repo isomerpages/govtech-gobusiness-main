@@ -64,6 +64,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution967' target='_blank'>MEGAPOS</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
@@ -82,6 +86,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1632' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
 <td>Weebo Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1660' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
+<td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>
 

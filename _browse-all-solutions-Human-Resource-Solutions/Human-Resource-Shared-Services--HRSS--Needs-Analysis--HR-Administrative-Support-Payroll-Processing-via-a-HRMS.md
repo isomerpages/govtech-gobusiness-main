@@ -40,6 +40,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution603' target='_blank'>BIPO HRMS</a><br></td>
+<td>Enable Consulting Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution680' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
