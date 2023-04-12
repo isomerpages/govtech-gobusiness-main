@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution3069
 
 **Description**
 
-This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
 
 ## Solution Packages Option(s)
 
