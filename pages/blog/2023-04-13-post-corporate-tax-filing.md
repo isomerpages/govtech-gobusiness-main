@@ -47,7 +47,7 @@ Owners of Sole-Proprietorships and Partnerships can expect to receive a notifica
 
 Upon receiving the notification, a 2-line or 4-line Statement needs to be extracted from the balance sheet for tax filing. The former is required if your revenue is less than S$200,000 for the YA, while the latter is required for companies whose revenue exceeds S$200,000. 
 
-![Comparison of 2-Line and 4-Line Statements on Income Tax Return from](/images/blog/content/CorporateTax 1.jpg)
+![Comparison of 2-Line and 4-Line Statements on Income Tax Return from](/images/blog/content/CorporateTax 1.png)
 <figcaption>A 2-Line and a 4-Line statement on the Income Tax Return form</figcaption>
 
 In the 2-line Statement, companies are required to declare their revenue and adjusted profit/loss. Meanwhile, the 4-line Statement will require more information including their revenue, gross profit/loss, allowable business expense as well as adjusted profit/loss.
@@ -76,7 +76,7 @@ Form C-S and Form C-S (Lite) are applicable for companies that only derive incom
 
 All other companies that do not meet the above criteria will need to submit Form C.
 
-![Table comparison of Form C-S, C-S (Lite) and C](/images/blog/content/CorporateTax 2.jpg)
+![Table comparison of Form C-S, C-S (Lite) and C](/images/blog/content/CorporateTax 2.png)
 <figcaption>Submission criteria for Form C-S, Form C-S (Lite) and Form C. (Image: IRAS)</figcaption>
 
 Companies eligible for Form C-S and C-S (Lite) need not submit their financial statements and tax computations. The two forms also comprise much fewer fields than Form C, with Form C-S comprising only about half the number of fields to fill in and Form C-S (Lite) with as little as six fields. 
