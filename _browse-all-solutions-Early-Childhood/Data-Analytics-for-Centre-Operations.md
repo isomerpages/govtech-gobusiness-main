@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Opera
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, 50% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 
