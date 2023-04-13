@@ -12,6 +12,6 @@ image: /images/news/News_Events eAdviser launch.jpg
 
 ![](/images/news/News_Events eAdviser launch.jpg)
 
-The newly launched [Events Proposal Box](/gobiz-guides/guide-for-organising-events/?src=news#proposal_drop) allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for MICE, and Sports and Fitness events are accepted.
+The newly launched [Events Proposal Box](/gobiz-guides/guide-for-organising-events/?src=news#proposal_box) allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for MICE, and Sports and Fitness events are accepted.
 
 The Events Proposal Box, together with an e-Adviser for Events, will be part of the [Guide for Organising Events](/gobiz-guides/guide-for-organising-events/?src=news), a new events page to provide organisers with tools to navigate the process of organising events in Singapore.
