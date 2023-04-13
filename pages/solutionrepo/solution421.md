@@ -1,37 +1,43 @@
 ---
-title: 'Blast Freezer'
+title: 'Qoqolo Preschool E-Form'
 permalink: /productivity-solutions-grant/solutionrepo/solution421
 ---
 
-## Blast Freezer
+## Qoqolo Preschool E-Form
 
 ## Overview
 
 **Description**
 
-Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
-
-Cost of equipment capped at $30,000 per unit
+Qoqolo is a School Management System with a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management and more.  Qoqolo E-Form solution provides a hassle-free online registration service for parents to enrol their children directly and allow preschools to manage the enrolment process efficiently. It supports form validation, uploading of supporting documents and ECDA Form
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package</td>
+<td style='padding: 10px;'>$1,680.00</td>
+<td style='padding: 10px;'>$1,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
