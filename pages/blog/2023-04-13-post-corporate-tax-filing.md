@@ -9,7 +9,7 @@ description: As a new business owner, taxes are probably the last thing you thin
 ---
 
 ![Corporate income tax filing for new business owners](/images/blog/content/CorporateTax Feature.jpg)
-<figcaption>This guide will help you navigate the process of filing corporate income taxes, especially if this is your first time. (Image: Canva)</figcaption>
+<figcaption>This guide will help you navigate the process of filing corporate income taxes, especially if this is your first time (Image: Canva)</figcaption>
 
 Tax filing season is here! For new business owners just getting their feet under the table, this may be a confusing time with many questions - do I need to file corporate taxes? How much do I pay in taxes? How do I file them? 
 
@@ -31,9 +31,9 @@ Do note that a [sole-proprietorship or partnership](https://www.iras.gov.sg/taxe
 
 Companies will be taxed for the income they have earned in the preceding financial year. This means that in 2023, you will be taxed for income you’ve made in the financial year 2022, which will be known as the Year of Assessment (YA). 
 
-For most companies, the financial year-end would be on 31st December, although some companies may choose other dates like the last day of each quarter. 
+For most companies, the financial year-end would be on 31 December, although some companies may choose other dates like the last day of each quarter. 
 
-Do note that if your company’s financial year-end does not fall on 31st December, you will need to inform the Inland Revenue Authority of Singapore (IRAS). The same applies if your financial year lasts longer than 12 months.
+Do note that if your company’s financial year-end does not fall on 31 December, you will need to inform the Inland Revenue Authority of Singapore (IRAS). The same applies if your financial year lasts longer than 12 months.
 
 Companies in Singapore are taxed at a flat rate of 17 per cent of its [chargeable income](https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/taxable-non-taxable-income){:target="_blank"}{:rel="noopener"}, which refers to your income after deducting [tax-allowable expenses](https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/business-expenses){:target="_blank"}{:rel="noopener"}. Where applicable, [capital allowances](https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/claiming-allowances/capital-allowances){:target="_blank"}{:rel="noopener"} and [reliefs](https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/claiming-reliefs){:target="_blank"}{:rel="noopener"} can also be deducted from your income when filing for taxes for lower taxes. 
 
@@ -58,17 +58,17 @@ Unlike Sole-Proprietorships and Partnerships, other businesses are required to f
 
 **1. Estimated Chargeable Income (ECI)**
 
-The [ECI](https://www.iras.gov.sg/taxes/corporate-income-tax/estimated-chargeable-income-(eci)-filing){:target="_blank"}{:rel="noopener"} is a document to declare an estimate of your company’s taxable profits for a YA. It needs to be filed within 3 months from the end of the financial year (i.e. if your financial year ends on 31 December 2022, the ECI has to be submitted by 31 March 2023.
+The [ECI](https://www.iras.gov.sg/taxes/corporate-income-tax/estimated-chargeable-income-(eci)-filing){:target="_blank"}{:rel="noopener"} is a document to declare an estimate of your company’s taxable profits for a YA. It needs to be filed within three months from the end of the financial year (i.e. if your financial year ends on 31 December 2022, the ECI has to be submitted by 31 March 2023).
 
-Companies who qualify for the ECI filing waiver need not submit the ECI. This includes companies who meet both requirements of having an annual revenue under SG$5 million and whose ECI is nil for the YA. In other words, they should not have any taxable profits (calculated by their annual revenue after deducting tax-allowable expenses).
+Companies who qualify for the ECI filing waiver need not submit the ECI. This includes companies who meet both requirements of having an annual revenue under S$5 million and whose ECI is nil for the YA. In other words, they should not have any taxable profits (calculated by their annual revenue after deducting tax-allowable expenses).
 
 Do note that the ECI filing waiver is based on self-assessment. Your company’s ECI filing status on [IRAS’ website](https://mytax.iras.gov.sg/ESVWeb/default.aspx){:target="_blank"}{:rel="noopener"} may still reflect ‘Ready to File’ even if you qualify for the waiver. According to IRAS, there is no need to seek confirmation or inform them of the waiver as long as either of the two conditions are met. 
 
 **2. Form C-S/C-S Lite/C**
 
-[Form C-S/C-S (Lite)/C](https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/overview-of-form-c-s-form-c-s-(lite)-form-c){:target="_blank"}{:rel="noopener"} is a Corporate Income Tax Return for declaration of your actual income. As compared to the ECI, it goes into much deeper detail of your company’s finances. Taking this into account, companies will also have more time to file these forms. The due date for these forms is on 30th November of the YA. 
+[Form C-S/C-S (Lite)/C](https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/overview-of-form-c-s-form-c-s-(lite)-form-c){:target="_blank"}{:rel="noopener"} is a Corporate Income Tax Return for declaration of your actual income. As compared to the ECI, it goes into much deeper detail of your company’s finances. Taking this into account, companies will also have more time to file these forms. The due date for these forms is on 30 November of the YA. 
 
-This means that if you were to close your financial year in 2022, the Form will need to be submitted by 30th November 2023. 
+This means that if you were to close your financial year in 2022, the Form will need to be submitted by 30 November 2023. 
 
 The three forms differ in level of complexity and each has a different criteria to determine which form a company has to file, depending on their annual revenue. 
 
@@ -77,7 +77,7 @@ Form C-S and Form C-S (Lite) are applicable for companies that only derive incom
 All other companies that do not meet the above criteria will need to submit Form C.
 
 ![Table comparison of Form C-S, C-S (Lite) and C](/images/blog/content/CorporateTax 2.png)
-<figcaption>Submission criteria for Form C-S, Form C-S (Lite) and Form C. (Image: IRAS)</figcaption>
+<figcaption>Submission criteria for Form C-S, Form C-S (Lite) and Form C (Image: IRAS)</figcaption>
 
 Companies eligible for Form C-S and C-S (Lite) need not submit their financial statements and tax computations. The two forms also comprise much fewer fields than Form C, with Form C-S comprising only about half the number of fields to fill in and Form C-S (Lite) with as little as six fields. 
 
@@ -87,7 +87,7 @@ Congratulations! You’ve gotten past the most difficult part of corporate tax f
 
 All you have to do to file your taxes is to log into the [MyTax Portal](https://mytax.iras.gov.sg/ESVWeb/default.aspx){:target="_blank"}{:rel="noopener"} and select the ‘Business Tax’ section. You can then log in via SingPass, select whether you’re filing the ECI or Form C-S/C-S (Lite)/C and follow the instructions on the site.
 
-Afterwhich, you can expect to receive Notices of Assessment from IRAS by 31 May the following year. In other words, if you submit your ECI for Financial Year 2022 in March 2023, and the Form C-S/C-S (Lite)/C in November 2023, you’ll receive the Notices of Assessment by May 2024. You will then have 1 month to pay the corporate tax amount from the time you receive the Notices of Assessment. 
+Afterwhich, you can expect to receive Notices of Assessment from IRAS by 31 May the following year. In other words, if you submit your ECI for Financial Year 2022 in March 2023, and the Form C-S/C-S (Lite)/C in November 2023, you’ll receive the Notices of Assessment by May 2024. You will then have one month to pay the corporate tax amount from the time you receive the Notices of Assessment. 
 
 Remember: Late corporate tax filing can incur fines or summons, so do ensure you file your taxes on time! 
 
