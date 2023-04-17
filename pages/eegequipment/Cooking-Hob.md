@@ -95,6 +95,7 @@ Induction technology
 - Mayer - MMIH302HS
 - Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
+- OZTI - 7865.N1.80903.IS
 - ROLLER GRILL Sia-Huat - (238SD-PIC25)
 - ROLLER GRILL Sia-Huat - (238SD-PID30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)
@@ -120,6 +121,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>

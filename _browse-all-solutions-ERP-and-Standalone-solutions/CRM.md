@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,44 +28,44 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2309' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
-<td>Pepper Cloud Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2511' target='_blank'>FirstCRM</a><br></td>
-<td>Firstcom Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2665' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
-<td>FLAVOR PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2730' target='_blank'>WEB360 Version 2.0.0</a><br></td>
-<td>Quality Zone Technologies Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2881' target='_blank'>Eber Smart Members Solution</a><br></td>
-<td>Eber Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3396' target='_blank'>TWCSS - teamWork CRM</a><br></td>
-<td>teamWork APAC Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3601' target='_blank'>Crystal Dash CRM</a><br></td>
-<td>Crystal Net Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3628' target='_blank'>CARDDIO Version 1</a><br></td>
-<td>Carddio Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3712' target='_blank'>1SME</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution326' target='_blank'>1SME</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution4094' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution375' target='_blank'>CARDDIO Version 1</a><br></td>
+<td>Carddio Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution469' target='_blank'>Crystal Dash CRM</a><br></td>
+<td>Crystal Net Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution552' target='_blank'>Eber Smart Members Solution</a><br></td>
+<td>Eber Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution652' target='_blank'>FirstCRM</a><br></td>
+<td>Firstcom Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution657' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td>FLAVOR PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1152' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td>Pepper Cloud Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1210' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td>Quality Zone Technologies Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1216' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1472' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td>teamWork APAC Pte. Ltd.</td>
 </tr>
 </table>
 
