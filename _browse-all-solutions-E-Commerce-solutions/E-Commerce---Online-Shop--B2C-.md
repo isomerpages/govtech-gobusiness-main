@@ -183,6 +183,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1626' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
 <td>Websentials Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4219' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
+<td>Aks Tech Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4221' target='_blank'>WLP Digital Ecommerce Web Development (WooCommerce)</a><br></td>
+<td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
