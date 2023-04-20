@@ -1,60 +1,28 @@
 ---
-title: 'Aptsys - Digital Ordering Solutions'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution3830
 ---
 
-## Aptsys - Digital Ordering Solutions
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter Version 2.0</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter with Customer Relation Management System Version 2.0</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
@@ -62,10 +30,6 @@ Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O 
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
