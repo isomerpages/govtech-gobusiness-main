@@ -38,7 +38,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**NEA DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance from 5 Apr 2023 6:30pm to 8:30pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 19 Apr 2023 from 6:30pm to 8:30pm. We apologise for the inconvenience caused.",
 
 
   //[**SINGPASS**]

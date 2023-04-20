@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
+title: 'ABSS Premier - Accounting and Sales Management System Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution2
 ---
 
-## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+## ABSS Premier - Accounting and Sales Management System Version 30
 
 ## Overview
 
 **Description**
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+Managed by a Chartered Accountant with 30 years of experience, 01 BUSINESS SOLUTIONS PTE LTD is a certified ABSS partner, and had helped many local SMEs to setup accounting systems seamlessly, and with immediate result. ABSS Premier is an integrated accounting, sales, purchase and inventory management solution that integrate with PEPPOL e-invoicing network. A GST-compliant software, it helps businesses to streamline their accounting and operational procedures, and increases productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package A (1-User with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'>$3,553.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package B (3-Users with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$4,694.00</td>
+<td style='padding: 10px;'>$4,694.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package C (1-User Licence)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package D (3-Users Licence)</td>
+<td style='padding: 10px;'>$2,744.00</td>
+<td style='padding: 10px;'>$2,744.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus Implementation Package E (1-User with onsite training, setup & installation)</td>
+<td style='padding: 10px;'>$5,641.00</td>
+<td style='padding: 10px;'>$5,641.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 
 ## Vendor Information
 
- Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
+ Company name:01 BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://www.01businesssolutions.com/psg-grant/ <br>Contact Hotline: 62203306 <br>Contact Email: sales@01businesssolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

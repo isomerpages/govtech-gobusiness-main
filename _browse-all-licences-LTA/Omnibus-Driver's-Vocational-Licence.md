@@ -15,7 +15,7 @@ Land Transport Authority (LTA)
 <H3>Application Details</H3>
 
 <p>Apply for this licence to be an omnibus driver. The licence is valid only while the holder is an omnibus driver with a public transport operator.</p>
-<p><span data-preserver-spaces="true">To request a physical card, log in to <a href="https://licence1.business.gov.sg/feportal/web/frontier/home" target="_blank" rel="noopener">GoBusiness Licensing</a> on </span><strong><span data-preserver-spaces="true">desktop</span></strong><span data-preserver-spaces="true"> and submit an amend application requesting for a vocational licence card.</span></p>
+<p><span data-preserver-spaces="true">To request a physical card, log in to <a href="https://licence1.business.gov.sg/feportal/web/frontier/home" target="_blank" rel="noopener">GoBusiness Licensing</a> on </span><strong><span data-preserver-spaces="true">desktop</span></strong><span data-preserver-spaces="true"> and submit an amend application for a vocational licence card.</span></p>
 <h3>FAQ</h3>
 <p><strong><u>ODVL APPLICATION</u></strong></p>
 <ol>
