@@ -55,7 +55,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
   //[PWMark]
-  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance on 24 Apr 2023 from 12am to 8am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance on 23 Apr 2023 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
