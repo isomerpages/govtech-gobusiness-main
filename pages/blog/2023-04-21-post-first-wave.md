@@ -23,7 +23,6 @@ With experience managing events alongside brand names and organisations such as 
 
 “Just the other day, I started my day off at East Coast Park meeting a partner to run through our goals and intentions for the year,” she recalls. “We managed to clock in a workout and iron out exciting partnership plans together for 2023!” 
 
-
 ### Forging connections
 
 With over six years in the events industry, Crystal’s no stranger to event management. She’s donned many hats in event planning, from handling field work as an Account Executive, to managing strategy and partnership roles.  
