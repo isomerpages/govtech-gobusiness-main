@@ -8,7 +8,7 @@ crumbs: behind-the-business
 description: Get an in-depth perspective on the ins and outs of the world of events.
 ---
 
-![first wave crystal tan at blockplay expo 2022](/images/blog/content/FirstWave Feature.jpg)
+![Crystal Tan speaking to an audience at BlockPlay Expo 2022](/images/blog/content/FirstWave Feature.jpg)
 <figcaption>Crystal Tan, Strategy & Innovation Lead, speaking at BlockPlay Expo 2022, an Intellectual Property (IP) project by her company First Wave (Image: Crystal Tan)</figcaption>
 
 Have you ever thought about the effort and preparation that goes into planning events, like a trade fair or a convention? 
@@ -17,7 +17,7 @@ Just what does it take to bring together hundreds – if not thousands – of me
 
 For Crystal Tan, Strategy and Innovation Lead at event company First Wave, it all comes down to grit.
 
-With experience managing events alongside brand names and organisations such as Hasbro, National Environment Agency, and CPF Board, Crystal brings with her a wealth of expertise in bringing people together, and her enthusiasm for forging ahead amid the unknown.
+With experience managing events alongside brand names and organisations such as Hasbro, National Environment Agency (NEA), and Central Provident Fund (CPF) Board, Crystal brings with her a wealth of expertise in bringing people together, and her enthusiasm for forging ahead amid the unknown.
 
 "Every day, it's different. I don't go in knowing what is going to happen," she laughs. It's a job that literally takes her places, as Crystal’s meetings bring her all over Singapore - she’s even attended meetings with clients at parks. 
 
@@ -34,8 +34,8 @@ One of her most memorable projects was the CPF Game On! Programme, which aimed t
 
 Her work in event planning has also granted Crystal the opportunity to collaborate with partners to push for social change. One such project was Together Against Stigma, for which First Wave collaborated with the Institute of Mental Health to conduct an international conference on mental healthcare.
 
-![First Wave events singapore together](/images/blog/content/FirstWave 1.jpg)
-<figcaption>Crystal with her team in June 2019, following a live broadcast with CNA. (Image: Crystal Tan)</figcaption>
+![Crystal stands with seven of her team members on stage at a Channel News Asia event.](/images/blog/content/FirstWave 1.jpg)
+<figcaption>Crystal with her team in June 2019, .following a live broadcast with Channel News Asia (CNA) (Image: Crystal Tan)</figcaption>
 
 ### Making event planning easier with GoBusiness
 
@@ -47,16 +47,16 @@ The [GoBusiness](http://www.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"
 
 “It became a central point of information. A few years ago, if you needed information from SCDF [and] SPF, you had to go to the SCDF website, [and then] SPF’s [website]. It was all separate,” she says.
 
-“Now, everything is linked to either your CorpPass or your SingPass, so once you log in, you get to see everything at a single point, rather than having to go [to individual sites] to check in and update each other manually. It really streamlines the process.”
+“Now, everything is linked to either your Corppass or your Singpass, so once you log in, you get to see everything at a single point, rather than having to go [to individual sites] to check in and update each other manually. It really streamlines the process.”
 
 She also appreciates the live chat function on GoBusiness, which enables her to seek answers to any questions she has in real time. 
 
 As different events in Singapore require different licences, one of the regulatory challenges Crystal faces is knowing which licences to apply for, as this depends on the nature of the event that is being conducted. These include different permits and licences for features such as a live band, which vary based on the type of event one is planning, from festivals to conferences.
 
-![GoBusiness e-Adviser for Events](/images/blog/content/FirstWave 2.png)
+![A screenshot of GoBusiness e-Adviser for Events.](/images/blog/content/FirstWave 2.png)
 <figcaption>The e-Adviser for Events on GoBusiness helps event organisers identify the relevant licences and permits to apply for</figcaption>
 
-She finds the e-Adviser for Events very helpful in helping her to overcome this challenge for planning events: “GoBusiness has a function where they prompt questions and give automated recommendations as to what licences we might need for the event. This is extremely helpful to ensure we have covered all grounds during event execution when it comes to licence applications.” 
+She finds the e-Adviser for Events very helpful in helping her to overcome this challenge for planning events: “It prompts questions and gives automated recommendations as to what licences we might need for the event. This is extremely helpful to ensure we have covered all grounds during event execution when it comes to licence applications.” 
 
 Aside from identifying the relevant permits and licences needed to execute an event, attaining them can also be a challenge.
 
@@ -72,7 +72,7 @@ She is heartened by the rising popularity of digital events, and excited to see 
 
 According to Crystal, the trend toward digital events also creates an opportune moment for those looking to enter the events space, especially if they are digitally savvy. 
 
-![First Wave events SME Day 2019 conference](/images/blog/content/FirstWave 3.jpg)
+![The First Wave team at the SME Day 2019 conference.](/images/blog/content/FirstWave 3.jpg)
 <figcaption>Pushing boundaries with the First Wave team at SME Day 2019, a conference project (Image: Crystal Tan)</figcaption>
 
 ### Tips for new and aspiring event organisers
@@ -86,9 +86,9 @@ Valuing work-life integration over work-life balance is key for prospective entr
 
 Being a good team player is also an important trait that event planners should possess, she says: “Being a team player helps you build your relationships with colleagues, [and] build rapport with your vendors or partners for your event, making the overall work experience pleasant.”
 
-**Navigate the process of organising events in Singapore with the  [GoBusiness Guide for Organising Events](/gobiz-guides/guide-for-organising-events?src=eservices){:target="_blank"}{:rel="noopener"}!**
+**You can now easily navigate the process of organising events in Singapore with the  [GoBusiness Guide for Organising Events](/gobiz-guides/guide-for-organising-events?src=eservices){:target="_blank"}{:rel="noopener"}!**
 
-**Seeking for government endorsement and partnership for your event? Submit your event proposal in the Events Proposal Drop Box for [MICE events](https://form.gov.sg/630c5cf62c1e910013aa7d28) and [sport and fitness events](https://form.gov.sg/630c5ccd0386aa0012c8def8){:target="_blank"}{:rel="noopener"} available in the Guide.**
+**Seeking for government endorsement and partnership for your event? Submit your event proposal in the Events Proposal Box for [MICE events](https://form.gov.sg/630c5cf62c1e910013aa7d28) and [sport and fitness events](https://form.gov.sg/630c5ccd0386aa0012c8def8){:target="_blank"}{:rel="noopener"} available in the Guide.**
 
 **Need help with identifying the right event licences? Simply fill up your event details in the [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events/){:target="_blank"}{:rel="noopener"} to receive personalised  recommendations on the types of licences and permits to apply for.**
 
