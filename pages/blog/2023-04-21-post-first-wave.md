@@ -17,7 +17,7 @@ Just what does it take to bring together hundreds – if not thousands – of me
 
 For Crystal Tan, Strategy and Innovation Lead at event company First Wave, it all comes down to grit.
 
-With experience managing events alongside brand names and organisations such as Hasbro, National Environment Agency (NEA), and Central Provident Fund (CPF) Board, Crystal brings with her a wealth of expertise in bringing people together, and her enthusiasm for forging ahead amid the unknown.
+With experience managing events alongside brand names and organisations such as Hasbro, National Environment Agency, and Central Provident Fund (CPF) Board, Crystal brings with her a wealth of expertise in bringing people together, and her enthusiasm for forging ahead amid the unknown.
 
 "Every day, it's different. I don't go in knowing what is going to happen," she laughs. It's a job that literally takes her places, as Crystal’s meetings bring her all over Singapore - she’s even attended meetings with clients at parks. 
 
@@ -35,7 +35,7 @@ One of her most memorable projects was the CPF Game On! Programme, which aimed t
 Her work in event planning has also granted Crystal the opportunity to collaborate with partners to push for social change. One such project was Together Against Stigma, for which First Wave collaborated with the Institute of Mental Health to conduct an international conference on mental healthcare.
 
 ![Crystal stands with seven of her team members on stage at a Channel News Asia event.](/images/blog/content/FirstWave 1.jpg)
-<figcaption>Crystal with her team in June 2019, .following a live broadcast with Channel News Asia (CNA) (Image: Crystal Tan)</figcaption>
+<figcaption>Crystal with her team in June 2019, .following a live broadcast with Channel News Asia (Image: Crystal Tan)</figcaption>
 
 ### Making event planning easier with GoBusiness
 
@@ -43,9 +43,9 @@ As event planning requires many logistical plans, staying on top of logistical d
 
 Adapting to the ever-changing requirements for event execution during the pandemic was a challenge, as the permits and manpower limits for events were constantly evolving. Crystal and her team found themselves having to adjust their logistical plans to align with the updated requirements. 
 
-The [GoBusiness](http://www.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"} platform proved to be especially useful in helping to overcome regulatory challenges, as it provided timely updates on the logistical requirements for events in Singapore, which aided Crystal and her team in managing various aspects of event management, from event planning to the execution of marketing collaterals like posters and EDMs.  
+The [GoBusiness](http://www.gobusiness.gov.sg){:target="_blank"}{:rel="noopener"} platform proved to be especially useful in helping to overcome regulatory challenges, as it provided timely updates on the logistical requirements for events in Singapore, which aided Crystal and her team in managing various aspects of event management, from event planning to the execution of marketing collaterals like posters and mailers.  
 
-“It became a central point of information. A few years ago, if you needed information from SCDF [and] SPF, you had to go to the SCDF website, [and then] SPF’s [website]. It was all separate,” she says.
+“It became a central point of information. A few years ago, if you needed information from Singapore Civil Defence Force (SCDF) [and] Singapore Police Force (SPF), you had to go to the SCDF website, [and then] SPF’s [website]. It was all separate,” she says.
 
 “Now, everything is linked to either your Corppass or your Singpass, so once you log in, you get to see everything at a single point, rather than having to go [to individual sites] to check in and update each other manually. It really streamlines the process.”
 
