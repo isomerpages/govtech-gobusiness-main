@@ -45,11 +45,6 @@
   email: ema_erl@ema.gov.sg
 
 - title: Enterprise Singapore
-  description: Call Centre - Rice
-  tel: +65 6898 1800
-  email: rice@enterprisesg.gov.sg
-
-- title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
   email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
@@ -198,7 +193,7 @@
   email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
 
 - title: Singapore Food Agency (SFA)
-  description: Contact Centre
+  description: Contact Centre<br>(including Rice Licence)
   tel: +65 6805 2871
   url: csp.sfa.gov.sg/feedback
   url-new-tab: true

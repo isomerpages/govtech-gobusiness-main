@@ -1,10 +1,9 @@
 - banner: <img src="/images/grow/eventorganisers.jpg">
   title: For event organisers
-  is_new: false
-  description: Find out the licences and permits you need to organise an event with our new e-Adviser for Events. 
-  url: https://eadviser.gobusiness.gov.sg/events/?src=run&grow_licences_fs
-  url-new-tab: true
-  text: Go to e-Adviser for Events
+  is_new: true
+  description: The Guide for Organising Events provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Box.
+  url: /gobiz-guides/guide-for-organising-events/?src=run&grow_licences_fs
+  text: Go to Guide for Organising Events
 
 - banner: <img src="/images/grow/puc.jpg">
   title: For checking premises use

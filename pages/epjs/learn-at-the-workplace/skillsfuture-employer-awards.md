@@ -29,7 +29,7 @@ The SkillsFuture Employer Awards is open to all Singapore registered entities, i
 
 ### How to apply:
 
-- Applications are now open till 20 Mar 2023. 
+- Applications are currently closed. 
 
 For further enquiries, please contact the appointed Programme Manager for the SkillsFuture Employer Awards at [sfa@snef.org.sg](mailto:sfa@snef.org.sg).
 

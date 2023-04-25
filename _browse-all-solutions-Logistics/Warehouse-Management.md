@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Logistics/Warehouse-Management
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,16 +28,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2376' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
-<td>SIMPLR SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2713' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution715' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
 <td>Gurusoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3182' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution898' target='_blank'>iLOGON (iWMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1358' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
+<td>SIMPLR SOLUTIONS PTE LTD</td>
 </tr>
 </table>
 
