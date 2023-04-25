@@ -115,6 +115,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MCE-4M28E
 - Midea - MDVC-V110W/DN1
 - Midea - MDVC-V145W/DN1
 - Midea - MDVC-V170W/DN1
@@ -133,38 +134,27 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - MXY-6C140VA
 - Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - PUCY-P200YKD.TH
-- Mitsubishi Electric - PUCY-P200YKD.TH, PUCY-P200YKD.TH-BS
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH
-- Mitsubishi Electric - PUCY-P250YKD.TH, PUCY-P250YKD.TH-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH-BS
 - Mitsubishi Electric - PUCY-P300YKD.TH
-- Mitsubishi Electric - PUCY-P300YKD.TH, PUCY-P300YKD.TH-BS
 - Mitsubishi Electric - PUCY-P300YKD.TH-BS
 - Mitsubishi Electric - PUCY-P350YKD.TH
-- Mitsubishi Electric - PUCY-P350YKD.TH, PUCY-P350YKD.TH-BS
 - Mitsubishi Electric - PUCY-P350YKD.TH-BS
 - Mitsubishi Electric - PUCY-P500YKD.TH
-- Mitsubishi Electric - PUCY-P500YKD.TH, PUCY-P500YKD.TH-BS
 - Mitsubishi Electric - PUCY-P500YKD.TH-BS
 - Mitsubishi Electric - PUMY-CP175YKM2-PA
-- Mitsubishi Electric - PUMY-CP175YKM2-PA, PUMY-CP175YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP175YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP175YKM-PA
 - Mitsubishi Electric - PUMY-CP175YKM-PA-BS
-- Mitsubishi Electric - PUMY-CP175YKM-PA-BS, PUMY-CP175YKM-PA
 - Mitsubishi Electric - PUMY-CP200YKM2-PA
-- Mitsubishi Electric - PUMY-CP200YKM2-PA, PUMY-CP200YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP200YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP200YKM-PA
 - Mitsubishi Electric - PUMY-CP200YKM-PA-BS
-- Mitsubishi Electric - PUMY-CP200YKM-PA-BS, PUMY-CP200YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM2-PA
-- Mitsubishi Electric - PUMY-CP225YKM2-PA, PUMY-CP225YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP225YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
-- Mitsubishi Electric - PUMY-CP225YKM-PA-BS, PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUY-M125VKA-SG
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC100YNA-W
@@ -226,6 +216,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>
