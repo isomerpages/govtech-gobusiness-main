@@ -112,10 +112,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Autocount (S) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution285' target='_blank'>Xero</a><br></td>
-<td>Bamboo Sea Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution291' target='_blank'>Beaufort-Xero Digital Solutions</a><br></td>
 <td>Beaufort Tax Consultants Pte Ltd</td>
 </tr>
@@ -278,6 +274,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1707' target='_blank'>Quickbooks Online Accounting Software</a><br></td>
 <td>Zenit Accountancy Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4222' target='_blank'>Quickbook Online</a><br></td>
+<td>IRIS CORPORATE SERVICES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4228' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
+<td>Singapore Corporate Services Pte Ltd</td>
 </tr>
 </table>
 
