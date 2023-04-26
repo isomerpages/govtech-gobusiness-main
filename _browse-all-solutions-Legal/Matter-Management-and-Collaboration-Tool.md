@@ -12,14 +12,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
-
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2014500854'  target='_blank' rel='noopener'>1. Facilitate Effective Communication and Engagement at the Workplace</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2017500995'  target='_blank' rel='noopener'>2. ICDL Online Collaboration</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505582'  target='_blank' rel='noopener'>3. Enhance Productivity Using Virtual Collaboration Tools</a><br>
-
 ## Pre-Approved Solutions
 
 <table>
