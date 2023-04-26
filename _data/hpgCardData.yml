@@ -56,7 +56,7 @@
   id: 4
   href_1: '/enterprisejobskills/?src=home_quicklinks'
   text_1: Enterprise Portal for Jobs and Skills (EPJS)
-  is_new_1: true
+  is_new_1: false
   href_2: '/accreditation/?src=home_quicklinks'
   text_2: Accreditation
   href_3: '/gebiz-alerts/?src=home_quicklinks'
