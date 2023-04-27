@@ -50,7 +50,7 @@ Benefit from MediaOne's digital marketing solutions that bring results to client
 
 ## Vendor Information
 
- Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.com <br>Contact Hotline: 69657008 <br>Contact Email: contact@mediaone.com <br>
+ Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.co<br>Contact Hotline: 69657008 <br>Contact Email: contact@mediaone.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

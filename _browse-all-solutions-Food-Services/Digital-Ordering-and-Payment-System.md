@@ -104,10 +104,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1287' target='_blank'>Popcorn Point-of-sales System Version 1</a><br></td>
-<td>Rockbell International Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1327' target='_blank'>Sapaad Version 601</a><br></td>
 <td>Sapaad Pte Ltd</td>
 </tr>
@@ -146,6 +142,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1689' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4233' target='_blank'>Smartweb Version V3</a><br></td>
+<td>TabSquare Pte Ltd</td>
 </tr>
 </table>
 
