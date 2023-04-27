@@ -10,6 +10,8 @@ third_nav_title: Accreditation
 
 Accreditation certifies that your company has been assessed and meets the requirements by a trusted Conformity Assessment Body (CAB) or equivalent authority. It signals to your customers that your company has met the specified standards. This helps enhance your company’s profile and credibility.
 
+{% include banner-advertising.html %}
+
 ### Accreditations you can apply on GoBusiness
 
 {% include panels-featurelink.html panels=site.data.rgp005_accreditation %}

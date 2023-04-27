@@ -116,10 +116,6 @@ The revisions are summarised below. Please refer to Annexes A and B under "Resou
 ### Resources
 
 - <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf" target="_blank" rel="noopener">Information and guide to claim Absentee Payroll Funding (PDF,1643kb)</a>
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SkillsFuture%20Funding%20Changes%20FAQ.pdf" target="_blank" rel="noopener">SkillsFuture Funding Changes FAQ (PDF,137KB)</a>
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SkillsFuture%20Funding%20Changes%20Infographic.pdf" target="_blank" rel="noopener">SkillsFuture Funding Changes Infographic (PDF,137KB)</a>
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/AnnexA_Revisions%20to%20Course%20Fee%20Funding.pdf" target="_blank" rel="noopener">Annex A: Revision to SkillsFuture Course Fee Funding (PDF,139KB)</a>
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/AnnexB_Revisions%20to%20Absentee%20Payroll%20Funding.pdf" target="_blank" rel="noopener">Annex B: Revisions to Absentee Payroll Funding (PDF,108KB)</a>
 
 ---
 
