@@ -79,6 +79,7 @@ Commercial refrigerator: Inverter technology
 - Daiwa - 401YSS-NP-EX
 - Daiwa - 403CD-EX
 - Daiwa - 403CD-NP-EX
+- Daiwa - 403HC-EX
 - Daiwa - 403HC-NP-EX
 - Daiwa - 403S1-EX
 - Daiwa - 403S2-EX
@@ -121,6 +122,10 @@ Commercial refrigerator: Inverter technology
 - Daiwa - 603YSS-EX
 - Daiwa - 6071S-EC
 - Daiwa - 6161S-EC
+- Daiwa - DKR-126-EC
+- Daiwa - DKR-127-EC
+- Daiwa - DKR-156-EC
+- Daiwa - DKR-157-EC
 - Daiwa - ROP-301FCB-EC
 - Daiwa - ROP-401FCB-EC
 - Daiwa - ROP-603FCB-EC
@@ -148,7 +153,6 @@ Commercial refrigerator: Inverter technology
 - EuropAce - ER 5461W
 - EuropAce - ER 5501A
 - EuropAce - ER 7256W
-- FHIABA - S8990FR6
 - FHIABA - S8990TST6i
 - FHIABA - S8991TST3I
 - FHIABA - S8991TST6I
@@ -235,15 +239,12 @@ Commercial refrigerator: Inverter technology
 - Hitachi - R-XG450KS
 - Hitachi - R-XG480KS
 - Hitachi - R-ZXC740KS
-- Hoshizaki - FT-120SDG-1
 - Hoshizaki - FT-120SNG-1
-- Hoshizaki - FT-150SDG-1
 - Hoshizaki - FT-150SNG-1
 - Hoshizaki - FT-180SDG-1
 - Hoshizaki - FT-180SNG-1
 - Hoshizaki - FT-90SDG-1
 - Hoshizaki - FT-90SNG-1
-- Hoshizaki - HF-120A-1
 - Hoshizaki - HF-120AT-1
 - Hoshizaki - HF-150A3-1
 - Hoshizaki - HF-150AT3-1
@@ -251,9 +252,7 @@ Commercial refrigerator: Inverter technology
 - Hoshizaki - HF-180AT3-1
 - Hoshizaki - HF-63A-1
 - Hoshizaki - HF-63AT-1
-- Hoshizaki - HF-75A-1
 - Hoshizaki - HF-75AT-1
-- Hoshizaki - HR-120A-1
 - Hoshizaki - HR-120AT-1
 - Hoshizaki - HR-150A-1
 - Hoshizaki - HR-150AT-1
@@ -269,10 +268,12 @@ Commercial refrigerator: Inverter technology
 - Hoshizaki - RFT-150SNG-1
 - Hoshizaki - RFT-180SDG-1
 - Hoshizaki - RFT-180SNG-1
-- Hoshizaki - RT-120SDG
+- Hoshizaki - RSC-120E
+- Hoshizaki - RSC-120ET
+- Hoshizaki - RSC-90E
+- Hoshizaki - RSC-90ET
 - Hoshizaki - RT-120SDG-1
 - Hoshizaki - RT-120SNG-1
-- Hoshizaki - RT-150SDG-1
 - Hoshizaki - RT-150SNG-1
 - Hoshizaki - RT-180SDG-1
 - Hoshizaki - RT-180SNG-1
@@ -423,16 +424,9 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-WX70C-BR-P
 - Mitsubishi Electric - MR-WX70C-W-P
 - Panasonic - NR-BC360X
-- Panasonic - NR-BD460GKSG
-- Panasonic - NR-BD460VPSG
-- Panasonic - NR-BL351
-- Panasonic - NR-BL381
 - Panasonic - NR-BV320X
 - Panasonic - NR-BV361B
 - Panasonic - NR-BW530X
-- Panasonic - NR-BX460GKSG
-- Panasonic - NR-BX460WSSG
-- Panasonic - NR-BX460XSSG
 - Panasonic - NR-BX468GKS1
 - Panasonic - NR-BX468GWS1
 - Panasonic - NR-BX468XSS1
@@ -467,6 +461,8 @@ Commercial refrigerator: Inverter technology
 - Panasonic - NR-YW590Y
 - Panasonic - OCU-NR300DSF
 - Panasonic - OCU-NR450DSF
+- Panasonic - OCU-NR600DSF
+- Panasonic - OCU-NR800DSF
 - Panasonic - OCU-NS600VSFJ
 - Panasonic - OCU-NS800VSFJ
 - Panasonic - SAR-CDV390C7L-SG
@@ -484,7 +480,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRF-K1261SB
 - Panasonic - SRF-K1263B
 - Panasonic - SRF-K1263SB
-- Panasonic - SRF-K1281A
 - Panasonic - SRF-K1281B
 - Panasonic - SRF-K1281SB 
 - Panasonic - SRF-K1283B
@@ -504,7 +499,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRF-K683LB
 - Panasonic - SRF-K761B
 - Panasonic - SRF-K761LB
-- Panasonic - SRF-K781B
 - Panasonic - SRF-K781LB
 - Panasonic - SRF-K783B
 - Panasonic - SRF-K783LB
@@ -525,7 +519,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRR-K1261C2B
 - Panasonic - SRR-K1261CSB
 - Panasonic - SRR-K1261SB
-- Panasonic - SRR-K1281
 - Panasonic - SRR-K1281B
 - Panasonic - SRR-K1281C2B
 - Panasonic - SRR-K1281CB
@@ -562,7 +555,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRR-K761B
 - Panasonic - SRR-K761CB
 - Panasonic - SRR-K761LB
-- Panasonic - SRR-K781B
 - Panasonic - SRR-K781CB
 - Panasonic - SRR-K781CLB
 - Panasonic - SRR-K781LB
@@ -584,11 +576,9 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUF-K1261B
 - Panasonic - SUF-K1261SB
 - Panasonic - SUF-K1271B
-- Panasonic - SUF-K1271SB
 - Panasonic - SUF-K1561B
 - Panasonic - SUF-K1561SB
 - Panasonic - SUF-K1571B
-- Panasonic - SUF-K1571SB
 - Panasonic - SUF-K1861SB
 - Panasonic - SUF-K1871SB
 - Panasonic - SUF-K961B
@@ -606,13 +596,11 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUR-K1261SB
 - Panasonic - SUR-K1271B
 - Panasonic - SUR-K1271CB
-- Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1561B
 - Panasonic - SUR-K1561CB
 - Panasonic - SUR-K1561SB
 - Panasonic - SUR-K1571B
 - Panasonic - SUR-K1571CB
-- Panasonic - SUR-K1571SB
 - Panasonic - SUR-K1861CSB
 - Panasonic - SUR-K1861SB
 - Panasonic - SUR-K1871CSB
@@ -629,7 +617,11 @@ Commercial refrigerator: Inverter technology
 - Samsung - RS64R5306M9
 - Samsung - RT21M6211SG
 - Samsung - RT21M6211SR
+- Samsung - RT31CB5644C2
+- Samsung - RT31CG5424S10
 - Samsung - RT32K503ASL
+- Samsung - RT35CB564422
+- Samsung - RT35CG5444S10
 - Samsung - RT35K553ASL
 - Samsung - RT38K503ADX
 - Samsung - RT38K503AUT
@@ -674,6 +666,12 @@ Commercial refrigerator: Inverter technology
 - SHARP - SJ-PS55P-DS
 - SHARP - SJ-PS60P-BK
 - SHARP - SJ-PS60P-DS
+- SHARP - SJ-RF30E-DS
+- SHARP - SJ-RF30E-SL
+- SHARP - SJ-RF33E-DS
+- SHARP - SJ-RF33E-SL
+- SHARP - SJ-RF36E-DS
+- SHARP - SJ-RF36E-SL
 - SHARP - SJ-RX30E-SL2
 - SHARP - SJ-RX34E-SL2
 - SHARP - SJ-RX38E-SL2
@@ -815,10 +813,34 @@ Commercial refrigerator: Inverter technology
 - SMEG - FAB5RSV5
 - SMEG - FAB5RWH3
 - SMEG - FAB5RWH5
+- SMEG - FC60EN3XL
 - SOLID COOL - SC- 2DBB
+- SOLID COOL - SC-260
+- SOLID COOL - SC-2DB
+- SOLID COOL - SC-2DT
+- SOLID COOL - SC-2DTF
+- SOLID COOL - SC-2SDBB
+- SOLID COOL - SC-370
+- SOLID COOL - SC-3DB
+- SOLID COOL - SC-3DT
 - SOLID COOL - SC-3DTF
+- SOLID COOL - SC-4DT
+- SOLID COOL - SC-4DTF
+- SOLID COOL - SC-530
 - SOLID COOL - SXS-500Y
 - SOLID COOL - SXS-700Y
+- SOLID COOL - UC1275
+- SOLID COOL - UC1575
+- SOLID COOL - UC1875
+- SOLID COOL - UF1275
+- SOLID COOL - UF1575
+- SOLID COOL - UF1875
+- SOLID COOL - UPC2
+- SOLID COOL - UPC4
+- SOLID COOL - UPC6
+- SOLID COOL - UPF2
+- SOLID COOL - UPF4
+- SOLID COOL - UPF6
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
 - Sub-Zero - ICBBI-36R/S/TH-LH
@@ -833,6 +855,11 @@ Commercial refrigerator: Inverter technology
 - Sub-Zero - ICBIC-36RID-RH
 - Sub-Zero - ICBID-24RO
 - Sub-Zero - ICBID-30R
+- SunTrump - KJA-FF1271
+- SunTrump - KJA-FF771
+- SunTrump - KJA-FR1271
+- SunTrump - KJA-FR771
+- Superior - 2DFRNS
 - Tecno - TFR 1288-V2
 - Tecumseh - PAC66Z-3L
 - Tecumseh - PAC66Z-3XL

@@ -12,11 +12,10 @@ permalink: /enterprisejobskills/
 ---
 
 
-### What's New
+### Highlights
 
+- [Skills Profiler](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills-profiler/?src=epjs_whatsnew)
 - [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=epjs_whatsnew)
-- [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home/){:target="_blank"}{:rel="noopener"}
-- [SkillsFuture Funding Changes](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/?src=epjs_whatsnew)
 - [Skills Demand For Future Economy Report](/images/epjs/whats-new/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf?src=epjs_whatsnew){:target="_blank"}{:rel="noopener"}
 
 ---
@@ -45,11 +44,17 @@ Search for Skills Training Programmes to support your business transformation.
 
 ### Quick Links
 
-- [Professional Conversion Programme Application Portal](https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP){:target="_blank"}{:rel="noopener"}
-
 - [Skills Development Levy](https://sdl.ssg.gov.sg/){:target="_blank"}{:rel="noopener"}
 
-- [SkillsFuture Enterprise Credit](/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/){:target="_blank"}{:rel="noopener"}
+- [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home){:target="_blank"}{:rel="noopener"}
+
+- [SkillsFuture Work-Study Programmes](https://programmes.enterprisejobskills.gov.sg/WorkStu
+dyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}
+
+- [Career Conversion Programme Application Portal](https://conversion.mycareersfuture.gov.sg/portal/progr
+amlisting.aspx?source=PCP){:target="_blank"}{:rel="noopener"}
+
+- [CTO-as-a-Service](https://services2.imda.gov.sg/CTOaaS/){:target="_blank"}{:rel="noopener"}
 
 ---
 ### Not an Enterprise?
