@@ -10,7 +10,6 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023
 |--|--|
 |<b>Scheduled Date</b>|<b>Remarks</b>|
-|--|--|
 |8 Dec 2022 12pm - 2pm|<b>GoBusiness payment service</b> is unavailable due to maintenance|
 |4 Dec 2022 12am - 4pm|<b>Information from ACRA and MyInfo</b> for GoBusiness and Business Grants will be unavailable due to scheduled maintenance|
 |7 Feb 2023 10pm - 18 Feb 2023 8am,<br>18 Feb 2023 6pm - 19 Feb 2023 6pm, and<br>19 Feb 2023 8pm - 20 Feb 2023 6am|<b>GoBusiness Licensing</b> will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available|
