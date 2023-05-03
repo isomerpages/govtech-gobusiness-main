@@ -22,7 +22,7 @@ Hedge cutter mounted on a mobile machine/tractor (could be electrically powered,
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tractor Hedge Cutter</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

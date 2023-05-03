@@ -22,7 +22,7 @@ Tree Diagnostic equipment e.g. LiDAR scanner, tomograph, resistograph.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree Diagnostic equipment</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

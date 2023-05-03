@@ -22,7 +22,7 @@ A system and application of watering devices and instrumentation used to control
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart irrigation systems</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

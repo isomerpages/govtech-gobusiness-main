@@ -22,7 +22,7 @@ Equipment (e.g. pumps, bio-filters) that will be incorporated into recirculating
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

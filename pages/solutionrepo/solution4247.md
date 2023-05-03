@@ -22,7 +22,7 @@ A mobile mechanical device used to provide temporary access for people or equipm
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

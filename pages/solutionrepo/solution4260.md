@@ -22,7 +22,7 @@ Systems for environmental modification and management that allows plants to be g
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Greenhouse systems, climate controlled management systems</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

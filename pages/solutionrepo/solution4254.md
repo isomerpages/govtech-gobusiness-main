@@ -22,7 +22,7 @@ Equipment used in cleaning so as to destroy bacterial. Also include high pressur
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

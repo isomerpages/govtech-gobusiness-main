@@ -22,7 +22,7 @@ Equipment used for lawn aeration, or mixing air with another substance, such as 
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aerator</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

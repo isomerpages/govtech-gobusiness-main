@@ -22,7 +22,7 @@ A mobile grass/lawn cutting equipment , either automated or semi/fully controlle
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

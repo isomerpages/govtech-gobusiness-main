@@ -22,7 +22,7 @@ A mobile machine with power tool or as at attachment that removes tree stumps by
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stump Grinder</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

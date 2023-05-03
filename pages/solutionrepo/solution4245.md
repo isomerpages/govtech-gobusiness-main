@@ -22,7 +22,7 @@ Electric powered/hybrid landscape equipment e.g. electric excavator, electric wo
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric powered/hybrid landscape equipment</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

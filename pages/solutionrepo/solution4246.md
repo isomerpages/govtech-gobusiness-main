@@ -22,7 +22,7 @@ Fleet management system consists of GPS tracking devices, cameras and other sens
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Management System i.e. hardware</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

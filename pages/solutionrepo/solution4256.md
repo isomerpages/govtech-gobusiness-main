@@ -22,7 +22,7 @@ Computer systems that perform tasks normally requiring human intelligence. For e
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Remote Monitoring e.g. video cameras, AI systems, automatic feeder</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 

@@ -22,7 +22,7 @@ Equipment that allows automation when packing, delivery or shipment of produce.
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery, shipment management systems</td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px;'>N.A.</td>
 </tr>
 </table>
 
