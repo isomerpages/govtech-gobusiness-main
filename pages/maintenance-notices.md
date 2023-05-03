@@ -8,6 +8,7 @@ permalink: /maintenance-notices/
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
 
 ### 2023
+|--|--|
 |<b>Scheduled Date</b>|<b>Remarks</b>|
 |--|--|
 |8 Dec 2022 12pm - 2pm|<b>GoBusiness payment service</b> is unavailable due to maintenance|
