@@ -47,11 +47,9 @@ c. Proof of relevant work experience and curriculum vitae (excluding previous ap
  b. Fax to 6325 1417<br>
  c. Mail to 45 Maxwell Road, #07-11. The URA Centre (East Wing), Singapore 069118</li>
 <li><strong>Resources</strong><br>
- You may contact the Licensing Officer via the following modes:<br>
  a. <a href="https://sso.agc.gov.sg/Act/IRDA2018" target="_blank" rel="noopener">Insolvency, Restructuring and Dissolution Act 2018</a><br>
  b. <a href="https://sso.agc.gov.sg/SL/IRDA2018-S617-2020" target="_blank" rel="noopener">Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020</a>
- </li>
- </ol>
+ </li></ol>
 
 <strong>Additional Information</strong>
 
