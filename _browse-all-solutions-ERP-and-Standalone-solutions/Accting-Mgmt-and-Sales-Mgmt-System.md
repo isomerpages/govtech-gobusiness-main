@@ -96,16 +96,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution244' target='_blank'>ASFA Xero Accounting Software</a><br></td>
-<td>ASFA MANAGEMENT PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution253' target='_blank'>ASL Advisory - Xero accounting software</a><br></td>
 <td>ASL Advisory Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution258' target='_blank'>Xero Cloud Accounting Software</a><br></td>
-<td>Assembly Works Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution263' target='_blank'>AutoCount Accounting</a><br></td>
@@ -134,10 +126,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution501' target='_blank'>DNS - Xero Cloud Accounting Software</a><br></td>
 <td>D Next Stop Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution504' target='_blank'>Daisy XERO Accounting Software</a><br></td>
-<td>Daisy Consultants Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution555' target='_blank'>Xero Accounting System</a><br></td>
@@ -218,10 +206,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1317' target='_blank'>Royal Management Services XERO ACCOUNTING</a><br></td>
 <td>ROYAL MANAGEMENT SERVICES (S) PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1394' target='_blank'>A-Class Accounting & Sales Management by Sleek</a><br></td>
-<td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
