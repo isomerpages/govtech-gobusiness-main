@@ -26,7 +26,7 @@ Enable Consulting is an HR consultancy agency providing firms with reliable HRMS
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 30 employees)</td>
 <td style='padding: 10px;'>$12,560.00</td>
 <td style='padding: 10px;'>$12,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>

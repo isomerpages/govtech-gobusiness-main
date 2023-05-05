@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution76' target='_blank'>ABSS Accounting Software Version 23.7</a><br></td>
-<td>Acc-Pro Business Links Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution94' target='_blank'>Sage 300Cloud Version 2022</a><br></td>
 <td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
