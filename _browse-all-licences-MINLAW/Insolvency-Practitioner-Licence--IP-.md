@@ -18,8 +18,7 @@ Ministry of Law (MINLAW)
  <H3>FAQ</H3>
  <ol>
  <li><strong>How do I log in to GoBusiness Licensing to apply for an insolvency practitioner's licence if I do not have a Singpass account as a foreigner?</strong><br>
- Foreigner without a Singpass account can <a href="https://licence1.business.gov.sg/feportal/web/frontier/registerPublicUser" target="_blank" rel="noopener">request</a> for a LicenceOne User Account to submit their licence application.
- </li>
+ Foreigner without a Singpass account can <a href="https://licence1.business.gov.sg/feportal/web/frontier/registerPublicUser" target="_blank" rel="noopener">request</a> for a LicenceOne User Account to submit their licence application.</li>
 <li><strong>What are the criteria to hold an insolvency practitioner's licence?</strong><br>
 Section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("IRDA") requires an applicant to be a "qualified person" who is a:<br>
  a. Solicitor;<br>
@@ -50,7 +49,7 @@ c. Proof of relevant work experience and curriculum vitae (excluding previous ap
 <li><strong>Resources</strong><br>
  a. <a href="https://sso.agc.gov.sg/Act/IRDA2018" target="_blank" rel="noopener">Insolvency, Restructuring and Dissolution Act 2018</a><br>
  b. <a href="https://sso.agc.gov.sg/SL/IRDA2018-S617-2020" target="_blank" rel="noopener">Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020</a>
- </li> </ol>
+ </li></ol>
 
 <strong>Additional Information</strong>
 
@@ -73,7 +72,7 @@ c. Proof of relevant work experience and curriculum vitae (excluding previous ap
  File format: doc, docx, pdf, jpg, gif, png, bmp<br>
  Maximum upload per application: 5 MB</li>
  <li><strong>Relevant Work Experience</strong><br>
- Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions, approved liquidator's licence with ACRA etc.<br>
+ Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions etc.<br>
  File format: doc, docx, pdf, jpg, gif, png, bmp<br>
  Maximum upload per application: 5 MB</li>
  <li><strong>Details of Declaration(s)</strong><br>
