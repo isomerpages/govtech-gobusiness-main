@@ -68,7 +68,7 @@ The KETs should include your employee’s job title, responsibilities and duties
 For reference, a [sample KETs form](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/workright/wr-kets-template-sample-english.pdf){:target="_blank"}{:rel="noopener"} is available on the Ministry of Manpower website.
 
 ![Employee agreement](/images/blog/content/HiringFirstEmployee 3.png)
-<figcaption>Employers can use the MOM’s [KETs verification tool](https://www.mom.gov.sg/employment-practices/contract-of-service/kets-verification-tool){:target="_blank"}{:rel="noopener"} to check if work arrangements, salary and other components meet the necessary requirements (Image: Canva)</figcaption>
+<figcaption>Employers can use the MOM’s <a href="https://www.mom.gov.sg/employment-practices/contract-of-service/kets-verification-tool" target="_blank" rel="noopener">KETs verification tool</a> to check if work arrangements, salary and other components meet the necessary requirements (Image: Canva)</figcaption>
 
 Once your offer has been accepted by the job applicant, you will need to sign an employment agreement, also known as a contract of service, which sets out the terms governing the relationship between an employer and an employee. All KETs must be included in the employee agreement, and your employee is also required to sign and return the employment agreement to you.
 
