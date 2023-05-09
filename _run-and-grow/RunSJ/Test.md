@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: /another test/
+permalink: /another_test/
 third_nav_title: testing
 ---
 
