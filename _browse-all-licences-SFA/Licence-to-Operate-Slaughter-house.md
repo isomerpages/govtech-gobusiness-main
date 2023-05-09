@@ -15,10 +15,10 @@ Singapore Food Agency (SFA)
 <H3>Application Details</H3>
 
 <p>In Singapore, all slaughter-houses must be licensed by the Singapore Food Agency before they are permitted to carry out any food processing or storage for wholesale distribution.</p>
- <h3>FAQs</h3>
- <ol>
- <li><strong>Where can I get the FAQ for Licence to Operate a Slaughterhouse?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
- </ol>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get more information for Licence to Operate a Slaughterhouse?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
+</ol>
 
 <strong>Additional Information</strong>
 

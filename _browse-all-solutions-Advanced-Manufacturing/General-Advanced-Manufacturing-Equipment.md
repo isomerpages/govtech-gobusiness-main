@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufac
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,19 +28,19 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution49' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1764' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution115' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1830' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution182' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1897' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3473' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4218' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
 <td></td>
 </tr>
 </table>

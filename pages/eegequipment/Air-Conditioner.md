@@ -24,6 +24,16 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Daikin - MKP50VVMG
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
+- Daikin - RKM25XVMG
+- Daikin - RXMQ4AAVEG
+- Daikin - RXMQ4AVE
+- Daikin - RXMQ5AAVEG
+- Daikin - RXMQ5AVE
+- Daikin - RXMQ6AAVEG
+- Daikin - RXMQ6AVE
+- Daikin - RXMUQ4AVEG
+- Daikin - RXMUQ5AVEG
+- Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
 - Daikin - RXQ10AYMW
 - Daikin - RXQ12AYM
@@ -50,8 +60,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Enovatek Energy - EES-ADX24GW-XA-32R+5
 - EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
+- Fujitsu - AJA040LBLAH
 - Fujitsu - AJA040LELBH
+- Fujitsu - AJA045LBLAH
 - Fujitsu - AJA045LELBH
+- Fujitsu - AJA054LBLAH
 - Fujitsu - AOAG09CMTA
 - Fujitsu - AOAG12CMTA
 - Fujitsu - AOAH24CBTA
@@ -78,12 +91,23 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Hitachi - RAS-140HNCBLW
 - Hitachi - RAS-160HNCBLW
 - Hitachi - RAS-180HNCBLW
+- Hitachi - RAS-3.0HNBRKQ
+- Hitachi - RAS-4.0HNBRKQ
+- Hitachi - RAS-5.0HNBRKQ
+- Hitachi - RAS-6.0HNBRKQ
 - LG - ARUN080LTE5
 - LG - ARUN100LTE5
 - LG - ARUN120LTE5
 - LG - ARUN140LTE5
 - LG - ARUN160LTE5
 - LG - ARUN180LTE5
+- LG - ARUV030GSD0
+- LG - ARUV030GSD5
+- LG - ARUV040GSD0
+- LG - ARUV040GSD5
+- LG - ARUV050GSD5
+- LG - ARUV060GSD0
+- LG - ARUV060GSD5
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
@@ -91,12 +115,24 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MCE-4M28E
+- Midea - MDVC-V110W/DN1
+- Midea - MDVC-V145W/DN1
+- Midea - MDVC-V170W/DN1
+- Midea - MDVC-V72W/DN1
+- Midea - MDVC-V92W/DN1
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
+- Mitsubishi Electric - MXY-3H28VG2
+- Mitsubishi Electric - MXY-4C100VA
 - Mitsubishi Electric - MXY-4H33VG
+- Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
+- Mitsubishi Electric - MXY-5C125VA
 - Mitsubishi Electric - MXY-5H48VG
+- Mitsubishi Electric - MXY-6C140VA
+- Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - PUCY-P200YKD.TH
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH
@@ -122,6 +158,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - PUY-M125VKA-SG
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC100YNA-W
+- Mitsubishi Heavy Industries - FDC112KXEN6
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - SCM60YS-W
@@ -138,10 +175,19 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Panasonic - CU-XU9XKZ
 - Panasonic - U-10ME2R8
 - Panasonic - U-43PRH1Z5
+- Panasonic - U-4LE2R5
+- Panasonic - U-5LE2R5
+- Panasonic - U-6LE2R5
 - Panasonic - U-8ME2R8
 - PRISM+ - PRCZ28
 - PRISM+ - PRCZ36
 - Samsung - AR09TYEAFWKX
+- Toshiba - MCY-MAP0401TP-SG
+- Toshiba - MCY-MAP0501TP-SG
+- Toshiba - MCY-MAP0601TP-SG
+- Toshiba - MCY-MHP0404HT-SG
+- Toshiba - MCY-MHP0504HT-SG
+- Toshiba - MCY-MHP0604HT-SG
 - Toshiba - MCY-MHP0805HT8-SG
 - Toshiba - MMY-MAP0807T8P-SG
 - Toshiba - MMY-MAP1007T8P-SG

@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Early-Childhood/Pre-School-Management-System
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, 50% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 
@@ -28,12 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3931' target='_blank'>LittleLives 4.5</a><br></td>
-<td>LittleLives Inc Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution422' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
+<td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3936' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
-<td>CommonTown Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution927' target='_blank'>LittleLives 4.5</a><br></td>
+<td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 </table>
 

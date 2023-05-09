@@ -1,32 +1,60 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'Sage 300Cloud Version 2022'
 permalink: /productivity-solutions-grant/solutionrepo/solution94
 ---
 
-## Mobile Computer (Warehouse application)
+## Sage 300Cloud Version 2022
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
-
-Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
-
-Cost of equipment capped at $30,000 per unit. 
+Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Mandatory specifications:<br>- Installed with software for inventory data input.<br>- Withstand rough handling, meet min IP54 standards.<br>- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>- Battery with min 3 hrs standby.<br>- Wireless LAN/Bluetooth/cellular connectivity.<br>- Support the common operating system e.g. Android, Windows.<br>- Installation and Maintenance cost are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -34,6 +62,10 @@ Cost of equipment capped at $30,000 per unit.
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

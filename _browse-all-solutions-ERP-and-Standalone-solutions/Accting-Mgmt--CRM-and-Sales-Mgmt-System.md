@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt--CRM-
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs,  for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3711' target='_blank'>NMTODOO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1051' target='_blank'>NMTODOO</a><br></td>
 <td>Neu Media Technology LLP</td>
 </tr>
 </table>
