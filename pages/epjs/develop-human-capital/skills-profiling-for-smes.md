@@ -1,6 +1,6 @@
 ---
-title: 'Skills Profiler'
-permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills-profiler/
+title: 'Skills Profiling for SMEs'
+permalink: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/skills-profiling-for-smes/
 ---
 
 ### Assess employees' skills and identify training needs powered by skills profiling technology
@@ -40,6 +40,14 @@ This is a pilot collaboration by SSG and JobKred, a homegrown HRTech start-up sp
 - Access JobKred's Lithium skills profiling platform by registering <a href="https://ssg.lithium-ssg.jobkred.com/registration" target="_blank" rel="noopener">here</a>. 
 
 - You will receive instructions to complete the set-up of your organisational profile upon successful registration. 
+
+---
+
+### Resources
+
+- Watch: <a href="https://youtu.be/3oFO0m1btLw" target="_blank" rel="noopener">How to set-up your organisational profile and conduct skills profiling on Lithium</a>
+
+- [Frequently Asked Questions - Skills Profiling (PDF,172kb)]
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
