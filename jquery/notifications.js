@@ -2,7 +2,7 @@
 
 const custom_notifications = [
   //[**ADHOC**]
-  "Due to technical difficulties, you currently cannot request to amend, renew or cancel N2, IR1, IR2, IR3 and R1 licences. New application/amendment/renewal/cancellation is also temporarily unavailable for N3 licence and R1 registration, if you're a Work Permit holder. For urgent matters, please use <u><a href='https://www.nea.gov.sg/corporate-functions/feedback' target='_blank' rel='noopener'>NEA's feedback form</a></u> or myENV app. We are working to resolve this issue and apologise for the inconvenience caused.",
+  "Due to technical difficulties, you currently cannot request to amend, renew or cancel N2, IR1, IR2, IR3 and R1 licences. For urgent matters, please use <u><a href='https://www.nea.gov.sg/corporate-functions/feedback' target='_blank' rel='noopener'>NEA's feedback form</a></u> or myENV app. We are working to resolve this issue and apologise for the inconvenience caused.",
 
   //"<b>[Attention: System Maintenance]</b> GoBusiness payment service is unavailable due to maintenance on 8 Dec 2022 12pm to 2pm. We apologise for the inconvenience caused.",
   //[**L1T adhoc**]
@@ -25,8 +25,11 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 10 Feb 2023 10pm to 11 Feb 2023 6am<br>(2) from 11 Feb 2023 10pm to 12 Feb 2023 10am",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 1 Mar 2023 10pm to 2 Mar 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 6 Apr 2023 10pm to 7 Apr 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 17 Feb 2023 10pm to 18 Feb 2023 8am<br>(2) from 18 Feb 2023 6pm to 19 Feb 2023 6pm<br>(3) from 19 Feb 2023 8pm to 20 Feb 2023 6am"
-
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 5 May 2023 10pm to 6 May 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 3 May 2023 6pm to 4 May 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 5 May 2023 6pm to 6 May 2022 5am<br>(2) From 6 May 2023 10pm to 7 May 2023 8am",
+  
   //[**FS Downtime**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey for Food Services will be unavailable due to scheduled maintenance on 16 February 2023 from 6pm to 7pm. Other services on GoBusiness will remain available. We apologise for the inconvenience caused."
 
@@ -38,8 +41,11 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**NEA DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 19 Apr 2023 from 6:30pm to 8:30pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 26 Apr 2023 from 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance 3 May 2023 from 6:30pm to 8:30pm. We apologise for the inconvenience caused.",
 
+  //[**ECDA DOWNTIME**]
+  ///"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Early Childhood Development Centre licence will be unavailable during the upcoming scheduled maintenance 5 May 2023 from 7pm to 9pm. We apologise for the inconvenience caused",
 
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance on 4 Dec 2022 from 12am to 6am. We apologise for the inconvenience caused.",
@@ -55,7 +61,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
   //[PWMark]
-  //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance on 12 Mar 2023 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance on 23 Apr 2023 from 12am to 8am. We apologise for the inconvenience caused."
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
@@ -63,7 +69,7 @@ const custom_notifications = [
   //-->"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 9 Apr 2023 8am to 4am<br>(2) 16 Apr 2023 8am to 12pm"
 
   //[**APEX / EDH**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 2 Apr 2023 from 12am to 7am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 7 May 2023 from 1am to 8am. We apologise for the inconvenience caused."
   //
 
 ];

@@ -4,13 +4,13 @@ permalink: /browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-Employee-Dorm
 third_nav_title: Ministry of Manpower (MOM)
 ---
 
-## Apply for Foreign employee dormitories
+## Apply for Foreign Employee Dormitories Act Licence
 
 Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/dd78e924-795a-42bb-8c37-6774edce94fb" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/0e257a0a-e903-42d1-b438-770d5ec0d1e3" type="primary" %}
 
 <H3>Application Details</H3>
 
