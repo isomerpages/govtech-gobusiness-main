@@ -1,7 +1,7 @@
 ---
 title: Test
 permalink: /another_test/
-third_nav_title: testing
+third_nav_title: test image map
 ---
 
 nothing but just a test
