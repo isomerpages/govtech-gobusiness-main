@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,31 +28,31 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2622' target='_blank'>Enhanzcom - FITPRISE Sales & Inventory System</a><br></td>
-<td>Enhanzcom Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution101' target='_blank'>Adaptive BizApp Version 5</a><br></td>
+<td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2743' target='_blank'>MetroERP Version 1.0</a><br></td>
-<td>METRO GROUP PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2774' target='_blank'>Applivon - Odoo</a><br></td>
-<td>Applivon Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2790' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
-<td>MuRho Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3194' target='_blank'>1ERP - Singapore ERP</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution317' target='_blank'>1ERP - Singapore ERP</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3553' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution973' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td>METRO GROUP PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1004' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td>MuRho Pte Ltd </td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1179' target='_blank'>Odoo Enterprise Version 16</a><br></td>
+<td>PORT CITIES SINGAPORE PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1676' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3555' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1712' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 </table>

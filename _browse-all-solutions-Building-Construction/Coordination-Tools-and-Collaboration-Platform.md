@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/Coordination-Tools-and-Co
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,19 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1909' target='_blank'>GS BIM collaboration Platform Version 1</a><br></td>
-<td>Graphisoft Asia Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution826' target='_blank'>BIM Collaborate Pro</a><br></td>
+<td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2093' target='_blank'>CSG - Autodesk BIM Collaborate Pro</a><br></td>
-<td>CSG Software Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2358' target='_blank'>APEX</a><br></td>
-<td>SIACAD Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3083' target='_blank'>MTWO Version 5.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1284' target='_blank'>MTWO Version 5.1</a><br></td>
 <td>RIB International Holding Pte Ltd</td>
 </tr>
 </table>

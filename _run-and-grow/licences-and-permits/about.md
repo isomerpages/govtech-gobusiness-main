@@ -1,12 +1,14 @@
 ---
-title: About
+title: About business licences
 permalink: /licences/
 third_nav_title: Licences and Permits
 ---
 
-## About
+## About business licences
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
+
+{% include banner-advertising.html %}
 
 {% include overview.html anchorlinks=site.data.ov002-licence %}
 

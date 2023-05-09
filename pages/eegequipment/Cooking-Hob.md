@@ -12,6 +12,9 @@ Induction technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Bertazzoni - P302IB2NE
+- Bertazzoni - P603I30NV
+- Bertazzoni - P885IC2G5NE
 - Chefmaster - CM-200T1
 - Chefmaster - CM-350KCT
 - Chefmaster - CM-350KCTW
@@ -73,12 +76,16 @@ Induction technology
 - Mantru.e - ZC-C333A-Q
 - Mantru.e - ZC-C405A
 - Mantru.e - ZC-C408B
+- Mantru.e - ZT2-C07A-DZ
+- Mantru.E - ZT2-C30A
 - Mantru.e - ZT2-C366A
 - Mantru.e - ZT2-C366A-Q
 - Mantru.e - ZT2-C366B
 - Mantru.e - ZT2-C8007A
+- Mantru.e - ZT4-C14A-DZ
 - Mantru.e - ZT4-C8014A
 - Mantru.e - ZT6-C8021A
+- Mantru.E - ZT-C15A
 - Mantru.e - ZT-C333A
 - Mantru.e - ZT-C333A-Q
 - Mantru.e - ZT-C405A
@@ -87,30 +94,22 @@ Induction technology
 - Mareno - ICIW94TE
 - Mayer - MMIH302HS
 - Mayer - MMIH603FZ
-- MISTRAL
-Sia-Huat - (04-003-00302)
-- ROLLER GRILL 
-Sia-Huat - (04-003-00278)
-- ROLLER GRILL 
-Sia-Huat - (04-003-00279)
-- ROLLER GRILL 
-Sia-Huat - (04-003-00280)
-- ROLLER GRILL 
-Sia-Huat - (04-003-00281)
-- ROLLER GRILL Sia-Huat - (04-003-00298)
-- SAFICO PRO
-Sia-Huat - (04-003-00250)
-- SAFICO PRO
-Sia-Huat - (04-003-00252)
-- SAFICO PRO
-Sia-Huat - (04-003-00253)
-- SAFICO PRO
-Sia-Huat - (04-003-00254)
-- SAFICO PRO
-Sia-Huat - (04-003-00255)
-- Siat-Huat - (04-003-00257)
-- Siat-Huat - (04-003-00289)
+- MISTRAL Sia-Huat - (1112-MIC88TSI)
+- OZTI - 7865.N1.80903.IS
+- ROLLER GRILL Sia-Huat - (238SD-PIC25)
+- ROLLER GRILL Sia-Huat - (238SD-PID30)
+- ROLLER GRILL Sia-Huat - (238SD-PID700)
+- ROLLER GRILL Sia-Huat - (238SD-PIS30)
+- ROLLER GRILL Sia-Huat - (238SD-PIW30)
+- SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
+- SAFICO PRO Sia-Huat - (1101SF-AT-25A)
+- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
+- SAFICO PRO Sia-Huat - (1101SF-CW-28A)
+- SAFICO PRO Sia-Huat - (1101SF-DT-28T)
+- Sia-Huat - (217BH-BT-180G6)
+- Sia-Huat - (217BH-BT-350A-G)
 - SmartChef - BT-700D3T
+- Ty Brand - RTCZ-TIC-B135
 
 ### Mode and Schedule of Payment 
 

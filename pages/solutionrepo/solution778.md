@@ -1,37 +1,43 @@
 ---
-title: 'Smart Cabinet'
+title: 'iFoundries E-commerce Jump Start Package Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution778
 ---
 
-## Smart Cabinet
+## iFoundries E-commerce Jump Start Package Version 4
 
 ## Overview
 
 **Description**
 
-The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
-
-Cost of equipment capped at $26,250 per unit (Direct Purchase) and $10,000 per unit (Subscription/Leasing). 
+Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart Cabinet</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Mandatory Specification<br>- Access controlled and tracked with RFID or other relevant technology<br>- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity<br>- Hardware must be linked with a software/ERP system to access the logs and inventory information<br>- Installation and maintenance fee are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/iFoundries_iFoundries_E_commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase,Subscription / Leasing
+ - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

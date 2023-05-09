@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Marine-Offshore/3-in-1-ERP-Solution-for-Marine-
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -18,7 +18,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019507826'  target='_blank' rel='noopener'>1. Driving Trade & Business with Enterprise Resource Planning</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500720'  target='_blank' rel='noopener'>3. Manage and Implement Business Continuity Plans</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2013500107'  target='_blank' rel='noopener'>3. Apply Systems Thinking in Problem Solving & Decision Making</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2239' target='_blank'>Synergix</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>Synergix</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 </table>

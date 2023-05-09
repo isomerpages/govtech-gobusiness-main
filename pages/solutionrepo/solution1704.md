@@ -1,15 +1,15 @@
 ---
-title: 'A-Class HRSS & Payroll Processing by Sleek Version 1'
+title: 'Zeemart Supplier Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution1704
 ---
 
-## A-Class HRSS & Payroll Processing by Sleek Version 1
+## Zeemart Supplier Hub
 
 ## Overview
 
 **Description**
 
-Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
+Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Sleek provides fully digital, secure and hassle-free HR admin & payroll services
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A</td>
-<td style='padding: 10px;'>$280.00</td>
-<td style='padding: 10px;'>$280.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan B</td>
-<td style='padding: 10px;'>$561.00</td>
-<td style='padding: 10px;'>$561.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
+<td style='padding: 10px;'>$17,500.00</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan C</td>
-<td style='padding: 10px;'>$841.00</td>
-<td style='padding: 10px;'>$841.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan D</td>
-<td style='padding: 10px;'>$1,122.00</td>
-<td style='padding: 10px;'>$1,122.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan E</td>
-<td style='padding: 10px;'>$1,402.00</td>
-<td style='padding: 10px;'>$1,402.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
+<td style='padding: 10px;'>$29,500.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br><br>Contact Hotline: +6569092214 <br><br>Contact Email: sales@sleek.sg <br><br>
+ Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

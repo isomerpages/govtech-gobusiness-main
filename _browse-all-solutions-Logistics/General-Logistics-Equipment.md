@@ -8,9 +8,17 @@ permalink: /browse-all-solutions-Logistics/General-Logistics-Equipment
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
+
+**Recommended courses**
+
+
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022017218'  target='_blank' rel='noopener'>1. Manage Strategic Resources for Logistics</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503543'  target='_blank' rel='noopener'>2. Logistics Quality Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013033'  target='_blank' rel='noopener'>3. Apply Productivity Improvement Tools</a><br>
 
 ## Pre-Approved Solutions
 
@@ -20,23 +28,19 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution47' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1761' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution95' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1809' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution142' target='_blank'>Secure Locking System for Access Control</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2491' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution777' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution778' target='_blank'>Smart Cabinet</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4216' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
 <td></td>
 </tr>
 </table>

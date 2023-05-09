@@ -1,15 +1,19 @@
 ---
-title: 'THEREFORE'
+title: 'F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1689
 ---
 
-## THEREFORE
+## F&B Solutions Version 5.0
 
 ## Overview
 
 **Description**
 
-Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
+The Essential F&B Management Solutions 
+Major Problem Solutions:
+1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,38 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-CLOUD Package 1 (5 users)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR, Emenu Ordering</td>
+<td style='padding: 10px;'>$6,405.00</td>
+<td style='padding: 10px;'>$5,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR, Emenu and Kiosk Ordering</td>
+<td style='padding: 10px;'>$8,705.00</td>
+<td style='padding: 10px;'>$7,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 3 (Up to 15 users)</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3: QR, Mobile Staff Ordering and CRM</td>
+<td style='padding: 10px;'>$9,115.00</td>
+<td style='padding: 10px;'>$8,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 4 (Up to 25 users)</td>
-<td style='padding: 10px;'>$18,500.00</td>
-<td style='padding: 10px;'>$18,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4: QR, Mobile Staff, Emenu Ordering and CRM</td>
+<td style='padding: 10px;'>$12,055.00</td>
+<td style='padding: 10px;'>$9,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>THEREFORE - Therefore-in-e-Cloud Package 5 (Up to 30 users)</td>
-<td style='padding: 10px;'>$25,500.00</td>
-<td style='padding: 10px;'>$25,500.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_Singapore_Annex_3_CR_wef_21_October_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5: QR, Mobile Staff,  Emenu, Kiosk Ordering and CRM</td>
+<td style='padding: 10px;'>$14,355.00</td>
+<td style='padding: 10px;'>$12,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +68,7 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 
 ## Vendor Information
 
- Company Name: CANON SINGAPORE PTE. LTD<br>Web URL: https://sg.canon/en/business/therefore-online/product <br><br>Contact Hotline: 68622666 <br><br>Contact Email: Documentsolutions@canon.com.sg <br><br>
+ Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

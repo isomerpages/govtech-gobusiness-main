@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Engineering-Services/Project-Management-System
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2354' target='_blank'>FITPRISE Project Management System - PCM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution617' target='_blank'>FITPRISE Project Management System - PCM</a><br></td>
 <td>Enhanzcom Pte Ltd</td>
 </tr>
 </table>
