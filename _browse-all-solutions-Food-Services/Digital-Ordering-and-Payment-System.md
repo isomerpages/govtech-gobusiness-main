@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food-Services/Digital-Ordering-and-Payment-Syst
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 0.5 for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -146,6 +146,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4233' target='_blank'>Smartweb Version V3</a><br></td>
 <td>TabSquare Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4266' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
 </table>
 

@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 0.5 for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -54,6 +54,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1606' target='_blank'>Fleet Management Solutions</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4272' target='_blank'>Ascent iSPOT Fleet Management System</a><br></td>
+<td>Ascent Solutions Pte Ltd</td>
 </tr>
 </table>
 

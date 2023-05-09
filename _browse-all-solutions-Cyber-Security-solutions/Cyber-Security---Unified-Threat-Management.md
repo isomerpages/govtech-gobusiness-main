@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Cyber-Security---Unifi
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 0.5 for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

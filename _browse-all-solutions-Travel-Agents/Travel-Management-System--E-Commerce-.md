@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Travel-Agents/Travel-Management-System--E-Comme
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, 30% for non-SMEs
+Up to 0.5 for SMEs, 0.3 for non-SMEs
 
 This solution is supported by Singapore Tourism Board (STB).
 

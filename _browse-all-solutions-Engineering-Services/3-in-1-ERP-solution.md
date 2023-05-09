@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Engineering-Services/3-in-1-ERP-solution
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 0.5 for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

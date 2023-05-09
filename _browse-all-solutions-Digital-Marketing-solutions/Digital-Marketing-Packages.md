@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-P
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to 0.5 for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -202,6 +202,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1672' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4271' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
+<td>Get Customers Pte Ltd</td>
 </tr>
 </table>
 
