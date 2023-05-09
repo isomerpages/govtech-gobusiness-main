@@ -8,7 +8,7 @@ crumbs: business-tips-and-tricks
 description: Hiring your first employee can be overwhelming, with all the administrative details involved. Here are our six simple steps to walk you through the hiring process.
 ---
 
-![Hiring your first employee header](/images/blog/content/HiringFirstEmployee Feature.jpg)
+![Hiring your first employee header](/images/blog/content/HiringFirstEmployee Feature.png)
 <figcaption>Hiring your first employee can be overwhelming, with all the administrative details involved. Here are six simple steps to walk you through the recruitment process (Image: Canva)</figcaption>
 
 When starting your own business, you can usually get by on your own during the initial stages. But sooner or later, your bandwidth will limit the growth of your business, and hiring a full-time employee will help you keep your business from plateauing.
@@ -33,7 +33,7 @@ There are additional steps if you are hiring a foreign employee in Singapore. Fi
 
 For applicants in managerial, executive or specialised jobs earning more than S$5000 a month, employers will need to apply for an [Employment Pass Online (EPOL)](https://www.mom.gov.sg/eservices/services/ep-online){:target="_blank"}{:rel="noopener"} for the candidate. The candidate would require the necessary academic qualifications and an already-extended employee offer. Applications typically take around three weeks to process and employers can appeal if your application is rejected.
 
-![Specimen Photo of an Employee Pass](/images/blog/content/HiringFirstEmployee 1.jpg)
+![Specimen Photo of an Employee Pass](/images/blog/content/HiringFirstEmployee 1.png)
 <figcaption>A sample employment pass(Image: Ministry of Manpower website)</figcaption>
 
 Mid-level skilled workers earning at least S$3000 a month would require employers to apply for an S Pass. Employers can use the [S Pass Self Assessment Tool](https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool){:target="_blank"}{:rel="noopener"} to check that their candidate is eligible for S Pass application.
@@ -67,7 +67,7 @@ The KETs should include your employee’s job title, responsibilities and duties
 
 For reference, a [sample KETs form](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/workright/wr-kets-template-sample-english.pdf){:target="_blank"}{:rel="noopener"} is available on the Ministry of Manpower website.
 
-![Employee agreement](/images/blog/content/HiringFirstEmployee 3.jpg)
+![Employee agreement](/images/blog/content/HiringFirstEmployee 3.png)
 <figcaption>Employers can use the MOM’s [KETs verification tool](https://www.mom.gov.sg/employment-practices/contract-of-service/kets-verification-tool){:target="_blank"}{:rel="noopener"} to check if work arrangements, salary and other components meet the necessary requirements (Image: Canva)</figcaption>
 
 Once your offer has been accepted by the job applicant, you will need to sign an employment agreement, also known as a contract of service, which sets out the terms governing the relationship between an employer and an employee. All KETs must be included in the employee agreement, and your employee is also required to sign and return the employment agreement to you.
@@ -78,7 +78,7 @@ Should you need further information about employee agreements, you can refer to 
 
 Work injury compensation insurance is essential to protect your business, and to provide peace of mind to your employees. In the event of any workplace accidents or mishaps, a comprehensive work injury compensation package will provide sufficient cover for your employee’s medical leave wages; medical expenses; and a lump-sum compensation for permanent incapacity or death.
 
-![Work Injury Claim](/images/blog/content/HiringFirstEmployee 4.jpg)
+![Work Injury Claim](/images/blog/content/HiringFirstEmployee 4.png)
 <figcaption>All employees performing manual labour have to be covered under work injury compensation insurance (Image: Canva)</figcaption>
 
 For both local and foreign employees, employers must purchase work injury compensation insurance to cover all employees who are doing manual work, as well as employees who are earning $2600 or less each month. For other employees, employers have the flexibility to decide whether to purchase insurance for them, but it is highly recommended to do so.
@@ -93,14 +93,14 @@ Some positions will require more training than others if you would like to help 
 
 For starters, use the [SkillsFuture for Enterprise](/skillsfuture-for-enterprise/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help you navigate the process. If you are having trouble determining the right training courses to send your employee for, just fill in a 5-minute questionnaire on the [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} and you will be redirected to the relevant courses tailored to your business’s needs. The e-Adviser also suggests relevant grants to help you defray costs while upskilling your employees.
 
-![Snapshot of e-Adviser for Skills Training](/images/blog/content/HiringFirstEmployee 5.jpg)
+![Snapshot of e-Adviser for Skills Training](/images/blog/content/HiringFirstEmployee 5.png)
 <figcaption>The e-Adviser for Skills Training recommends relevant training courses and subsidies to employers</figcaption>
 
 If your business is just taking off and training costs might be an issue, there are many grants and training support schemes available. Under the Enhanced Training Supports for SMEs (ETSS), course fee funding can be subsidised up to 90 per cent. In most cases, course fee subsidies are automatically computed and companies will only need to pay the net course fee and GST to the training provider.
 
 The SkillsFuture Enterprise Credits (SFEC) also provides S$10,000 credit to further encourage businesses to embark on workforce transformation and training. Under the SFEC, an additional 90 per cent funding support is provided for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses.
 
-![SkillsFuture Enterprise Credits illustration](/images/blog/content/HiringFirstEmployee 6.jpg)
+![SkillsFuture Enterprise Credits illustration](/images/blog/content/HiringFirstEmployee 6.png)
 <figcaption>An example of how employers can tap on SFEC for subsidised courses</figcaption>
 
 No application is required for the SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing, and companies can find out their SFEC balance by logging in to the [SkillsFuture Singapore’s SFEC microsite](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}.
@@ -127,7 +127,7 @@ You will be asked to declare your employees’ hourly salary information (before
 
 To have a clearer idea of the amount you can claim, you can use the [AP calculator](https://www.ssg.gov.sg/absentee-payroll-calculator.html){:target="_blank"}{:rel="noopener"} on the SSG website. Employers can access all their claim services via the [AP funding page](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}, and AP funding will be reimbursed to companies via PayNow within two and a half weeks after submission of the AP declaration.
 
-![Successful hire](/images/blog/content/HiringFirstEmployee 7.jpg)
+![Successful hire](/images/blog/content/HiringFirstEmployee 7.png)
 <figcaption>Hiring your first employee can seem like a daunting process, but finding the right candidate for the job will help you take your business further (Image: Canva)</figcaption>
 
 And with that, you’re all set to welcome a new member to your team. Congratulations on completing an important milestone in your business journey!
