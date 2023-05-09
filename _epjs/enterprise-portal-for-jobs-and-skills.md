@@ -14,7 +14,7 @@ permalink: /enterprisejobskills/
 
 ### Highlights
 
-- [Skills Profiler](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills-profiler/?src=epjs_whatsnew)
+- [Skills Profiler for SME](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills-profiler/?src=epjs_whatsnew)
 - [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=epjs_whatsnew)
 - [Skills Demand For Future Economy Report](/images/epjs/whats-new/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf?src=epjs_whatsnew){:target="_blank"}{:rel="noopener"}
 
