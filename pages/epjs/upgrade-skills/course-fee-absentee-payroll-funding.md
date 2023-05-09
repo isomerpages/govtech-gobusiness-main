@@ -5,7 +5,7 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/course
 
 ### Lower the cost of skills training with funding support from the Government
 
-All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen, Permanent Resident or [Long Term Visitor Pass Plus (LTVP+)](www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
+All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen, Permanent Resident or <a href="https://www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf" target="_blank" rel="noopener">Long Term Visitor Pass Plus (LTVP+)</a> employees for training courses funded by SSG.
 
 To qualify for course fee and absentee payroll funding, your employees must meet the following criteria:
 
@@ -21,7 +21,7 @@ Find out more about the subsidies and funding opportunities below.
 
 ### A. Course Fee Funding
 
-Baseline course fee funding is available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and [Long Term Visitor Pass Plus (LTVP+)](www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
+Baseline course fee funding is available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and <a href="https://www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf" target="_blank" rel="noopener">Long Term Visitor Pass Plus (LTVP+)</a> employees for training courses funded by SSG.
 
 As an employer, you can enjoy up to 70% subsidy of course fees for courses offered by SSG-appointed CET Centres, and up to 50% subsidy of course fees for certifiable courses approved by SSG.
 
