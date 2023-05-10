@@ -33,7 +33,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 6 Apr 2023 10pm to 7 Apr 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 5 May 2023 10pm to 6 May 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance on 10 May 2023 from 6.30pm to 8.30pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance on 10 May 2023 from 6.30pm to 8.30pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 5 May 2023 6pm to 6 May 2022 5am<br>(2) From 6 May 2023 10pm to 7 May 2023 8am",
   
   //[**FS Downtime**]
@@ -44,7 +44,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
   
   //[**SPF DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 16 Nov 2022 8pm to 17 Nov 2022 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 10 May 2023 10pm to 11 May 2023 7am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
 
   //[**NEA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 26 Apr 2023 from 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
