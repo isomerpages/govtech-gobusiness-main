@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AII DEVELOP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution200' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
-<td>APEC SOLUTIONS PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution302' target='_blank'>DM Best SEO Digital Marketing Packages Version 1</a><br></td>
 <td>Best Marketing Agency Pte Ltd f.k.a Best SEO Marketing Pte Ltd</td>
 </tr>
@@ -206,6 +202,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4271' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
 <td>Get Customers Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4274' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
+<td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>
 
