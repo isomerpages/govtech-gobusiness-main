@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food-Services/Digital-Ordering-and-Payment-Syst
 
 **Support Level and Conditions**
 
-Up to 0.5 for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 

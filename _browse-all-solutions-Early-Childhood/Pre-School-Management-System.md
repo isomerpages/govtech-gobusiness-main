@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Early-Childhood/Pre-School-Management-System
 
 **Support Level and Conditions**
 
-Up to 0.5 for SMEs, 0.3 for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 

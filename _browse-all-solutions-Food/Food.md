@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food/Food
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, 0.3 for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Singapore Food Agency (SFA).
 
