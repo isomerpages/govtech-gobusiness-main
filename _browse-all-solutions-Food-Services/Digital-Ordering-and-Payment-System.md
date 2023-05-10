@@ -147,6 +147,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4233' target='_blank'>Smartweb Version V3</a><br></td>
 <td>TabSquare Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4266' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td>Aigens Technology (Singapore) Pte. Ltd. </td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
