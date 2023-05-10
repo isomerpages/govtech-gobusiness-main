@@ -262,7 +262,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 </tr>
 </table>
 
-Click <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/centres-of-innovation" target="_blank" rel="noopener">here</a> for more information about Centres of Innovation.
+Click <a href="https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/innovation-capabilities/centres-of-innovation/coi-directory" target="_blank" rel="noopener">here</a> for more information about Centres of Innovation.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
