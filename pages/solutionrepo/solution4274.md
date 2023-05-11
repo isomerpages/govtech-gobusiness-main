@@ -1,6 +1,6 @@
 ---
 title: 'DM APEC Solutions Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/solution200
+permalink: /productivity-solutions-grant/solutionrepo/solution4274
 ---
 
 ## DM APEC Solutions Digital Marketing Packages
@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution200
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] APEC Solutions is a full-stack digital marketing company which is wholly owned by a corporation listed on the Singapore Exchange (SGX) dedicated to helping businesses innovate and flourish through our suite of digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - To help businesses create brand awareness, build social currency, drive site traffic, and increase value proposition across multiple digital channels.
+APEC Solutions is a full-stack digital marketing company which is wholly owned by a corporation listed on the Singapore Exchange (SGX) dedicated to helping businesses innovate and flourish through our suite of digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - To help businesses create brand awareness, build social currency, drive site traffic, and increase value proposition across multiple digital channels.
 
 ## Solution Packages Option(s)
 
