@@ -92,7 +92,21 @@
     <!-- New accordion -->
     {% for item in include.accordions %}
     <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
-            item.title }}</label>
+            item.title }}{% if {{item.is_new}} %}
+            <span style="background: #E6F2F3;
+            border-radius: 3px;
+            width: 53px;
+            height: 22px;
+            padding: 2px 8px;
+            font-family: hknova-bold;
+            font-size: 12px;
+            line-height: 18px;
+            color: #02737D;
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 8px;">
+            NEW!
+            </span>{% endif %}</label>
         <div>{{ item.content | markdownify }}</div>
     </li>
     {% endfor %}
@@ -101,7 +115,21 @@
     <!-- Old accordion -->
     {% for item in page.accordion %}
     <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{
-            item.title }}</label>
+            item.title }}{% if {{item.is_new}} %}
+            <span style="background: #E6F2F3;
+            border-radius: 3px;
+            width: 53px;
+            height: 22px;
+            padding: 2px 8px;
+            font-family: hknova-bold;
+            font-size: 12px;
+            line-height: 18px;
+            color: #02737D;
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 8px;">
+            NEW!
+            </span>{% endif %}</label>
         <div>{{ item.content | markdownify }}</div>
     </li>
     {% endfor %}

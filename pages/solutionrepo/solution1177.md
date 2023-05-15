@@ -1,32 +1,39 @@
 ---
-title: 'Battery-Powered Rope Ascender'
+title: 'WarelyEcom Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1177
 ---
 
-## Battery-Powered Rope Ascender
+## WarelyEcom Version 1.3
 
 ## Overview
 
 **Description**
 
-Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
-
-The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
-
-Cost of equipment capped at $18,750 per unit
+WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Express</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -34,6 +41,10 @@ Cost of equipment capped at $18,750 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Plus 65 Marketing Pte Ltd<br>Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

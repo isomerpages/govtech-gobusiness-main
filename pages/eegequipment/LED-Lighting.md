@@ -21,7 +21,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - ACORN - AC-E27 9W LED
 - AETO - KLL760F-6
 - AREX - AR T-L1T64-13W-2700K
-- AREX - AR T-L1T64-13W-2700K, AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-13W-6500K
 - AREX - AR T-L1T64-15W-2700K
 - AREX - AR T-L1T64-15W-6500K
@@ -44,25 +43,54 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 830 5M 8MM 100C
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 840 5M 8MM 100C
 - Aztech - AZ E-LITE FLEXLED 2500LM/M 865 5M 8MM 100C
+- Aztech - HELIOS HE36W
+- Aztech - HELIOS HE36W + SPS100
+- Aztech - HELIOS HE36W B
+- Aztech - HELIOS HE36W B + SPS100
+- Aztech - HELIOS HE52W
+- Aztech - HELIOS HE52W + SPS100
+- Aztech - HELIOS HE52W B
+- Aztech - HELIOS HE52W B + SPS100
 - Aztech - LBH107
 - Aztech - LBHR1120
+- Aztech - LBHR1120B
 - Aztech - LBHR1424
+- Aztech - LBHR1424B
+- Aztech - LBHR1424BS
 - Aztech - LBHR1424S
 - Aztech - LBHR810
 - Aztech - LBHR810S
 - Aztech - LCR1424
 - Aztech - LCR19-S36-8M2
+- Aztech - LDR3H12
+- Aztech - LDR3H12 + SPS100
+- Aztech - LDR412
+- Aztech - LDR412 + SPS100
 - Aztech - LDR412A
 - Aztech - LDR607E
 - Aztech - LDR607E G2
+- Aztech - LDR607E G2 + SPS100
+- Aztech - LDR612E
+- Aztech - LDR612E + SPS100
 - Aztech - LDRA616
+- Aztech - LDRA616 + SPS100
 - Aztech - LDRA616-LG-D
+- Aztech - LDRA616-LG-D + SPS100
 - Aztech - LDRA624
+- Aztech - LDRA624 + SPS100
 - Aztech - LDRA624-LG-D
+- Aztech - LDRA624-LG-D + SPS100
 - Aztech - LDRA630
+- Aztech - LDRA630 + SPS100
 - Aztech - LDRA630-LG-D
+- Aztech - LDRA630-LG-D + SPS100
 - Aztech - LDRA824
+- Aztech - LDRA824 + SPS100
 - Aztech - LDRA830
+- Aztech - LDRA830 + SPS100
+- Aztech - LE14C33F-2-830
+- Aztech - LE14G48F-2-830
+- Aztech - LE14G48T-2-830
 - Aztech - LF212-830
 - Aztech - LFC105
 - Aztech - LFC209
@@ -102,31 +130,64 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - LFE426HS G2
 - Aztech - LPLS2224
 - Aztech - LPLS2224B
+- Aztech - LPLS2224BD
+- Aztech - LPLS2224D
 - Aztech - LPLS2236
 - Aztech - LPLS2236B
+- Aztech - LPLS2236D
+- Aztech - LPLS2236DB
 - Aztech - LPLS4124
 - Aztech - LPLS4124B
+- Aztech - LPLS4124BD
+- Aztech - LPLS4124D
 - Aztech - LPLS4136
 - Aztech - LPLS4136B
+- Aztech - LPLS4136BD
+- Aztech - LPLS4136D
 - Aztech - LPLS4224
 - Aztech - LPLS4224B
+- Aztech - LPLS4224BD
+- Aztech - LPLS4224D
 - Aztech - LPLS4236
 - Aztech - LPLS4236B
+- Aztech - LPLS4236BD
+- Aztech - LPLS4236D
 - Aztech - LT5G-208E
 - Aztech - LT5G-416
+- Aztech - LT8B-416P
+- Aztech - LT8B-418E
+- Aztech - LT8B-418EP
+- Aztech - LT8B-522E-62
+- Aztech - LT8B-522EP
 - Aztech - LT8G-208
+- Aztech - LT8G2-208
+- Aztech - LT8G2-416
+- Aztech - LT8G2-420
+- Aztech - LT8G2-520
 - Aztech - LT8G-416
 - Aztech - LT8G-420
+- Aztech - LT8P-208P
 - Aztech - LT8P2-208
 - Aztech - LT8P2-208EP
 - Aztech - LT8P2-416
 - Aztech - LT8P2-416EP
 - Aztech - LT8P2-420
 - Aztech - LT8P2-420EP
+- Aztech - LT8P-410P
+- Aztech - LTPL4120
+- Aztech - LTPL4120B
+- Aztech - LTPL4140
+- Aztech - LTPL4140B
+- Aztech - XL10
+- Aztech - XL10S
 - Aztech - XL2-1515
 - Aztech - XL2-3030
+- Aztech - XL25
+- Aztech - XL25S
 - Aztech - XL2S-1515
 - Aztech - XL2S-3030
+- Aztech - ZDR414
+- Aztech - ZDR414 + SPS100
 - Beacon LED Lighting - T8Y10NL01-C
 - Beacon LED Lighting - T8Y10NL01-D
 - Beacon LED Lighting - T8Y10NL01-W
@@ -359,6 +420,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - IKEA - LED2033T2
 - IKEA - LED2101G4
 - IKEA - LED2103G5
+- IKEA - LED2123S1
 - IKEA - LED2202G3K6
 - IKEA - LED2203G6K6
 - iLite+ - SL-DG4-1015LT-G8-S
@@ -386,6 +448,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - JNB - QL-T8-1.2M-30W (4000K)
 - JNB - QL-T8-1.2M-30W (6000K)
 - KEYTO - Linea 1.5''
+- KGR - KGRT8-8W1200MM
 - LED ECO LIGHTING - JYQP-03D-2
 - LED ECO LIGHTING - JYQP-07D-2
 - LED ECO LIGHTING - JYQP-09D-02
@@ -526,7 +589,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LC0405.5dR9-E14-2800K
 - Megaman - LC0405.5dR9-E14-4000K
 - Megaman - LC0405.5-E14-2800K
-- Megaman - LC0405.5-E14-2800K, LC0405.5-E14-4000K, LC0405.5-E14-6500K, LC0405.5-E27-2800K, LC0405.5-E27-4000K, LC0405.5-E27-6500K
 - Megaman - LC0405.5-E14-4000K
 - Megaman - LC0405.5-E14-6500K
 - Megaman - LC0405.5-E27-2800K
@@ -605,7 +667,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LG5206W-B15d-2700K
 - Megaman - LG5206W-B22-2700K
 - Megaman - LG5206W-E14-2700K
-- Megaman - LG5206W-E14-2700K, LG5206W-E27-2700K, LG5206W-B22-2700K, LG5206W-B15d-2700K
 - Megaman - LG5206W-E27-2700K
 - Megaman - LG6104.8CS-E27-2700K
 - Megaman - LG6703GD-E27-2200K
@@ -671,7 +732,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LH0132-E27-4000K
 - Megaman - LH0132-E27-6500K
 - Megaman - LH0133-E27-2800K
-- Megaman - LH0133-E27-2800K, LH0133-E27-6500K
 - Megaman - LH0133-E27-6500K
 - Megaman - LH0246-E27-2800K
 - Megaman - LH0246-E27-4000K
@@ -686,11 +746,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - LT200160/mb-12v00-6500K
 - Megaman - LT200160/mb-12v01-3000K
 - Megaman - LT200160/mb-12v01-4000K
-- Megaman - LT200160/mb-12v01-4000K, LT200160/mb-12v01-6500K
 - Megaman - LT200160/mb-12v01-6500K
 - Megaman - LT200160/mb-12v02-3000K
 - Megaman - LT200160/mb-12v02-4000K
-- Megaman - LT200160/mb-12v02-4000K, LT200160/mb-12v02-6500K
 - Megaman - LT200160/mb-12v02-6500K
 - Megaman - SP0205-E14-2700K
 - Megaman - SP0205-E14-4000K
@@ -865,23 +923,32 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - LED Value CLASSIC A 45W/827
 - Osram - LED Value CLASSIC A 45W/865
 - Osram - LED Value CLASSIC A Bulb 18W/865
-- Osram - LED VALUE CLASSIC A100 13W/827, LED VALUE CLASSIC A100 13W/865
+- Osram - LED VALUE CLASSIC A100 13W/827
+- Osram - LED VALUE CLASSIC A100 13W/865
 - Osram - LED VALUE CLASSIC A10013W
-- Osram - LED VALUE CLASSIC A40 4.7W/827, LED VALUE CLASSIC A40 4.7W/865
+- Osram - LED VALUE CLASSIC A40 4.7W/827
+- Osram - LED VALUE CLASSIC A40 4.7W/865
 - Osram - LED VALUE CLASSIC A40 4.9W
 - Osram - LED VALUE CLASSIC A40 5.5W
 - Osram - LED VALUE CLASSIC A60 8.5W
-- Osram - LED VALUE CLASSIC A60 8W/827, LED VALUE CLASSIC A60 8W/865
+- Osram - LED VALUE CLASSIC A60 8W/827
+- Osram - LED VALUE CLASSIC A60 8W/865
 - Osram - LED VALUE CLASSIC A60 Filament 7W/827
 - Osram - LED VALUE CLASSIC A75 10W
-- Osram - LED VALUE CLASSIC A75 10W/827, LED VALUE CLASSIC A75 10W/865
+- Osram - LED VALUE CLASSIC A75 10W/827
+- Osram - LED VALUE CLASSIC A75 10W/865
 - Osram - LED VALUE CLASSIC B25 2.5W/827 FILAMENT
 - Osram - LED VALUE CLASSIC B40 4.7W/827
-- Osram - LED VALUE CLASSIC B40 4.7W/827 FR, LED VALUE CLASSIC B40 4.7W/865 FR
+- Osram - LED VALUE CLASSIC B40 4.7W/827 FR
+- Osram - LED VALUE CLASSIC B40 4.7W/865 FR
 - Osram - LED VALUE CLASSIC B40 4.9W
 - Osram - LED VALUE CLASSIC B40 5.5W
 - Osram - LED VALUE CLASSIC P25 3.3W
-- Osram - LED VALUE CLASSIC P40 4.7W/827 CL, LED VALUE CLASSIC P40 4.7W/827 FR, LED VALUE CLASSIC P40 4.7W/865 FR
+- Osram - LED VALUE CLASSIC P40 4.7W/827
+- Osram - LED VALUE CLASSIC P40 4.7W/827 CL
+- Osram - LED VALUE CLASSIC P40 4.7W/827 FR
+- Osram - LED VALUE CLASSIC P40 4.7W/865
+- Osram - LED VALUE CLASSIC P40 4.7W/865 FR
 - Osram - LED VALUE CLASSIC P40 4.9W
 - Osram - LED VALUE CLASSIC P40 5.5W
 - Osram - LED VALUE FILAMENT A60 7W
@@ -901,8 +968,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - LED VALUE STICK 12W/830 (2 pin)
 - Osram - LED VALUE STICK 12W/840 (2 pin)
 - Osram - LED VALUE STICK 12W/865 (2 pin)
-- Osram - LED VALUE STICK 6W/830 G24D, LED VALUE STICK 6W/840 G24D, LED VALUE STICK 6W/865 G24D
-- Osram - LED VALUE STICK 7.2W/830 G24D, LED VALUE STICK 7.2W/840 G24D, LED VALUE STICK 7.2W/865 G24D
+- Osram - LED VALUE STICK 6W/830 G24D
+- Osram - LED VALUE STICK 6W/840 G24D
+- Osram - LED VALUE STICK 6W/865 G24D
+- Osram - LED VALUE STICK 7.2W/830 G24D
+- Osram - LED VALUE STICK 7.2W/840 G24D
+- Osram - LED VALUE STICK 7.2W/865 G24D
 - Osram - LEDSTAR STICK 12W/827
 - Osram - LEDSTAR STICK 12W/840
 - Osram - LEDSTAR STICK 12W/865
@@ -1636,7 +1707,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - BELL 12W DL
 - SCHWARTZ - BELL 12W WDC
 - SCHWARTZ - BELL 12W WW
-- SCHWARTZ - BELL 12W WW, BELL 12W DL, BELL 12W WDC
 - SCHWARTZ - BELL 15W DL
 - SCHWARTZ - BELL 15W WDC
 - SCHWARTZ - BELL 15W WW
@@ -1678,6 +1748,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SCHWARTZ - STIK 10W WW
 - SCHWARTZ - T64-4W DL
 - SCHWARTZ - T64-4W WW
+- SCHWARTZ - UFO 27W DL
+- SCHWARTZ - UFO 27W WDC
 - SCHWARTZ - UFO 27W WW
 - SKY Lighting - MT8C96-6-F-01
 - SKY Lighting - MT8c96-F-02
@@ -1717,26 +1789,67 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - STANFORD - SL252C04
 - STANFORD - SL252C05
 - STANFORD - SL252C06
-- Sunshine - LCANC-45E14W, LCANC-45E14D
-- Sunshine - LCANE-5E14W, LCANE-5E14D
-- Sunshine - LFGAA-8E27W-T, LFGAA-8E27D
+- Sunshine - LCANC-45E14D
+- Sunshine - LCANC-45E14W
+- Sunshine - LCANE-5E14D
+- Sunshine - LCANE-5E14W
+- Sunshine - LFGAA-8E27D
+- Sunshine - LFGAA-8E27W-T
 - Sunshine - LFGAB-827W
 - Sunshine - LFGAB-8B22D
 - Sunshine - LFGAB-8B22W
 - Sunshine - LFGAB-8E27D
-- Sunshine - LFGAC-4E27D, LFGAC-4E27W
-- Sunshine - LFGGH-6E27D, LFGGH-6E27W
+- Sunshine - LFGAC-4E27D
+- Sunshine - LFGAC-4E27W
+- Sunshine - LFGAC-6E27D
+- Sunshine - LFGAC-6E27W
+- Sunshine - LFGGA-4B22D
+- Sunshine - LFGGA-4B22W
+- Sunshine - LFGGA-4E27D
+- Sunshine - LFGGA-4E27W
+- Sunshine - LFGGA-8E27W
+- Sunshine - LFGGF-4E27D
+- Sunshine - LFGGF-4E27W
+- Sunshine - LFGGH-6E27D
+- Sunshine - LFGGH-6E27W
 - Sunshine - LFSTB-8B22D
 - Sunshine - LFSTB-8B22W
 - Sunshine - LFSTB-8E27D
 - Sunshine - LFSTB-8E27W
-- Sunshine - LGK-5E14W, LGK-5E27W, LGK-5B22W, LGK-5E14D, LGK-5E27D, LGK-5B22D
-- Sunshine - LGM-10E27W, LGM-10B22W, LGM-10E27D, KGM-10B22D
-- Sunshine - LGM-12E27W, LGM-12B22W, LGM-12E27D, LGM-12B22D
-- Sunshine - LGM-13E27W, LGM-13B22W, LGM-13E27D, LGM-13B22D
-- Sunshine - LGM-15E27W, LGM-15B22W, LGM-15E27D, LGM-15B22D
-- Sunshine - LGM-6E27W, LGM-6B22W, LGM-6E27D, LGM-6B22D
-- Sunshine - LGM-8E27W, LGM-8B22W, LGM-8E27D, LGM-8B22D
+- Sunshine - LFSTC-4E27D
+- Sunshine - LFSTC-4E27W
+- Sunshine - LFSTC-6E27D
+- Sunshine - LFSTC-6E27W
+- Sunshine - LGK-5B22D
+- Sunshine - LGK-5B22W
+- Sunshine - LGK-5E14D
+- Sunshine - LGK-5E14W
+- Sunshine - LGK-5E27D
+- Sunshine - LGK-5E27W
+- Sunshine - LGM-10B22D
+- Sunshine - LGM-10B22W
+- Sunshine - LGM-10E27D
+- Sunshine - LGM-10E27W
+- Sunshine - LGM-12B22D
+- Sunshine - LGM-12B22W
+- Sunshine - LGM-12E27D
+- Sunshine - LGM-12E27W
+- Sunshine - LGM-13B22D
+- Sunshine - LGM-13B22W
+- Sunshine - LGM-13E27D
+- Sunshine - LGM-13E27W
+- Sunshine - LGM-15B22D
+- Sunshine - LGM-15B22W
+- Sunshine - LGM-15E27D
+- Sunshine - LGM-15E27W
+- Sunshine - LGM-6B22D
+- Sunshine - LGM-6B22W
+- Sunshine - LGM-6E27D
+- Sunshine - LGM-6E27W
+- Sunshine - LGM-8B22D
+- Sunshine - LGM-8B22W
+- Sunshine - LGM-8E27D
+- Sunshine - LGM-8E27W
 - Sunshine - LGT-12B22D
 - Sunshine - LGT-12B22W
 - Sunshine - LGT-12E27D
@@ -1751,11 +1864,42 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LGT-9B22W
 - Sunshine - LGT-9E27D
 - Sunshine - LGT-9E27W
-- Sunshine - LPINA-12E27W, LPINA-12B22W, LPINA-12E27D, LPINA-12B22D
-- Sunshine - LPINA-7E14W, LPINA-7E27W, LPINA-7B22W, LPINA-7E14D, LPINA-7E27D, LPINA-7B22D
-- Sunshine - LTA-18E27D, LTA-18E27W
-- Sunshine - LUFOA-18W, LUFOA-18B22W, LUFOA-18D, LUFOA-18B22D
-- Sunshine - LUFOA-24W, LUFOA-24B22W, LUFOA-24D, LUFOA-24B22D
+- Sunshine - LPINA-12B22D
+- Sunshine - LPINA-12B22W
+- Sunshine - LPINA-12E27D
+- Sunshine - LPINA-12E27W
+- Sunshine - LPINA-7B22D
+- Sunshine - LPINA-7B22W
+- Sunshine - LPINA-7E14D
+- Sunshine - LPINA-7E14W
+- Sunshine - LPINA-7E27D
+- Sunshine - LPINA-7E27W
+- Sunshine - LPINB-12E27C
+- Sunshine - LPINB-12E27D
+- Sunshine - LPINB-12E27W
+- Sunshine - LPINB-5B22C
+- Sunshine - LPINB-5B22D
+- Sunshine - LPINB-5B22W
+- Sunshine - LPINB-5E14C
+- Sunshine - LPINB-5E14D
+- Sunshine - LPINB-5E14W
+- Sunshine - LPINB-5E27C
+- Sunshine - LPINB-5E27D
+- Sunshine - LPINB-5E27W
+- Sunshine - LTA-18E27D
+- Sunshine - LTA-18E27W
+- Sunshine - LTA-38E27D
+- Sunshine - LTA-38E27W
+- Sunshine - LTA-48E27D
+- Sunshine - LTA-48E27W
+- Sunshine - LUFOA-18B22D
+- Sunshine - LUFOA-18B22W
+- Sunshine - LUFOA-18D
+- Sunshine - LUFOA-18W
+- Sunshine - LUFOA-24B22D
+- Sunshine - LUFOA-24B22W
+- Sunshine - LUFOA-24D
+- Sunshine - LUFOA-24W
 - T&J - TJ-A40-07PW-E27
 - T&J - TJ-A40-07WW-E27
 - T&J - TJ-BL05PW-E14
@@ -1817,6 +1961,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - VISALUX - YTT8A2 18W 3000K
 - VISALUX - YTT8A2 18W 4000K
 - VISALUX - YTT8A2 18W 6500K
+- VISALUX - YTT8A2 32W 3000K
+- VISALUX - YTT8A2 32W 4000K
+- VISALUX - YTT8A2 32W 6500K
 - VISALUX - YTT8A2 9W 3000K
 - VISALUX - YTT8A2 9W 4000K
 - VISALUX - YTT8A2 9W 6500K
@@ -1963,6 +2110,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>

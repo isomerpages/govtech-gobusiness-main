@@ -32,7 +32,7 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 {% include letter-accordion.html accordions=site.data.acc074-budget letter="c" %}
 
 
-{% include subscribe-mailer.html title="Want to get the latest updates?" url="https://www.gobusiness.gov.sg/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
+{% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 
 
 ---
