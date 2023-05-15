@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Orchid-and-Plant-Nurseries:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - General-Orchid-Plant-Nurseries-Equipment.md
