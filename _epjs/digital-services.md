@@ -51,7 +51,7 @@ permalink: /enterprisejobskills/digital-services/
 <td style="width:auto;">The Skills Development Levy (SDL) Portal allows employers to make e-Payments, submit SDL e-Refund requests, upload/submit documentation as well as other SDL services.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://ssg.lithium-ssg.jobkred.com/registration" target="_blank" rel="noopener">Skills Profiler</a></td>
+<td style="width:30%;"><a href="https://ssg.lithium-ssg.jobkred.com/registration" target="_blank" rel="noopener">Skills Profiling for SMEs</a></td>
 <td style="width:auto;">Small and Medium Enterprises (SMEs) can now benchmark your employees' competencies to discover their strengths and skills gaps and identify training courses personalised to their skill needs. This is a pilot collaboration by SSG and JobKred, a homegrown HRTech start-up specialising in talent management.</td>
 </tr>
 <tr>
