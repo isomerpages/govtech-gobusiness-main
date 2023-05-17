@@ -72,12 +72,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1413' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
-<td>SPTEL PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1699' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4223' target='_blank'>Managed Firewall Solution</a><br></td>
+<td>LGA Telecom Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4287' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td>SPTEL PTE LTD</td>
 </tr>
 </table>
 
