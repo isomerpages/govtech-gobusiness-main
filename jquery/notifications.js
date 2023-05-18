@@ -20,12 +20,12 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
 
   //[**APEX / EDH**]
-  "<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am",
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 19 May 2023 from 12am to 3am. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 9 Apr 2023 8am to 4am<br>(2) 16 Apr 2023 8am to 12pm"
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on 19 May 2023 from 12am to 3am. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am"
 
 
   //[**LICENCEONE DOWNTIME**]
