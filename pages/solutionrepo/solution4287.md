@@ -1,6 +1,6 @@
 ---
 title: 'SPTel-Fortinet-Managed Firewall Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/solution1413
+permalink: /productivity-solutions-grant/solutionrepo/solution4287
 ---
 
 ## SPTel-Fortinet-Managed Firewall Solutions
@@ -23,31 +23,31 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPTel-Fortinet-Managed Firewall Solutions - Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
 <td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPTel-Fortinet-Managed Firewall Solutions - Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
 <td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPTel-Fortinet-Managed Firewall Solutions - Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
 <td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$4,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPTel-Fortinet-Managed Firewall Solutions - Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
 <td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$6,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,742.16</td>
+<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 
 ## Vendor Information
 
- Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br><br>Contact Hotline: 69826888 <br><br>Contact Email: enquiry@sptel.com <br><br>
+ Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br>Contact Hotline: 69826888 <br>Contact Email: enquiry@sptel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

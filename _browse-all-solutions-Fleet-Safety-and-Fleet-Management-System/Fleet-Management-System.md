@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FocusGuard Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution772' target='_blank'>vTrak Version 1.4</a><br></td>
-<td>IDEE INFOCOM PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1166' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
 </tr>
@@ -58,6 +54,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4272' target='_blank'>Ascent iSPOT Fleet Management System</a><br></td>
 <td>Ascent Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4296' target='_blank'>vTrak Version 1.4</a><br></td>
+<td>IDEE INFOCOM PTE LTD</td>
 </tr>
 </table>
 
