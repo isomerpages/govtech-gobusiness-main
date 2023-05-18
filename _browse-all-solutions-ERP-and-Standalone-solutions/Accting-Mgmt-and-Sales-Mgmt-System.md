@@ -267,6 +267,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution4228' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
 <td>Singapore Corporate Services Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4279' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
+<td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
