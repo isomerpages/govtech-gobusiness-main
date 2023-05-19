@@ -9,9 +9,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 ### 2023
 
-| **No.** | **Package Name** |
+| **Scheduled Date** | **Remarks** |
 | ------  |------------------|
-| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
+| 4 Jun, 12am - 4am | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
 | Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
 | Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
 | Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
