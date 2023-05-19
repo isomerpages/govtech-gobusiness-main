@@ -9,28 +9,13 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 ### 2023
 
-<table>
-<tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td>Option 1</td>
-<td>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-</tr>
-</table>
+| **No.** | **Package Name** |
+| ------  |------------------|
+| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
+| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
+| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
+| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
+
 
 
 <script src="/jquery/jquery.min.js"></script>
