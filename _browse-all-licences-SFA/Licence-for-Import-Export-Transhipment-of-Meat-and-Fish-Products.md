@@ -23,9 +23,7 @@ Singapore Food Agency (SFA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br>
- Licence Fee:$84.00<br>
- Express Fee: Pay an additional fee equal to the cost of the licence fee</p>
+<p><strong>Fee</strong><br />Licence Fee:$84.00<br />Express Fee: $168.00</p>
 
 <H3>Documents Needed</H3>
 
