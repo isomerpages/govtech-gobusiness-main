@@ -44,6 +44,14 @@ const customTables = [
     columns: ["50%", "auto"]
   },
   {
+    path: "/maintenance-notices/",
+    columns: ["50%", "auto"]
+  },
+  {
+    path: "/maintenance-notices_alt/",
+    columns: ["50%", "auto"]
+  },
+  {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/",
     columns: ["30%", "auto"]
   },
