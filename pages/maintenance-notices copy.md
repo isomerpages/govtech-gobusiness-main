@@ -10,7 +10,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023
 
 |**No.**|**Package Name**|
-|--|--|
+|---|---|
 |Option 1|Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd|
 |Option 1|Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd|
 |Option 1|>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd|
