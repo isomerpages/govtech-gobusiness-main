@@ -14,6 +14,7 @@ Commercial refrigerator: Inverter technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- ARCTICOOL - ED0.5F-2M
 - Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
 - Bosch - KGN36XI46
@@ -245,11 +246,17 @@ Commercial refrigerator: Inverter technology
 - Hoshizaki - FT-180SNG-1
 - Hoshizaki - FT-90SDG-1
 - Hoshizaki - FT-90SNG-1
+- Hoshizaki - HF-120A-2
 - Hoshizaki - HF-120AT-1
+- Hoshizaki - HF-120AT-2
 - Hoshizaki - HF-150A3-1
+- Hoshizaki - HF-150A3-2
 - Hoshizaki - HF-150AT3-1
+- Hoshizaki - HF-150AT3-2
 - Hoshizaki - HF-180A3-1
+- Hoshizaki - HF-180A3-2
 - Hoshizaki - HF-180AT3-1
+- Hoshizaki - HF-180AT3-2
 - Hoshizaki - HF-63A-1
 - Hoshizaki - HF-63AT-1
 - Hoshizaki - HF-75AT-1
@@ -346,6 +353,7 @@ Commercial refrigerator: Inverter technology
 - LG - GT-B3952BL
 - LG - GT-B3952BN
 - LG - GT-B4387PZ
+- LG - GT-B4783PZ
 - LG - GT-F4781BL
 - LG - GT-M5093BL
 - LG - GT-M5097PZ
@@ -374,6 +382,9 @@ Commercial refrigerator: Inverter technology
 - Liebherr - SUIKo1550
 - Midea - CE-BCD640WE-JT
 - Midea - MDRB470MGD28
+- Midea - MDRF698FIC28SG
+- Midea - MDRF698FIC45SG
+- Midea - MDRF698FIC46SG
 - Midea - MDRS791MYC02SG
 - Midea - MDRS791MYC28SG
 - Midea - MDRS791MYC45SG
@@ -385,10 +396,12 @@ Commercial refrigerator: Inverter technology
 - Miele - K 2901 Vi
 - Miele - K 31222 Ui
 - Miele - KF 37122 iD
+- Miele - KFN 4375 DD edt/cs
 - Miele - KFNS 7734 D
 - Miele - KS 28463 D C bb
 - Miele - KS 28463 D ed/cs
 - Miele - KS 37472 iD
+- Miele - KS 4783 ED edt/cs
 - Mitsubishi Electric - MR-B46F-F-P
 - Mitsubishi Electric - MR-B46F-W-P
 - Mitsubishi Electric - MR-CGX41ES-GBR-P
@@ -398,6 +411,8 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-CGX56EP-GBK-P
 - Mitsubishi Electric - MR-CGX56EP-GBR-P
 - Mitsubishi Electric - MR-CGX56EP-GWH-P
+- Mitsubishi Electric - MR-CGX56ET-GBK-P
+- Mitsubishi Electric - MR-CGX56ET-GWH-P
 - Mitsubishi Electric - MR-F55EG-BRW-P
 - Mitsubishi Electric - MR-F55EG-SLW-P
 - Mitsubishi Electric - MR-F55EG-SLW-P1
@@ -625,6 +640,7 @@ Commercial refrigerator: Inverter technology
 - Samsung - RT35K553ASL
 - Samsung - RT38K503ADX
 - Samsung - RT38K503AUT
+- Samsung - RT42CB668822
 - Samsung - RT42CG6644S9
 - Samsung - RT43K6037SL
 - Samsung - RT43K6037UT
@@ -632,6 +648,7 @@ Commercial refrigerator: Inverter technology
 - Samsung - RT46K6237BS
 - Samsung - RT46K6237DX
 - Samsung - RT46K6237SL
+- Samsung - RT47CB668622
 - Samsung - RT47CG6444S9
 - Samsung - RT50K6257B1
 - Samsung - RT50K6257S8
@@ -681,6 +698,47 @@ Commercial refrigerator: Inverter technology
 - SHARP - SJ-VX57ES-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
+- SMEG -  FAB5LBL5
+- SMEG -  FAB5LCR3
+- SMEG -  FAB5LCR5
+- SMEG -  FAB5LDUJ3
+- SMEG -  FAB5LDUJ5
+- SMEG -  FAB5LOR3
+- SMEG -  FAB5LOR5
+- SMEG -  FAB5LPB3
+- SMEG -  FAB5LPB5
+- SMEG -  FAB5LPG3
+- SMEG -  FAB5LPG5
+- SMEG -  FAB5LPK3
+- SMEG -  FAB5LPK5
+- SMEG -  FAB5LRD3
+- SMEG -  FAB5LRD5
+- SMEG -  FAB5LSV3
+- SMEG -  FAB5LSV5
+- SMEG -  FAB5LWH3
+- SMEG -  FAB5LWH5
+- SMEG -  FAB5RBL3
+- SMEG -  FAB5RBL5
+- SMEG -  FAB5RCR3
+- SMEG -  FAB5RCR5
+- SMEG -  FAB5RDGO3
+- SMEG -  FAB5RDGO5
+- SMEG -  FAB5RDUJ3
+- SMEG -  FAB5RDUJ5
+- SMEG -  FAB5ROR3
+- SMEG -  FAB5ROR5
+- SMEG -  FAB5RPB3
+- SMEG -  FAB5RPB5
+- SMEG -  FAB5RPG3
+- SMEG -  FAB5RPG5
+- SMEG -  FAB5RPK3
+- SMEG -  FAB5RPK5
+- SMEG -  FAB5RRD3
+- SMEG -  FAB5RRD5
+- SMEG -  FAB5RSV3
+- SMEG -  FAB5RSV5
+- SMEG -  FAB5RWH3
+- SMEG -  FAB5RWH5
 - SMEG - FAB10HLBL5
 - SMEG - FAB10HLCR5
 - SMEG - FAB10HLRD5
@@ -819,9 +877,11 @@ Commercial refrigerator: Inverter technology
 - SOLID COOL - SC-2DB
 - SOLID COOL - SC-2DT
 - SOLID COOL - SC-2DTF
+- SOLID COOL - SC-2DTT
 - SOLID COOL - SC-2SDBB
 - SOLID COOL - SC-370
 - SOLID COOL - SC-3DB
+- SOLID COOL - SC-3DBB
 - SOLID COOL - SC-3DT
 - SOLID COOL - SC-3DTF
 - SOLID COOL - SC-4DT
@@ -861,6 +921,7 @@ Commercial refrigerator: Inverter technology
 - SunTrump - KJA-FR771
 - Superior - 2DFRNS
 - Tecno - TFR 1288-V2
+- Tecno - TFR 330 Retro
 - Tecumseh - PAC66Z-3L
 - Tecumseh - PAC66Z-3XL
 - Teka - TFI3 130 D
@@ -872,6 +933,10 @@ Commercial refrigerator: Inverter technology
 - Toshiba - GR-AG66SA(GG)
 - Toshiba - GR-AG66SA(PGB)
 - Toshiba - GR-AG66SA(XK)
+- Toshiba - GR-RB410WE-PMX(06)
+- Toshiba - GR-RB410WE-PMX(22)
+- Toshiba - GR-RB410WE-PMX(30)
+- Toshiba - GR-RB410WE-PMX(37)
 - Ty Brand - RTGD-1DC-260-IVTH
 - Ty Brand - RTGD-1DC-330-IVTH
 - Ty Brand - RTGD-1DC-IVTH-B
@@ -909,6 +974,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>
