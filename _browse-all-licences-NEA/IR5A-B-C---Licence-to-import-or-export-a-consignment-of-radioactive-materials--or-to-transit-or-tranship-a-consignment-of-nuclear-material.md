@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/b89814a7-c248-41c9-b4c2-ed890fc6323b" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/829ba34a-66fe-4ce1-9d8b-09a2194a31a4" type="primary" %}
 
 <H3>Application Details</H3>
 
