@@ -15,4 +15,3 @@ Heat pump technology
 - AO Smith - HPW-60A
 - F&BSAS - FB1P420
 - F&BSAS - FB5P1850
-- Rheem - ProTerra 50 Gallon
