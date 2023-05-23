@@ -24,16 +24,6 @@ const custom_notifications = [
 
 
 
-  //[**LICENCEONE DOWNTIME**]
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 10 Feb 2023 10pm to 11 Feb 2023 6am<br>(2) from 11 Feb 2023 10pm to 12 Feb 2023 10am",
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 1 Mar 2023 10pm to 2 Mar 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 6 Apr 2023 10pm to 7 Apr 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 5 May 2023 10pm to 6 May 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 19 May 2023 10pm to 20 May 2023 6am<br>(2) From 20 May 2023 10pm to 21 May 2023 8am",
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 5 May 2023 6pm to 6 May 2022 5am<br>(2) From 6 May 2023 10pm to 7 May 2023 8am",
 
   //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
   //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
@@ -53,6 +43,18 @@ const custom_notifications = [
 
   //[**SPF DOWNTIME**]
   "<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance from 24 May 2023 10pm to 25 May 2023 3am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+
+  //[**LICENCEONE DOWNTIME**]
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to a scheduled maintenance on 20 Oct 2022 from 6pm to 10pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 2 Sep 2022 2pm to 4pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 10 Feb 2023 10pm to 11 Feb 2023 6am<br>(2) from 11 Feb 2023 10pm to 12 Feb 2023 10am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 1 Mar 2023 10pm to 2 Mar 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 6 Apr 2023 10pm to 7 Apr 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 26 May 2023 10pm to 27 May 2022 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 19 May 2023 10pm to 20 May 2023 6am<br>(2) From 20 May 2023 10pm to 21 May 2023 8am",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 5 May 2023 6pm to 6 May 2022 5am<br>(2) From 6 May 2023 10pm to 7 May 2023 8am",
+
 
   //[**ECDA DOWNTIME**]
   ///"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Early Childhood Development Centre licence will be unavailable during the upcoming scheduled maintenance 5 May 2023 from 7pm to 9pm. We apologise for the inconvenience caused",
