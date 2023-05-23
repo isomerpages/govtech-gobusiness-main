@@ -15,6 +15,8 @@ Induction technology
 - Bertazzoni - P302IB2NE
 - Bertazzoni - P603I30NV
 - Bertazzoni - P885IC2G5NE
+- Bertos - LXE9P2/IND
+- Bertos - LXE9P4/IND
 - Chefmaster - CM-200T1
 - Chefmaster - CM-350KCT
 - Chefmaster - CM-350KCTW
