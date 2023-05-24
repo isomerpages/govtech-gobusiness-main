@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1026' target='_blank'>Sophos Central EndPoint Protection</a><br></td>
-<td>Netpluz Asia Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1090' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
@@ -62,10 +58,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1385' target='_blank'>Singtel Endpoint Security</a><br></td>
 <td>Singapore Telecommunications Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Sophos Central Intercept X Advanced</a><br></td>
-<td>SWIZ Technologies Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1473' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>

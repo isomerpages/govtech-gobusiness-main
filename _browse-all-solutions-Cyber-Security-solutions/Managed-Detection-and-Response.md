@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution89' target='_blank'>Microsoft 365 Defender</a><br></td>
-<td>ACLOUD PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution270' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
 <td>Axiom IT Solutions Pte Ltd</td>
 </tr>
@@ -54,6 +50,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1597' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4291' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td>ACLOUD PTE LTD</td>
 </tr>
 </table>
 

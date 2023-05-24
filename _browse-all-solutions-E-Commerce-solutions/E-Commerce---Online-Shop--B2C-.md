@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ACCSS Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution164' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>
-<td>Aks Tech Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution176' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
@@ -102,10 +98,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution778' target='_blank'>iFoundries E-commerce Jump Start Package Version 4</a><br></td>
 <td>iFoundries (Asia Pacific) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution851' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
-<td>IPRO DEZIGN PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution908' target='_blank'>Lemonade eCommerce Solution</a><br></td>
@@ -168,10 +160,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VUE TECH PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1604' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8</a><br></td>
-<td>W.L.P CONSULTANTS PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1622' target='_blank'>Mobile Responsive E-Commerce</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
@@ -182,6 +170,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1626' target='_blank'>Websentials Ecommerce Web Development - Customised eCommerce Package</a><br></td>
 <td>Websentials Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4219' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
+<td>Aks Tech Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution4221' target='_blank'>WLP Digital Ecommerce Web Development (WooCommerce)</a><br></td>
+<td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 </table>
 
