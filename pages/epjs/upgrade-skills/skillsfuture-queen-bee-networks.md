@@ -42,7 +42,7 @@ Hear from others who have benefitted from a SFQB network <a href="https://go.gov
 
 ### Resources
 
-- <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">Watch: What is a SkillsFuture Queen Bee Network?</a>
+- Watch: <a href="https://go.gov.sg/epjs-sfqb-video" target="_blank" rel="noopener">What is a SkillsFuture Queen Bee Network?</a>
 
 - <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_SFQB_Infographic%202022.pdf" target="_blank" rel="noopener">A Guide to SkillsFuture Queen Bee Networks (PDF,1575kb)</a>
 
