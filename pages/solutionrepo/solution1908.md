@@ -1,6 +1,6 @@
 ---
 title: 'NX CAD/CAM Software Version NX2212'
-permalink: /productivity-solutions-grant/solutionrepo/solution1911
+permalink: /productivity-solutions-grant/solutionrepo/solution1908
 ---
 
 ## NX CAD/CAM Software Version NX2212

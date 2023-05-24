@@ -1,15 +1,15 @@
 ---
-title: 'Digital quality testing equipment'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution1877
 ---
 
-## Digital quality testing equipment
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Quality testing equipment in measuring the produce quality and freshness
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

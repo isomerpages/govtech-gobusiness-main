@@ -1,6 +1,6 @@
 ---
 title: 'Managed Firewall Solution'
-permalink: /productivity-solutions-grant/solutionrepo/solution1896
+permalink: /productivity-solutions-grant/solutionrepo/solution1893
 ---
 
 ## Managed Firewall Solution

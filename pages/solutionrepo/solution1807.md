@@ -1,15 +1,20 @@
 ---
-title: 'Laser Geometric Alignment System'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1807
 ---
 
-## Laser Geometric Alignment System
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
 Cost of equipment capped at $37,500 per unit
 
@@ -22,9 +27,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
 </tr>
 </table>
 

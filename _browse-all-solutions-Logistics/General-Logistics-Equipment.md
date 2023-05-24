@@ -32,15 +32,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1776' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1802' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1804' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1889' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1886' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
 <td></td>
 </tr>
 </table>

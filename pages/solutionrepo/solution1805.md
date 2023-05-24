@@ -1,17 +1,17 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Laser Geometric Alignment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1805
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Laser Geometric Alignment System
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
 
-Cost of equipment apped at $37,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment apped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
+<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
 </tr>
 </table>
 

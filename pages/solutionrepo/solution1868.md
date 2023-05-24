@@ -1,15 +1,15 @@
 ---
-title: 'Water Treatment System for Water Recirculation or Discharge'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1868
 ---
 
-## Water Treatment System for Water Recirculation or Discharge
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system for wastewater treatment to improve the water quality before the water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: 'MSSP for Asset Based Cyber Defence Version 1.2'
-permalink: /productivity-solutions-grant/solutionrepo/solution1970
+permalink: /productivity-solutions-grant/solutionrepo/solution1967
 ---
 
 ## MSSP for Asset Based Cyber Defence Version 1.2

@@ -13,7 +13,6 @@ Vertical storage and retrieval system designed to save floor space, maximise ver
 
 Cost of equipment capped at $37,500 per unit 
 
-
 ## Solution Packages Option(s)
 
 <table>

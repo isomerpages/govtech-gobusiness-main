@@ -1,17 +1,19 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution1884
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Automated Noodle Boiler
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+The automated noodle boiler automates the noodle cooking process. 
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $10,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br>- Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Digital timer: Each basket is programmed according to its own set timing.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
 </tr>
 </table>
 

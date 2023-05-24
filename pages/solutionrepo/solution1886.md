@@ -1,21 +1,19 @@
 ---
-title: 'Automated Dishwasher'
+title: 'Electric Pedestrian Pallet Truck'
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
-## Automated Dishwasher
+## Electric Pedestrian Pallet Truck
 
 ## Overview
 
 **Description**
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
-- A hood-type machine come with a vertical lift hood 
-- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
 
-Support capped at $5,000 per unit 
+The equipment can transport palletised goods of approximately 1000 to 2000 kg.
 
-
+Cost of equipment capped at $3,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -26,9 +24,9 @@ Support capped at $5,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
+<td style='padding: 10px;'>$3,250.00</td>
+<td style='padding: 10px;'>Mandatory Specifications:<br>-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable<br>-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load<br>-1 worker/unit<br>-Safety features eg emergency stop<br>-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.<br>-Only 1 application per coy will be supported<br>- Installation and maintenance fee are not supported.</td>
 </tr>
 </table>
 

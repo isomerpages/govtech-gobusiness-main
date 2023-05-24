@@ -1,18 +1,17 @@
 ---
-title: 'Automated Deep Fryer'
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1881
 ---
 
-## Automated Deep Fryer
+## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ## Overview
 
 **Description**
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
 
-Cost of equipment capped at $4,000 per unit 
-
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>Minimum Specifications <br>-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br><br>Well capacity to be at least 5L<br><br>Serving size and frying type should be customisable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br>- Maintenance costs not supported</td>
 </tr>
 </table>
 

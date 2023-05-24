@@ -1,15 +1,15 @@
 ---
-title: 'LED grow lights'
+title: 'Packing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1874
 ---
 
-## LED grow lights
+## Packing machine
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

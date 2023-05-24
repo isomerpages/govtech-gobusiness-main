@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation & Dosing System'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1832
 ---
 
-## Automated Irrigation & Dosing System
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

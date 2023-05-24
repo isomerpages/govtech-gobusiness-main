@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1838
 ---
 
-## Automatic Seed Plug Transplanter
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

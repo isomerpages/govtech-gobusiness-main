@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Automatic Flow Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1815
 ---
 
-## Automatic Nut Splitter
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
-Cost of equipment capped at $7,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 

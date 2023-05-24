@@ -56,7 +56,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1957' target='_blank'>Deskera ERP Version 10</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1954' target='_blank'>Deskera ERP Version 10</a><br></td>
 <td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

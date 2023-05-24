@@ -1,15 +1,15 @@
 ---
-title: 'Dehusking Machine/ Shaker'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1844
 ---
 
-## Dehusking Machine/ Shaker
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

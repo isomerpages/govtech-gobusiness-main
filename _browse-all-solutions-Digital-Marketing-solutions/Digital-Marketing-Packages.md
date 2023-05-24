@@ -200,11 +200,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1944' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1941' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
 <td>Get Customers Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1947' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1944' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>

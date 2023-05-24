@@ -1,32 +1,39 @@
 ---
-title: 'Electric Pedestrian Pallet Truck'
+title: 'eCommerce Masterplan Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
-## Electric Pedestrian Pallet Truck
+## eCommerce Masterplan Version 2.0
 
 ## Overview
 
 **Description**
 
-This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
-
-The equipment can transport palletised goods of approximately 1000 to 2000 kg.
-
-Cost of equipment capped at $3,250 per unit. 
+Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
-<td style='padding: 10px;'>$3,250.00</td>
-<td style='padding: 10px;'>Mandatory Specifications:<br>-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable<br>-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load<br>-1 worker/unit<br>-Safety features eg emergency stop<br>-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.<br>-Only 1 application per coy will be supported<br>- Installation and maintenance fee are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AKS_Tech_eCommerce_Masterplan_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AKS_Tech_eCommerce_Masterplan_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -34,6 +41,10 @@ Cost of equipment capped at $3,250 per unit.
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

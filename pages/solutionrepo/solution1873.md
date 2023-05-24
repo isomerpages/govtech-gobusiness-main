@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Rainwater harvesting system and storage tank'
 permalink: /productivity-solutions-grant/solutionrepo/solution1873
 ---
 
-## HVAC system
+## Rainwater harvesting system and storage tank
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

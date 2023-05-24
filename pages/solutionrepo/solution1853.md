@@ -1,15 +1,15 @@
 ---
-title: 'Inoculation Cabinet (Laminar flow cabinet)'
+title: 'Manure Treatment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1853
 ---
 
-## Inoculation Cabinet (Laminar flow cabinet)
+## Manure Treatment System
 
 ## Overview
 
 **Description**
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For cultivation of mushrooms and other fungi. The laminar flow cabinet provides 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

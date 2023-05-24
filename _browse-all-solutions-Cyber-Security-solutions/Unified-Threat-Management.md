@@ -76,7 +76,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1960' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1957' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 </table>

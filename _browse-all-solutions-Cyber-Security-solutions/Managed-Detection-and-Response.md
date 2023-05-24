@@ -52,7 +52,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1964' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1961' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
 </tr>
 </table>

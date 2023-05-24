@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1869
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

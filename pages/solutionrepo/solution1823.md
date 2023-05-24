@@ -1,17 +1,17 @@
 ---
-title: 'Automated Labelling Machine'
+title: 'High pressure industrial vacuum cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1823
 ---
 
-## Automated Labelling Machine
+## High pressure industrial vacuum cleaner
 
 ## Overview
 
 **Description**
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $12,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

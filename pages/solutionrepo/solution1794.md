@@ -1,17 +1,18 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Vacuum Packing and Sealing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1794
 ---
 
-## Automated Tray Sealer
+## Vacuum Packing and Sealing Machine
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
+The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $35,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
 </tr>
 </table>
 

@@ -144,11 +144,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1906' target='_blank'>Smartweb Version V3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1903' target='_blank'>Smartweb Version V3</a><br></td>
 <td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1939' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1936' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
 </table>

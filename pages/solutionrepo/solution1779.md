@@ -1,17 +1,22 @@
 ---
-title: 'Power Jack for Steel Plates Adjustment (Perpendicular)'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1779
 ---
 
-## Power Jack for Steel Plates Adjustment (Perpendicular)
+## Probing System
 
 ## Overview
 
 **Description**
 
-The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
+A probing system consists of the following attached to CNC machining center:
 
-Cost of equipment capped at $18,750 per unit
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +27,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Power Jack for Steel Plates Adjustment (Perpendicular)</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Hydraulic capacity: Min. 5 tonnes<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. pump, hydraulic hose</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
 </tr>
 </table>
 

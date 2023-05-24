@@ -1,18 +1,19 @@
 ---
-title: 'Vertical Carousel'
+title: 'Automated Dough Filler/Depositor'
 permalink: /productivity-solutions-grant/solutionrepo/solution1790
 ---
 
-## Vertical Carousel
+## Automated Dough Filler/Depositor
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
 
-
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Unit height: min. 2.5m<br>Carrier tray width: min. 1.3m<br>Load capacity per tray: min. 150kg<br>With operator Interface (Console)<br>With software linked to Inventory Management System<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
 </tr>
 </table>
 

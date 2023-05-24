@@ -1,15 +1,22 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 
-## Auto Welding Carriage
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
+
+Cost of equipment  capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +27,9 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box<br><br></td>
 </tr>
 </table>
 

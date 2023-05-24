@@ -1,17 +1,17 @@
 ---
-title: 'Vertical Carousel'
+title: 'Augmented Reality Welding Training Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1789
 ---
 
-## Vertical Carousel
+## Augmented Reality Welding Training Solution
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit height: min. 2.5m<br>- Carrier tray width: min. 1.3m<br>- Load capacity per tray: min. 150kg<br>- With operator Interface (Console)<br>- With software linked to Inventory Management System</td>
+<td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
 </tr>
 </table>
 

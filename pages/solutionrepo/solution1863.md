@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'Vacuum Cooler Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1863
 ---
 
-## Sterilizer Equipment
+## Vacuum Cooler Equipment
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

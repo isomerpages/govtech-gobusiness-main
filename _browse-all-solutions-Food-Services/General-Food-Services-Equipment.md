@@ -32,27 +32,23 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1803' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1801' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1881' target='_blank'>Automated Deep Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1879' target='_blank'>Automated Deep Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1882' target='_blank'>Blast Chiller</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1880' target='_blank'>Blast Chiller</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1883' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1883' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1886' target='_blank'>Automated Dishwasher</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1887' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1884' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Underwater Camera'
+title: 'Fish fry quarantine tank system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1878
 ---
 
-## Underwater Camera
+## Fish fry quarantine tank system
 
 ## Overview
 
 **Description**
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Underwater cameras to have closer monitoring of the livestock activity in water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

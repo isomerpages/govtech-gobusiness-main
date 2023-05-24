@@ -24,7 +24,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Techtown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1911' target='_blank'>NX CAD/CAM Software Version NX2212</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1908' target='_blank'>NX CAD/CAM Software Version NX2212</a><br></td>
 <td>DreamTechnology System Pte. Ltd.</td>
 </tr>
 </table>

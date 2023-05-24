@@ -1,18 +1,20 @@
 ---
-title: 'Blast Chiller'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1882
 ---
 
-## Blast Chiller
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Cost of equipment capped at $37,500 per unit 
-
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +25,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Minimum Specifications<br><br>Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>Minimum capacity of 5 GN 1/1<br><br></td>
+<td style='padding: 10px;'>Mandatory: <br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
 </tr>
 </table>
 

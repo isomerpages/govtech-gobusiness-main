@@ -1,15 +1,15 @@
 ---
-title: 'Multi-tier Cultivation System'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1857
 ---
 
-## Multi-tier Cultivation System
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Multi-tier growing system with racks, irrigation and dosing system, LED grow lig
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

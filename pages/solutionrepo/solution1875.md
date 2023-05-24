@@ -1,15 +1,15 @@
 ---
-title: 'Rainwater harvesting system and storage tank'
+title: 'Digital quality testing equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1875
 ---
 
-## Rainwater harvesting system and storage tank
+## Digital quality testing equipment
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+Quality testing equipment in measuring the produce quality and freshness
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system with pumps, tanks and purification systems that collects and stores rai
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Flow Wrap Packaging Machine'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 
-## Automatic Flow Wrap Packaging Machine
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
 Cost of equipment capped at $37,500 per unit
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 

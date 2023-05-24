@@ -1,15 +1,15 @@
 ---
-title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1871
 ---
 
-## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+## HVAC system
 
 ## Overview
 
 **Description**
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dosers and sensors or sub-meters for water and energy monitoring of relevant far
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

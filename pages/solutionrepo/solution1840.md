@@ -1,15 +1,15 @@
 ---
-title: 'Closed Containment System'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1840
 ---
 
-## Closed Containment System
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To cultivate produce in a controlled environment that isolates and protects them
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft 365 Defender'
-permalink: /productivity-solutions-grant/solutionrepo/solution1964
+permalink: /productivity-solutions-grant/solutionrepo/solution1961
 ---
 
 ## Microsoft 365 Defender
