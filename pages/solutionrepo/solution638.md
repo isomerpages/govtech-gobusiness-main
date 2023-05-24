@@ -1,15 +1,16 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'FirstCRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution638
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## FirstCRM
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+Integrate and migrate all your offline leads and leads from Digital Marketing campaigns into one system. 
+Track the lead status and have clear overview of the performance of individual campaigns and sales personnel via various reports available.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,10 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCRM - Lead Management System</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +37,7 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

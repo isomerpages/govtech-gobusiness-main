@@ -1,15 +1,15 @@
 ---
-title: 'Xero Accounting software'
+title: 'EASPAC Enterprise Software Version 10.1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
-## Xero Accounting software
+## EASPAC Enterprise Software Version 10.1.1
 
 ## Overview
 
 **Description**
 
-Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
+EASPAC Enterprise Software for the past 20 years has established itself as a reliable software application provider. It specializes in the development of solutions that are reliable and versatile. Its user-friendly interface is designed for ease of using.  The modules which are integrated in the system encompassed both accounting and operational aspect of the business requirement. With the unique structured design, EASPAC Enterprise Software can be easily set up to cater to most industries.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Refresher Package</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$23,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Standard Starter Package</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
+<td style='padding: 10px;'>$28,500.00</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Grow Package</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$37,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Starter Package</td>
-<td style='padding: 10px;'>$4,150.00</td>
-<td style='padding: 10px;'>$4,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'>$23,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Package</td>
-<td style='padding: 10px;'>$4,450.00</td>
-<td style='padding: 10px;'>$4,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 
 ## Vendor Information
 
- Company Name: Perfecten Corporate Services Pte Ltd<br>Web URL: www.xero.com <br><br>Contact Hotline: 63104961 <br><br>Contact Email: enquiry@perfecten.com.sg <br><br>
+ Company name:Prosperage Pte Ltd<br>Web URL: eas-software.com <br>Contact Hotline: 65633810 <br>Contact Email: sylvia@prosperage.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

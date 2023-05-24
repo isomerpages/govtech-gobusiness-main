@@ -1,15 +1,15 @@
 ---
-title: 'JustLogin HR E-Scheduling'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution877
 ---
 
-## JustLogin HR E-Scheduling
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-JustLogin is an Employee First Human Resource (HR) cloud platform that provides innovative technologies for businesses to manage their people operations. JustLogin HR E-Scheduling allows tracking of employee attendance and roster scheduling, and is seamlessly integrated with Payroll and Leave software. The package includes SafeClock, an all-in-one employee attendance tracker, contactless temperature scanner, automated SafeEntry, visitor management and door access solution device.
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,20 @@ JustLogin is an Employee First Human Resource (HR) cloud platform that provides 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - A (Up to 10 pax)</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - B (Up to 25 pax)</td>
-<td style='padding: 10px;'>$4,850.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - C (Up to 75 pax)</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>JustLogin HR E-Scheduling - D (Up to 125 pax)</td>
-<td style='padding: 10px;'>$15,850.00</td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Justlogin_E-Scheduling__20200766_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: JustLogin Pte Ltd<br>Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
+ Company name: KLC International Institute Pte Ltd <br>Web URL: https://klc.edu.sg/ <br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

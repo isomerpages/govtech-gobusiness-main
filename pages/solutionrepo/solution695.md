@@ -1,19 +1,15 @@
 ---
-title: 'Getz F&B Omni Channel Solution Version 2'
+title: 'DM GSK Group Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution695
 ---
 
-## Getz F&B Omni Channel Solution Version 2
+## DM GSK Group Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
-
-Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
-
-Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
+With more than 17 years of experience providing clients with digital marketing solutions, GSK Group offers comprehensive SEO, SEM and SMM packages. Solutions are customised to meet every business's unique needs and wants. GSK Group aims to help every business achieve brand awareness, increase social media profile visibility, lead enquiries and higher sales revenue.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +23,38 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 1 - SEM-Search + SEM-Display - (3 months)</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 2 - SEM-Search + SEM-Display - (6 months)	</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 3 - SEM + SEO - (6 months) </td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 4 - SEM + SMM - (6 months)</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 5 - SMM-Facebook + SMM-Instagram - (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +64,7 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email:  connect@getz.co
+ Company name:GSK Group Pte Ltd<br>Web URL: www.gskcreative.com.sg <br>Contact Hotline: 65364019 <br>Contact Email: info@gsk-group.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'SAGE 300'
+title: 'SGDATAPOS Digital Ordering'
 permalink: /productivity-solutions-grant/solutionrepo/solution1335
 ---
 
-## SAGE 300
+## SGDATAPOS Digital Ordering
 
 ## Overview
 
 **Description**
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management.
+SGDATAPOS Digital Ordering is designed with a simple interface, yet powerful functions to ease operations.
+Backed with cloud back office, configurations such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
+SGDATAPOS Digital Ordering is easily integrated to other SGDATA add-on modules such as CRM, e-commerce, kitchen display system & POS system.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ Sage 300 is a business accounting software that provides accounting software for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 2 Users)</td>
-<td style='padding: 10px;'>$12,736.00</td>
-<td style='padding: 10px;'>$11,404.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package A, Basic On-line ordering</td>
+<td style='padding: 10px;'>$4,420.00</td>
+<td style='padding: 10px;'>$4,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$16,448.00</td>
-<td style='padding: 10px;'>$14,672.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package B, Basic On-line ordering with Customer Relationship Module</td>
+<td style='padding: 10px;'>$6,420.00</td>
+<td style='padding: 10px;'>$5,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$26,384.00</td>
-<td style='padding: 10px;'>$23,276.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package C, Comprehensive On-line ordering with CRM and Mobile Ordering System</td>
+<td style='padding: 10px;'>$8,220.00</td>
+<td style='padding: 10px;'>$7,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_DataHub_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$35,664.00</td>
-<td style='padding: 10px;'>$30,546.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package D, Delta On-line ordering with CRM, MOS and KDS)</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'>$10,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 15 Users)</td>
-<td style='padding: 10px;'>$44,144.00</td>
-<td style='padding: 10px;'>$37,116.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SGDATAPOS Digital Ordering - Package E, Elite On-line Mobile Ordering System</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Singapore_Annex3_CR_wef29dec22.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ Sage 300 is a business accounting software that provides accounting software for
 
 ## Vendor Information
 
- Company Name: SEG IT Services Pte Ltd<br>Web URL: http:// www.segit.com.sg <br>Contact Hotline: 64830950 <br>Contact Email: sales@segit.com.sg <br>
+ Company Name: Singapore Data Hub Pte Ltd<br>Web URL: www.sgdatapos.com <br><br>Contact Hotline: +6566677093 <br><br>Contact Email: sales@sgdatahub.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

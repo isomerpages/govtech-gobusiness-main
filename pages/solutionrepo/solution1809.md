@@ -1,19 +1,22 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
-## Mobile Computer (Warehouse application)
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
-Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
-
-Cost of equipment capped at $30,000 per unit. 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +27,9 @@ Cost of equipment capped at $30,000 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Mandatory specifications:<br>- Installed with software for inventory data input.<br>- Withstand rough handling, meet min IP54 standards.<br>- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>- Battery with min 3 hrs standby.<br>- Wireless LAN/Bluetooth/cellular connectivity.<br>- Support the common operating system e.g. Android, Windows.<br>- Installation and Maintenance cost are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
 </tr>
 </table>
 

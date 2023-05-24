@@ -1,19 +1,15 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'Odoo Enterprise Version 16'
 permalink: /productivity-solutions-grant/solutionrepo/solution1152
 ---
 
-## Pepper Cloud CRM Version 14.0
+## Odoo Enterprise Version 16
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
-
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
 
 ## Solution Packages Option(s)
 
@@ -27,31 +23,31 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
+<td style='padding: 10px;'>$8,675.00</td>
+<td style='padding: 10px;'>$7,275.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_10Users</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
+<td style='padding: 10px;'>$16,025.00</td>
+<td style='padding: 10px;'>$13,825.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$18,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -61,7 +57,7 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte Ltd<br>Web URL: https://peppercloud.com/ <br><br>Contact Hotline: 97510475 <br><br>Contact Email: sales@peppercloud.com <br><br>
+ Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

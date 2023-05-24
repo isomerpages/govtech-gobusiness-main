@@ -1,15 +1,15 @@
 ---
-title: 'Mobile Responsive E-Commerce'
+title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.'
 permalink: /productivity-solutions-grant/solutionrepo/solution1622
 ---
 
-## Mobile Responsive E-Commerce
+## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+WTW (Willis Towers Watson) is a leading global company with expertise in HR consulting and people solutions. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others. We advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WebImp_Mobile_Responsive_E_Commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.  <br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers <br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

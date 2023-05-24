@@ -1,15 +1,17 @@
 ---
-title: 'V3Nity-FMS Fleet Management System Version 3.0'
+title: 'DM Social Media Marketing (Brand Awareness & Lead Generation)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1572
 ---
 
-## V3Nity-FMS Fleet Management System Version 3.0
+## DM Social Media Marketing (Brand Awareness & Lead Generation)
 
 ## Overview
 
 **Description**
 
-The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] WLP Digital Marketing package helps evaluate the company's core products/ services, competitiveness and propose effective brand positioning strategy to maximise brand competitive distinctiveness and brand value.
+
+It also comprises of active marketing campaigns that match several business targets & goals: from driving web traffic to maximising online sales and optimising lead conversions.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +25,20 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 SMM + SMA (2 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+ Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

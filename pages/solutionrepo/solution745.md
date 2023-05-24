@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Shared Service'
+title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution745
 ---
 
-## HRM Labs Shared Service
+## Advanced Ecommerce Solution by I Concept Version 2.0
 
 ## Overview
 
 **Description**
 
-HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
+Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ HRM Labs helps companies to handle their human resource administration and payro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 15 Headcount</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_Concept_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 30 Headcount</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive</td>
+<td style='padding: 10px;'>$13,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_Concept_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 50 Headcount</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 100 Headcount</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 200 Headcount</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_Concept_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ HRM Labs helps companies to handle their human resource administration and payro
 
 ## Vendor Information
 
- Company Name: Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@hrmlabs.com <br><br>
+ Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

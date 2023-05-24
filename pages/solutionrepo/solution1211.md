@@ -1,15 +1,19 @@
 ---
-title: 'Tracee Inventory Version 2.0.0'
+title: 'Redoc - Document Management Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1211
 ---
 
-## Tracee Inventory Version 2.0.0
+## Redoc - Document Management Version 1.0
 
 ## Overview
 
 **Description**
 
-Tracee Inventory allows high visibility & accessibility of products, & easy management across multiple locations. Tracee Inventory provides real-time data about Inventory levels to always stay on top of stock counts, assisting decision makers in making informed operational decisions. Coupled with API availability, Tracee Inventory helps businesses manage & streamline operational workflow with data integrations across multiple sales channels such as marketplaces, ecommerce, accounting systems.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart document management and transaction records platform. 
+
+Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights and transaction records on the performance of your business. 
+
+Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc!
 
 ## Solution Packages Option(s)
 
@@ -23,20 +27,48 @@ Tracee Inventory allows high visibility & accessibility of products, & easy mana
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tracee Inventory Version 2.0.0 - Omni Package (Up to 3 Outlets)</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qualityzone_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (Up to 60 users)</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93956988 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company name:Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

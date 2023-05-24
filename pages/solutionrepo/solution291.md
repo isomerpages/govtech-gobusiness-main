@@ -1,17 +1,25 @@
 ---
-title: 'Beaufort-Xero Digital Solutions'
+title: 'BIPO Human Resource Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution291
 ---
 
-## Beaufort-Xero Digital Solutions
+## BIPO Human Resource Management System
 
 ## Overview
 
 **Description**
 
-Beaufort provides Accounting & Tax Services to SME Businesses & Companies. Beaufort is the Partner Reseller of XERO, a Cloud Accounting Software.
-As Xero Certified Advisors the Xero account will be setup, and depending on the package choice, any customisations as stated. There are packages for Beaufort customised workflow training of best practices for users to do their daily Day-to-Day managing of their accounts. 
-Beaufort's range of 5 packages, allows a wide selection.
+Global HR and Payroll Solutions
+ 
+Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
+
+(a) Employee master data management 
+(b) Time and attendance 
+(c) Payroll management
+(d) Expense claims and overtime 
+(e) Performance and training management
+
+BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +33,34 @@ Beaufort's range of 5 packages, allows a wide selection.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Subscription Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 50</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Subscription + Set Up</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 100</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Subscription + Set Up + Training (B)</td>
-<td style='padding: 10px;'>$2,536.00</td>
-<td style='padding: 10px;'>$2,474.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Subscription + Set Up + Training (B,I) + Custom + Data (Opening)</td>
-<td style='padding: 10px;'>$6,136.00</td>
-<td style='padding: 10px;'>$6,074.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription + Set Up + Training (B,I,A) + Custom + Data (Opening & 1-Yr)</td>
-<td style='padding: 10px;'>$9,936.00</td>
-<td style='padding: 10px;'>$9,874.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 150</td>
+<td style='padding: 10px;'>$21,500.00</td>
+<td style='padding: 10px;'>$20,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Beaufort Tax Consultants Pte Ltd<br>Web URL: https://www.xero.beaufort.sg/ <br>Contact Hotline: 88229376 <br>Contact Email: contact@beaufort.sg 
+ Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

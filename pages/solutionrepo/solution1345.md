@@ -1,16 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - SFIC Institute Pte Ltd'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1345
 ---
 
-## Job Redesign Consultancy - SFIC Institute Pte Ltd
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-SFIC Institute is a human capital solutions provider established in response to the needs of a rapidly evolving workplace environment. 
-Our consultants have done Job and Process Redesign projects across various industries, including Education, Beauty and Retail companies. 
+EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,20 @@ Our consultants have done Job and Process Redesign projects across various indus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - SFIC Institute Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySFICInstitute.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EzyProcure Version 2.0 - e-procurement system for Wholesalers/Suppliers</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Name: Dominic Ng (CEO)<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
+ Company Name: Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br><br>Contact Hotline: 62008021 <br><br>Contact Email: info@sgebiz.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -36,15 +36,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Alitec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution336' target='_blank'>HubSpot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution322' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution356' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution342' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1112' target='_blank'>Gravis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1085' target='_blank'>Gravis</a><br></td>
 <td>ONE X GROUP PTE. LTD.</td>
 </tr>
 </table>

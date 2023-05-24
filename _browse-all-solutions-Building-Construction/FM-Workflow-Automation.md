@@ -32,23 +32,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>APM Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution643' target='_blank'>FacilityBot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution629' target='_blank'>FacilityBot</a><br></td>
 <td>FacilityBot Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution685' target='_blank'>KEGMIL FSM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution671' target='_blank'>KEGMIL FSM</a><br></td>
 <td>FTV LABS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1064' target='_blank'>Simplify Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1037' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1248' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
 <td>Really Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1443' target='_blank'>Swipetask PRO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1416' target='_blank'>Swipetask PRO</a><br></td>
 <td>Swipetask Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Moneyworks Version 9'
+title: 'JumpCloud Platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution1129
 ---
 
-## Moneyworks Version 9
+## JumpCloud Platform
 
 ## Overview
 
 **Description**
 
-Ostendo provides Moneyworks, an Accounting software suitable for businesses of all sizes. It is developed by Cognito Software based in New Zealand since 1986. Key features of the solution include: general ledger, invoicing, inventory management, and sales management. MoneyWorks can interface seamlessly with most leading payroll, CRM, POS systems or mySQL, making it possible to streamline workflow. The friendly interface and graphic workflows make MoneyWorks fast, easy and efficient to operate.
+Perennial Flexiwork is a holistic endpoint management solution for companies that take remote work seriously by integrating JumpCloud Platform with Trend Micro Worry-Free. On top of its proven and tested anti-virus capability, Flexiwork comes with much needed features to make remote work both productive and secure e.g. Remote Assist ( similar to TeamViewer), patch management, application deployment etc, in today's post-pandemic environment. Flexiwork will provide a strong security foundation for companies seeking to embark on their ISO27001 journeys. 
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Gold (1 user)</td>
-<td style='padding: 10px;'>$1,395.00</td>
-<td style='padding: 10px;'>$1,295.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 30 devices</td>
+<td style='padding: 10px;'>$4,483.00</td>
+<td style='padding: 10px;'>$4,483.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Now (3 users)</td>
-<td style='padding: 10px;'>$5,740.00</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 50 devices</td>
+<td style='padding: 10px;'>$7,471.00</td>
+<td style='padding: 10px;'>$7,471.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (3 users)</td>
-<td style='padding: 10px;'>$7,235.00</td>
-<td style='padding: 10px;'>$6,935.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 100 devices</td>
+<td style='padding: 10px;'>$14,943.00</td>
+<td style='padding: 10px;'>$14,943.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (3 users with integration and automation)</td>
-<td style='padding: 10px;'>$9,735.00</td>
-<td style='padding: 10px;'>$9,435.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 150 devices</td>
+<td style='padding: 10px;'>$22,414.00</td>
+<td style='padding: 10px;'>$22,414.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (6 users with integration and automation)</td>
-<td style='padding: 10px;'>$11,385.00</td>
-<td style='padding: 10px;'>$11,085.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 200 devices</td>
+<td style='padding: 10px;'>$29,885.00</td>
+<td style='padding: 10px;'>$29,885.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Ostendo Pte Ltd<br>Web URL: www.ostendoasia.com <br><br>Contact Hotline: 68505150 <br><br>Contact Email: info.sg@ostendoasia.com <br><br>
+ Company name:Perennial Consultancy Pte Ltd<br>Web URL: jumpcloud.perennialconsultancy.com <br>Contact Hotline: 96623516 <br>Contact Email: sales@perennialconsultancy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

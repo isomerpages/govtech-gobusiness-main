@@ -1,15 +1,17 @@
 ---
-title: 'WhyQ VendorOS Version 13.0'
+title: 'Xintesys Sales and Inventory Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1643
 ---
 
-## WhyQ VendorOS Version 13.0
+## Xintesys Sales and Inventory Management Solution
 
 ## Overview
 
 **Description**
 
-WhyQ Vendor OS is an all-in-one digitization tool that helps F&B establishments digitize daily operational processes. It eliminates administrative challenges by helping to maximize manpower resources and lowering day-to-day costs, allowing establishments to focus on serving more customers.
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +25,27 @@ WhyQ Vendor OS is an all-in-one digitization tool that helps F&B establishments 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyQ VendorOS Version 13.0 - Software Only</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyQ_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyQ VendorOS Version 13.0 - Software with Basic Hardware</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyQ_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Pack (10 users)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$19,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: WhyQ Pte. Ltd.<br>Web URL: www.whyq.sg <br><br>Contact Hotline: 69142673 <br><br>Contact Email: contactus@whyq.sg <br><br>
+ Company name:Xintesys Consultancy Pte Ltd<br>Web URL: https://xintesys.com/xintesys-demo/ <br>Contact Hotline: 62721237 <br>Contact Email: solutions@xintesys.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
