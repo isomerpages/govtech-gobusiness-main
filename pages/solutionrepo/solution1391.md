@@ -1,15 +1,15 @@
 ---
-title: 'SKIP QUEUE (F&B) - DIGITAL ORDERING'
+title: 'DM SBC Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1391
 ---
 
-## SKIP QUEUE (F&B) - DIGITAL ORDERING
+## DM SBC Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,34 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in/Takeaway/Delivery/Multi-User/KDS)</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware(Dine-in/Takeaway/Delivery/Multi-User/KDS)</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
+<td style='padding: 10px;'>$10,900.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SkipQoo Pte Ltd<br>Web URL: www.skipqoo.io <br><br>Contact Hotline: 88460000 <br><br>Contact Email: hello@skipqoo.io <br><br>
+ Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
