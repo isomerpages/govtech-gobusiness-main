@@ -1,18 +1,17 @@
 ---
-title: 'Portable Automatic Pipe Gas Cutter'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 
-## Portable Automatic Pipe Gas Cutter
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
-Cost of equipment capped at $12,500 per unit
-
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Pipe Gas Cutter</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Automatic travelling gas cutting operations<br>Cutting speed: minimum 50 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 

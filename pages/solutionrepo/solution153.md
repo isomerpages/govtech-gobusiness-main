@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'AIO CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution153
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## AIO CRM
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM - AIO CRM </td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://www.aiidevelop.com.sg/psg-digital-marketing-grant/ <br>Contact Hotline: 88968305<br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,23 @@
 ---
-title: 'EQuipPOS Beauty Solutions Version 3'
+title: 'Eminet Sophos XGS Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution570
 ---
 
-## EQuipPOS Beauty Solutions Version 3
+## Eminet Sophos XGS Firewall
 
 ## Overview
 
 **Description**
 
-EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
+Sophos XGS Cybersecurity Solution that provides :
+(i) Network Firewall
+(ii) Intrusion Detection/Prevention System
+(iii) Virtual Private Network (VPN)
+(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
+(v) Secure Email Gareway (e.g. anti-spam, content filtering)
+(vi) Anti-Virus/Anti-Malware
+(vii) Application Control
+(viii) Sandboxing
 
 ## Solution Packages Option(s)
 
@@ -23,38 +31,31 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Lite)</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 116</td>
+<td style='padding: 10px;'>$1,670.00</td>
+<td style='padding: 10px;'>$1,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic)</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 136</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + GuestBook App)</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'>$7,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2100</td>
+<td style='padding: 10px;'>$3,862.00</td>
+<td style='padding: 10px;'>$3,862.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + Digital Rewards & Orders App)</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)</td>
-<td style='padding: 10px;'>$5,050.00</td>
-<td style='padding: 10px;'>$5,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2300</td>
+<td style='padding: 10px;'>$5,168.00</td>
+<td style='padding: 10px;'>$5,168.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 
 ## Vendor Information
 
- Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
+ Company Name: EMINET PTE LTD<br>Web URL: www.eminet.com.sg <br><br>Contact Hotline: 66019898 <br><br>Contact Email: charles@eminet.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

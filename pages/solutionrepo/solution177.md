@@ -1,15 +1,15 @@
 ---
-title: 'AM8ZE ERP - VISTA'
+title: 'ABSS Premier Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution177
 ---
 
-## AM8ZE ERP - VISTA
+## ABSS Premier Version 30
 
 ## Overview
 
 **Description**
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+Andre Corporate is a software company specializing in accounting software providing sales, training and after sales support. Andre Corporate's competitive advantage is that all provided services can all be done remotely. Integrated accounting solution with modules Statement of financial position, comprehensive income, and cash flow), Account Receivable/Payable, Billing and Invoicing, Inventory, Multiple Currencies, General Ledger, Purchase Order and Sales Order and Data Analytics capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Single User Licence product only)</td>
+<td style='padding: 10px;'>$1,850.00</td>
+<td style='padding: 10px;'>$1,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (Unlimited Users)</td>
-<td style='padding: 10px;'>$22,300.00</td>
-<td style='padding: 10px;'>$22,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Three User Licence product only)</td>
+<td style='padding: 10px;'>$2,650.00</td>
+<td style='padding: 10px;'>$2,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (Unlimited Users)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Single User Licence Full Package)</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,300.00</td>
-<td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Three User Licence Full Package)</td>
+<td style='padding: 10px;'>$3,550.00</td>
+<td style='padding: 10px;'>$3,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Advanced (Unlimited Users)</td>
-<td style='padding: 10px;'>$39,800.00</td>
-<td style='padding: 10px;'>$35,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Three User Licence Full package with remote access)</td>
+<td style='padding: 10px;'>$4,250.00</td>
+<td style='padding: 10px;'>$4,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ## Vendor Information
 
- Web URL: https://am8ze.com/erp/ <br><br>Contact Hotline: 96222206 <br><br>Contact Email: sales@am8ze.com <br><br>
+ Company Name: Andre Corporate Pte Ltd<br>Web URL: https://www.andrecorpl.com/abss-accounting-software/ <br>Contact Hotline: 92258858 <br>Contact Email: consultants@andre.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

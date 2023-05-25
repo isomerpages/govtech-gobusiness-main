@@ -1,15 +1,15 @@
 ---
-title: 'LFSuite'
+title: 'Madsoft Solutions GST API Version 320'
 permalink: /productivity-solutions-grant/solutionrepo/solution909
 ---
 
-## LFSuite
+## Madsoft Solutions GST API Version 320
 
 ## Overview
 
 **Description**
 
-LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
+Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</td>
-<td style='padding: 10px;'>$7,780.00</td>
-<td style='padding: 10px;'>$7,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 2 users with InvoiceNow</td>
+<td style='padding: 10px;'>$9,039.00</td>
+<td style='padding: 10px;'>$8,839.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C [Complete] - (3x Digital Ordering + KDS + Analytics)</td>
-<td style='padding: 10px;'>$9,860.00</td>
-<td style='padding: 10px;'>$9,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 5 users with InvoiceNow</td>
+<td style='padding: 10px;'>$13,859.00</td>
+<td style='padding: 10px;'>$13,459.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$12,100.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 3 users with RFID hardware and InvoiceNow</td>
+<td style='padding: 10px;'>$19,829.00</td>
+<td style='padding: 10px;'>$16,929.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$16,940.00</td>
-<td style='padding: 10px;'>$10,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Premier 6 users with InvoiceNow</td>
+<td style='padding: 10px;'>$24,819.00</td>
+<td style='padding: 10px;'>$23,219.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$19,340.00</td>
-<td style='padding: 10px;'>$16,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 8 users with InvoiceNow</td>
+<td style='padding: 10px;'>$25,579.00</td>
+<td style='padding: 10px;'>$24,279.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 
 ## Vendor Information
 
- Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
+ Company Name: Madsoft Solutions Pte Ltd<br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

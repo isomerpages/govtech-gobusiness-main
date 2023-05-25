@@ -1,15 +1,15 @@
 ---
-title: 'DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages'
+title: 'MetroERP Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
-## DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages
+## MetroERP Version 1.0
 
 ## Overview
 
 **Description**
 
-Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry. MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM.
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Benefit from MediaOne's digital marketing solutions that bring results to client
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$13,300.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Benefit from MediaOne's digital marketing solutions that bring results to client
 
 ## Vendor Information
 
- Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.co<br>Contact Hotline: 69657008 <br>Contact Email: contact@mediaone.co<br>
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

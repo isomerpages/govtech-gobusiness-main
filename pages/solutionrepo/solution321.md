@@ -1,17 +1,17 @@
 ---
-title: '1ECommerce'
+title: 'DM LiteBrew Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution321
 ---
 
-## 1ECommerce
+## DM LiteBrew Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-1ECommerce by Bona Technologies is a bespoke website solution specialising in WooCommerce powered by WordPress which will create a new business channel for SMEs to GoDigital and increase their sales revenue with minimal cost. 
+Brew Interactive is a full-suite, award winning digital marketing agency. Their solutions have been specially designed to help address the requirements of any growing SMEs; from an increase in awareness, to driving leads and sales.
 
-1ECommerce has powerful promotion capabilities to drive customer retention and can be integrated with 1ERP - Singapore ERP Software for efficient and streamlined business processes.
+Brew Interactive's service packages range from 3 to 6 months long, and are flexible to accommodate any SME's growth plans.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +25,48 @@ permalink: /productivity-solutions-grant/solutionrepo/solution321
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEM + SMM] 5 months</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Parallax</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEM + SMM + Landing Page] 4 months</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Promotion</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEM + SEO] 6 months</td>
+<td style='padding: 10px;'>$10,250.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEM + SEO + Content Creation] 4 months</td>
+<td style='padding: 10px;'>$10,650.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Omni-Channel</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEM + Full SEO] 6 months</td>
+<td style='padding: 10px;'>$15,100.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company name:Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/digital-marketing-psg-packages/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
