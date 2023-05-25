@@ -26,7 +26,7 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PER VEHICLE</td>
 <td style='padding: 10px;'>$1,939.00</td>
 <td style='padding: 10px;'>$1,719.00</td>
-<td style='padding: 10px;'><a href=' /images/psg/IDEE_INFOCOM_vTrak_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/IDEE_INFOCOM_vTrak_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
