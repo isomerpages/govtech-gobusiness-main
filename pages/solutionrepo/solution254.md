@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting'
+title: 'ZoneSafe Proximity Warning Systems Version V03'
 permalink: /productivity-solutions-grant/solutionrepo/solution254
 ---
 
-## AutoCount Accounting
+## ZoneSafe Proximity Warning Systems Version V03
 
 ## Overview
 
 **Description**
 
-AutoCount possess more than 25 years software development experience. Its main business is to develop and provide high quality accounting software as well as other business applications to small and medium sized enterprises. As at today, AutoCount Accounting have been the preferred choices of most SMEs in Malaysia and its surrounding countries. More than 200,000 companies and 600,000 users of various industries/sectors
+The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/operators, and personnel with warnings that they are in close proximity of each other. The purpose of the system is to prevent collisions between vehicles and personnel in the workplace.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ AutoCount possess more than 25 years software development experience. Its main b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (1 Users) </td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Pedestrian - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Basic V2.0 (3 Users) </td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (5 Users)</td>
-<td style='padding: 10px;'>$11,020.00</td>
-<td style='padding: 10px;'>$11,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (8 Users)  </td>
-<td style='padding: 10px;'>$12,820.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AutoCount Accounting - Premium V2.0 (15 Users) </td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Vehicle - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ AutoCount possess more than 25 years software development experience. Its main b
 
 ## Vendor Information
 
- Company Name: Autocount (S) Pte Ltd<br>Web URL: http://autocountsoft.com.sg/autocount-accounting/ <br><br>Contact Hotline: 6583219689 <br><br>Contact Email: sales.sg@autocountsoft.com <br><br>
+ Company Name: Automation Support Services Pte Ltd<br>Web URL: www.assmsb.com <br>Contact Hotline: 68446223 <br>Contact Email: david@assmsb.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Simplify Version 1'
+title: 'North Trust Xero Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1037
 ---
 
-## Simplify Version 1
+## North Trust Xero Solution
 
 ## Overview
 
 **Description**
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+Xero is global Cloud Accounting Software that has a plethora of features to assist businesses to automate and run their businesses digitally. These include e-invoicing, digital bank feeds, advanced bank reconciliation, project management including costing, expense management, accepting payment online directly, and connected to over 800+ integrations. It is also IRAS compliant and optimized for tax returns.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Xero Subscription Only</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
-<td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Xero Basic Package W/O Historical Transactions</td>
+<td style='padding: 10px;'>$2,380.00</td>
+<td style='padding: 10px;'>$2,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Xero Basic Package With Historical Transactions</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$2,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
-<td style='padding: 10px;'>$33,500.00</td>
-<td style='padding: 10px;'>$30,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Xero Premium Package W/O Historical Transactions</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'>$3,325.00</td>
+<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,500.00</td>
-<td style='padding: 10px;'>$32,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Xero Premium Full Package</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ## Vendor Information
 
- Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
+ Company name:NORTH TRUST PTE. LTD.<br>Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62223800 <br>Contact Email: ybk@e-management.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

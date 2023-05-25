@@ -1,15 +1,15 @@
 ---
-title: 'QuickDesk Marketing'
+title: 'Firewall Security Protection'
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
-## QuickDesk Marketing
+## Firewall Security Protection
 
 ## Overview
 
 **Description**
 
-Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
+Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
-<td style='padding: 10px;'>$2,133.41</td>
-<td style='padding: 10px;'>$2,013.41</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 40F with Managed Services - P1</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
-<td style='padding: 10px;'>$4,649.30</td>
-<td style='padding: 10px;'>$4,249.30</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 80F - P2</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
-<td style='padding: 10px;'>$7,713.91</td>
-<td style='padding: 10px;'>$7,053.91</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection -  Rah Tech Fortinet 80F with Managed Services - P3</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
-<td style='padding: 10px;'>$9,395.19</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F - P4</td>
+<td style='padding: 10px;'>$5,200.00</td>
+<td style='padding: 10px;'>$5,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
-<td style='padding: 10px;'>$14,374.74</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
+ Company Name: Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

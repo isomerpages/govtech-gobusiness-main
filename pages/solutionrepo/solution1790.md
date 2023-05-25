@@ -1,19 +1,17 @@
 ---
-title: 'Automated Dough Filler/Depositor'
+title: 'Blast Freezer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1790
 ---
 
-## Automated Dough Filler/Depositor
+## Blast Freezer
 
 ## Overview
 
 **Description**
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
 </tr>
 </table>
 

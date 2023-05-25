@@ -1,15 +1,15 @@
 ---
-title: 'Multi-tier Cultivation System'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1855
 ---
 
-## Multi-tier Cultivation System
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Multi-tier growing system with racks, irrigation and dosing system, LED grow lig
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

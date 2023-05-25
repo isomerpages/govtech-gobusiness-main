@@ -1,16 +1,19 @@
 ---
-title: 'Flange Facer'
+title: 'Mobile Computer (Warehouse application)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
-## Flange Facer
+## Mobile Computer (Warehouse application)
 
 ## Overview
 
 **Description**
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
-Cost of equipment capped at $37,500 per unit 
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -21,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
 </tr>
 </table>
 

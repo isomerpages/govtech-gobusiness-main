@@ -1,15 +1,15 @@
 ---
-title: 'EQuip Wholesales & Inventory System Version 3'
+title: 'EQuip Orders Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution561
 ---
 
-## EQuip Wholesales & Inventory System Version 3
+## EQuip Orders Version 1
 
 ## Overview
 
 **Description**
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+Edgeworks EQuip Orders is a solution that transforms the digital ordering experience in the F&B segment. It provides an Omnichannel ordering experience where customers order via online app for pickup or delivery, dine in QR ordering with digital payment processing. Sales are seamlessly consolidated into a single backend system. Cloud based reports and mobile applications are available to analyse business performance. Professional service and training are included to ensure business readiness.
 
 ## Solution Packages Option(s)
 
@@ -23,44 +23,44 @@ EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic)</td>
-<td style='padding: 10px;'>$7,010.00</td>
-<td style='padding: 10px;'>$6,328.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite</td>
+<td style='padding: 10px;'>$3,750.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module)</td>
-<td style='padding: 10px;'>$8,910.00</td>
-<td style='padding: 10px;'>$8,478.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite + Rewards</td>
+<td style='padding: 10px;'>$6,750.00</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - Accounting Integration</td>
-<td style='padding: 10px;'>$12,410.00</td>
-<td style='padding: 10px;'>$11,978.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,550.00</td>
+<td style='padding: 10px;'>$5,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - eCommerce Integration</td>
-<td style='padding: 10px;'>$12,410.00</td>
-<td style='padding: 10px;'>$11,978.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + Rewards</td>
+<td style='padding: 10px;'>$8,550.00</td>
+<td style='padding: 10px;'>$7,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - 2 License Bundle</td>
-<td style='padding: 10px;'>$13,490.00</td>
-<td style='padding: 10px;'>$12,776.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + eWaiter</td>
+<td style='padding: 10px;'>$8,250.00</td>
+<td style='padding: 10px;'>$7,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 

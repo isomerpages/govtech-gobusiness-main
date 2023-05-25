@@ -1,17 +1,17 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1803
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Cost of equipment apped at $37,500 per unit 
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment apped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

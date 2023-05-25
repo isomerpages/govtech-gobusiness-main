@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1629
 
 **Description**
 
-Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps SMEs integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM, InvoiceNOW) and optionally one of the advanced modules (Essential license - Projects. Premium license -  After Sales Service or Manufacturing)
+Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps Distribution companies integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM), Add-on for promotions and end to end delivery management. Some packages include integration with Lazada / Shopee.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package A (5 Essential Subscription Licenses)</td>
-<td style='padding: 10px;'>$29,990.00</td>
-<td style='padding: 10px;'>$27,390.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package A - Subscription 6 Essential + 1 Team user, 1 Marketplace Connector</td>
+<td style='padding: 10px;'>$39,347.20</td>
+<td style='padding: 10px;'>$33,847.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package B (10 Essential, 2 TM Subscription Licenses)</td>
-<td style='padding: 10px;'>$36,358.40</td>
-<td style='padding: 10px;'>$33,758.40</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package B - Subscription 6 Essential + 1 Team user</td>
+<td style='padding: 10px;'>$33,647.20</td>
+<td style='padding: 10px;'>$30,847.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package C (9 Essential, 2 TM Perpetual Licenses)</td>
-<td style='padding: 10px;'>$42,982.00</td>
-<td style='padding: 10px;'>$40,382.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package C - Subscription 8 Essential + 2 Team user, 1 Marketplace Connector</td>
+<td style='padding: 10px;'>$41,922.40</td>
+<td style='padding: 10px;'>$36,422.40</td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package D (11 Premium, 2 TM Subscription Licenses)</td>
-<td style='padding: 10px;'>$54,118.40</td>
-<td style='padding: 10px;'>$42,718.40</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package D - Perpetual 8 Essential + 2 Team user, 1 Marketplace Connector</td>
+<td style='padding: 10px;'>$48,952.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package E (7 Premium Perpetual Licenses)</td>
-<td style='padding: 10px;'>$54,594.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package E - Perpetual 9 Essential + 2 Team user</td>
+<td style='padding: 10px;'>$45,282.00</td>
+<td style='padding: 10px;'>$42,482.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

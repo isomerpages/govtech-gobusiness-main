@@ -1,18 +1,17 @@
 ---
-title: 'Vacuum Packing and Sealing Machine'
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1794
 ---
 
-## Vacuum Packing and Sealing Machine
+## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ## Overview
 
 **Description**
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
 
-Cost of equipment capped at $35,000 per unit 
+Cost of equipment apped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $35,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
 </tr>
 </table>
 

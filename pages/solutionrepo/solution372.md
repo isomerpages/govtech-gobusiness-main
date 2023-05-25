@@ -1,15 +1,15 @@
 ---
-title: 'Athena E-store Solution'
+title: 'XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution372
 ---
 
-## Athena E-store Solution
+## XERO
 
 ## Overview
 
 **Description**
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Lite Version</td>
-<td style='padding: 10px;'>$8,050.00</td>
-<td style='padding: 10px;'>$8,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO - Cloud Accounting Software- Aspire Starter Plan A</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Solution</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Basic Plan B</td>
+<td style='padding: 10px;'>$1,820.00</td>
+<td style='padding: 10px;'>$1,820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Advance Plan C</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Super Plan D</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Wonderful Plan E</td>
+<td style='padding: 10px;'>$4,385.00</td>
+<td style='padding: 10px;'>$4,385.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>Web URL: https://cleverly.sg/<br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
+ Company Name: Clooud Consulting LLP<br>Web URL: www.xero.com <br><br>Contact Hotline: 97592364 <br><br>Contact Email: info@clooudconsulting.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

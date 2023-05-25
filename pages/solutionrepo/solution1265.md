@@ -1,15 +1,15 @@
 ---
-title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
+title: 'Million Stock Control System Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1265
 ---
 
-## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
+## Million Stock Control System Version 3
 
 ## Overview
 
 **Description**
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+Million Stock Control System helps to reduce the cost of holding stocks, allowing businesses to meet their customer's demands by making sure there are enough materials for production.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (3 Users)</td>
+<td style='padding: 10px;'>$4,899.00</td>
+<td style='padding: 10px;'>$4,899.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 60 Employees)</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (5 Users)</td>
+<td style='padding: 10px;'>$6,799.00</td>
+<td style='padding: 10px;'>$6,799.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (6 Users)</td>
+<td style='padding: 10px;'>$7,499.00</td>
+<td style='padding: 10px;'>$7,499.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (3 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (7 Users)</td>
+<td style='padding: 10px;'>$8,699.00</td>
+<td style='padding: 10px;'>$8,699.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (8 Users)</td>
+<td style='padding: 10px;'>$9,399.00</td>
+<td style='padding: 10px;'>$9,399.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -1,17 +1,17 @@
 ---
-title: 'DM Digital M Digital Marketing Packages Version 0.1'
+title: 'DST E-Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution530
 ---
 
-## DM Digital M Digital Marketing Packages Version 0.1
+## DST E-Commerce
 
 ## Overview
 
 **Description**
 
-Digital M provides digital marketing solutions to help SMEs and Startups in Singapore improve their digital presence and connect them with the right target audience. Digital M use SEO, SEM and social media marketing (SMM) strategies to rank higher on search engines and increase brand awareness, guaranteeing more website traffic, high-quality leads and sales.  
+The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
 
-The packages are designed to meet the short-term digital marketing goals of businesses from any industry in just 3 months.
+WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +25,20 @@ The packages are designed to meet the short-term digital marketing goals of busi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 1 - SEO + SEM (3 months)</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 2 - SEO + SEM ( 3 months) </td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 3 - SMM + SEM (3 months) </td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 4 - SEO + SMM (3 months) 	</td>
-<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST E-Commerce - Premium Package</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 5 - SEO + SEM + SMM (3 months)</td>
-<td style='padding: 10px;'>$11,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Digital M Pte. Ltd.<br>Web URL: www.digitalm.sg <br>Contact Hotline: 87562812 <br>Contact Email: enquire@digitalm.sg 
+ Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

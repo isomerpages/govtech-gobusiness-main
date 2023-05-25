@@ -1,15 +1,15 @@
 ---
-title: 'Revel Systems Version 2'
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Revel Systems Version 2
+## DM RHAD Digital Marketing Package Version 1
 
 ## Overview
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
-<td style='padding: 10px;'>$6,880.72</td>
-<td style='padding: 10px;'>$6,880.72</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1</td>
-<td style='padding: 10px;'>$8,175.08</td>
-<td style='padding: 10px;'>$8,175.08</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B2</td>
-<td style='padding: 10px;'>$8,869.44</td>
-<td style='padding: 10px;'>$8,869.44</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C1</td>
-<td style='padding: 10px;'>$11,035.08</td>
-<td style='padding: 10px;'>$9,875.08</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C2</td>
-<td style='padding: 10px;'>$12,423.80</td>
-<td style='padding: 10px;'>$11,163.80</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
+ Company Name: RHAD Pte. Ltd<br>Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

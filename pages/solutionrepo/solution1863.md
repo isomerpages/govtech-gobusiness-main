@@ -1,15 +1,15 @@
 ---
-title: 'Vacuum Cooler Equipment'
+title: 'LED grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution1863
 ---
 
-## Vacuum Cooler Equipment
+## LED grow lights
 
 ## Overview
 
 **Description**
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that rapidly cools from produce to extend shelf life and be more energy
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

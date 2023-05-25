@@ -1,17 +1,17 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1793
 ---
 
-## Commercial Inkjet Printer
+## Static Parcel Dimension, Weight and Scan Equipment
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Cost of equipment capped at $16,000 per unit
+Cost of equipment capped at $21,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $16,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'>$21,250.00</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

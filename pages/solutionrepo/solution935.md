@@ -1,16 +1,15 @@
 ---
-title: 'MEGAPOS Beauty & Wellness'
+title: 'iMakan'
 permalink: /productivity-solutions-grant/solutionrepo/solution935
 ---
 
-## MEGAPOS Beauty & Wellness
+## iMakan
 
 ## Overview
 
 **Description**
 
-MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
-Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
+iMakan Self Ordering is best known to help F&B achieve high efficiency in the entire order-to-kitchen process. From iMakan Self Ordering Kiosks, iMakan QR Table Ordering to iMakan Online Ordering for self-pickup and delivery, the solution features a clean and intuitive user interface for quick, fuss free ordering. Together with its automated upselling feature, iMakan helps F&B owners realize potential revenue sooner.
 
 ## Solution Packages Option(s)
 
@@ -24,44 +23,44 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Ordering (Direct Purchase)</td>
+<td style='padding: 10px;'>$6,980.00</td>
+<td style='padding: 10px;'>$6,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 x Kiosk with Analytics</td>
+<td style='padding: 10px;'>$9,280.00</td>
+<td style='padding: 10px;'>$8,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 x Kiosks + KDS & Number Display with Analytics</td>
+<td style='padding: 10px;'>$18,380.00</td>
+<td style='padding: 10px;'>$16,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 

@@ -1,15 +1,15 @@
 ---
-title: 'CalendarOne CRM Solution Version 2'
+title: 'PayAdvisorMobile HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution342
 ---
 
-## CalendarOne CRM Solution Version 2
+## PayAdvisorMobile HRMS
 
 ## Overview
 
 **Description**
 
-CalendarOne CRM is a cloud based solution that integrates and automates the entire customer-related business process. It is a centralize platform that enable businesses to share, track, administer and manage their clients' engagement and experience. The solution enables businesses to gain deeper insight into their clients, thus helping them identify critical trends, retain clients and increase sales.
+PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ CalendarOne CRM is a cloud based solution that integrates and automates the enti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution Version 2 - Standard Package (Include Peppol E- Invoice) - 25 Users License</td>
-<td style='padding: 10px;'>$22,300.00</td>
-<td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 1 (up to 25 users)</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$4,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution Version 2 - Standard Package (Include Peppol E- Invoice) - 50 Users License</td>
-<td style='padding: 10px;'>$25,400.00</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Calendarone_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 2 (up to 50 users)</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 3 (up to 100 users)</td>
+<td style='padding: 10px;'>$11,150.00</td>
+<td style='padding: 10px;'>$10,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 4 (up to 150 users)</td>
+<td style='padding: 10px;'>$16,450.00</td>
+<td style='padding: 10px;'>$16,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 5 (up to 200 users)</td>
+<td style='padding: 10px;'>$20,550.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: CalendarOne Pte Ltd<br>Web URL: http://www.calendarone.com/smesgodigital <br>Contact Hotline: 92485655 <br>Contact Email: francis@calendarone.com <br>
+ Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com<br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

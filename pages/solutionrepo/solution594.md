@@ -1,15 +1,15 @@
 ---
-title: 'NovaVision Remote Assist Version 1.0'
+title: 'FITPRISE Job Inspection System'
 permalink: /productivity-solutions-grant/solutionrepo/solution594
 ---
 
-## NovaVision Remote Assist Version 1.0
+## FITPRISE Job Inspection System
 
 ## Overview
 
 **Description**
 
-NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
+FITPRISE PMS is a web-based management system that manages the QA/QC project management of engineering work. It comprises of a back-end system and front-end mobile app. The back-end system supports the data processing of workers profiles, jobs, inspection procedure information. Job inspection details are captured on mobile apps or recorded manually by workers. Full benefits are derived from the system inspection reports detailing full traceability of end-to-end job operation status.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
-<td style='padding: 10px;'>$14,872.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 10 users</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$25,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
-<td style='padding: 10px;'>$23,344.00</td>
-<td style='padding: 10px;'>$17,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 10 users</td>
+<td style='padding: 10px;'>$45,000.00</td>
+<td style='padding: 10px;'>$37,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
-<td style='padding: 10px;'>$31,816.00</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System - 5 users</td>
+<td style='padding: 10px;'>$25,500.00</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
-<td style='padding: 10px;'>$40,288.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
-<td style='padding: 10px;'>$48,760.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Job Inspection System - FITPRISE Job Inspection System (with Mobile App) - 5 users</td>
+<td style='padding: 10px;'>$40,500.00</td>
+<td style='padding: 10px;'>$37,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Enhanzcom_MOE_Annex_3_wef_30_Sept_2021_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 
 ## Vendor Information
 
- Company name:Engage Nova Pte Ltd<br>Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com
+ Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

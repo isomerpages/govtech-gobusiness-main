@@ -1,19 +1,18 @@
 ---
-title: 'Encrusting Machine'
+title: 'High Speed Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1751
 ---
 
-## Encrusting Machine
+## High Speed Oven
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $10,000 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -24,9 +23,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmed to combine different cooking technologies to achieve rapid cooking. It utilises radiant heat, high-speed air impingement and side-launched microwave.<br>- Minimum wattage: 2,200W <br><br></td>
 </tr>
 </table>
 

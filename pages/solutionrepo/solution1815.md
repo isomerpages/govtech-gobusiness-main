@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Flow Wrap Packaging Machine'
+title: 'High Pressure Rotating Head'
 permalink: /productivity-solutions-grant/solutionrepo/solution1815
 ---
 
-## Automatic Flow Wrap Packaging Machine
+## High Pressure Rotating Head
 
 ## Overview
 
 **Description**
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $8750 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Pressure Rotating Head</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)<br>- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)<br><br></td>
 </tr>
 </table>
 

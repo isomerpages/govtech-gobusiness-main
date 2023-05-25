@@ -1,15 +1,15 @@
 ---
-title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
+title: 'APPZPOS F&B Point of Sales Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution214
 ---
 
-## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0
+## APPZPOS F&B Point of Sales Version 1.1
 
 ## Overview
 
 **Description**
 
-AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders and Delivery. The end-to-end solutions include integration with POS, Self-Ordering Kiosk, Kitchen Management/Display Systems, Rewards (points system, e-vouchers, e-gift cards), Online Payment with multiple payment gateways, Pay at Table, Real Time Menu controls, Data Analytics, amongst others.   AppsPOS also provides e-waiter solution for dine in restaurants to assist customers in ordering.
+APPZPOS provides an all-in-one affordable and user-friendly digital ordering solutions for all types of F&B business including Fast Food and Restaurant mode. APPZPOS is a Singapore based solution which offers different modules like E-Waiter, QR Ordering, Web Ordering, KIOSK Self-Order, Kitchen display system KDS, E-Menu, CRM and loyalty, Inventory which are linked to the same backend and seamlessly integrated.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Basic)</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 E-Waiter Digital Ordering System)</td>
+<td style='padding: 10px;'>$3,768.00</td>
+<td style='padding: 10px;'>$3,768.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Advanced)</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 E-Waiter Digital Ordering System+ 1 Kitchen Display System)</td>
+<td style='padding: 10px;'>$5,748.00</td>
+<td style='padding: 10px;'>$5,748.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - Self Ordering Kiosk</td>
-<td style='padding: 10px;'>$9,240.00</td>
-<td style='padding: 10px;'>$9,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Web Online Ordering + Kitchen Display System)</td>
+<td style='padding: 10px;'>$5,848.00</td>
+<td style='padding: 10px;'>$5,448.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR ordering (Standard)</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (2 E-Waiter Digital Ordering + QR Ordering + Web Online Ordering + 1 Kitchen Display)</td>
+<td style='padding: 10px;'>$10,696.00</td>
+<td style='padding: 10px;'>$8,296.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR Ordering (Premium)</td>
-<td style='padding: 10px;'>$11,530.00</td>
-<td style='padding: 10px;'>$11,510.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (2 KIOSK Customer Self-Ordering+ 1 KDS Digital Ordering System)</td>
+<td style='padding: 10px;'>$15,980.00</td>
+<td style='padding: 10px;'>$9,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 
 ## Vendor Information
 
- Company Name: AppsPOS Pte Ltd<br>Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
+ Company Name: APPZGATE SOLUTIONS PTE. LTD.<br>Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932235 <br>Contact Email: sales@appzgate.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

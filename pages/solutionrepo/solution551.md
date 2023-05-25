@@ -1,15 +1,15 @@
 ---
-title: 'EQuipPOS Retail Solutions Version 3'
+title: 'EQuipPOS Beauty Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution551
 ---
 
-## EQuipPOS Retail Solutions Version 3
+## EQuipPOS Beauty Solutions Version 3
 
 ## Overview
 
 **Description**
 
-EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
+EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ EQuip POS Retail Solutions display real-time and offline capabilities at the sam
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Lite)</td>
 <td style='padding: 10px;'>$4,875.00</td>
 <td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic)</td>
 <td style='padding: 10px;'>$6,250.00</td>
 <td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)</td>
-<td style='padding: 10px;'>$7,048.00</td>
-<td style='padding: 10px;'>$6,748.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + GuestBook App)</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'>$7,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package D (Basic+Inventory Manager APP+ 3rd Party Integration)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + Digital Rewards & Orders App)</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

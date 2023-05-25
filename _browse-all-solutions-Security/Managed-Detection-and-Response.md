@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1967' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1958' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 </table>

@@ -1,17 +1,15 @@
 ---
-title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
+title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution271
 ---
 
-## AZ DIGITAL ORDERING SOLUTION Version 1.0
+## Job Redesign Consultancy - BDO Consultants Pte Ltd
 
 ## Overview
 
 **Description**
 
-AZ Digital Ordering Solution provides an up scaling process in engaging customer's dining experience with.........
-1) Customer Self-Ordering Kiosk providing a less face to face interaction and to ease the queue 
-2) Mobility device via QR / App Ordering to enhance their ordering process.
+BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,10 @@ AZ Digital Ordering Solution provides an up scaling process in engaging customer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15.6" Customer Self Ordering Station Package </td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZDigital__Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>22" Customer Self Ordering Station Package </td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZDigital__Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>22" Customer Self Ordering STAND KIOSK Station Package </td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$9,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZDigital__Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile QR Web Ordering Solution Package </td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZDigital__Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile APP Ordering Solution Package </td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZDigital__Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +36,7 @@ AZ Digital Ordering Solution provides an up scaling process in engaging customer
 
 ## Vendor Information
 
- Company name:AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net 
+ Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617 <br>Contact Email: chriskuang@bdo.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

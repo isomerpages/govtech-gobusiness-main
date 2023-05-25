@@ -1,15 +1,17 @@
 ---
-title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
+title: 'DM Verz Design Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1555
 ---
 
-## Verz Design Magento, WooCommerce & Shopify Solutions
+## DM Verz Design Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-Verz Design is one of the key and leading players when it comes to providing Shopify/Magento/WooCommerce solutions. Shopify/Magento/WooCommerce offers a comprehensive backend with customizable plug-ins for SME's businesses. Highly suitable for companies with complex operations, Shopify/Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
+The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
+The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
 
 ## Solution Packages Option(s)
 
@@ -23,44 +25,44 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Turquoise)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Diamond)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Amber)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (6 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Emerald)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (6 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adobe Magento Ecommerce Version 2 (Sapphire)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (6 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 

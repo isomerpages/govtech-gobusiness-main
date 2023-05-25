@@ -1,15 +1,15 @@
 ---
-title: 'Robot Cleaner'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1859
 ---
 
-## Robot Cleaner
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A washing robot / machine for cleaning of farming equipment to eliminate the nee
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

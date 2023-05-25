@@ -1,41 +1,43 @@
 ---
-title: 'Automated Dishwasher'
+title: 'Quickbook Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution1883
 ---
 
-## Automated Dishwasher
+## Quickbook Online
 
 ## Overview
 
 **Description**
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
-- A hood-type machine come with a vertical lift hood 
-- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
-
-Support capped at $5,000 per unit 
-
-
+Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, invoicing, payroll, and more.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbook Online- QBO</td>
+<td style='padding: 10px;'>$820.00</td>
+<td style='padding: 10px;'>$820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IRIS_CORPORATE_Quickbook_Online_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:IRIS CORPORATE SERVICES PTE. LTD.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?region=SG&location=singapore <br>Contact Hotline: 81001936 <br>Contact Email: iriscorporateservices@yahoo.com
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

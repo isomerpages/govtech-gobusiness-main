@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'Automated Irrigation Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1861
 ---
 
-## Sterilizer Equipment
+## Automated Irrigation Equipment/ System
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+Water efficient irrigation system (e.g. sprinkler)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

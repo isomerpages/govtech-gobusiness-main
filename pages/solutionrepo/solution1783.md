@@ -1,16 +1,15 @@
 ---
-title: 'Rotary Wok Fryer'
+title: 'Automated Tray Sealer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1783
 ---
 
-## Rotary Wok Fryer
+## Automated Tray Sealer
 
 ## Overview
 
 **Description**
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
 
 Cost of equipment capped at $37,500 per unit 
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
+<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
 </tr>
 </table>
 

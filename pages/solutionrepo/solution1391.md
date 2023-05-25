@@ -1,15 +1,15 @@
 ---
-title: 'StaffAny'
+title: 'DM SBC Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1391
 ---
 
-## StaffAny
+## DM SBC Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-StaffAny helps businesses in the blue collar workforce optimize their scheduling and HR administration through the integrated scheduling and time tracking mobile and web application. In addition to managing hourly workers, StaffAny tracks staff performance and automates end-of-month timesheet consolidations. With StaffAny, businesses can better performances, cut operating costs, and make time to do what matters to them the most.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ StaffAny helps businesses in the blue collar workforce optimize their scheduling
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (25 Users)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (50 Users)	</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (100 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
+<td style='padding: 10px;'>$10,900.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (150 Users)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (200 Users)</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ StaffAny helps businesses in the blue collar workforce optimize their scheduling
 
 ## Vendor Information
 
- Company name:Staffany Private Limited<br>Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com 
+ Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

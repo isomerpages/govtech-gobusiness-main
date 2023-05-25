@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Shrink Wrap Packaging Machine'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1816
 ---
 
-## Automatic Shrink Wrap Packaging Machine
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

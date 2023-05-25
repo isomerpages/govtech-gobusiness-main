@@ -1,15 +1,15 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'Rainwater harvesting system and storage tank'
 permalink: /productivity-solutions-grant/solutionrepo/solution1864
 ---
 
-## Farm Produce Washing Machine
+## Rainwater harvesting system and storage tank
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

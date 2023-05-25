@@ -1,15 +1,16 @@
 ---
-title: 'CFOsg XERO Cloud Accounting'
+title: 'Cloudable Data Protection Suite-Powered by Acronis'
 permalink: /productivity-solutions-grant/solutionrepo/solution382
 ---
 
-## CFOsg XERO Cloud Accounting
+## Cloudable Data Protection Suite-Powered by Acronis
 
 ## Overview
 
 **Description**
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
+It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ Xero is an universal accounting software that provides a complete list of accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package B- Advanced Security + Advanced Management 25 Licences</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
-<td style='padding: 10px;'>$3,964.00</td>
-<td style='padding: 10px;'>$3,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package C- Advanced Security + Advanced Management 50 Licences</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,664.00</td>
-<td style='padding: 10px;'>$4,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package D- Advanced Security + Advanced Management 100 Licences</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,984.00</td>
-<td style='padding: 10px;'>$5,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ Xero is an universal accounting software that provides a complete list of accoun
 
 ## Vendor Information
 
- Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
+ Company Name: Cloudable Solutions Pte Ltd<br>Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

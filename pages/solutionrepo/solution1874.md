@@ -1,15 +1,21 @@
 ---
-title: 'Packing machine'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1874
 ---
 
-## Packing machine
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +26,9 @@ A machine that automates the packing of farm produce with high speed and high de
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
 </tr>
 </table>
 

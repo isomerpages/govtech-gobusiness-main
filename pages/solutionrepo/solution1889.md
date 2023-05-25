@@ -1,15 +1,15 @@
 ---
-title: 'eCommerce Masterplan Version 2.0'
+title: 'Xero Cloud Accounting Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
-## eCommerce Masterplan Version 2.0
+## Xero Cloud Accounting Solutions
 
 ## Overview
 
 **Description**
 
-Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
+Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations, for each transformation solutions deployment, SCS provides transformation consultation, integration, recommendations, project management, implementation as well as onsite training and technical support.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AKS_Tech_eCommerce_Masterplan_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - System Only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AKS_Tech_eCommerce_Masterplan_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Lite</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Basic</td>
+<td style='padding: 10px;'>$4,864.00</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Standard</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Premium</td>
+<td style='padding: 10px;'>$10,464.00</td>
+<td style='padding: 10px;'>$10,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
+ Company name:Singapore Corporate Services Pte. Ltd.<br>Web URL: https://scs-cpa.com/xero-psg-grant <br>Contact Hotline: 69141113 <br>Contact Email: enquiry@scs-cpa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

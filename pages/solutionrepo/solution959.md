@@ -1,15 +1,16 @@
 ---
-title: 'MEVO DMS 8.3'
+title: 'MIBC Ecommerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution959
 ---
 
-## MEVO DMS 8.3
+## MIBC Ecommerce
 
 ## Overview
 
 **Description**
 
-Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
+MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
+Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,10 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales Enterprise (10 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MIBC Ecommerce - MIBC E-Commerce (Optimised E-commerce solution)</td>
+<td style='padding: 10px;'>$10,996.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MIBC_20210224_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +37,7 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 
 ## Vendor Information
 
- Company Name: MEVO Pte Ltd<br>Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
+ Company Name: MIBC PTE LTD<br>Web URL: https://mibc.sg/web-development/ <br><br>Contact Hotline: 63535152 <br><br>Contact Email: support@mibc.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

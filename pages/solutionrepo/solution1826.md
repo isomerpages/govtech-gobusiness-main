@@ -1,15 +1,15 @@
 ---
-title: 'Aeration System/ Oxygenation System'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution1826
 ---
 
-## Aeration System/ Oxygenation System
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,18 +1,19 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Battery-Powered Rope Ascender'
 permalink: /productivity-solutions-grant/solutionrepo/solution1795
 ---
 
-## Form Fill Seal Machine
+## Battery-Powered Rope Ascender
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
 
-Cost of equipment  capped at $20,500 per unit 
+The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
+
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +24,9 @@ Cost of equipment  capped at $20,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
 </tr>
 </table>
 

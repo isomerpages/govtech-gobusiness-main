@@ -1,17 +1,17 @@
 ---
-title: 'Laser Geometric Alignment System'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1805
 ---
 
-## Laser Geometric Alignment System
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

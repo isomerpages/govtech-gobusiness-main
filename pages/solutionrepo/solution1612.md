@@ -1,15 +1,15 @@
 ---
-title: 'WhyzeHR eScheduling'
+title: 'WhyzeHR Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1612
 ---
 
-## WhyzeHR eScheduling
+## WhyzeHR Version 12
 
 ## Overview
 
 **Description**
 
-WhyzeHR E-Scheduling automates tedious processing of manual time card. It matches actual attendance with planned schedule, and calculates OT, lateness, allowances and track absenteeism automatically. Managers can plan schedule online or Excel easily. Employees are able to see the planned schedule via their mobile apps. It integrates with mobile clocking app which comes with GPS location and Geo-Fencing, enabling real time visibility of staff attendance at multiple locations or outlets.
+Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ WhyzeHR E-Scheduling automates tedious processing of manual time card. It matche
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 25</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 25</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 50</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 50</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 100</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 100</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Entry 200</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 200</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR eScheduling - WhyzeHR E-Scheduling Pro 200</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Whyze_20210139_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD PLUS 150</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Mobile Responsive E-Commerce'
+title: 'DM WECOFA Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1589
 ---
 
-## Mobile Responsive E-Commerce
+## DM WECOFA Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WebImp_Mobile_Responsive_E_Commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

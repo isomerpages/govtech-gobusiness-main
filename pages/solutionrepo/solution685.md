@@ -1,15 +1,15 @@
 ---
-title: 'Cubicost Digital 5D BIM Cost Management Solution Version 3'
+title: 'goTruck!Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution685
 ---
 
-## Cubicost Digital 5D BIM Cost Management Solution Version 3
+## goTruck!Hub
 
 ## Overview
 
 **Description**
 
-Glodon Company was founded in Year 1998, Beijing, China and listed in Shenzhen SME Board on 2010. Glodon International was established in 2011 as Glodon's Singapore business operation centre for the SEA region. Glodon Cubicost 5D BIM Digital Cost Management Solution (TAS, TRB, TBQ, TME) are committed to support Integrated Digital Delivery (IDD) Journey and SMEs' Go Digital Programme by making every project a success.
+goTruck!Hub is an internet-based Transport Management System, specifically tailored for medium and heavy logistics. Simplify everything and manage your operations using just your mobile phone.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Glodon Company was founded in Year 1998, Beijing, China and listed in Shenzhen S
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (5D BIM For BQ Cost Management)</td>
-<td style='padding: 10px;'>$8,940.00</td>
-<td style='padding: 10px;'>$8,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Glodon_20220167_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 10 vehicles</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (5D BIM Takeoff for MEP - Full specs)</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Glodon_20220167_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 20 vehicles</td>
+<td style='padding: 10px;'>$12,200.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (5D BIM Takeoff for Architecture & Structure)</td>
-<td style='padding: 10px;'>$13,070.00</td>
-<td style='padding: 10px;'>$13,070.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Glodon_20220167_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 30 vehicles</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (5D BIM Takeoff for Rebar)</td>
-<td style='padding: 10px;'>$15,070.00</td>
-<td style='padding: 10px;'>$14,886.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Glodon_20220167_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 30 vehicles</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)</td>
-<td style='padding: 10px;'>$21,870.00</td>
-<td style='padding: 10px;'>$14,686.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Glodon_20220167_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 50 vehicles</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$35,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Glodon International Pte Ltd<br>Web URL: https://www.glodon.com/en/ <br>Contact Hotline: 65671648 <br>Contact Email: SG@GLOBAL.GLODON.COM <br>
+ Company Name: GoTruck Pte Ltd<br>Web URL: www.gotruck.co <br><br>Contact Hotline: 66452643 <br><br>Contact Email: ENQUIRY@GOTRUCK.CO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

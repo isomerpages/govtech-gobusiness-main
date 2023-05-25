@@ -1,15 +1,15 @@
 ---
-title: 'Mastercam Software Version 2023'
+title: 'TERRA EMAIL PROTECTION Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1446
 ---
 
-## Mastercam Software Version 2023
+## TERRA EMAIL PROTECTION Version 1.0
 
 ## Overview
 
 **Description**
 
-Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to manufacturing workpieces with Computer-Aided Manufacturing (CAM) on CNC machines. Mastercam provides a complete solution from the start of design to the production lines, manufacturing parts with precision and efficiency.
+TEP is multi-layered, cloud-based email security for all organisations. It provides businesses with one-stop email security and protection from known and zero-day variants, including protection against Business Email Compromise (BEC) aka. "email impersonation", email content control against data leakages, viruses, phishing, spam, ransomware, etc. TEP will be a great addition to the existing Endpoint Protection technology and propel your organisation towards a higher level of protection.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 10</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 30</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill (2 license)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 100</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Lathe</td>
-<td style='padding: 10px;'>$38,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 30</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Multiaxis</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 60</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
+ Company name:TERRA SYSTEMS PTE LTD<br>Web URL: https://terra.systems/#/ <br>Contact Hotline: 68765800 <br>Contact Email: marketing@terra-systems.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

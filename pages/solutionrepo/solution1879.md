@@ -1,18 +1,19 @@
 ---
-title: 'Automated Deep Fryer'
+title: 'Electric Pedestrian Pallet Truck'
 permalink: /productivity-solutions-grant/solutionrepo/solution1879
 ---
 
-## Automated Deep Fryer
+## Electric Pedestrian Pallet Truck
 
 ## Overview
 
 **Description**
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
 
-Cost of equipment capped at $4,000 per unit 
+The equipment can transport palletised goods of approximately 1000 to 2000 kg.
 
+Cost of equipment capped at $3,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +24,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>Minimum Specifications <br>-Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br><br>Well capacity to be at least 5L<br><br>Serving size and frying type should be customisable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
+<td style='padding: 10px;'>$3,250.00</td>
+<td style='padding: 10px;'>Mandatory Specifications:<br>-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable<br>-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load<br>-1 worker/unit<br>-Safety features eg emergency stop<br>-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.<br>-Only 1 application per coy will be supported<br>- Installation and maintenance fee are not supported.</td>
 </tr>
 </table>
 

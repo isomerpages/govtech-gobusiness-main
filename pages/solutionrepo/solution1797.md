@@ -1,19 +1,15 @@
 ---
-title: 'Planetary or Spiral Mixer'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1797
 ---
 
-## Planetary or Spiral Mixer
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
-
-Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
-
-Cost of equipment capped at $10,000 per unit
+Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 
 ## Solution Packages Option(s)
 
@@ -24,9 +20,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

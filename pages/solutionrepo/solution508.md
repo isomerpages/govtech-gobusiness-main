@@ -1,15 +1,15 @@
 ---
-title: 'Sage 300 InvoiceNOW'
+title: 'MyRetailer Android POS'
 permalink: /productivity-solutions-grant/solutionrepo/solution508
 ---
 
-## Sage 300 InvoiceNOW
+## MyRetailer Android POS
 
 ## Overview
 
 **Description**
 
-Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productiv
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
-<td style='padding: 10px;'>$20,705.96</td>
-<td style='padding: 10px;'>$19,205.96</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$38,603.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
-<td style='padding: 10px;'>$42,242.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
-<td style='padding: 10px;'>$47,703.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$50,103.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productiv
 
 ## Vendor Information
 
- Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
+ Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

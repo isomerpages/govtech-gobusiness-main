@@ -1,16 +1,15 @@
 ---
-title: 'SAP Business One SQL & HANA Version 10.0'
+title: 'MuRho Inventory Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution975
 ---
 
-## SAP Business One SQL & HANA Version 10.0
+## MuRho Inventory Management System
 
 ## Overview
 
 **Description**
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+MuRho is a leading home-grown provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Order N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,17 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (1 License)</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - Starter Pack 1  (SaaS with hardware)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_20210524_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (2 Licenses)</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (3 Licenses)</td>
-<td style='padding: 10px;'>$37,350.00</td>
-<td style='padding: 10px;'>$34,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (4 Licenses)</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$40,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (5 Licenses)</td>
-<td style='padding: 10px;'>$54,250.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management System - Starter Pack 2 (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_20210524_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +43,7 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 
 ## Vendor Information
 
- Company Name: MPS Solutions Pte Ltd<br>Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

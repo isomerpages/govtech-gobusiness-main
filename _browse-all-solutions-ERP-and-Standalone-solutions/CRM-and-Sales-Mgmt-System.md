@@ -28,23 +28,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution158' target='_blank'>AIO CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution153' target='_blank'>AIO CRM</a><br></td>
 <td>AIO Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution171' target='_blank'>Alitec odooCRM and sales</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution166' target='_blank'>Alitec odooCRM and sales</a><br></td>
 <td>Alitec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution322' target='_blank'>HubSpot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution317' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution342' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution337' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1085' target='_blank'>Gravis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1080' target='_blank'>Gravis</a><br></td>
 <td>ONE X GROUP PTE. LTD.</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Pelleting Machine'
+title: 'Water Treatment System for Water Recirculation or Discharge'
 permalink: /productivity-solutions-grant/solutionrepo/solution1857
 ---
 
-## Pelleting Machine
+## Water Treatment System for Water Recirculation or Discharge
 
 ## Overview
 
 **Description**
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Animal feed pellet machine also known as feed pelletizer machine; it allows you 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

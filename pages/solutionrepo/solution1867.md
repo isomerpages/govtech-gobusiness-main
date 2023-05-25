@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Underwater Camera'
 permalink: /productivity-solutions-grant/solutionrepo/solution1867
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Underwater Camera
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

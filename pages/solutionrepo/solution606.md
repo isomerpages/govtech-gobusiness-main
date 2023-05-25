@@ -1,15 +1,22 @@
 ---
-title: 'EPOINT Version 9'
+title: 'EPOS Enhanced POS Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution606
 ---
 
-## EPOINT Version 9
+## EPOS Enhanced POS Version 2.0
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
+- Simple and easy to use for cashiers. 
+- Full-featured CRM
+- Powerful Promotions engine
+- Inventory management
+- Ecommerce integration 
+- Accounting integration 
+- E-payments, QR payment, credit card, NETS
 
 ## Solution Packages Option(s)
 
@@ -23,38 +30,38 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic</td>
-<td style='padding: 10px;'>$8,331.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)</td>
+<td style='padding: 10px;'>$5,350.00</td>
+<td style='padding: 10px;'>$5,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic+</td>
-<td style='padding: 10px;'>$11,046.00</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_23.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Lite</td>
-<td style='padding: 10px;'>$5,531.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
+<td style='padding: 10px;'>$11,324.00</td>
+<td style='padding: 10px;'>$11,324.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Advance</td>
-<td style='padding: 10px;'>$11,831.00</td>
-<td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 - Tablet)</td>
+<td style='padding: 10px;'>$4,649.00</td>
+<td style='padding: 10px;'>$4,649.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_6.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eKiosk - Advance</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)</td>
+<td style='padding: 10px;'>$10,623.00</td>
+<td style='padding: 10px;'>$10,623.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +71,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br><br>Contact Hotline: 61006300 <br><br>Contact Email: darren.sim@epointpos.com <br><br>
+ Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br><br>Contact Hotline: 68718833 <br><br>Contact Email: sales@epos.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

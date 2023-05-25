@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Smart POS for Beauty Version 2022.01'
+title: 'TrackSYNQ'
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
-## Qashier Smart POS for Beauty Version 2022.01
+## TrackSYNQ
 
 ## Overview
 
 **Description**
 
-Qashier provides smart point-of-sale and e-payment solutions to the Beauty and Services sector. Qashier's suite of solutions enable businesses to accept payments, manage store operations, and bring their business online.
+TrackSYNQ is a ready-to-deploy platform that provides track & trace functionality, fleet visibility and geo-fencing, amongst other features. The easy-to-use comprehensive user interface provides real-time monitoring of fleet and drivers from any device. ?TrackSYNQ video solution- MDVR and ADAS- allows users to monitor their fleet operation via live video streaming to see what is happening in real-time, and enables fleet owners to lower accident risk and increase driver awareness on road safety.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Qashier provides smart point-of-sale and e-payment solutions to the Beauty and S
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Pro + Basic Setup</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package A - Basic GPS 5</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Advanced Setup</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package B - Basic GPS 10</td>
+<td style='padding: 10px;'>$5,260.00</td>
+<td style='padding: 10px;'>$4,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Full Setup + Training</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package C - Basic GPS 20</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package D - Basic GPS 50</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'>$19,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
+ Company Name: Quantum Inventions Pte Ltd<br>Web URL: https://www.quantuminventions.com/ <br><br>Contact Hotline: 68371582 <br><br>Contact Email: sales@qi.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

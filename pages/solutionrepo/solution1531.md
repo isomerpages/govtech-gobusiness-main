@@ -1,15 +1,15 @@
 ---
-title: 'Automotive Tracking System Version 1'
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1531
 ---
 
-## Automotive Tracking System Version 1
+## EZ Accounting and Inventory Software
 
 ## Overview
 
 **Description**
 
-Track 365 Automotive Tracking System is a cloud based telematics solution.  The solution allows businesses to monitor the location of a single vehicle or a group of vehicles in real-time, with their positions automatically updating onto a map. The solution is totally web-based, users can access their information wherever and whenever they choose. Whether it's on their phone whilst out and about, or on their PC in the office.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,41 @@ Track 365 Automotive Tracking System is a cloud based telematics solution.  The 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per Vehicle</td>
-<td style='padding: 10px;'>$699.00</td>
-<td style='padding: 10px;'>$699.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Track365_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,873.00</td>
+<td style='padding: 10px;'>$12,598.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg
+ Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

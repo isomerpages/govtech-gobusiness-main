@@ -1,17 +1,15 @@
 ---
-title: 'DM MediaPlus Digital Marketing Package'
+title: 'E-Commerce MPD Package Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution927
 ---
 
-## DM MediaPlus Digital Marketing Package
+## E-Commerce MPD Package Version 2.0
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
-
-With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
+Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital presence and sales by widening their reach through the digital platform where users can easily browse, shop and purchase their merchandise/products/services via a few clicks online with minimal manpower and overall operations cost lowered. Additionally, the solution is scalable and allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,24 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Express</td>
+<td style='padding: 10px;'>$5,898.00</td>
+<td style='padding: 10px;'>$5,898.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Social DM Package (SMA/SMM) [3 Months]</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'>$6,890.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Essential</td>
+<td style='padding: 10px;'>$8,975.00</td>
+<td style='padding: 10px;'>$8,975.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Search DM Package (SEM/SEO) [6 Months]</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Social DM Package (SMM/SMA) [6 Months]</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'>$9,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Accelerate DM Package (SEO/SEM/SMA) [3 Months]</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-Commerce MPD Package Version 2.0 - Elite</td>
+<td style='padding: 10px;'>$9,985.00</td>
+<td style='padding: 10px;'>$9,985.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -1,17 +1,25 @@
 ---
-title: 'Torque Multiplier'
+title: 'Automated tools management system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1810
 ---
 
-## Torque Multiplier
+## Automated tools management system
 
 ## Overview
 
 **Description**
 
-The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
 
-Cost of equipment capped at $20,000 per unit 
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Cost of equipment capped at $28,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +30,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Produce at least 2,000N.m torquing force <br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
 </tr>
 </table>
 

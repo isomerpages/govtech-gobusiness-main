@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1893' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1884' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 </table>
