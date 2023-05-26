@@ -33,6 +33,8 @@ navlinks:
         url: /skillsfuture-for-enterprise/
       - title: Accreditation
         url: /accreditation/
+      - title: Intellectual Property
+        url: /intellectual-property/
       - title: Taxes, GST and Customs
         url: /run-and-grow/taxes-and-gst/
       - title: GeBIZ Alerts
@@ -43,9 +45,9 @@ navlinks:
       - title: Overview
         url: /covid/
       - title: Contact tracing
-        url: /safemanagement/safeentry/?src=topnav
+        url: /safemanagement/safeentry/
       - title: Sector-Specific Requirements
-        url: /safemanagement/sector/?src=topnav
+        url: /safemanagement/sector/
   - title: E-Services
     url: /e-services/
     sublinks:
