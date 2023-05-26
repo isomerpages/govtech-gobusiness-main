@@ -31,9 +31,13 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include letter-accordion.html accordions=site.data.acc074-budget letter="c" %}
 
+### Find relevant schemes for your businesses
+
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2022 support schemes and programmes.
+
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
 
 {% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
-
 
 ---
 
