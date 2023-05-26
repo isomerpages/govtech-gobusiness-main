@@ -1,15 +1,15 @@
 ---
-title: 'ABSS Premier Version 30'
+title: 'Aptsys - Digital Ordering Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution229
 ---
 
-## ABSS Premier Version 30
+## Aptsys - Digital Ordering Solutions
 
 ## Overview
 
 **Description**
 
-ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1-User) Full Package</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter Version 2.0</td>
+<td style='padding: 10px;'>$1,700.00</td>
+<td style='padding: 10px;'>$1,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (3-Users) Software Only</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter with Customer Relation Management System Version 2.0</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (3-Users) Full Package</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (3-Users) Full Package with Remote Access</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (5-Users) Full Package with Remote Access</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs 
 
 ## Vendor Information
 
- Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com<br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
+ Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,15 @@
 ---
-title: '1ERP - Singapore ERP'
+title: 'HubSpot'
 permalink: /productivity-solutions-grant/solutionrepo/solution317
 ---
 
-## 1ERP - Singapore ERP
+## HubSpot
 
 ## Overview
 
 **Description**
 
-1ERP is the GoDigital solution for Singapore SMEs.
-A totally Singapore-centric software, 1ERP empowers SMEs to upgrade and GoDigital by staying lean and dynamic.
-Equipped with powerful reporting & integrated to popular software i.e Wordpress, Xero, POS etc, 1ERP aims to empower SMEs to "Increase sales channels, minimize workload + make more money!"
-Customizable & always upgrading, 1ERP aims to cater to each SME's unique requirements.
-1ERP is the Singapore Software developed by SMEs for SMEs.
+Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
 
 ## Solution Packages Option(s)
 
@@ -27,41 +23,41 @@ Customizable & always upgrading, 1ERP aims to cater to each SME's unique require
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 1 - Startups</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)</td>
+<td style='padding: 10px;'>$14,220.00</td>
+<td style='padding: 10px;'>$13,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 2 - Production</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
+<td style='padding: 10px;'>$16,220.00</td>
+<td style='padding: 10px;'>$15,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 3 - SME</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)</td>
+<td style='padding: 10px;'>$20,446.00</td>
+<td style='padding: 10px;'>$19,346.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 4 - SME PLUS</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)</td>
+<td style='padding: 10px;'>$23,440.00</td>
+<td style='padding: 10px;'>$22,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+ Company Name: Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

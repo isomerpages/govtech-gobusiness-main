@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Solution'
+title: 'DM Ice Cube Predictable Leads Generation Program'
 permalink: /productivity-solutions-grant/solutionrepo/solution750
 ---
 
-## HRM Labs Solution
+## DM Ice Cube Predictable Leads Generation Program
 
 ## Overview
 
 **Description**
 
-HRMLabs helps the company by handling the human resources administrative and payroll processing work. Saving the company's time and money so they can focus more on business development success. With our HR Outsource service, the company no longer needs to manage manual and complicated HR tasks. Our service automates the process from managing attendance taking, leave and payroll calculation to payslip release. We address the problem faced by companies and ease the employees to be more productive.
+Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ HRMLabs helps the company by handling the human resources administrative and pay
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (30)</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 1 - SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ice_Cube_Annex_3_CR_wef_24Nov22_Part_1' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (50)</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 2 - Ecommerce SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (80)</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (150)</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (200)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 3 - SEM+SMA+video (3months)</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br>Contact Hotline: 90255587 <br>Contact Email: contact@hrmlabs.com 
+ Company Name: Ice Cube Marketing Pte Ltd<br>Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

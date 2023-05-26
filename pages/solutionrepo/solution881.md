@@ -1,15 +1,15 @@
 ---
-title: '(SaaS) JustLogin HR Cloud'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution881
 ---
 
-## (SaaS) JustLogin HR Cloud
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-JustLogin is a cloud-based Human Resource Management solution that comes with a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Employees can also utilize the JustLogin mobile application to access the HR services from anywhere.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - B (Up to 50 pax)</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lemonade eCommerce Solution - Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: JustLogin Pte Ltd<br>Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

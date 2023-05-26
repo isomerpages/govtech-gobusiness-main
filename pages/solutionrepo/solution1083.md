@@ -1,15 +1,15 @@
 ---
-title: 'RAVEPIXEL WEB SUITE Version 8.0'
+title: 'OOM_Ecommerce_Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1083
 ---
 
-## RAVEPIXEL WEB SUITE Version 8.0
+## OOM_Ecommerce_Solution
 
 ## Overview
 
 **Description**
 
-RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
+OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_ecommerce_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OOM_Ecommerce_Solution - Value Plan</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 
 ## Vendor Information
 
- Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+ Company Name: OOm Pte Ltd<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

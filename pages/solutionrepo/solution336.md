@@ -1,15 +1,19 @@
 ---
-title: 'HubSpot'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution336
 ---
 
-## HubSpot
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -23,41 +27,20 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)</td>
-<td style='padding: 10px;'>$14,220.00</td>
-<td style='padding: 10px;'>$13,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
-<td style='padding: 10px;'>$16,220.00</td>
-<td style='padding: 10px;'>$15,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)</td>
-<td style='padding: 10px;'>$20,446.00</td>
-<td style='padding: 10px;'>$19,346.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)</td>
-<td style='padding: 10px;'>$23,440.00</td>
-<td style='padding: 10px;'>$22,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

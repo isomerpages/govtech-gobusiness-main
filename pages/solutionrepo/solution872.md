@@ -1,15 +1,15 @@
 ---
-title: 'Bitdefender GravityZone Business Security Premium'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution872
 ---
 
-## Bitdefender GravityZone Business Security Premium
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ GZ Business Security Premium safeguards organization from the full spectrum of s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 10 Licenses</td>
-<td style='padding: 10px;'>$785.00</td>
-<td style='padding: 10px;'>$785.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 25 Licenses</td>
-<td style='padding: 10px;'>$1,922.00</td>
-<td style='padding: 10px;'>$1,922.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 50 Licenses</td>
-<td style='padding: 10px;'>$3,310.00</td>
-<td style='padding: 10px;'>$3,310.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 100 Licenses</td>
-<td style='padding: 10px;'>$6,171.00</td>
-<td style='padding: 10px;'>$6,171.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 200 Licenses</td>
-<td style='padding: 10px;'>$11,532.00</td>
-<td style='padding: 10px;'>$11,532.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ GZ Business Security Premium safeguards organization from the full spectrum of s
 
 ## Vendor Information
 
- Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
+ Company name: KLC International Institute Pte Ltd <br>Web URL: https://klc.edu.sg/ <br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

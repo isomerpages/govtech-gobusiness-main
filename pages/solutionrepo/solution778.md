@@ -1,15 +1,16 @@
 ---
-title: 'iFoundries E-commerce Jump Start Package Version 4'
+title: 'INFO-TECH Cloud Accounting Software Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution778
 ---
 
-## iFoundries E-commerce Jump Start Package Version 4
+## INFO-TECH Cloud Accounting Software Version 1.0
 
 ## Overview
 
 **Description**
 
-Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
+INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
+Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,27 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_iFoundries_E_commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

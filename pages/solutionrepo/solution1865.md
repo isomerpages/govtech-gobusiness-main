@@ -1,17 +1,15 @@
 ---
-title: 'Steel Plate Butt Joint Welding Alignment Tool'
+title: 'Packing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1865
 ---
 
-## Steel Plate Butt Joint Welding Alignment Tool
+## Packing machine
 
 ## Overview
 
 **Description**
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
-
-Cost of equipment capped at $12,500 per unit
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

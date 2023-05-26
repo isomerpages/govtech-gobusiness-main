@@ -1,15 +1,15 @@
 ---
-title: 'TimeCentral Version 11'
+title: 'Odoo Enterprise Version 16'
 permalink: /productivity-solutions-grant/solutionrepo/solution1147
 ---
 
-## TimeCentral Version 11
+## Odoo Enterprise Version 16
 
 ## Overview
 
 **Description**
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
+<td style='padding: 10px;'>$8,675.00</td>
+<td style='padding: 10px;'>$7,275.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
+<td style='padding: 10px;'>$16,025.00</td>
+<td style='padding: 10px;'>$13,825.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$18,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 
 ## Vendor Information
 
- Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
+ Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
