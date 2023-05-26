@@ -40,7 +40,6 @@ Simply answer a few questions about your business needs to get our recommendatio
 <br>
 
 {% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
-
 ---
 
 ### Budget 2023 for citizens
