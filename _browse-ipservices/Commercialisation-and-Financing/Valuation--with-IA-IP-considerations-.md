@@ -1,6 +1,6 @@
 ---
 title: 'Valuation (with IA/IP considerations)'
-permalink: /intellectual-property/Commercialisation-and-Financing/Valuation--with-IAIP-considerations-/
+permalink: /intellectual-property/Commercialisation-and-Financing/Valuation--with-IA-IP-considerations-/
 third_nav_title: Commercialisation and Financing
 ---
 

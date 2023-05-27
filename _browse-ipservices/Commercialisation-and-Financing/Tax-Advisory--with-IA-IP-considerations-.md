@@ -1,6 +1,6 @@
 ---
 title: 'Tax Advisory (with IA/IP considerations)'
-permalink: /intellectual-property/Commercialisation-and-Financing/Tax-Advisory--with-IAIP-considerations-/
+permalink: /intellectual-property/Commercialisation-and-Financing/Tax-Advisory--with-IA-IP-considerations-/
 third_nav_title: Commercialisation and Financing
 ---
 
