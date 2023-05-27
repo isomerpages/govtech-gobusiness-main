@@ -1,10 +1,10 @@
 ---
-title: 'IP Audit'
-permalink: /intellectual-property/Strategy-and-Management/IP-Audit/
-third_nav_title: Strategy and Management
+title: 'IP Brokerage and Licensing'
+permalink: /intellectual-property/Commercialisation-and-Financing/Branding-Strategy/
+third_nav_title: Commercialisation and Financing
 ---
 
-## IP Audit
+## IP Brokerage and Licensing
 ## Overview
 
 **Support Level and Conditions**

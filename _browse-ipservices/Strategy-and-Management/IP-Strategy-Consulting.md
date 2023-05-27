@@ -1,6 +1,6 @@
 ---
 title: 'IP Strategy Consulting'
-permalink: /intellectual-property/Strategy-and-Management/IP Strategy Consulting/
+permalink: /intellectual-property/Strategy-and-Management/IP-Strategy-Consulting/
 third_nav_title: Strategy and Management
 ---
 

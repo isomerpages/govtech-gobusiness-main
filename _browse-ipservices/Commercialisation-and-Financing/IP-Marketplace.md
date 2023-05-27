@@ -1,10 +1,10 @@
 ---
-title: 'IP Audit'
-permalink: /intellectual-property/Strategy-and-Management/IP-Audit/
-third_nav_title: Strategy and Management
+title: 'IP Marketplace'
+permalink: /intellectual-property/Commercialisation-and-Financing/IP-Marketplace/
+third_nav_title: Commercialisation and Financing
 ---
 
-## IP Audit
+## IP Marketplace
 ## Overview
 
 **Support Level and Conditions**

@@ -1,10 +1,10 @@
 ---
-title: 'IP Audit'
-permalink: /intellectual-property/Strategy-and-Management/IP-Audit/
-third_nav_title: Strategy and Management
+title: 'Tax Advisory (with IA/IP considerations)'
+permalink: /intellectual-property/Commercialisation-and-Financing/Tax-Advisory--with-IAIP-considerations-/
+third_nav_title: Commercialisation and Financing
 ---
 
-## IP Audit
+## Tax Advisory (with IA/IP considerations)
 ## Overview
 
 **Support Level and Conditions**

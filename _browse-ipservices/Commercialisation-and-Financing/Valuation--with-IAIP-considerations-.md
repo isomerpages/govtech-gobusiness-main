@@ -1,10 +1,10 @@
 ---
-title: 'IP Audit'
-permalink: /intellectual-property/Strategy-and-Management/IP-Audit/
-third_nav_title: Strategy and Management
+title: 'Valuation (with IA/IP considerations)'
+permalink: /intellectual-property/Commercialisation-and-Financing/Valuation--with-IAIP-considerations-/
+third_nav_title: Commercialisation and Financing
 ---
 
-## IP Audit
+## Valuation (with IA/IP considerations)
 ## Overview
 
 **Support Level and Conditions**
