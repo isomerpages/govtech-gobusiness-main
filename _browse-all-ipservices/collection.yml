@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - back-to-all-ip-services.md
-      - Patent-Agent.md
-      - Registered-Design-Agent.md
-      - Trade-Mark-Agent.md
-      - Freedom-To-Operate.md
-      - IP-Database.md
-      - IP-Intelligence-and-Search.md
-      - IP-Watch.md
-      - Branding-Strategy.md
-      - Innovation-Consultancy.md
-      - IP-Audit.md
-      - IP-Due-Diligence.md
-      - IP-Portfolio-Management.md
-      - IP-Strategy-Consulting.md
+      - IP-Search-and-Registration/Patent-Agent.md
+      - IP-Search-and-Registration/Registered-Design-Agent.md
+      - IP-Search-and-Registration/Trade-Mark-Agent.md
+      - IP-Search-and-Registration/Freedom-To-Operate.md
+      - IP-Search-and-Registration/IP-Database.md
+      - IP-Search-and-Registration/IP-Intelligence-and-Search.md
+      - IP-Search-and-Registration/IP-Watch.md
+      - Strategy-and-Management/Branding-Strategy.md
+      - Strategy-and-Management/Innovation-Consultancy.md
+      - Strategy-and-Management/IP-Audit.md
+      - Strategy-and-Management/IP-Due-Diligence.md
+      - Strategy-and-Management/IP-Portfolio-Management.md
+      - Strategy-and-Management/IP-Strategy-Consulting.md
