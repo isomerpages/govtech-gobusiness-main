@@ -1,5 +1,5 @@
 collections:
-  browse-ip-services:
+  browse-ipservices:
     output: true
     order:
       - back-to-all-ip-services.md
