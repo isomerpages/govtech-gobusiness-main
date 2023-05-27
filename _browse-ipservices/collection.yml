@@ -1,0 +1,12 @@
+collections:
+  browse-ip-services:
+    output: true
+    order:
+      - back-to-all-ip-services.md
+      - Patent-Agent.md
+      - Registered-Design-Agent.md
+      - Trade-Mark-Agent.md
+      - Freedom-To-Operate.md
+      - IP-Database.md
+      - IP-Intelligence-and-Search.md
+      - IP-Watch.md
