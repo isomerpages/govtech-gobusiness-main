@@ -25,7 +25,8 @@ Patent agents can be instrumental in helping you make informed decisions and nav
 
 ### Connect with relevant service providers for Patent Agents
 
-**3 service providers listed.**
+
+**2 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
