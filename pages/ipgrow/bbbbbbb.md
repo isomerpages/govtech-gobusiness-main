@@ -5,7 +5,7 @@ permalink: /intellectual-property/bbbbbbb/
 
 ## BBBBBBB
 
-<img src='/images/ipgrow/companies/AllenGledhill.png' aria-hidden='true'>
+<img src='/images/ipgrow/companies/AllenGledhill.png' width='auto' aria-hidden='true'>
 
 Allen & Gledhill is an award-winning full-service South-east Asian law firm providing legal services to a wide range of premier clients, including local and multinational corporations and financial institutions. 
 The Firm is consistently ranked as a market leader in Singapore and South-east Asia, having been involved in a number of challenging, complex and significant deals, many of which are the first of its kind. The Firm's reputation for high-quality advice is regularly affirmed by top rankings in leading publications, and by various awards and accolades. Allen & Gledhill has over 650 lawyers across the region, making it one of the largest law firms in South-east Asia.
