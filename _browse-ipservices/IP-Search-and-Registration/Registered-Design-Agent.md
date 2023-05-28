@@ -4,42 +4,24 @@ permalink: /intellectual-property/ip-search-and-registration/registered-design-a
 third_nav_title: IP Search and Registration
 ---
 
-## Registered Design Agent
-## Overview
+## Registered Design Agent services
 
-**Support Level and Conditions**
+Suppose you have a new product with a unique design featuring a distinct shape, combination of colours, or pattern. If you want to prevent others from copying your design, this is where registered designs can come into play. 
 
-Up to 50% for SMEs, N.A. for non-SMEs
+### What is a registered design?
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+A registered design gives you exclusive ownership of the visible appearance of your product. Some notable examples include the shape of a Volkswagen Beetle and the contours of an Apple iPhone. It is important to note that registered designs do not protect the functional aspects of a product, which may require patent protection instead.
 
-**Recommended courses**
+### Benefits of registered design agent services
 
+To help your business protect its designs, registered design agents offer an array of services, including preparing and filing the design application and ensuring compliance with all the requirements for registration. 
 
+The scope of protection you receive is determined by how you represent your product design and the countries where you choose to file in. A registered design agent can advise on whether your design is suitable for registration, assist with decision-making, and facilitate the application process to help you secure the most appropriate degree of protection. 
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500716'  target='_blank' rel='noopener'>1. Apply Project Management Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022013047'  target='_blank' rel='noopener'>2. Apply Automatic Control for Machines</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020503264'  target='_blank' rel='noopener'>3. Data Mining and Machine Learning</a><br>
+<img src='/images/ipgrow/ipservices/RegisteredDesignAgent.png' aria-hidden='true'>
 
-## Pre-Approved Solutions
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
-<table>
-<tr>
-<th style='width: auto;'><b>Solutions Name</b></th>
-<th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1806' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1807' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br></td>
-<td></td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1808' target='_blank'>Ethylene Removal System</a><br></td>
-<td></td>
-</tr>
-</table>
+---
 
-{% include banner-psg-survey.html %}
+### Connect with relevant service providers for Registered Design Agent
