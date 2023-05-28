@@ -1,12 +1,12 @@
-- anchor: '#proposal-box'
+- anchor: '#ip-related-service-areas'
   anchor_text: IP-related service areas
-- anchor: '#e-Adviser-for_events'
+- anchor: '#industry-focus'
   anchor_text: Industry focus
 - anchor: '#office-locations'
   anchor_text: 'Office locations'
 - anchor: '#client-segments'
   anchor_text: 'Client segments'
-- anchor: '#Testimonials'
+- anchor: '#testimonials'
   anchor_text: 'Testimonials'
 - anchor: '#case-studies'
   anchor_text: 'Case studies'
