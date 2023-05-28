@@ -85,67 +85,67 @@
 <div class="panels">
     <div class="panel">
         {% if {{panel.label}} %}
-        <div class="panel-label">{% include label.html label=panel.label %}</div>
+        <div class="panel-label">{% include label.html label=include.panel.label %}</div>
         {% endif %}
         {% if panel.image %}
-        <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
+        <div class="panel-image" aria-hidden="true">{{ include.panel.image }}</div>
         {% endif %}
         {% if panel.banner %}
-        <div class="panel-banner" aria-hidden="true">{{ panel.banner }}</div>
+        <div class="panel-banner" aria-hidden="true">{{ include.panel.banner }}</div>
         {% endif %}
-        <h4 class="panel-title">{{ panel.title }}
-        {% if panel.is_new %}
+        <h4 class="panel-title">{{ include.panel.title }}
+        {% if include.panel.is_new %}
         <span style="margin-left: 8px;">
           {% include new-tag.html %}
         </span>
         {% endif %}
         </h4>
-        {% if panel.description %}
-        <p class="panel-description">{{ panel.description }}</p>
+        {% if include.panel.description %}
+        <p class="panel-description">{{ include.panel.description }}</p>
         {% endif %}
-        {% if panel.tel or panel.email or panel.url or panel.text %}
+        {% if include.panel.tel or include.panel.email or include.panel.url or include.panel.text %}
         <div class="panel-links-container">
-            {% if panel.tel %}
+            {% if include.panel.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
 
-                {% assign tels = panel.tel | split: ',' %}
+                {% assign tels = include.panel.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if panel.email %}
+            {% if include.panel.email %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                {% assign emails = panel.email | split: ',' %}
+                {% assign emails = include.panel.email | split: ',' %}
                 {% for email in emails %}
                 <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if panel.url %}
+            {% if include.panel.url %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                {% assign urls = panel.url | split: ',' %}
+                {% assign urls = include.panel.url | split: ',' %}
                 {% for url in urls %}
-                {% if panel.url-new-tab %}
+                {% if include.panel.url-new-tab %}
                 <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                    href="{% if include.panel.protocol %}{{include.panel.protocol}}://{% else %}{% endif %}{{url}}"
                     target="_blank" rel="noopenner">
                 {% else %}
                     <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                    href="{% if include.panel.protocol %}{{include.panel.protocol}}://{% else %}{% endif %}{{url}}">
                 {% endif %}
                     {% if panel.text %}{{panel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
             {% else %}
-                {% if panel.text %}
+                {% if include.panel.text %}
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
-                    {{panel.text}}
+                    {{include.panel.text}}
                 </div>
                 {% endif %}
             {% endif %}
