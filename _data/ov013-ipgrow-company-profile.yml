@@ -1,0 +1,14 @@
+- anchor: '#proposal-box'
+  anchor_text: IP-related service areas
+- anchor: '#e-Adviser-for_events'
+  anchor_text: Industry focus
+- anchor: '#office-locations'
+  anchor_text: 'Office locations'
+- anchor: '#client-segments'
+  anchor_text: 'Client segments'
+- anchor: '#Testimonials'
+  anchor_text: 'Testimonials'
+- anchor: '#case-studies'
+  anchor_text: 'Case studies'
+- anchor: '#key-practice-experts'
+  anchor_text: 'Key practice experts'
