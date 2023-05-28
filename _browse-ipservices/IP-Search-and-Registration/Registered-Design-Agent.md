@@ -36,12 +36,12 @@ Select a service provider below to view their profile and connect with them.
 
 Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
 
-<ul style="line-height: 1.1rem; margin: 0 0 !important;">
-<li style="line-height: 1.1rem; margin: 0 0 !important;"><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style="line-height: 1.1rem; margin: 0 0 !important;"><b>No. of projects completed in previous calendar year:</b> 201-250</li>
-<li style="line-height: 1.1rem; margin: 0 0 !important;"><b>Hourly rate:</b> $200 to above $1,200</li>
-<li style="line-height: 1.1rem; margin: 0 0 !important;"><b>Project fee starts from (SGD):</b> $5,000</li>
-<li style="line-height: 1.1rem; margin: 0 0 !important;"><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+<ul>
+<li style="line-height: 27px; margin: 0px 0px !important"><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style="line-height: 27px; margin: 0px 0px !important"><b>No. of projects completed in previous calendar year:</b> 201-250</li>
+<li style="line-height: 27px; margin: 0px 0px !important"><b>Hourly rate:</b> $200 to above $1,200</li>
+<li style="line-height: 27px; margin: 0px 0px !important"><b>Project fee starts from (SGD):</b> $5,000</li>
+<li style="line-height: 27px; margin: 0px 0px !important"><b>Offer:</b> 20% discount on all IP services for SMEs</li>
 </ul>
 
 <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/2bbd5f45-ee04-4d78-bd90-c412e9cbea99" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-Employee-Dormitories-Act-Licence-)
