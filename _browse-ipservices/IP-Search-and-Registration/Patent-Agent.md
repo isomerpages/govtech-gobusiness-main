@@ -4,36 +4,24 @@ permalink: /intellectual-property/ip-search-and-registration/patent-agent/
 third_nav_title: IP Search and Registration
 ---
 
-## Patent Agent
-## Overview
+## Patent Agent Services
 
-**Support Level and Conditions**
+Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
 
-Up to 50% for SMEs, N.A. for non-SMEs
+### What is a patent?
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/grow/Shapequestion.png' aria-hidden='true'>" title="Temp I'm not sure where to start" description="Get recommendations on what licences your business might need" url="/licences/find-licence-by-sector/?src=run&grow_licences_fs" text="View our Licence Guides"%}
+### Benefits of patent agent services
 
-**Recommended courses**
+How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
+Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+<img src='/images/ipgrow/ipservices/PatentAgent.png' aria-hidden='true'>
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513643'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019507826'  target='_blank' rel='noopener'>3. Driving Trade & Business with Enterprise Resource Planning</a><br>
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
-## Pre-Approved Solutions
+---
 
-<table>
-<tr>
-<th style='width: auto;'><b>Solutions Name</b></th>
-<th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1629' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
-</tr>
-</table>
+### Connect with relevant service providers for Patent Agents
 
-{% include banner-psg-survey.html %}
