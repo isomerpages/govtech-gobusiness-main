@@ -13,7 +13,7 @@ Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-{% include wide-panel-featurelink.html panels=site.data.rgp001_licences %}
+{% include wide-panel-featurelink.html panels=site.data.rgp001_licences_temp %}
 
 **Recommended courses**
 
