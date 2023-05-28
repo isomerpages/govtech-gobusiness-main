@@ -83,7 +83,6 @@
     }
 </style>
 <div class="panels">
-    {% for panel in include.panels %}
     <div class="panel">
         {% if {{panel.label}} %}
         <div class="panel-label">{% include label.html label=panel.label %}</div>
@@ -153,5 +152,4 @@
         </div>
         {% endif %}
     </div>
-    {% endfor %}
 </div>
