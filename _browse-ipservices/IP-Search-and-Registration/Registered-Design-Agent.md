@@ -43,3 +43,5 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm rank
 - **Offer:** 20% discount on all IP services for SMEs
 
 <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/2bbd5f45-ee04-4d78-bd90-c412e9cbea99" target="_blank" rel="noopener">Connect</a>&emsp;[View Profile](/browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-Employee-Dormitories-Act-Licence-)
+
+---
