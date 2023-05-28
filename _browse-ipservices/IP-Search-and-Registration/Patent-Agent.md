@@ -13,7 +13,8 @@ Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-{% include wide-panel-featurelink.html panels=site.data.rgp001_licences_temp %}
+{% include wide-panel-featurelink.html panels.image="<img src="/images/grow/Shapequestion.png" aria-hidden="true">" title="I'm not sure where to start" description="Get recommendations on what licences your business might need."  url="/licences/find-licence-by-sector/?src=run&grow_licences_fs" text="View our Licence Guides"%}
+
 
 **Recommended courses**
 
