@@ -84,68 +84,63 @@
 </style>
 <div class="panels">
     <div class="panel">
-        {% if {{panel.label}} %}
-        <div class="panel-label">{% include label.html label=include.panel.label %}</div>
+
+        {% if include.image %}
+        <div class="panel-image" aria-hidden="true">{{ include.image }}</div>
         {% endif %}
-        {% if panel.image %}
-        <div class="panel-image" aria-hidden="true">{{ include.panel.image }}</div>
-        {% endif %}
-        {% if panel.banner %}
-        <div class="panel-banner" aria-hidden="true">{{ include.panel.banner }}</div>
-        {% endif %}
-        <h4 class="panel-title">{{ include.panel.title }}
-        {% if include.panel.is_new %}
+        <h4 class="panel-title">{{ include.title }}
+        {% if include.is_new %}
         <span style="margin-left: 8px;">
           {% include new-tag.html %}
         </span>
         {% endif %}
         </h4>
-        {% if include.panel.description %}
-        <p class="panel-description">{{ include.panel.description }}</p>
+        {% if include.description %}
+        <p class="panel-description">{{ include.description }}</p>
         {% endif %}
-        {% if include.panel.tel or include.panel.email or include.panel.url or include.panel.text %}
+        {% if include.tel or include.email or include.url or include.text %}
         <div class="panel-links-container">
-            {% if include.panel.tel %}
+            {% if include.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
 
-                {% assign tels = include.panel.tel | split: ',' %}
+                {% assign tels = include.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if include.panel.email %}
+            {% if include.email %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                {% assign emails = include.panel.email | split: ',' %}
+                {% assign emails = include.email | split: ',' %}
                 {% for email in emails %}
                 <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if include.panel.url %}
+            {% if include.url %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                {% assign urls = include.panel.url | split: ',' %}
+                {% assign urls = include.url | split: ',' %}
                 {% for url in urls %}
-                {% if include.panel.url-new-tab %}
+                {% if include.url-new-tab %}
                 <a class="panel-link"
-                    href="{% if include.panel.protocol %}{{include.panel.protocol}}://{% else %}{% endif %}{{url}}"
+                    href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}"
                     target="_blank" rel="noopenner">
                 {% else %}
                     <a class="panel-link"
-                    href="{% if include.panel.protocol %}{{include.panel.protocol}}://{% else %}{% endif %}{{url}}">
+                    href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}">
                 {% endif %}
-                    {% if panel.text %}{{panel.text}}
+                    {% if include.text %}{{include.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
             {% else %}
-                {% if include.panel.text %}
+                {% if includetext %}
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
-                    {{include.panel.text}}
+                    {{include.text}}
                 </div>
                 {% endif %}
             {% endif %}
