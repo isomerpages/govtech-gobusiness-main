@@ -5,7 +5,7 @@ permalink: /intellectual-property/allen-gledhill-llp/
 
 ## Allen & Gledhill LLP
 
-<img src='/images/ipgrow/companies/AllenGledhill.png' style='width: 40% !important' aria-hidden='true'>
+<img src='/images/ipgrow/companies/AllenGledhill.png' style='width: 30% !important' aria-hidden='true'>
 
 Allen & Gledhill is an award-winning full-service South-east Asian law firm providing legal services to a wide range of premier clients, including local and multinational corporations and financial institutions. 
 The Firm is consistently ranked as a market leader in Singapore and South-east Asia, having been involved in a number of challenging, complex and significant deals, many of which are the first of its kind. The Firm's reputation for high-quality advice is regularly affirmed by top rankings in leading publications, and by various awards and accolades. Allen & Gledhill has over 650 lawyers across the region, making it one of the largest law firms in South-east Asia.
@@ -55,8 +55,18 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 
 ---
 <a name='industry-focus'></a>
-### Induestry Focus
+### Industry Focus
 
-<ul><li> Education</li><li>Electronics</li><li>Energy and Chemicals</li><li>Financial Services</li><li>Healthcare</li><li>ICT and Media</li><li>Precision Engineering</li><li>Professional Services</li><li>Security</li><li>Wholesale Trade</li></ul>
+<ul><listyle='line-height: 27px; margin: 0px 0px !important'> Education</li><listyle='line-height: 27px; margin: 0px 0px !important'>Electronics</li><listyle='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><listyle='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><listyle='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><listyle='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><listyle='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><listyle='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><listyle='line-height: 27px; margin: 0px 0px !important'>Security</li><listyle='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+
+---
+<a name='office-locations'></a>
+### Office locations
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Regional Office(s):Malaysia, Myanmar, Indonesia, Vietnam</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Partner Office(s):-</li>
+</ul>
 
 ---
