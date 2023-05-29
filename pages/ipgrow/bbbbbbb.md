@@ -32,3 +32,15 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <a name='ip-related-service-areas'></a>
 ### IP-related service areas
 
+**Patent Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate: </b> c1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> c2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Patent Agents in Singapore:</b> c3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Patent Agents overseas:</b> c4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (in Singapore dollars): </b> c5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available</b> c6</li>
+</ul>
+
+---
