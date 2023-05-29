@@ -35,22 +35,22 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate: </b> a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Patent Agents in Singapore:</b> a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Patent Agents overseas:</b> a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (in Singapore dollars): </b> a5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available</b> a6</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available a6</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> b1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> b2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Registered Design Agents in Singapore:</b> b3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of Registered Design Agents overseas:</b> b4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (in Singapore dollars):</b> b5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: b1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: b3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: b4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): b5</li>
 </ul>
 
 ---
