@@ -31,3 +31,36 @@ Patent agents can be instrumental in helping you make informed decisions and nav
 Select a service provider below to view their profile and connect with them.
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Patent Agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+
+#### Allen & Gledhill LLP
+
+Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of projects completed in previous calendar year:</b> 500 - 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> 500 - 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 500 - 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 500 - 1000</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/allen-gledhill-llp/)
+
+---
+
+#### BBBBBBB
+
+BBBB short descr
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of projects completed in previous calendar year:</b> 201 - 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> 201 - 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 201 - 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 201 - 250</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/bbbbbbb/)
+
+---
+
