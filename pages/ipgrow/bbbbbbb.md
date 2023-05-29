@@ -44,3 +44,9 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 </ul>
 
 ---
+<a name='industry-focus'></a>
+### Induestry Focus
+
+<ul><li> Education</li><li>Electronics</li><li>Energy and Chemicals</li><li>Financial Services</li><li>Healthcare</li><li>ICT and Media</li><li>Precision Engineering</li><li>Professional Services</li><li>Security</li><li>Wholesale Trade</li></ul>
+
+---
