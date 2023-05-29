@@ -696,10 +696,6 @@ img[src*="/images/licences/cp.png"] {
   width: 36px;
   height: auto;
 }
-p > img[src*="/images/ipgrow/companies/AllenGledhill.png"] {
-  width: 40%;
-  height: auto;
-}
 
 p > img[src*="/images/"] {
   margin: 32px 0;
@@ -710,6 +706,10 @@ p > img[src*="/images/blog/"] {
 }
 p > img[src*="/images/blog/content/"] {
   width: 800px;
+}
+p > img[src*="/images/ipgrow/companies/AllenGledhill.png"] {
+  width: 40%;
+  height: auto;
 }
 
 .news-content {
