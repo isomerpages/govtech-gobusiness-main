@@ -1,6 +1,6 @@
 ---
 title: 'Patent Agent'
-permalink: /intellectual-property/ip-search-and-registration/patent-agent/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/patent-agent/
 third_nav_title: IP Search and Registration
 ---
 
@@ -44,7 +44,7 @@ Allen & Gledhill is an award-winning full-service South-east Asian law firm rank
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
 </ul>
 
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/allen-gledhill-llp/){:target='_blank'}
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
 
 ---
 
@@ -60,7 +60,7 @@ BBBB short descr
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
 </ul>
 
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/bbbbbbb/){:target='_blank'}
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/bbbbbbb/){:target='_blank'}
 
 ---
 

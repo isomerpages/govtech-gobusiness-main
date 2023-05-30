@@ -1,6 +1,6 @@
 ---
 title: 'Allen & Gledhill LLP'
-permalink: /intellectual-property/allen-gledhill-llp/
+permalink: /intellectual-property/ip-grow/allen-gledhill-llp/
 ---
 
 ## Allen & Gledhill LLP

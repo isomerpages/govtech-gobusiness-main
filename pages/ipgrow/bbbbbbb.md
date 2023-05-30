@@ -1,6 +1,6 @@
 ---
 title: 'BBBBBBB'
-permalink: /intellectual-property/bbbbbbb/
+permalink: /intellectual-property/ip-grow/bbbbbbb/
 ---
 
 ## BBBBBBB
