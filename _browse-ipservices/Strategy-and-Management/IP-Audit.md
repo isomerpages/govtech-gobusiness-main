@@ -1,6 +1,6 @@
 ---
 title: 'IP Audit'
-permalink: /intellectual-property/Strategy-and-Management/IP-Audit/
+permalink: /intellectual-property/ip-grow/Strategy-and-Management/IP-Audit/
 third_nav_title: Strategy and Management
 ---
 

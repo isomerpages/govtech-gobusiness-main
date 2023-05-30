@@ -1,6 +1,6 @@
 ---
 title: 'IP Watch'
-permalink: /intellectual-property/ip-search-and-registration/ip-watch/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/ip-watch/
 third_nav_title: IP Search and Registration
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'IP Portfolio Management'
-permalink: /intellectual-property/Strategy-and-Management/IP-Portfolio-Management/
+permalink: /intellectual-property/ip-grow/Strategy-and-Management/IP-Portfolio-Management/
 third_nav_title: Strategy and Management
 ---
 

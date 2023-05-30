@@ -1,6 +1,6 @@
 ---
 title: 'Branding Strategy'
-permalink: /intellectual-property/Strategy-and-Management/Branding-Strategy/
+permalink: /intellectual-property/ip-grow/Strategy-and-Management/Branding-Strategy/
 third_nav_title: Strategy and Management
 ---
 

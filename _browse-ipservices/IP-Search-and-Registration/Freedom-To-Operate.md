@@ -1,6 +1,6 @@
 ---
 title: 'Freedom-To-Operate'
-permalink: /intellectual-property/ip-search-and-registration/freedom-to-operate/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate/
 third_nav_title: IP Search and Registration
 ---
 

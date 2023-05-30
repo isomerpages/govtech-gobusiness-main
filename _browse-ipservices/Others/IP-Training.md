@@ -1,6 +1,6 @@
 ---
 title: 'IP Training'
-permalink: /intellectual-property/Others/IP-Training/
+permalink: /intellectual-property/ip-grow/Others/IP-Training/
 third_nav_title: Others
 ---
 

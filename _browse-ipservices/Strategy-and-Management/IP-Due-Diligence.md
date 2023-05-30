@@ -1,6 +1,6 @@
 ---
 title: 'IP Due Diligence'
-permalink: /intellectual-property/Strategy-and-Management/IP-Due-Diligence/
+permalink: /intellectual-property/ip-grow/Strategy-and-Management/IP-Due-Diligence/
 third_nav_title: Strategy and Management
 ---
 

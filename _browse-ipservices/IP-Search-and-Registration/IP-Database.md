@@ -1,6 +1,6 @@
 ---
 title: 'IP Database'
-permalink: /intellectual-property/ip-search-and-registration/ip-database/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/ip-database/
 third_nav_title: IP Search and Registration
 ---
 

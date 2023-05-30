@@ -1,6 +1,6 @@
 ---
 title: 'IP Marketplace'
-permalink: /intellectual-property/Commercialisation-and-Financing/IP-Marketplace/
+permalink: /intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Marketplace/
 third_nav_title: Commercialisation and Financing
 ---
 

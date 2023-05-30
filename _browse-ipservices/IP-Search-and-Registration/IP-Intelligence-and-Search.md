@@ -1,6 +1,6 @@
 ---
 title: 'IP Intelligence and Search'
-permalink: /intellectual-property/ip-search-and-registration/ip-intelligence-and-search/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/ip-intelligence-and-search/
 third_nav_title: IP Search and Registration
 ---
 

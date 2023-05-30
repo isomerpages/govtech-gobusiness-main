@@ -1,6 +1,6 @@
 ---
 title: 'Dispute Resolution'
-permalink: /intellectual-property/Others/Dispute-Resolution/
+permalink: /intellectual-property/ip-grow/Others/Dispute-Resolution/
 third_nav_title: Others
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Trade Mark Agent'
-permalink: /intellectual-property/ip-search-and-registration/trade-mark-agent/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/trade-mark-agent/
 third_nav_title: IP Search and Registration
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Innovation Consultancy'
-permalink: /intellectual-property/Strategy-and-Management/Innovation-Consultancy/
+permalink: /intellectual-property/ip-grow/Strategy-and-Management/Innovation-Consultancy/
 third_nav_title: Strategy and Management
 ---
 

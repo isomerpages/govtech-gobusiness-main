@@ -1,6 +1,6 @@
 ---
 title: 'Contract Drafting'
-permalink: /intellectual-property/Others/Contract-Drafting/
+permalink: /intellectual-property/ip-grow/Others/Contract-Drafting/
 third_nav_title: Others
 ---
 
