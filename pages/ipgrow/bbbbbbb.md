@@ -37,10 +37,10 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  c1</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: c2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available c6</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c6</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available c7</li>
 </ul>
 
 ---
@@ -60,3 +60,67 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 </ul>
 
 ---
+<a name='client-segments'></a>
+### Client segments
+
+**Percentage of clients by country, based on previous calendar year:**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Hong Kong - 30%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Taiwan - 15%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Thailand - 10%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Other Countries - 5%</li>
+</ul>
+
+**Percentage of revenue by organisational type, based on previous calendar year:**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Non-profit organisations - 10%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 70%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Large enterprises - 10%</li>
+<li style='line-height: 27px; margin: 0px 0px !important'> Government - 0%</li>
+</ul>
+
+---
+<a name='testimonials'></a>
+### Testimonials
+
+“Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise.” — Eric Koh, Director, ABC Pte Ltd.
+
+“I will engage them again. Very efficient and very professionals. Highly recommended." — Ms. Lisa, Senior Partner, XYZ Pte Ltd.
+
+---
+<a name='case-studies'></a>
+### Case studies
+
+<ul>- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 1</a> </li>
+- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a> </li>
+- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a> </li></ul>
+
+---
+<a name='key-practice-experts'></a>
+### Key practice experts
+
+**James Tan**
+
+- Job Title: Senior IP Strategist
+- Years of Experience: 12 years
+- Location: Singapore
+- IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Tax Advisory, Valuation
+- Certifications/Qualifications: SAC accredited TR 43, Accredited Tax Advisor
+- Awards/Accolades: World's Leading IP Strategist Award
+- URL of LinkedIn/Company Profile: www .linkedin.com/james tan
+
+**Alice Lim (Malaysia)**
+
+- Job Title: IP Strategist
+- Years of Experience: 5 years
+- IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
+- Certifications/Qualifications: MIPIM, Registered Management Consultant
+- Awards/Accolades: -
+- URL of Linkedin/Company Profile: www linkedin.com/alicelim
+
+---
+Profile last updated on 20 January 2023
