@@ -87,9 +87,9 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <a name='testimonials'></a>
 ### Testimonials
 
-“Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise.” — Eric Koh, Director, ABC Pte Ltd.
+"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise." - Eric Koh, Director, ABC Pte Ltd.
 
-“I will engage them again. Very efficient and very professionals. Highly recommended." — Ms. Lisa, Senior Partner, XYZ Pte Ltd.
+"I will engage them again. Very efficient and very professionals. Highly recommended." - Ms. Lisa, Senior Partner, XYZ Pte Ltd.
 
 ---
 <a name='case-studies'></a>
