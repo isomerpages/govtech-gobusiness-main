@@ -51,6 +51,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1411' target='_blank'>Swipetask PRO</a><br></td>
 <td>Swipetask Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1997' target='_blank'>SmartFM Version 2.0</a><br></td>
+<td>CHIMERIC TECHNOLOGIES PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

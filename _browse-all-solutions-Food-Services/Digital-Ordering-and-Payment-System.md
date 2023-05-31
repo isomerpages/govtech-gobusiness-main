@@ -151,6 +151,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1927' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1980' target='_blank'>CIRCL F&B Omnichannel</a><br></td>
+<td>CIRCL Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1986' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
+<td>EISOL Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

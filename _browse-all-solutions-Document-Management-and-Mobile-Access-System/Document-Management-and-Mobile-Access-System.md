@@ -67,6 +67,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1677' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1981' target='_blank'>Therefore Online</a><br></td>
+<td>CANON SINGAPORE PTE. LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
