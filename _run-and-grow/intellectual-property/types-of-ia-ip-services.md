@@ -22,7 +22,7 @@ As a start, 20 IA/IP services will be featured on GoBusiness IP Grow, grouped in
 
 <table>
 <tr>
-<th style='width: 30%;'><b>Service Name</b></th>
+<th style='width: 35%;'><b>Service Name</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
