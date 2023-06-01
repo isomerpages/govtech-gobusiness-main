@@ -1,0 +1,30 @@
+- accordion:
+  letter: a
+  data:
+    - title: I am an IA/IP service provider. How can I join the platform?
+      content: |
+        You may apply to be an IA/IP service provider via [IPOS International's website](https://iposinternational.com/events/news-announcements/gobusiness-ip-grow-application-guide_572){:target="_blank"}{:rel="noopener"}. You are encouraged to prepare all the materials and information required for the application beforehand for a smoother process. The application guide will run you through the sections in the application form and the supporting documents needed for submission. 
+
+    - title: What are the conditions to be listed as an IA/IP service provider?
+      content: |
+        Service providers must meet the following conditions to be listed on GoBusiness IP Grow:
+
+        - Be a “live” Singapore registered company based on ACRA records;
+
+        - Provide at least 1 IA/IP service from the list of 20 IA/IP services;
+        
+        - Have at least 1 key practice expert for every IA/IP service that the service provider can perform;
+        
+        - Are currently not under investigation for professional misconduct (both service provider and key practice experts listed).
+
+    - title: Can I apply to be listed if I am a foreign company?
+      content: |
+        Currently, only Singapore registered companies are eligible to be listed on GoBusiness IP Grow. 
+
+    - title: Are there any listing fees?
+      content: |
+        There are currently no fees required for listing on GoBusiness IP Grow.
+
+    - title: How long will the application process take?
+      content: |
+        Your application will take up to 14 working days to be processed. In the event further verification or supporting documents are required, Intellectual Property Office of Singapore (IPOS) will get in touch with you. 

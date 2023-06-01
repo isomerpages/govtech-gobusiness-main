@@ -1,0 +1,57 @@
+- accordion:
+  letter: a
+  data:
+    - title: What are intangible assets (IA) and intellectual property (IP)?
+      content: |
+        Intangible assets (IA) are assets that are non-physical in nature, such as goodwill, brand recognition, and software codes. 
+
+        Considered a subset of IA, intellectual property (IP) refers to creations of the mind, such as inventions, literary and artistic works, designs and symbols, and names used in commerce. These can be legally protected by registering for trade marks, patents, and designs, while some IP types like copyright are automatically protected upon creation. 
+
+    - title: What is GoBusiness IP Grow? 
+      content: |
+        GoBusiness IP Grow is an online Intangible Assets (IA) and Intellectual Property (IP) services marketplace, designed to support enterprises in leveraging IA/IP for growth. It is dedicated to serving the needs of Singapore's innovation ecosystem by providing IA/IP resources that help businesses grow and expand globally.
+
+    - title: What are the features of GoBusiness IP Grow? 
+      content: |
+        These are the key features of GoBusiness IP Grow:
+
+        - e-Advisers to help enterprises <u>identify their IA/IP needs</u> and <u>recommend suitable IA/IP providers</u>
+
+        - Comprehensive suite of <u>20 IA/IP services</u> to address enterprise needs onin the entire spectrum of their innovation journey
+
+        - IA/IP service directories and profile pages to help enterprises make informed decisions on service providers
+
+    - title: I have other questions - who should I reach out to?
+      content: |
+        You may contact Intellectual Property Office of Singapore (IPOS) at [ipgrow@iposinternational.com](mailto:ipgrow@iposinternational.com).
+
+- accordion:
+  letter: b
+  data:
+    - title: Are there any fees for using GoBusiness IP Grow?
+      content: |
+        There are currently no fees required for using GoBusiness IP Grow.
+
+    - title: I am not sure what intellectual property (IP) gaps my company has. What should I do?
+      content: |
+        You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives.
+
+    - title: I am not sure which IA/IP service provider to engage. What should I do?
+      content: |
+        You can use the [e-Adviser for IP Providers](https://eadviser.gobusiness.gov.sg/ipserviceprovider/?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to get personalised recommendations for suitable service providers, based on your intellectual property needs and preferences.
+
+    - title: Where can I find the list of service providers for each IA/IP service?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What is the Connect button for?
+      content: |
+        The Connect button is a convenient way for you to connect with your preferred IA/IP service providers and share more information about your intellectual property needs. Users who connect through the platform can also enjoy exclusive benefits provided by the IA/IP service providers. 
+
+    - title: I just submitted a connect form to an IA/IP service provider. What will happen next?
+      content: |
+        The IA/IP service provider will receive your connect form and get in touch with you directly within 3 to 5 working days. 
+
+    - title: Where can I access further resources on IA/IP?
+      content: |
+        You may find a wealth of resources [here](/intellectual-property/ip-grow/resources/?src=ipgrow-faq) to help you protect and leverage your intangible assets and intellectual property (IA/IP), from grants and funding support to useful guides.
