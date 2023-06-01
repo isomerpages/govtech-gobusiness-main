@@ -1,0 +1,14 @@
+collections:
+  browse-all-solutions-ERP-and-Standalone-solutions:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Accting-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - E-loyalty-Marketing-Automation.md
+      - Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - Accting-Mgmt--CRM--Inventory-Mgmt-and-Sales-Mgmt-System.md
+      - CRM-and-Sales-Mgmt-System.md
+      - CRM.md
+      - Inventory-Mgmt-System.md
+      - Accting-Mgmt--CRM-and-Sales-Mgmt-System.md

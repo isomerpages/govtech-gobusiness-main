@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Document-Management-and-Mobile-Access-System:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Document-Management-and-Mobile-Access-System.md

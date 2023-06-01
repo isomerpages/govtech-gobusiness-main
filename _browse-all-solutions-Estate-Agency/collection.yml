@@ -1,0 +1,7 @@
+collections:
+  browse-all-solutions-Estate-Agency:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Document-Management-for-Estate-Agents.md
+      - Document-Management-and-Transaction-Records-Submission-for-Estate-Agents.md

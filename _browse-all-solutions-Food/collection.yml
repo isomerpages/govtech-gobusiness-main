@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Food:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Food.md
