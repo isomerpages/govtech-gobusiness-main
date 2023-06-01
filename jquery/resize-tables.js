@@ -62,6 +62,10 @@ const customTables = [
   {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/hiring-incentive-enhanced-hiring-incentive/",
     columns: ["50%","50%"]
+  },
+  {
+    path: "/haze/",
+    columns: ["50%","50%"]
   }
 ];
 

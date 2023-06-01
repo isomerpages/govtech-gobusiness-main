@@ -26,7 +26,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 <table>
 <tr>
     <th>
-        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'>Healthy employees
+        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Healthy employees
     </th>
     <td>
         Normal activities
@@ -34,7 +34,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'>Elderly, pregnant employees
+        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Elderly, pregnant employees
     </th>
     <td>
         Normal activities
@@ -42,7 +42,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto;' aria-hidden='true'>Employees with chronic lung disease, heart disease
+        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Employees with chronic lung disease, heart disease
     </th>
     <td>
         Normal activities
@@ -50,7 +50,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto;' aria-hidden='true'>General measures to be taken by employers
+        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> General measures to be taken by employers
     </th>
     <td>
         Normal activities
@@ -62,3 +62,6 @@ Employers should note that environmental conditions may fluctuate throughout a w
 
 [Latest haze situation](https://www.haze.gov.sg/){:target="_blank"}{:rel="noopener"} from National Environment Agency (NEA)
 [Haze guidelines and advisory for work](){:target="_blank"}{:rel="noopener"} from Ministry of Manpower (MOM)
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/resize-tables.js"></script>
