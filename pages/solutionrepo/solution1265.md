@@ -1,15 +1,15 @@
 ---
-title: 'Million Stock Control System Version 3'
+title: 'Shopmatic'
 permalink: /productivity-solutions-grant/solutionrepo/solution1265
 ---
 
-## Million Stock Control System Version 3
+## Shopmatic
 
 ## Overview
 
 **Description**
 
-Million Stock Control System helps to reduce the cost of holding stocks, allowing businesses to meet their customer's demands by making sure there are enough materials for production.
+Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Million Stock Control System helps to reduce the cost of holding stocks, allowin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (3 Users)</td>
-<td style='padding: 10px;'>$4,899.00</td>
-<td style='padding: 10px;'>$4,899.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (5 Users)</td>
-<td style='padding: 10px;'>$6,799.00</td>
-<td style='padding: 10px;'>$6,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (6 Users)</td>
-<td style='padding: 10px;'>$7,499.00</td>
-<td style='padding: 10px;'>$7,499.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (7 Users)</td>
-<td style='padding: 10px;'>$8,699.00</td>
-<td style='padding: 10px;'>$8,699.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Million Stock Control System Version 3 - (8 Users)</td>
-<td style='padding: 10px;'>$9,399.00</td>
-<td style='padding: 10px;'>$9,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Million_20200921_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
+<td style='padding: 10px;'>$2,815.00</td>
+<td style='padding: 10px;'>$2,815.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Shopmatic_20220242_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
+ Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: +65 88898758<br>Contact Email: jaramy.teo@goshopmatic.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

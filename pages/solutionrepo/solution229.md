@@ -1,15 +1,15 @@
 ---
-title: 'Aptsys - Digital Ordering Solutions'
+title: 'ASL Advisory - Xero accounting software'
 permalink: /productivity-solutions-grant/solutionrepo/solution229
 ---
 
-## Aptsys - Digital Ordering Solutions
+## ASL Advisory - Xero accounting software
 
 ## Overview
 
 **Description**
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Xero is a cloud-based accounting software product that lets small and medium sized business owners manage their finances from anywhere and integrate with more than 1,000 apps. Xero online accounting software allows small and medium sized business connect to the bank, accountant, bookkeeper, and other business apps. It performs bookkeeping functions like invoicing and processing supplier bills, and allows business to connect to a live bank feed.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter Version 2.0</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter with Customer Relation Management System Version 2.0</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup & Subscription</td>
+<td style='padding: 10px;'>$2,064.00</td>
+<td style='padding: 10px;'>$2,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription & Training</td>
+<td style='padding: 10px;'>$3,184.00</td>
+<td style='padding: 10px;'>$3,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input</td>
+<td style='padding: 10px;'>$3,984.00</td>
+<td style='padding: 10px;'>$3,927.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input, Migration</td>
+<td style='padding: 10px;'>$5,184.00</td>
+<td style='padding: 10px;'>$5,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
+ Company name:ASL Advisory Pte. Ltd.<br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

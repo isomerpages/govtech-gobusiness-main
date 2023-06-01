@@ -1,15 +1,15 @@
 ---
-title: 'Digital Fund Manager Compliance powered by Palmyra'
+title: 'Microsoft Dynamics 365 Business Central'
 permalink: /productivity-solutions-grant/solutionrepo/solution1547
 ---
 
-## Digital Fund Manager Compliance powered by Palmyra
+## Microsoft Dynamics 365 Business Central
 
 ## Overview
 
 **Description**
 
-Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
+Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps SMEs integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM, InvoiceNOW) and optionally one of the advanced modules (Essential license - Projects. Premium license -  After Sales Service or Manufacturing)
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'>$85,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package A (5 Essential Subscription Licenses)</td>
+<td style='padding: 10px;'>$29,990.00</td>
+<td style='padding: 10px;'>$27,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
-<td style='padding: 10px;'>$180,000.00</td>
-<td style='padding: 10px;'>$105,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package B (10 Essential, 2 TM Subscription Licenses)</td>
+<td style='padding: 10px;'>$36,358.40</td>
+<td style='padding: 10px;'>$33,758.40</td>
+<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
-<td style='padding: 10px;'>$220,000.00</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package C (9 Essential, 2 TM Perpetual Licenses)</td>
+<td style='padding: 10px;'>$42,982.00</td>
+<td style='padding: 10px;'>$40,382.00</td>
+<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package D (11 Premium, 2 TM Subscription Licenses)</td>
+<td style='padding: 10px;'>$54,118.40</td>
+<td style='padding: 10px;'>$42,718.40</td>
+<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package E (7 Premium Perpetual Licenses)</td>
+<td style='padding: 10px;'>$54,594.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Vermeg International Singapore Pte. Limited<br>Web URL: www.vermeg.com <br>Contact Hotline: 67201012 <br>Contact Email: nmohankumar@vermeg.com 
+ Company name:Winspire Solutions Pte Ltd<br>Web URL: https://winspiresolutions.com/microsoft-dynamics-365-business-central/ <br>Contact Hotline: 98357900 <br>Contact Email: jkulkarni@winspiresolutions.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
