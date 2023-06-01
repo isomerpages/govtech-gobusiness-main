@@ -15,7 +15,7 @@ Employers should carry out proper risk assessments of their various work activit
 
 Below are some guidelines for employers:
 
-//
+{% include accordion.html accordions=site.data.acc112-haze-advisory.accordion %}
 
 ### Employer guidelines based on the 24-hour PSI
 
