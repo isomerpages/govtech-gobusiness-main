@@ -95,6 +95,86 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 </table>
 
+#### <img src='/images/haze/haze-201to300.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> 24-Hour PSI: 201 - 300 (Very Unhealthy)
+
+<table>
+<tr>
+    <th>
+        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Healthy employees
+    </th>
+    <td>
+        Avoid prolonged or strenuous outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Elderly, pregnant employees
+    </th>
+    <td>
+        Minimise outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Employees with chronic lung disease, heart disease
+    </th>
+    <td>
+        Avoid outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> General measures to be taken by employers
+    </th>
+    <td>
+        Take risk mitigating measures such as use of mechanical aids, job rotation, instituting indoor rest breaks, ensuring adequate hydration, etc.
+
+        If prolonged or strenuous outdoor work is not avoidable, and an employer still requires an employee to do so due to extenuating circumstances, the employer is strongly urged to provide mask.
+    </td>
+</tr>
+</table>
+
+#### <img src='/images/haze/haze-above300.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> 24-Hour PSI: > 300 (Hazardous)
+
+<table>
+<tr>
+    <th>
+        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Healthy employees
+    </th>
+    <td>
+        Minimise outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Elderly, pregnant employees
+    </th>
+    <td>
+        Avoid outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Employees with chronic lung disease, heart disease
+    </th>
+    <td>
+        Avoid outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> General measures to be taken by employers
+    </th>
+    <td>
+        Take additional risk mitigating measures such as job redeployment, reducing the intensity and duration of outdoor work, institute regular breaks or deferment of non-essential jobs.
+
+        If outdoor work is not avoidable, and an employer still requires an employee to do so due to extenuating circumstances, masks or appropriate respirators (e.g. full face respirators for prolonged outdoor work at 24-hours PSI > 400) should be provided.
+
+        Risk assessment should consider the additional risk posed by poor visibility for work activities such as lifting operations involving tower and mobile cranes.
+    </td>
+</tr>
+</table>
+
 ### For more information
 
 [Latest haze situation](https://www.haze.gov.sg/){:target="_blank"}{:rel="noopener"} from National Environment Agency (NEA)
