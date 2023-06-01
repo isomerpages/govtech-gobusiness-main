@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Personal-Care-Services:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Salon-Management-System.md

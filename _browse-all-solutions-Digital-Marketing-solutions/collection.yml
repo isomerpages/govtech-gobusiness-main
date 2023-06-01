@@ -1,6 +1,0 @@
-collections:
-  browse-all-solutions-Digital-Marketing-solutions:
-    output: true
-    order:
-      - back-to-all-psg-solutions.md
-      - Digital-Marketing-Packages.md
