@@ -1,0 +1,5 @@
+collections:
+  haze-advisory-for-businesses:
+    output: true
+    order:
+      - haze.md
