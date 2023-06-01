@@ -1,5 +1,5 @@
 collections:
-  haze-advisory-for-businesses:
+  haze:
     output: true
     order:
       - haze.md
