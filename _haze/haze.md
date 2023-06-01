@@ -21,12 +21,12 @@ Below are some guidelines for employers:
 
 Employers should note that environmental conditions may fluctuate throughout a work day and factor this into their risk assessments.
 
-#### <img src='/images/haze/haze-below100.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> 24-Hour PSI: ≤ 100 (Good / Moderate)
+#### <img src='/images/haze/haze-below100.png' style='float:left; height:32px; width:auto; margin-right:16px;' aria-hidden='true'> 24-Hour PSI: ≤ 100 (Good / Moderate)
 
 <table>
 <tr>
     <th>
-        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Healthy employees
+        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto; margin-right:16px;' aria-hidden='true'> Healthy employees
     </th>
     <td>
         Normal activities
@@ -34,7 +34,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Elderly, pregnant employees
+        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto; margin-right:16px;' aria-hidden='true'> Elderly, pregnant employees
     </th>
     <td>
         Normal activities
@@ -42,7 +42,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> Employees with chronic lung disease, heart disease
+        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto; margin-right:16px;' aria-hidden='true'> Employees with chronic lung disease, heart disease
     </th>
     <td>
         Normal activities
@@ -50,7 +50,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 <tr>
     <th>
-        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> General measures to be taken by employers
+        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px;' aria-hidden='true'> General measures to be taken by employers
     </th>
     <td>
         Normal activities
