@@ -1,15 +1,15 @@
 ---
-title: 'Synergix'
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 
-## Synergix
+## EZ Accounting and Inventory Software
 
 ## Overview
 
 **Description**
 
-Synergix Marine & Offshore Solution provides a unique level of integration across all your business units, enabling efficient information sharing for quick management decision making. This improves operational reliability and helps company to avoid expensive mistakes and downtime during any phase of project.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ Synergix Marine & Offshore Solution provides a unique level of integration acros
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix - 3-in-1 ERP Solution (5 Users)</td>
-<td style='padding: 10px;'>$44,860.00</td>
-<td style='padding: 10px;'>$36,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix - 3-in-1 ERP Solution (10 Users)</td>
-<td style='padding: 10px;'>$65,860.00</td>
-<td style='padding: 10px;'>$36,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (Single User)</td>
+<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'>$4,033.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

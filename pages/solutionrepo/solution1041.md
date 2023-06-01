@@ -1,15 +1,15 @@
 ---
-title: 'Proximity Sensor Safety Solution Version 4'
+title: 'OOM_Ecommerce_Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1041
 ---
 
-## Proximity Sensor Safety Solution Version 4
+## OOM_Ecommerce_Solution
 
 ## Overview
 
 **Description**
 
-Nettbox Proximity Sensor is an obstacle detection solution which is suitable for all category of heavy vehicles /machines. It is a safety solution which allows instant detection of the object which is of close proximity and avoids accidents and collisions . It also enables audio alerts to the operator and the passer-by to flag up instant alarm. This enables the operators to enhance confidence with productivity where the average time of an operation to be shortened compared without the solution.
+OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$4,240.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 05</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'>$14,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 06</td>
-<td style='padding: 10px;'>$25,640.00</td>
-<td style='padding: 10px;'>$17,684.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 08</td>
-<td style='padding: 10px;'>$34,120.00</td>
-<td style='padding: 10px;'>$23,512.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OOM_Ecommerce_Solution - Value Plan</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 
 ## Vendor Information
 
- Company Name : NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
+ Company Name: OOm Pte Ltd<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

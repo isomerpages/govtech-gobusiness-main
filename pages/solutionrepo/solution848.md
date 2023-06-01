@@ -1,15 +1,15 @@
 ---
-title: 'Invisiron Cyber Defence'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution848
 ---
 
-## Invisiron Cyber Defence
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,31 @@ Invisiron's UTM solution mitigates cyber-attacks automatically and is able to de
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +57,7 @@ Invisiron's UTM solution mitigates cyber-attacks automatically and is able to de
 
 ## Vendor Information
 
- Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

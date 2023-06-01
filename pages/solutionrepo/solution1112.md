@@ -1,15 +1,15 @@
 ---
-title: 'Gravis'
+title: 'Psoft Accounting Systems Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1112
 ---
 
-## Gravis
+## Psoft Accounting Systems Version 7
 
 ## Overview
 
 **Description**
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+Psoft Accounting software help SMEs keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Psoft Accounting software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Basic Plan (Up to 5 users)</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Single User - Peppol Ready)</td>
+<td style='padding: 10px;'>$1,520.00</td>
+<td style='padding: 10px;'>$1,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Premium Plan (Up to 10 users)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Three Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'>$3,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Enterprise Plan (Up to 30 users)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Five Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Single User with PEPPOL)</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Three Users with PEPPOL)</td>
+<td style='padding: 10px;'>$6,660.00</td>
+<td style='padding: 10px;'>$5,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ONE X GROUP PTE. LTD.<br>Web URL: https://www.onextech.com.sg/work <br><br>Contact Hotline: 91198609 <br><br>Contact Email: info@onextech.com <br><br>
+ Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'SQL Account Version 5'
+title: 'ABSS'
 permalink: /productivity-solutions-grant/solutionrepo/solution224
 ---
 
-## SQL Account Version 5
+## ABSS
 
 ## Overview
 
 **Description**
 
-SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
+
+SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ SQL Account includes full range of business Accounting features including AR, AP
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - Single User with InvoiceNow</td>
+<td style='padding: 10px;'>$1,903.74</td>
+<td style='padding: 10px;'>$1,903.74</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Advance - 1 User)</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$2,744.86</td>
+<td style='padding: 10px;'>$2,744.86</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Advance - 3 Users) </td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 5 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$3,677.57</td>
+<td style='padding: 10px;'>$3,677.57</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Advance - 5 Users)</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - Single User with InvoiceNow</td>
+<td style='padding: 10px;'>$3,777.57</td>
+<td style='padding: 10px;'>$3,777.57</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Advance - 8 Users)</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$4,534.58</td>
+<td style='padding: 10px;'>$4,534.58</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ SQL Account includes full range of business Accounting features including AR, AP
 
 ## Vendor Information
 
- Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
+ Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br>Contact Hotline: +6565056582 <br>Contact Email: cs.sg@abssasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'BIZ FNB DIGITAL ORDERING'
+title: 'cuteOffice ERP for PCM Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 
-## BIZ FNB DIGITAL ORDERING
+## cuteOffice ERP for PCM Version 2.0
 
 ## Overview
 
 **Description**
 
-CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
+cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
+
+The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +25,38 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory</td>
-<td style='padding: 10px;'>$11,580.00</td>
-<td style='padding: 10px;'>$10,424.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite >150 Users</td>
+<td style='padding: 10px;'>$29,400.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Inventory + CRM</td>
-<td style='padding: 10px;'>$13,580.00</td>
-<td style='padding: 10px;'>$11,424.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 150 Users</td>
+<td style='padding: 10px;'>$23,200.00</td>
+<td style='padding: 10px;'>$22,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIZ FNB DIGITAL ORDERING - BIZ FNB V3.5 Basic</td>
-<td style='padding: 10px;'>$8,460.00</td>
-<td style='padding: 10px;'>$8,356.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Biz_Fnb_20210467_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 100 Users</td>
+<td style='padding: 10px;'>$17,600.00</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 20 Users</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +66,7 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 
 ## Vendor Information
 
- Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br><br>Contact Hotline: +6592709558 <br><br>Contact Email: admin@COOBIZIT.COM <br><br>
+ Company Name: Cutech Infocomm Solutions Pte Ltd<br>Web URL: www.cutechgroup.com/it <br><br>Contact Hotline: 69042340 <br><br>Contact Email: jnaveen@cutechgroup.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

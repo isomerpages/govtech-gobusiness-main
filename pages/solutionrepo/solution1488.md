@@ -1,15 +1,15 @@
 ---
-title: 'TessaCloud DMS'
+title: 'Ecommerce Online Shop with Custom Design'
 permalink: /productivity-solutions-grant/solutionrepo/solution1488
 ---
 
-## TessaCloud DMS
+## Ecommerce Online Shop with Custom Design
 
 ## Overview
 
 **Description**
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
+Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Basic)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Premium)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 
 ## Vendor Information
 
- Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
+ Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

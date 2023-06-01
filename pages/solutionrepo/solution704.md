@@ -1,15 +1,15 @@
 ---
-title: 'goTruck!Hub'
+title: 'DM I Concept Innovation Digital Marketing Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution704
 ---
 
-## goTruck!Hub
+## DM I Concept Innovation Digital Marketing Version 1.0
 
 ## Overview
 
 **Description**
 
-goTruck!Hub is an internet-based Transport Management System, specifically tailored for medium and heavy logistics. Simplify everything and manage your operations using just your mobile phone.
+I Concept offers Social Media, SEM and GDN campaigns to help brands to get on digital platforms and reach? out to a vast audience. More than just digital ads - A great digital marketing strategy is the core and driving force of any digital campaign. Built to attain marketing goals, a multi-channel and 360- creative approach to digital marketing with a stronger purpose - to raise online visibility, increase quality traffic and ultimately generate greater brand loyalty on digital platforms.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ goTruck!Hub is an internet-based Transport Management System, specifically tailo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 10 vehicles</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SM + SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 20 vehicles</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 30 vehicles</td>
-<td style='padding: 10px;'>$17,800.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 30 vehicles</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'>$21,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 50 vehicles</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$35,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SM + GDN (3 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ goTruck!Hub is an internet-based Transport Management System, specifically tailo
 
 ## Vendor Information
 
- Company Name: GoTruck Pte Ltd<br>Web URL: www.gotruck.co <br><br>Contact Hotline: 66452643 <br><br>Contact Email: ENQUIRY@GOTRUCK.CO <br><br>
+ Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

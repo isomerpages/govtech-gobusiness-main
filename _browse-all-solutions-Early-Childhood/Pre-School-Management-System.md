@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution422' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution383' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
 <td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution927' target='_blank'>LittleLives 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution861' target='_blank'>LittleLives 4.5</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 </table>

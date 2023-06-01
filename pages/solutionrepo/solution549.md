@@ -1,17 +1,15 @@
 ---
-title: 'DST E-Commerce'
+title: 'QuickHR (eScheduling)'
 permalink: /productivity-solutions-grant/solutionrepo/solution549
 ---
 
-## DST E-Commerce
+## QuickHR (eScheduling)
 
 ## Overview
 
 **Description**
 
-The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
-
-WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
+Designed with security, stability and scalability in mind, QuickHR eScheduling enables businesses to efficiently manage attendance, overtime, timesheets, rosters/ shifts and schedules through an automated experience with built-in QuickHR HRMS Integration. QuickHR eScheduling is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based eScheduling provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,48 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST E-Commerce - Premium Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START ESCH (25 Headcounts)</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT ESCH (50 Headcounts)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING ESCH (100 Headcounts)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE ESCH (150 Headcounts)</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR ESCH (200 Headcounts)</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
+ Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

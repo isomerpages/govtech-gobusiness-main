@@ -28,23 +28,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1002' target='_blank'>MuRho Inventory Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution936' target='_blank'>MuRho Inventory Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1211' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1130' target='_blank'>Tracee Inventory Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1297' target='_blank'>Million Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1207' target='_blank'>Million Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1332' target='_blank'>RFID Inventory Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1242' target='_blank'>RFID Inventory Management System</a><br></td>
 <td>SATO Asia Pacific Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>AIMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1450' target='_blank'>AIMS</a><br></td>
 <td>TUNITY TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

@@ -1,32 +1,31 @@
 ---
-title: 'Shopcada POS Version 2'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1623
 ---
 
-## Shopcada POS Version 2
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offering omni-channel support to integrate offline stores with online sales within a centralized backend dashboard. The integrated CRM tools such as membership system, discounts, loyalty points offer better omni-channel shopping experience.  With a single backend, synchronizing products, inventory, and customers between outlets, and accessing management reports is made easier.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada POS Version 2 - Annual License</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'>$3,998.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Unit height: min. 2.5m<br>Carrier tray width: min. 1.3m<br>Load capacity per tray: min. 150kg<br>With operator Interface (Console)<br>With software linked to Inventory Management System<br><br></td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offerin
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

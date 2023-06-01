@@ -1,15 +1,15 @@
 ---
-title: 'Simpliify''s E-commerce Version 1'
+title: 'Taidii SMART IT Solution for Preschool (PMS + E-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1356
 ---
 
-## Simpliify''s E-commerce Version 1
+## Taidii SMART IT Solution for Preschool (PMS + E-form)
 
 ## Overview
 
 **Description**
 
-Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas. The solution covers most of the operational perspectives of the school such as attendance taking, parent-school communication, E-enrollment, E-form and finance. The product will help the schools to reduce 70% of administrative time and the overall time taken for parent-school communication can be reduced about 50%.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Premium</td>
+<td style='padding: 10px;'>$13,400.00</td>
+<td style='padding: 10px;'>$13,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package with MW integration</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Standard</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Basic</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Advance</td>
+<td style='padding: 10px;'>$11,600.00</td>
+<td style='padding: 10px;'>$11,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+ Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

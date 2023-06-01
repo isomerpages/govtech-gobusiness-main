@@ -1,15 +1,15 @@
 ---
-title: 'ePSProfessional Version 1.7'
+title: 'Eurostop Omni-Channel Retail Management System Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution585
 ---
 
-## ePSProfessional Version 1.7
+## Eurostop Omni-Channel Retail Management System Version 10
 
 ## Overview
 
 **Description**
 
-eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
+A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ eFusion Technology are specialists in building ecommerce websites with 18 years'
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePSProfessional Version 1.7 - SME Premium</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ eFusion Technology are specialists in building ecommerce websites with 18 years'
 
 ## Vendor Information
 
- Company Name: Efusion Technology Pte Ltd<br>Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
+ Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Software'
+title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution719
 ---
 
-## Xero Cloud Accounting Software
+## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software and Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software, Setup and Training</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software Setup and Migration</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software Setup, Migration and Training</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
+<td style='padding: 10px;'>$10,359.99</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg 
+ Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

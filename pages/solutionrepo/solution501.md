@@ -1,15 +1,17 @@
 ---
-title: 'DNS - Xero Cloud Accounting Software'
+title: 'DM Duo Studio Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution501
 ---
 
-## DNS - Xero Cloud Accounting Software
+## DM Duo Studio Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-XERO is a cloud based accounting software that enables small businesses to automate everyday administrative tasks, work from anywhere and anytime. With over 3 Million + subscribers worldwide, XERO helps to transform the way business is done. Get a full picture of your financials in real time and collaborate anywhere across the world.
+Duo Studio is a local independent creative agency established in 2015 by founder and creative director, Stephanie Phua. Today, Duo is made up of 20+ young and nimble members in Singapore and Malaysia.
+
+Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business's revenue so as to provide a high ROI and ROAS.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,27 @@ XERO is a cloud based accounting software that enables small businesses to autom
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'>$1,158.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 1 - SMA Facebook and SMA Instagram Static Package [3 months]</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Everyday</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Upsize</td>
-<td style='padding: 10px;'>$4,224.00</td>
-<td style='padding: 10px;'>$3,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 2 - SMA Facebook and SMA Instagram Video package [3 months]</td>
+<td style='padding: 10px;'>$12,642.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:D Next Stop Pte Ltd<br>Web URL: www.dnextstop.com <br>Contact Hotline: 83415321 <br>Contact Email: enquiry@dnextstop.com
+ Company Name: Duo Studio Pte. Ltd.<br>Web URL: www.duo.social <br>Contact Hotline: 88151230 <br>Contact Email: hello@duo.social <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

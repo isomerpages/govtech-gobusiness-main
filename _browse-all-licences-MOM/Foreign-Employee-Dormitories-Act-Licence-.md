@@ -10,7 +10,7 @@ Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/0e257a0a-e903-42d1-b438-770d5ec0d1e3" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/2bbd5f45-ee04-4d78-bd90-c412e9cbea99" type="primary" %}
 
 <H3>Application Details</H3>
 
