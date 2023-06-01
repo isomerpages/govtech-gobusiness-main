@@ -4,5 +4,6 @@ collections:
     order:
       - back-to-all-psg-solutions.md
       - Unified-Threat-Management.md
-      - EndPoint-Protection-Platform.md
       - Managed-Detection-and-Response.md
+      - EndPoint-Protection-Platform.md
+      - Cyber-Security---Unified-Threat-Management.md

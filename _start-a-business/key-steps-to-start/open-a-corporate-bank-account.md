@@ -8,9 +8,9 @@ third_nav_title: Key Steps to Start
 
 ![Bank Account](/images/start/StartSJ_CorporateBankAccount.jpg)
 
-For Companies and Limited Liability Partnerships, opening a corporate bank account is a must.
+Opening a corporate bank account is strongly encouraged.
 
-It is optional for Sole Proprietorships, Partnerships and Limited Partnerships. However, a corporate bank account allows you to keep your business expenses separate from your personal savings and also helps you track your business cash flows, which will come in handy when filing taxes.
+ A corporate bank account allows you to keep your business transactions separate from your personal transactions and also helps you to track your business cash flows/income and expenses, which will come in handy when filing your income tax returns.
 
 ### Requirements
 
