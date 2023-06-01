@@ -16,6 +16,7 @@ As a start, 20 IA/IP services will be featured on GoBusiness IP Grow, grouped in
 
 {% include panel-stretched-featurelink.html image="<img style='width: 59px; height: auto; display: inline-block;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for IA/IP service needs" description="Not sure what IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
+<a name='ip-search-and-registration'></a>
 
 ### IP Search and Registration
 
@@ -54,6 +55,8 @@ As a start, 20 IA/IP services will be featured on GoBusiness IP Grow, grouped in
 </tr>
 </table>
 
+<a name='strategy-and-management'></a>
+
 ### Strategy and Management
 
 <table>
@@ -87,6 +90,8 @@ As a start, 20 IA/IP services will be featured on GoBusiness IP Grow, grouped in
 </tr>
 </table>
 
+<a name='commercialisation-and-financing'></a>
+
 ### Commercialisation and Financing
 
 <table>
@@ -111,6 +116,8 @@ As a start, 20 IA/IP services will be featured on GoBusiness IP Grow, grouped in
 <td>Provides services relating to patent drafting and registration, including advice on the validity or infringement of patents.</td>
 </tr>
 </table>
+
+<a name='others'></a>
 
 ### Others
 
