@@ -1,38 +1,59 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Deskera ERP Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1786
 ---
 
-## Form Fill Seal Machine
+## Deskera ERP Version 10
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+SF Technologies Pte Ltd is a Platinum Channel Partner of Deskera providing expertise in digitalizing business and support in digital transformation.
 
-Cost of equipment  capped at $20,500 per unit 
+Deskera is an integrated platform that enables SMEs to scale faster with fewer tools. From convenience stores to manufacturing plants, hundreds of thousands of small and medium enterprises use Deskera to manage accounting, inventory, sales pipeline, and marketing automation.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (3 Licenses - up to 18 Users)</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (5 Licenses - up to 30 Users)</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (10 Licenses - up to 60 Users)</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:SF TECHNOLOGIES PTE. LTD.<br>Web URL: https://sftechnologies.co/deskera <br>Contact Hotline: 81334739 <br>Contact Email: info@sftechnologies.co 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

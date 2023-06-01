@@ -1,16 +1,15 @@
 ---
-title: 'Cloudable Data Protection Suite-Powered by Acronis'
+title: 'Qoqolo Preschool E-Form'
 permalink: /productivity-solutions-grant/solutionrepo/solution382
 ---
 
-## Cloudable Data Protection Suite-Powered by Acronis
+## Qoqolo Preschool E-Form
 
 ## Overview
 
 **Description**
 
-Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
-It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
+Qoqolo is a School Management System with a full suite of digital services: student management, parents' engagement, e-portfolio, centre operations management, staff management, fee management and more.  Qoqolo E-Form solution provides a hassle-free online registration service for parents to enrol their children directly and allow preschools to manage the enrolment process efficiently. It supports form validation, uploading of supporting documents and ECDA Form
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,10 @@ It protects your entire business through a layered protection approach, an innov
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package B- Advanced Security + Advanced Management 25 Licences</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package C- Advanced Security + Advanced Management 50 Licences</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package D- Advanced Security + Advanced Management 100 Licences</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences</td>
-<td style='padding: 10px;'>$14,000.00</td>
-<td style='padding: 10px;'>$14,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package</td>
+<td style='padding: 10px;'>$1,680.00</td>
+<td style='padding: 10px;'>$1,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +36,7 @@ It protects your entire business through a layered protection approach, an innov
 
 ## Vendor Information
 
- Company Name: Cloudable Solutions Pte Ltd<br>Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
+ Company Name: CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

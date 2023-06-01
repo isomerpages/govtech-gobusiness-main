@@ -1,19 +1,16 @@
 ---
-title: 'Getz F&B Omni Channel Solution Version 2'
+title: 'E-Form (HAVSchool) Version 4.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution676
 ---
 
-## Getz F&B Omni Channel Solution Version 2
+## E-Form (HAVSchool) Version 4.1
 
 ## Overview
 
 **Description**
 
-Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
-
-Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
-
-Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
+HAVSMART EForm 
+The Module automatically updates ECDA's Centre Management System with required information that were input into the HAVSchool Preschool Management System.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +24,17 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSmart E-FORM +</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Havence_eform_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +44,7 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email:  connect@getz.co
+ Company name:HAVENCE PORTAL LLP<br>Web URL: https://havschool.com/ <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

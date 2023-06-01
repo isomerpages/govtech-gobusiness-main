@@ -1,17 +1,15 @@
 ---
-title: '1ECommerce'
+title: 'HubSpot'
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
-## 1ECommerce
+## HubSpot
 
 ## Overview
 
 **Description**
 
-1ECommerce by Bona Technologies is a bespoke website solution specialising in WooCommerce powered by WordPress which will create a new business channel for SMEs to GoDigital and increase their sales revenue with minimal cost. 
-
-1ECommerce has powerful promotion capabilities to drive customer retention and can be integrated with 1ERP - Singapore ERP Software for efficient and streamlined business processes.
+Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,41 @@ permalink: /productivity-solutions-grant/solutionrepo/solution302
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)</td>
+<td style='padding: 10px;'>$14,220.00</td>
+<td style='padding: 10px;'>$13,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Parallax</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
+<td style='padding: 10px;'>$16,220.00</td>
+<td style='padding: 10px;'>$15,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Promotion</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)</td>
+<td style='padding: 10px;'>$20,446.00</td>
+<td style='padding: 10px;'>$19,346.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Omni-Channel</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)</td>
+<td style='padding: 10px;'>$23,440.00</td>
+<td style='padding: 10px;'>$22,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company Name: Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
