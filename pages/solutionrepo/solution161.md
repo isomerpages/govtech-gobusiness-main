@@ -1,15 +1,15 @@
 ---
-title: 'ALIGN HRSS - PAYROLL OUTSOURCING'
+title: 'Alpha eCommerce Booster Premium Version 2.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution161
 ---
 
-## ALIGN HRSS - PAYROLL OUTSOURCING
+## Alpha eCommerce Booster Premium Version 2.8
 
 ## Overview
 
 **Description**
 
-Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs can entrust their payroll needs to our dedicated accounts manager who would deliver on monthly payroll processing, employee data management, benefits & claims, and more. With payroll outsourcing, they can contain cost, manage employer-related risk, reduce administrative burdens, and maintain information confidentially.
+Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 20 Employees</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 30 Employees</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 50 Employees</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 100 Employees</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 200 Employees</td>
-<td style='padding: 10px;'>$53,000.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AlphabetSix_Alpha_eCommerce_Booster_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 
 ## Vendor Information
 
- Company Name: Align Group of Companies Pte Ltd<br>Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br><br>Contact Hotline: 62225224 <br><br>Contact Email: service@aligngroup.asia <br><br>
+ Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

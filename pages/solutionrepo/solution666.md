@@ -1,15 +1,18 @@
 ---
-title: 'KEGMIL FSM'
+title: 'DM Hashmeta Digital Enablement Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution666
 ---
 
-## KEGMIL FSM
+## DM Hashmeta Digital Enablement Packages
 
 ## Overview
 
 **Description**
 
-Kegmil is on a mission to empower millions of deskless field service professionals with superior technology & insights to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software streamlines and automates field activities for small to mid-sized maintenance firms who keep our world running from elevator to data center equipment servicing.
+Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta's own proprietary technologies. 
+
+The solutions offered to increase client's marketing effectiveness and efficiencies include the following:
+Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generation (SEO/SEM).
 
 ## Solution Packages Option(s)
 
@@ -23,38 +26,38 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package A - 10 Users</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Paid Advertising + Content Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package B - 25 Users</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Paid Advertising + Tik Tok Live Streaming [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package C - 40 Users</td>
-<td style='padding: 10px;'>$24,720.00</td>
-<td style='padding: 10px;'>$24,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Paid Advertising + Influencer Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package D - 60 Users</td>
-<td style='padding: 10px;'>$30,260.00</td>
-<td style='padding: 10px;'>$30,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Paid Advertising + Ecommerce Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package E - 100 Users</td>
-<td style='padding: 10px;'>$38,200.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Lead Generation (SEO+SEM) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +67,7 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 
 ## Vendor Information
 
- Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
+ Company name:Hashmeta Pte Ltd<br>Web URL: www.hashmeta.com<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
