@@ -21,7 +21,7 @@ Below are some guidelines for employers:
 
 Employers should note that environmental conditions may fluctuate throughout a work day and factor this into their risk assessments.
 
-<img src='/images/haze/haze-below100.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> <h4>24-Hour PSI: ≤ 100 (Good / Moderate)</h4>
+<img src='/images/haze/haze-below100.png' style='float:left; height:32px; width:auto;' aria-hidden='true'> #### 24-Hour PSI: ≤ 100 (Good / Moderate)
 
 <table>
 <tr>
