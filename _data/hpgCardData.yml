@@ -28,6 +28,10 @@
   text_3: Submit returns
   href_4: '/licences/find-licence-by-sector/?src=home_quicklinks'
   text_4: Licence guides
+  href_5: 'https://dashboard.gobusiness.gov.sg/verify-licence/?src=home_quicklinks'
+  text_5: Verify entity''s licence
+  is_new_5: true
+  target_5: _blank
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
 - icon: '/images/govassist.png'
@@ -61,3 +65,6 @@
   text_2: Accreditation
   href_3: '/gebiz-alerts/?src=home_quicklinks'
   text_3: GeBIZ Alerts
+  href_4: '/Haze/?src=home_quicklinks'
+  text_4: Haze
+  is_new_4: true
