@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - government-assistance//.keep
+      - compliance-milestone/.keep
       - compliance-milestone/compliance-guide-for-business.md
       - compliance-milestone/regulatory-milestones-for-companies.md
       - compliance-milestone/regulatory-milestones-for-sole-proprietor-partnership-SPP.md
