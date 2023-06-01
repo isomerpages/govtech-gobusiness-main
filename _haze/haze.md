@@ -1,6 +1,6 @@
 ---
 title: Haze Advisory for Businesses
-permalink: /covid/
+permalink: /haze/
 ---
 
 ## Protecting employees from the effects of haze
