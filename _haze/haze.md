@@ -58,6 +58,43 @@ Employers should note that environmental conditions may fluctuate throughout a w
 </tr>
 </table>
 
+#### <img src='/images/haze/haze-101to200.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> 24-Hour PSI: 101 - 200 (Unhealthy)
+
+<table>
+<tr>
+    <th>
+        <img src='/images/haze/healthy-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Healthy employees
+    </th>
+    <td>
+        Reduce prolonged or strenuous outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/elderly-pregnant-employees.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Elderly, pregnant employees
+    </th>
+    <td>
+        Minimise prolonged or strenuous outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/employees-w-chronic-lung-heart-disease.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> Employees with chronic lung disease, heart disease
+    </th>
+    <td>
+        Avoid prolonged or strenuous outdoor work
+    </td>
+</tr>
+<tr>
+    <th>
+        <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> General measures to be taken by employers
+    </th>
+    <td>
+        Take risk mitigating measures such as use of mechanical aids, job rotation, instituting indoor rest breaks, ensuring adequate hydration, etc.
+    </td>
+</tr>
+</table>
+
 ### For more information
 
 [Latest haze situation](https://www.haze.gov.sg/){:target="_blank"}{:rel="noopener"} from National Environment Agency (NEA)
