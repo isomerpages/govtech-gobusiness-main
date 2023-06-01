@@ -1,26 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - KPMG Services Pte Ltd.'
+title: 'Lunchbox Smart Restaurant Solution Version 1.1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution905
 ---
 
-## Job Redesign Consultancy - KPMG Services Pte Ltd.
+## Lunchbox Smart Restaurant Solution Version 1.1.0
 
 ## Overview
 
 **Description**
 
-KPMG People and Change team in Singapore offers a range of services that enables organisation to unlock competitive advantage in today's environment.
-
-KPMG provides customized support in below core areas:
--	Organisation Design
--	Job Redesign
--	Talent Management
--	HR Transformation
--	Strategic Workforce Transformation and Workforce Shaping and Optimisation
--	Behavioural Change Management
--	Employee Experience
--	Rewards Advisory
--	Learning and Development
+Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
 
 ## Solution Packages Option(s)
 
@@ -34,10 +23,31 @@ KPMG provides customized support in below core areas:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KPMG Services Pte Ltd.</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/KPMG_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, XSmall</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Large (Kiosk)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Jumbo (Kiosk)</td>
+<td style='padding: 10px;'>$13,050.00</td>
+<td style='padding: 10px;'>$12,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Mini (Kiosk)</td>
+<td style='padding: 10px;'>$1,940.00</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +57,7 @@ KPMG provides customized support in below core areas:
 
 ## Vendor Information
 
- Company name: KPMG Services Pte. Ltd.<br>UEN No: 200003956G<br>Web URL: https://home.kpmg/sg/en/<br>Contact Name: Ms Emily Fok, Assistant Director <br>Contact Email: emilyfok@kpmg.com.sg <br>Contact Number: 9619 6236
+ Company name:Lunchbox Pte Ltd<br>Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
