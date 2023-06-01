@@ -40,7 +40,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 01 Jun 2023 8pm to 11.30pm. We apologise for the inconvenience caused.",
 
   //[PWMark]
-  "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance from 1 Jun 2023 7pm to 3 Jun 2023 3:30am. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance from 1 Jun 2023 7pm to 3 Jun 2023 3:30am. We apologise for the inconvenience caused.",
 
   //[**SPF DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 4 Jun 2023 from 12:01am to 8am. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
