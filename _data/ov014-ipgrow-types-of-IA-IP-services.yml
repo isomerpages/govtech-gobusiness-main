@@ -1,0 +1,14 @@
+- anchor: '#ip-related-service-areas'
+  anchor_text: IP-related service areas
+- anchor: '#industry-focus'
+  anchor_text: Industry focus
+- anchor: '#office-locations'
+  anchor_text: 'Office locations'
+- anchor: '#client-segments'
+  anchor_text: 'Client segments'
+- anchor: '#testimonials'
+  anchor_text: 'Testimonials'
+- anchor: '#case-studies'
+  anchor_text: 'Case studies'
+- anchor: '#key-practice-experts'
+  anchor_text: 'Key practice experts'
