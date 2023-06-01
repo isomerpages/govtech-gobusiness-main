@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: IA/IP Resources
 permalink: /intellectual-property/ip-grow/resources
 third_nav_title: Intellectual Property
 ---
