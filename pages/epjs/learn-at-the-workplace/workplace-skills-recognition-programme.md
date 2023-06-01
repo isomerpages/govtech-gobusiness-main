@@ -29,14 +29,30 @@ For enterprises that require assistance, NACE is able to help you build workplac
 
 Attaining the WPL:READY Mark means that an enterprise has a structured workplace learning process and is practising it. To attain the WPL:READY Mark, enterprises will need to go through an assessment process conducted by NACESMEs and non-SMEs enjoy subsidies of 90% and 70% of the assessment fees respectively. 
 
-i) Assessment Fees for SMEs 
-**Before** applicable SSG subsidy & excluding prevailing GST - $1,800
-**After** applicable SSG subsidy & excluding prevailing GST- $180
+---
 
-ii) Assessment Fees for Non-SMEs 
-**Before** applicable SSG subsidy & excluding prevailing GST - $3,600
-**After** applicable SSG subsidy & excluding prevailing GST- $1,080
-
+<table>
+<tr>
+<td></td>
+<th><b>SMEs</b></th>
+<th><b>Non-SMEs</b></th>
+</tr>
+<tr>
+<th><b>Assessment Fees
+(before applicable SSG subsidy & excluding prevailing GST)</b></th>
+<td>$1,800</td>
+<td>$3,600</td>
+</tr>
+<tr>
+<th><b>Assessment Fees
+(after applicable SSG subsidy & excluding prevailing GST)</b></th>
+<td>$180</td>
+<td>$1,080</td>
+</tr>
+<tr>
+</tr>
+</table>
+---
 
 **Step 2: Certify employees' skills acquired at the workplace**
 
