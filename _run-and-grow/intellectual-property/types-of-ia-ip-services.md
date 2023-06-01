@@ -1,6 +1,6 @@
 ---
 title: Types of IA/IP Services
-permalink: /intellectual-property/types-of-ia-ip-services
+permalink: /intellectual-property/ip-grow/types-of-ia-ip-services
 third_nav_title: Intellectual Property
 ---
 

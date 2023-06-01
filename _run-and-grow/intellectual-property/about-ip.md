@@ -1,6 +1,6 @@
 ---
 title: About Intellectual Property
-permalink: /intellectual-property/
+permalink: /intellectual-property/ip-grow/
 third_nav_title: Intellectual Property
 ---
 

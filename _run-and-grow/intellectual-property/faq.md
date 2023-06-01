@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /business-grants-portal/faq/
+permalink: /intellectual-property/ip-grow/faq/
 third_nav_title: Intellectual Property
 ---
 <meta http-equiv="REFRESH" content="0;url=/business-grants-portal-faq/">

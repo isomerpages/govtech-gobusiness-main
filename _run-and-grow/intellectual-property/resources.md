@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /intellectual-property/resources
+permalink: /intellectual-property/ip-grow/resources
 third_nav_title: Intellectual Property
 ---
 
