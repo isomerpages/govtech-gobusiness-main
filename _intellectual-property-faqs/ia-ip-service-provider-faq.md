@@ -1,6 +1,6 @@
 ---
 title: IA/IP Service Provider FAQ
-permalink: /intellectual-property-faqs/gobusiness-ip-grow-faq
+permalink: /intellectual-property-faqs/ia-ip-service-provider-faq
 ---
 
 ### IA/IP Service Provider Support
