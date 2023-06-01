@@ -92,31 +92,31 @@ Contact: Ms Goh Siew Ngee [goh_siew_ngee@aci.edu.sg](mailto:goh_siew_ngee@aci.ed
 <td>1</td>
 <td>Product Advisory</td>
 <td>1</td>
-<td>270</td>
+<td>$270</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Service Challenges</td>
 <td>1</td>
-<td>270</td>
+<td>$270</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Service Leadership</td>
 <td>1</td>
-<td>270</td>
+<td>$270</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Visual Merchandising Presentation</td>
 <td>1.5</td>
-<td>270</td>
+<td>$270</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Customer Experience Management</td>
 <td>1</td>
-<td>270</td>
+<td>$270</td>
 </tr>
 <tr>
 </tr>
