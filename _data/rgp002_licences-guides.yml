@@ -1,18 +1,18 @@
-- banner: <img src="/images/grow/eventorganisers.jpg">
+- banner: <img style="width:410px; height:150px;" src="/images/grow/eventorganisers.jpg">
   title: For event organisers
   is_new: true
   description: The Guide for Organising Events provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Box.
   url: /gobiz-guides/guide-for-organising-events/?src=run&grow_licences_fs
   text: Go to Guide for Organising Events
 
-- banner: <img src="/images/grow/puc.jpg">
+- banner: <img style="width:410px; height:150px;" src="/images/grow/puc.jpg">
   title: For checking premises use
   description: Check if a property is approved for your intended use with our e-Adviser for Premises Use.
   url: https://eadviser.gobusiness.gov.sg/premisesusecheck/?src=run&grow_licences_fs
   url-new-tab: true
   text: Go to e-Adviser for Premises Use
 
-- banner: <img src="/images/grow/foodservices.jpg">
+- banner: <img style="width:410px; height:150px;" src="/images/grow/foodservices.jpg">
   title: For new food service business owners
   description: If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
   url: https://foodservices.gobusiness.gov.sg/licences/foodservices/?src=run&grow_licences_fs
