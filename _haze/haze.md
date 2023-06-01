@@ -127,7 +127,7 @@ Employers should note that environmental conditions may fluctuate throughout a w
         <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> General measures to be taken by employers
     </th>
     <td>
-        Take risk mitigating measures such as use of mechanical aids, job rotation, instituting indoor rest breaks, ensuring adequate hydration, etc.
+        Take risk mitigating measures such as use of mechanical aids, job rotation, instituting indoor rest breaks, ensuring adequate hydration, etc.<br><br>
 
         If prolonged or strenuous outdoor work is not avoidable, and an employer still requires an employee to do so due to extenuating circumstances, the employer is strongly urged to provide mask.
     </td>
@@ -166,9 +166,9 @@ Employers should note that environmental conditions may fluctuate throughout a w
         <img src='/images/haze/general-measures-by-employers.png' style='float:left; height:32px; width:auto; margin-right:16px; vertical-align:middle;' aria-hidden='true'> General measures to be taken by employers
     </th>
     <td>
-        Take additional risk mitigating measures such as job redeployment, reducing the intensity and duration of outdoor work, institute regular breaks or deferment of non-essential jobs.
+        Take additional risk mitigating measures such as job redeployment, reducing the intensity and duration of outdoor work, institute regular breaks or deferment of non-essential jobs.<br><br>
 
-        If outdoor work is not avoidable, and an employer still requires an employee to do so due to extenuating circumstances, masks or appropriate respirators (e.g. full face respirators for prolonged outdoor work at 24-hours PSI > 400) should be provided.
+        If outdoor work is not avoidable, and an employer still requires an employee to do so due to extenuating circumstances, masks or appropriate respirators (e.g. full face respirators for prolonged outdoor work at 24-hours PSI > 400) should be provided.<br><br>
 
         Risk assessment should consider the additional risk posed by poor visibility for work activities such as lifting operations involving tower and mobile cranes.
     </td>
