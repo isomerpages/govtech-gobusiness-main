@@ -177,8 +177,9 @@ Employers should note that environmental conditions may fluctuate throughout a w
 
 ### For more information
 
-[Latest haze situation](https://www.haze.gov.sg/){:target="_blank"}{:rel="noopener"} from National Environment Agency (NEA)
-[Haze guidelines and advisory for work](https://www.mom.gov.sg/haze){:target="_blank"}{:rel="noopener"} from Ministry of Manpower (MOM)
+- [Latest haze situation](https://www.haze.gov.sg/){:target="_blank"}{:rel="noopener"} from National Environment Agency (NEA)
+
+- [Haze guidelines and advisory for work](https://www.mom.gov.sg/haze){:target="_blank"}{:rel="noopener"} from Ministry of Manpower (MOM)
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
