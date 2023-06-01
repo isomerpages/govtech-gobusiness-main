@@ -5,57 +5,45 @@ third_nav_title: IP Search and Registration
 ---
 
 ## IP Database
-## Overview
 
-**Support Level and Conditions**
+<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
 
-Up to 50% for SMEs, N.A. for non-SMEs
+### What is a patent?
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
 
-**Recommended courses**
+### Benefits of patent agent services
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
+Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513121'  target='_blank' rel='noopener'>1. Sales Target Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2013500351'  target='_blank' rel='noopener'>2. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020501649'  target='_blank' rel='noopener'>3. Effective Digital Marketing and Sales</a><br>
+<img src='/images/ipgrow/ipservices/IPDatabase.png' aria-hidden='true'>
 
-## Pre-Approved Solutions
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
-<table>
-<tr>
-<th style='width: auto;'><b>Solutions Name</b></th>
-<th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution445' target='_blank'>Creative Sales and Order</a><br></td>
-<td>Creative E-World Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution864' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
-<td>Keep Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution954' target='_blank'>MEVO DMS 8.3</a><br></td>
-<td>MEVO Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1247' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br></td>
-<td>RHS Asia Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1340' target='_blank'>EzyProcure Version 2.0</a><br></td>
-<td>Singapore E-Business Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1618' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
-<td>WINAPP SOLUTIONS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1662' target='_blank'>Zeemart Supplier Hub</a><br></td>
-<td>Zeemart Pte Ltd</td>
-</tr>
-</table>
+---
 
-{% include banner-psg-survey.html %}
+### Connect with relevant service providers for Patent Agents
+
+**1 service providers listed.**
+
+Select a service provider below to view their profile and connect with them.
+
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP Database service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+
+#### Allen & Gledhill LLP
+
+Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of users on database in previous calendar year:</b> a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> a5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+
+---
+

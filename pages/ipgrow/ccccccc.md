@@ -1,13 +1,13 @@
 ---
-title: 'BBBBBBB'
-permalink: /intellectual-property/ip-grow/bbbbbbb/
+title: 'CCCCCCC'
+permalink: /intellectual-property/ip-grow/ccccccc/
 ---
 
-## BBBBBBB
+## CCCCCCC
 
-<img src='/images/ipgrow/companies/companyB.png' style='width: 25% !important' aria-hidden='true'>
+<img src='/images/ipgrow/companies/companyC.png' style='width: 25% !important' aria-hidden='true'>
 
-BBBB long descr
+CCCC long descr
 
 <b>Year Established in Singapore:</b> 1902
 

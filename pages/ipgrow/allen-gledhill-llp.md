@@ -32,27 +32,6 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <a name='ip-related-service-areas'></a>
 ### IP-related service areas
 
-**Patent Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: a5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a6</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Key practice expert(s) with Advanced Certificate in Training and Assessment (ACTA) or Advanced Certificate in Learning and Performance (ACLP) available a7</li>
-</ul>
-
-**Registered Design Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: b1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: b4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: b5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): b6</li>
-</ul>
-
 ---
 <a name='industry-focus'></a>
 ### Industry Focus

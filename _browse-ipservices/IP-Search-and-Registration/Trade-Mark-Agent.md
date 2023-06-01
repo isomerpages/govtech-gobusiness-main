@@ -5,33 +5,46 @@ third_nav_title: IP Search and Registration
 ---
 
 ## Trade Mark Agent
-## Overview
 
-**Support Level and Conditions**
+<<to update>>Suppose you have a new product with a unique design featuring a distinct shape, combination of colours, or pattern. If you want to prevent others from copying your design, this is where registered designs can come into play. 
 
-Up to 50% for SMEs, N.A. for non-SMEs
+### What is a registered design?
 
-This solution is supported by Enterprise Singapore (EnterpriseSG).
+A registered design gives you exclusive ownership of the visible appearance of your product. Some notable examples include the shape of a Volkswagen Beetle and the contours of an Apple iPhone. It is important to note that registered designs do not protect the functional aspects of a product, which may require patent protection instead.
 
-**Recommended courses**
+### Benefits of registered design agent services
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+To help your business protect its designs, registered design agents offer an array of services, including preparing and filing the design application and ensuring compliance with all the requirements for registration. 
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513643'  target='_blank' rel='noopener'>1. Data Analytics for Business Professionals</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2011500682'  target='_blank' rel='noopener'>2. Apply Project Management Skills</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019507826'  target='_blank' rel='noopener'>3. Driving Trade & Business with Enterprise Resource Planning</a><br>
+The scope of protection you receive is determined by how you represent your product design and the countries where you choose to file in. A registered design agent can advise on whether your design is suitable for registration, assist with decision-making, and facilitate the application process to help you secure the most appropriate degree of protection. 
 
-## Pre-Approved Solutions
+<img src='/images/ipgrow/ipservices/TradeMarkAgent.png' aria-hidden='true'>
 
-<table>
-<tr>
-<th style='width: auto;'><b>Solutions Name</b></th>
-<th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1629' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
-</tr>
-</table>
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
-{% include banner-psg-survey.html %}
+---
+
+### Connect with relevant service providers for Registered Design Agent
+
+**1 service providers listed.**
+
+Select a service provider below to view their profile and connect with them.
+
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Trade Mark Agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+
+#### Allen & Gledhill LLP
+
+Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> a5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+
+---
+
