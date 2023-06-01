@@ -1,15 +1,15 @@
 ---
-title: 'APPZPOS F&B Point of Sales Version 1.1'
+title: 'Aptsys - Digital Ordering Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution214
 ---
 
-## APPZPOS F&B Point of Sales Version 1.1
+## Aptsys - Digital Ordering Solutions
 
 ## Overview
 
 **Description**
 
-APPZPOS provides an all-in-one affordable and user-friendly digital ordering solutions for all types of F&B business including Fast Food and Restaurant mode. APPZPOS is a Singapore based solution which offers different modules like E-Waiter, QR Ordering, Web Ordering, KIOSK Self-Order, Kitchen display system KDS, E-Menu, CRM and loyalty, Inventory which are linked to the same backend and seamlessly integrated.
+Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ APPZPOS provides an all-in-one affordable and user-friendly digital ordering sol
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 E-Waiter Digital Ordering System)</td>
-<td style='padding: 10px;'>$3,768.00</td>
-<td style='padding: 10px;'>$3,768.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter Version 2.0</td>
+<td style='padding: 10px;'>$1,700.00</td>
+<td style='padding: 10px;'>$1,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 E-Waiter Digital Ordering System+ 1 Kitchen Display System)</td>
-<td style='padding: 10px;'>$5,748.00</td>
-<td style='padding: 10px;'>$5,748.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-waiter with Customer Relation Management System Version 2.0</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Web Online Ordering + Kitchen Display System)</td>
-<td style='padding: 10px;'>$5,848.00</td>
-<td style='padding: 10px;'>$5,448.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (2 E-Waiter Digital Ordering + QR Ordering + Web Online Ordering + 1 Kitchen Display)</td>
-<td style='padding: 10px;'>$10,696.00</td>
-<td style='padding: 10px;'>$8,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (2 KIOSK Customer Self-Ordering+ 1 KDS Digital Ordering System)</td>
-<td style='padding: 10px;'>$15,980.00</td>
-<td style='padding: 10px;'>$9,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_SOLUTIONS_APPZPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: APPZGATE SOLUTIONS PTE. LTD.<br>Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932235 <br>Contact Email: sales@appzgate.com <br>
+ Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

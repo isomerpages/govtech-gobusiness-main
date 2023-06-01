@@ -1,15 +1,15 @@
 ---
-title: 'AM8ZE ERP - VISTA'
+title: 'Quickbooks Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution172
 ---
 
-## AM8ZE ERP - VISTA
+## Quickbooks Online
 
 ## Overview
 
 **Description**
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 1</td>
+<td style='padding: 10px;'>$1,600.00</td>
+<td style='padding: 10px;'>$1,528.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (Unlimited Users)</td>
-<td style='padding: 10px;'>$22,300.00</td>
-<td style='padding: 10px;'>$22,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,528.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (Unlimited Users)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,028.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,300.00</td>
-<td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Standard</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'>$6,028.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Advanced (Unlimited Users)</td>
-<td style='padding: 10px;'>$39,800.00</td>
-<td style='padding: 10px;'>$35,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Am8ze_Annex3_CRwef_09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Large</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,028.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://am8ze.com/erp/ <br><br>Contact Hotline: 96222206 <br><br>Contact Email: sales@am8ze.com <br><br>
+ Company Name: Angels Business Consulting Pte. Ltd.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

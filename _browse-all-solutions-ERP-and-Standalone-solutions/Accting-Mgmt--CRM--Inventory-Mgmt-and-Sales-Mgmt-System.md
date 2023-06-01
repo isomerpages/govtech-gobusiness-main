@@ -28,35 +28,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution135' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution127' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution140' target='_blank'>SAP Business One</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution132' target='_blank'>SAP Business One</a><br></td>
 <td>AFON Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution172' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution162' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution488' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution463' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution768' target='_blank'>SAP Business One, version for HANA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution729' target='_blank'>SAP Business One, version for HANA</a><br></td>
 <td>Inecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution960' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution921' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution970' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1624' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1547' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 </table>

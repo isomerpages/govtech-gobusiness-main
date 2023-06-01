@@ -1,15 +1,15 @@
 ---
-title: 'FirstCom Ecommerce Web Development'
+title: 'iREP Security System Version 4.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution637
 ---
 
-## FirstCom Ecommerce Web Development
+## iREP Security System Version 4.0
 
 ## Overview
 
 **Description**
 
-Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
+iREP Security is a mobile reporting, maintenance and monitoring system which use GPS and Live Images to enable your security officers to log incident or occurrence reports on sites, take attendance and protect premises with Body worn cameras.  Smart phones to carry out duties on site for the security guards and feedback to agency operation or management of the MCST immediately.  The system gives you a transparent view of works completed on site, providing quality assurance to the clients.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Development of an online shopping website with comprehensive functionalities to 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Ecommerce Web Development - Firstcom Ecommerce</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/firstcom_desensitised_annex3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 5 BWCs) Package 2</td>
+<td style='padding: 10px;'>$25,750.00</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 10 BWCs) Package 3</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'>$27,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 5 BWCs) Package 4</td>
+<td style='padding: 10px;'>$31,250.00</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 10 BWCs) Package 5</td>
+<td style='padding: 10px;'>$34,500.00</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Development of an online shopping website with comprehensive functionalities to 
 
 ## Vendor Information
 
- Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company Name: Gabkotech Innovations Pte Ltd<br>Web URL: http://www.gabkotech.com <br><br>Contact Hotline: 66844419 <br><br>Contact Email: info@gabkotech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

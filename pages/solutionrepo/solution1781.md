@@ -1,39 +1,71 @@
 ---
-title: 'Automated Dough Filler/Depositor'
+title: 'ASHOKATREE - Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1781
 ---
 
-## Automated Dough Filler/Depositor
+## ASHOKATREE - Xero Cloud Accounting
 
 ## Overview
 
 **Description**
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
-
-Cost of equipment capped at $25,000 per unit 
+Get ready for one of the best accounting solutions for small and medium size businesses (SME). Xero is one of the fastest-growing and popular cloud-based software solutions in the market. Thanks to its ease of use and versatility, Xero is packed with features and integrations that make it suitable for various businesses and sectors. SME currently exploring accounting solution may connect with Ashoka Tree Associates to learn more about Xero. Ashoka Tree Associates is a certified Xero advisor.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Empower</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Excellence</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:ASHOKA TREE ASSOCIATES PTE. LTD.<br>Web URL: www.ashokatree.com.sg <br>Contact Hotline: 69516732 <br>Contact Email: johnny@ashokatree.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

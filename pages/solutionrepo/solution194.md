@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
+title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution194
 ---
 
-## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0
 
 ## Overview
 
 **Description**
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders and Delivery. The end-to-end solutions include integration with POS, Self-Ordering Kiosk, Kitchen Management/Display Systems, Rewards (points system, e-vouchers, e-gift cards), Online Payment with multiple payment gateways, Pay at Table, Real Time Menu controls, Data Analytics, amongst others.   AppsPOS also provides e-waiter solution for dine in restaurants to assist customers in ordering.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Basic)</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Advanced)</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - Self Ordering Kiosk</td>
+<td style='padding: 10px;'>$9,240.00</td>
+<td style='padding: 10px;'>$9,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR ordering (Standard)</td>
+<td style='padding: 10px;'>$9,680.00</td>
+<td style='padding: 10px;'>$9,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR Ordering (Premium)</td>
+<td style='padding: 10px;'>$11,530.00</td>
+<td style='padding: 10px;'>$11,510.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
+ Company Name: AppsPOS Pte Ltd<br>Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'DM RHAD Digital Marketing Package Version 1'
+title: 'RFID Inventory Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## DM RHAD Digital Marketing Package Version 1
+## RFID Inventory Management System
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
+Many SMEs manage, track and stock take their inventory and assets manually. Long manual processing time repeatedly leads to inefficiency and errors that slows down the speed of operation and increases the cost of business. SATO's RFID-based Inventory Management System(ITS) helps businesses to better manage, track and audit their inventory and assets. This will lead to improvement in productivity and traceability, and minimizing of errors in the operation.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1242
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - LITE</td>
+<td style='padding: 10px;'>$13,500.00</td>
+<td style='padding: 10px;'>$11,013.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - PROFESSIONAL</td>
+<td style='padding: 10px;'>$39,000.00</td>
+<td style='padding: 10px;'>$14,013.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - STANDARD</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'>$13,513.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1242
 
 ## Vendor Information
 
- Company Name: RHAD Pte. Ltd<br>Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
+ Company Name: SATO Asia Pacific Pte Ltd<br>Web URL: https://satoasiapacific.com/ <br><br>Contact Hotline: 62762722 <br><br>Contact Email: salesorder-sap@sato-global.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

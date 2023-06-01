@@ -1,16 +1,15 @@
 ---
-title: 'SAP Business One SQL & HANA Version 10.0'
+title: 'Proximity Sensor Safety Solution Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution970
 ---
 
-## SAP Business One SQL & HANA Version 10.0
+## Proximity Sensor Safety Solution Version 4
 
 ## Overview
 
 **Description**
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+Nettbox Proximity Sensor is an obstacle detection solution which is suitable for all category of heavy vehicles /machines. It is a safety solution which allows instant detection of the object which is of close proximity and avoids accidents and collisions . It also enables audio alerts to the operator and the passer-by to flag up instant alarm. This enables the operators to enhance confidence with productivity where the average time of an operation to be shortened compared without the solution.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (1 License)</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$4,240.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (2 Licenses)</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (3 Licenses)</td>
-<td style='padding: 10px;'>$37,350.00</td>
-<td style='padding: 10px;'>$34,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 05</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$14,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (4 Licenses)</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$40,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 06</td>
+<td style='padding: 10px;'>$25,640.00</td>
+<td style='padding: 10px;'>$17,684.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAP Business One SQL & HANA Version 10.0 - Package (5 Licenses)</td>
-<td style='padding: 10px;'>$54,250.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 08</td>
+<td style='padding: 10px;'>$34,120.00</td>
+<td style='padding: 10px;'>$23,512.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 
 ## Vendor Information
 
- Company Name: MPS Solutions Pte Ltd<br>Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
+ Company Name : NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

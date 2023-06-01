@@ -1,15 +1,15 @@
 ---
-title: 'EPOINT Version 9'
+title: 'FirstCom Online Food Ordering & Payment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution601
 ---
 
-## EPOINT Version 9
+## FirstCom Online Food Ordering & Payment System
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic</td>
-<td style='padding: 10px;'>$8,331.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Online Food Ordering & Payment System - Standard (Online / QR Ordering - Dine In, Takeaway, Delivery)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/firstcom_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic+</td>
-<td style='padding: 10px;'>$11,046.00</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Lite</td>
-<td style='padding: 10px;'>$5,531.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Advance</td>
-<td style='padding: 10px;'>$11,831.00</td>
-<td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eKiosk - Advance</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive (Real-time Online Ordering Website + Instore Ordering and Management System</td>
+<td style='padding: 10px;'>$12,700.00</td>
+<td style='padding: 10px;'>$12,348.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_First_Annex3_CR_wef02Feb23.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br><br>Contact Hotline: 61006300 <br><br>Contact Email: darren.sim@epointpos.com <br><br>
+ Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

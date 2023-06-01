@@ -1,16 +1,15 @@
 ---
-title: 'Rah Tech Sophos Endpoint Protection'
+title: 'OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
-## Rah Tech Sophos Endpoint Protection
+## OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0
 
 ## Overview
 
 **Description**
 
-Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
-Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
+OPS Sales Order Management Solution is a user-friendly B2C and B2B order management tool to optimise productivity. The solution helps businesses centrally manage all their order channels efficiently. It allows their customers to order online and let their sales team easily manage these orders from the back-end. This will reduce duplicate and manual tasks, resolving errors during orders, easily re-order and more.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$16,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro with Go International Pack</td>
+<td style='padding: 10px;'>$35,200.00</td>
+<td style='padding: 10px;'>$33,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Multi-Store Pack</td>
+<td style='padding: 10px;'>$25,351.00</td>
+<td style='padding: 10px;'>$24,351.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite Pack</td>
+<td style='padding: 10px;'>$16,245.00</td>
+<td style='padding: 10px;'>$15,245.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
-<td style='padding: 10px;'>$29,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite with Go International Pack</td>
+<td style='padding: 10px;'>$34,345.00</td>
+<td style='padding: 10px;'>$32,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 
 ## Vendor Information
 
- Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
+ Company Name: RHS Asia Pte Ltd<br>Web URL: http://www.rhsasia.com/onprintshop-web-to-print/ <br><br>Contact Hotline: 62804321 <br><br>Contact Email: info@rhsasia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
