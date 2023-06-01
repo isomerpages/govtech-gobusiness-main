@@ -1,13 +1,23 @@
 accordion:
   - title: Preparation
     content: |
-      GoBusiness currently accepts VISA and MasterCard for Dashboard and Food Services Guided Journey. We are working to add more payment methods in the future. 
+      - Identify susceptible employees
 
-      GoBusiness Licensing accepts PayPal, VISA, MasterCard, American Express and Discover. Note: Internet Direct Debit (IDD) will no longer be available on GoBusiness Licensing.
+      - Conduct mask fit testing for employees
 
+      - Determine criteria for stopping outdoor work
+
+      - Shorten the time spent by workers performing outdoor work
+
+      - Improve efficiency of air cleaning devices
+      
   - title: Management of Employees
     content: |
-      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required after the licence is processing. You will be notified via email when Stage 2 payment is required.
+      - Employees with existing heart or respiratory illness are more susceptible to the effect of haze
+
+      - Adjust work schedules to cater for sufficient rest breaks
+
+      - Shorten the time spent by workers performing outdoor work
 
   - title: Business Continuity Plans (BCPs)
     content: |
