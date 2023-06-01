@@ -40,7 +40,7 @@ GoBusiness IP Grow features a comprehensive suite of 20 IA/IP services to meet t
 
 Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP services and service providers: 
 
-//
+{% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
 
 Watch the video below to learn more about getting started on managing your business's IA/IP.
 
@@ -62,7 +62,7 @@ If you are a service provider offering any of the 20 IA/IP services featured on 
 
 ### Resources and related links
 
-//
+{% include panels-featurelink.html panels=site.data.rgp008b_ipgrow-about %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
