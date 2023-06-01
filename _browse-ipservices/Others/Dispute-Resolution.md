@@ -4,31 +4,33 @@ permalink: /intellectual-property/ip-grow/Others/Dispute-Resolution/
 third_nav_title: Others
 ---
 
-## Dispute Resolution
+## Dispute resolution services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+Have you stumbled on a copycat product or counterfeit in the market or received a letter from a law firm accusing you of intellectual property (IP) infringement? Safeguarding intangible assets is crucial for businesses, but what happens when disputes arise? In such situations, having legal professionals by your side to help you navigate conflicts can be valuable.
 
-### What is a patent?
+### What are dispute resolution services?
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+Dispute resolution services, typically provided by law firms and legal professionals such as mediators and arbitrators, are intended to resolve conflicts between parties. IP-related disputes may arise when you wish to enforce your IP rights (such as removing counterfeit products from the market), when accused of infringing a third party’s IP rights (such as receiving a cease-and-desist letter), or when disputes result from a contract (such as breaches of confidentiality). Depending on its nature, negotiation, mediation,  arbitration, and litigation are some methods that may be employed to resolve the dispute. 
 
-### Benefits of patent agent services
+### Benefits of dispute resolution services
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+Given the legal implications and costs of disputes, businesses are always encouraged to seek the assistance of a dispute resolution service provider whenever a potential dispute arises. This allows them to fully understand their available options. 
+
+Disputes can be costly and time-consuming. If not handled properly, they can damage a company's reputation or even result in substantial legal penalties. Engaging professional guidance and support throughout the process can help businesses avoid costly litigation by exploring more efficient and effective ways to resolve disputes.
+
 
 <img src='/images/ipgrow/ipservices/DisputeResolution.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs dispute resolution services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for dispute resolution services
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Dispute Resolution service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for dispute resolution service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

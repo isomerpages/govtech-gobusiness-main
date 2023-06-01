@@ -4,33 +4,44 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/ip-intellig
 third_nav_title: IP Search and Registration
 ---
 
-## IP Intelligence and Search
+## IP intelligence and search services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+In today's competitive world, one way for businesses to gain an edge is by employing IP intelligence and search to uncover valuable insights about competitors and emerging trends. 
 
-### What is a patent?
+### What is IP intelligence and search?
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+Intellectual property (IP) intelligence and search refers to a process of gathering and analysing IP-related data to provide businesses with relevant information on their industry and technologies. This may reveal hints about a competitor’s rebranding intentions, upcoming product or service offerings, available technologies, key players (competitors, licensees, collaborators etc), and key transactions. Conducting IP searches can also help your company benchmark its technology against existing ones.
 
-### Benefits of patent agent services
+For example, a month before Meta launched its payment platform Meta Pay, the tech company filed trade marks related to digital currency and exchange services. Similarly, the Apple Watch was heralded by Apple’s patent filings in the field of wearable technology before its launch in 2015. By tracking Meta and Apple’s IP filings, investors and competitors could anticipate these product launches and adjust their strategies accordingly. 
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+### Benefits of IP intelligence and search services
+
+By leveraging IP information, your business can make informed decisions about their IP and business strategies, including:
+
+- Determining which markets to target;
+
+- Identifying products or services to develop based on interest and demand; 
+
+- Deciding whether to file patent or trade mark applications;
+
+- Evaluating whether to invest in research and development or license a technology. 
+
+There are public IP databases that you can tap on to perform your analyses. Performing IP searches can be complex and technical, especially for patent searches. If you are not familiar with performing IP searches and analytics, you can engage IP intelligence and search professionals to perform the analyses on your behalf, saving you a lot of time. 
 
 <img src='/images/ipgrow/ipservices/IPIntelligenceandSearch.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP intelligence and search services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for IP intelligence and search services
 
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP Intelligence and Search service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP intelligence and search service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

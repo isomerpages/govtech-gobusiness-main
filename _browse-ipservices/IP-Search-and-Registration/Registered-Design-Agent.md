@@ -4,13 +4,13 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/registered-
 third_nav_title: IP Search and Registration
 ---
 
-## Registered Design Agent services
+## Registered design agent services
 
-Suppose you have a new product with a unique design featuring a distinct shape, combination of colours, or pattern. If you want to prevent others from copying your design, this is where registered designs can come into play. 
+If you have a new product with a unique design featuring a distinct shape, combination of colours, or pattern, you may want to prevent others from copying your design. This is where registered designs come into play.
 
 ### What is a registered design?
 
-A registered design gives you exclusive ownership of the visible appearance of your product. Some notable examples include the shape of a Volkswagen Beetle and the contours of an Apple iPhone. It is important to note that registered designs do not protect the functional aspects of a product, which may require patent protection instead.
+A registered design gives you exclusive ownership of the visible appearance of your product. Some examples include the shape of a Volkswagen Beetle and the contours of an Apple iPhone. It is important to note that registered designs do not protect the functional aspects of a product, which may require patent protection instead.
 
 ### Benefits of registered design agent services
 
@@ -20,18 +20,18 @@ The scope of protection you receive is determined by how you represent your prod
 
 <img src='/images/ipgrow/ipservices/RegisteredDesignAgent.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a registered design agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Registered Design Agent
+### Connect with relevant service providers for registered design agent
 
 
 **2 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Registered Design Agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for registered design agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### BBBBBBB
 

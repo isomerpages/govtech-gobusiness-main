@@ -4,33 +4,33 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/trade-mark-
 third_nav_title: IP Search and Registration
 ---
 
-## Trade Mark Agent
+## Trade mark agent
 
-<<to update>>Suppose you have a new product with a unique design featuring a distinct shape, combination of colours, or pattern. If you want to prevent others from copying your design, this is where registered designs can come into play. 
+If you have ever seen a product name or logo and immediately associated certain qualities with the product, you have just experienced the power of a strong brand.  
 
-### What is a registered design?
+### What is a trade mark?
 
-A registered design gives you exclusive ownership of the visible appearance of your product. Some notable examples include the shape of a Volkswagen Beetle and the contours of an Apple iPhone. It is important to note that registered designs do not protect the functional aspects of a product, which may require patent protection instead.
+A trade mark represents a business' identity and brand, setting it apart from its competitors. It can be any sign, phrase, or symbol that a business uses to distinguish its products or services from others. By registering a trade mark, your business can safeguard its brand identity and prevent rivals from using similar marks that may cause confusion or damage the brand’s reputation.
 
-### Benefits of registered design agent services
+### Benefits of trade mark agent services
 
-To help your business protect its designs, registered design agents offer an array of services, including preparing and filing the design application and ensuring compliance with all the requirements for registration. 
+Trade mark agents are professionals who assist with the trade mark registration process. They conduct searches to determine the availability of a mark, advise on the representation and classification of the mark, and prepare and file a trade mark application.
 
-The scope of protection you receive is determined by how you represent your product design and the countries where you choose to file in. A registered design agent can advise on whether your design is suitable for registration, assist with decision-making, and facilitate the application process to help you secure the most appropriate degree of protection. 
+The scope of protection provided by a trade mark relies heavily on how the mark is represented and classified, as well as how the corresponding products or services are described. A trade mark agent’s expertise in these areas can be invaluable in helping you navigate the requirements involved in filing in multiple countries, saving you precious time and resources. 
 
 <img src='/images/ipgrow/ipservices/TradeMarkAgent.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a trade mark agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Registered Design Agent
+### Connect with relevant service providers for trade mark agent
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Trade Mark Agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for trade mark agent service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

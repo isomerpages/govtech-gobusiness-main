@@ -4,32 +4,35 @@ permalink: /intellectual-property/Commercialisation-and-Financing/IP-Brokerage-a
 third_nav_title: Commercialisation and Financing
 ---
 
-## IP Brokerage and Licensing
+## IP brokerage and licensing services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+Your company’s intellectual property (IP) – such as your technology and brand – can be monetised in various ways. While most companies use their IP in their products, it can also be sold or licensed to generate value.
 
-### What is a patent?
+### What are some types of IP licensing?
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+One well-known form of IP licensing is a food and beverage (F&B) franchise, where the franchisor grants the franchisee the right to use their brand, recipes, know-how, and other intangible assets for a fee. Singapore-based brands such as Ya Kun Kaya Toast and Old Chang Kee have adopted this F&B franchise model with much success. 
 
-### Benefits of patent agent services
+There are also other forms of IP licensing, such as brand licensing and technology licensing, which allow others to use your brand or incorporate your technology into their products.
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+### Benefits of IP brokerage and licensing
+
+By exploring IP licensing as a monetisation opportunity, you may discover new and sustainable revenue streams for your business. However, it can be challenging to market your IP, identify and engage suitable licensees, and negotiate a licensing deal on your own.
+
+This is where IP brokerage and licensing professionals can come in. They act as intermediaries to proactively source for IP you need, find potential licensees, and support and facilitate negotiations to conclude a transaction. With the help of an IP broker, you can develop a licensing structure that will protect your IP assets, while maximising long-term returns.
 
 <img src='/images/ipgrow/ipservices/IPBrokerageandLicensing.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP brokerage and licensing services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for IP brokerage and licensing services
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP Brokerage and Licensing service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP brokerage and licensing service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

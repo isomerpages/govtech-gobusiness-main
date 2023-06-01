@@ -4,32 +4,31 @@ permalink: /intellectual-property/ip-grow/Strategy-and-Management/Innovation-Con
 third_nav_title: Strategy and Management
 ---
 
-## Innovation Consultancy
+## Innovation consultancy services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+### What is innovation consultancy? 
 
-### What is a patent?
+Innovation is the process of introducing new ideas or improvements to a service, product, or method that brings about positive value for customers. It is widely recognised as the driving force behind business growth and success. However, for companies seeking to innovate and propel their business forward, the process of generating new ideas, processes, or strategies can be challenging. To overcome this, some businesses turn to the expertise of innovation consultants.
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+### Benefits of innovation consultancy services
 
-### Benefits of patent agent services
+An innovation consultant is a professional who works closely with businesses to help them identify untapped value and growth opportunities. These experts use a range of methods such as data analysis and market research to inspire new ideas, from optimising research and development processes to exploring new revenue streams, markets, or business models. They also guide how to implement these ideas effectively, ensuring your business can translate innovative concepts into tangible outcomes. 
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+By working with an innovation consultant, your business can gain fresh perspectives on its challenges and opportunities, and test new ways to derive sources of revenue and growth.
 
 <img src='/images/ipgrow/ipservices/InnovationConsultancy.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs innovation consultancy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for innovation consultancy services
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Innovation Consultancy service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for innovation consultancy service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

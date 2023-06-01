@@ -4,31 +4,32 @@ permalink: /intellectual-property/ip-grow/Strategy-and-Management/IP-Strategy-Co
 third_nav_title: Strategy and Management
 ---
 
-## IP Strategy Consulting
+## IP strategy consulting services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+Intangible assets and intellectual property (IP) have become one of the most valuable assets of a business. According to a Brand Finance study, the global value of intangible assets has grown by 11% per annum since 1996 to reach US$74 trillion, surpassing the value of physical assets.
 
-### What is a patent?
+From cutting-edge technology and invaluable data to original content and insider know-how, your wealth of IP assets is what builds your competitive advantage and differentiates you from the crowd. 
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+### What is an IP strategy?
 
-### Benefits of patent agent services
+An effective IP strategy involves the proper identification of key IP assets, evaluation of the risks and opportunities of each IP asset, and plans to protect, use, and leverage these assets to grow the business. IP strategy consultants can assist your business in aligning the management and use of your prized IP assets to your business goals and objectives.
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+### Benefits of IP strategy consulting services
+
+With a well-crafted IP strategy, your business is better placed to strengthen its market position and attract new business opportunities, in turn growing the value of your IP assets. Without an IP strategy, businesses risk neglecting or, at worst, losing their most valuable IP assets and falling behind in today’s fiercely competitive landscape. 
 
 <img src='/images/ipgrow/ipservices/IPStrategyConsulting.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP strategy consulting services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for IP strategy consulting services
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP Strategy Consulting  service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP strategy consulting  service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

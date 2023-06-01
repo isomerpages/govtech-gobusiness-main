@@ -4,32 +4,35 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/freedom-to-
 third_nav_title: IP Search and Registration
 ---
 
-## Freedom-To-Operate
+## Freedom-to-operate services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+If you are looking to commercialise a new product or service, it is essential to take proactive steps to ensure you are not infringing on someone else’s patent rights. 
 
-### What is a patent?
+### What is a freedom-to-operate (FTO) analysis?
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+Patents are a form of intellectual property (IP) that give patent owners exclusive rights to their inventions. Conducting a FTO analysis can help you determine whether your new product or service might infringe on third-party patent rights in your targeted markets. 
 
-### Benefits of patent agent services
+This process typically involves a comprehensive search of relevant patents based on key features of your product or service and an assessment of the risk of any infringement. Since IP rights can only be enforced in jurisdictions where they are registered, you should ideally conduct the FTO search in countries where you intend to commercialise the product or service.
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+### Benefits of freedom-to-operate services
+
+Getting FTO clearance can help you avoid costly legal disputes and potential infringement lawsuits. It ensures that you are free to launch a product or service in a specific market without violating the patent rights of others. 
+
+To further protect your business interests, you may also consider seeking the advice of [trade mark](/intellectual-property/ip-grow/ip-search-and-registration/trade-mark-agent/?src=ipgrow-freedom-to-operate) and [registered design agents](/intellectual-property/ip-grow/ip-search-and-registration/registered-design-agent/?src=ipgrow-freedom-to-operate) on whether your new product or service infringes third-party trade mark and registered design rights in your targeted markets.
 
 <img src='/images/ipgrow/ipservices/FreedomToOperate.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs freedom-to-operate services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for freedom-to-operate services
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Freedom-to-Operate service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for freedom-to-operate service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

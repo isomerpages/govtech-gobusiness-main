@@ -4,32 +4,33 @@ permalink: /intellectual-property/ip-grow/Strategy-and-Management/Branding-Strat
 third_nav_title: Strategy and Management
 ---
 
-## Branding Strategy
+## Branding strategy services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+### What is a brand?
 
-### What is a patent?
+A brand is a form of representation that distinguishes a business from its competitors. Beyond just a well-designed logo or a catchy slogan, it is how a customer perceives and experiences the goods and services of a business, and the values associated with it. 
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+If managed well, a brand can be incredibly valuable and increase in worth over time. For example, DBS Bank Limited's brand value soared to US$8.7 billion in 2022, according to Brand Finance. This marked an impressive 11% increase from the previous year.
 
-### Benefits of patent agent services
+### Benefits of branding strategy services
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+An effective brand strategy is crucial in developing a strong and valuable brand. It is a structured plan that outlines how your business can create and promote its desired image and identity. Branding consultants can help your business develop a brand architecture and /or a comprehensive strategy to market your goods and services, coupled with the crafting of a compelling narrative that resonates with your target customers. 
+
+With a successful brand strategy, your business can enhance the appeal of its products and services, foster customer loyalty, and ultimately, increase its revenue and market share in a crowded marketplace. 
 
 <img src='/images/ipgrow/ipservices/BrandingStrategy.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs branding strategy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for branding strategy services
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Branding Strategy service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for branding strategy service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 

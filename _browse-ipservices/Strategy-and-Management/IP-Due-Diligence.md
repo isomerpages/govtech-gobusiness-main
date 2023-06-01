@@ -4,32 +4,33 @@ permalink: /intellectual-property/ip-grow/Strategy-and-Management/IP-Due-Diligen
 third_nav_title: Strategy and Management
 ---
 
-## IP Due Diligence
+## IP due diligence services
 
-<<to update>>Innovation and technology are the backbone of many successful businesses, especially start-ups. With increasing competition, finding ways to commercialise your inventions while keeping them safe from copycats can be challenging. This is where patents come in. 
+Just as how one would inspect a car before buying it or verify the ownership of an apartment unit prior to a sale, companies often seek to find out the status of a company’s intellectual property (IP) assets before investing in or acquiring it. This process is known as IP due diligence.
 
-### What is a patent?
+### What is IP due diligence?
 
-Patents are a form of intellectual property (IP) that can help your business protect its inventions, safeguarding its competitive advantage and potential profits against copycats. Should a patent be granted, you will hold the exclusive rights to prevent others from using, reproducing, or commercialising your invention without your permission.
+IP due diligence involves a thorough investigation of the IP owned by a business. IP due diligence services are typically provided by IP law firms or IP firms. They perform a detailed review of a target company's IP portfolio by identifying and validating all the IP that the company owns or utilises. They also assess how effective these IP assets are in supporting the target company’s business. 
 
-### Benefits of patent agent services
+### Benefits of IP due diligence services
 
-How you craft your patent application and decisions on where and how to file your patent application can greatly affect the eventual patent protection you get (or do not get). 
-Patent agents can be instrumental in helping you make informed decisions and navigate the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+During this process, the strengths and weaknesses of the IP assets are evaluated to identify business risks and opportunities. The findings of this evaluation are often used by companies to support fundraising activities or make informed decisions on whether to pursue a partnership or acquisition of a target company.
+
+Conducting IP due diligence empowers your business with valuable information to make informed decisions, minimising the risks of financial and legal complications associated with the IP assets of a target company.
 
 <img src='/images/ipgrow/ipservices/IPDueDiligence.png' aria-hidden='true'>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP due diligence services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
-### Connect with relevant service providers for Patent Agents
+### Connect with relevant service providers for IP due diligence services
 
 **1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP Due Diligence service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP due diligence service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
 #### Allen & Gledhill LLP
 
