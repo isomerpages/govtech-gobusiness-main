@@ -37,7 +37,7 @@ const custom_notifications = [
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 4 Dec 2022 from 12am to 4pm. We apologise for the inconvenience caused."
-  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 01 Jun 2023 8pm to 11.30pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 01 Jun 2023 8pm to 11.30pm. We apologise for the inconvenience caused.",
 
   //[PWMark]
   "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark will be unavailable due to scheduled maintenance from 1 Jun 2023 7pm to 3 Jun 2023 3:30am. We apologise for the inconvenience caused.",
