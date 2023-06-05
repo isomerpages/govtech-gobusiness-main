@@ -83,7 +83,7 @@ BBBB long descr
 <a name='case-studies'></a>
 ### Case studies
 
-<ul>- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 1</a> </li>
+<ul>- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a> </li>
 - <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a> </li>
 - <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a> </li></ul>
 
