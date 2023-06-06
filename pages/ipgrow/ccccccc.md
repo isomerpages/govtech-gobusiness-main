@@ -5,8 +5,6 @@ permalink: /intellectual-property/ip-grow/ccccccc/
 
 ## CCCCCCC
 
-<img src='/images/ipgrow/companies/companyC.png' style='width: 25% !important' aria-hidden='true'>
-
 CCCC long descr
 
 <b>Year Established in Singapore:</b> 1902
@@ -31,6 +29,16 @@ CCCC long descr
 <a name='ip-related-service-areas'></a>
 ### IP-related service areas
 
+**Patent Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  c1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: c2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c5</li>
+</ul>
+
 ---
 <a name='industry-focus'></a>
 ### Industry Focus
@@ -41,10 +49,6 @@ CCCC long descr
 <a name='office-locations'></a>
 ### Office locations
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Regional Office(s):Malaysia, Myanmar, Indonesia, Vietnam</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Partner Office(s):-</li>
 </ul>
 
 ---
@@ -53,22 +57,10 @@ CCCC long descr
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Hong Kong - 30%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Taiwan - 15%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Thailand - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Other Countries - 5%</li>
 </ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Non-profit organisations - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 70%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Large enterprises - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Government - 0%</li>
 </ul>
 
 ---
@@ -83,9 +75,7 @@ CCCC long descr
 <a name='case-studies'></a>
 ### Case studies
 
-<ul>- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 1</a> </li>
-- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a> </li>
-- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a> </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

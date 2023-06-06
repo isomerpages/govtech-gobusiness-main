@@ -42,14 +42,6 @@ Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP ser
 
 {% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
 
-Watch the video below to learn more about getting started on managing your business's IA/IP.
-
-<p>
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/LwWkFieWmrI" title="Do You Know the Real Cost of Not Investing in Upskilling?" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</p>
-
 ---
 
 ### Get listed as an IA/IP service provider

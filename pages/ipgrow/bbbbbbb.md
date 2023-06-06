@@ -5,8 +5,6 @@ permalink: /intellectual-property/ip-grow/bbbbbbb/
 
 ## BBBBBBB
 
-<img src='/images/ipgrow/companies/companyB.png' style='width: 25% !important' aria-hidden='true'>
-
 BBBB long descr
 
 <b>Year Established in Singapore:</b> 1902
@@ -31,6 +29,26 @@ BBBB long descr
 <a name='ip-related-service-areas'></a>
 ### IP-related service areas
 
+**Patent Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  b1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: b3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: b4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  b5</li>
+</ul>
+
+**Registered Design Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: b1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: b3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: b4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): b5</li>
+</ul>
+
 ---
 <a name='industry-focus'></a>
 ### Industry Focus
@@ -41,10 +59,6 @@ BBBB long descr
 <a name='office-locations'></a>
 ### Office locations
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Regional Office(s):Malaysia, Myanmar, Indonesia, Vietnam</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Partner Office(s):-</li>
 </ul>
 
 ---
@@ -53,22 +67,10 @@ BBBB long descr
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Hong Kong - 30%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Taiwan - 15%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Thailand - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Other Countries - 5%</li>
 </ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Non-profit organisations - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 70%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Large enterprises - 10%</li>
-<li style='line-height: 27px; margin: 0px 0px !important'> Government - 0%</li>
 </ul>
 
 ---
@@ -83,9 +85,7 @@ BBBB long descr
 <a name='case-studies'></a>
 ### Case studies
 
-<ul>- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a> </li>
-- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a> </li>
-- <li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a> </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
