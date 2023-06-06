@@ -60,18 +60,6 @@ CCCC long descr
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Non-profit organisations - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 70%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Government - 0%</li></ul>
 
 ---
-<a name='testimonials'></a>
-### Testimonials
-
-
-
----
-<a name='case-studies'></a>
-### Case studies
-
-</ul>
-
----
 <a name='key-practice-experts'></a>
 ### Key practice experts
 

@@ -68,12 +68,6 @@ CCCC long descr
 
 
 ---
-<a name='case-studies'></a>
-### Case studies
-
-</ul>
-
----
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
