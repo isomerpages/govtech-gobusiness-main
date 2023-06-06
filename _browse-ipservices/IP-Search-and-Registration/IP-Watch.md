@@ -20,8 +20,6 @@ By employing an IP watch service, your business can proactively protect its inte
 
 - Monitoring of online spaces for IP infringement.  
 
-<img src='/images/ipgrow/ipservices/IPWatch.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP watch services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

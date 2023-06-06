@@ -18,8 +18,6 @@ An effective brand strategy is crucial in developing a strong and valuable brand
 
 With a successful brand strategy, your business can enhance the appeal of its products and services, foster customer loyalty, and ultimately, increase its revenue and market share in a crowded marketplace. 
 
-<img src='/images/ipgrow/ipservices/BrandingStrategy.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs branding strategy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

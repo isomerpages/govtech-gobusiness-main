@@ -18,8 +18,6 @@ By selling or licensing their IA/IP, your business can make use of IA/IP in mark
 
 For businesses needing help sourcing or selling their IP, head to [IP Brokerage and Licensing Services](/intellectual-property/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/?src=ipgrow-ip-marketplace).
 
-<img src='/images/ipgrow/ipservices/IPMarketplace.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP marketplace services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

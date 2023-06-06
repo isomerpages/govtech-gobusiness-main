@@ -16,15 +16,13 @@ Valuation services that consider traditional factors such as a company’s finan
 
 One major benefit of valuation services that incorporate IA/IP considerations is that they provide a more holistic assessment of a company or a transaction’s value. Because of this, companies with strong IA/IP may potentially obtain a higher valuation, ultimately benefitting their business.
 
-<img src='/images/ipgrow/ipservices/ValuationwithIAIPconsiderations.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs valuation services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
 
-**1 service providers listed.**
+**2 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

@@ -16,8 +16,6 @@ An innovation consultant is a professional who works closely with businesses to 
 
 By working with an innovation consultant, your business can gain fresh perspectives on its challenges and opportunities, and test new ways to derive sources of revenue and growth.
 
-<img src='/images/ipgrow/ipservices/InnovationConsultancy.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs innovation consultancy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

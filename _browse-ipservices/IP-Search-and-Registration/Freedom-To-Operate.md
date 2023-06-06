@@ -20,8 +20,6 @@ Getting FTO clearance can help you avoid costly legal disputes and potential inf
 
 To further protect your business interests, you may also consider seeking the advice of [trade mark](/intellectual-property/ip-grow/ip-search-and-registration/trade-mark-agent/?src=ipgrow-freedom-to-operate) and [registered design agents](/intellectual-property/ip-grow/ip-search-and-registration/registered-design-agent/?src=ipgrow-freedom-to-operate) on whether your new product or service infringes third-party trade mark and registered design rights in your targeted markets.
 
-<img src='/images/ipgrow/ipservices/FreedomToOperate.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs freedom-to-operate services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

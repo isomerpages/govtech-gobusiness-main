@@ -20,8 +20,6 @@ Businesses that lack the manpower or financial means to manage their IP assets c
 
 IP portfolio management enables your business to identify cost-saving opportunities and consolidate all its IP onto a single platform. Having an overview of your IP portfolio is especially important if you have multiple IP across different countries. 
 
-<img src='/images/ipgrow/ipservices/IPPortfolioManagement.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP portfolio management services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

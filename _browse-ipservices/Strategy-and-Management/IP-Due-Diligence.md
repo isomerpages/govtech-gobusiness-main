@@ -18,8 +18,6 @@ During this process, the strengths and weaknesses of the IP assets are evaluated
 
 Conducting IP due diligence empowers your business with valuable information to make informed decisions, minimising the risks of financial and legal complications associated with the IP assets of a target company.
 
-<img src='/images/ipgrow/ipservices/IPDueDiligence.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP due diligence services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

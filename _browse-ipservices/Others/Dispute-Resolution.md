@@ -18,9 +18,6 @@ Given the legal implications and costs of disputes, businesses are always encour
 
 Disputes can be costly and time-consuming. If not handled properly, they can damage a company's reputation or even result in substantial legal penalties. Engaging professional guidance and support throughout the process can help businesses avoid costly litigation by exploring more efficient and effective ways to resolve disputes.
 
-
-<img src='/images/ipgrow/ipservices/DisputeResolution.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs dispute resolution services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

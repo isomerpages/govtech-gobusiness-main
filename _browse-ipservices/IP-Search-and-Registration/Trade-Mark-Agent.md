@@ -18,8 +18,6 @@ Trade mark agents are professionals who assist with the trade mark registration 
 
 The scope of protection provided by a trade mark relies heavily on how the mark is represented and classified, as well as how the corresponding products or services are described. A trade mark agent’s expertise in these areas can be invaluable in helping you navigate the requirements involved in filing in multiple countries, saving you precious time and resources. 
 
-<img src='/images/ipgrow/ipservices/TradeMarkAgent.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a trade mark agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

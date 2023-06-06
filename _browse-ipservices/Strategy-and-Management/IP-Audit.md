@@ -16,8 +16,6 @@ Typically, an IP audit involves evaluating a company’s IP assets – its stren
 
 With these insights, your business can identify areas in its IP management that require attention and prioritise the IP assets that are critical to achieving your business goals. It serves as a strong foundation for developing an IP strategy that can propel your business forward, as well as leverage for valuation and financing opportunities. 
 
-<img src='/images/ipgrow/ipservices/IPAudit.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP audit services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---

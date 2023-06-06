@@ -18,8 +18,6 @@ To help your business protect its designs, registered design agents offer an arr
 
 The scope of protection you receive is determined by how you represent your product design and the countries where you choose to file in. A registered design agent can advise on whether your design is suitable for registration, assist with decision-making, and facilitate the application process to help you secure the most appropriate degree of protection. 
 
-<img src='/images/ipgrow/ipservices/RegisteredDesignAgent.png' aria-hidden='true'>
-
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a registered design agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
 
 ---
@@ -27,7 +25,7 @@ The scope of protection you receive is determined by how you represent your prod
 ### Connect with relevant service providers for registered design agent
 
 
-**2 service providers listed.**
+**1 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
