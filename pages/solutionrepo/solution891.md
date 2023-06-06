@@ -1,15 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - LiT Strategy Pte Ltd'
+title: 'MEGAPOS Beauty & Wellness'
 permalink: /productivity-solutions-grant/solutionrepo/solution891
 ---
 
-## Job Redesign Consultancy - LiT Strategy Pte Ltd
+## MEGAPOS Beauty & Wellness
 
 ## Overview
 
 **Description**
 
-LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
+MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
+Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,38 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LiT Strategy Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$6,680.00</td>
+<td style='padding: 10px;'>$6,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
+<td style='padding: 10px;'>$7,380.00</td>
+<td style='padding: 10px;'>$7,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
+<td style='padding: 10px;'>$14,360.00</td>
+<td style='padding: 10px;'>$14,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +65,7 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 
 ## Vendor Information
 
- Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

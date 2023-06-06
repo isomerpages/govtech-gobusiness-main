@@ -1,15 +1,16 @@
 ---
-title: 'RFID Inventory Management System'
+title: 'Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance'
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 
-## RFID Inventory Management System
+## Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance
 
 ## Overview
 
 **Description**
 
-Many SMEs manage, track and stock take their inventory and assets manually. Long manual processing time repeatedly leads to inefficiency and errors that slows down the speed of operation and increases the cost of business. SATO's RFID-based Inventory Management System(ITS) helps businesses to better manage, track and audit their inventory and assets. This will lead to improvement in productivity and traceability, and minimizing of errors in the operation.
+The Centre for Workplace Learning & Performance (CWLP) of the Singapore University of Social Sciences, Institute for Adult Learning, specialises in learning consultancy, which looks into the people dimension as its core. Through its workplace learning and employee-driven initiatives, projects are run with outcome alignment to several areas, including job redesign. The Centre leverages deep expertise in the adult learning domain for direct application to the workplace context. 
+ 
 
 ## Solution Packages Option(s)
 
@@ -23,24 +24,10 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - LITE</td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'>$11,013.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - PROFESSIONAL</td>
-<td style='padding: 10px;'>$39,000.00</td>
-<td style='padding: 10px;'>$14,013.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - STANDARD</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$13,513.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +37,7 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 
 ## Vendor Information
 
- Company Name: SATO Asia Pacific Pte Ltd<br>Web URL: https://satoasiapacific.com/ <br><br>Contact Hotline: 62762722 <br><br>Contact Email: salesorder-sap@sato-global.com <br><br>
+ Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

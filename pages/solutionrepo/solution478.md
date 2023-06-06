@@ -1,15 +1,15 @@
 ---
-title: 'Artemis'
+title: 'Sage 300 InvoiceNOW'
 permalink: /productivity-solutions-grant/solutionrepo/solution478
 ---
 
-## Artemis
+## Sage 300 InvoiceNOW
 
 ## Overview
 
 **Description**
 
-Artemis is a comprehensive and user-friendly automation tool, which helps clients meet complex KYC/AML/CTF regulatory requirements. Leveraging on Machine Learning and Artificial Intelligence, Artemis is built specifically to address the challenges of the ever-changing regulatory landscape, it also helps regulated businesses to stay ahead of the regulatory curve by assisting them in fulfilling their KYC, risk assessment, record-keeping, screening, and ongoing due diligence obligations.
+Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Artemis is a comprehensive and user-friendly automation tool, which helps client
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Searches</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
+<td style='padding: 10px;'>$20,705.96</td>
+<td style='padding: 10px;'>$19,205.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>500 Searches</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$38,603.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1000 Searches</td>
-<td style='padding: 10px;'>$3,788.00</td>
-<td style='padding: 10px;'>$3,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
+<td style='padding: 10px;'>$42,242.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3000 Searches</td>
-<td style='padding: 10px;'>$4,588.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
+<td style='padding: 10px;'>$47,703.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$50,103.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Cynopsis Solutions Pte Ltd<br>Web URL: https://cynopsis-solutions.com/artemis-kyc-solution/ <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co 
+ Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

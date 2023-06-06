@@ -1,15 +1,15 @@
 ---
-title: 'DM Creative E-World Digital Marketing Packages'
+title: 'Cybots AMDR'
 permalink: /productivity-solutions-grant/solutionrepo/solution448
 ---
 
-## DM Creative E-World Digital Marketing Packages
+## Cybots AMDR
 
 ## Overview
 
 **Description**
 
-Digital Marketing is the new way of advertising 24/7 to reach out to where customers are looking. Digital Marketing Packages (SEO, SEM, SM) by Creative eWorld helps to drive traffic to websites and social media pages to increase product/ brand awareness. Creative DM packages improve keywords ranking on Google Search Engine, increase reach and engagement on social media (FB/IG) platforms. SME can easily kick start the digital journey with the experienced in-house team.
+Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Digital Marketing is the new way of advertising 24/7 to reach out to where custo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  Lite SEO & SEM 6 months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-1</td>
+<td style='padding: 10px;'>$11,900.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 -  Basic SEO & SM 6 months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-2</td>
+<td style='padding: 10px;'>$21,000.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-3</td>
+<td style='padding: 10px;'>$26,250.00</td>
+<td style='padding: 10px;'>$25,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-5</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$38,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Digital Marketing is the new way of advertising 24/7 to reach out to where custo
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company Name: Cybots Pte. Ltd<br>Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br><br>Contact Hotline: 69835690 <br><br>Contact Email: contactus@cybotsai.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

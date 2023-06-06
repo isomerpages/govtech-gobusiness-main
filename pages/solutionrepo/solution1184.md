@@ -1,15 +1,15 @@
 ---
-title: 'QuickDesk Marketing'
+title: 'Revel Systems Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1184
 ---
 
-## QuickDesk Marketing
+## Revel Systems Version 2
 
 ## Overview
 
 **Description**
 
-Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
+Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
-<td style='padding: 10px;'>$2,133.41</td>
-<td style='padding: 10px;'>$2,013.41</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
+<td style='padding: 10px;'>$6,880.72</td>
+<td style='padding: 10px;'>$6,880.72</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
-<td style='padding: 10px;'>$4,649.30</td>
-<td style='padding: 10px;'>$4,249.30</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1</td>
+<td style='padding: 10px;'>$8,175.08</td>
+<td style='padding: 10px;'>$8,175.08</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
-<td style='padding: 10px;'>$7,713.91</td>
-<td style='padding: 10px;'>$7,053.91</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B2</td>
+<td style='padding: 10px;'>$8,869.44</td>
+<td style='padding: 10px;'>$8,869.44</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
-<td style='padding: 10px;'>$9,395.19</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C1</td>
+<td style='padding: 10px;'>$11,035.08</td>
+<td style='padding: 10px;'>$9,875.08</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
-<td style='padding: 10px;'>$14,374.74</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C2</td>
+<td style='padding: 10px;'>$12,423.80</td>
+<td style='padding: 10px;'>$11,163.80</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 
 ## Vendor Information
 
- Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
+ Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,16 @@
 ---
-title: 'iFoundries E-commerce Jump Start Package Version 4'
+title: 'TRENDMICRO ENDPOINT PROTECTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution754
 ---
 
-## iFoundries E-commerce Jump Start Package Version 4
+## TRENDMICRO ENDPOINT PROTECTION
 
 ## Overview
 
 **Description**
 
-Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
+Endpoint Security
+Secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,34 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_iFoundries_E_commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -10 Licences</td>
+<td style='padding: 10px;'>$499.00</td>
+<td style='padding: 10px;'>$499.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -25 Licences</td>
+<td style='padding: 10px;'>$1,099.00</td>
+<td style='padding: 10px;'>$1,099.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -50 Licences</td>
+<td style='padding: 10px;'>$2,099.00</td>
+<td style='padding: 10px;'>$2,099.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br><br>Contact Hotline: 66035438 <br><br>Contact Email: sales@innocom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Frontier e-HR Version 8 - AutomateHR eFrontier'
+title: 'DM GSK Group Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution656
 ---
 
-## Frontier e-HR Version 8 - AutomateHR eFrontier
+## DM GSK Group Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee's details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
+With more than 17 years of experience providing clients with digital marketing solutions, GSK Group offers comprehensive SEO, SEM and SMM packages. Solutions are customised to meet every business's unique needs and wants. GSK Group aims to help every business achieve brand awareness, increase social media profile visibility, lead enquiries and higher sales revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 25 Users</td>
-<td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'>$6,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 1 - SEM-Search + SEM-Display - (3 months)</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 50 Users</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 2 - SEM-Search + SEM-Display - (6 months)	</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 100 Users</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 3 - SEM + SEO - (6 months) </td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 150 Users</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 4 - SEM + SMM - (6 months)</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 200 Users</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 5 - SMM-Facebook + SMM-Instagram - (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of human resource op
 
 ## Vendor Information
 
- Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br><br>Contact Hotline: 63910921 <br><br>Contact Email: enquiry@frontier-ehr.com <br><br>
+ Company name:GSK Group Pte Ltd<br>Web URL: www.gskcreative.com.sg <br>Contact Hotline: 65364019 <br>Contact Email: info@gsk-group.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
