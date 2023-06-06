@@ -1,15 +1,17 @@
 ---
-title: 'CCCCCCC'
-permalink: /intellectual-property/ip-grow/ccccccc/
+title: 'Henry Goh (S) Pte Ltd'
+permalink: /intellectual-property/ip-grow/henry-goh--s--pte-ltd/
 ---
 
-## CCCCCCC
+## Henry Goh (S) Pte Ltd
 
-CCCC long descr
+BBBB long descr
 
 <b>Year Established in Singapore:</b> 1902
 
 <b>Top Focus Areas for IA/IP Services:</b> Patent Agent Service, Innovation Consultancy Service, IP Training Service
+
+<b>Intellectual Property Awards Received:</b> Singapore Intellectual Property Law Firm of the Year at the ALB SE Asia Law Awards 2022, Regional Law Firm of the Year at the Legal 500 Southeast Asia Legal Awards 20/21
 
 <b>Type of Organization:</b> Non-SME
 
@@ -17,9 +19,11 @@ CCCC long descr
 
 <b>Website:</b> <a href='https://allenandgledhill.com/'>https://allenandgledhill.com/</a>
 
+<b>Offer:</b> 20% discount on all IP services for SMEs
+
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
 
-{% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -28,11 +32,21 @@ CCCC long descr
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  c1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: c2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  b1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: b3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: b4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  b5</li>
+</ul>
+
+**Registered Design Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: b1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: b3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: b4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): b5</li>
 </ul>
 
 ---
@@ -63,13 +77,17 @@ CCCC long descr
 <a name='testimonials'></a>
 ### Testimonials
 
+*"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise."* - Eric Koh, Director, ABC Pte Ltd.
+
+*"I will engage them again. Very efficient and very professionals. Highly recommended."* - Ms. Lisa, Senior Partner, XYZ Pte Ltd.
+
 
 
 ---
 <a name='case-studies'></a>
 ### Case studies
 
-</ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

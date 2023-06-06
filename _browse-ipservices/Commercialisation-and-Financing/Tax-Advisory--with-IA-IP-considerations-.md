@@ -22,7 +22,7 @@ By working with an experienced tax advisor, businesses can identify tax-saving o
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)
 
-**3 service providers listed.**
+**5 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

@@ -1,9 +1,9 @@
 ---
-title: 'CCCCCCC'
-permalink: /intellectual-property/ip-grow/ccccccc/
+title: 'DDDDDDD'
+permalink: /intellectual-property/ip-grow/ddddddd/
 ---
 
-## CCCCCCC
+## DDDDDDD
 
 CCCC long descr
 
@@ -19,7 +19,7 @@ CCCC long descr
 
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
 
-{% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -28,11 +28,11 @@ CCCC long descr
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  c1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: c2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  d1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: d2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: d3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: d4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  da5</li>
 </ul>
 
 ---
@@ -62,6 +62,8 @@ CCCC long descr
 ---
 <a name='testimonials'></a>
 ### Testimonials
+
+*"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise."* - Eric Koh, Director, ABC Pte Ltd.
 
 
 

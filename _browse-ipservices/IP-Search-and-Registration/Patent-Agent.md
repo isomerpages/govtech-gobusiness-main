@@ -62,7 +62,7 @@ CCCC short descr
 
 ---
 
-#### BBBBBBB
+#### Henry Goh (S) Pte Ltd
 
 BBBB short descr
 
@@ -74,7 +74,37 @@ BBBB short descr
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
 </ul>
 
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/bbbbbbb/){:target='_blank'}
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/henry-goh--s--pte-ltd/){:target='_blank'}
+
+---
+
+#### DDDDDDD
+
+CCCC short descr
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> d2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> d1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> da5</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/ddddddd/){:target='_blank'}
+
+---
+
+#### EEEEEE
+
+CCCC short descr
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> e2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> e1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> e5</li>
+</ul>
+
+<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/eeeeee/){:target='_blank'}
 
 ---
 

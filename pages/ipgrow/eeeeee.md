@@ -1,9 +1,9 @@
 ---
-title: 'CCCCCCC'
-permalink: /intellectual-property/ip-grow/ccccccc/
+title: 'EEEEEE'
+permalink: /intellectual-property/ip-grow/eeeeee/
 ---
 
-## CCCCCCC
+## EEEEEE
 
 CCCC long descr
 
@@ -19,7 +19,7 @@ CCCC long descr
 
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
 
-{% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -28,11 +28,11 @@ CCCC long descr
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  c1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: c2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: c3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: c4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  c5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  e1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: e2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: e3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: e4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  e5</li>
 </ul>
 
 ---
@@ -69,7 +69,7 @@ CCCC long descr
 <a name='case-studies'></a>
 ### Case studies
 
-</ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>

@@ -24,81 +24,11 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
 
-{% include overview.html anchorlinks=site.data.ov013-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
 ### IP-related service areas
-
-**Patent Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**Registered Design Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): a5</li>
-</ul>
-
-**Trade Mark Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**Freedom-to-Operate Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Database Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Intelligence and Search Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Watch Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
 
 **Branding Strategy Services**
 
@@ -107,96 +37,6 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: a3</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**Innovation Consultancy Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Audit Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Due Diligence Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Portfolio Management Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Strategy Consulting  Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Attribute 1 a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Attribute 2 a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Attribute 3 a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Attribute 4 a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Attribute 5 a5</li>
-</ul>
-
-**IP Brokerage and Licensing Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**IP Marketplace Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of marketplace listings in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Marketplace experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Marketplace experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**Tax Advisory (with IA/IP considerations) Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: a4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
-</ul>
-
-**Valuation (with IA/IP considerations) Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: a3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: a4</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
 </ul>
 
@@ -220,6 +60,106 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
 </ul>
 
+**Freedom-to-Operate Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**Innovation Consultancy Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Audit Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Brokerage and Licensing Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Database Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Due Diligence Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Marketplace Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of marketplace listings in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Marketplace experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Marketplace experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Portfolio Management Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Strategy Consulting Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
 **IP Training Services**
 
 <ul>
@@ -227,6 +167,66 @@ The Firm is consistently ranked as a market leader in Singapore and South-east A
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: a2</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: a3</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**IP Watch Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**Patent Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**Registered Design Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): a5</li>
+</ul>
+
+**Tax Advisory (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**Trade Mark Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: a4</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
+</ul>
+
+**Valuation (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  a1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: a2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: a3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: a4</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  a5</li>
 </ul>
 
