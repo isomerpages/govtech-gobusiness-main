@@ -7,19 +7,13 @@ permalink: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplac
 
 The Workplace Skills Recognition (WPSR) programme aims to recognise enterprises, particularly SMEs, that have good foundation in workplace learning as well as the skills of their employees who are trained at the workplace.
 
-Under the WPSR programme, enterprises that have established systems and processes for on-the-job training can now earn the "Workplace Learning:Ready (WPL:READY) Mark" issued by the National Centre of Excellence for Workplace Learning (NACE) led by Nanyang Polytechnic (NYP). To do so, enterprises will need to approach NACE to assess their readiness to meet the WPL:READY requirements before applying for the certification. 
+Under the WPSR programme, enterprises that have established systems and processes for on-the-job training can now earn the “Workplace Learning:Ready (WPL:READY) Mark” issued by the National Centre of Excellence for Workplace Learning (NACE) led by Nanyang Polytechnic (NYP). To do so, enterprises will need to approach NACE to assess their readiness to meet the WPL:READY requirements before applying for the certification. 
 
 With the WPL:READY Mark, it will enable employers to fast-track skills assessment and help their workers gain formal Workforce Skills Qualifications (WSQ) recognition of the skills developed at the workplace. This saves business downtime and training costs, as workers will not need to go for additional external training in order to obtain the WSQ skills certifications. 
 
 For a start, the WPSR is open to all enterprises in the Food Services and Retail sectors to address the immediate needs to fulfil the minimum training requirements under the Progressive Wage Model. SSG will progressively expand the WPSR prpgramme  to more sectors. 
 
 Enterprises that need more support to prepare for the WPL:Ready Mark assessment can seek assistance from NACE through its training programmes and/or consultancy services. All these initiatives are subsidised by SkillsFuture Singapore (SSG).
- 
-Enterprises that have established systems and processes to support on-the-job training can approach the National Centre of Excellence for Workplace Learning (NACE) to assess the readiness of your organisation to meet the Workplace Learning:Ready (WPL:READY) requirements and apply for the certification.
-
-Attaining the WPL:READY Mark under the WPSR will enable you to fast track skills assessment and help your workers gain formal recognition of the skills they have developed at the workplace, without the need to go for external training.
-
-For enterprises that require assistance, NACE is able to help you build workplace learning capabilities through various training programmes and consultancy services.
 
 ---
 
@@ -68,14 +62,10 @@ Application for the WPL:READY Mark opened on 1 June 2023. Click <a href="https:/
 
 **WSQ Certification under Assessment-Only Pathway**
 
-SSG has appointed the Singapore Institute for Retail Studies (SIRS) and the Asian Culinary Institute (ACI) to provide the AOP modules for assessment at the workplace. 
-SIRS and ACI will provide advisory on the AOP modules your organisation can undertake, as well as how to prepare for the AOP assessment. The modules and contact details of the training providers are listed below. 
+SSG has appointed the Singapore Institute for Retail Studies (SIRS) and the Asian Culinary Institute (ACI) to provide the AOP modules for assessment at the workplace. SIRS and ACI will provide advisory on the AOP modules your organisation can undertake, as well as how to prepare for the AOP assessment. The modules and contact details of the training providers are listed below. 
 
-i) Offered by Singapore Institute for Retail Studies
-Contact: Mr James Fong [james_fong@sirs.edu.sg](mailto:james_fong@sirs.edu.sg)
-<<insert table>>
-ii) Offered by Asian Culinary Institute
-More details on the moules will be available in Jul 2023
+i) Offered by Asian Culinary Institute - More details will be available in Jul 2023
+
 Contact: Ms Goh Siew Ngee [goh_siew_ngee@aci.edu.sg](mailto:goh_siew_ngee@aci.edu.sg)
 
 ---
