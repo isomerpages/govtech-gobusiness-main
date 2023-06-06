@@ -56,7 +56,7 @@ CCCC short descr
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of files completed in previous calendar year:</b> c2</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> c1</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> c5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 0</li>
 </ul>
 
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/ccccccc/){:target='_blank'}

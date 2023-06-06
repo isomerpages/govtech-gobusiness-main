@@ -11,15 +11,11 @@ CCCC long descr
 
 <b>Top Focus Areas for IA/IP Services:</b> Patent Agent Service, Innovation Consultancy Service, IP Training Service
 
-<b>Intellectual Property Awards Received:</b> Singapore Intellectual Property Law Firm of the Year at the ALB SE Asia Law Awards 2022, Regional Law Firm of the Year at the Legal 500 Southeast Asia Legal Awards 20/21
-
 <b>Type of Organization:</b> Non-SME
 
 <b>Address in Singapore:</b> One Marina Boulevard #28-00 Singapore 018989
 
 <b>Website:</b> <a href='https://allenandgledhill.com/'>https://allenandgledhill.com/</a>
-
-<b>Offer:</b> 20% discount on all IP services for SMEs
 
 <a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
 
