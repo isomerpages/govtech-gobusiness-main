@@ -49,7 +49,7 @@ CCCC long descr
 <a name='office-locations'></a>
 ### Office locations
 
-</ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):Malaysia, Myanmar, Indonesia, Vietnam</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s):-</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -57,19 +57,19 @@ CCCC long descr
 
 **Percentage of clients by country, based on previous calendar year:**
 
-</ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>Taiwan - 15%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 5%</li></ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-</ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Non-profit organisations - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 70%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Government - 0%</li></ul>
 
 ---
 <a name='testimonials'></a>
 ### Testimonials
 
-"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise." - Eric Koh, Director, ABC Pte Ltd.
+*"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise."* - Eric Koh, Director, ABC Pte Ltd.
 
-"I will engage them again. Very efficient and very professionals. Highly recommended." - Ms. Lisa, Senior Partner, XYZ Pte Ltd.
+
 
 ---
 <a name='case-studies'></a>
