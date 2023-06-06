@@ -7,11 +7,11 @@ permalink: /intellectual-property/ip-grow/ccccccc/
 
 CCCC long descr
 
-<b>Year Established in Singapore:</b> 1902
+<b>Year established in Singapore:</b> 1902
 
-<b>Top Focus Areas for IA/IP Services:</b> Patent Agent Service, Innovation Consultancy Service, IP Training Service
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Innovation Consultancy Service, IP Training Service
 
-<b>Type of Organization:</b> Non-SME
+<b>Type of organization:</b> Non-SME
 
 <b>Address in Singapore:</b> One Marina Boulevard #28-00 Singapore 018989
 
@@ -23,7 +23,7 @@ CCCC long descr
 
 ---
 <a name='ip-related-service-areas'></a>
-### IP-related service areas
+### IA/IP service areas
 
 **Patent Agent Services**
 
@@ -37,7 +37,7 @@ CCCC long descr
 
 ---
 <a name='industry-focus'></a>
-### Industry Focus
+### Industry focus
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
