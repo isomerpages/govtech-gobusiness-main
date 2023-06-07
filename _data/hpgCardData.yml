@@ -61,3 +61,6 @@
   text_2: Accreditation
   href_3: '/gebiz-alerts/?src=home_quicklinks'
   text_3: GeBIZ Alerts
+  href_4: '/Haze/?src=home_quicklinks'
+  text_4: Haze
+  is_new_4: true
