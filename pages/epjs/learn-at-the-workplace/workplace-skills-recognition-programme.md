@@ -21,7 +21,7 @@ Enterprises that need more support to prepare for the WPL:Ready Mark assessment 
 
 **Step 1: Certify readiness for workplace learning by attaining the WPL:READY Mark**
 
-Attaining the WPL:READY Mark means that an enterprise has a structured workplace learning process and is practising it. To attain the WPL:READY Mark, enterprises will need to go through an assessment process conducted by NACESMEs and non-SMEs enjoy subsidies of 90% and 70% of the assessment fees respectively. 
+Attaining the WPL:READY Mark means that an enterprise has a structured workplace learning process and is practising it. To attain the WPL:READY Mark, enterprises will need to go through an assessment process conducted by NACE. SMEs and non-SMEs enjoy subsidies of 90% and 70% of the assessment fees respectively. 
 
 ---
 
@@ -32,13 +32,13 @@ Attaining the WPL:READY Mark means that an enterprise has a structured workplace
 <th><b>Non-SMEs</b></th>
 </tr>
 <tr>
-<th><b>Assessment Fees
+<th><b>Assessment Fees 
 (before applicable SSG subsidy & excluding prevailing GST)</b></th>
 <td>$1,800</td>
 <td>$3,600</td>
 </tr>
 <tr>
-<th><b>Assessment Fees
+<th><b>Assessment Fees 
 (after applicable SSG subsidy & excluding prevailing GST)</b></th>
 <td>$180</td>
 <td>$1,080</td>
@@ -64,7 +64,9 @@ Application for the WPL:READY Mark opened on 1 June 2023. Click <a href="https:/
 
 SSG has appointed the Singapore Institute for Retail Studies (SIRS) and the Asian Culinary Institute (ACI) to provide the AOP modules for assessment at the workplace. SIRS and ACI will provide advisory on the AOP modules your organisation can undertake, as well as how to prepare for the AOP assessment. The modules and contact details of the training providers are listed below. 
 
-i) Offered by Asian Culinary Institute - More details will be available in Jul 2023<br>Contact: Ms Goh Siew Ngee [goh_siew_ngee@aci.edu.sg](mailto:goh_siew_ngee@aci.edu.sg)
+i) Offered by Asian Culinary Institute<br>More details will be available in Jul 2023 <br>Contact: Ms Goh Siew Ngee at [goh_siew_ngee@aci.edu.sg](mailto:goh_siew_ngee@aci.edu.sg)
+
+ii) Offered by Singapore Institute for Retail Studies <br>Contact: Mr James Fong at [james_fong@sirs.edu.sg](mailto:james_fong@sirs.edu.sg)
 
 ---
 
