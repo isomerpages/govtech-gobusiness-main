@@ -1,15 +1,15 @@
 ---
-title: 'DM W360 Digital Power Pack Version 1.0'
+title: 'V3Nity-FMS Fleet Management System Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1498
 ---
 
-## DM W360 Digital Power Pack Version 1.0
+## V3Nity-FMS Fleet Management System Version 3.0
 
 ## Overview
 
 **Description**
 
-W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
+The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ W360 Group is one of the leading digital agencies in Singapore with a proven tra
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA & Facebook Marketing (3 Months)</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Facebook & Google Advertising (3 Months)</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA + SEO (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SEM (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ W360 Group is one of the leading digital agencies in Singapore with a proven tra
 
 ## Vendor Information
 
- Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
+ Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

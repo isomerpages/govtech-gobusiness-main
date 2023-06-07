@@ -1,31 +1,64 @@
 ---
-title: 'Portable Automatic Pipe Gas Cutter'
+title: 'F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1610
 ---
 
-## Portable Automatic Pipe Gas Cutter
+## F&B Solutions Version 5.0
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
-
-Cost of equipment capped at $12,500 per unit
-
+The Essential F&B Management Solutions 
+Major Problem Solutions:
+1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Pipe Gas Cutter</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Automatic travelling gas cutting operations<br>Cutting speed: minimum 50 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR, Emenu Ordering</td>
+<td style='padding: 10px;'>$6,405.00</td>
+<td style='padding: 10px;'>$5,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR, Emenu and Kiosk Ordering</td>
+<td style='padding: 10px;'>$8,705.00</td>
+<td style='padding: 10px;'>$7,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3: QR, Mobile Staff Ordering and CRM</td>
+<td style='padding: 10px;'>$9,115.00</td>
+<td style='padding: 10px;'>$8,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4: QR, Mobile Staff, Emenu Ordering and CRM</td>
+<td style='padding: 10px;'>$12,055.00</td>
+<td style='padding: 10px;'>$9,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5: QR, Mobile Staff,  Emenu, Kiosk Ordering and CRM</td>
+<td style='padding: 10px;'>$14,355.00</td>
+<td style='padding: 10px;'>$12,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YumStone_F&B_Solutions_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -33,6 +66,10 @@ Cost of equipment capped at $12,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

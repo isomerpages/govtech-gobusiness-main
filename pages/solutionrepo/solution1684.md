@@ -1,15 +1,17 @@
 ---
-title: 'Hi-jack Cleaning Machinery'
+title: 'Laser Geometric Alignment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1684
 ---
 
-## Hi-jack Cleaning Machinery
+## Laser Geometric Alignment System
 
 ## Overview
 
 **Description**
 
-Hi-jack cleaning machine for sterilisation and cleaning of production facilities
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
 </tr>
 </table>
 

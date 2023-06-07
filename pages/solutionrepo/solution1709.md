@@ -1,15 +1,15 @@
 ---
-title: 'Packing machine'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1709
 ---
 
-## Packing machine
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that automates the packing of farm produce with high speed and high de
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

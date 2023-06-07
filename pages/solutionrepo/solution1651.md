@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Shrink Wrap Packaging Machine'
+title: 'Circular Gas Cutter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1651
 ---
 
-## Automatic Shrink Wrap Packaging Machine
+## Circular Gas Cutter
 
 ## Overview
 
 **Description**
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $18,750 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
 </tr>
 </table>
 

@@ -1,15 +1,17 @@
 ---
-title: 'OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0'
+title: 'HR Shared Services by RecruitSG'
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
-## OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0
+## HR Shared Services by RecruitSG
 
 ## Overview
 
 **Description**
 
-OPS Sales Order Management Solution is a user-friendly B2C and B2B order management tool to optimise productivity. The solution helps businesses centrally manage all their order channels efficiently. It allows their customers to order online and let their sales team easily manage these orders from the back-end. This will reduce duplicate and manual tasks, resolving errors during orders, easily re-order and more.
+recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
+
+Companies can simplify their HR processes with recruitSG's end-to-end service - supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,48 @@ OPS Sales Order Management Solution is a user-friendly B2C and B2B order managem
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'>$16,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 30 Employees</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro with Go International Pack</td>
-<td style='padding: 10px;'>$35,200.00</td>
-<td style='padding: 10px;'>$33,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 50 Employees</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Multi-Store Pack</td>
-<td style='padding: 10px;'>$25,351.00</td>
-<td style='padding: 10px;'>$24,351.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 100 Employees</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite Pack</td>
-<td style='padding: 10px;'>$16,245.00</td>
-<td style='padding: 10px;'>$15,245.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 150 Employees</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite with Go International Pack</td>
-<td style='padding: 10px;'>$34,345.00</td>
-<td style='padding: 10px;'>$32,445.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 200 Employees</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: RHS Asia Pte Ltd<br>Web URL: http://www.rhsasia.com/onprintshop-web-to-print/ <br><br>Contact Hotline: 62804321 <br><br>Contact Email: info@rhsasia.com <br><br>
+ Company name: RECRUIT.COM.SG PTE. LTD.<br>Web URL: WWW.RECRUIT.COM.SG <br>Contact Hotline: 68767936 <br>Contact Email: HELLO@RECRUIT.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
