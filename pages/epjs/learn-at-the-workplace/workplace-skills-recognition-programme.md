@@ -65,7 +65,6 @@ Application for the WPL:READY Mark opened on 1 June 2023. Click <a href="https:/
 SSG has appointed the Singapore Institute for Retail Studies (SIRS) and the Asian Culinary Institute (ACI) to provide the AOP modules for assessment at the workplace. SIRS and ACI will provide advisory on the AOP modules your organisation can undertake, as well as how to prepare for the AOP assessment. The modules and contact details of the training providers are listed below. 
 
 i) Offered by Asian Culinary Institute - More details will be available in Jul 2023
-
 Contact: Ms Goh Siew Ngee [goh_siew_ngee@aci.edu.sg](mailto:goh_siew_ngee@aci.edu.sg)
 
 ---
