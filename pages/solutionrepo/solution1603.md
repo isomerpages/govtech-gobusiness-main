@@ -1,37 +1,64 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'Xero Cloud Accounting Software - Premium Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1603
 ---
 
-## Autonomous Mobile Robot
+## Xero Cloud Accounting Software - Premium Package
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Payload modules to lift trolleys Minimum  150kg load<br>- Min. load surface: 720x600mm<br>- 1-1.2m/s driving with spot turning<br>- Battery: Min. 4h, ~8h standby, ~4h charging<br>- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software Only</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Training</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Setup</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: YMC ACCOUNTING PTE LTD<br>Web URL: https://www.thesgservice.com/sg-accounting-firm <br><br>Contact Hotline: 93891853 <br><br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br><br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

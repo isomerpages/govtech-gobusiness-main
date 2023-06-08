@@ -1,15 +1,15 @@
 ---
-title: 'Moneyworks Version 9'
+title: 'OOM_Ecommerce_Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1055
 ---
 
-## Moneyworks Version 9
+## OOM_Ecommerce_Solution
 
 ## Overview
 
 **Description**
 
-Ostendo provides Moneyworks, an Accounting software suitable for businesses of all sizes. It is developed by Cognito Software based in New Zealand since 1986. Key features of the solution include: general ledger, invoicing, inventory management, and sales management. MoneyWorks can interface seamlessly with most leading payroll, CRM, POS systems or mySQL, making it possible to streamline workflow. The friendly interface and graphic workflows make MoneyWorks fast, easy and efficient to operate.
+OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Gold (1 user)</td>
-<td style='padding: 10px;'>$1,395.00</td>
-<td style='padding: 10px;'>$1,295.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Now (3 users)</td>
-<td style='padding: 10px;'>$5,740.00</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (3 users)</td>
-<td style='padding: 10px;'>$7,235.00</td>
-<td style='padding: 10px;'>$6,935.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (3 users with integration and automation)</td>
-<td style='padding: 10px;'>$9,735.00</td>
-<td style='padding: 10px;'>$9,435.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks Version 9 - Datacentre (6 users with integration and automation)</td>
-<td style='padding: 10px;'>$11,385.00</td>
-<td style='padding: 10px;'>$11,085.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OOM_Ecommerce_Solution - Value Plan</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OOM_Ecommerce_20200761_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 
 ## Vendor Information
 
- Company Name: Ostendo Pte Ltd<br>Web URL: www.ostendoasia.com <br><br>Contact Hotline: 68505150 <br><br>Contact Email: info.sg@ostendoasia.com <br><br>
+ Company Name: OOm Pte Ltd<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,19 @@
 ---
-title: 'Ethylene Removal System'
+title: 'Encrusting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1652
 ---
 
-## Ethylene Removal System
+## Encrusting Machine
 
 ## Overview
 
 **Description**
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
+The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
+It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
 </tr>
 </table>
 

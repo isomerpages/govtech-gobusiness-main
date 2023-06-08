@@ -1,15 +1,15 @@
 ---
-title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0'
+title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1513
 ---
 
-## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0
+## Verz Design Magento, WooCommerce & Shopify Solutions
 
 ## Overview
 
 **Description**
 
-Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
+Verz Design is one of the key and leading players when it comes to providing Shopify/Magento/WooCommerce solutions. Shopify/Magento/WooCommerce offers a comprehensive backend with customizable plug-ins for SME's businesses. Highly suitable for companies with complex operations, Shopify/Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Turquoise)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite Extended</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Diamond)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced</td>
-<td style='padding: 10px;'>$6,350.00</td>
-<td style='padding: 10px;'>$6,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Amber)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced Extended</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Emerald)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adobe Magento Ecommerce Version 2 (Sapphire)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 
 ## Vendor Information
 
- Company Name: Wecome Pte Ltd<br>Web URL: https://wecome.sg <br><br>Contact Hotline: 96824965 <br><br>Contact Email: wuhong@wecome.sg <br><br>
+ Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

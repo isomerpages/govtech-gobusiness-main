@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Aeration System/ Oxygenation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1705
 ---
 
-## Automated Irrigation Equipment/ System
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

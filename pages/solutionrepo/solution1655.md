@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Portable Automatic Gas Cutting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1655
 ---
 
-## Automatic Nut Splitter
+## Portable Automatic Gas Cutting Machine
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
+Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
 
-Cost of equipment capped at $7,500 per unit 
+Cost of equipment capped at $6,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br>- Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
 </tr>
 </table>
 

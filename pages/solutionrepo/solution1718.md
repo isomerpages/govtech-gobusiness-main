@@ -1,21 +1,15 @@
 ---
-title: 'Automated Dishwasher'
+title: 'Conveyor System for transporting materials'
 permalink: /productivity-solutions-grant/solutionrepo/solution1718
 ---
 
-## Automated Dishwasher
+## Conveyor System for transporting materials
 
 ## Overview
 
 **Description**
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
-- A hood-type machine come with a vertical lift hood 
-- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
-
-Support capped at $5,000 per unit 
-
-
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ## Solution Packages Option(s)
 
@@ -26,9 +20,9 @@ Support capped at $5,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit comes with automated drain pump, detergent and rinse pumps. <br>- Minimum water tank capacity of 15 litres<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -28,11 +28,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1602' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1646' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1637' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1681' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1765' target='_blank'>Electric Pedestrian Pallet Truck</a><br></td>
 <td></td>
 </tr>
 </table>

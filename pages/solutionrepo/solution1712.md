@@ -1,15 +1,15 @@
 ---
-title: 'Temperature montoring/ labelling device'
+title: 'Automatic case labelling machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1712
 ---
 
-## Temperature montoring/ labelling device
+## Automatic case labelling machine
 
 ## Overview
 
 **Description**
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+Case printing system or pack labelling system which allow the user to fully customize their label.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'Lemonade eCommerce Solution'
+title: 'iLOGON (iFMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution842
 ---
 
-## Lemonade eCommerce Solution
+## iLOGON (iFMS)
 
 ## Overview
 
 **Description**
 
-Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
+KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cross border operations. System features include, multiple sales quotation & billing, LCL and FCL handling, import & export detail booking & operations, job P&L and contains an extensive list of configurable documents printouts such as Arrival Shipping Note, Delivery Note, Waybill, etc. Management Reports & Dashboard are readily available for freight forwarders to analyse & perform critical business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customise
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lemonade eCommerce Solution - Prime</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iFMS) - SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keyfields_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

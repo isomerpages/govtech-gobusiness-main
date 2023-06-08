@@ -1,15 +1,19 @@
 ---
-title: 'Automatic Feeding/ Drinking System'
+title: 'Automated Dough Filler/Depositor'
 permalink: /productivity-solutions-grant/solutionrepo/solution1669
 ---
 
-## Automatic Feeding/ Drinking System
+## Automated Dough Filler/Depositor
 
 ## Overview
 
 **Description**
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +24,9 @@ A system that automates the feeding/ drinking process at a predetermined time an
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
 </tr>
 </table>
 
