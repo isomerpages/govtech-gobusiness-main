@@ -1,6 +1,6 @@
 ---
 title: 'IP Brokerage and Licensing'
-permalink: /intellectual-property/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/
+permalink: /intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/
 third_nav_title: Commercialisation and Financing
 ---
 
