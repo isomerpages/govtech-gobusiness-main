@@ -1,15 +1,15 @@
 ---
-title: 'WhyQ VendorOS Version 13.0'
+title: 'Ecommerce Online Shop with Custom Design'
 permalink: /productivity-solutions-grant/solutionrepo/solution1528
 ---
 
-## WhyQ VendorOS Version 13.0
+## Ecommerce Online Shop with Custom Design
 
 ## Overview
 
 **Description**
 
-WhyQ Vendor OS is an all-in-one digitization tool that helps F&B establishments digitize daily operational processes. It eliminates administrative challenges by helping to maximize manpower resources and lowering day-to-day costs, allowing establishments to focus on serving more customers.
+Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,27 @@ WhyQ Vendor OS is an all-in-one digitization tool that helps F&B establishments 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyQ VendorOS Version 13.0 - Software Only</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyQ_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Basic)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyQ VendorOS Version 13.0 - Software with Basic Hardware</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyQ_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Premium)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: WhyQ Pte. Ltd.<br>Web URL: www.whyq.sg <br><br>Contact Hotline: 69142673 <br><br>Contact Email: contactus@whyq.sg <br><br>
+ Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (e-form)'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution853
 ---
 
-## LittleLives School Management System (e-form)
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lemonade eCommerce Solution - Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

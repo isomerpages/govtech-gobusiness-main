@@ -1,15 +1,18 @@
 ---
-title: 'Conveyor System for transporting materials'
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1674
 ---
 
-## Conveyor System for transporting materials
+## Form Fill Seal Machine
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+
+Cost of equipment  capped at $20,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +23,9 @@ A conveyor system that automates farming processes such as production, feeding, 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
 </tr>
 </table>
 

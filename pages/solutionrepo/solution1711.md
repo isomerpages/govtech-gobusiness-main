@@ -1,15 +1,15 @@
 ---
-title: 'Underwater Camera'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1711
 ---
 
-## Underwater Camera
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Underwater cameras to have closer monitoring of the livestock activity in water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

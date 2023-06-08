@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
+title: 'BIPO HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution566
 ---
 
-## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+## BIPO HRMS
 
 ## Overview
 
 **Description**
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+Enable Consulting is an HR consultancy agency providing firms with reliable HRMS and payroll solutions, bundled with outsourced HR services from qualified HR professionals. Businesses can get access to a pool of qualified HR consultants to help tackle HR challenges. From hiring to onboarding, Enable Consulting helps to improve all HR functions to drive better business results. Choose the right partner to navigate the ever-changing landscape of HR compliance and create a positive workplace.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ EON was established in 1996 and specialises in providing human capital consultin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 30 employees)</td>
+<td style='padding: 10px;'>$12,560.00</td>
+<td style='padding: 10px;'>$12,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 50 employees)</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 100 employees)</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 150 employees)</td>
+<td style='padding: 10px;'>$38,800.00</td>
+<td style='padding: 10px;'>$38,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enable Consulting Payroll Outsourcing Services (Up to 200 employees)</td>
+<td style='padding: 10px;'>$42,400.00</td>
+<td style='padding: 10px;'>$42,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EnableConsulting_BIPO_HRMS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
+ Company name:Enable Consulting Pte Ltd<br>Web URL: www.enablegroupasia.com <br>Contact Hotline: 68718801 <br>Contact Email: clientservices@enablegroupasia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

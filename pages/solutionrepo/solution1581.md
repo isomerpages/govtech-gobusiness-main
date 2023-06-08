@@ -1,15 +1,15 @@
 ---
-title: 'Zeemart Supplier Hub'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1581
 ---
 
-## Zeemart Supplier Hub
+## EzySalesOrder Version 3.0
 
 ## Overview
 
 **Description**
 
-Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
+Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
-<td style='padding: 10px;'>$29,500.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
+<td style='padding: 10px;'>$19,780.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

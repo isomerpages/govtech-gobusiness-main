@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - NTUC LearningHub Pte Ltd'
+title: 'RAVENPOS DIGITAL ORDERING SOLUTION Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1024
 ---
 
-## Job Redesign Consultancy - NTUC LearningHub Pte Ltd
+## RAVENPOS DIGITAL ORDERING SOLUTION Version 12
 
 ## Overview
 
 **Description**
 
-NTUC LearningHub is the leading Continuing Education and Training provider in Singapore which aims to transform the lifelong employability of working people. Since our corporatisation in 2004, we have helped over 26,000 organisations and achieved more than 2.6 million training places. As a Total Learning Solutions provider, we forge partnerships to offer a wide range of relevant end-to-end advisory & training to help companies and individuals transform and upskill.
+RavenPOS Digital Ordering Solution, a feature-rich digital platform engineered for the food services industry. The solution provides end users with an efficient and user-friendly interface to better manage daily business operation; allowing their customers to move quickly through busy queues and generates useful insights and reporting for analytical purposes.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ NTUC LearningHub is the leading Continuing Education and Training provider in Si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyNTUCLearningHub.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,900.00</td>
+<td style='padding: 10px;'>$5,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_RAVENPOS_DIGITAL_ORDERING_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_RAVENPOS_DIGITAL_ORDERING_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_RAVENPOS_DIGITAL_ORDERING_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ NTUC LearningHub is the leading Continuing Education and Training provider in Si
 
 ## Vendor Information
 
- Company name: NTUC LearningHub Pte Ltd<br>Web URL: http://www.ntuclearninghub.com/<br>Contact Name: NTUC LearningHub Corporate Sales<br>Contact Hotline: +65 6336 5482<br>Contact Email: corpsales@ntuclearninghub.com
+ Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

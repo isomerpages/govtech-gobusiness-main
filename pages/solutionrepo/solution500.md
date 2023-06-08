@@ -1,17 +1,15 @@
 ---
-title: 'DST E-Commerce'
+title: 'Cub3commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution500
 ---
 
-## DST E-Commerce
+## Cub3commerce
 
 ## Overview
 
 **Description**
 
-The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
-
-WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
+CUB3COMMERCE covers the development of an online shopping website with comprehensive functionality to automate and perform sales transactions, manage orders, track statistics on product performance in a way that is both insightful as well as easy. The solution will assist in marketing products more effectively by taking advantage of a wide range of data tracking capabilities which enables a better insight into customers' behaviour.
 
 ## Solution Packages Option(s)
 
@@ -25,10 +23,17 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST E-Commerce - Premium Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cub3commerce - Standard Ecommerce</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_DUCB3_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cub3commerce - Premium Ecommerce with Global Marketplace Integration + POS</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_DUCB3_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,7 +43,7 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 
 ## Vendor Information
 
- Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
+ Company Name: DCUB3 PTE LTD<br>Web URL: www.dcub3.com.sg <br><br>Contact Hotline: 97346544 <br><br>Contact Email: armstrong@dcub3.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

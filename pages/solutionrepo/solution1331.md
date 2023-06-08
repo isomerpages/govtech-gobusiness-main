@@ -1,15 +1,15 @@
 ---
-title: 'SUNTOYO POS SOLUTION Version 8.1'
+title: 'SKIP QUEUE (F&B) - DIGITAL ORDERING'
 permalink: /productivity-solutions-grant/solutionrepo/solution1331
 ---
 
-## SUNTOYO POS SOLUTION Version 8.1
+## SKIP QUEUE (F&B) - DIGITAL ORDERING
 
 ## Overview
 
 **Description**
 
-Suntoyo POS solution is an all-in-one platform that runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides straightforward cloud-based backend management software with functions specially designed for quick adaptation to end-users. Discover new ways to automate customer orders, transform transaction processing method, gather business insights, manage inventory, and create loyalty memberships campaigns.
+SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - Software Only</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in, Takeaway, & Delivery)</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Tablet</td>
-<td style='padding: 10px;'>$4,760.00</td>
-<td style='padding: 10px;'>$4,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Dine-in/Takeaway/Delivery/Multi-User/KDS)</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management and barcode label Module</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware(Dine-in/Takeaway/Delivery/Multi-User/KDS)</td>
 <td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desenitised_SkipQoo_Annex_3wef28Apr2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 
 ## Vendor Information
 
- Additional criteria: <br>Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Company Name: SkipQoo Pte Ltd<br>Web URL: www.skipqoo.io <br><br>Contact Hotline: 88460000 <br><br>Contact Email: hello@skipqoo.io <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

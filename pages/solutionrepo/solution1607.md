@@ -1,37 +1,57 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Stendard Solution Version 1.7.12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1607
 ---
 
-## Circular Gas Cutter
+## Stendard Solution Version 1.7.12
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
-
-Cost of equipment capped at $18,750 per unit 
+Stendard Solution is a cloud-based document management system allowing businesses of all sizes to implement business processes, in line with international standards. Users can easily collaborate, store, maintain, review, and sign-off documents electronically with digitised business workflows, version controls and track them on the platform. Stendard's vision is to put quality at the centre of all businesses.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (5 concurrent users)</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (10 concurrent users)</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (30 concurrent users)</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$25,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name: YNL 360 Pte Ltd<br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

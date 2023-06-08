@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Automated Counter/ Biomass Estimation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1706
 ---
 
-## HVAC system
+## Automated Counter/ Biomass Estimation System
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
