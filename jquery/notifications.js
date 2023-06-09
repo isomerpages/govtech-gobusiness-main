@@ -17,10 +17,6 @@ const custom_notifications = [
 
 
 
-  //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
-  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 26 May 2023 10pm to 26 May 11.59pm. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am",
 
   //[**FS Downtime**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey for Food Services will be unavailable due to scheduled maintenance on 16 February 2023 from 6pm to 7pm. Other services on GoBusiness will remain available. We apologise for the inconvenience caused."
@@ -54,13 +50,12 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 5 Jun 2023 10pm to 6 Jun 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 26 May 2023 10pm to 27 May 2022 8am<br>(2) From 27 May 2023 10pm to 28 May 2023 8am"
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 9 Jun 2023 10pm to 10 Jun 2023 8am<br>(2) From 10 Jun 2023 10pm to 11 Jun 2023 8am"
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 9 Jun 2023 10pm to 10 Jun 2023 8am<br>(2) From 10 Jun 2023 10pm to 11 Jun 2023 8am",
 
   //[**APEX / EDH**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am",
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable due to scheduled maintenance on 4 Jun 2023 from 12:01am to 8am. We apologise for the inconvenience caused."
 
-  
 
 
   //[**ECDA DOWNTIME**]
@@ -76,6 +71,10 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
   //L1T ARC DOWNTIME
 
+  //[**ACRA DOWNTIME, BIZFILE + System Downtime**]
+  //"<b>[Attention: System Maintenance]</b> The following services will be unavailable due to scheduled maintenance from 20 Aug 2022 12am to 12pm: Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 26 May 2023 10pm to 26 May 11.59pm. We apologise for the inconvenience caused.",
+  "<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on 11 June 2023 from 12am to 10am due to scheduled maintenance. We apologise for the inconvenience caused."
   
 
 
