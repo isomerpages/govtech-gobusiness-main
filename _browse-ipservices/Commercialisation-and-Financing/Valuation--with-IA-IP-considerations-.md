@@ -22,25 +22,3 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
 
-**2 service providers listed.**
-
-Select a service provider below to view their profile and connect with them.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for valuation (with IA/IP considerations) service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
-
-#### Allen & Gledhill LLP
-
-Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> a5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
-</ul>
-
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
-
----
-

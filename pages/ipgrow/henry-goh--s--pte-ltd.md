@@ -5,25 +5,21 @@ permalink: /intellectual-property/ip-grow/henry-goh--s--pte-ltd/
 
 ## Henry Goh (S) Pte Ltd
 
-BBBB long descr
+From humble origins as a one-man business in 1977, we have matured into one of the leading specialist IP agencies in the ASEAN region with headquarters in Malaysia’s vibrant and cosmopolitan capital Kuala Lumpur and a sister office in Singapore. Beyond our three core operating jurisdictions of Malaysia, Brunei Darussalam and Singapore, we work in close collaboration with an extensive network of carefully-vetted foreign associates worldwide. Our teams of professionals handle all aspects of intellectual property protection and management. Despite the firm’s impressive growth, we have held true to our roots as a family business with a strong emphasis on professional ethics, high quality work, personalized service and being a responsible corporate citizen.
 
-<b>Year established in Singapore:</b> 1902
+<b>Year established in Singapore:</b> 1992
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Innovation Consultancy Service, IP Training Service
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service
 
-<b>Intellectual property awards received:</b> Singapore Intellectual Property Law Firm of the Year at the ALB SE Asia Law Awards 2022, Regional Law Firm of the Year at the Legal 500 Southeast Asia Legal Awards 20/21
+<b>Type of organization:</b> SME
 
-<b>Type of organization:</b> Non-SME
+<b>Address in Singapore:</b> 2 Venture Drive, #15-21 Vision Exchange, Singapore 608526
 
-<b>Address in Singapore:</b> One Marina Boulevard #28-00 Singapore 018989
+<b>Website:</b> <a href='http://henrygoh.com.sg/'>http://henrygoh.com.sg/</a>
 
-<b>Website:</b> <a href='https://allenandgledhill.com/'>https://allenandgledhill.com/</a>
+<a class='btn' href='https://form.gov.sg/640e83c53ab4240011d59584' target='_blank' rel='noopener'>Connect</a>
 
-<b>Offer:</b> 20% discount on all IP services for SMEs
-
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>
-
-{% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
+{% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
 ---
 <a name='ip-related-service-areas'></a>
@@ -32,34 +28,44 @@ BBBB long descr
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  b1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: b3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: b4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  b5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 201 to 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  4500</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: b1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: b2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: b3</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: b4</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): b5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 61 to 75</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 1200</li>
+</ul>
+
+**Trade Mark Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1200</li>
 </ul>
 
 ---
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):Malaysia, Myanmar, Indonesia, Vietnam</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s):-</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -67,50 +73,24 @@ BBBB long descr
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>Taiwan - 15%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 5%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>South Korea - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 30%</li></ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Non-profit organisations - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 70%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Government - 0%</li></ul>
-
----
-<a name='testimonials'></a>
-### Testimonials
-
-*"Excellent work and great service by the team at company ABC Singapore. Special mention to Ms. Ow Kim Kit and Mr. Yap Teck Chai. They were professional and knowledgeable in their area of expertise."* - Eric Koh, Director, ABC Pte Ltd.
-
-*"I will engage them again. Very efficient and very professionals. Highly recommended."* - Ms. Lisa, Senior Partner, XYZ Pte Ltd.
-
-
-
----
-<a name='case-studies'></a>
-### Case studies
-
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=PCTSG2021050212" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.google.com" target="_blank" rel="noopener">case study 3</a></li></ul>
+</ul>
 
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**James Tan**
+**Ameen Kalani**
 
-- Job Title: Senior IP Strategist
-- Years of Experience: 12 years
+- Job Title: Executive Director
+- Years of Experience: 20 years
 - Location: Singapore
-- IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Tax Advisory, Valuation
-- Certifications/Qualifications: SAC accredited TR 43, Accredited Tax Advisor
-- Awards/Accolades: World's Leading IP Strategist Award
-- URL of LinkedIn/Company Profile: www .linkedin.com/james tan
-
-**Alice Lim (Malaysia)**
-
-- Job Title: IP Strategist
-- Years of Experience: 5 years
-- IP-Related Expertise: IP Audit, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
-- Certifications/Qualifications: MIPIM, Registered Management Consultant
-- Awards/Accolades: -
-- URL of Linkedin/Company Profile: www linkedin.com/alicelim
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service
+- Certifications/Qualifications: Registered Patent Agent Practicing Certificate, Honours Degree in Law 
+- URL of LinkedIn/Company Profile: linkedin.com/in/ameen-kalani-67a22618
 
 ---
-Profile last updated on 20 January 2023
+Profile last updated on 12 June 2023

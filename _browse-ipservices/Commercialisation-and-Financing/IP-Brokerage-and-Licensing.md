@@ -26,25 +26,101 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 
 ### Connect with relevant service providers for IP brokerage and licensing services
 
-**1 service providers listed.**
+**19 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP brokerage and licensing service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
-#### Allen & Gledhill LLP
+#### EverEdge Global
 
-Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
+EverEdge provides specialist intangible asset advisory, valuation and corporate finance services.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> a5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 20000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+
+---
+
+#### Quahe Woo & Palmer
+
+Our law firm provides a full range of IP services including contentious matters and advisory work.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 2500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/quahe-woo-palmer/){:target='_blank'}
+
+---
+
+#### Seiter IP Consultants LLP
+
+Seiter IP Consultants LLP is a small IP boutique firm providing different types of IP services.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/seiter-ip-consultants-llp/){:target='_blank'}
+
+---
+
+#### Piece Future Pte Ltd
+
+Piece Future is an Intellectual Property bank offering various strategy services for MNCs, SMEs, etc.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 1400</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/643f4a3d662b62001209ac43' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/piece-future-pte-ltd/){:target='_blank'}
+
+---
+
+#### Ravindran Associates LLP
+
+We are a law firm specialising in IP registration, enforcement, advisory, and dispute resolution.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 2000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/ravindran-associates-llp/){:target='_blank'}
+
+---
+
+#### Harry Elias Partnership LLP
+
+A well-reputed multi-disciplinary law firm in Singapore.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> -</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
 
 ---
 
