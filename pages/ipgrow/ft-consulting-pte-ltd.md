@@ -99,7 +99,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We would like to thank Winston for his invaluable contribution to TPHL’s successful acquisition of IP and related business assets valued at S$121m. The IP assets will be instrumental in paving our forward growth plans. We will be glad to recommend Winston to companies needing IP and Business consultancy services."* - Tay Ai Li, Chief Financial Officer, The Place Holdings Limited.
+*"We would like to thank Winston for his invaluable contribution to TPHL's successful acquisition of IP and related business assets valued at S$121m. The IP assets will be instrumental in paving our forward growth plans. We will be glad to recommend Winston to companies needing IP and Business consultancy services."* - Tay Ai Li, Chief Financial Officer, The Place Holdings Limited.
 
 *"The brand strategies that we are adopting as a result of this project will have a long-term positive impact on our revenue and market reputation, both locally and overseas."* - Gan Hup Lee.
 
@@ -134,7 +134,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: PMC (Practising Management Consultant) -IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)
-- Awards/Accolades: Listed in “IAM Strategy 300: The World’s Leading IP Strategists”, SkillsFuture Fellowships Award 2019
+- Awards/Accolades: Listed in “IAM Strategy 300: The World's Leading IP Strategists”, SkillsFuture Fellowships Award 2019
 - URL of Linkedin/Company Profile: www.linkedin.com/in/winston-chan-ftc
 
 **Robin Yeo Meng Cer**

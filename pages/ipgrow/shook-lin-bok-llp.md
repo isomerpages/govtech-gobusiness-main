@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/shook-lin-bok-llp/
 
 ## Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian presence and global reach. Many of the Firm 's partners are eminent lawyers in their respective areas of practice. The Firm’s Intellectual Property, Technology and Data Practice advises on a broad range of IP issues which include the registration of IP rights, advising on intangible asset strategies, IP enforcement and dispute resolution matters, online brand protection matters, and IP commercial and transactional disputes.
+Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian presence and global reach. Many of the Firm 's partners are eminent lawyers in their respective areas of practice. The Firm's Intellectual Property, Technology and Data Practice advises on a broad range of IP issues which include the registration of IP rights, advising on intangible asset strategies, IP enforcement and dispute resolution matters, online brand protection matters, and IP commercial and transactional disputes.
 
 <b>Year established in Singapore:</b> 1964
 
@@ -180,7 +180,7 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LLB (Hons); Advocate & Solicitor of Supreme Court of Singapore, B.Eng (Mechanical), Graduate Certificate in IP
-- Awards/Accolades: IAM Patent 1000 2018 – 2020 and 2022 as a leading individual for patent litigation and patent-related transactions, Asia IP 2021 as an IP Expert, Managing IP as an IP Star for Patents since 2020, Asialaw Leading Lawyers 2022/23 as a Notable Practitioner in intellectual property, WTR 1000 2022 as a leading individual for trademark enforcement and litigation and trademark-related transactions
+- Awards/Accolades: IAM Patent 1000 2018 - 2020 and 2022 as a leading individual for patent litigation and patent-related transactions, Asia IP 2021 as an IP Expert, Managing IP as an IP Star for Patents since 2020, Asialaw Leading Lawyers 2022/23 as a Notable Practitioner in intellectual property, WTR 1000 2022 as a leading individual for trademark enforcement and litigation and trademark-related transactions
 - URL of LinkedIn/Company Profile: www.shooklin.com/en/our-partners/jevon-louis
 
 **Kristen Lim**

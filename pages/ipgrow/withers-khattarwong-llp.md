@@ -144,7 +144,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: Chambers Asia Pacific 2023 – Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright – Expert, Doyle's Guide 2020 - TMT
+- Awards/Accolades: Chambers Asia Pacific 2023 - Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright - Expert, Doyle's Guide 2020 - TMT
 - URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jonathan-kok
 
 ** Gretchen Su **
@@ -219,7 +219,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: The Legal 500 Asia-Pacific 2023 - Intellectual Property - Leading Individual, Chambers Asia-Pacific 2022 – Ranked, Asia IP Experts - Intellectual Property - IP Experts
+- Awards/Accolades: The Legal 500 Asia-Pacific 2023 - Intellectual Property - Leading Individual, Chambers Asia-Pacific 2022 - Ranked, Asia IP Experts - Intellectual Property - IP Experts
 - URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jim-lim
 
 ---

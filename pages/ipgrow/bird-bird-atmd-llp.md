@@ -9,7 +9,7 @@ Bird & Bird ATMD is a leading Singapore law firm with a strong local presence, c
 
 We are uniquely placed to offer the whole range of services being a law firm with a strong intellectual property practice, as well as an experienced team of in-house patent attorneys. Our detailed understanding of technology and innovation and its challenges enables us to help domestic and multinational businesses manage, protect, exploit and litigate their IP rights even as businesses embrace digitisation and e-commerce.
 
-With more than 1,400 lawyers across Bird & Bird’s network of 31 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
+With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
 
 <b>Year established in Singapore:</b> 1994
 

@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/covenant-chambers/
 
 Covenant Chambers LLC is a pioneering Singapore law firm that has leveraged digital automation to provide a unique combination of technology-driven legal advisory and strategic solutions for clients across a broad range of sectors (including marginalised groups).
 
-Our firm’s tech and intellectual property practice handles a wide array of contentious and non-contentious work. We advise on many multi-disciplinary aspects of technology and media, data privacy and protection, Fintech, virtual assets, financial regulations, and IP registration and licensing.
+Our firm's tech and intellectual property practice handles a wide array of contentious and non-contentious work. We advise on many multi-disciplinary aspects of technology and media, data privacy and protection, Fintech, virtual assets, financial regulations, and IP registration and licensing.
 
 Our firm has been recognised in The Legal 500 2022 for its Technology, Media and Telecommunications (TMT) practice, led by Director Ronald JJ Wong, as one of the best up-and-coming firms in Singapore for our TMT expertise.
 
@@ -103,9 +103,9 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 *"Ronald has good knowledge of IP law. He guided us to formulate the IP policy which was very clear, positive, and easy to understand. Indeed, one of our colleagues commented on the IP policy as an excellent document. He was prompt in delivering his service and answered all our doubts. Our management was impressed with his presentation. He went the extra mile (time) to ensure that he had fulfilled his responsibilities. Overall, Ronald is an approachable and down-to-earth lawyer."* - Mr Lim G.P.
 
-*"Ronald and team have been dependable as legal counsels and are knowledgeable within their fields of expertise. Their service quality has been on point as well- their turnaround times for advice, and care for our business has made us advocates for their firm and their cause. we have referred a handful of clients and cases to Ronald and team and continue to trust them with the work that we’ve cut out for them."* - Mr N. Hu, Co-Founder.
+*"Ronald and team have been dependable as legal counsels and are knowledgeable within their fields of expertise. Their service quality has been on point as well- their turnaround times for advice, and care for our business has made us advocates for their firm and their cause. we have referred a handful of clients and cases to Ronald and team and continue to trust them with the work that we've cut out for them."* - Mr N. Hu, Co-Founder.
 
-*"It’s been a pleasure working with Ronald. I sent inquiries to 3 firms before deciding on Ronald. Ronald was the only one who replied personally, and his response was fast as well. His replies always had a personal touch and was willing to share his preliminary thoughts even though he wasn’t appointed yet. We appointed Ronald for advisory and contract drafting. Throughout the engagement, he was very patient to incorporate our requirements and explaining the different legal terminologies. Overall, we made the right choice work engaging Ronald, and look forward to future engagements with him again. Kudos to Ronald & the team!"* - Mr L. Lim, Managing Partner.
+*"It's been a pleasure working with Ronald. I sent inquiries to 3 firms before deciding on Ronald. Ronald was the only one who replied personally, and his response was fast as well. His replies always had a personal touch and was willing to share his preliminary thoughts even though he wasn't appointed yet. We appointed Ronald for advisory and contract drafting. Throughout the engagement, he was very patient to incorporate our requirements and explaining the different legal terminologies. Overall, we made the right choice work engaging Ronald, and look forward to future engagements with him again. Kudos to Ronald & the team!"* - Mr L. Lim, Managing Partner.
 
 
 
@@ -120,7 +120,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: ISO 9001:2015 Quality Management Systems Internal Auditor Training Course, ISO 31000 Risk Based Thinking Awareness Training Course, Advocate & Solicitor of the Supreme Court of Singapore (2013), NUS LLB (Hons), Singapore Mediation Centre (SMC) Accredited Mediator
-- Awards/Accolades: Asia Business Law Journal 2019 A-List Singapore’s Top 100 Lawyers, Asia Business Law Journal 2018, A-List Singapore’s Top 100 Lawyers, 
+- Awards/Accolades: Asia Business Law Journal 2019 A-List Singapore's Top 100 Lawyers, Asia Business Law Journal 2018, A-List Singapore's Top 100 Lawyers, 
 - URL of LinkedIn/Company Profile: www.covenantchambers.com/ronald-wong
 
 **Sara Ng**

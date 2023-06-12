@@ -8,7 +8,7 @@ permalink: /intellectual-property/ip-grow/aei-legal-llc/
 AEI Legal was established in 2018 to provide specialist corporate law advice, offering innovative, practical solutions. With over 20 years of experience at Magic Circle and leading law firms in Singapore and Hong Kong, our people have won multiple accolades from global & regional legal directories.
 Our people have deep expertise in the fields of mergers & acquisitions (M&A), private equity (PE), venture capital (VC), data privacy and cybersecurity, technology law, equity capital markets (ECM), and corporate & commercial law.
 
-We regularly advise on time-sensitive and technically demanding transactions – our clients are multinational corporations, listed companies, small & medium enterprises and emerging companies. We also provide counsel to boards of directors and senior executives in sensitive scenarios, including reorganisations, successions, and crisis management.
+We regularly advise on time-sensitive and technically demanding transactions - our clients are multinational corporations, listed companies, small & medium enterprises and emerging companies. We also provide counsel to boards of directors and senior executives in sensitive scenarios, including reorganisations, successions, and crisis management.
 
 We believe in long-term relationships, and pride ourselves on our reputation for high standards.
 
@@ -73,9 +73,9 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 
 *"AEI Legal is the perfect partner for us, for their reliability, responsiveness and expertise in meeting both fundraising and M&A needs."* - JJ Chai, CEO & Co-founder, Rainforest Life.
 
-*"Andrea Chee and her team at AEI Legal are very efficient and very commercial deal counsel – I highly recommend them for both private financings and M&A transactions in Singapore."* - James Jackson, General Counsel, Next Gen Foods (TiNDLE).
+*"Andrea Chee and her team at AEI Legal are very efficient and very commercial deal counsel - I highly recommend them for both private financings and M&A transactions in Singapore."* - James Jackson, General Counsel, Next Gen Foods (TiNDLE).
 
-*"It’s been a pleasure working with the AEI team. They are always responsive, meticulous and have an eye on business imperatives. It’s reassuring to have them looking out for us."* - Liu Feng Yuan, CEO & Co-founder, Basis AI (now part of Aicadium Singapore).
+*"It's been a pleasure working with the AEI team. They are always responsive, meticulous and have an eye on business imperatives. It's reassuring to have them looking out for us."* - Liu Feng Yuan, CEO & Co-founder, Basis AI (now part of Aicadium Singapore).
 
 
 
@@ -90,7 +90,7 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting
 - Certifications/Qualifications: Advocate and Solicitor Supreme Court of Singapore, Solicitor of Supreme Court of England and Wales & Accredited Mediator, Singapore International Mediation Institute, Associate Chartered Valuer and Appraiser (Business Valuation), Tutor of Advanced Corporate Practice at Singapore Institute of Legal Education (SILE)
-- Awards/Accolades: Singapore Managing Partner of the Year shortlist – Southeast Asia Law Awards (2021) (2020), Recommended in the Legal 500 for M&A (2015), Recommended in the IFLR 1000 for ECM (2016), Recommended in the Legal 500 for M&A (2017)
+- Awards/Accolades: Singapore Managing Partner of the Year shortlist - Southeast Asia Law Awards (2021) (2020), Recommended in the Legal 500 for M&A (2015), Recommended in the IFLR 1000 for ECM (2016), Recommended in the Legal 500 for M&A (2017)
 - URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/andreachee
 
 **Yuho Bong**

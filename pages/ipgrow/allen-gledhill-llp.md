@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/allen-gledhill-llp/
 
 ## Allen & Gledhill LLP
 
-Allen & Gledhill is a regional law firm which has been providing legal services to premier clients since 1902. An award-winning law firm, we have been named South-east Asia Law Firm of the Year 2016, 2018, 2019, 2020 and 2021 by Asian Legal Business and Regional Firm of the Year 2020/2021 by The Legal 500. The International Financial Law Review named us National Firm of the Year (Singapore) 2023 for 22 times since the award’s inception in 2000, and Regional Firm of the Year five times since the inception of this award in 2014, most recently in 2022. We were also the first Singapore and Southeast Asia law firm to receive this honour in 2014.
+Allen & Gledhill is a regional law firm which has been providing legal services to premier clients since 1902. An award-winning law firm, we have been named South-east Asia Law Firm of the Year 2016, 2018, 2019, 2020 and 2021 by Asian Legal Business and Regional Firm of the Year 2020/2021 by The Legal 500. The International Financial Law Review named us National Firm of the Year (Singapore) 2023 for 22 times since the award's inception in 2000, and Regional Firm of the Year five times since the inception of this award in 2014, most recently in 2022. We were also the first Singapore and Southeast Asia law firm to receive this honour in 2014.
 
 <b>Year established in Singapore:</b> 2007
 

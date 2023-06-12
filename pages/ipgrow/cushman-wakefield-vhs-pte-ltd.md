@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/cushman-wakefield-vhs-pte-ltd/
 
 Cushman & Wakefield is a global real estate services firm that delivers exceptional value and a one-stop service platform for real estate occupiers and owners. At Cushman & Wakefield Singapore, we provide a full suite of commercial real estate services including Valuation & Advisory Services. Our Singapore team consists of more than 2,100 professionals, making it the largest full-service commercial real estate company in the country, leveraging off the expertise of 2000 offices across 70 countries around the world.  
 
-The opening of two new offices in Singapore solidifies our position as a real estate services powerhouse in Singapore and the region – Singapore for Singapore, Singapore for Asia.
+The opening of two new offices in Singapore solidifies our position as a real estate services powerhouse in Singapore and the region - Singapore for Singapore, Singapore for Asia.
 
 <b>Year established in Singapore:</b> 2007
 

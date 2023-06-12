@@ -11,7 +11,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, Contract Drafting
 
-<b>Intellectual property awards received:</b> Legal500 – Firms to Watch
+<b>Intellectual property awards received:</b> Legal500 - Firms to Watch
 
 <b>Type of organization:</b> Non-SME
 
@@ -162,7 +162,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), Dispute Resolution, IP Training
 - Certifications/Qualifications: Singapore Registered Patent Agent, Commissioner for Oaths and Notary Public, Advocate & Solicitor of Supreme Court Singapore, LLB (Hons) National University of Singapore, Singapore International Association for the Protection of Intellectual Property (Treasurer)
-- Awards/Accolades: IAM Patent 1000 – Leading Individual, WTR (Trade Marks) – listed for Individuals: prosecution and strategy (Silver)/ Individuals: transactions (Recommended)/ Individuals: enforcement and litigation (Silver), MIP IP Stars – Patent Star, WIPR Leaders – Patents/Trade Marks/ Technology, Asia IP – IP Expert
+- Awards/Accolades: IAM Patent 1000 - Leading Individual, WTR (Trade Marks) - listed for Individuals: prosecution and strategy (Silver)/ Individuals: transactions (Recommended)/ Individuals: enforcement and litigation (Silver), MIP IP Stars - Patent Star, WIPR Leaders - Patents/Trade Marks/ Technology, Asia IP - IP Expert
 - URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/sheena-r-jacob-66b1695
 
 **Denise Loh**
@@ -172,7 +172,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor of Supreme Court Singapore, LL.B. Singapore Management University, International Trademark Association
-- Awards/Accolades: MIP IP Stars – Rising Star
+- Awards/Accolades: MIP IP Stars - Rising Star
 - URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/denise-loh
 
 ---

@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/thatlegal-llc/
 
 ## That.Legal LLC
 
-At That.Legal LLC we bring strong global experience to the table to address your international business challenges. The combination of our team’s unique strengths sets us apart from our competitors that think IP begins with registration and ends with enforcement.
+At That.Legal LLC we bring strong global experience to the table to address your international business challenges. The combination of our team's unique strengths sets us apart from our competitors that think IP begins with registration and ends with enforcement.
 
 We provide timely, cost-effective, and commercially practical solutions to those who need it most, leveraging on our pedigree in intellectual property, not only as an afterthought of protection - but as an instigator of change to help unlock and realise the true potential of your intangible assets.
 

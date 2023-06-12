@@ -9,14 +9,14 @@ Hi there!
 
 Did you know these things about Intellectual Property (IP)?
 
-#1 It’s much more than a collection of legal rights.
+#1 It's much more than a collection of legal rights.
 #2 Businesses of any size can generate IP such as trade secrets, creative works, brands, designs and inventions.
 #3 Business value and wealth are increasingly driven more by IP and other intangibles than by physical assets.
 #4 IP that is strategically protected, managed and commercialised enables a business to innovate, increase brand equity and build competitive resilience. 
 
-You see, IP is vitally important to the future of a business. We’re not exaggerating. Seriously. 
+You see, IP is vitally important to the future of a business. We're not exaggerating. Seriously. 
 
-Which is why at YLPLegal, we’re focussed on helping businesses identify, protect, manage and commercialise their IP in through our suite of IP services, including IP advisory, IP registration, IP strategy/portfolio management/due diligence/audit, licensing and franchising. 
+Which is why at YLPLegal, we're focussed on helping businesses identify, protect, manage and commercialise their IP in through our suite of IP services, including IP advisory, IP registration, IP strategy/portfolio management/due diligence/audit, licensing and franchising. 
 
 We want to help your business in the same way. So please reach out to us today!
 

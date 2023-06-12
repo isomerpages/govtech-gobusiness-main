@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/ghows-llc/
 
 ## Ghows LLC
 
-Ghows LLC’s IP practice covers dispute resolution including domain name disputes and breach of confidential information, trade mark portfolio management, IP/brand protection commercialisation and strategy, regulatory advice, drafting of agreements such as licensing agreements. 
+Ghows LLC's IP practice covers dispute resolution including domain name disputes and breach of confidential information, trade mark portfolio management, IP/brand protection commercialisation and strategy, regulatory advice, drafting of agreements such as licensing agreements. 
 
 The team serves clients from a diverse range of industries such as food and beverage, media, entertainment and publishing, luxury goods, biotechnology, automotive and others. The IP practice expertise strength in particularly in IP registration, portfolio management and trade mark contentious matters. The team manages a significant portfolio of trademark, patents and designs. 
 
@@ -139,7 +139,7 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 - Awards/Accolades: Legal500 - ranked leading individual for IP and TMT (from 2016 to 2023), Chambers and Partners - ranked individual for IP (Litigation) (2023), Who's Who Legal - Recommended for Data Security and Information Technology in 2020
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/bghows
 
-**Teresa O’Connor**
+**Teresa O'Connor**
 
 - Job Title: Director
 - Years of Experience: 40 years
@@ -156,7 +156,7 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting
 - Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore), Registered Patent Attorney (Singapore)
-- Awards/Accolades: Asia IP Special Report 2014 - featured as one of the top 50 patent lawyers in 15 jurisdictions around Asia and the Pacific, Asia IP Experts (Patents & Enforcement) - 2013-2018, AsiaLaw Leading Lawyer (IP): 2007 to 2010, Euromoney’s Women in Business Law Expert Guide - Patent: 2012 to 2022, Euromoney’s Patent Expert Guide: 2009 to 2019
+- Awards/Accolades: Asia IP Special Report 2014 - featured as one of the top 50 patent lawyers in 15 jurisdictions around Asia and the Pacific, Asia IP Experts (Patents & Enforcement) - 2013-2018, AsiaLaw Leading Lawyer (IP): 2007 to 2010, Euromoney's Women in Business Law Expert Guide - Patent: 2012 to 2022, Euromoney's Patent Expert Guide: 2009 to 2019
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/patsykoh
 
 **Wai Yeng Chan**

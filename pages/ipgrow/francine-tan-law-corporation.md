@@ -114,7 +114,7 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Registered Singapore Patent Agent, Domain Name Panelist for WIPO & NAF & ADNDRC,  Roll of Solicitors of the Supreme Court of England and Wales,  Advocate and Solicitor of the Supreme Court of Singapore, , Registered Singapore Patent Agent
-- Awards/Accolades: Managing IP – Leading Trade Mark Lawyer Singpaore, Managing IP – Top 250 Women in IP, Straits Times/Statista Best Law Firm (IP) 2021-2023, WTR Global Leader in IP 
+- Awards/Accolades: Managing IP - Leading Trade Mark Lawyer Singpaore, Managing IP - Top 250 Women in IP, Straits Times/Statista Best Law Firm (IP) 2021-2023, WTR Global Leader in IP 
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/francinetan
 
 ---

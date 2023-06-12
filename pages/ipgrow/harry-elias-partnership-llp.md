@@ -206,7 +206,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting
 - Certifications/Qualifications: Registered patent agent in Malaysia, Registered trademark agent in Malaysia, Registered industrial design agent in Malaysia
-- Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore’s 18 most influential lawyers under 40
+- Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore's 18 most influential lawyers under 40
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/esther-wee-23b38b18
 
 ** Philip Fong**

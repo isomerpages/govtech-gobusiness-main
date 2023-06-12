@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/henry-goh--s--pte-ltd/
 
 ## Henry Goh (S) Pte Ltd
 
-From humble origins as a one-man business in 1977, we have matured into one of the leading specialist IP agencies in the ASEAN region with headquarters in Malaysia’s vibrant and cosmopolitan capital Kuala Lumpur and a sister office in Singapore. Beyond our three core operating jurisdictions of Malaysia, Brunei Darussalam and Singapore, we work in close collaboration with an extensive network of carefully-vetted foreign associates worldwide. Our teams of professionals handle all aspects of intellectual property protection and management. Despite the firm’s impressive growth, we have held true to our roots as a family business with a strong emphasis on professional ethics, high quality work, personalized service and being a responsible corporate citizen.
+From humble origins as a one-man business in 1977, we have matured into one of the leading specialist IP agencies in the ASEAN region with headquarters in Malaysia's vibrant and cosmopolitan capital Kuala Lumpur and a sister office in Singapore. Beyond our three core operating jurisdictions of Malaysia, Brunei Darussalam and Singapore, we work in close collaboration with an extensive network of carefully-vetted foreign associates worldwide. Our teams of professionals handle all aspects of intellectual property protection and management. Despite the firm's impressive growth, we have held true to our roots as a family business with a strong emphasis on professional ethics, high quality work, personalized service and being a responsible corporate citizen.
 
 <b>Year established in Singapore:</b> 1992
 

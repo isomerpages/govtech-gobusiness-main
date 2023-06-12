@@ -9,7 +9,7 @@ Questel is a true end-to-end intellectual property solutions provider serving 20
 Whether for patent, trademark, domain name, or design, Questel provides its customers with the software, tech-enabled services, and consulting services necessary to give them a strategic advantage.
 We use state-of-the-art technology such as artificial intelligence, big data, or blockchain, powered by an unparalleled network of international experts, to optimize the maintenance of any IP asset while streamlining the internal processes of our corporate and law firm clientele.
 These solutions, when combined with our IP cost management platform, deliver clients an average savings of 30-60% across the entire prosecution budget.
-Beyond IP, Questel’s mission is to facilitate the development of innovation in an efficient, secure, and sustainable way.
+Beyond IP, Questel's mission is to facilitate the development of innovation in an efficient, secure, and sustainable way.
 
 <b>Year established in Singapore:</b> 2018
 
@@ -168,7 +168,7 @@ Beyond IP, Questel’s mission is to facilitate the development of innovation in a
 <a name='testimonials'></a>
 ### Testimonials
 
-*"The map of the world with countries highlighted by patent coverage is a particularly helpful tool when providing internal reports or answering requests for updates."* - Alessandro Cervi and Margherita Chierici, TTO Manager, Policlinico di Milano’s Technology Transfer Office (TTO).
+*"The map of the world with countries highlighted by patent coverage is a particularly helpful tool when providing internal reports or answering requests for updates."* - Alessandro Cervi and Margherita Chierici, TTO Manager, Policlinico di Milano's Technology Transfer Office (TTO).
 
 *"The representativeness of the data compared to other patent databases is a big advantage of Orbit Intelligence for RIEPL. That includes the ability to upload data on applications/patents for inventions and utility models of foreign applicants to the Russian patent office, to build graphs with the ability to highlight different parameters."* - Irina Ilina, Professor, Director, RIEPL.
 

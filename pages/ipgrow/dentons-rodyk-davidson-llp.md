@@ -7,13 +7,13 @@ permalink: /intellectual-property/ip-grow/dentons-rodyk-davidson-llp/
 
 Trusted since 1861, Dentons Rodyk is one of Singapore's largest and oldest law firms with a team of around 200 lawyers offering clients a full suite of legal services necessary to do business locally and globally. We regularly represent a diverse clientele across a broad spectrum of industries in various practice areas.
 
-Our presence in Southeast Asia is growing. Building on our regional expertise and service offerings, we launched our office in Myanmar, Dentons Myanmar Limited, in 2017, which makes us the largest international law firm to set up in Yangon. Despite being the fastest growing economy in Southeast Asia in the last two years, Myanmar is currently still underserved by global law firms. Our entry is timely and an important part of our regional strategy. Our team in Yangon comprises both highly experienced international and local lawyers, who have a deep understanding of the country’s regulatory and business environment.
+Our presence in Southeast Asia is growing. Building on our regional expertise and service offerings, we launched our office in Myanmar, Dentons Myanmar Limited, in 2017, which makes us the largest international law firm to set up in Yangon. Despite being the fastest growing economy in Southeast Asia in the last two years, Myanmar is currently still underserved by global law firms. Our entry is timely and an important part of our regional strategy. Our team in Yangon comprises both highly experienced international and local lawyers, who have a deep understanding of the country's regulatory and business environment.
 
 <b>Year established in Singapore:</b> 2007
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers Asia-Pacific, 2019 – 2023 - Ranked Band 2 in Intellectual Property ||| The Legal 500 Asia-Pacific, 2019 – 2023 - Ranked Tier 2 in Intellectual Property ||| Asialaw Profiles, 2017 – 2023 - Ranked as Highly Recommended in Intellectual Property ||| Benchmark Litigation Asia-Pacific, 2019 – 2023  - Ranked Tier 2 in Intellectual Property ||| In-House Community, 2019 - Firm of the Year for Intellectual Property 
+<b>Intellectual property awards received:</b> Chambers Asia-Pacific, 2019 - 2023 - Ranked Band 2 in Intellectual Property ||| The Legal 500 Asia-Pacific, 2019 - 2023 - Ranked Tier 2 in Intellectual Property ||| Asialaw Profiles, 2017 - 2023 - Ranked as Highly Recommended in Intellectual Property ||| Benchmark Litigation Asia-Pacific, 2019 - 2023  - Ranked Tier 2 in Intellectual Property ||| In-House Community, 2019 - Firm of the Year for Intellectual Property 
 
 <b>Type of organization:</b> Non-SME
 
@@ -174,7 +174,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor, Singapore 2000
-- Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 – 2022), IP Stars: Top 250 Women in IP (2020 – 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)
+- Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 - 2022), IP Stars: Top 250 Women in IP (2020 - 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)
 - URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/catherine-lee
 
 **Gilbert Leong**
@@ -184,7 +184,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
 - Certifications/Qualifications: Advocate & Solicitor Singapore (1990)
-- Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 – 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)
+- Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 - 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)
 - URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/gilbert-leong
 
 **Ai Ming Lee**
@@ -194,7 +194,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore (1978)
-- Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 – 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 – 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 – 2023)
+- Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 - 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 - 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 - 2023)
 - URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/aiming-lee
 
 **Maw Jiun Foo**

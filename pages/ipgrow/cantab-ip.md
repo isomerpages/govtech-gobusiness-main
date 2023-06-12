@@ -5,11 +5,11 @@ permalink: /intellectual-property/ip-grow/cantab-ip/
 
 ## Cantab IP
 
-Cantab IP specializes in obtaining strong, defensible protection of our clients’ intellectual property. We provide patent drafting and prosecution and trade mark registration services, as well as design registration. We register and help enforce and defend IP rights aroudn the world.
+Cantab IP specializes in obtaining strong, defensible protection of our clients' intellectual property. We provide patent drafting and prosecution and trade mark registration services, as well as design registration. We register and help enforce and defend IP rights aroudn the world.
 
 Our patent attorney is scientifically and technically qualified to PhD level and is legally qualified in European, United Kingdom and Singapore IP law. We specialise in biotechnology, pharmaceuticals and the life sciences but are able to handle inventions in a wide range of technologies including mechanical, electronics and software.
 
-We’re proud to have worked with some of the the most innovative companies in the United States, Europe and Asia, including prestigious household names as well as Nobel Prize winners.
+We're proud to have worked with some of the the most innovative companies in the United States, Europe and Asia, including prestigious household names as well as Nobel Prize winners.
 
 <b>Year established in Singapore:</b> 2016
 
@@ -147,7 +147,7 @@ We’re proud to have worked with some of the the most innovative companies in the
 - Years of Experience: 27 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service Registered Design Agent Service Trade Mark Agent Service Freedom-to-Operate (FTO), IP Due Diligence
-- Certifications/Qualifications: European Patent Attorney, Chartered Patent Attorney (United Kingdom), Intellectual Property Litigation Certificate (United Kingdom), Registered Singapore Patent Agent, PhD (Cambridge University) Double First Class Honours degree in Natural Sciences from Queens’ College
+- Certifications/Qualifications: European Patent Attorney, Chartered Patent Attorney (United Kingdom), Intellectual Property Litigation Certificate (United Kingdom), Registered Singapore Patent Agent, PhD (Cambridge University) Double First Class Honours degree in Natural Sciences from Queens' College
 - URL of LinkedIn/Company Profile: www.cantab-ip.com/people/chong-yee-khoo
 
 ---

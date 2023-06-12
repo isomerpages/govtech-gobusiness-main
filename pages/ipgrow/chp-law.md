@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/chp-law/
 
 CHP Law LLC is a Singapore-based law firm that comprises an eclectic mix of lawyers.
 
-Together, we advocate a modern brand of legal practice – one that recognises how law does not exist in a vacuum and that legal advice must be both sound and effective.
+Together, we advocate a modern brand of legal practice - one that recognises how law does not exist in a vacuum and that legal advice must be both sound and effective.
 
 We work together with our clients every step of the way, providing elegant and creative legal solutions that are value- driven and cost-effective.
 

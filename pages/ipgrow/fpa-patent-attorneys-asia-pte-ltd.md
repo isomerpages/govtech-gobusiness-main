@@ -5,13 +5,13 @@ permalink: /intellectual-property/ip-grow/fpa-patent-attorneys-asia-pte-ltd/
 
 ## FPA Patent Attorneys Asia Pte Ltd
 
-FPA Patent Attorneys Asia has two focusses. One being on domestic SME’s and start-ups, whereby we accompany clients on the entire IP journey from ground zero to a valuable portfolio. FPA also assists experienced business-minded professionals from diverse technical backgrounds in relation to both accumulation of IP assets, and optimising return-on-investment. The other focus is working collaboratively with the Australian team. Collectively, the patent attorneys in our team prepare and prosecute patents directly in Singapore, Australia and New Zealand, and through our agent network in other countries, with a special focus on countries in Southeast Asia. FPA’s market truly values our attorney's deep expertise. Our attorneys partner with clients and stakeholders to deliver agreed upon business results and to provide something extra, such as identification of new opportunities or unforeseen risks. We use our expertise to bring insights, solve problems and co-create custom solutions.
+FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and start-ups, whereby we accompany clients on the entire IP journey from ground zero to a valuable portfolio. FPA also assists experienced business-minded professionals from diverse technical backgrounds in relation to both accumulation of IP assets, and optimising return-on-investment. The other focus is working collaboratively with the Australian team. Collectively, the patent attorneys in our team prepare and prosecute patents directly in Singapore, Australia and New Zealand, and through our agent network in other countries, with a special focus on countries in Southeast Asia. FPA's market truly values our attorney's deep expertise. Our attorneys partner with clients and stakeholders to deliver agreed upon business results and to provide something extra, such as identification of new opportunities or unforeseen risks. We use our expertise to bring insights, solve problems and co-create custom solutions.
 
 <b>Year established in Singapore:</b> 2018
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 
-<b>Intellectual property awards received:</b> Best IP Firm – Asia Pacific, APAC Legal Insider, 2022 ||| Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ||| Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ||| Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ||| Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
+<b>Intellectual property awards received:</b> Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ||| Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ||| Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ||| Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ||| Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
 
 <b>Type of organization:</b> SME
 
@@ -132,7 +132,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME’s and star
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore 
-- Awards/Accolades: Recognised as a ‘Global Leader’ by IAM Strategy 300 (2021-2022), Ranked as a ‘Recommended Individual’ by IAM Patent 1000 (2020-2022), Recognised as a ‘Top 50 IP Expert in Singapore’ by Asia IP (2022)
+- Awards/Accolades: Recognised as a ‘Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a ‘Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a ‘Top 50 IP Expert in Singapore' by Asia IP (2022)
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/desmond-tan
 
 **Karen, Bentlely **
@@ -142,7 +142,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME’s and star
 - Location: Melbourne and Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 
-- Awards/Accolades: Named as a ‘Patent Star’ by IP Star of Managing Intellectual Property (2019-2022), Ranked as a ‘Recommended Individual’ by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
+- Awards/Accolades: Named as a ‘Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a ‘Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/karen-bentley
 
 **Danny Gelman **
@@ -152,7 +152,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME’s and star
 - Location: Melbourne
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Science (First Class Honours) Monash University, PhD (Organic Synthetic Chemistry) Monash University, Fulbright Scholar (Organic Synthetic Chemistry) Harvard University, Master of Intellectual Property Law from University of Melbourne, Registered Trans-Tasman Patent Attorney
-- Awards/Accolades: Named as a ‘Rising Star’ by IP Stars, Managing Intellectual Property (2020-2022)
+- Awards/Accolades: Named as a ‘Rising Star' by IP Stars, Managing Intellectual Property (2020-2022)
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/danny-gelman
 
 ---

@@ -5,10 +5,10 @@ permalink: /intellectual-property/ip-grow/lek-consulting/
 
 ## L.E.K. Consulting
 
-We’re an independent global strategy consultancy working closely with business leaders to seize competitive advantage and amplify growth
-The insights we share with our clients are the catalysts that reshape their business trajectory – uncovering opportunities and empowering them to master their moments of truth.
-Whether it’s a global pharmaceutical company evaluating its strategy to develop new cures for diseases, an emerging technology company looking to rapidly scale its capabilities and production capacity, or a private equity firm seeking to stress-test its investment thesis, every L.E.K. client relies on us to help them reshape gain advantage.
-We take a highly analytical approach to solving our clients’ problems, taking the time to gather the right data and let the facts inform our thinking. Experience and expertise play a part too, but we believe that every client and every challenge deserves a clean sheet and a fresh take.
+We're an independent global strategy consultancy working closely with business leaders to seize competitive advantage and amplify growth
+The insights we share with our clients are the catalysts that reshape their business trajectory - uncovering opportunities and empowering them to master their moments of truth.
+Whether it's a global pharmaceutical company evaluating its strategy to develop new cures for diseases, an emerging technology company looking to rapidly scale its capabilities and production capacity, or a private equity firm seeking to stress-test its investment thesis, every L.E.K. client relies on us to help them reshape gain advantage.
+We take a highly analytical approach to solving our clients' problems, taking the time to gather the right data and let the facts inform our thinking. Experience and expertise play a part too, but we believe that every client and every challenge deserves a clean sheet and a fresh take.
 
 <b>Year established in Singapore:</b> 1989
 

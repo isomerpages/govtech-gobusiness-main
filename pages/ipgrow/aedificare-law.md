@@ -90,7 +90,7 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting
 - Certifications/Qualifications: 1999-2003 Faculty of Law National University of Singapore LL.B. (Second Upper), Advocate & Solicitor Supreme Court of Singapore, SCOPE Intellectual Property Consultant
-- Awards/Accolades: The Legal 500 Asia Pacific 2017 – Tier 3 Technology, Media & Communications (TMT), The Legal 500 Asia Pacific 2016 – Tier 2 Intellectual Property, The Legal 500 Asia Pacific 2016 – Tier 3 Technology Media & Communications (TMT), Asian Legal Business IP Rankings 2016 – Tier 3 Patents, The IP Master 2013 Asia IP – Tier 2 Patent Prosecution
+- Awards/Accolades: The Legal 500 Asia Pacific 2017 - Tier 3 Technology, Media & Communications (TMT), The Legal 500 Asia Pacific 2016 - Tier 2 Intellectual Property, The Legal 500 Asia Pacific 2016 - Tier 3 Technology Media & Communications (TMT), Asian Legal Business IP Rankings 2016 - Tier 3 Patents, The IP Master 2013 Asia IP - Tier 2 Patent Prosecution
 - URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/daniel-chan-6039b92b
 
 ---

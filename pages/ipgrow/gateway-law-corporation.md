@@ -135,7 +135,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - Years of Experience: 28 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who’s Who Legal: Singapore
+- Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who's Who Legal: Singapore
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/maxng
 
 
