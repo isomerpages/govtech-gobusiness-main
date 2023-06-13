@@ -4,7 +4,7 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/ip-watch-se
 third_nav_title: IP Search and Registration
 ---
 
-## IP watch services
+## IP Watch Service
 
 ### What is IP watch?
 
