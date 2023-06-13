@@ -246,7 +246,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/cornelia-peuser
 
 
-**Peter Erdödy**
+**Peter Erd&ouml;dy**
 
 - Job Title: Global Head of Octimine
 - Years of Experience: 3+ years
