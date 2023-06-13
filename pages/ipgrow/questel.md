@@ -199,7 +199,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 
 - Job Title: Global director - Customer Success & Marketing
 - Years of Experience: 10+ years
-- Location: Grenoble, Auvergne-Rhône-Alpes, France
+- Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Watch, Innovation Consultancy, IP Strategy Consulting
 - Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/chevalierbenoit
@@ -208,7 +208,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 
 - Job Title: Director of Engineering Sciences Business Unit
 - Years of Experience: 10+ years
-- Location: Grenoble, Auvergne-Rhône-Alpes, France
+- Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France
 - IA/IP-Related Expertise: IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Brokerage and Licensing
 - Certifications/Qualifications: Grenoble INP - Phelma- Engineer's degree. Grenoble Ecole de Management- Marketing Management and Innovation
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/cyril-mavr%C3%A9-68a0a3a9
@@ -229,7 +229,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 7+ years
 - Location: Greater Lyon, France
 - IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule München University of Applied Sciences- Masters in Business Administration 
+- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/vivianechilton
 
 

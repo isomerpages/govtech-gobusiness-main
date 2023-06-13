@@ -152,7 +152,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Years of Experience: 20 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
-- Certifications/Qualifications: SCMC (Singapore Certified Management Consultants) Certified from TÜV SÜD
+- Certifications/Qualifications: SCMC (Singapore Certified Management Consultants) Certified from T&Uuml;V S&Uuml;D
 - URL of Linkedin/Company Profile: www.linkedin.com/in/stella-yap-876457188
 
 ---

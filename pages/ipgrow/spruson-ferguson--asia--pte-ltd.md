@@ -121,7 +121,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 - Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Training
-- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, SCOPE IP™ Consultant, Bachelor of Engineering (Chemical) (Hons), Bachelor of Science (Chemistry)
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, SCOPE IP<sup>TM</sup> Consultant, Bachelor of Engineering (Chemical) (Hons), Bachelor of Science (Chemistry)
 - Awards/Accolades: Global Leader: IP - Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), National Leader (Southeast Asia): Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), Asia IP Expert - Singapore, Asia IP (2022), Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)
 - URL of LinkedIn/Company Profile: www.spruson.com/our-people/kristian-robinson
 

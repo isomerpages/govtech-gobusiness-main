@@ -145,7 +145,7 @@ We provide timely, cost-effective, and commercially practical solutions to those
 
 *"They really understand the commercial heartbeat of our mother-and-baby skincare brand.  That.Legal made technical legal issues so much easier for us and helped us find the appropriate amount of IP protection within our budget to secure market access beyond our shores."* - Jingyi Yang, Founder, A for Apothecary.
 
-*"Just like how the Aejou® GrowFridge™ provides an effortless growing experience to our customers, the team at That.Legal explained all our legal/IP options clearly and concisely, thus enabling us to make more informed and quicker decisions in our international IP applications."* - Andrew Shih, Urban Farmer & Co-founder, Mustard Seed Ventures.
+*"Just like how the Aejou<sup>&reg;</sup> GrowFridge<sup>TM</sup> provides an effortless growing experience to our customers, the team at That.Legal explained all our legal/IP options clearly and concisely, thus enabling us to make more informed and quicker decisions in our international IP applications."* - Andrew Shih, Urban Farmer & Co-founder, Mustard Seed Ventures.
 
 
 
