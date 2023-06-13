@@ -15,7 +15,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Asian Legal Business 2022 - Tier 1 for Copyright/ Trademarks & Patents ||| Asialaw Profiles 2022 - Recognised Firm for Intellectual Property ||| Benchmark Litigation Asia-Pacific 2022 - Notable Firm for Intellectual Property ||| WTR1000 2023 - Band Bronze for IP Enforcement and Litigation & IP Prosecution and Strategy ||| IP Stars 2023 - Tier 3 for Trade Mark Contentious
+<b>Intellectual property awards received:</b> Asian Legal Business 2022 - Tier 1 for Copyright/ Trademarks & Patents ; Asialaw Profiles 2022 - Recognised Firm for Intellectual Property ; Benchmark Litigation Asia-Pacific 2022 - Notable Firm for Intellectual Property ; WTR1000 2023 - Band Bronze for IP Enforcement and Litigation & IP Prosecution and Strategy ; IP Stars 2023 - Tier 3 for Trade Mark Contentious
 
 <b>Type of organization:</b> SME
 

@@ -11,7 +11,7 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Dispute Resolution
 
-<b>Intellectual property awards received:</b> 2023 - World Trademark Review 1000 - Gold for Enforcement and Litigation, Gold for Prosecution and Strategy ||| 2023 - Asialaw Profiles - Outstanding for Intellectual Property (Practice Area) ||| 2023 - Chambers Asia-Pacific - Band 1 for Intellectual Property: Domestic ||| 2023 - The Legal 500 Asia Pacific - Tier 1 for Intellectual Property: Local Firms |||  2022 - Benchmark Litigation Asia-Pacific - Band 1 for Intellectual Property
+<b>Intellectual property awards received:</b> 2023 - World Trademark Review 1000 - Gold for Enforcement and Litigation, Gold for Prosecution and Strategy ; 2023 - Asialaw Profiles - Outstanding for Intellectual Property (Practice Area) ; 2023 - Chambers Asia-Pacific - Band 1 for Intellectual Property: Domestic ; 2023 - The Legal 500 Asia Pacific - Tier 1 for Intellectual Property: Local Firms ;  2022 - Benchmark Litigation Asia-Pacific - Band 1 for Intellectual Property
 
 <b>Type of organization:</b> Non-SME
 

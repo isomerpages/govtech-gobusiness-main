@@ -14,7 +14,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 
 <b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy, IP Strategy Consulting
 
-<b>Intellectual property awards received:</b> No. 3, 2023 Best Consulting Firms for Health Care Consulting, Vault ||| HealthInvestor Strategic Consultants of the Year 2019 ||| The Consulting Firm with the Most Differentiated Offering 2018
+<b>Intellectual property awards received:</b> No. 3, 2023 Best Consulting Firms for Health Care Consulting, Vault ; HealthInvestor Strategic Consultants of the Year 2019 ; The Consulting Firm with the Most Differentiated Offering 2018
 
 <b>Type of organization:</b> SME
 

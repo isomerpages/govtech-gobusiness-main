@@ -11,7 +11,7 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Training
 
-<b>Intellectual property awards received:</b> Tier 1 for prosecution by Managing IP ||| Global Award International Patent Law Firm of the Year in Singapore by Corporate INTL ||| Gold - Firms: prosecution by IAM Patent 1000 ||| Tier 1 for Patent Prosecution by AsiaIP
+<b>Intellectual property awards received:</b> Tier 1 for prosecution by Managing IP ; Global Award International Patent Law Firm of the Year in Singapore by Corporate INTL ; Gold - Firms: prosecution by IAM Patent 1000 ; Tier 1 for Patent Prosecution by AsiaIP
 
 <b>Type of organization:</b> SME
 

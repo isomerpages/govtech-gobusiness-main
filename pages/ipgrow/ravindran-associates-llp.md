@@ -11,7 +11,7 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Brokerage and Licensing, Dispute Resolution
 
-<b>Intellectual property awards received:</b> The Straits Times "Singapore's Best Law Firms 2023" - Intellectual Property Law category | Legal 500 (Singapore) 2023 - Ranked in the "Intellectual Property" category | World Trademark Review (WTR) 1000 (Singapore) 2023 - Ranked in the "Enforcement and Litigation" and "Prosecution and Strategy" categories | Asia IP Copyright Survey Rankings (Singapore) 2023 - Tier 2 | Global Law Experts 2023 - Boutique Patent & Trademark Law Firm of the Year in Singapore
+<b>Intellectual property awards received:</b> The Straits Times "Singapore's Best Law Firms 2023" - Intellectual Property Law category , Legal 500 (Singapore) 2023 - Ranked in the "Intellectual Property" category , World Trademark Review (WTR) 1000 (Singapore) 2023 - Ranked in the "Enforcement and Litigation" and "Prosecution and Strategy" categories , Asia IP Copyright Survey Rankings (Singapore) 2023 - Tier 2 , Global Law Experts 2023 - Boutique Patent & Trademark Law Firm of the Year in Singapore
 
 <b>Type of organization:</b> SME
 

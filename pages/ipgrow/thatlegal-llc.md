@@ -15,7 +15,7 @@ We provide timely, cost-effective, and commercially practical solutions to those
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> The Straits Times Best Law Firms 2023 - Five Stars in the Intellectual Property Category ||| Asia IP Informed Analysis IP Experts 2023 ||| World Trade Mark Review 1000 Recommended Firm 2023 
+<b>Intellectual property awards received:</b> The Straits Times Best Law Firms 2023 - Five Stars in the Intellectual Property Category ; Asia IP Informed Analysis IP Experts 2023 ; World Trade Mark Review 1000 Recommended Firm 2023 
 
 <b>Type of organization:</b> SME
 

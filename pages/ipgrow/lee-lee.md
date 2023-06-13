@@ -15,7 +15,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ||| Asian Legal Business, Asia IP Rankings 2022 - Tier 1 in "Copyright/Trademarks" and "Patents" ||| Asia IP, Patent Rankings 2022 - Tier 2 in "Patent Contentious" ||| World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ||| Managing IP, IP Stars Awards 2022 - Tier 3 in "Trademark Contentious" and "Trademark Prosecution"
+<b>Intellectual property awards received:</b> Chambers, Asia-Pacific Guide 2023 - Band 3 in "Intellectual Property: Domestic: Litigation" ; Asian Legal Business, Asia IP Rankings 2022 - Tier 1 in "Copyright/Trademarks" and "Patents" ; Asia IP, Patent Rankings 2022 - Tier 2 in "Patent Contentious" ; World Trademark Review, WTR 1000 2023 - Bronze in "Firms: Enforcement & Litigation" and "Firms: Prosecution & Strategy" ; Managing IP, IP Stars Awards 2022 - Tier 3 in "Trademark Contentious" and "Trademark Prosecution"
 
 <b>Type of organization:</b> SME
 

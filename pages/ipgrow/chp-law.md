@@ -15,7 +15,7 @@ We work together with our clients every step of the way, providing elegant and c
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Due Diligence, IP Strategy Consulting, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Singapore Best Law Firms 2023 (Special mention for IP) ||| IAM 300 (Global List 2020, 2021, 2022)
+<b>Intellectual property awards received:</b> Singapore Best Law Firms 2023 (Special mention for IP) ; IAM 300 (Global List 2020, 2021, 2022)
 
 <b>Type of organization:</b> SME
 

@@ -11,7 +11,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 
-<b>Intellectual property awards received:</b> Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ||| Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ||| Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ||| Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ||| Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
+<b>Intellectual property awards received:</b> Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ; Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ; Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ; Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ; Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
 
 <b>Type of organization:</b> SME
 

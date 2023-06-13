@@ -11,7 +11,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), Dispute Resolution
 
-<b>Intellectual property awards received:</b> AsiaIP: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising ||| IP Stars: Trade mark star 2023 (Singapore) ||| WWL: Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 ||| WTR 1000:  Bronze (Singapore) ||| Chambers Global 2023: Band 3 (Intellectual Property)
+<b>Intellectual property awards received:</b> AsiaIP: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising ; IP Stars: Trade mark star 2023 (Singapore) ; WWL: Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 ; WTR 1000:  Bronze (Singapore) ; Chambers Global 2023: Band 3 (Intellectual Property)
 
 <b>Type of organization:</b> SME
 

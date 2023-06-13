@@ -114,7 +114,7 @@ The Firm has served and helped many SMEs in Singapore as well as entrepreneurs f
 
 #### Valuing IP Pte Ltd
 
-Redefining Assets | At Valuing IP, we make your Intangibles, Tangible!
+Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>

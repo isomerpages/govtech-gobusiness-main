@@ -13,7 +13,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Chambers Asia-Pacific, 2019 - 2023 - Ranked Band 2 in Intellectual Property ||| The Legal 500 Asia-Pacific, 2019 - 2023 - Ranked Tier 2 in Intellectual Property ||| Asialaw Profiles, 2017 - 2023 - Ranked as Highly Recommended in Intellectual Property ||| Benchmark Litigation Asia-Pacific, 2019 - 2023  - Ranked Tier 2 in Intellectual Property ||| In-House Community, 2019 - Firm of the Year for Intellectual Property 
+<b>Intellectual property awards received:</b> Chambers Asia-Pacific, 2019 - 2023 - Ranked Band 2 in Intellectual Property ; The Legal 500 Asia-Pacific, 2019 - 2023 - Ranked Tier 2 in Intellectual Property ; Asialaw Profiles, 2017 - 2023 - Ranked as Highly Recommended in Intellectual Property ; Benchmark Litigation Asia-Pacific, 2019 - 2023  - Ranked Tier 2 in Intellectual Property ; In-House Community, 2019 - Firm of the Year for Intellectual Property 
 
 <b>Type of organization:</b> Non-SME
 

@@ -15,7 +15,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
-<b>Intellectual property awards received:</b> Legal 500 Asia Pacific 2023 - Tier 1 (Intellectual Property: Local firms) | Chambers Asia Pacific 2023 - Band 1 (Intellectual Property: Domestic) | The Straits Times Singapore's Best Law Firms 2023 - Recognised as one of the top recommended firms in Singapore for Intellectual Property with a five-star rating
+<b>Intellectual property awards received:</b> Legal 500 Asia Pacific 2023 - Tier 1 (Intellectual Property: Local firms) , Chambers Asia Pacific 2023 - Band 1 (Intellectual Property: Domestic) , The Straits Times Singapore's Best Law Firms 2023 - Recognised as one of the top recommended firms in Singapore for Intellectual Property with a five-star rating
 
 <b>Type of organization:</b> SME
 

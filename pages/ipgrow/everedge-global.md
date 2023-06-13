@@ -13,7 +13,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <b>Top focus areas for IA/IP services:</b> IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), Dispute Resolution
 
-<b>Intellectual property awards received:</b> Top 10 Business Valuation Services Companies 2023, CFO Tech Outlook 2023 ||| IAM300 - 10 times ranked Top 300 IP Strategist Globally Intellectual Asset Magazine, 2013 - 2021
+<b>Intellectual property awards received:</b> Top 10 Business Valuation Services Companies 2023, CFO Tech Outlook 2023 ; IAM300 - 10 times ranked Top 300 IP Strategist Globally Intellectual Asset Magazine, 2013 - 2021
 
 <b>Type of organization:</b> SME
 

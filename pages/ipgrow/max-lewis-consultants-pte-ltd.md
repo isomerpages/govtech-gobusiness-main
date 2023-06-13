@@ -11,7 +11,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <b>Top focus areas for IA/IP services:</b> Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
 
-<b>Intellectual property awards received:</b> Best Business Valuation Firm 2022 ||| Best Business Valuation Consultancy of the Year Singapore ||| Best Transfer Pricing Advisory Specialists - Singapore||| Most Trusted Goods And Services Tax Advisory Firm 2023 ||| Best Intellectual Property Rights Valuation Firm - South East Asia 2022
+<b>Intellectual property awards received:</b> Best Business Valuation Firm 2022 ; Best Business Valuation Consultancy of the Year Singapore ; Best Transfer Pricing Advisory Specialists - Singapore; Most Trusted Goods And Services Tax Advisory Firm 2023 ; Best Intellectual Property Rights Valuation Firm - South East Asia 2022
 
 <b>Type of organization:</b> SME
 
