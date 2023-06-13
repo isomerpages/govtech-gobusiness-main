@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/viering--jentschura-partner-llp/
 
 ## Viering, Jentschura & Partner LLP
 
-Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member strong international Intellectual Property (IP) law firm headquartered in Munich, with branch offices in D&Uuml;sseldorf, Dresden and Taiwan in addition to Singapore. Our offices do not only share a single name but we also function as a single cohesive corporation that strives to build a Truly Single Firm presence around the world. Our Singapore branch office has been established since 1997 and, over the past 25 years, has been developed to a full-service IP prosecution firm in this country.
+Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member strong international Intellectual Property (IP) law firm headquartered in Munich, with branch offices in D&uuml;sseldorf, Dresden and Taiwan in addition to Singapore. Our offices do not only share a single name but we also function as a single cohesive corporation that strives to build a Truly Single Firm presence around the world. Our Singapore branch office has been established since 1997 and, over the past 25 years, has been developed to a full-service IP prosecution firm in this country.
 
 <b>Year established in Singapore:</b> 2006
 
