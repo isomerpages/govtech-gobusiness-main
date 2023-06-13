@@ -24,7 +24,7 @@ The scope of protection provided by a trade mark relies heavily on how the mark 
 
 ### Connect with relevant service providers for trade mark agent
 
-**25 service providers listed.**
+**39 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

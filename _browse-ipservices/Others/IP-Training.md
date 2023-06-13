@@ -22,7 +22,7 @@ Businesses often miss out on identifying valuable IP due to a lack of IP awarene
 
 ### Connect with relevant service providers for IP training services
 
-**8 service providers listed.**
+**19 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

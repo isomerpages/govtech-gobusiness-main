@@ -27,7 +27,7 @@ If you prefer to engage a professional to analyse IP information for you, head t
 
 ### Connect with relevant service providers for IP database services
 
-**7 service providers listed.**
+**6 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

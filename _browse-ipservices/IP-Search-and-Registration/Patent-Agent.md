@@ -25,7 +25,7 @@ That is why patent agents can be helpful in navigating the challenging patent ap
 ### Connect with relevant service providers for patent agents
 
 
-**6 service providers listed.**
+**23 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

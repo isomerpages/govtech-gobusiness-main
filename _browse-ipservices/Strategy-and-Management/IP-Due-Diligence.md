@@ -24,7 +24,7 @@ Conducting IP due diligence empowers your business with valuable information to 
 
 ### Connect with relevant service providers for IP due diligence services
 
-**0 service providers listed.**
+**22 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

@@ -1,4 +1,4 @@
-**28 service providers listed.**
+**8 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

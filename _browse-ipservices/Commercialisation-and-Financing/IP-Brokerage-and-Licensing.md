@@ -26,7 +26,7 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 
 ### Connect with relevant service providers for IP brokerage and licensing services
 
-**19 service providers listed.**
+**6 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

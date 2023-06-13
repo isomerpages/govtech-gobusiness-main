@@ -22,7 +22,7 @@ With these insights, your business can identify areas in its IP management that 
 
 ### Connect with relevant service providers for IP audit services
 
-**20 service providers listed.**
+**15 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

@@ -35,7 +35,7 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 ### Connect with relevant service providers for IP intelligence and search services
 
 
-**15 service providers listed.**
+**20 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 

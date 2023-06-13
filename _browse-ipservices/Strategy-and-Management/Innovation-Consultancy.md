@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 
 ### Connect with relevant service providers for innovation consultancy services
 
-**22 service providers listed.**
+**7 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
