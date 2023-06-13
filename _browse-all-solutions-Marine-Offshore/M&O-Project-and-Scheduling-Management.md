@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2244' target='_blank'>FITPRISE Job Inspection System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution576' target='_blank'>FITPRISE Job Inspection System</a><br></td>
 <td>Enhanzcom Pte Ltd</td>
 </tr>
 </table>
