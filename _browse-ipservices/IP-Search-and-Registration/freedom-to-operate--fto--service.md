@@ -4,7 +4,7 @@ permalink: /intellectual-property/ip-grow/ip-search-and-registration/freedom-to-
 third_nav_title: IP Search and Registration
 ---
 
-## Freedom-to-operate (FTO) services
+## Freedom-To-Operate (FTO) Service
 
 If you are looking to commercialise a new product or service, it is essential to take proactive steps to ensure you are not infringing on someone else’s patent rights. 
 
