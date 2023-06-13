@@ -277,7 +277,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 - Years of Experience: 10+ years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified by Fédération Internationale des Conseils en Propriété Industrielle (FICPI) under the South East Asian Drafting Course
+- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified by F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
 - Awards/Accolades: IAM Patent 1000 - Bronze Band (Patent Prosecution), Listed in Who's Who Legal: Patents
 - URL of LinkedIn/Company Profile: www.twobirds.com/en/people/h/hui-leng-tan
 

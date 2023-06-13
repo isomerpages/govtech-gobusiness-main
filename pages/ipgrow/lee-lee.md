@@ -9,7 +9,7 @@ Lee & Lee is a leading law firm in Singapore with a well-established team of Int
 
 Led by Senior Counsel Tan Tee Jim SC, our Intellectual Property Practice has extensive experience in advising on the full range of IA/IP matters. We have acted for various entity types (including MNCs, government-linked companies, major IP rights bodies and SMEs) and across many industries (including F&B, technology and entertainment) and territories. 
 
-Chambers 2023 describes Lee & Lee as having “strong reputation in litigation and non-contentious issues” and “noted for its skill in brand protection and portfolio managements”. The World Trademark Review describes the firm as a “venerable outfit” which understands “every nuance of the discipline and covering all bases” and is praised for conducting Trade Mark Agent services “efficiently and accurately”.
+Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and non-contentious issues" and "noted for its skill in brand protection and portfolio managements". The World Trademark Review describes the firm as a "venerable outfit" which understands "every nuance of the discipline and covering all bases" and is praised for conducting Trade Mark Agent services "efficiently and accurately".
 
 <b>Year established in Singapore:</b> 1955
 

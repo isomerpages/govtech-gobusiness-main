@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/intelleigen-legal/
 
 One of the first pan-Asia boutique law firm. Our 360 solution philosophy sees us working and advising on IP policies with governments. The firm helped MNC clients develop and implement IP strategies that resulted in quick wins. Clients appreciate our pragmatic approach and creative solutions to their problems.
 
-Our success has been featured in various news and documentary articles including Japanese NHK TV and Nikkei Business Weekly (helping Japanese Companies with successful licensing in a difficult market like China); Invited by World Intellectual Property Office as lead trainer for the “Train the Experts” program for various governments intellectual property officers.
+Our success has been featured in various news and documentary articles including Japanese NHK TV and Nikkei Business Weekly (helping Japanese Companies with successful licensing in a difficult market like China); Invited by World Intellectual Property Office as lead trainer for the "Train the Experts" program for various governments intellectual property officers.
 
 The firm also provides backend IP support to Magic Circle Firm.
 

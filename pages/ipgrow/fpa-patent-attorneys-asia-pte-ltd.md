@@ -132,7 +132,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore 
-- Awards/Accolades: Recognised as a ‘Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a ‘Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a ‘Top 50 IP Expert in Singapore' by Asia IP (2022)
+- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022)
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/desmond-tan
 
 **Karen, Bentlely **
@@ -142,7 +142,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - Location: Melbourne and Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 
-- Awards/Accolades: Named as a ‘Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a ‘Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
+- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/karen-bentley
 
 **Danny Gelman **
@@ -152,7 +152,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - Location: Melbourne
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Science (First Class Honours) Monash University, PhD (Organic Synthetic Chemistry) Monash University, Fulbright Scholar (Organic Synthetic Chemistry) Harvard University, Master of Intellectual Property Law from University of Melbourne, Registered Trans-Tasman Patent Attorney
-- Awards/Accolades: Named as a ‘Rising Star' by IP Stars, Managing Intellectual Property (2020-2022)
+- Awards/Accolades: Named as a 'Rising Star' by IP Stars, Managing Intellectual Property (2020-2022)
 - URL of LinkedIn/Company Profile: www.fpapatents.com/attorneys/danny-gelman
 
 ---

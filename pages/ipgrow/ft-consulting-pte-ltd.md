@@ -134,7 +134,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: PMC (Practising Management Consultant) -IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)
-- Awards/Accolades: Listed in “IAM Strategy 300: The World's Leading IP Strategists”, SkillsFuture Fellowships Award 2019
+- Awards/Accolades: Listed in "IAM Strategy 300: The World's Leading IP Strategists", SkillsFuture Fellowships Award 2019
 - URL of Linkedin/Company Profile: www.linkedin.com/in/winston-chan-ftc
 
 **Robin Yeo Meng Cer**

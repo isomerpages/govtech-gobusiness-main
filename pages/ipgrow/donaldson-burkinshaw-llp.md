@@ -11,7 +11,7 @@ DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
 
-<b>Intellectual property awards received:</b> IP Stars — Trademark Prosecution (Singapore) (2023) — Tier 1 ||| Asia IP — Trade Mark Prosecution (Singapore) (2023) — Tier 1 ||| Managing IP — Asia-Pacific Awards 2023 — Shortlisted under Patent Prosecution and Trade mark Prosecution|||  Asia Legal Business — IP Ranking (Patents) (Singapore) (2022) - Tier 1 ||| Asia Legal Business — IP Ranking (Copyright / Trademarks) (Singapore) (2022) - Tier 1
+<b>Intellectual property awards received:</b> IP Stars - Trademark Prosecution (Singapore) (2023) - Tier 1 ||| Asia IP - Trade Mark Prosecution (Singapore) (2023) - Tier 1 ||| Managing IP - Asia-Pacific Awards 2023 - Shortlisted under Patent Prosecution and Trade mark Prosecution|||  Asia Legal Business - IP Ranking (Patents) (Singapore) (2022) - Tier 1 ||| Asia Legal Business - IP Ranking (Copyright / Trademarks) (Singapore) (2022) - Tier 1
 
 <b>Type of organization:</b> SME
 

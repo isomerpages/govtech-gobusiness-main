@@ -192,7 +192,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 14+ years
 - Location: Geneva, Switzerland
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
-- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propriété Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - école d'ingénieurs du numérique- Engineer Degree
+- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/philippe-vigand-9708391
 
 **Benoit Chevalier**
@@ -201,10 +201,10 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 10+ years
 - Location: Grenoble, Auvergne-Rhône-Alpes, France
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Watch, Innovation Consultancy, IP Strategy Consulting
-- Certifications/Qualifications: Engineer's degree: Télécom Saint-Etienne. TBS Education- Innovation Management
+- Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/chevalierbenoit
 
-**Cyril Mavré**
+**Cyril Mavr&eacute;**
 
 - Job Title: Director of Engineering Sciences Business Unit
 - Years of Experience: 10+ years
