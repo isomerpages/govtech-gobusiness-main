@@ -60,35 +60,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Eurostop Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution859' target='_blank'>LFSUITE Version 6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution854' target='_blank'>LFSUITE Version 6</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution912' target='_blank'>MEGAPOS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution907' target='_blank'>MEGAPOS</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1014' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1143' target='_blank'>Qashier Smart POS Version 2022.01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1133' target='_blank'>Qashier Smart POS Version 2022.01</a><br></td>
 <td>Qashier Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1369' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1344' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
 <td>Suntoyo Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1548' target='_blank'>Shopcada POS Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1523' target='_blank'>Shopcada POS Version 2</a><br></td>
 <td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1557' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1532' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1585' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1560' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>

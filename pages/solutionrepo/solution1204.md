@@ -1,15 +1,15 @@
 ---
-title: 'Eset Protect Entry'
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1204
 ---
 
-## Eset Protect Entry
+## DM RHAD Digital Marketing Package Version 1
 
 ## Overview
 
 **Description**
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ## Vendor Information
 
- Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
+ Company Name: RHAD Pte. Ltd<br>Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

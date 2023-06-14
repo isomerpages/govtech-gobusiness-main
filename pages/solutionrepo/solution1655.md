@@ -1,17 +1,21 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: 'Combi Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1655
 ---
 
-## Portable Automatic Gas Cutting Machine
+## Combi Oven
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
 
-Cost of equipment capped at $6,250 per unit
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
+
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +26,9 @@ Cost of equipment capped at $6,250 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity of 5GN<br><br><br></td>
 </tr>
 </table>
 

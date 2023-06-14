@@ -1,17 +1,17 @@
 ---
-title: 'Combi Oven'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1679
 ---
 
-## Combi Oven
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity: 5 trays (GN 1/1)<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

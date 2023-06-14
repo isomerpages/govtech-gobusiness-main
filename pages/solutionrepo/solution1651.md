@@ -1,17 +1,19 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Planetary or Spiral Mixer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1651
 ---
 
-## Circular Gas Cutter
+## Planetary or Spiral Mixer
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
 
-Cost of equipment capped at $18,750 per unit 
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
+
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
 </tr>
 </table>
 

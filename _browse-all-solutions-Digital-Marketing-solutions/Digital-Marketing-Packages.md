@@ -108,116 +108,124 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Inbox Consults Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution762' target='_blank'>DM Injob Creative Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution757' target='_blank'>DM Injob Creative Digital Marketing Packages</a><br></td>
 <td>Injob Creative Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution799' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution794' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
 <td>IPRO DEZIGN PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution851' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution846' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
 <td>Leading Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution891' target='_blank'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution886' target='_blank'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages</a><br></td>
 <td>MediaOne Business Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution894' target='_blank'>DM MediaPlus Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution889' target='_blank'>DM MediaPlus Digital Marketing Package</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1000' target='_blank'>DM Accelerated Digital Marketing For SMEs</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution995' target='_blank'>DM Accelerated Digital Marketing For SMEs</a><br></td>
 <td>Next Level SG Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1056' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1051' target='_blank'>DM OOm Digital Performance Marketing Package</a><br></td>
 <td>OOM PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1074' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1069' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
 <td>Outrankco Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1112' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1102' target='_blank'>DM PIXEL MECHANICS Digital Marketing Packages</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1214' target='_blank'>DM RHAD Digital Marketing Package Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1204' target='_blank'>DM RHAD Digital Marketing Package Version 1</a><br></td>
 <td>RHAD Pte. Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1252' target='_blank'>DM Roots Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1237' target='_blank'>DM Roots Digital Marketing Packages</a><br></td>
 <td>Roots Digital Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1359' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1334' target='_blank'>DM SBC Digital Marketing Packages</a><br></td>
 <td>STORY BOX COLLECTIVE PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1429' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1404' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
 <td>The Assets Management Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1434' target='_blank'>DM GENIA SEMANTIC SEO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1409' target='_blank'>DM GENIA SEMANTIC SEO</a><br></td>
 <td>THE GENIA PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1435' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1410' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
 <td>The Little Black Book Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1442' target='_blank'>DM TheAsiaMedia Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1417' target='_blank'>DM TheAsiaMedia Digital Marketing Packages</a><br></td>
 <td>TheAsiaMedia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1518' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1493' target='_blank'>DM Verz Design Digital Marketing Package</a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1530' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1505' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1538' target='_blank'>DM W360 Digital Power Pack Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1513' target='_blank'>DM W360 Digital Power Pack Version 1.0</a><br></td>
 <td>W360 Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1552' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1527' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
 <td>WECOFA PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>DM Supermom Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1539' target='_blank'>DM Supermom Digital Marketing Packages</a><br></td>
 <td>welovesupermom pte ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1820' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1795' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
 <td>Get Customers Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1823' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1798' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1859' target='_blank'>DM AII DEVELOP Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1834' target='_blank'>DM AII DEVELOP Digital Marketing Packages</a><br></td>
 <td>AII DEVELOP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1864' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1879' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1854' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1881' target='_blank'>DM OC Digital Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>DM OC Digital Digital Marketing Packages</a><br></td>
 <td>OC Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1891' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1866' target='_blank'>DM Business Thrust Digital Marketing Packages Version DM01</a><br></td>
 <td>Business Thrust Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1878' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td>Bluehive Consulting Asia Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1883' target='_blank'>DM SEOciety Digital Marketing</a><br></td>
+<td>SEOciety Pte Ltd</td>
 </tr>
 </table>
 

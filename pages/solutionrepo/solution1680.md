@@ -1,21 +1,15 @@
 ---
-title: 'Combi Oven'
+title: 'Aeration System/ Oxygenation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1680
 ---
 
-## Combi Oven
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
-
-Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
-
-Cost of equipment capped at $37,500 per unit 
-
-
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -26,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity of 5GN<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -32,7 +32,7 @@ This solution is supported by BCA.
 <td>Engage Nova Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution784' target='_blank'>Smart Glasses - InnoGlas</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution779' target='_blank'>Smart Glasses - InnoGlas</a><br></td>
 <td>Innowave Tech Pte. Ltd.</td>
 </tr>
 </table>

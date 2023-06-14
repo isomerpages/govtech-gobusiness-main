@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced disinfection system'
+title: 'LED grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution1726
 ---
 
-## Enhanced disinfection system
+## LED grow lights
 
 ## Overview
 
 **Description**
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

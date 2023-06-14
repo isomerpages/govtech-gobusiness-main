@@ -1,16 +1,15 @@
 ---
-title: 'PEOPLECENTRAL HRMS Version 11'
+title: 'TimeCentral Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution1082
 ---
 
-## PEOPLECENTRAL HRMS Version 11
+## TimeCentral Version 11
 
 ## Overview
 
 **Description**
 
-PeopleCentral HRMS is a complete all-in-one cloud-based solution to automate processes for HR, payroll, leave, claims, attendance, scheduling, training, and performance management.
-To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Workflow management, Alerts/Reminders, Announcements, Employee Self-service, and Mobile app functions.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ## Solution Packages Option(s)
 
@@ -24,44 +23,44 @@ To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Wo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 100</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 150</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 200</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 75</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 

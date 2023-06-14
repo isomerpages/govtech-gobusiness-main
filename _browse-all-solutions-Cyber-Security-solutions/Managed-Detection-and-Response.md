@@ -40,24 +40,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>DATA CONNECT TECHNOLOGIES PRIVATE LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution971' target='_blank'>Green Radar Email Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution966' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1414' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1389' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1523' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1498' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1840' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1815' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1846' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
-<td>Toffs Technologies Pte Ltd</td>
 </tr>
 </table>
 

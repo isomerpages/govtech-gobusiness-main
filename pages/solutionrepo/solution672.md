@@ -36,7 +36,7 @@ Guidesify offers well-designed and optimized e-commerce website solutions that c
 
 ## Vendor Information
 
- Company Name:Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/ecommerce/ <br>Contact Hotline: 91288784 <br>Contact Email: hello@guidesify.com 
+ Company Name:Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/ecommerce/ <br>Contact Hotline: 87755483 <br>Contact Email: hello@guidesify.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

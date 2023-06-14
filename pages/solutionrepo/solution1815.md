@@ -1,15 +1,15 @@
 ---
-title: 'Aigens Digital Ordering'
+title: 'Microsoft 365 Defender'
 permalink: /productivity-solutions-grant/solutionrepo/solution1815
 ---
 
-## Aigens Digital Ordering
+## Microsoft 365 Defender
 
 ## Overview
 
 **Description**
 
-Aigens is a complete SaaS vendor that provides comprehensive digitization of ordering solutions for F&B and hospitality establishments across all dining modes - dine-in, takeaway, and delivery, across multiple sales channels. Aigens Loyalty nurtures a resilient customer base by providing a personalized experience to engage customers with gamification, promotions, and campaigns. The dashboard provides business intelligence data to assist in smarter strategies to engage customers.
+Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Aigens is a complete SaaS vendor that provides comprehensive digitization of ord
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Package Lite</td>
-<td style='padding: 10px;'>$7,060.00</td>
-<td style='padding: 10px;'>$6,860.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Package Plus</td>
-<td style='padding: 10px;'>$11,480.00</td>
-<td style='padding: 10px;'>$8,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk Package with Hardware</td>
-<td style='padding: 10px;'>$20,880.00</td>
-<td style='padding: 10px;'>$15,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Single Kiosk Package</td>
-<td style='padding: 10px;'>$10,550.00</td>
-<td style='padding: 10px;'>$8,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Group Package</td>
-<td style='padding: 10px;'>$19,180.00</td>
-<td style='padding: 10px;'>$14,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Aigens Technology (Singapore) Pte. Ltd. <br>Web URL: https://www.aigens.com/ <br>Contact Hotline: +6596953417 <br>Contact Email: hans.paul@aigens.com 
+ Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

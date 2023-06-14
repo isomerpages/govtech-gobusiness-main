@@ -1,17 +1,15 @@
 ---
-title: 'WESS - Wellness Management Software Version 2.0'
+title: 'Revel Systems Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1199
 ---
 
-## WESS - Wellness Management Software Version 2.0
+## Revel Systems Version 2
 
 ## Overview
 
 **Description**
 
-WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
-A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
-From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
+Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ From customer booking to sale and payment, marketing to customer loyalty, employ
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Lite</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
+<td style='padding: 10px;'>$6,880.72</td>
+<td style='padding: 10px;'>$6,880.72</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1</td>
+<td style='padding: 10px;'>$8,175.08</td>
+<td style='padding: 10px;'>$8,175.08</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Payment</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B2</td>
+<td style='padding: 10px;'>$8,869.44</td>
+<td style='padding: 10px;'>$8,869.44</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C1</td>
+<td style='padding: 10px;'>$11,035.08</td>
+<td style='padding: 10px;'>$9,875.08</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C2</td>
+<td style='padding: 10px;'>$12,423.80</td>
+<td style='padding: 10px;'>$11,163.80</td>
+<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ From customer booking to sale and payment, marketing to customer loyalty, employ
 
 ## Vendor Information
 
- Company Name: Refine Solutions Pte Ltd<br>Web URL: www.wessconnect.com <br><br>Contact Hotline: 66028212 <br><br>Contact Email: contactus@wessconnect.com <br><br>
+ Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

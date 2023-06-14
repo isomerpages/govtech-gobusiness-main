@@ -1,15 +1,15 @@
 ---
-title: 'XERO Accounting Software'
+title: 'Tisch Global - Xero Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1447
 ---
 
-## XERO Accounting Software
+## Tisch Global - Xero Accounting
 
 ## Overview
 
 **Description**
 
-Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Xero Implementation package is designed to help small businesses to improve thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 - Standard, Subscription only</td>
-<td style='padding: 10px;'>$616.00</td>
-<td style='padding: 10px;'>$616.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$779.00</td>
+<td style='padding: 10px;'>$717.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 - Premium, Subscription only</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
+<td style='padding: 10px;'>$1,804.00</td>
+<td style='padding: 10px;'>$1,742.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 - Standard + Implementation</td>
-<td style='padding: 10px;'>$1,908.75</td>
-<td style='padding: 10px;'>$1,816.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$2,929.00</td>
+<td style='padding: 10px;'>$2,867.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 4 - Premium + Implementation</td>
-<td style='padding: 10px;'>$3,610.00</td>
-<td style='padding: 10px;'>$3,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
+<td style='padding: 10px;'>$6,138.00</td>
+<td style='padding: 10px;'>$6,057.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 - Premium Plus + Implementation + Full Day Training</td>
-<td style='padding: 10px;'>$5,115.00</td>
-<td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
+<td style='padding: 10px;'>$7,388.00</td>
+<td style='padding: 10px;'>$7,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Xero Implementation package is designed to help small businesses to improve thei
 
 ## Vendor Information
 
- Company Name: TIMCOLE PTE LTD<br>Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: hello@tischglobal.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

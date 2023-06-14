@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>HAVENCE PORTAL LLP</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution865' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution860' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1396' target='_blank'>Taidii SMART IT Solution for Preschool (PMS + E-form)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1371' target='_blank'>Taidii SMART IT Solution for Preschool (PMS + E-form)</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>
 </table>
