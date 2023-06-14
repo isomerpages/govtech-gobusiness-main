@@ -26,14 +26,14 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
 <td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
 <td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -26,35 +26,35 @@ BridgED 4.0 is an end to end Pre-school management platform that digitalizes inf
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
 <td style='padding: 10px;'>$3,440.00</td>
 <td style='padding: 10px;'>$3,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part1' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter </td>
 <td style='padding: 10px;'>$6,700.00</td>
 <td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part2' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
 <td style='padding: 10px;'>$8,100.00</td>
 <td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part3' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
 <td style='padding: 10px;'>$9,100.00</td>
 <td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part4' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
 <td style='padding: 10px;'>$10,100.00</td>
 <td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part5' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
