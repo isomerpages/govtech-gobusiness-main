@@ -25,7 +25,7 @@ const custom_notifications = [
   //[**NEA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 24 May 2023 from 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 10 May 2023 from 6.30pm to 8.30pm. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 14 Jun 2023 from 6.30pm to 11.59pm. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 14 Jun 2023 from 6.30pm to 11.59pm. We apologise for the inconvenience caused."
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused.",
