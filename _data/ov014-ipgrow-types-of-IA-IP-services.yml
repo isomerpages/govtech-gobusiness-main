@@ -1,0 +1,8 @@
+- anchor: '#ip-search-and-registration'
+  anchor_text: 'IP Search and Registration'
+- anchor: '#strategy-and-management'
+  anchor_text: 'Strategy and Management'
+- anchor: '#commercialisation-and-financing'
+  anchor_text: 'Commercialisation and Financing'
+- anchor: '#others'
+  anchor_text: 'Others'
