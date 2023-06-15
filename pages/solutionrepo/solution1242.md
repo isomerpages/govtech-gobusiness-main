@@ -1,15 +1,19 @@
 ---
-title: 'Autocount Accounting System'
+title: 'Royal Management Services XERO ACCOUNTING'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Autocount Accounting System
+## Royal Management Services XERO ACCOUNTING
 
 ## Overview
 
 **Description**
 
-AutoCount Accounting is a fully integrated accounting and inventory management solution that meet today business requirements. Characterized by its easy-to-learn and integrated features, AutoCount Accounting helps to streamline business operation and address their accounting needs. The solution come with a secure and stable database for every type of business, promoting data-informed business decisions and improves overall business efficiency. It is also InvoiceNow ready.
+Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
+
+We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
+
+The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +27,48 @@ AutoCount Accounting is a fully integrated accounting and inventory management s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System - Basic (1 User)</td>
-<td style='padding: 10px;'>$4,140.00</td>
-<td style='padding: 10px;'>$3,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
+<td style='padding: 10px;'>$728.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System - Basic (3 Users)</td>
-<td style='padding: 10px;'>$5,340.00</td>
-<td style='padding: 10px;'>$5,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
+<td style='padding: 10px;'>$1,928.00</td>
+<td style='padding: 10px;'>$1,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System - Pro (3 Users)</td>
-<td style='padding: 10px;'>$6,840.00</td>
-<td style='padding: 10px;'>$6,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
+<td style='padding: 10px;'>$2,528.00</td>
+<td style='padding: 10px;'>$2,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System - Premium (5 Users)</td>
-<td style='padding: 10px;'>$10,240.00</td>
-<td style='padding: 10px;'>$9,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'>$3,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting System - Premium (10 Users)</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'>$12,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
+<td style='padding: 10px;'>$4,128.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg 
+ Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

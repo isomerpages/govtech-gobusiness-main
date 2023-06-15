@@ -1,15 +1,15 @@
 ---
-title: 'Ecommerce Online Shop with Custom Design'
+title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1528
 ---
 
-## Ecommerce Online Shop with Custom Design
+## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0
 
 ## Overview
 
 **Description**
 
-Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
+Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Basic)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Premium)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Lite Extended</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced</td>
+<td style='padding: 10px;'>$6,350.00</td>
+<td style='padding: 10px;'>$6,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0 - Advanced Extended</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_20200840_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
+ Company Name: Wecome Pte Ltd<br>Web URL: https://wecome.sg <br><br>Contact Hotline: 96824965 <br><br>Contact Email: wuhong@wecome.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

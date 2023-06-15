@@ -40,20 +40,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FTV LABS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1004' target='_blank'>Simplify Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution999' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1188' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1178' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
 <td>Really Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1379' target='_blank'>Swipetask PRO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1354' target='_blank'>Swipetask PRO</a><br></td>
 <td>Swipetask Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1885' target='_blank'>SmartFM Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1860' target='_blank'>SmartFM Version 2.0</a><br></td>
 <td>CHIMERIC TECHNOLOGIES PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1885' target='_blank'>VisionMan</a><br></td>
+<td>ECS Techno_Sys (Asia Pacific) Pte Ltd</td>
 </tr>
 </table>
 

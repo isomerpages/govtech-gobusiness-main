@@ -1,17 +1,16 @@
 ---
-title: 'Steel Plate Butt Joint Welding Alignment Tool'
+title: 'Flange Facer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1663
 ---
 
-## Steel Plate Butt Joint Welding Alignment Tool
+## Flange Facer
 
 ## Overview
 
 **Description**
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
-
-Cost of equipment capped at $12,500 per unit
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +21,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
 </tr>
 </table>
 

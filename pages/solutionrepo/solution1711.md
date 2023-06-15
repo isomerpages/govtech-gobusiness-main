@@ -1,15 +1,15 @@
 ---
-title: 'Automated Slaughtering Equipment'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1711
 ---
 
-## Automated Slaughtering Equipment
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated line to slaughter livestock from cutting, deskinning and deboning line
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

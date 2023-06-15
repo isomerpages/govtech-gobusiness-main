@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation & Dosing System'
+title: 'Multi-tier Cultivation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1709
 ---
 
-## Automated Irrigation & Dosing System
+## Multi-tier Cultivation System
 
 ## Overview
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

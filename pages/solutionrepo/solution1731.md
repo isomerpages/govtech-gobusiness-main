@@ -1,15 +1,15 @@
 ---
-title: 'Live Pump'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution1731
 ---
 
-## Live Pump
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

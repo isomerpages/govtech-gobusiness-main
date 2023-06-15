@@ -1,15 +1,15 @@
 ---
-title: 'Network Box Next Generation Managed Security Version 5.5'
+title: 'NMTODOO'
 permalink: /productivity-solutions-grant/solutionrepo/solution986
 ---
 
-## Network Box Next Generation Managed Security Version 5.5
+## NMTODOO
 
 ## Overview
 
 **Description**
 
-Network Box UTM is a Managed Security Service Provider, protecting its clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's Unified Threat Management, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
+The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Network Box UTM is a Managed Security Service Provider, protecting its clients t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload</td>
-<td style='padding: 10px;'>$6,441.00</td>
-<td style='padding: 10px;'>$6,441.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 5 Users (Basic)</td>
+<td style='padding: 10px;'>$11,113.00</td>
+<td style='padding: 10px;'>$11,113.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload</td>
-<td style='padding: 10px;'>$7,606.00</td>
-<td style='padding: 10px;'>$7,606.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 8 Users (Standard)</td>
+<td style='padding: 10px;'>$15,123.00</td>
+<td style='padding: 10px;'>$15,123.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package III - Higher Workload</td>
-<td style='padding: 10px;'>$9,250.00</td>
-<td style='padding: 10px;'>$9,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 10 Users (Premium)</td>
+<td style='padding: 10px;'>$17,916.00</td>
+<td style='padding: 10px;'>$17,916.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i</td>
-<td style='padding: 10px;'>$11,794.00</td>
-<td style='padding: 10px;'>$11,794.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 12 Users (Professional)</td>
+<td style='padding: 10px;'>$22,100.00</td>
+<td style='padding: 10px;'>$22,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng, CRM and Sales for 15 Users (Enterprise)</td>
+<td style='padding: 10px;'>$25,121.00</td>
+<td style='padding: 10px;'>$25,121.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
+ Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

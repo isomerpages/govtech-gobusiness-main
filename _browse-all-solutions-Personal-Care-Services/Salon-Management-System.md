@@ -44,23 +44,23 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution902' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution897' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1014' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1147' target='_blank'>Qashier Smart POS for Beauty Version 2022.01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1137' target='_blank'>Qashier Smart POS for Beauty Version 2022.01</a><br></td>
 <td>Qashier Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1199' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1189' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
 <td>Refine Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1280' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1265' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>Sequoia Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
+title: 'DM W360 Digital Power Pack Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1513
 ---
 
-## Verz Design Magento, WooCommerce & Shopify Solutions
+## DM W360 Digital Power Pack Version 1.0
 
 ## Overview
 
 **Description**
 
-Verz Design is one of the key and leading players when it comes to providing Shopify/Magento/WooCommerce solutions. Shopify/Magento/WooCommerce offers a comprehensive backend with customizable plug-ins for SME's businesses. Highly suitable for companies with complex operations, Shopify/Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
+W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Turquoise)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA & Facebook Marketing (3 Months)</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Diamond)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Facebook & Google Advertising (3 Months)</td>
+<td style='padding: 10px;'>$8,520.00</td>
+<td style='padding: 10px;'>$8,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Amber)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA + SEO (3 Months)</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Emerald)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adobe Magento Ecommerce Version 2 (Sapphire)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 
 ## Vendor Information
 
- Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
+ Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Redoc - Document Management & Transaction Records Version 1.0'
+title: 'Realtimme Cloud Version 3.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1183
 ---
 
-## Redoc - Document Management & Transaction Records Version 1.0
+## Realtimme Cloud Version 3.0.0
 
 ## Overview
 
 **Description**
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
-
-The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
+Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reporting to ACRA and corporate tax form C-S to IRAS. The solution consists of accounts receivables, accounts payable and general ledgers fully integrated with sales & purchases management module and inventory system. The solution is InvoiceNow ready, GST compliance to IRAS requirement and multi currency ready.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,20 @@ The platform enables estate agents and salespersons to automate sales process an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 3 (Up to 20 users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Realtimme Cloud Solution</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br><br>Contact Hotline: 91801197 <br><br>Contact Email: admin@realestatedoc.co <br><br>
+ Company name:Realtimme IT Consultancy Pte Ltd<br>Web URL: www.realtimme.com.sg <br>Contact Hotline: 81488824 <br>Contact Email: sales@realtimme.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

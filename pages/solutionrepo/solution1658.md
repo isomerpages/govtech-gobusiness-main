@@ -1,22 +1,19 @@
 ---
-title: 'Probing System'
+title: 'Battery-Powered Rope Ascender'
 permalink: /productivity-solutions-grant/solutionrepo/solution1658
 ---
 
-## Probing System
+## Battery-Powered Rope Ascender
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
+Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
+The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -27,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
 </tr>
 </table>
 

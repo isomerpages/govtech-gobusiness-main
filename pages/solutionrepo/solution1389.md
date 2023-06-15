@@ -1,15 +1,15 @@
 ---
-title: 'Synergix E1 Sales & Accounting'
+title: 'TERRA EMAIL PROTECTION Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1389
 ---
 
-## Synergix E1 Sales & Accounting
+## TERRA EMAIL PROTECTION Version 1.0
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+TEP is multi-layered, cloud-based email security for all organisations. It provides businesses with one-stop email security and protection from known and zero-day variants, including protection against Business Email Compromise (BEC) aka. "email impersonation", email content control against data leakages, viruses, phishing, spam, ransomware, etc. TEP will be a great addition to the existing Endpoint Protection technology and propel your organisation towards a higher level of protection.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$48,770.00</td>
-<td style='padding: 10px;'>$37,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 10</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$69,770.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 30</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 100</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 30</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 60</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company name:TERRA SYSTEMS PTE LTD<br>Web URL: https://terra.systems/#/ <br>Contact Hotline: 68765800 <br>Contact Email: marketing@terra-systems.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

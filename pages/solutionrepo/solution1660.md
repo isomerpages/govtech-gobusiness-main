@@ -1,22 +1,15 @@
 ---
-title: 'Probing System'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1660
 ---
 
-## Probing System
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
+Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 
 ## Solution Packages Option(s)
 
@@ -27,9 +20,9 @@ Implementation: Equipment configuration, training
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: '(SaaS) JustLogin HR Cloud'
+title: 'Evolvecloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution826
 ---
 
-## (SaaS) JustLogin HR Cloud
+## Evolvecloud
 
 ## Overview
 
 **Description**
 
-JustLogin is a cloud-based Human Resource Management solution that comes with a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Employees can also utilize the JustLogin mobile application to access the HR services from anywhere.
+Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, collaborating & organizing work, allowing flexi-work arrangement deployment effectively. With audit trails and access control, information security is enhanced. Evolvecloud's user-centric interface provides the tools for remote and off-premises real-time collaboration within the organization. Evolvecloud supports full compliance with USA HIPAA, EU GDPR, EU Cybersecurity Act, Clause 14 of ISO27001 & SG PDPA.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package I</td>
+<td style='padding: 10px;'>$7,180.00</td>
+<td style='padding: 10px;'>$6,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - B (Up to 50 pax)</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package II</td>
+<td style='padding: 10px;'>$10,120.00</td>
+<td style='padding: 10px;'>$8,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package III</td>
+<td style='padding: 10px;'>$13,760.00</td>
+<td style='padding: 10px;'>$11,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package IV</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$13,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package V</td>
+<td style='padding: 10px;'>$20,540.00</td>
+<td style='padding: 10px;'>$15,860.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 
 ## Vendor Information
 
- Company Name: JustLogin Pte Ltd<br>Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
+ Company name:K&K IT Private Limited<br>Web URL: https://knkit.sg/evolvecloud/ <br>Contact Hotline: 68020447 <br>Contact Email: admin@knkit.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,20 @@
 ---
-title: 'Encrusting Machine'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1652
 ---
 
-## Encrusting Machine
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-Cost of equipment capped at $25,000 per unit 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -24,9 +25,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 

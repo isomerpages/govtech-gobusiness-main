@@ -1,17 +1,17 @@
 ---
-title: 'Augmented Reality Welding Training Solution'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1668
 ---
 
-## Augmented Reality Welding Training Solution
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

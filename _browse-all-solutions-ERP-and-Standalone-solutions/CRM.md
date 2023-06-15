@@ -52,23 +52,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1092' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1087' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1150' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1140' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1156' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1146' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1403' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1378' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1892' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1867' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 </table>

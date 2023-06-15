@@ -1,15 +1,15 @@
 ---
-title: 'Green Radar Email Security'
+title: 'Nett VMS Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution971
 ---
 
-## Green Radar Email Security
+## Nett VMS Version 4
 
 ## Overview
 
 **Description**
 
-Green Radar grMail is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client's business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
+Nett VMS is an integration of visitor management system + license plate recognition + pre invitation registration APP. It allows resident to pre invite their guest by whitelist the vehicle and barricade will auto open. Visitor registration will send a phone SMS QR code and this will allow phone authentication. It allows security guard to eliminate the manual writing, compliance with PDPA and auto record of all vehicle. Enhance support remote access and QR code door access
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Green Radar grMail is a next-generation cloud-based email security platform with
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 25 users</td>
-<td style='padding: 10px;'>$650.00</td>
-<td style='padding: 10px;'>$650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Basic  </td>
+<td style='padding: 10px;'>$32,140.00</td>
+<td style='padding: 10px;'>$22,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 50 users</td>
-<td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'>$1,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Advance </td>
+<td style='padding: 10px;'>$33,340.00</td>
+<td style='padding: 10px;'>$23,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 100 users</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Intermediate </td>
+<td style='padding: 10px;'>$36,940.00</td>
+<td style='padding: 10px;'>$27,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 150 users</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Expert</td>
+<td style='padding: 10px;'>$40,100.00</td>
+<td style='padding: 10px;'>$29,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 200 users</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Revolution </td>
+<td style='padding: 10px;'>$46,300.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Company Name: NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
