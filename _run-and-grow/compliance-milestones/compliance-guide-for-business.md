@@ -32,6 +32,8 @@ https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist
 
 {% include panels.html panels=site.data.govassist_addsupportprogram %}
 
+{% include banner-yes-no.html %}
+
 ---
 
 ### Related links
