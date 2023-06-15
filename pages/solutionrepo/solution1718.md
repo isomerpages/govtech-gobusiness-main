@@ -1,15 +1,15 @@
 ---
-title: 'Conveyor System for transporting materials'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1718
 ---
 
-## Conveyor System for transporting materials
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A conveyor system that automates farming processes such as production, feeding, 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

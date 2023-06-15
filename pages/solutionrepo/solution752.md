@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting Software Version 2.0'
+title: 'SentroWeb Version 3.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution752
 ---
 
-## AutoCount Accounting Software Version 2.0
+## SentroWeb Version 3.0.0
 
 ## Overview
 
 **Description**
 
-Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
+Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that businesses can take the complexities out of AML/CFT compliance, and get straight to business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite 50</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 100</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 500</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular DJ 1000</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ingenious_Annex3_CR_wef_22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium DJ 8K</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br><br>Contact Hotline: 62234385 <br><br>Contact Email: enquiry@ingenious.sg <br><br>
+ Company name:Ingenique Solutions Pte Ltd<br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

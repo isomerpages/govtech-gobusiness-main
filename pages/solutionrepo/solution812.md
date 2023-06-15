@@ -1,17 +1,15 @@
 ---
-title: 'Stormshield UTM Firewall Security'
+title: 'Bitdefender GravityZone Business Security Premium'
 permalink: /productivity-solutions-grant/solutionrepo/solution812
 ---
 
-## Stormshield UTM Firewall Security
+## Bitdefender GravityZone Business Security Premium
 
 ## Overview
 
 **Description**
 
-Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
-
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
+GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
-<td style='padding: 10px;'>$2,540.00</td>
-<td style='padding: 10px;'>$2,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 10 Licenses</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN310</td>
-<td style='padding: 10px;'>$4,180.00</td>
-<td style='padding: 10px;'>$4,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 25 Licenses</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN510</td>
-<td style='padding: 10px;'>$6,392.00</td>
-<td style='padding: 10px;'>$6,392.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 50 Licenses</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710</td>
-<td style='padding: 10px;'>$10,126.00</td>
-<td style='padding: 10px;'>$10,126.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 100 Licenses</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710 (Twin Pack)</td>
-<td style='padding: 10px;'>$20,515.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 200 Licenses</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

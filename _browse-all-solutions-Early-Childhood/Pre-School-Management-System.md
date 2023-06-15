@@ -32,8 +32,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution872' target='_blank'>LittleLives 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution867' target='_blank'>LittleLives 4.5</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1890' target='_blank'>BridgED Version 4.0</a><br></td>
+<td>Cyberland Consultancy Pte Ltd</td>
 </tr>
 </table>
 

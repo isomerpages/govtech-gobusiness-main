@@ -1,18 +1,20 @@
 ---
-title: 'Robotic arms'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1661
 ---
 
-## Robotic arms
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
 Cost of equipment capped at $37,500 per unit
 
@@ -25,9 +27,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Netpluz Managed Firewall'
+title: 'Green Radar Email Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution966
 ---
 
-## Netpluz Managed Firewall
+## Green Radar Email Security
 
 ## Overview
 
 **Description**
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+Green Radar grMail is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client's business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
 
 ## Solution Packages Option(s)
 
@@ -23,44 +23,44 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 25 users</td>
+<td style='padding: 10px;'>$650.00</td>
+<td style='padding: 10px;'>$650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 50 users</td>
+<td style='padding: 10px;'>$1,100.00</td>
+<td style='padding: 10px;'>$1,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 100 users</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2300 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 150 users</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 200 users</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 

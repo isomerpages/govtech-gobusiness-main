@@ -1,16 +1,15 @@
 ---
-title: 'Flange Facer'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1688
 ---
 
-## Flange Facer
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
-Cost of equipment capped at $37,500 per unit 
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -21,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -1,17 +1,17 @@
 ---
-title: 'Power Jack for Steel Plates Adjustment (Perpendicular)'
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1656
 ---
 
-## Power Jack for Steel Plates Adjustment (Perpendicular)
+## Static Parcel Dimension, Weight and Scan Equipment
 
 ## Overview
 
 **Description**
 
-The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Cost of equipment capped at $18,750 per unit
+Cost of equipment capped at $21,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Power Jack for Steel Plates Adjustment (Perpendicular)</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Hydraulic capacity: Min. 5 tonnes<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. pump, hydraulic hose</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'>$21,250.00</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

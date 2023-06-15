@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Digital quality testing equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1729
 ---
 
-## Humidifier Equipment
+## Digital quality testing equipment
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Quality testing equipment in measuring the produce quality and freshness
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

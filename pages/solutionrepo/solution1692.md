@@ -1,17 +1,15 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1692
 ---
 
-## Automatic Nut Splitter
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
-
-Cost of equipment capped at $7,500 per unit 
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

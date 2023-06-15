@@ -1,15 +1,15 @@
 ---
-title: 'Automated Mixer/ Compacter for Growing Media'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution1710
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

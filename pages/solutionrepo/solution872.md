@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives 4.5'
+title: 'Lunchbox Smart Restaurant Solution Version 1.1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution872
 ---
 
-## LittleLives 4.5
+## Lunchbox Smart Restaurant Solution Version 1.1.0
 
 ## Overview
 
 **Description**
 
-LittleLives solution facilitates day-to-day school operations through its core mobile applications that include Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  The solution can handle the full life cycle of a child's preschool journey.
+Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ LittleLives solution facilitates day-to-day school operations through its core m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS Lite</td>
-<td style='padding: 10px;'>$6,518.60</td>
-<td style='padding: 10px;'>$6,518.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, XSmall</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'>$2,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$9,770.00</td>
-<td style='padding: 10px;'>$9,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Large (Kiosk)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment + Thermal Scanner</td>
-<td style='padding: 10px;'>$15,110.00</td>
-<td style='padding: 10px;'>$14,110.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Jumbo (Kiosk)</td>
+<td style='padding: 10px;'>$13,050.00</td>
+<td style='padding: 10px;'>$12,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment</td>
-<td style='padding: 10px;'>$10,310.00</td>
-<td style='padding: 10px;'>$10,310.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS intro + Thermal Scanner</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Mini (Kiosk)</td>
+<td style='padding: 10px;'>$1,940.00</td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
+ Company name:Lunchbox Pte Ltd<br>Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

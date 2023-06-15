@@ -1,15 +1,21 @@
 ---
-title: 'Recirculating Aquaculture System'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1737
 ---
 
-## Recirculating Aquaculture System
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +26,9 @@ A production system with reduced water exchange and use of biofiltration / envir
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Minimum water tank capacity of 15 litres</td>
 </tr>
 </table>
 

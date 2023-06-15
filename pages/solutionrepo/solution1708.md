@@ -1,15 +1,15 @@
 ---
-title: 'Automated Vaccination'
+title: 'Milking Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1708
 ---
 
-## Automated Vaccination
+## Milking Machine
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

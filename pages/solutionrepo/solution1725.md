@@ -1,15 +1,15 @@
 ---
-title: 'Farm Washing System'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
-## Farm Washing System
+## HVAC system
 
 ## Overview
 
 **Description**
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Washing system equipped with a combination of spray nozzles and brushes to wash 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
