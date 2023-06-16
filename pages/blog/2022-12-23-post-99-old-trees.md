@@ -107,7 +107,7 @@ Learn more about 99 Old Trees and its business journey from Kelvin in this video
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7058964622355136512" height="764" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  <iframe title="Let’s Go Lah! – 99 Trees Durian" src="https://www.youtube.com/embed/qMYQbdvpOvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
