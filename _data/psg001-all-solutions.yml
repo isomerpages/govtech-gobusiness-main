@@ -146,6 +146,7 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Retail/Enhanced-Retail-Management-System'>Enhanced Retail Management System</a>
         - <a href='/browse-all-solutions-Retail/Commercial-Anti-Money-Laundering--ML--Countering-the-Financing-of-Terrorism--TF--Screening'>Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening</a>
+        - <a href='/browse-all-solutions-Retail/Retail-Analytics'>Retail Analytics</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Security
@@ -286,10 +287,9 @@
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
     - title: Cyber Security solutions
       content: |
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Cyber-Security---Unified-Threat-Management'>Cyber Security - Unified Threat Management</a>
 - accordion:
   letter: c
   data:
