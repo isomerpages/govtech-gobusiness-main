@@ -131,7 +131,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
 </ul>
 
-**Valuation Service (with IA/IP consideration) Services**
+**Valuation Service (with IA/IP considerations) Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>

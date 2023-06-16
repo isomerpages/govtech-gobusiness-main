@@ -35,7 +35,7 @@ We are able to assist to estimate the value of the following intellectual proper
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Valuation Service (with IA/IP consideration) Services**
+**Valuation Service (with IA/IP considerations) Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
