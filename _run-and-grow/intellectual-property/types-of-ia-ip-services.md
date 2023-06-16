@@ -22,7 +22,7 @@ As a start, GoBusiness IP Grow features 20 IA/IP services, grouped into 4 key ca
 
 <table>
 <tr>
-<th style='width: 35%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>Service Name</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ etc. to guide R&D and IP strategy decisions. This includes conducting IP searche
 
 <table>
 <tr>
-<th style='width: 35%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>Service Name</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ etc. to guide R&D and IP strategy decisions. This includes conducting IP searche
 
 <table>
 <tr>
-<th style='width: 35%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>Service Name</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ etc. to guide R&D and IP strategy decisions. This includes conducting IP searche
 
 <table>
 <tr>
-<th style='width: 35%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>Service Name</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
