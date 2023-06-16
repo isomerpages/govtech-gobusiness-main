@@ -22,25 +22,134 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
 
-**2 service providers listed.**
+**8 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for valuation (with IA/IP considerations) service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Valuation Service (with IA/IP consideration) service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
 
-#### Allen & Gledhill LLP
+#### EverEdge Global
 
-Allen & Gledhill is an award-winning full-service South-east Asian law firm ranked as a market leader.
+EverEdge provides specialist intangible asset advisory, valuation and corporate finance services.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> a2</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> a1</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> a5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 20% discount on all IP services for SMEs</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 56 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
-<a class='btn' href='https://www.gobusiness.gov.sg' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+
+---
+
+#### RSM Singapore
+
+Business Advisors to Growing Businesses.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 46 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 15000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/rsm-singapore/){:target='_blank'}
+
+---
+
+#### Valuing IP Pte Ltd
+
+Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 3000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Early Bird Promotion for our IP Valuation Software Subscription starting from USD 1,500 only! Limited to first 10 subscribers for each package. Savings up to 30% off!</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/valuing-ip-pte-ltd/){:target='_blank'}
+
+---
+
+#### PricewaterhouseCoopers Singapore Pte. Ltd.
+
+Community of solvers combining innovative technologies to build trust and deliver sustained outcomes
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 30000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
+
+---
+
+#### Cushman & Wakefield VHS Pte Ltd
+
+Professional service provider with comprehensive IA/IP valuation experience by qualified valuers
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> -</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/cushman-wakefield-vhs-pte-ltd/){:target='_blank'}
+
+---
+
+#### Max Lewis Consultants Pte Ltd
+
+Fair valuation of businesses, financial instruments, ESOS options, and intellectual property rights.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 10000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/max-lewis-consultants-pte-ltd/){:target='_blank'}
+
+---
+
+#### VALLARIS
+
+VALLARIS helps entrepreneurs and CEOs with their mergers and acquisitions deals and disputes.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> N.A.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/vallaris/){:target='_blank'}
+
+---
+
+#### Dennemeyer
+
+Founded in 1962, we offer full-service IP solutions globally with local support from Singapore.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 20000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
 
 ---
 
