@@ -19,6 +19,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 ### Pre-Approved Equipment Brands and Models
 
 - ACORN - AC-E27 9W LED
+- AEON - 3528 10W/M LED STRIP (3000K)
 - AETO - KLL760F-6
 - AREX - AR T-L1T64-13W-2700K
 - AREX - AR T-L1T64-13W-6500K
@@ -88,6 +89,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - LDRA824 + SPS100
 - Aztech - LDRA830
 - Aztech - LDRA830 + SPS100
+- Aztech - LDS412
 - Aztech - LE14C33F-2-830
 - Aztech - LE14G48F-2-830
 - Aztech - LE14G48T-2-830
@@ -188,6 +190,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Aztech - XL2S-3030
 - Aztech - ZDR414
 - Aztech - ZDR414 + SPS100
+- Beacon LED Lighting - G95-12-D
+- Beacon LED Lighting - G95-12-W
 - Beacon LED Lighting - T8Y10NL01-C
 - Beacon LED Lighting - T8Y10NL01-D
 - Beacon LED Lighting - T8Y10NL01-W
@@ -200,6 +204,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Beacon LED Lighting - T8Y18NL01-C
 - Beacon LED Lighting - T8Y18NL01-D
 - Beacon LED Lighting - T8Y18NL01-W
+- Beacon LED Lighting - T8Y18NL05-C
+- Beacon LED Lighting - T8Y18NL05-D
+- Beacon LED Lighting - T8Y18NL05-W
 - Beacon LED Lighting - T8Y18YL01-C (Dimmable sensor)
 - Beacon LED Lighting - T8Y18YL01-D (Dimmable sensor)
 - Beacon LED Lighting - T8Y18YL01-W (Dimmable sensor)
@@ -378,6 +385,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - FSL - UFO-FSL-22W-65
 - GLOS - ATOM
 - Glos - Camper + Retro MR
+- GLOS - ECON RD-4-20W-80D-WL-3000K
+- GLOS - ECON RD-4-20W-80D-WL-4000K
+- GLOS - ECON RD-4-20W-80D-WL-5000K
 - GLOS - FLEXI LINELIGHT 160
 - GLOS - Flexi-Linelight 160-I
 - Glos - Horizon - SPB21W4001ND-1200
@@ -428,6 +438,10 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - IKEA - LED2033T2
 - IKEA - LED2101G4
 - IKEA - LED2103G5
+- IKEA - LED2115G1
+- IKEA - LED2116C2
+- IKEA - LED2118A1
+- IKEA - LED2122G1
 - IKEA - LED2123S1
 - IKEA - LED2202G3K6
 - IKEA - LED2203G6K6
@@ -461,6 +475,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LED ECO LIGHTING - JYQP-03D-2
 - LED ECO LIGHTING - JYQP-07D-2
 - LED ECO LIGHTING - JYQP-09D-02
+- LED LIGHTING - T8-LED-30W-65
 - LEDVANCE - LED PERFORMANCE FILA CLA 7.5W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/840
@@ -1038,6 +1053,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - ST8A-1.2M 14W-840-EM
 - Osram - ST8A-1.2M 14W-865-EM
 - Osram - ST8A-1.2M 22W/830
+- Osram - ST8A-1.2M 22W/840
+- Osram - ST8A-1.2M 22W/865
 - Osram - ST8A-1.2M 22W-840-EM
 - Osram - ST8A-1.2M-17.5W-830-EM
 - Osram - ST8A-1.2M-17.5W-840-EM
@@ -1914,6 +1931,13 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LPINB-7G24dC
 - Sunshine - LPINB-7G24dD
 - Sunshine - LPINB-7G24dW
+- Sunshine - LT8A-12W, LT8A-12D, LT8A-12C
+- Sunshine - LT8A-18C
+- Sunshine - LT8A-18D
+- Sunshine - LT8A-18W
+- Sunshine - LT8A-9C
+- Sunshine - LT8A-9D
+- Sunshine - LT8A-9W
 - Sunshine - LTA-18E27D
 - Sunshine - LTA-18E27W
 - Sunshine - LTA-28E27D
