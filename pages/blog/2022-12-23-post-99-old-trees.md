@@ -105,9 +105,11 @@ For a long time, Stinky has lived under the shadow of its durian wholesaler coun
 
 Learn more about 99 Old Trees and its business journey from Kelvin in this video:
 
-
-<iframe title="Let’s Go Lah! – 99 Trees Durian" src="https://www.youtube.com/embed/qMYQbdvpOvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
-
+<p>
+<div class="bp-youtube">
+  <iframe title="Let’s Go Lah! – 99 Trees Durian" src="https://www.youtube.com/embed/qMYQbdvpOvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+</div>
+</p>
 
 **From licences, and government assistance schemes to personalised business recommendations, GoBusiness features a plethora of resources to help you run and grow your business. Visit [GoBusiness](https://www.gobusiness.gov.sg/run-and-grow/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information.**
 
