@@ -1,6 +1,6 @@
 ---
 title: 'Freedom-To-Operate (FTO) Service'
-permalink: /intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate/
+permalink: /intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate--fto--service/
 third_nav_title: IP Search and Registration
 ---
 
