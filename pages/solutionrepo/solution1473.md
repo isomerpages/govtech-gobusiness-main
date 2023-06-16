@@ -1,16 +1,15 @@
 ---
-title: 'Kaspersky Endpoint Security Version 11.6.0'
+title: 'V3Nity-FMS Fleet Management System Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1473
 ---
 
-## Kaspersky Endpoint Security Version 11.6.0
+## V3Nity-FMS Fleet Management System Version 3.0
 
 ## Overview
 
 **Description**
 
-Kaspersky Endpoint Security is the world's most tested, most awarded security application powered by next-generation technologies to protect all endpoints - and the data on them.
-It combines multi-layered, next-generation threat protection with additional proactive technologies such as Application, Web and Device controls, vulnerability and patch management and data encryption into an EDR-ready endpoint agent to protect your sensitive data on every endpoint.
+The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,17 @@ It combines multi-layered, next-generation threat protection with additional pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (10 License)</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus  (25 License)</td>
-<td style='padding: 10px;'>$1,725.00</td>
-<td style='padding: 10px;'>$1,725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (50 License)</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'>$3,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - 	Kaspersky Endpoint Security Cloud Plus (100 License)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kaspersky Endpoint Security Version 11.6.0 - Kaspersky Endpoint Security Cloud Plus (200 License)</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techfount_Systems_20200679_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +43,7 @@ It combines multi-layered, next-generation threat protection with additional pro
 
 ## Vendor Information
 
- Company Name: Techfount Systems Pte Ltd<br>Web URL: http://www.techfount.com <br><br>Contact Hotline: 65478900 <br><br>Contact Email: info@techfount.com <br><br>
+ Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

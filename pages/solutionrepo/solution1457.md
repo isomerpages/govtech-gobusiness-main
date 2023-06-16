@@ -1,15 +1,15 @@
 ---
-title: 'SYNERGIX Version TH6'
+title: 'Globe3 ERP V5.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution1457
 ---
 
-## SYNERGIX Version TH6
+## Globe3 ERP V5.6
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
-<td style='padding: 10px;'>$39,420.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$32,800.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$39,400.00</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_152Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$49,300.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$55,900.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'>$21,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

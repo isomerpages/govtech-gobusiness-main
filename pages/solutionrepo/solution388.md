@@ -1,15 +1,23 @@
 ---
-title: 'DM Cleverly Digital Marketing Packages'
+title: 'Qoqolo School Management System Version 4.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution388
 ---
 
-## DM Cleverly Digital Marketing Packages
+## Qoqolo School Management System Version 4.3
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
+Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
+Key Benefits:
+-	Easy Deployment
+-	Paperless Storage
+-	Information On-The-Go
+-	Simplify Management
+-	Instant Updates
+-	Capture Learning Journey
+-	Effective Communications
 
 ## Solution Packages Option(s)
 
@@ -23,24 +31,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution388
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SEM</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEO SM</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
+<td style='padding: 10px;'>$10,688.00</td>
+<td style='padding: 10px;'>$10,688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Cleverly Digital Marketing Packages - Cleverly 3 Months Campaign SEM SM</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_Cleverly_20210380_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
+<td style='padding: 10px;'>$9,888.00</td>
+<td style='padding: 10px;'>$9,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
+<td style='padding: 10px;'>$8,688.00</td>
+<td style='padding: 10px;'>$8,688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
+<td style='padding: 10px;'>$5,488.00</td>
+<td style='padding: 10px;'>$5,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +72,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution388
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
+ Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
