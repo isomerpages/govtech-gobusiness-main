@@ -16,6 +16,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Pre-Approved Equipment Brands and Models
 
+- Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
 - Daikin - MKM75VVMG-HW
