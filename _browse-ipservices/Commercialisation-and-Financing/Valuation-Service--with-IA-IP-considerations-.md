@@ -1,10 +1,10 @@
 ---
-title: 'Valuation (with IA/IP considerations)'
+title: 'Valuation Service (with IA/IP considerations)'
 permalink: /intellectual-property/ip-grow/Commercialisation-and-Financing/Valuation-Service--with-IA-IP-considerations-/
 third_nav_title: Commercialisation and Financing
 ---
 
-## Valuation services (with IA/IP considerations) 
+## Valuation Service (with IA/IP considerations) 
 
 If you are preparing for a fund raise, a joint venture, a merger and acquisition deal, or a transaction involving your intellectual property (IP) assets like a technology licence, it may be prudent to seek an independent valuation to determine your market value or the value of your contribution to a transaction.
 
