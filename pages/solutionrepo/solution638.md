@@ -1,15 +1,15 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'Frontier eHR HRSS Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution638
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## Frontier eHR HRSS Version 8
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations through a user-friendly cloud-based application. HR can record employee's details and handle Payroll & Performance Appraisal process. Employees can access their HR information and perform HR related applications through web and mobile app. Through integrated services including both HRSS and HRMS, the solution provides a one stop solution for SMEs to eliminate the time and cost required for HR and Payroll administration.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 users</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 users</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 users</td>
+<td style='padding: 10px;'>$49,600.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

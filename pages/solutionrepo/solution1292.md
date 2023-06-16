@@ -1,15 +1,15 @@
 ---
-title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
-## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 60 Employees)</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (3 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EzyProcure Version 2.0 - e-procurement system for Wholesalers/Suppliers</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
+ Company Name: Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br><br>Contact Hotline: 62008021 <br><br>Contact Email: info@sgebiz.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

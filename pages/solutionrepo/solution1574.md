@@ -1,18 +1,17 @@
 ---
-title: 'QuickBooks Online Version 1'
+title: 'Counto DIY Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1574
 ---
 
-## QuickBooks Online Version 1
+## Counto DIY Version 1
 
 ## Overview
 
 **Description**
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
+
+Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
 
 ## Solution Packages Option(s)
 
@@ -26,48 +25,41 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1574
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Basic</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,168.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Advance</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,468.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
-<td style='padding: 10px;'>$5,580.00</td>
-<td style='padding: 10px;'>$4,768.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Advance</td>
-<td style='padding: 10px;'>$6,380.00</td>
-<td style='padding: 10px;'>$5,568.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Value Consultancy (Singapore) Pte. Ltd.<br>Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
+ Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
