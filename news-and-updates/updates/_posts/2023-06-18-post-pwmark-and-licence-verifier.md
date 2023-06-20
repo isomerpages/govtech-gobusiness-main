@@ -5,7 +5,7 @@ permalink: /news-and-updates/updates/pwmark-and-licence-verifier
 published: true
 preview: |
   New GoBusiness features added to help users check the accreditation and licensing status of an entity.
-image: /images/news/News_Events eAdviser launch.jpg
+image: /images/news/News_PW Mark and Licences.jpg
 ---
 
 ## GoBusiness now lets users verify companies’ PW Mark and licences
