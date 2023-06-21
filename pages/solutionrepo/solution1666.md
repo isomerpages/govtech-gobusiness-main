@@ -1,17 +1,19 @@
 ---
-title: 'Automatic Flange Spreader'
+title: 'Liquid Filling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1666
 ---
 
-## Automatic Flange Spreader
+## Liquid Filling Machine
 
 ## Overview
 
 **Description**
 
-The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
 
-Cost of equipment capped at $4,000 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Minimally semi-automated<br>- Volumetric or weight based filling<br>- Touchscreen display can be supported<br>- Explosion proof can be supported <br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported <br></td>
 </tr>
 </table>
 

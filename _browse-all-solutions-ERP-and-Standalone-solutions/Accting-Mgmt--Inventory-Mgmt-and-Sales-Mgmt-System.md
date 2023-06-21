@@ -100,23 +100,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Reach Process Outsourcing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1232' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1227' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1260' target='_blank'>SAGE 300</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1255' target='_blank'>SAGE 300</a><br></td>
 <td>SEG IT Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1412' target='_blank'>Sage 300 Advance Edition</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1402' target='_blank'>Sage 300 Advance Edition</a><br></td>
 <td>The World Management Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1457' target='_blank'>Globe3 ERP V5.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1447' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1612' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1602' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 </table>

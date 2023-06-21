@@ -1,18 +1,17 @@
 ---
-title: 'High Speed Oven'
+title: 'Steel Plate Butt Joint Welding Alignment Tool'
 permalink: /productivity-solutions-grant/solutionrepo/solution1628
 ---
 
-## High Speed Oven
+## Steel Plate Butt Joint Welding Alignment Tool
 
 ## Overview
 
 **Description**
 
-A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
+The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
 
-Cost of equipment capped at $10,000 per unit 
-
+Cost of equipment capped at $12,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmed to combine different cooking technologies to achieve rapid cooking.<br>- Minimum wattage/voltage: 2,200W/170V<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
 </tr>
 </table>
 

@@ -56,11 +56,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rentalworks (SG) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Singtel Endpoint Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1300' target='_blank'>Singtel Endpoint Security</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1379' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1374' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
 <td>Techfount Systems Pte Ltd</td>
 </tr>
 </table>

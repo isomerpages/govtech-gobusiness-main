@@ -1,15 +1,15 @@
 ---
-title: 'Singtel-Fortinet Unified Threat Management Version 1'
+title: 'Singtel Endpoint Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 
-## Singtel-Fortinet Unified Threat Management Version 1
+## Singtel Endpoint Security
 
 ## Overview
 
 **Description**
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 25 Licenses</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 51 Licenses</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 100 Licenses</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Pelleting Machine'
+title: 'Pest/ Disease Monitoring and Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1711
 ---
 
-## Pelleting Machine
+## Pest/ Disease Monitoring and Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Animal feed pellet machine also known as feed pelletizer machine; it allows you 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

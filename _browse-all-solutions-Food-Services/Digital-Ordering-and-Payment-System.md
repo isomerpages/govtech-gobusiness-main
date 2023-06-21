@@ -104,55 +104,55 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1252' target='_blank'>Sapaad Version 601</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1247' target='_blank'>Sapaad Version 601</a><br></td>
 <td>Sapaad Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1287' target='_blank'>Dining Butler Version 1.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1282' target='_blank'>Dining Butler Version 1.3</a><br></td>
 <td>Singapore Dining Butler Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1311' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1306' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING</a><br></td>
 <td>SkipQoo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1342' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1337' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
 <td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1349' target='_blank'>Ellie Integrated System Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1344' target='_blank'>Ellie Integrated System Version 2</a><br></td>
 <td>Supply Ellie Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1528' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1518' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.0</a><br></td>
 <td>Wecome Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1536' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1526' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0</a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1543' target='_blank'>WhyQ VendorOS Version 13.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1533' target='_blank'>WhyQ VendorOS Version 13.0</a><br></td>
 <td>WhyQ Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1585' target='_blank'>F&B Solutions Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1575' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1757' target='_blank'>Smartweb Version V3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1747' target='_blank'>Smartweb Version V3</a><br></td>
 <td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1790' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1780' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1843' target='_blank'>CIRCL F&B Omnichannel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1833' target='_blank'>CIRCL F&B Omnichannel</a><br></td>
 <td>CIRCL Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1849' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1839' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
 <td>EISOL Pte Ltd</td>
 </tr>
 </table>

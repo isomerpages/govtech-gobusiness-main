@@ -48,15 +48,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PORT CITIES SINGAPORE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1572' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1562' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1608' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1598' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1808' target='_blank'>Deskera ERP Version 10</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1798' target='_blank'>Deskera ERP Version 10</a><br></td>
 <td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

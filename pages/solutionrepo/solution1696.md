@@ -1,15 +1,15 @@
 ---
-title: 'Dehusking Machine/ Shaker'
+title: 'Live Pump'
 permalink: /productivity-solutions-grant/solutionrepo/solution1696
 ---
 
-## Dehusking Machine/ Shaker
+## Live Pump
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+An equipment that ensure safe, gentle, fast way to transfer produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

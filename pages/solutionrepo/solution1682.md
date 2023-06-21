@@ -1,15 +1,15 @@
 ---
-title: 'Automated Sorter/ Grader'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1682
 ---
 
-## Automated Sorter/ Grader
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic graders to sort produce by species/ sizes/ weight while minimizing the
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
