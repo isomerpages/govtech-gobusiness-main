@@ -39,7 +39,7 @@ infringement of patents.</td>
 <td>Provides services relating to trade mark registration, such as trade mark search and filing services, including advice on filing strategies.</td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left;' src='/images/ipgrow/ipservices/FreedomtooperateIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate/' target='_blank'>Freedom-To-Operate</a></td>
+<td><img style='width:59px; height:auto; float:left;' src='/images/ipgrow/ipservices/FreedomtooperateIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate--fto--service/' target='_blank'>Freedom-To-Operate (FTO) Service</a></td>
 <td>Conducts patent-specific search and analysis to provide an opinion on whether a product or service infringes on a third party's patent rights.</td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ etc. to guide R&D and IP strategy decisions. This includes conducting IP searche
 </td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/IPWatchIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/ip-watch/' target='_blank'>IP Watch</a></td>
+<td><img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/IPWatchIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/ip-watch-service/' target='_blank'>IP Watch Service</a></td>
 <td>Provides services to proactively monitor business and IP-related activities of competitors, e.g., launch of products or services, IP registrations, assignments, sale, as well as the activities of counterfeiters and presence of potentially infringing products and services.</td>
 </tr>
 </table>
@@ -115,7 +115,7 @@ etc. to guide R&D and IP strategy decisions. This includes conducting IP searche
 <td>Advises on tax matters in view of IP and IA considerations.</td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ValuationIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/Valuation--with-IA-IP-considerations-/' target='_blank'>Valuation (with IA/IP considerations)</a></td>
+<td><img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ValuationIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/Valuation-Service--with-IA-IP-considerations-/' target='_blank'>Valuation Service (with IA/IP considerations)</a></td>
 <td>Assesses the monetary value of IP assets for specific purposes or triggered by specific events, e.g. IP transactions, mergers and acquisitions, IPO, tax.</td>
 </tr>
 </table>
