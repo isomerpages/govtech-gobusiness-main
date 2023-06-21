@@ -50,11 +50,11 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 ----
 
-<a name="verify-licence-or-accreditation"></a>
+<a name="verify-accreditation"></a>
 
-### Verify an entity’s licence or accreditation
+### Verify an entity’s accreditation
 
-Find out if a company or person has a specific licence or accreditation by doing a search with our tools below.
+Find out if a company or person has a specific accreditation by doing a search with our tool below.
 
 {% include panels-featurelink.html panels=site.data.rgp004a_licences-verify %}
 
