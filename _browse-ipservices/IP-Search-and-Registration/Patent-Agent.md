@@ -14,7 +14,7 @@ Patents are a form of intellectual property (IP) that can help your business pro
 
 ### Benefits of patent agent services
 
-How you craft and file your patent application can greatly affect whether or not you successfully get patent protection.
+How you craft and file your patent application can greatly affect the scope of your patent protection.
 
 That is why patent agents can be helpful in navigating the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
 
