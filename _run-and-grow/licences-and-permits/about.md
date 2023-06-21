@@ -16,7 +16,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Apply for new licence
 
-{% include panels-featurelink.html panels=site.data.rgp001_licences %}
+{% include panels-featurelink.html panels=site.data.rgp001_licences %} 
 
 ### Featured licence guides
 
