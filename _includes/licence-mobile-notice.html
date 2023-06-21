@@ -1,38 +1,120 @@
-<style>
-  .content a.content-btn {
-    font-family: hknova-semibold;
-    font-weight: 700;
-    display: block;
-    padding: 12.5px 24px;
-    margin-bottom: 0;
-    text-decoration: none;
-    color: black;
-    background-color: #F9FAFA;
-    border-radius: 3px;
-    border: 1px solid #EEF0F2;
-    cursor: pointer;
-    width: fit-content;
-    width: -moz-fit-content;
-    font-size: 18px;
-    line-height: 27px;
+ <style>
+  .content .panels {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: 1fr 1fr;
+      margin: 24px 0;
   }
 
-  .content a.content-btn:hover {
-    color: white;
-    background-color: #F9FAFA;
+  .content .panel {
+      display: grid;
+      row-gap: 16px;
+      border: 1px solid #dbdfe4;
+      box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+      border-radius: 5px;
+      padding: 24px;
+      word-break: break-word;
+      grid-auto-rows: auto;
   }
 
-  .content a.content-btn:active {
-    color: white;
-    background-color: #F9FAFA;
+  .content .panel .panel-image {
+      font-family: hknova-semibold;
+      font-size: 24px;
+      font-weight: 700;
+      width: auto;
+      height: 60px;
   }
 
-  .content a.content-btn:focus {
-    color: white;
-    outline: 2px solid #EEF0F2;
+  .content .panel .panel-image>img {
+      width: auto;
+      height: 100%;
+      margin: 0;
+  }
+
+  .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
+      width: 150px;
+      object-fit: cover;
+      object-position: 90% 10%;
+  }
+
+  .content .panel .panel-title {
+      font-family: hknova-semibold;
+      margin: 0;
+  }
+
+  .content .panel .panel-description,
+  .content [class*="panel-"]>div {
+      font-family: hknova-regular;
+      margin: 0;
+  }
+
+  .content .panel .panel-links-container {
+      display: grid;
+      row-gap: 8px;
+      height: fit-content;
+      align-self: end;
+  }
+
+  .content .panel .panel-link {
+      font-size: 18px;
+      line-height: 27px;
+      display: block;
+      margin: 0;
+  }
+
+
+  @media (max-width: 600px) {
+      .content .panels {
+          grid-template-columns: 1fr;
+      }
   }
 </style>
-
-<a class="content-btn" href="{{ include.src }}" target="_blank" rel="noopener">
-  {{ include.text }}
-</a>
+<div class="panels">
+  {% for panel in include.panels %}
+  <div class="panel">
+      {% if {{panel.label}} %}
+      <div class="panel-label">{% include label.html label=panel.label %}</div>
+      {% endif %}
+      {% if panel.image %}
+      <div class="panel-image">{{ panel.image }}</div>
+      {% endif %}
+      <h4 class="panel-title">{{ panel.title }}</h4>
+      {% if panel.description %}
+      <p class="panel-description">{{ panel.description }}</p>
+      {% endif %}
+      {% if panel.tel or panel.email or panel.url %}
+      <div class="panel-links-container">
+          {% if panel.tel %}
+          <div class="panel-links-group">
+              {% assign tels = panel.tel | split: ',' %}
+              {% for tel in tels %}
+              <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+          {% if panel.email %}
+          <div class="panel-links-group">
+              {% assign emails = panel.email | split: ',' %}
+              {% for email in emails %}
+              <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+          {% if panel.url %}
+          <div class="panel-links-group">
+              {% assign urls = panel.url | split: ',' %}
+              {% for url in urls %}
+              <a class="panel-link"
+                  rel="noopener"
+                  href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                  target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}"  rel="noopener">
+                  {% if panel.text %}{{panel.text}}
+                  {% else %}{{url}}{% endif %}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+      </div>
+      {% endif %}
+  </div>
+  {% endfor %}
+</div>
