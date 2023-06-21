@@ -92,8 +92,18 @@ Commercial refrigerator: Inverter technology
 - Daiwa - 403YS2-EX
 - Daiwa - 403YSS-EX
 - Daiwa - 403YSS-NP-EX
+- DAIWA - 4061HC-EC
+- DAIWA - 4061HC-NP-EC
+- DAIWA - 4061S-R-EC
 - Daiwa - 4071S-EC
+- DAIWA - 4071SS-EC
+- DAIWA - 4071SS-NP-EC
+- DAIWA - 4161CD-EC
 - Daiwa - 4161S-EC
+- DAIWA - 4161SS-EC
+- DAIWA - 4161SS-NP-EC
+- DAIWA - 4171CD-EC
+- DAIWA - 4261CD-NP-EC
 - Daiwa - 441YAKP-EC
 - Daiwa - 501CD-EX
 - Daiwa - 501CD-NP-EX
@@ -111,6 +121,19 @@ Commercial refrigerator: Inverter technology
 - Daiwa - 503YS2-4-EX
 - Daiwa - 503YS2-EX
 - Daiwa - 503YSS-EX
+- DAIWA - 5061HC-EC
+- DAIWA - 5061HC-NP-EC
+- DAIWA - 5061S-R-EC
+- DAIWA - 5071HC-EC
+- DAIWA - 5071S-EC
+- DAIWA - 5071SS-EC
+- DAIWA - 5161CD-EC
+- DAIWA - 5161S-3-EC
+- DAIWA - 5161S-EC
+- DAIWA - 5161SS-EC
+- DAIWA - 5161SS-NP-EC
+- DAIWA - 5171CD-EC
+- DAIWA - 5261CD-NP-EC
 - Daiwa - 601CD-EX
 - Daiwa - 601S2-EX
 - Daiwa - 603CD-EX
@@ -121,8 +144,19 @@ Commercial refrigerator: Inverter technology
 - Daiwa - 603YCD-EX
 - Daiwa - 603YS2-EX
 - Daiwa - 603YSS-EX
+- DAIWA - 6061HC-EC
+- DAIWA - 6061HC-NP-EC
 - Daiwa - 6071S-EC
+- DAIWA - 6161CD-EC
 - Daiwa - 6161S-EC
+- DAIWA - 6161SS-EC
+- DAIWA - 6161SS-NP-EC
+- DAIWA - 6171CD-EC
+- DAIWA - 6261CD-NP-EC
+- DAIWA - 7161CD-EC
+- DAIWA - 7161S-EC
+- DAIWA - 7171CD-EC
+- DAIWA - 7261CD-NP-EC
 - Daiwa - DKR-126-EC
 - Daiwa - DKR-127-EC
 - Daiwa - DKR-156-EC
@@ -149,6 +183,8 @@ Commercial refrigerator: Inverter technology
 - Euro-Chill - EC-UC19080K
 - Euro-Chill - EC-UC6480K 
 - Euro-Chill - EC-UCF12680K
+- EURO-CHILL - ECUF-12680K
+- EURO-CHILL - ECUF-6480K
 - EuropAce - ER 5311U
 - EuropAce - ER 5371W
 - EuropAce - ER 5461W
@@ -160,6 +196,7 @@ Commercial refrigerator: Inverter technology
 - Fisher & Paykel - RB9064S1
 - Fisher & Paykel - RS6019BRU1
 - Fisher & Paykel - RS6019S2R1
+- Fisher & Paykel - RS6019S3RH1
 - Fisher & Paykel - RS6121SLK1
 - Fisher & Paykel - RS6121SRK1
 - Fisher & Paykel - RS7621SLK1
@@ -182,6 +219,8 @@ Commercial refrigerator: Inverter technology
 - Flomatic - FC-RF1500L(E)
 - Flomatic - FC-RF1800(E)
 - Flomatic - FC-RF1800L(E)
+- Flomatic - FDR-R1076(E)
+- Flomatic - FDR-R376(E)
 - Flomatic - FUR-F1210(E)
 - Flomatic - FUR-F1480(E)
 - Flomatic - FUR-F610(E)
@@ -438,6 +477,8 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-WX60F-W-P
 - Mitsubishi Electric - MR-WX70C-BR-P
 - Mitsubishi Electric - MR-WX70C-W-P
+- Panasonic - NR WY720Z
+- Panasonic - NR XY680Y
 - Panasonic - NR-BC360X
 - Panasonic - NR-BV320X
 - Panasonic - NR-BV361B
@@ -683,6 +724,10 @@ Commercial refrigerator: Inverter technology
 - SHARP - SJ-PS55P-DS
 - SHARP - SJ-PS60P-BK
 - SHARP - SJ-PS60P-DS
+- SHARP - SJ-RF22E-DS
+- SHARP - SJ-RF22E-SL
+- SHARP - SJ-RF25E-DS
+- SHARP - SJ-RF25E-SL
 - SHARP - SJ-RF30E-DS
 - SHARP - SJ-RF30E-SL
 - SHARP - SJ-RF33E-DS
@@ -872,6 +917,7 @@ Commercial refrigerator: Inverter technology
 - SMEG - FAB5RWH3
 - SMEG - FAB5RWH5
 - SMEG - FC60EN3XL
+- SMEG - FC70EN3X
 - SOLID COOL - SC- 2DBB
 - SOLID COOL - SC-260
 - SOLID COOL - SC-2DB
@@ -919,7 +965,10 @@ Commercial refrigerator: Inverter technology
 - SunTrump - KJA-FF771
 - SunTrump - KJA-FR1271
 - SunTrump - KJA-FR771
+- Superior - 12076FRNS
+- Superior - 15076FRNS
 - Superior - 2DFRNS
+- Superior - 4DFRNS
 - Tecno - TFR 1288-V2
 - Tecno - TFR 330 Retro
 - Tecumseh - PAC66Z-3L
@@ -959,9 +1008,15 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-0224FS-IVTH
 - YUDA - YD-022CS-IVTH
 - YUDA - YD-022FS-IVTH
+- YUDA - YD-2GDC-IVT
+- YUDA - YD-3GDC-IVT
+- YUDA - YD-6OPC-IVT
 - Yuda - YD-X50FIF-IVT
+- YUDA - YD-X63FIF-BG-IVT
 - Yuda - YD-X63FIF-IVT
+- YUDA - YD-X65FIF-BG-IVT
 - Yuda - YD-X70FIF-IVT
+- YUDA - YD-X80FIF-BG-IVT
 - Yuda - YD-X80FIF-IVT
 
 ### Mode and Schedule of Payment 
