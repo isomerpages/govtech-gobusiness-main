@@ -1,15 +1,15 @@
 ---
-title: 'Climate & Environment Monitoring Control Equipment/ System'
+title: 'Hi-jack Cleaning Machinery'
 permalink: /productivity-solutions-grant/solutionrepo/solution1703
 ---
 
-## Climate & Environment Monitoring Control Equipment/ System
+## Hi-jack Cleaning Machinery
 
 ## Overview
 
 **Description**
 
-Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Climate control system (smart roof ventilator/ vents, smart misting, sustainable
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

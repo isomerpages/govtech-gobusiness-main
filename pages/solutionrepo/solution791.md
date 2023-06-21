@@ -1,15 +1,15 @@
 ---
-title: 'IT Infinity Sage 300'
+title: 'Invisiron Cyber Defence'
 permalink: /productivity-solutions-grant/solutionrepo/solution791
 ---
 
-## IT Infinity Sage 300
+## Invisiron Cyber Defence
 
 ## Overview
 
 **Description**
 
-Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether businesses are growing locally or expanding globally, Sage 300 is a solution for every stage that's flexible and scalable to suit your business needs.
+Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Sage has more than 30 years of experience helping millions of small and medium c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A1 (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$31,129.00</td>
-<td style='padding: 10px;'>$31,029.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A2 (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$34,783.00</td>
-<td style='padding: 10px;'>$34,683.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A3 (Advanced Edition - 7 Users)</td>
-<td style='padding: 10px;'>$38,437.00</td>
-<td style='padding: 10px;'>$38,337.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A4 (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$43,918.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1 (Premium Edition - 5 Users)</td>
-<td style='padding: 10px;'>$43,191.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Sage has more than 30 years of experience helping millions of small and medium c
 
 ## Vendor Information
 
- Company Name: IT Infinity Pte Ltd<br>Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
+ Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

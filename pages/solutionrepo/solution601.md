@@ -1,15 +1,15 @@
 ---
-title: 'FirstCom Online Food Ordering & Payment System'
+title: 'Eurostop Omni-Channel Retail Management System Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution601
 ---
 
-## FirstCom Online Food Ordering & Payment System
+## Eurostop Omni-Channel Retail Management System Version 10
 
 ## Overview
 
 **Description**
 
-The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
+A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Online Food Ordering & Payment System - Standard (Online / QR Ordering - Dine In, Takeaway, Delivery)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/firstcom_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Comprehensive (Real-time Online Ordering Website + Instore Ordering and Management System</td>
-<td style='padding: 10px;'>$12,700.00</td>
-<td style='padding: 10px;'>$12,348.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_First_Annex3_CR_wef02Feb23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 
 ## Vendor Information
 
- Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

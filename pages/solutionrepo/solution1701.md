@@ -1,15 +1,15 @@
 ---
-title: 'Water Treatment System for Water Recirculation or Discharge'
+title: 'Enhanced disinfection system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1701
 ---
 
-## Water Treatment System for Water Recirculation or Discharge
+## Enhanced disinfection system
 
 ## Overview
 
 **Description**
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system for wastewater treatment to improve the water quality before the water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

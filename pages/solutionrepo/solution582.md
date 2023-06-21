@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution582
 ---
 
-## EPOS Marketing AI Version 1.0
+## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

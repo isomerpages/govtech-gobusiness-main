@@ -1,17 +1,20 @@
 ---
-title: 'Ethylene Removal System'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1652
 ---
 
-## Ethylene Removal System
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-Cost of equipment capped at $37,500 per unit
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +25,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 

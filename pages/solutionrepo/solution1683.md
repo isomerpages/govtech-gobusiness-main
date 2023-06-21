@@ -1,15 +1,15 @@
 ---
-title: 'Feed Processing Machine'
+title: 'Automated Vaccination'
 permalink: /productivity-solutions-grant/solutionrepo/solution1683
 ---
 
-## Feed Processing Machine
+## Automated Vaccination
 
 ## Overview
 
 **Description**
 
-A machine to mix and chop up the materials for animal feed. 
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine to mix and chop up the materials for animal feed.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Feed Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

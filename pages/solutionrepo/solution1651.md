@@ -1,17 +1,19 @@
 ---
-title: 'Automatic Shrink Wrap Packaging Machine'
+title: 'Planetary or Spiral Mixer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1651
 ---
 
-## Automatic Shrink Wrap Packaging Machine
+## Planetary or Spiral Mixer
 
 ## Overview
 
 **Description**
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
 
-Cost of equipment capped at $37,500 per unit
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
+
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
 </tr>
 </table>
 

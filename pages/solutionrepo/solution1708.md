@@ -1,15 +1,15 @@
 ---
-title: 'Rainwater harvesting system and storage tank'
+title: 'Milking Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1708
 ---
 
-## Rainwater harvesting system and storage tank
+## Milking Machine
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system with pumps, tanks and purification systems that collects and stores rai
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

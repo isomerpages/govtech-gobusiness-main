@@ -1,15 +1,15 @@
 ---
-title: 'Robot Cleaner'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1694
 ---
 
-## Robot Cleaner
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A washing robot / machine for cleaning of farming equipment to eliminate the nee
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

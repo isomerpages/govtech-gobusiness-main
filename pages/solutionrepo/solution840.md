@@ -1,15 +1,15 @@
 ---
-title: 'DM Leading Solution Digital Marketing Packages Version 1'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution840
 ---
 
-## DM Leading Solution Digital Marketing Packages Version 1
+## Xero
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
+Xero is a beautiful and easy-to-use online accounting software for small businesses and their advisor, with subscribers in more than 180 countries. Xero also offer over 800 third party integration. The software is accessible from web browsers as well as from mobile devices. Xero is used by small businesses and includes services for invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution840
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Full Package with Consultation</td>
+<td style='padding: 10px;'>$6,327.48</td>
+<td style='padding: 10px;'>$6,277.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premier Pro with 2 Days Training</td>
+<td style='padding: 10px;'>$5,607.48</td>
+<td style='padding: 10px;'>$5,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Premier Pro with 1 Day Training</td>
+<td style='padding: 10px;'>$4,807.48</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Basic</td>
+<td style='padding: 10px;'>$3,207.48</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription Only</td>
+<td style='padding: 10px;'>$807.48</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution840
 
 ## Vendor Information
 
- Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
+ Company name:KloudEx Pte Ltd<br>Web URL: www.xero.com <br>Contact Hotline: 96461160 <br>Contact Email: ken@kloudex.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

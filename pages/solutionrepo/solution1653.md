@@ -1,17 +1,15 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'Blast Freezer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1653
 ---
 
-## Mobile Computer (Warehouse application)
+## Blast Freezer
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
-
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
 
 Cost of equipment capped at $30,000 per unit
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
 <td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
+<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
 </tr>
 </table>
 

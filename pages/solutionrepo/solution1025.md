@@ -1,15 +1,18 @@
 ---
-title: 'Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1'
+title: 'aiCARE Shield Managed Security Version Ver1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1025
 ---
 
-## Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1
+## aiCARE Shield Managed Security Version Ver1.0
 
 ## Overview
 
 **Description**
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
+aiCARE Shield Managed Security comes with 8x5 Hotline Support.
+Support Day : Monday - Friday
+Support Time : 9am-6pm
 
 ## Solution Packages Option(s)
 
@@ -23,48 +26,48 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 10xVPN Licences</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 50xVPN Licences</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Nucleo Consulting Pte Ltd<br>Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br><br>Contact Hotline: 69110533 <br><br>Contact Email: contact@nucleoconsulting.com <br><br>
+ Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

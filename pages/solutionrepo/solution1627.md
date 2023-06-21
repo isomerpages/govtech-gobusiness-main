@@ -1,17 +1,19 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Encrusting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1627
 ---
 
-## Automated Tray Sealer
+## Encrusting Machine
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
+The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
+It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
 </tr>
 </table>
 

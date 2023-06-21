@@ -1,15 +1,17 @@
 ---
-title: 'Collection Systems'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1679
 ---
 
-## Collection Systems
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
+
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Automatic collector used to collect produce, which can also reduce the damage ra
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

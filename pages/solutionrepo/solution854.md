@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (PMS + e-form)'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution854
 ---
 
-## LittleLives School Management System (PMS + e-form)
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. The system includes all features to support schools to manage their operation with existing students such as attendance, student portfolio, incident and fee management and parent communication. E-form module is added in to fully support the whole student life cycle administrative process.
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form only</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form + Cashless payment</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form & Thermal Scanner</td>
-<td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Thermal Scanner & Cashless Payment</td>
-<td style='padding: 10px;'>$16,140.00</td>
-<td style='padding: 10px;'>$15,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Facial Recognition & Cashless Payment </td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

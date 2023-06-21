@@ -1,15 +1,15 @@
 ---
-title: 'Water Filtration System'
+title: 'Farm Washing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1700
 ---
 
-## Water Filtration System
+## Farm Washing System
 
 ## Overview
 
 **Description**
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system for filtration of water used for farming to improve growing conditions,
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

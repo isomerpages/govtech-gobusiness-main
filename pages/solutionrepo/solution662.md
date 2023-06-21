@@ -1,16 +1,15 @@
 ---
-title: 'Gurusoft Logistics Management System Version 11'
+title: 'goTruck!Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution662
 ---
 
-## Gurusoft Logistics Management System Version 11
+## goTruck!Hub
 
 ## Overview
 
 **Description**
 
-Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
-Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
+goTruck!Hub is an internet-based Transport Management System, specifically tailored for medium and heavy logistics. Simplify everything and manage your operations using just your mobile phone.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,48 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 10 vehicles</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 20 vehicles</td>
+<td style='padding: 10px;'>$12,200.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
-<td style='padding: 10px;'>$35,900.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Transporter with 30 vehicles</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
-<td style='padding: 10px;'>$50,000.00</td>
-<td style='padding: 10px;'>$43,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 30 vehicles</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>goTruck!Hub - Integrated Company with 50 vehicles</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$35,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Gurusoft Pte Ltd<br>Web URL: https://www.gurusofttech.com/WMS <br><br>Contact Hotline: 62708083 <br><br>Contact Email: sales@gurusoft.com.sg <br><br>
+ Company Name: GoTruck Pte Ltd<br>Web URL: www.gotruck.co <br><br>Contact Hotline: 66452643 <br><br>Contact Email: ENQUIRY@GOTRUCK.CO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
