@@ -1,15 +1,15 @@
 ---
-title: 'OpensoftHR Version 18'
+title: 'Gravis'
 permalink: /productivity-solutions-grant/solutionrepo/solution1047
 ---
 
-## OpensoftHR Version 18
+## Gravis
 
 ## Overview
 
 **Description**
 
-Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
+Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (25 pax)</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Basic Plan (Up to 5 users)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (50 pax)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Premium Plan (Up to 10 users)</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'>$18,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (100 pax)</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (150 pax)</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (200 pax)</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Enterprise Plan (Up to 30 users)</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'>$18,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Opensoft Pte Ltd<br>Web URL: https://www.opensofthr.com/products/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@opensofthr.com <br><br>
+ Company Name: ONE X GROUP PTE. LTD.<br>Web URL: https://www.onextech.com.sg/work <br><br>Contact Hotline: 91198609 <br><br>Contact Email: info@onextech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

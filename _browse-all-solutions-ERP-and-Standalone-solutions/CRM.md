@@ -36,36 +36,40 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution430' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution435' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution503' target='_blank'>Eber Smart Members Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution515' target='_blank'>Eber Smart Members Solution</a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution599' target='_blank'>FirstCRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution615' target='_blank'>FirstCRM</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution604' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution620' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1078' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1087' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1129' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1140' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1131' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1146' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1363' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1378' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1867' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 </table>
 

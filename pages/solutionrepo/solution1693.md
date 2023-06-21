@@ -1,15 +1,15 @@
 ---
-title: 'Recirculating Aquaculture System'
+title: 'Conveyor System for transporting materials'
 permalink: /productivity-solutions-grant/solutionrepo/solution1693
 ---
 
-## Recirculating Aquaculture System
+## Conveyor System for transporting materials
 
 ## Overview
 
 **Description**
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A production system with reduced water exchange and use of biofiltration / envir
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

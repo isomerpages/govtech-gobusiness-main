@@ -1,15 +1,16 @@
 ---
-title: 'Automated Sorter/ Grader'
+title: 'Flange Facer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1663
 ---
 
-## Automated Sorter/ Grader
+## Flange Facer
 
 ## Overview
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +21,9 @@ Automatic graders to sort produce by species/ sizes/ weight while minimizing the
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
 </tr>
 </table>
 

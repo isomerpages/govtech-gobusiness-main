@@ -40,23 +40,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution463' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution470' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution729' target='_blank'>SAP Business One, version for HANA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution740' target='_blank'>SAP Business One, version for HANA</a><br></td>
 <td>Inecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution921' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution927' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution937' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1547' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1562' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 </table>

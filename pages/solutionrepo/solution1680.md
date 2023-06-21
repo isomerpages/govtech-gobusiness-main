@@ -1,15 +1,15 @@
 ---
-title: 'Farm Processing Machine'
+title: 'Aeration System/ Oxygenation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1680
 ---
 
-## Farm Processing Machine
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-Integrated processing system to process produce into value-added products
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Integrated processing system to process produce into value-added products
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

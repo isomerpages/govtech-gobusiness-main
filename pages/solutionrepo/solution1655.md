@@ -1,17 +1,21 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Combi Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1655
 ---
 
-## Automatic Nut Splitter
+## Combi Oven
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
 
-Cost of equipment capped at $7,500 per unit 
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
+
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +26,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br>- Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity of 5GN<br><br><br></td>
 </tr>
 </table>
 

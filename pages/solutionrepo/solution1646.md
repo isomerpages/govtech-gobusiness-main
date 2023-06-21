@@ -1,17 +1,17 @@
 ---
-title: 'Bristle Blaster / Cup Brush / Power Brush'
+title: 'Automated Tray Sealer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1646
 ---
 
-## Bristle Blaster / Cup Brush / Power Brush
+## Automated Tray Sealer
 
 ## Overview
 
 **Description**
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
+The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
 
-Cost of equipment capped at $3,000 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $3,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
 </tr>
 </table>
 

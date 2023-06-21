@@ -1,15 +1,15 @@
 ---
-title: 'Farm Washing System'
+title: 'Automated Counter/ Biomass Estimation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1681
 ---
 
-## Farm Washing System
+## Automated Counter/ Biomass Estimation System
 
 ## Overview
 
 **Description**
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Washing system equipped with a combination of spray nozzles and brushes to wash 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

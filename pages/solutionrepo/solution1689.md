@@ -1,15 +1,15 @@
 ---
-title: 'Milking Machine'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution1689
 ---
 
-## Milking Machine
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that provides an efficient and convenient way of milking livestocks, w
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

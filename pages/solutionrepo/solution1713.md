@@ -1,15 +1,15 @@
 ---
-title: 'Fish fry quarantine tank system'
+title: 'Robot Cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1713
 ---
 
-## Fish fry quarantine tank system
+## Robot Cleaner
 
 ## Overview
 
 **Description**
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A quarantine tank system for isolating and medicating sick fish fry, separating 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

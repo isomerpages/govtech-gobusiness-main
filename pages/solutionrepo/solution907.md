@@ -1,15 +1,15 @@
 ---
-title: 'MetroERP Version 1.0'
+title: 'MEGAPOS'
 permalink: /productivity-solutions-grant/solutionrepo/solution907
 ---
 
-## MetroERP Version 1.0
+## MEGAPOS
 
 ## Overview
 
 **Description**
 
-MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
+MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
+<td style='padding: 10px;'>$5,180.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,300.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
+<td style='padding: 10px;'>$6,730.00</td>
+<td style='padding: 10px;'>$6,430.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
+<td style='padding: 10px;'>$7,230.00</td>
+<td style='padding: 10px;'>$6,930.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
+<td style='padding: 10px;'>$6,190.00</td>
+<td style='padding: 10px;'>$5,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ## Vendor Information
 
- Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

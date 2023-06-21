@@ -1,15 +1,17 @@
 ---
-title: 'Dehusking Machine/ Shaker'
+title: 'High pressure industrial vacuum cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1677
 ---
 
-## Dehusking Machine/ Shaker
+## High pressure industrial vacuum cleaner
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
+
+Cost of equipment capped at $12,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

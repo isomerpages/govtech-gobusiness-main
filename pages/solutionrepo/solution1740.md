@@ -1,60 +1,32 @@
 ---
-title: 'NX CAD/CAM Software Version NX2212'
+title: 'Electric Pedestrian Pallet Truck'
 permalink: /productivity-solutions-grant/solutionrepo/solution1740
 ---
 
-## NX CAD/CAM Software Version NX2212
+## Electric Pedestrian Pallet Truck
 
 ## Overview
 
 **Description**
 
-NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provides a complete CAD/CAM focused on milling any geometry with up to 5 axes of simultaneous motion. All of the supporting functions for NC programming are provided, from translators to tool path visualization to postprocessing. Program CNC machine tools, control robotic cells, & monitor quality using one software system. Digitally transform part manufacturing business to gain productivity & increase profitability
+This powered pallet truck is used to transport loads within warehouses, factories, or to support delivery operations. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks.
+
+The equipment can transport palletised goods of approximately 1000 to 2000 kg.
+
+Cost of equipment capped at $3,250 per unit. 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAM-Only 3-Axis Machining(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation(Annual Locked License)</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation with 5-Axis Add-On(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Value-Based Tokens for NX CAD/CAM (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$44,809.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric Pedestrian Pallet Truck</td>
+<td style='padding: 10px;'>$3,250.00</td>
+<td style='padding: 10px;'>Mandatory Specifications:<br>-Rechargeable battery. Charging accessories & 1 spare battery/unit is supportable<br>-Loading cap. of 1 to 2 tonnes. Min. 5% gradeability w/o load & 3% with load<br>-1 worker/unit<br>-Safety features eg emergency stop<br>-Deployment: Own facility or w delivery trucks. Provide supporting docs if deploying at customer site.<br>-Only 1 application per coy will be supported<br>- Installation and maintenance fee are not supported.</td>
 </tr>
 </table>
 
@@ -62,10 +34,6 @@ NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provid
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:DreamTechnology System Pte. Ltd.<br>Web URL: https://dts-asia.com/ <br>Contact Hotline: 66357748 <br>Contact Email: sales.dts@dts-asia.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

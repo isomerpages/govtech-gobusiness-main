@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (Data Mining & Analytics)'
+title: 'LittleLives School Management System (e-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution859
 ---
 
-## LittleLives School Management System (Data Mining & Analytics)
+## LittleLives School Management System (e-form)
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
+LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
-<td style='padding: 10px;'>$6,537.00</td>
-<td style='padding: 10px;'>$5,301.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
+<td style='padding: 10px;'>$1,340.00</td>
+<td style='padding: 10px;'>$1,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

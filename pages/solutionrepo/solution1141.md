@@ -1,16 +1,15 @@
 ---
-title: 'Rah Tech Sophos Endpoint Protection'
+title: 'Tracee Inventory Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1141
 ---
 
-## Rah Tech Sophos Endpoint Protection
+## Tracee Inventory Version 2.0.0
 
 ## Overview
 
 **Description**
 
-Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
-Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
+Tracee Inventory allows high visibility & accessibility of products, & easy management across multiple locations. Tracee Inventory provides real-time data about Inventory levels to always stay on top of stock counts, assisting decision makers in making informed operational decisions. Coupled with API availability, Tracee Inventory helps businesses manage & streamline operational workflow with data integrations across multiple sales channels such as marketplaces, ecommerce, accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,20 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
-<td style='padding: 10px;'>$29,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tracee Inventory Version 2.0.0 - Omni Package (Up to 3 Outlets)</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qualityzone_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
+ Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93956988 <br><br>Contact Email: info@qzonetech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

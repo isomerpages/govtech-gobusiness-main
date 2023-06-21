@@ -1,15 +1,15 @@
 ---
-title: 'TIME ACCESS HRMS Version V2.0'
+title: 'XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1422
 ---
 
-## TIME ACCESS HRMS Version V2.0
+## XERO Accounting Software
 
 ## Overview
 
 **Description**
 
-TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 years of market experience. The Integrated Cloud Solution combines HR modules and Security Hardware in a single solution. The solution allows SMEs and their employees to manage Attendance, Payroll, Leave, Claims, Benefits and Appraisal matters using Mobile App with Employee Self Service Portal on the go for access to all modules. The solution can be further integrated to any other Business Software Solution.
+Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (20 Users)</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 - Standard, Subscription only</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (45 Users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 - Premium, Subscription only</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (75 Users)</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 - Standard + Implementation</td>
+<td style='padding: 10px;'>$1,908.75</td>
+<td style='padding: 10px;'>$1,816.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (120 Users)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 4 - Premium + Implementation</td>
+<td style='padding: 10px;'>$3,610.00</td>
+<td style='padding: 10px;'>$3,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (200 Users)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 - Premium Plus + Implementation + Full Day Training</td>
+<td style='padding: 10px;'>$5,115.00</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 
 
 ## Vendor Information
 
- Company name:TIME ACCESS INTERNATIONAL<br>Web URL: https://www.timeaccess.sg/hr-software/time-access-hris-hrms <br>Contact Hotline: +6591729133 <br>Contact Email: info@timeaccess.sg 
+ Company Name: TIMCOLE PTE LTD<br>Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

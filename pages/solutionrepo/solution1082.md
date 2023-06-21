@@ -1,15 +1,15 @@
 ---
-title: 'JumpCloud Platform'
+title: 'TimeCentral Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution1082
 ---
 
-## JumpCloud Platform
+## TimeCentral Version 11
 
 ## Overview
 
 **Description**
 
-Perennial Flexiwork is a holistic endpoint management solution for companies that take remote work seriously by integrating JumpCloud Platform with Trend Micro Worry-Free. On top of its proven and tested anti-virus capability, Flexiwork comes with much needed features to make remote work both productive and secure e.g. Remote Assist ( similar to TeamViewer), patch management, application deployment etc, in today's post-pandemic environment. Flexiwork will provide a strong security foundation for companies seeking to embark on their ISO27001 journeys. 
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Perennial Flexiwork is a holistic endpoint management solution for companies tha
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 30 devices</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 50 devices</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 100 devices</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 150 devices</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 200 devices</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Perennial Consultancy Pte Ltd<br>Web URL: jumpcloud.perennialconsultancy.com <br>Contact Hotline: 96623516 <br>Contact Email: sales@perennialconsultancy.com
+ Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

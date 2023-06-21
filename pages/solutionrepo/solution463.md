@@ -1,17 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central Version Cloud'
+title: 'Artemis'
 permalink: /productivity-solutions-grant/solutionrepo/solution463
 ---
 
-## Microsoft Dynamics 365 Business Central Version Cloud
+## Artemis
 
 ## Overview
 
 **Description**
 
-Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
-
-Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
+Artemis is a comprehensive and user-friendly automation tool, which helps clients meet complex KYC/AML/CTF regulatory requirements. Leveraging on Machine Learning and Artificial Intelligence, Artemis is built specifically to address the challenges of the ever-changing regulatory landscape, it also helps regulated businesses to stay ahead of the regulatory curve by assisting them in fulfilling their KYC, risk assessment, record-keeping, screening, and ongoing due diligence obligations.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,31 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Searches</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>500 Searches</td>
+<td style='padding: 10px;'>$2,888.00</td>
+<td style='padding: 10px;'>$2,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$41,200.00</td>
-<td style='padding: 10px;'>$32,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1000 Searches</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$46,000.00</td>
-<td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$56,800.00</td>
-<td style='padding: 10px;'>$36,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_MD365_20210464_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3000 Searches</td>
+<td style='padding: 10px;'>$4,588.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +57,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 
 ## Vendor Information
 
- Company Name: Dalstech Pte Ltd<br>Web URL: https://www.dalstech.com/dynamics-365-business-central <br><br>Contact Hotline: 69092088 <br><br>Contact Email: sales@dalstech.com <br><br>
+ Company name:Cynopsis Solutions Pte Ltd<br>Web URL: https://cynopsis-solutions.com/artemis-kyc-solution/ <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

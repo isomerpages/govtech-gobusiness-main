@@ -1,17 +1,18 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'High Speed Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1628
 ---
 
-## Commercial Inkjet Printer
+## High Speed Oven
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
+A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
 
-Cost of equipment capped at $16,000 per unit
+Cost of equipment capped at $10,000 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $16,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmed to combine different cooking technologies to achieve rapid cooking.<br>- Minimum wattage/voltage: 2,200W/170V<br><br></td>
 </tr>
 </table>
 

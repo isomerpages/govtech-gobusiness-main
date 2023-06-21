@@ -1,15 +1,22 @@
 ---
-title: 'Automated Counter/ Biomass Estimation System'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1662
 ---
 
-## Automated Counter/ Biomass Estimation System
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Automatic devices for measuring or estimating the number of produce in a period.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
+
+Cost of equipment  capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +27,9 @@ Automatic devices for measuring or estimating the number of produce in a period.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box<br><br></td>
 </tr>
 </table>
 

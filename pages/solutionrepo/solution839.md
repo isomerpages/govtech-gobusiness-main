@@ -1,26 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - KPMG Services Pte Ltd.'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution839
 ---
 
-## Job Redesign Consultancy - KPMG Services Pte Ltd.
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-KPMG People and Change team in Singapore offers a range of services that enables organisation to unlock competitive advantage in today's environment.
-
-KPMG provides customized support in below core areas:
--	Organisation Design
--	Job Redesign
--	Talent Management
--	HR Transformation
--	Strategic Workforce Transformation and Workforce Shaping and Optimisation
--	Behavioural Change Management
--	Employee Experience
--	Rewards Advisory
--	Learning and Development
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -34,10 +23,10 @@ KPMG provides customized support in below core areas:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KPMG Services Pte Ltd.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/KPMG_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +36,7 @@ KPMG provides customized support in below core areas:
 
 ## Vendor Information
 
- Company name: KPMG Services Pte. Ltd.<br>UEN No: 200003956G<br>Web URL: https://home.kpmg/sg/en/<br>Contact Name: Ms Emily Fok, Assistant Director <br>Contact Email: emilyfok@kpmg.com.sg <br>Contact Number: 9619 6236
+ Company name: KLC International Institute Pte Ltd <br>Web URL: https://klc.edu.sg/ <br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

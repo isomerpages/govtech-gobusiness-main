@@ -1,15 +1,15 @@
 ---
-title: 'Ecommerce Online Shop with Custom Design'
+title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1488
 ---
 
-## Ecommerce Online Shop with Custom Design
+## Verz Design Magento, WooCommerce & Shopify Solutions
 
 ## Overview
 
 **Description**
 
-Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
+Verz Design is one of the key and leading players when it comes to providing Shopify/Magento/WooCommerce solutions. Shopify/Magento/WooCommerce offers a comprehensive backend with customizable plug-ins for SME's businesses. Highly suitable for companies with complex operations, Shopify/Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Basic)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Turquoise)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Premium)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Diamond)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Amber)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Emerald)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adobe Magento Ecommerce Version 2 (Sapphire)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
+ Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
