@@ -188,7 +188,7 @@ CEO & Tech Missionary, OTSAW.
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.everedgeglobal.com/thlcasestudy/" target="_blank" rel="noopener">Case Study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.everedgeglobal.com/everedge-case-study-robyn-de-bruin-judge-co-founder-of-designerscope/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.everedgeglobal.com/case-studies/valuation-critical-to-capital-raise/" target="_blank" rel="noopener">case study 3</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.everedgeglobal.com/thlcasestudy/" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.everedgeglobal.com/everedge-case-study-robyn-de-bruin-judge-co-founder-of-designerscope/" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.everedgeglobal.com/case-studies/valuation-critical-to-capital-raise/" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
