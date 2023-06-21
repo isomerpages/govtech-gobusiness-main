@@ -120,7 +120,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 - Years of Experience: 21 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: "ISTMA" Registration Cert no. 20220050 as “Registered Trade Mark Agent” 2002, Queen Mary University of London UK Master in Law 2000,  Bachelor of Law LL.B 1995, National University of Singapore Bachelor of Arts BA 1990
+- Certifications/Qualifications: "ISTMA" Registration Cert no. 20220050 as "Registered Trade Mark Agent" 2002, Queen Mary University of London UK Master in Law 2000,  Bachelor of Law LL.B 1995, National University of Singapore Bachelor of Arts BA 1990
 - Awards/Accolades: 2nd position IP Law prize, sponsored by Ella Cheong & G Miranda and Brand Names Education Foundation (New York) 
 - URL of LinkedIn/Company Profile: linkedin.com/in/constance-leong-???-a61b362a
 
