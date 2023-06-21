@@ -4,7 +4,7 @@ permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of
 third_nav_title: Animal & Veterinary Service (AVS)
 ---
 
-## Apply for Certificate of Freedom From Disease Within Singapore
+## Apply for Certificate of Freedom From Disease Within Singapore 
 
 Animal & Veterinary Service (AVS)
 
