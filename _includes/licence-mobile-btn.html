@@ -1,0 +1,38 @@
+<style>
+  .content a.content-btn {
+    font-family: hknova-semibold;
+    font-weight: 700;
+    display: block;
+    padding: 12.5px 24px;
+    margin-bottom: 0;
+    text-decoration: none;
+    color: black;
+    background-color: #F9FAFA;
+    border-radius: 3px;
+    border: 1px solid #EEF0F2;
+    cursor: pointer;
+    width: fit-content;
+    width: -moz-fit-content;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .content a.content-btn:hover {
+    color: white;
+    background-color: #F9FAFA;
+  }
+
+  .content a.content-btn:active {
+    color: white;
+    background-color: #F9FAFA;
+  }
+
+  .content a.content-btn:focus {
+    color: white;
+    outline: 2px solid #EEF0F2;
+  }
+</style>
+
+<a class="content-btn" href="{{ include.src }}" target="_blank" rel="noopener">
+  {{ include.text }}
+</a>
