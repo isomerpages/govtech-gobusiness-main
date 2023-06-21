@@ -56,7 +56,7 @@ const custom_notifications = [
 
 
   //[**ECDA DOWNTIME**]
-  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of licences on GoBusiness Dashboard will be unavailable during the upcoming scheduled maintenance 19 Jun 2023 from 5.30pm to 7.30pm. We apologise for the inconvenience caused"
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of licences on GoBusiness Dashboard will be unavailable during the upcoming scheduled maintenance 19 Jun 2023 from 5.30pm to 7.30pm. We apologise for the inconvenience caused"
 
   //[**SINGPASS**]
   //"<b>[Attention: System Maintenance]</b> Singpass will be unavailable for GoBusiness due to scheduled maintenance on 4 Dec 2022 from 12am to 6am. We apologise for the inconvenience caused.",
