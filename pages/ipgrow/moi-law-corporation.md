@@ -137,14 +137,7 @@ Read more about our services and expertise at: https://www.moi.legal
 ### Key practice experts
 
 **Sok Ling, MOI**
-
-- Job Title: Managing Director
-- Years of Experience: 22 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor (Singapore) / Solicitor (England & Wales), Adjunct Associate Professor (National University of Singapore) (NUS), Accredited Mediator (Singapore International Mediation Institute) (SIMI), Registered Trade Mark Agent (Institute of Singapore Trade Mark Agents) (ISTMA), Domain Name Dispute Resolution Panelist (World Intellectual Property Organization) (WIPO)
-- Awards/Accolades: Who's Who Legal (Leading IP Individual) (2012, 2013) 
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/soklingmoi
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 22 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor (Singapore) / Solicitor (England & Wales), Adjunct Associate Professor (National University of Singapore) (NUS), Accredited Mediator (Singapore International Mediation Institute) (SIMI), Registered Trade Mark Agent (Institute of Singapore Trade Mark Agents) (ISTMA), Domain Name Dispute Resolution Panelist (World Intellectual Property Organization) (WIPO)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Who's Who Legal (Leading IP Individual) (2012, 2013) </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/soklingmoi</li></ul>
 
 ---
 Profile last updated on 12 June 2023

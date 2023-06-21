@@ -134,89 +134,24 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 ### Key practice experts
 
 **Jonathan Kok**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 33 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Chambers Asia Pacific 2023 - Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright - Expert, Doyle's Guide 2020 - TMT</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jonathan-kok
 
-- Job Title: Partner
-- Years of Experience: 33 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: Chambers Asia Pacific 2023 - Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright - Expert, Doyle's Guide 2020 - TMT
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jonathan-kok
+** Gretchen Su **</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E), Accredited Mediator Singapore International Mediation Institute (SIMI)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/gretchen-su
 
-** Gretchen Su **
+**Alvin Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Special Counsel</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore  </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IP Stars 2021 - Patent - Expert</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/alvin-lim
 
-- Job Title: Partner
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E), Accredited Mediator Singapore International Mediation Institute (SIMI)
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/gretchen-su
+**Joyce Lee**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 12 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E), Certified Information Privacy Manager (CIPM)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/joyce-lee
 
-**Alvin Lim**
+**In Hae, Lee**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 9 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/lee-in-hae
 
-- Job Title: Special Counsel
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore  
-- Awards/Accolades: IP Stars 2021 - Patent - Expert
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/alvin-lim
-
-**Joyce Lee**
-
-- Job Title: Senior Associate
-- Years of Experience: 12 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E), Certified Information Privacy Manager (CIPM)
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/joyce-lee
-
-**In Hae, Lee**
-
-- Job Title: Senior Associate
-- Years of Experience: 9 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E)
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/lee-in-hae
-
-** Melaine Yun**
-
-- Job Title: Senior Patent Associate
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Patent Attorney Singapore
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/melanie-yun
+** Melaine Yun**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Patent Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Patent Attorney Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/melanie-yun
 
 
-** Valen Lim**
+** Valen Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/valen-lim
 
-- Job Title: Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/valen-lim
+** Bernetta Foong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 3 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/bernetta-foong
 
-** Bernetta Foong**
-
-- Job Title: Associate
-- Years of Experience: 3 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/bernetta-foong
-
-**Jim Lim**
-
-- Job Title: Consultant
-- Years of Experience: 38 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: The Legal 500 Asia-Pacific 2023 - Intellectual Property - Leading Individual, Chambers Asia-Pacific 2022 - Ranked, Asia IP Experts - Intellectual Property - IP Experts
-- URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jim-lim
+**Jim Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 38 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: The Legal 500 Asia-Pacific 2023 - Intellectual Property - Leading Individual, Chambers Asia-Pacific 2022 - Ranked, Asia IP Experts - Intellectual Property - IP Experts</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.withersworldwide.com/en-gb/people/jim-lim</li></ul>
 
 ---
 Profile last updated on 12 June 2023

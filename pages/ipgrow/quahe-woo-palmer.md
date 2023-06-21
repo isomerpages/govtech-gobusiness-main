@@ -144,22 +144,9 @@ We are a full service law firm comprising a team of experienced legal practition
 ### Key practice experts
 
 **Christopher Woo**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 30 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-at-Law (Inner Temple)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://www.quahewoo.com/our-lawyers/christopher-woo
 
-- Job Title: Director
-- Years of Experience: 30 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-at-Law (Inner Temple)
-- URL of LinkedIn/Company Profile: https://www.quahewoo.com/our-lawyers/christopher-woo
-
-**Emma Qing**
-
-- Job Title: Associate
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Patent Attorney in China, Juris Doctor Singapore Management University, Master of Science Graduate Certificate in Intellectual Property Law from National University of Singapore, Master of Engineering & Bachelor of Science from Beijing Normal University
-- URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/emma-qing
+**Emma Qing**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore, Patent Attorney in China, Juris Doctor Singapore Management University, Master of Science Graduate Certificate in Intellectual Property Law from National University of Singapore, Master of Engineering & Bachelor of Science from Beijing Normal University</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/emma-qing</li></ul>
 
 ---
 Profile last updated on 12 June 2023

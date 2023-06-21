@@ -70,22 +70,9 @@ We are able to assist to estimate the value of the following intellectual proper
 ### Key practice experts
 
 **Terence Ang**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 24 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Accountant of Singapore, Chartered Valuer and Appraiser in Singapore, </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.rsm.global/singapore/people/terence-ang
 
-- Job Title: Partner
-- Years of Experience: 24 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Accountant of Singapore, Chartered Valuer and Appraiser in Singapore, 
-- URL of LinkedIn/Company Profile: www.rsm.global/singapore/people/terence-ang
-
-** Daniel Low **
-
-- Job Title: Director
-- Years of Experience: 15 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Valuer and Appraiser in Singapore
-- URL of LinkedIn/Company Profile: www.rsm.global/singapore/people/daniel-low
+** Daniel Low **</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Valuer and Appraiser in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.rsm.global/singapore/people/daniel-low</li></ul>
 
 ---
 Profile last updated on 12 June 2023

@@ -84,14 +84,7 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 ### Key practice experts
 
 **Daniel Chan**
-
-- Job Title: Managing Director
-- Years of Experience: 18 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting
-- Certifications/Qualifications: 1999-2003 Faculty of Law National University of Singapore LL.B. (Second Upper), Advocate & Solicitor Supreme Court of Singapore, SCOPE Intellectual Property Consultant
-- Awards/Accolades: The Legal 500 Asia Pacific 2017 - Tier 3 Technology, Media & Communications (TMT), The Legal 500 Asia Pacific 2016 - Tier 2 Intellectual Property, The Legal 500 Asia Pacific 2016 - Tier 3 Technology Media & Communications (TMT), Asian Legal Business IP Rankings 2016 - Tier 3 Patents, The IP Master 2013 Asia IP - Tier 2 Patent Prosecution
-- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/daniel-chan-6039b92b" target="_blank" rel="noopener">https://sg.linkedin.com/in/daniel-chan-6039b92b</a>
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 18 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: 1999-2003 Faculty of Law National University of Singapore LL.B. (Second Upper), Advocate & Solicitor Supreme Court of Singapore, SCOPE Intellectual Property Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: The Legal 500 Asia Pacific 2017 - Tier 3 Technology, Media & Communications (TMT), The Legal 500 Asia Pacific 2016 - Tier 2 Intellectual Property, The Legal 500 Asia Pacific 2016 - Tier 3 Technology Media & Communications (TMT), Asian Legal Business IP Rankings 2016 - Tier 3 Patents, The IP Master 2013 Asia IP - Tier 2 Patent Prosecution</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/daniel-chan-6039b92b" target="_blank" rel="noopener">https://sg.linkedin.com/in/daniel-chan-6039b92b</a></li></ul>
 
 ---
 Profile last updated on 12 June 2023

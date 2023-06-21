@@ -164,95 +164,26 @@ DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest
 ### Key practice experts
 
 **Michelle S. H., NG**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 26 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Roll of Solicitors of the Supreme Court of England and Wales, Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/michelle-ng.html
 
-- Job Title: Managing Partner
-- Years of Experience: 26 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Roll of Solicitors of the Supreme Court of England and Wales, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/michelle-ng.html
+**Shy Tsong, LEE**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 29 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Advanced Diploma in Computer Studies, Registered Singapore Patent Agent, Registered Malaysia Trademark and Industrial Design Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/lee-shy-tsong.html
 
-**Shy Tsong, LEE**
+** Chi Duan, Gooi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 26 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Intelligence and Search, IP Watch, IP Due Diligence</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/gooi-chi-duan.html
 
-- Job Title: Partner
-- Years of Experience: 29 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Advanced Diploma in Computer Studies, Registered Singapore Patent Agent, Registered Malaysia Trademark and Industrial Design Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/lee-shy-tsong.html
+** E-Laine, Chiam**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 33 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/elaine-chiam.html
 
-** Chi Duan, Gooi**
+** Michael Stephen, Kraal**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 29 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore),  Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/michael-kraal.html
 
-- Job Title: Partner
-- Years of Experience: 26 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Intelligence and Search, IP Watch, IP Due Diligence
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators
-- URL of LinkedIn/Company Profile: www.donburk.asia/gooi-chi-duan.html
-
-** E-Laine, Chiam**
-
-- Job Title: Partner
-- Years of Experience: 33 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/elaine-chiam.html
-
-** Michael Stephen, Kraal**
-
-- Job Title: Partner
-- Years of Experience: 29 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore),  Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/michael-kraal.html
-
-** Min Pin, Koay**
-
-- Job Title: Partner
-- Years of Experience: 34 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (University of Liverpool, U.K.), English Bar, LL.M (London School of Economics, U.K.) (Specialising in Corporate and Commercial Law), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/koay-min-pin.html
+** Min Pin, Koay**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 34 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (University of Liverpool, U.K.), English Bar, LL.M (London School of Economics, U.K.) (Specialising in Corporate and Commercial Law), Advocate and Solicitor of the Supreme Court of Singapore, Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/koay-min-pin.html
 
 
-** Hubert, Giam**
+** Hubert, Giam**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner; Head, Patents Division (Mechanical & Electrical Group)</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), M.Sc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/hubert-giam.html
 
-- Job Title: Partner; Head, Patents Division (Mechanical & Electrical Group)
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), M.Sc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Accredited Associate Mediator with the Singapore Mediation Centre, Fellow of the Singapore Institute of Arbitrators
-- URL of LinkedIn/Company Profile: www.donburk.asia/hubert-giam.html
+**Teck Yeow, Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner; Head, Patents Division (Life Sciences & Chemical Group)</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: B.Eng (Hons.) (Bioengineering) (National University of Singapore), MSc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Associate Mediator accredited by the Singapore Mediation Centre</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/lim-teck-yeow.html
 
-**Teck Yeow, Lim**
+**Gary, Chua**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 9 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/gary-chua.html
 
-- Job Title: Partner; Head, Patents Division (Life Sciences & Chemical Group)
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: B.Eng (Hons.) (Bioengineering) (National University of Singapore), MSc in Intellectual Property Management (National University of Singapore), Registered Singapore Patent Agent, Associate Mediator accredited by the Singapore Mediation Centre
-- URL of LinkedIn/Company Profile: www.donburk.asia/lim-teck-yeow.html
-
-**Gary, Chua**
-
-- Job Title: Partner
-- Years of Experience: 9 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: B.Eng (Hons.) (Electrical Engineering) (National University of Singapore), Registered Singapore Patent Agent
-- URL of LinkedIn/Company Profile: www.donburk.asia/gary-chua.html
-
-**Shang Li, Chua**
-
-- Job Title: Partner
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
-- Certifications/Qualifications: LL.B (Hons.) (University of Liverpool), Advocate and Solicitor of the Supreme Court of Singapore
-- URL of LinkedIn/Company Profile: www.donburk.asia/chua-shang-li.html
+**Shang Li, Chua**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (University of Liverpool), Advocate and Solicitor of the Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.donburk.asia/chua-shang-li.html</li></ul>
 
 ---
 Profile last updated on 12 June 2023

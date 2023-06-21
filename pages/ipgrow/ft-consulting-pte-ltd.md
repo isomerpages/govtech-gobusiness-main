@@ -114,42 +114,13 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 ### Key practice experts
 
 **John Ong Tun Kwok**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Group Executive Chairman</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Senior PMC (Practising Management Consultant)-IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: World's Leading IP Strategist Award</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/john-ong-9923b213
 
-- Job Title: Group Executive Chairman
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
-- Certifications/Qualifications: Senior PMC (Practising Management Consultant)-IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)
-- Awards/Accolades: World's Leading IP Strategist Award
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/john-ong-9923b213
+**Winston Chan Cheow Soon**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Group Managing Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: PMC (Practising Management Consultant) -IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Listed in "IAM Strategy 300: The World's Leading IP Strategists", SkillsFuture Fellowships Award 2019</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/winston-chan-ftc
 
-**Winston Chan Cheow Soon**
+**Robin Yeo Meng Cer**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Consultant / Regional Manager</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: PMC (Practising Management Consultant) Certified from SBACC (Singapore Business Advisors & Consultants Council),  ACLP (Advanced Certificate in Learning and Performance)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/robin-yeo-14a8925
 
-- Job Title: Group Managing Partner
-- Years of Experience: 20 years
-- Location: Singapore
-- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, IP Training
-- Certifications/Qualifications: PMC (Practising Management Consultant) -IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council), ACLP (Advanced Certificate in Learning and Performance)
-- Awards/Accolades: Listed in "IAM Strategy 300: The World's Leading IP Strategists", SkillsFuture Fellowships Award 2019
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/winston-chan-ftc
-
-**Robin Yeo Meng Cer**
-
-- Job Title: Senior Consultant / Regional Manager
-- Years of Experience: 15 years
-- Location: Singapore
-- IA/IP-Related Expertise: Innovation Consultancy, IP Strategy Consulting, IP Training
-- Certifications/Qualifications: PMC (Practising Management Consultant) Certified from SBACC (Singapore Business Advisors & Consultants Council),  ACLP (Advanced Certificate in Learning and Performance)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/robin-yeo-14a8925
-
-**Stella Yap Poh Kheng**
-
-- Job Title: Senior Consultant
-- Years of Experience: 20 years
-- Location: Singapore
-- IA/IP-Related Expertise: Branding Strategy
-- Certifications/Qualifications: SCMC (Singapore Certified Management Consultants) Certified from T&Uuml;V S&Uuml;D
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/stella-yap-876457188
+**Stella Yap Poh Kheng**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: SCMC (Singapore Certified Management Consultants) Certified from T&Uuml;V S&Uuml;D</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/stella-yap-876457188</li></ul>
 
 ---
 Profile last updated on 12 June 2023

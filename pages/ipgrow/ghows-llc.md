@@ -126,43 +126,13 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 ### Key practice experts
 
 **Bryan Ghows**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 39 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting, Dispute Resolution, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore),</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Legal500 - ranked leading individual for IP and TMT (from 2016 to 2023), Chambers and Partners - ranked individual for IP (Litigation) (2023), Who's Who Legal - Recommended for Data Security and Information Technology in 2020</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/bghows
 
-- Job Title: Managing Director
-- Years of Experience: 39 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution, IP Training
-- Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore),
-- Awards/Accolades: Legal500 - ranked leading individual for IP and TMT (from 2016 to 2023), Chambers and Partners - ranked individual for IP (Litigation) (2023), Who's Who Legal - Recommended for Data Security and Information Technology in 2020
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/bghows
+**Teresa O'Connor**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 40 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Legal500 - ranked individual (2023), Chambers and Partners - ranked individual for IP (Non-contentious) (2023)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/teresa-o-connor-03980613
 
-**Teresa O'Connor**
+**Patsy Koh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 29 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore), Registered Patent Attorney (Singapore)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Asia IP Special Report 2014 - featured as one of the top 50 patent lawyers in 15 jurisdictions around Asia and the Pacific, Asia IP Experts (Patents & Enforcement) - 2013-2018, AsiaLaw Leading Lawyer (IP): 2007 to 2010, Euromoney's Women in Business Law Expert Guide - Patent: 2012 to 2022, Euromoney's Patent Expert Guide: 2009 to 2019</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/patsykoh
 
-- Job Title: Director
-- Years of Experience: 40 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
-- Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore)
-- Awards/Accolades: Legal500 - ranked individual (2023), Chambers and Partners - ranked individual for IP (Non-contentious) (2023)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/teresa-o-connor-03980613
-
-**Patsy Koh**
-
-- Job Title: Director
-- Years of Experience: 29 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting
-- Certifications/Qualifications: LLB (Hons), Advocate & Solicitor (Singapore), Registered Patent Attorney (Singapore)
-- Awards/Accolades: Asia IP Special Report 2014 - featured as one of the top 50 patent lawyers in 15 jurisdictions around Asia and the Pacific, Asia IP Experts (Patents & Enforcement) - 2013-2018, AsiaLaw Leading Lawyer (IP): 2007 to 2010, Euromoney's Women in Business Law Expert Guide - Patent: 2012 to 2022, Euromoney's Patent Expert Guide: 2009 to 2019
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/patsykoh
-
-**Wai Yeng Chan**
-
-- Job Title: Patent Attorney
-- Years of Experience: 14 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
-- Certifications/Qualifications: Bachelor of Engineering (Chemical) (Hons), Registered Patent Attorney (Singapore)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/wai-yeng-chan
+**Wai Yeng Chan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 14 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Engineering (Chemical) (Hons), Registered Patent Attorney (Singapore)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/wai-yeng-chan</li></ul>
 
 ---
 Profile last updated on 12 June 2023

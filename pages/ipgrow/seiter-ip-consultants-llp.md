@@ -164,22 +164,9 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 ### Key practice experts
 
 **Kiranjit Dharsan**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Audit, IP Brokerage and Licensing, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/kiranjitdharsanseiter
 
-- Job Title: Managing partner
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Audit, IP Brokerage and Licensing, Contract Drafting
-- Certifications/Qualifications: Advocate and Solicitor Singapore
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/kiranjitdharsanseiter
-
-**Marni Afandi**
-
-- Job Title: Partner
-- Years of Experience: 28 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service
-- Certifications/Qualifications: A levels
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/marni-haji-afandi-72427838
+**Marni Afandi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 28 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: A levels</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/marni-haji-afandi-72427838</li></ul>
 
 ---
 Profile last updated on 12 June 2023

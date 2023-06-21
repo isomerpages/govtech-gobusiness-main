@@ -80,13 +80,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 ### Key practice experts
 
 **Shiming, Zeng**
-
-- Job Title: Managing Partner
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Watch, IP Portfolio Management
-- Certifications/Qualifications: NUS LLB (2nd Class Honours, Upper Division), Admitted to the Singapore Bar, Member, Singapore Academy of Law, Dean's List - NUS Faculty of Law, Peter English Memorial Prize - NUS Faculty of Law
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/david-zeng-sm
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Watch, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: NUS LLB (2nd Class Honours, Upper Division), Admitted to the Singapore Bar, Member, Singapore Academy of Law, Dean's List - NUS Faculty of Law, Peter English Memorial Prize - NUS Faculty of Law</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/david-zeng-sm</li></ul>
 
 ---
 Profile last updated on 12 June 2023

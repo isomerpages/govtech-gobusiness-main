@@ -156,24 +156,9 @@ We work together with our clients every step of the way, providing elegant and c
 ### Key practice experts
 
 **Dixon Soh**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director, Head of Intellectual Property and Intangible Assets Practice</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Strategy Consulting, Contract Drafting, IP Audit</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B, GDLP University of Tasmania (Australia), Advocate & Solicitor of the Supreme Court of Singapore, Barrister & Solicitor of the High Court of Australia and New Zealand, Registered Management Consultant, Accredited Mediator / Certified IP Mediator</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/dixon-soh
 
-- Job Title: Director, Head of Intellectual Property and Intangible Assets Practice
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Strategy Consulting, Contract Drafting, IP Audit
-- Certifications/Qualifications: LL.B, GDLP University of Tasmania (Australia), Advocate & Solicitor of the Supreme Court of Singapore, Barrister & Solicitor of the High Court of Australia and New Zealand, Registered Management Consultant, Accredited Mediator / Certified IP Mediator
-- Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/dixon-soh
-
-**Arthur Yap**
-
-- Job Title: Director (Litigation)
-- Years of Experience: -
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution, IP Training, IP Watch, IP Portfolio Management
-- Certifications/Qualifications: LL.B. (Hons) National University of Singapore, B. Eng. (Chem) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore; FSIArb
-- Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/arthur-yap-9a70432a
+**Arthur Yap**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director (Litigation)</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: -</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution, IP Training, IP Watch, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. (Hons) National University of Singapore, B. Eng. (Chem) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore; FSIArb</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/arthur-yap-9a70432a</li></ul>
 
 ---
 Profile last updated on 12 June 2023

@@ -99,13 +99,7 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 ### Key practice experts
 
 **Mun Siong Yoong**
-
-- Job Title: Founder and CEO
-- Years of Experience: 15 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Fellow of the Asia Pacific Institute of Experts (FAPIEx), Chartered Valuer and Appraiser (CVA) with the Institute of Valuers and Appraisers of Singapore (IVAS), Certified Patent Valuation Analyst (CPVA), Fellow Chartered Accountant of Singapore (FCCA), Bachelor's of Engineering degree from Nanyang Technological University (NTU)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/munsiongyoong
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Founder and CEO</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Fellow of the Asia Pacific Institute of Experts (FAPIEx), Chartered Valuer and Appraiser (CVA) with the Institute of Valuers and Appraisers of Singapore (IVAS), Certified Patent Valuation Analyst (CPVA), Fellow Chartered Accountant of Singapore (FCCA), Bachelor's of Engineering degree from Nanyang Technological University (NTU)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/munsiongyoong</li></ul>
 
 ---
 Profile last updated on 12 June 2023

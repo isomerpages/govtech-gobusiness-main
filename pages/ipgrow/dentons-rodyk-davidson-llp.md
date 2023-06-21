@@ -164,74 +164,20 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 ### Key practice experts
 
 **Catherine Lee**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 34 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor, Singapore 2000</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 - 2022), IP Stars: Top 250 Women in IP (2020 - 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/catherine-lee
 
-- Job Title: Senior Partner
-- Years of Experience: 34 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Advocate & Solicitor, Singapore 2000
-- Awards/Accolades: Best Lawyers in Singapore: Recognized in the areas of Intellectual Property Law and Privacy and Data Security Law 2023, IP Stars: Trademark Star (2020 - 2022), IP Stars: Top 250 Women in IP (2020 - 2022), The Legal 500 Asia Pacific: Recommended Lawyer for Technology, Media & Telecommunications (2018)
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/catherine-lee
+**Gilbert Leong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 33 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor Singapore (1990)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 - 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/gilbert-leong
 
-**Gilbert Leong**
+**Ai Ming Lee**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 45 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor, Singapore (1978)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 - 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 - 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 - 2023)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/aiming-lee
 
-- Job Title: Senior Partner
-- Years of Experience: 33 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
-- Certifications/Qualifications: Advocate & Solicitor Singapore (1990)
-- Awards/Accolades: ALB SEA Law Awards: Data Privacy and Protection Lawyer of the Year Award (2022), Best Lawyers in Singapore: Recognized in the area of Information Technology Law (2021 - 2023), Chambers Asia Pacific: Recognised as Leading Individual for Technology, Media, Telecommunications (2011 - 2022), IFLR1000: Recognized as a Notable Practitioner for M&A (2019 - 2023), Who's Who Legal:  Recognized as a National Leader (Southeast Asia) for Data (2022)
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/gilbert-leong
+**Maw Jiun Foo**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 14 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor, Singapore (2009)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: The Legal 500 Asia Pacific: Recommended lawyer for Intellectual Property (2018), Singapore Business Review: Singapore's 18 Most Influential Lawyers under 40 (2021), Asian Legal Business: Asia 40 under 40 (2022), IAM Patent: Recognised and Ranked for Litigation (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/mawjiun-foo
 
-**Ai Ming Lee**
+**Elaine Lew**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 24 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: National University of Singapore 1998 LLB (Hons), Nanyang Technological University 2006 M.Sc. Information Studies </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: The Legal 500 Asia Pacific, 2013: Recognized Lawyer</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/elaine-lew
 
-- Job Title: Senior Consultant
-- Years of Experience: 45 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor, Singapore (1978)
-- Awards/Accolades: Chambers Asia Pacific: Recognised as Leading Individual Band 1 for Intellectual Property (2016 - 2023), The Legal 500 Asia Pacific: Recognised as Leading Individual for Intellectual Property (2014 - 2023), Who's Who Legal: Recognised as a Leading Practitioner for Trademarks (2020), IAM Patent 1000: Recognised as a Patent Luminary (2019), Asialaw Leading Lawyers: Ranked as Distinguished Practitioner in Intellectual Property (2020 - 2023)
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/aiming-lee
-
-**Maw Jiun Foo**
-
-- Job Title: Partner
-- Years of Experience: 14 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate and Solicitor, Singapore (2009)
-- Awards/Accolades: The Legal 500 Asia Pacific: Recommended lawyer for Intellectual Property (2018), Singapore Business Review: Singapore's 18 Most Influential Lawyers under 40 (2021), Asian Legal Business: Asia 40 under 40 (2022), IAM Patent: Recognised and Ranked for Litigation (2022)
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/mawjiun-foo
-
-**Elaine Lew**
-
-- Job Title: Partner
-- Years of Experience: 24 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: National University of Singapore 1998 LLB (Hons), Nanyang Technological University 2006 M.Sc. Information Studies 
-- Awards/Accolades: The Legal 500 Asia Pacific, 2013: Recognized Lawyer
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/elaine-lew
-
-**Desmond Chew**
-
-- Job Title: Partner
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor Singapore 2015
-- Awards/Accolades: IP Stars: Notable Practitioner 2021, IP Stars: Rising Star 2018
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/desmond-che
+**Desmond Chew**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor Singapore 2015</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IP Stars: Notable Practitioner 2021, IP Stars: Rising Star 2018</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/desmond-che
 
 
-**Jian Ming Chang**
-
-- Job Title: Partner
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service
-- Certifications/Qualifications: Certified Patent Valuation Analyst Singapore 2020
-- URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/jianming-chang
+**Jian Ming Chang**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Certified Patent Valuation Analyst Singapore 2020</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://dentons.rodyk.com/en/jianming-chang</li></ul>
 
 ---
 Profile last updated on 12 June 2023

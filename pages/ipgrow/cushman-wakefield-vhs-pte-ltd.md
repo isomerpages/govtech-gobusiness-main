@@ -64,31 +64,11 @@ The opening of two new offices in Singapore solidifies our position as a real es
 ### Key practice experts
 
 **Jack Leung**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: CVA, CFA, FRM  </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/jack-leung-6a694814a
 
-- Job Title: Director
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: CVA, CFA, FRM  
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/jack-leung-6a694814a
+**Li Bing Chiam**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Manager</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 6 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: CVA, ACCA</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/libing-chiam-cva-acca-227998aa
 
-**Li Bing Chiam**
-
-- Job Title: Manager
-- Years of Experience: 6 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: CVA, ACCA
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/libing-chiam-cva-acca-227998aa
-
-**Denise Ong**
-
-- Job Title: Director
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: ICVS (International Certified Valuation Specialist)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/denise-yu-mei-ong-7b775713
+**Denise Ong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: ICVS (International Certified Valuation Specialist)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/denise-yu-mei-ong-7b775713</li></ul>
 
 ---
 Profile last updated on 12 June 2023

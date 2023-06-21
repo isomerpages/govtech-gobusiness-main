@@ -110,41 +110,13 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 ### Key practice experts
 
 **Ronald Wong Jian Jie**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: ISO 9001:2015 Quality Management Systems Internal Auditor Training Course, ISO 31000 Risk Based Thinking Awareness Training Course, Advocate & Solicitor of the Supreme Court of Singapore (2013), NUS LLB (Hons), Singapore Mediation Centre (SMC) Accredited Mediator</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Asia Business Law Journal 2019 A-List Singapore's Top 100 Lawyers, Asia Business Law Journal 2018, A-List Singapore's Top 100 Lawyers, </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.covenantchambers.com/ronald-wong
 
-- Job Title: Director
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: ISO 9001:2015 Quality Management Systems Internal Auditor Training Course, ISO 31000 Risk Based Thinking Awareness Training Course, Advocate & Solicitor of the Supreme Court of Singapore (2013), NUS LLB (Hons), Singapore Mediation Centre (SMC) Accredited Mediator
-- Awards/Accolades: Asia Business Law Journal 2019 A-List Singapore's Top 100 Lawyers, Asia Business Law Journal 2018, A-List Singapore's Top 100 Lawyers, 
-- URL of LinkedIn/Company Profile: www.covenantchambers.com/ronald-wong
+**Sara Ng**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 7 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2016), NUS LLB (2nd Upper)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.covenantchambers.com/sara-ng
 
-**Sara Ng**
+**Stuart Peter**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 4 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2019), SMU LLB (Cum Laude)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.covenantchambers.com/stuart-peter
 
-- Job Title: Associate Director
-- Years of Experience: 7 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2016), NUS LLB (2nd Upper)
-- URL of LinkedIn/Company Profile: www.covenantchambers.com/sara-ng
-
-**Stuart Peter**
-
-- Job Title: Associate
-- Years of Experience: 4 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2019), SMU LLB (Cum Laude)
-- URL of LinkedIn/Company Profile: www.covenantchambers.com/stuart-peter
-
-**James Tan**
-
-- Job Title: Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2021), SMU LLB (Cum Laude)
-- URL of LinkedIn/Company Profile: www.covenantchambers.com/james-tan
+**James Tan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor of the Supreme Court of Singapore (2021), SMU LLB (Cum Laude)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.covenantchambers.com/james-tan</li></ul>
 
 ---
 Profile last updated on 12 June 2023

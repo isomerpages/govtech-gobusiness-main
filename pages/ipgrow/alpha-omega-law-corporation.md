@@ -174,32 +174,11 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 ### Key practice experts
 
 **Renee Xavier**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 31 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Barrister at law ACTA</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IAM 300 IP Strategist 2017-2019</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/reneexavier
 
-- Job Title: Director
-- Years of Experience: 31 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training
-- Certifications/Qualifications: Barrister at law ACTA
-- Awards/Accolades: IAM 300 IP Strategist 2017-2019
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/reneexavier
+**Grace Alcasid**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Legal Manager</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Audit, IP Portfolio Management, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Foreign Lawyer</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/grace-alcasid-22961676
 
-**Grace Alcasid**
-
-- Job Title: Legal Manager
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Audit, IP Portfolio Management, IP Strategy Consulting
-- Certifications/Qualifications: Registered Foreign Lawyer
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/grace-alcasid-22961676
-
-**Rudhran Rudy Gunaratnam**
-
-- Job Title: Lawyer (Managing)
-- Years of Experience: 31 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Barrister at law
-- URL of LinkedIn/Company Profile: www.alphaandomega.com.sg/about/our-people
+**Rudhran Rudy Gunaratnam**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Lawyer (Managing)</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 31 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Barrister at law</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.alphaandomega.com.sg/about/our-people</li></ul>
 
 ---
 Profile last updated on 12 June 2023

@@ -153,61 +153,17 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 ### Key practice experts
 
 **Pei Lin, Low**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 26 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Database, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. (Hons), National University of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: 2023 The Legal 500 Asia Pacific - Recommended for Intellectual Property: Local Firms, 2023 Chambers Asia-Pacific - Band 3 for Intellectual Property: Non-Contentious, 2023 IAM Patent 1000 - Highly Recommended for Intellectual Property & Technology, 2022 - Asia IP Experts - IP Expert, 2023 World Trademark Review 1000 - Gold for Prosecution and Strategy</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5092/low-pei-lin
 
-- Job Title: Partner
-- Years of Experience: 26 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, IP Database, IP Portfolio Management
-- Certifications/Qualifications: LL.B. (Hons), National University of Singapore
-- Awards/Accolades: 2023 The Legal 500 Asia Pacific - Recommended for Intellectual Property: Local Firms, 2023 Chambers Asia-Pacific - Band 3 for Intellectual Property: Non-Contentious, 2023 IAM Patent 1000 - Highly Recommended for Intellectual Property & Technology, 2022 - Asia IP Experts - IP Expert, 2023 World Trademark Review 1000 - Gold for Prosecution and Strategy
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5092/low-pei-lin
+**Jia Yi, Toh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Freedom-to-Operate (FTO), IP Due Diligence, Dispute Resolution, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: B.A. (Law) University of Cambridge Norton Rose Prize, M.A. University of Cambridge</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/19845/toh-jia-yi
 
-**Jia Yi, Toh**
+**Yi-Ming, Leong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. London School of Economics and Political Science  </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/19829/leong-yi-ming
 
-- Job Title: Partner
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Freedom-to-Operate (FTO), IP Due Diligence, Dispute Resolution, IP Training
-- Certifications/Qualifications: B.A. (Law) University of Cambridge Norton Rose Prize, M.A. University of Cambridge
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/19845/toh-jia-yi
+**Kok Leong, Tham**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 29 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. (Hons) National University of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: 2023 The Legal 500 Asia Pacific - Recommended for Intellectual Property:  Local Firms, 2023 World Trademark Review 1000 - Recommended for Transactions, 2022 World Trademark Review 1000 - Recommended for Transactions, 2022 IAM Patent 1000 - Recommended for Intellectual Property & Technology: Transactions, 2021 Asia IP Experts - Leading Individual for Intellectual Property</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5100/tham-kok-leong
 
-**Yi-Ming, Leong**
+**Vaerhn, Vignesh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 19 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. (Hons) National University of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: 2023 World Trademark Review 1000 - Bronze for Prosecution and Strategy, 2023 World Trademark Review 1000 - Bronze for Enforcement and Litigation, 2022 The Legal 500 Asia Pacific - Recommended for Intellectual Property: Local Firms</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5095/vignesh-vaerhn
 
-- Job Title: Partner
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution, IP Training
-- Certifications/Qualifications: LL.B. London School of Economics and Political Science  
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/19829/leong-yi-ming
-
-**Kok Leong, Tham**
-
-- Job Title: Partner
-- Years of Experience: 29 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting
-- Certifications/Qualifications: LL.B. (Hons) National University of Singapore
-- Awards/Accolades: 2023 The Legal 500 Asia Pacific - Recommended for Intellectual Property:  Local Firms, 2023 World Trademark Review 1000 - Recommended for Transactions, 2022 World Trademark Review 1000 - Recommended for Transactions, 2022 IAM Patent 1000 - Recommended for Intellectual Property & Technology: Transactions, 2021 Asia IP Experts - Leading Individual for Intellectual Property
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5100/tham-kok-leong
-
-**Vaerhn, Vignesh**
-
-- Job Title: Partner
-- Years of Experience: 19 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: LL.B. (Hons) National University of Singapore
-- Awards/Accolades: 2023 World Trademark Review 1000 - Bronze for Prosecution and Strategy, 2023 World Trademark Review 1000 - Bronze for Enforcement and Litigation, 2022 The Legal 500 Asia Pacific - Recommended for Intellectual Property: Local Firms
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/5095/vignesh-vaerhn
-
-**Ali, Afzal**
-
-- Job Title: Partner
-- Years of Experience: 6 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: LL.B. (Hons), National University of Singapore, LL.M., New York University
-- URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/22894/afzal-ali
+**Ali, Afzal**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 6 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B. (Hons), National University of Singapore, LL.M., New York University</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.allenandgledhill.com/partners/22894/afzal-ali</li></ul>
 
 ---
 Profile last updated on 12 June 2023

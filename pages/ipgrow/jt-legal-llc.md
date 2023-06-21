@@ -80,13 +80,7 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 ### Key practice experts
 
 **Joshua Tan Heok Ping**
-
-- Job Title: Managing Director
-- Years of Experience: 24 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting
-- Certifications/Qualifications: 1995 - BA (Hons) Keele University, 1996 - Barrister-at-law of the Middle Temple (non-practising), 1998 - LLM, King's College London, 1999 - Advocate and Solicitor in Singapore, 2002 - Solicitor (England & Wales) (non-practising)   
-- URL of LinkedIn/Company Profile: https://jtlegal.com.sg/joshua-tan
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 24 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: 1995 - BA (Hons) Keele University, 1996 - Barrister-at-law of the Middle Temple (non-practising), 1998 - LLM, King's College London, 1999 - Advocate and Solicitor in Singapore, 2002 - Solicitor (England & Wales) (non-practising)   </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://jtlegal.com.sg/joshua-tan</li></ul>
 
 ---
 Profile last updated on 12 June 2023

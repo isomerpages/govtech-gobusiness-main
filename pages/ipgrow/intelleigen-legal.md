@@ -154,13 +154,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 ### Key practice experts
 
 **Chee Chun Woei**
-
-- Job Title: Director
-- Years of Experience: 20 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Bachelor of Laws (Honours) (LLB), Certified Patent Valuation Analyst 
-- URL of LinkedIn/Company Profile: https://www.intelleigen.com/our-lawyers
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Laws (Honours) (LLB), Certified Patent Valuation Analyst </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://www.intelleigen.com/our-lawyers</li></ul>
 
 ---
 Profile last updated on 12 June 2023

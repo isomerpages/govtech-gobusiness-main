@@ -126,88 +126,26 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 ### Key practice experts
 
 **Max Ng**
-
-- Job Title: Managing Director
-- Years of Experience: 28 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who's Who Legal: Singapore
-- Awards/Accolades: World Trademark Review 1000 - Ranked in Prosecution and Strategy and Enforcement and Litigation and Transactions, World Intellectual Property Review Leaders - Recognised Leader, Chambers & Partners - Ranked Lawyer: Intellectual Property: Domestic: Litigation, Legal 500 (Asia-Pacific) - Recommended Lawyer
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/maxng
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 28 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who's Who Legal: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: World Trademark Review 1000 - Ranked in Prosecution and Strategy and Enforcement and Litigation and Transactions, World Intellectual Property Review Leaders - Recognised Leader, Chambers & Partners - Ranked Lawyer: Intellectual Property: Domestic: Litigation, Legal 500 (Asia-Pacific) - Recommended Lawyer</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/maxng
 
 
-**Gregory Marimuthu**
+**Gregory Marimuthu**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: General Counsel</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 12 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Trade Mark Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/gregory-marimuthu-23a89b44
 
-- Job Title: General Counsel
-- Years of Experience: 12 years
-- Location: Malaysia
-- IA/IP-Related Expertise: Patent Agent Service Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting
-- Certifications/Qualifications: Trade Mark Agent
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/gregory-marimuthu-23a89b44
+**Mitchel Chua**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Advocate & Solicitor</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Practising Certificate (Advocate and Solicitor of the Supreme Court of Singapore)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/mitchelchua
 
-**Mitchel Chua**
-
-- Job Title: Advocate & Solicitor
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: Practising Certificate (Advocate and Solicitor of the Supreme Court of Singapore)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/mitchelchua
-
-**Inshirah Lim**
-
-- Job Title: Senior IP Specialist
-- Years of Experience: 5 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service Trade Mark Agent Service IP Database; IP Portfolio Management
-- Certifications/Qualifications: Registered Trademarks Agent in Singapore
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/inshirah-lim-b03b53125/IP
+**Inshirah Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior IP Specialist</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service Trade Mark Agent Service IP Database; IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trademarks Agent in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/inshirah-lim-b03b53125/IP
 
 
-**Aarathi Amerjit**
-
-- Job Title: IP Manager
-- Years of Experience: 5 years
-- Location: Kuala Lumpur, Malaysia
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management
-- Certifications/Qualifications: Registered Trademarks Agent in Malaysia
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/aarathi-amerjit-944257152
+**Aarathi Amerjit**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: IP Manager</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Kuala Lumpur, Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trademarks Agent in Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/aarathi-amerjit-944257152
 
 
-**Samantha Lawrence**
+**Samantha Lawrence**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: IP Specialist</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 4 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Kuala Lumpur, Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trademarks Agent in Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/samantha-lawrence-51459420b
 
-- Job Title: IP Specialist
-- Years of Experience: 4 years
-- Location: Kuala Lumpur, Malaysia
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Portfolio Management
-- Certifications/Qualifications: Registered Trademarks Agent in Malaysia
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/samantha-lawrence-51459420b
+**Hemamalini Manogaran**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Intellectual Property Specialist</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Kuala Lumpur, Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/hemamalini-manogaran-891794110
 
-**Hemamalini Manogaran**
+**Claire Tan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 1 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/claire-tan-su-yin
 
-- Job Title: Intellectual Property Specialist
-- Years of Experience: 5 years
-- Location: Kuala Lumpur, Malaysia
-- IA/IP-Related Expertise: IP Portfolio Management
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/hemamalini-manogaran-891794110
-
-**Claire Tan**
-
-- Job Title: Associate
-- Years of Experience: 1 years
-- Location: Singapore
-- IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/claire-tan-su-yin
-
-**Geneva Kann**
-
-- Job Title: Legal Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting
-- Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore, LL.B. (Hons)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/geneva-k
+**Geneva Kann**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Legal Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor of the Supreme Court of Singapore, LL.B. (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/geneva-k</li></ul>
 
 ---
 Profile last updated on 12 June 2023

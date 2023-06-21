@@ -129,61 +129,19 @@ At Valuing IP, we make your intangibles, tangible!
 ### Key practice experts
 
 **Lin Yik Tee**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Founder and CEO</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Master in Intellectual Property - Universiti Kebangsaan Malaysia, Bachelor of Law - University of London, Singapore & Malaysia Registered IP Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Top 30 of the JCI Creative Young Entrepreneur Award (CYEA) 2019, IAM Patent 1000: The World's Leading Patent Professionals, WTR 300 - The World's Leading Corporate Trademark Professionals, SOBA Male Entrepreneur of the Year 2019 - Meritorious Achievements, SOBA Best Employer Award 2019</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/teelinyik
 
-- Job Title: Founder and CEO
-- Years of Experience: 16 years
-- Location: Malaysia
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Master in Intellectual Property - Universiti Kebangsaan Malaysia, Bachelor of Law - University of London, Singapore & Malaysia Registered IP Agent
-- Awards/Accolades: Top 30 of the JCI Creative Young Entrepreneur Award (CYEA) 2019, IAM Patent 1000: The World's Leading Patent Professionals, WTR 300 - The World's Leading Corporate Trademark Professionals, SOBA Male Entrepreneur of the Year 2019 - Meritorious Achievements, SOBA Best Employer Award 2019
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/teelinyik
+**Sr. Terence Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Chief Valuation Officer</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 9 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Branding Strategy, IP Strategy Consulting, Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Certified IP Valuer accredited by Intellectual Property Corporation of Malaysia (MyIPO) and World Trade Institute (WTI), University of Berne, Switzerland, Accountant (CIMA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://valuingip.com/?page_id=871
 
-**Sr. Terence Lim**
+**Pui Leng Kuok**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Co-Chief Executive Officer</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: First Class Honours in Bachelor of Electrical & Electronics Engineering, Universiti Tenaga Nasional (UNITEN)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://valuingip.com/?page_id=871
 
-- Job Title: Chief Valuation Officer
-- Years of Experience: 9 years
-- Location: Malaysia
-- IA/IP-Related Expertise: Patent Agent Service, Branding Strategy, IP Strategy Consulting, Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Certified IP Valuer accredited by Intellectual Property Corporation of Malaysia (MyIPO) and World Trade Institute (WTI), University of Berne, Switzerland, Accountant (CIMA)
-- URL of LinkedIn/Company Profile: https://valuingip.com/?page_id=871
-
-**Pui Leng Kuok**
-
-- Job Title: Co-Chief Executive Officer
-- Years of Experience: 13 years
-- Location: Malaysia
-- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: First Class Honours in Bachelor of Electrical & Electronics Engineering, Universiti Tenaga Nasional (UNITEN)
-- URL of LinkedIn/Company Profile: https://valuingip.com/?page_id=871
-
-**Derrick Hum**
-
-- Job Title: Chief Business Development Officer
-- Years of Experience: 16 years
-- Location: Malaysia
-- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Bachelor of Science (Hons) in Industrial Chemistry
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/derrick-hum-51626241
+**Derrick Hum**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Chief Business Development Officer</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Science (Hons) in Industrial Chemistry</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/derrick-hum-51626241
 
 
-**Hui Lee Lim**
-
-- Job Title: Chief Operating Officer
-- Years of Experience: 14 years
-- Location: Kuala Lumpur, Malaysia
-- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Honors Bachelor of Applied Science degree from University of Sciences, Malaysia (USM), Qualified Patent Agent No. PA/2013/0269 by the Malaysian Intellectual Property Office (MyIPO)
-- URL of LinkedIn/Company Profile: https://www.linkedin.com/in/hui-lee-%E6%85%A7%E4%B8%BD-lim-33ab2296
+**Hui Lee Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Chief Operating Officer</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 14 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Kuala Lumpur, Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Honors Bachelor of Applied Science degree from University of Sciences, Malaysia (USM), Qualified Patent Agent No. PA/2013/0269 by the Malaysian Intellectual Property Office (MyIPO)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://www.linkedin.com/in/hui-lee-%E6%85%A7%E4%B8%BD-lim-33ab2296
 
 
-**Yu Ma**
-
-- Job Title: Patent Attorney
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, IP Management, Freedom-to-Operate (FTO)
-- Certifications/Qualifications: Chartered Patent Attorney (U.K.), Singapore Patent Attorney no. SGPA/1204/0150, China Patent Attorney, M.Sc. in Intellectual Property Management, National University of Singapore; B.Eng. in Electrical Engineering (Honours) with Minor in Business, National University of Singapore
-- URL of LinkedIn/Company Profile: https://sincathay.com/web/professionals
+**Yu Ma**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Management, Freedom-to-Operate (FTO)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Patent Attorney (U.K.), Singapore Patent Attorney no. SGPA/1204/0150, China Patent Attorney, M.Sc. in Intellectual Property Management, National University of Singapore; B.Eng. in Electrical Engineering (Honours) with Minor in Business, National University of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: https://sincathay.com/web/professionals</li></ul>
 
 ---
 Profile last updated on 12 June 2023

@@ -72,58 +72,17 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 ### Key practice experts
 
 **Tan Ching Ne**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: International Tax Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Accountancy from Nanyang Technological University, Member of Institute of Singapore Chartered Accountants, Accredited Tax Advisor with the Singapore Chartered Tax Professionals</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/chingnetan
 
-- Job Title: International Tax Partner
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: Bachelor of Accountancy from Nanyang Technological University, Member of Institute of Singapore Chartered Accountants, Accredited Tax Advisor with the Singapore Chartered Tax Professionals
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/chingnetan
+**Abhijit Ghosh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: International Tax Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 30 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Accountant, Accredited Tax Advisor (Income Tax) of Singapore Institute of Accredited Tax Professionals, Board Member and Audit Committee Chairman of Intellectual Property Office of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/abhijit-ghosh-3811b94
 
-**Abhijit Ghosh**
+**Lie Kok Keong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Valuer and Appraiser (CVA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/kokkeong
 
-- Job Title: International Tax Partner
-- Years of Experience: 30 years
-- Location: Singapore
-- IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Accountant, Accredited Tax Advisor (Income Tax) of Singapore Institute of Accredited Tax Professionals, Board Member and Audit Committee Chairman of Intellectual Property Office of Singapore
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/abhijit-ghosh-3811b94
+**Christopher Tan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chartered Valuer and Appraiser (CVA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/christopher-tan-34b2008a
 
-**Lie Kok Keong**
+**Chen Voon Hoe**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner, Accounting and Reporting Advisory Leader</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 29 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA) and Chartered Financial Analyst (CFA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/voon-hoe-chen
 
-- Job Title: Partner
-- Years of Experience: 25 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations, Dispute Resolution
-- Certifications/Qualifications: Chartered Valuer and Appraiser (CVA)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/kokkeong
-
-**Christopher Tan**
-
-- Job Title: Partner
-- Years of Experience: 20 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Chartered Valuer and Appraiser (CVA)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/christopher-tan-34b2008a
-
-**Chen Voon Hoe**
-
-- Job Title: Partner, Accounting and Reporting Advisory Leader
-- Years of Experience: 29 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA) and Chartered Financial Analyst (CFA)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/voon-hoe-chen
-
-**Wong Tien Chi**
-
-- Job Title: Senior Manager, Accounting and Reporting Advisory Service
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA), Certified Financial Risk Manager (GARP), Master of Science in Financial Engineering (NUS), Bachelor of Accountancy (NTU)
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/tien-chi-wong
+**Wong Tien Chi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Manager, Accounting and Reporting Advisory Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Member of the Institute of Singapore Chartered Accountants (ISCA), Certified Financial Risk Manager (GARP), Master of Science in Financial Engineering (NUS), Bachelor of Accountancy (NTU)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/tien-chi-wong</li></ul>
 
 ---
 Profile last updated on 12 June 2023

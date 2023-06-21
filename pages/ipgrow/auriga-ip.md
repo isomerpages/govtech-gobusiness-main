@@ -108,13 +108,7 @@ We offer a comprehensive range of services, including patent, registered design 
 ### Key practice experts
 
 **Lionel Ser**
-
-- Job Title: Principal
-- Years of Experience: 18 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO)
-- Certifications/Qualifications: Masters in Law (LLM) Intellectual Property Law from Franklin Pierce Law School UNH, Bachelor of Mechanical Engineering (Hons) Nanyang Technological University, Graduate Certificate in Intellectual Property (Merit) National University of Singapore, Certified Patent Valuation Analyst, FICPI South East Asian Drafting Course
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/lionelser
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 18 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Masters in Law (LLM) Intellectual Property Law from Franklin Pierce Law School UNH, Bachelor of Mechanical Engineering (Hons) Nanyang Technological University, Graduate Certificate in Intellectual Property (Merit) National University of Singapore, Certified Patent Valuation Analyst, FICPI South East Asian Drafting Course</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/lionelser</li></ul>
 
 ---
 Profile last updated on 12 June 2023

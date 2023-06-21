@@ -104,14 +104,7 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 ### Key practice experts
 
 **Francine Tan**
-
-- Job Title: Director
-- Years of Experience: 32 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Registered Singapore Patent Agent, Domain Name Panelist for WIPO & NAF & ADNDRC,  Roll of Solicitors of the Supreme Court of England and Wales,  Advocate and Solicitor of the Supreme Court of Singapore, , Registered Singapore Patent Agent
-- Awards/Accolades: Managing IP - Leading Trade Mark Lawyer Singapore, Managing IP - Top 250 Women in IP, Straits Times/Statista Best Law Firm (IP) 2021-2023, WTR Global Leader in IP 
-- URL of LinkedIn/Company Profile: www.linkedin.com/in/francinetan
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 32 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LL.B (Hons.) (National University of Singapore), Registered Singapore Patent Agent, Domain Name Panelist for WIPO & NAF & ADNDRC,  Roll of Solicitors of the Supreme Court of England and Wales,  Advocate and Solicitor of the Supreme Court of Singapore, , Registered Singapore Patent Agent</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Managing IP - Leading Trade Mark Lawyer Singapore, Managing IP - Top 250 Women in IP, Straits Times/Statista Best Law Firm (IP) 2021-2023, WTR Global Leader in IP </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.linkedin.com/in/francinetan</li></ul>
 
 ---
 Profile last updated on 12 June 2023

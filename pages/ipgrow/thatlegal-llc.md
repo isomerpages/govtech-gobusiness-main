@@ -160,24 +160,9 @@ We provide timely, cost-effective, and commercially practical solutions to those
 ### Key practice experts
 
 **Mark, Teng**
+<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Executive Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Audit, IP Strategy Consulting, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Singapore Business Review Top 20 under 40 2018, World Trade Mark Review 1000 Recommended Individual 2023</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.that.legal/mark
 
-- Job Title: Executive Director
-- Years of Experience: 10 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Audit, IP Strategy Consulting, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: Singapore Business Review Top 20 under 40 2018, World Trade Mark Review 1000 Recommended Individual 2023
-- URL of LinkedIn/Company Profile: www.that.legal/mark
-
-**Jonathan, Foong**
-
-- Job Title: Managing Director
-- Years of Experience: 30 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: World Trade Mark Review Recommended Individual 2023, Asia IP Informed Analysis IP Expert 2023
-- URL of LinkedIn/Company Profile: www.that.legal/jonathan
+**Jonathan, Foong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 30 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: World Trade Mark Review Recommended Individual 2023, Asia IP Informed Analysis IP Expert 2023</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: www.that.legal/jonathan</li></ul>
 
 ---
 Profile last updated on 12 June 2023
