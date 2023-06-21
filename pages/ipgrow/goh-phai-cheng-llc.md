@@ -96,7 +96,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <a name='testimonials'></a>
 ### Testimonials
 
-*"Hi Constance! Thank you so much for your help this past month, I couldn't have asked for a better first experience working with a lawyer. Your responses to my queries were always prompt and clear, and the turnaround time for the agreement was impressive.   6 months later…It's amazing how much has happened as a result of starting Canary, and I can't thank you enough for being a part of it."* - Mr. Ben Ng, President, Founder, Canary.
+*"Hi Constance! Thank you so much for your help this past month, I couldn't have asked for a better first experience working with a lawyer. Your responses to my queries were always prompt and clear, and the turnaround time for the agreement was impressive.   6 months later... It's amazing how much has happened as a result of starting Canary, and I can't thank you enough for being a part of it."* - Mr. Ben Ng, President, Founder, Canary.
 
 *"With Constance, it's never just about business. As a start-up, there are a lot of legal matters that are unfamiliar to us. Constance advises us from a perspective that allows us to weigh our options carefully, and at the same time learn from her experience. I would say that we have gotten crash courses in a few legal areas from her. And we met with A/Prof Daniel Fung and the whole team of doctors at the IMH yesterday. Very good meeting I must say. Thank you very much for introducing us."* - Dr James Teh, PhD, CEO, Founder, T. Ware Pte Ltd.
 

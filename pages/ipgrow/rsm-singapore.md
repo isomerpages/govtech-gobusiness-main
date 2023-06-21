@@ -10,12 +10,12 @@ Intellectual property (IP) is a critical asset for many businesses today. It inc
 It requires a deep understanding of the market, the technology, and the legal landscape, as well as expertise in financial analysis and valuation methods. That's where our services come in. We help you unlock the value of your intellectual property assets and maximize their potential.
 
 We are able to assist to estimate the value of the following intellectual property:
-•	Trademarks
-•	Patents
-•	Software
-•	Copyrights
-•	Technology
-•	Technical knowhow
+-	Trademarks
+-	Patents
+-	Software
+-	Copyrights
+-	Technology
+-	Technical knowhow
 
 <b>Year established in Singapore:</b> 2006
 
