@@ -4,7 +4,7 @@ permalink: /intellectual-property/ip-grow/
 third_nav_title: Intellectual Property
 ---
 
-## GoBusiness IP Grow
+## Strengthen your Business with GoBusiness IP Grow
 
 ![Protect your ideas](/images/ipgrow/IP.jpg)
 
@@ -20,7 +20,7 @@ Whether you are a budding entrepreneur, a start-up, a SME or an MNC, GoBusiness 
 
 By protecting your business's IP, you can prevent others from profiting from your ideas and ensure that your business is fairly compensated for its innovation. 
 
-1. **Competitive advantage:** Protecting a business' unique ideas, products, or services with patents can prevent competitors from copying or imitating a business' IP, which can help maintain market share and profitability. 
+1. **Competitive advantage:** Protecting your IP can prevent competitors from copying or imitating your products or services maintain market share and profitability. 
 
 2. **Revenue generation:** Licensing or selling the rights to use a business's IP can be a valuable source of income for businesses. 
 
@@ -28,7 +28,7 @@ By protecting your business's IP, you can prevent others from profiting from you
 
 4. **Legal protection:** IP can provide legal protection for businesses, including the ability to sue for infringement and the right to defend against claims of infringement. This can help businesses enforce their rights and avoid costly legal disputes. 
 
-As a business, ignoring IP management can lead to legal liabilities, including the risk of being sued for infringement or for using others’ IP without permission. Legal disputes can be costly and time-consuming — they can result in significant damage to your finances and reputation, or even the business’ ability to operate.
+As a business, ignoring IP management can lead to legal liabilities, including the risk of being sued for infringement or for using someone else’s IP without permission. Legal disputes can be costly and time-consuming — they can result in significant damage to your finances and reputation, or even your business’ ability to operate.
 
 ----
 

@@ -8,7 +8,7 @@ third_nav_title: Intellectual Property
 
 There are many intangible assets (IA) and intellectual property (IP) services business will require as it innovate, transform, and grow. 
 
-As a start, GoBusiness IP Grow features 20 IA/IP services, grouped into 4 key categories. Click on each IA/IP service to view a list of service providers.
+GoBusiness IP Grow features 20 IA/IP services grouped into 4 key categories. Click on each IA/IP service to view a list of service providers.
 
 {% include overview.html anchorlinks=site.data.ov014-ipgrow-types-of-IA-IP-services %}
 
@@ -48,8 +48,7 @@ infringement of patents.</td>
 </tr>
 <tr>
 <td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPIntelligenceandSearchIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/ip-intelligence-and-search/' target='_blank'>IP Intelligence and Search</a></td>
-<td>Utilises IP-related data and complementary information on market, key players, competitors,
-etc. to guide R&D and IP strategy decisions. This includes conducting IP searches, patent landscapes, and competitor analysis.
+<td>Utilises IP-related data and complementary information on market, key players, competitors etc. to guide R&D and IP strategy decisions. This includes conducting IP searches, patent landscapes, and competitor analysis.
 </td>
 </tr>
 <tr>

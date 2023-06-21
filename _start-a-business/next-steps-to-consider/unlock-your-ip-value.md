@@ -10,7 +10,7 @@ third_nav_title: Next Steps to Consider
 
 ### Protect your business
 
-Intangible assets now make up 90% of all market value, according to [Ocean Tomo study](https://oceantomo.com/intangible-asset-market-value-study/
+Intangible assets now make up 90% of all business value, according to [Ocean Tomo study](https://oceantomo.com/intangible-asset-market-value-study/
 ){:target="_blank"}{:rel="noopener"}. Your inventions, designs and representations of your brand are part of your business’ [intangible assets and intellectual property (IA/IP)](https://www.ipos.gov.sg/about-ip){:target="_blank"}{:rel="noopener"} that should be protected. Common forms of IP are trade marks (representation of your brands), patents (your inventions) and designs.
 
 Whether you are a budding entrepreneur, a start-up, a SME or an MNC, protecting and managing your IP can help your business grow. Having a strong IP portfolio can open up commercial opportunities for your business such as research & development (R&D) partnerships, securing investments, licensing and franchising. Find out more about [monetising your IP](https://www.ipos.gov.sg/manage-ip/monetise-ip){:target="_blank"}{:rel="noopener"} on IPOS' website.
