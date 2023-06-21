@@ -85,10 +85,6 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Japan - 80% </li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 20%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

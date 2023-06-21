@@ -91,10 +91,6 @@ We are a member of the international law practice group, PLG International Lawye
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Other Countries - 100%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

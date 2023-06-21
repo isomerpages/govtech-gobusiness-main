@@ -183,10 +183,6 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Switzerland - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 60%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

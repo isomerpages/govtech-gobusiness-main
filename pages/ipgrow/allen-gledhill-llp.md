@@ -148,10 +148,6 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 25%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

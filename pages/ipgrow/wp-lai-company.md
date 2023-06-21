@@ -95,10 +95,6 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>South Korea - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Sweden - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>China -10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 5%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

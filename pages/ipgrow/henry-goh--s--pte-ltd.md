@@ -75,10 +75,6 @@ From humble origins as a one-man business in 1977, we have matured into one of t
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>South Korea - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 30%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

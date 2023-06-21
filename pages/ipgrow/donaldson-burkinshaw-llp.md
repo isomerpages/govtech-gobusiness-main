@@ -159,10 +159,6 @@ DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 21.3%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 16.6%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 9.3%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 6.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 5.4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Switzerland - 4.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 37%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

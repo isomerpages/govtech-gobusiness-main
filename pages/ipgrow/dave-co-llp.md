@@ -75,10 +75,6 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 75%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

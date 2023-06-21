@@ -179,10 +179,6 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 45%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 25%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Israel - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries -  5%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='case-studies'></a>
 ### Case studies

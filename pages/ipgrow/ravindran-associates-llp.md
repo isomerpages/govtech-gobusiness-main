@@ -107,10 +107,6 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 30%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 70%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='case-studies'></a>
 ### Case studies

@@ -129,10 +129,6 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 14%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 9%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 9%	</li><li style='line-height: 27px; margin: 0px 0px !important'>South Korea - 8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 20%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

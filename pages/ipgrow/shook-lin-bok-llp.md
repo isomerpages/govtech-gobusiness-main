@@ -165,10 +165,6 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 20%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

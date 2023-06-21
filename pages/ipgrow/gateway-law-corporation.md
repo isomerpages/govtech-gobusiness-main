@@ -121,10 +121,6 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
  - China - 10%	
  - United Kingdom - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

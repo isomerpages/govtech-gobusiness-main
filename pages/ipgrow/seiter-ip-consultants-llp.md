@@ -159,10 +159,6 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 25%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Netherlands - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Italy - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Finland - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

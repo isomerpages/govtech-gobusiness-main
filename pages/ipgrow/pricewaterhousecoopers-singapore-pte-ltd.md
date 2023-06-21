@@ -67,10 +67,6 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>France</li><li style='line-height: 27px; margin: 0px 0px !important'>China</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong</li><li style='line-height: 27px; margin: 0px 0px !important'>India</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries </li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

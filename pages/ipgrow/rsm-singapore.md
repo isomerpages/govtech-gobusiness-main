@@ -65,10 +65,6 @@ We are able to assist to estimate the value of the following intellectual proper
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 100%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

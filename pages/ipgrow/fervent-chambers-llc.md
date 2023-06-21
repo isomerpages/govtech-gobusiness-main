@@ -81,10 +81,6 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Malaysia - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 90%	</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

@@ -107,10 +107,6 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 48.8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 8%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore- 7.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 6.4% 	</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 4.4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 4%	</li><li style='line-height: 27px; margin: 0px 0px !important'>New Zealand - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 2.2%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 1.9%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 14.9%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

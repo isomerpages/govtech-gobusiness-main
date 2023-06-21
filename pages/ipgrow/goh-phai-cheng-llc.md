@@ -88,10 +88,6 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
  - Israel - 5%	
  - Other Countries - 15%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

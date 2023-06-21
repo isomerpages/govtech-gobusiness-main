@@ -71,10 +71,6 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 85%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 15%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

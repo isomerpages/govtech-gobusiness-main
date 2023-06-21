@@ -153,10 +153,6 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 99%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 1%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='case-studies'></a>
 ### Case studies

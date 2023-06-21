@@ -191,10 +191,6 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 40%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 60%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

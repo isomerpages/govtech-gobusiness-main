@@ -59,10 +59,6 @@ The opening of two new offices in Singapore solidifies our position as a real es
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 90%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

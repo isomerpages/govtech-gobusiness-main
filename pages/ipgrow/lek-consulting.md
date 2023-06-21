@@ -80,10 +80,6 @@ We take a highly analytical approach to solving our clients' problems, taking th
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Taiwan - 7%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 7%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries- 16%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='case-studies'></a>
 ### Case studies

@@ -91,10 +91,6 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 90%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 10%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

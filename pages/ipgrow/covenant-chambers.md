@@ -93,10 +93,6 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 94%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 3%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 1%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 1%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 1%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

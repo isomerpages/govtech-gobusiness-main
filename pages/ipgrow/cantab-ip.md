@@ -133,10 +133,6 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 33%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 33%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 24%</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 5%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

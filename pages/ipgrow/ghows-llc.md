@@ -121,10 +121,6 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 20%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

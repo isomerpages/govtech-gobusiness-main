@@ -171,10 +171,6 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> New Zealand - 35%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 20%</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 10%</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 5%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

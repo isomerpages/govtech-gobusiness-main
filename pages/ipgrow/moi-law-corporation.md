@@ -121,10 +121,6 @@ Read more about our services and expertise at: https://www.moi.legal
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 70%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 10% </li><li style='line-height: 27px; margin: 0px 0px !important'>China - 5%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

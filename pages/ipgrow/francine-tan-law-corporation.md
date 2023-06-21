@@ -99,10 +99,6 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 30%</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Taiwan - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 10%	</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
-</ul>
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
