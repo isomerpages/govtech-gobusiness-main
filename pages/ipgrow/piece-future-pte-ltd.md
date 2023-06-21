@@ -90,7 +90,13 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 ### Key practice experts
 
 **Jason Loh**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: CEO</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Intelligence and Search, Branding Strategy, Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Certified Patent Valuation Analyst</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/company/piecefuture" target="_blank" rel="noopener">https://sg.linkedin.com/company/piecefuture</a></li></ul>
+
+- Job Title: CEO
+- Years of Experience: 20 years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Intelligence and Search, Branding Strategy, Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting
+- Certifications/Qualifications: Certified Patent Valuation Analyst
+- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/company/piecefuture" target="_blank" rel="noopener">https://sg.linkedin.com/company/piecefuture</a>
 
 ---
 Profile last updated on 12 June 2023

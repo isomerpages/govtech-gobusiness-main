@@ -88,8 +88,16 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 ### Key practice experts
 
 **Yan Shao TAN**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: CEO</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Australian Trade Mark Attorney, Specialist Certificate in Intangible Asset Management </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: PS21 Excel Awards - Innovation Champion</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yanshao-tan" target="_blank" rel="noopener">https://www.linkedin.com/in/yanshao-tan</a>
-</li></ul>
+
+- Job Title: CEO
+- Years of Experience: 10 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search
+- Certifications/Qualifications: Registered Australian Trade Mark Attorney, Specialist Certificate in Intangible Asset Management 
+- Awards/Accolades: PS21 Excel Awards - Innovation Champion
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yanshao-tan" target="_blank" rel="noopener">https://www.linkedin.com/in/yanshao-tan</a>
+
+
 
 ---
 Profile last updated on 12 June 2023

@@ -77,7 +77,13 @@ We want to help your business in the same way. So please reach out to us today!
 ### Key practice experts
 
 **Justin Tan**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 8 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor Supreme Court of Singapore, Bachelor of Laws (Honours) National University of Singapore, Master of IP & Innovation Management from Singapore University of Social Sciences, Singapore Certified Management Consultant (Tuv Sud)(TR 43), Certified Patent Valuation Analyst</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/justintanwl" target="_blank" rel="noopener">https://www.linkedin.com/in/justintanwl</a></li></ul>
+
+- Job Title: Partner
+- Years of Experience: 8 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service
+- Certifications/Qualifications: Advocate & Solicitor Supreme Court of Singapore, Bachelor of Laws (Honours) National University of Singapore, Master of IP & Innovation Management from Singapore University of Social Sciences, Singapore Certified Management Consultant (Tuv Sud)(TR 43), Certified Patent Valuation Analyst
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/justintanwl" target="_blank" rel="noopener">https://www.linkedin.com/in/justintanwl</a>
 
 ---
 Profile last updated on 12 June 2023

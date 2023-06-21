@@ -170,12 +170,34 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 ### Key practice experts
 
 **Jevon Louis**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 19 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB (Hons); Advocate & Solicitor of Supreme Court of Singapore, B.Eng (Mechanical), Graduate Certificate in IP</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IAM Patent 1000 2018 - 2020 and 2022 as a leading individual for patent litigation and patent-related transactions, Asia IP 2021 as an IP Expert, Managing IP as an IP Star for Patents since 2020, Asialaw Leading Lawyers 2022/23 as a Notable Practitioner in intellectual property, WTR 1000 2022 as a leading individual for trademark enforcement and litigation and trademark-related transactions</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/jevon-louis" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/jevon-louis</a>
 
-**Kristen Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney, Head, IP Strategy & Registration</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Registered Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/kristen-lim" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/kristen-lim</a>
+- Job Title: Partner
+- Years of Experience: 19 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, Contract Drafting, Dispute Resolution
+- Certifications/Qualifications: LLB (Hons); Advocate & Solicitor of Supreme Court of Singapore, B.Eng (Mechanical), Graduate Certificate in IP
+- Awards/Accolades: IAM Patent 1000 2018 - 2020 and 2022 as a leading individual for patent litigation and patent-related transactions, Asia IP 2021 as an IP Expert, Managing IP as an IP Star for Patents since 2020, Asialaw Leading Lawyers 2022/23 as a Notable Practitioner in intellectual property, WTR 1000 2022 as a leading individual for trademark enforcement and litigation and trademark-related transactions
+- URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/jevon-louis" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/jevon-louis</a>
+
+**Kristen Lim**
+
+- Job Title: Patent Attorney, Head, IP Strategy & Registration
+- Years of Experience: 16 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Singapore Registered Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.shooklin.com/en/our-partners/kristen-lim" target="_blank" rel="noopener">https://www.shooklin.com/en/our-partners/kristen-lim</a>
 
 
-**Alvin Tan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB (Hons); Advocate & Solicitor, Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: WTR 1000: World Trademark Review 2021 edition - Rising Star: recognised as "a rising star with fresh and inventive strategies when it comes to filing and contentious matters", IP Stars 2022: Rising Star 2022, WTR 1000: World Trademark Review 2023 edition as a leading individual for trademark prosecution and strategy</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg" target="_blank" rel="noopener">https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg</a></li></ul>
+**Alvin Tan**
+
+- Job Title: Senior Associate
+- Years of Experience: 5 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Dispute Resolution
+- Certifications/Qualifications: LLB (Hons); Advocate & Solicitor, Supreme Court of Singapore
+- Awards/Accolades: WTR 1000: World Trademark Review 2021 edition - Rising Star: recognised as "a rising star with fresh and inventive strategies when it comes to filing and contentious matters", IP Stars 2022: Rising Star 2022, WTR 1000: World Trademark Review 2023 edition as a leading individual for trademark prosecution and strategy
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg" target="_blank" rel="noopener">https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg</a>
 
 ---
 Profile last updated on 12 June 2023

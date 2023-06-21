@@ -118,9 +118,23 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 ### Key practice experts
 
 **M. Ravindran**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 35 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Brokerage and Licensing, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor (Singapore), Registered Patent Agent, Commissioner for Oaths, Notary Public</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.ipravi.com/our-team/m-ravindran" target="_blank" rel="noopener">https://www.ipravi.com/our-team/m-ravindran</a>
 
-**Jon Chan Wenqiang**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 6 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Brokerage and Licensing, Contract Drafting, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate & Solicitor</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: IP Stars 2021 - Ranked as "Rising Star", IP Stars 2022 - Ranked as "Rising Star"</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.ipravi.com/our-team/jon-chan-wenqiang" target="_blank" rel="noopener">https://www.ipravi.com/our-team/jon-chan-wenqiang</a></li></ul>
+- Job Title: Managing Partner
+- Years of Experience: 35 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Brokerage and Licensing, Dispute Resolution
+- Certifications/Qualifications: Advocate & Solicitor (Singapore), Registered Patent Agent, Commissioner for Oaths, Notary Public
+- URL of LinkedIn/Company Profile: <a href="https://www.ipravi.com/our-team/m-ravindran" target="_blank" rel="noopener">https://www.ipravi.com/our-team/m-ravindran</a>
+
+**Jon Chan Wenqiang**
+
+- Job Title: Partner
+- Years of Experience: 6 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Brokerage and Licensing, Contract Drafting, Dispute Resolution
+- Certifications/Qualifications: Advocate & Solicitor
+- Awards/Accolades: IP Stars 2021 - Ranked as "Rising Star", IP Stars 2022 - Ranked as "Rising Star"
+- URL of LinkedIn/Company Profile: <a href="https://www.ipravi.com/our-team/jon-chan-wenqiang" target="_blank" rel="noopener">https://www.ipravi.com/our-team/jon-chan-wenqiang</a>
 
 ---
 Profile last updated on 12 June 2023

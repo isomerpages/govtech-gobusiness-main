@@ -80,7 +80,13 @@ From humble origins as a one-man business in 1977, we have matured into one of t
 ### Key practice experts
 
 **Ameen Kalani**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Executive Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent Agent Practicing Certificate, Honours Degree in Law </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/ameen-kalani-67a22618" target="_blank" rel="noopener">https://linkedin.com/in/ameen-kalani-67a22618</a></li></ul>
+
+- Job Title: Executive Director
+- Years of Experience: 20 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service
+- Certifications/Qualifications: Registered Patent Agent Practicing Certificate, Honours Degree in Law 
+- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/ameen-kalani-67a22618" target="_blank" rel="noopener">https://linkedin.com/in/ameen-kalani-67a22618</a>
 
 ---
 Profile last updated on 12 June 2023

@@ -145,26 +145,96 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 ### Key practice experts
 
 **Adam Bogsch**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 33 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: German and European Patent Attorney, European Trademark Attorney, European Design Attorney, Hungarian Patent Attorney, Singapore Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: MIP IP Star, Asia IP : IP Expert</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/adam-bogsch-aa91893b" target="_blank" rel="noopener">https://www.linkedin.com/in/adam-bogsch-aa91893b</a>
 
-**Audrey Goh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 21 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: MIP IP Star</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/audrey-goh-75319613" target="_blank" rel="noopener">https://www.linkedin.com/in/audrey-goh-75319613</a>
+- Job Title: Managing Partner
+- Years of Experience: 33 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: German and European Patent Attorney, European Trademark Attorney, European Design Attorney, Hungarian Patent Attorney, Singapore Patent Attorney
+- Awards/Accolades: MIP IP Star, Asia IP : IP Expert
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/adam-bogsch-aa91893b" target="_blank" rel="noopener">https://www.linkedin.com/in/adam-bogsch-aa91893b</a>
 
-**Peter Lian**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 21 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Attorney  </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-lian-a1338b11" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-lian-a1338b11</a>
+**Audrey Goh**
 
-**Michael Koch**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 26 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Australian Patent Attorney, New Zealand Patent Attorney, European Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dr-michael-koch-51994363" target="_blank" rel="noopener">https://www.linkedin.com/in/dr-michael-koch-51994363</a>
+- Job Title: Partner
+- Years of Experience: 21 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting
+- Certifications/Qualifications: Singapore Patent Attorney
+- Awards/Accolades: MIP IP Star
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/audrey-goh-75319613" target="_blank" rel="noopener">https://www.linkedin.com/in/audrey-goh-75319613</a>
 
-**Jaslyn Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jaslyn-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/jaslyn-lim</a>
+**Peter Lian**
 
-**Gerald Koh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Attorney, Advocate & Solicitor of the Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: MIP IP Star</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/gerald-koh-5a020a106" target="_blank" rel="noopener">https://www.linkedin.com/in/gerald-koh-5a020a106</a>
+- Job Title: Partner
+- Years of Experience: 21 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Singapore Patent Attorney  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-lian-a1338b11" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-lian-a1338b11</a>
+
+**Michael Koch**
+
+- Job Title: Partner
+- Years of Experience: 26 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
+- Certifications/Qualifications: Australian Patent Attorney, New Zealand Patent Attorney, European Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dr-michael-koch-51994363" target="_blank" rel="noopener">https://www.linkedin.com/in/dr-michael-koch-51994363</a>
+
+**Jaslyn Lim**
+
+- Job Title: Partner
+- Years of Experience: 17 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Singapore Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jaslyn-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/jaslyn-lim</a>
+
+**Gerald Koh**
+
+- Job Title: Partner
+- Years of Experience: 25 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Singapore Patent Attorney, Advocate & Solicitor of the Supreme Court of Singapore
+- Awards/Accolades: MIP IP Star
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/gerald-koh-5a020a106" target="_blank" rel="noopener">https://www.linkedin.com/in/gerald-koh-5a020a106</a>
 
 
-**Kwang Chin Teo**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 11 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Advocate </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/kwang-chin-teo-06118124" target="_blank" rel="noopener">https://www.linkedin.com/in/kwang-chin-teo-06118124</a>
+**Kwang Chin Teo**
 
-**Kwan Chung Min**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Singapore Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chung-min-kwan-29065b269" target="_blank" rel="noopener">https://www.linkedin.com/in/chung-min-kwan-29065b269</a>
+- Job Title: Partner
+- Years of Experience: 11 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Portfolio Management
+- Certifications/Qualifications: Singapore Patent Advocate 
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/kwang-chin-teo-06118124" target="_blank" rel="noopener">https://www.linkedin.com/in/kwang-chin-teo-06118124</a>
 
-**Zheng Pei**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 7 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Trade Mark Agent, Advocate & Solicitor of the Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/zheng-pei-481399154" target="_blank" rel="noopener">https://www.linkedin.com/in/zheng-pei-481399154</a>
+**Kwan Chung Min**
 
-**Sandra Lynn Merinda**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Design Expert</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 23 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, IP Database, IP Due Diligence, IP Portfolio Management, IP Training</li></ul>
+- Job Title: Partner
+- Years of Experience: 16 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: Singapore Patent Attorney
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chung-min-kwan-29065b269" target="_blank" rel="noopener">https://www.linkedin.com/in/chung-min-kwan-29065b269</a>
+
+**Zheng Pei**
+
+- Job Title: Associate
+- Years of Experience: 7 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Trade Mark Agent, Advocate & Solicitor of the Supreme Court of Singapore
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/zheng-pei-481399154" target="_blank" rel="noopener">https://www.linkedin.com/in/zheng-pei-481399154</a>
+
+**Sandra Lynn Merinda**
+
+- Job Title: Design Expert
+- Years of Experience: 23 years
+- Location: Singapore
+- IA/IP-Related Expertise: Registered Design Agent Service, IP Database, IP Due Diligence, IP Portfolio Management, IP Training
 
 ---
 Profile last updated on 12 June 2023

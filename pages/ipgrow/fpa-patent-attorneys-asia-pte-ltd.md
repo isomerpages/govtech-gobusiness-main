@@ -126,11 +126,34 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 ### Key practice experts
 
 **Desmond Tan**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 21 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/desmond-tan" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/desmond-tan</a>
 
-**Karen, Bentlely**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 19 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Melbourne and Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/karen-bentley" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/karen-bentley</a>
+- Job Title: Principal
+- Years of Experience: 21 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore 
+- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022)
+- URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/desmond-tan" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/desmond-tan</a>
 
-**Danny Gelman**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 12 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Melbourne</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Science (First Class Honours) Monash University, PhD (Organic Synthetic Chemistry) Monash University, Fulbright Scholar (Organic Synthetic Chemistry) Harvard University, Master of Intellectual Property Law from University of Melbourne, Registered Trans-Tasman Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Named as a 'Rising Star' by IP Stars, Managing Intellectual Property (2020-2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/danny-gelman" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/danny-gelman</a></li></ul>
+**Karen, Bentlely**
+
+- Job Title: Principal
+- Years of Experience: 19 years
+- Location: Melbourne and Singapore
+- IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 
+- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
+- URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/karen-bentley" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/karen-bentley</a>
+
+**Danny Gelman**
+
+- Job Title: Associate Principal
+- Years of Experience: 12 years
+- Location: Melbourne
+- IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Watch, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Bachelor of Science (First Class Honours) Monash University, PhD (Organic Synthetic Chemistry) Monash University, Fulbright Scholar (Organic Synthetic Chemistry) Harvard University, Master of Intellectual Property Law from University of Melbourne, Registered Trans-Tasman Patent Attorney
+- Awards/Accolades: Named as a 'Rising Star' by IP Stars, Managing Intellectual Property (2020-2022)
+- URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/danny-gelman" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/danny-gelman</a>
 
 ---
 Profile last updated on 12 June 2023

@@ -91,11 +91,31 @@ We take a highly analytical approach to solving our clients' problems, taking th
 ### Key practice experts
 
 **Stephen Sunderland**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Master in Manufacturing Engineering University of Cambridge</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/s-sunderland" target="_blank" rel="noopener">https://www.linkedin.com/in/s-sunderland</a>
 
-**Arnaud Bauer**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Master in Strategy and Management of International Business, Nanyang Technology University Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arnaudbauer" target="_blank" rel="noopener">https://www.linkedin.com/in/arnaudbauer</a>
+- Job Title: Partner
+- Years of Experience: 20 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
+- Certifications/Qualifications: Master in Manufacturing Engineering University of Cambridge
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/s-sunderland" target="_blank" rel="noopener">https://www.linkedin.com/in/s-sunderland</a>
 
-**Samyukta Ravishankar**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Life Sciences Specialist</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 3 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: PhD in Chemical and Biomedical Engineering, Nanyang Technological University Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/samyukta-ravishankar-35001ab2" target="_blank" rel="noopener">https://www.linkedin.com/in/samyukta-ravishankar-35001ab2</a></li></ul>
+**Arnaud Bauer**
+
+- Job Title: Partner
+- Years of Experience: 17 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
+- Certifications/Qualifications: Master in Strategy and Management of International Business, Nanyang Technology University Singapore
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arnaudbauer" target="_blank" rel="noopener">https://www.linkedin.com/in/arnaudbauer</a>
+
+**Samyukta Ravishankar**
+
+- Job Title: Senior Life Sciences Specialist
+- Years of Experience: 3 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
+- Certifications/Qualifications: PhD in Chemical and Biomedical Engineering, Nanyang Technological University Singapore
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/samyukta-ravishankar-35001ab2" target="_blank" rel="noopener">https://www.linkedin.com/in/samyukta-ravishankar-35001ab2</a>
 
 ---
 Profile last updated on 12 June 2023

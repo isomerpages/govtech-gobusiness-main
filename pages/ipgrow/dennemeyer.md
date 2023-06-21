@@ -206,25 +206,84 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 ### Key practice experts
 
 **Jens Martin**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director, Southeast Asia</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 7+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/martin" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/martin</a>
 
-**Francis Chew**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior IP Software Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 16+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/francis-chew-075aa276" target="_blank" rel="noopener">https://www.linkedin.com/in/francis-chew-075aa276</a>
+- Job Title: Managing Director, Southeast Asia
+- Years of Experience: 7+ years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Portfolio Management
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/martin" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/martin</a>
 
-**Dr. Dominique Christ**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director Dennemeyer Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 12+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Munich, Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Chairman of the IP Strategy Committee at the International Institute for IP Management, Licensed Attorney-at-law in Spain, PhD in Law, Master of Business Administration (MBA), IP-Management Business Administration Diploma CEIPI (University of Strasbourg), Member of the International Honor Society Beta Gamma Sigma for Outstanding Academic Achievements, Doctoral and Student Scholarship of the Foundation of the German Economy (Stiftung der deutschen Wirtschaft SDW)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/christ" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/christ</a>
+**Francis Chew**
 
-**Dr Cornelia Peuser**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Manager IP Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Munich, Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: PhD Innovation Economics, Abertay University, Scotland, UK</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/cornelia-peuser" target="_blank" rel="noopener">https://www.linkedin.com/in/cornelia-peuser</a>
+- Job Title: Senior IP Software Consultant
+- Years of Experience: 16+ years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Portfolio Management
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/francis-chew-075aa276" target="_blank" rel="noopener">https://www.linkedin.com/in/francis-chew-075aa276</a>
+
+**Dr. Dominique Christ**
+
+- Job Title: Managing Director Dennemeyer Consulting
+- Years of Experience: 12+ years
+- Location: Munich, Germany
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
+- Certifications/Qualifications: Chairman of the IP Strategy Committee at the International Institute for IP Management, Licensed Attorney-at-law in Spain, PhD in Law, Master of Business Administration (MBA), IP-Management Business Administration Diploma CEIPI (University of Strasbourg), Member of the International Honor Society Beta Gamma Sigma for Outstanding Academic Achievements, Doctoral and Student Scholarship of the Foundation of the German Economy (Stiftung der deutschen Wirtschaft SDW)
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/christ" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/christ</a>
+
+**Dr Cornelia Peuser**
+
+- Job Title: Manager IP Consulting
+- Years of Experience: 5+ years
+- Location: Munich, Germany
+- IA/IP-Related Expertise: Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
+- Certifications/Qualifications: PhD Innovation Economics, Abertay University, Scotland, UK
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/cornelia-peuser" target="_blank" rel="noopener">https://www.linkedin.com/in/cornelia-peuser</a>
 
 
-**Peter Erd&ouml;dy**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Global Head of Octimine</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 3+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Bavaria, Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Database, IP Intelligence and Search</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294</a>
+**Peter Erd&ouml;dy**
 
-**Olivier Lombardo**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Head of Trademarks Luxembourg</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 19+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Howald, Luxembourg</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law, WTR Global Leaders: Private Practice (2022), Trade Mark Star 2022, Luxembourg (IP Stars)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/lombardo" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/lombardo</a>
+- Job Title: Global Head of Octimine
+- Years of Experience: 3+ years
+- Location: Bavaria, Germany
+- IA/IP-Related Expertise: IP Database, IP Intelligence and Search
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-erd%C3%B6dy-8aa64294</a>
+
+**Olivier Lombardo**
+
+- Job Title: Head of Trademarks Luxembourg
+- Years of Experience: 19+ years
+- Location: Howald, Luxembourg
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Portfolio Management, IP Training
+- Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law, WTR Global Leaders: Private Practice (2022), Trade Mark Star 2022, Luxembourg (IP Stars)
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/lombardo" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/lombardo</a>
 
 
-**Geordie Oldfield**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent and Trade Marks Attorney and Lawyer</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Melbourne, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent and Trade Marks Attorney in Australia and New Zealand and Australian Lawyer, Fellow of the Institute of Patent and Trade Mark Attorneys of Australia, Member of the Australian Institute of Company Directors, Master of Laws (IP), Bachelor of Science (Honours H1), </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/oldfield" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/oldfield</a>
+**Geordie Oldfield**
 
-**Kazuya Sekiguchi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney (JP), European Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 19+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Munich, Germany</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Certified IP Litigator in Japan</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/sekiguchi" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/sekiguchi</a>
+- Job Title: Patent and Trade Marks Attorney and Lawyer
+- Years of Experience: 20+ years
+- Location: Melbourne, Australia
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
+- Certifications/Qualifications: Registered Patent and Trade Marks Attorney in Australia and New Zealand and Australian Lawyer, Fellow of the Institute of Patent and Trade Mark Attorneys of Australia, Member of the Australian Institute of Company Directors, Master of Laws (IP), Bachelor of Science (Honours H1), 
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/oldfield" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/oldfield</a>
 
-**Vanja Nedimovic**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Trademark and Design Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Howald, Luxembourg</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trademark Agent issued by Canadian Intellectual Property Office (Office de la propri&eacute;t&eacute; intellectuelle du Canada), EUIPO Trademark and Design Attorney Certificate, LLM in International Law</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/nedimovic" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/nedimovic</a></li></ul>
+**Kazuya Sekiguchi**
+
+- Job Title: Patent Attorney (JP), European Patent Attorney
+- Years of Experience: 19+ years
+- Location: Munich, Germany
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO)
+- Certifications/Qualifications: Certified IP Litigator in Japan
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/sekiguchi" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/sekiguchi</a>
+
+**Vanja Nedimovic**
+
+- Job Title: Trademark and Design Attorney
+- Years of Experience: 13+ years
+- Location: Howald, Luxembourg
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Watch, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: Registered Trademark Agent issued by Canadian Intellectual Property Office (Office de la propri&eacute;t&eacute; intellectuelle du Canada), EUIPO Trademark and Design Attorney Certificate, LLM in International Law
+- URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/nedimovic" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/nedimovic</a>
 
 ---
 Profile last updated on 12 June 2023

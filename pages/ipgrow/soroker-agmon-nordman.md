@@ -190,13 +190,41 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 ### Key practice experts
 
 **Jonathan Agmon**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 22 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Freedom-to-Operate (FTO), Branding Strategy, Innovation Consultancy, IP Due Diligence, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Foreign Lawyer (Singapore), Counselor at law (New York, US), Advocate (Israel) </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising with ASIAIP, Trade Mark Star 2023 (Singapore) with IPSTAR, Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 with WWL, Bronze (Singapore) with WTR1000, Chambers Global 2023 Band 3 (Intellectual Property)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jonathan-agmon-2" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jonathan-agmon-2</a>
 
-**Jocelyn Toh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Advocate & Solicitor</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 6 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jocelyn_toh" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jocelyn_toh</a>
+- Job Title: Director
+- Years of Experience: 22 years
+- Location: Singapore
+- IA/IP-Related Expertise: Freedom-to-Operate (FTO), Branding Strategy, Innovation Consultancy, IP Due Diligence, Dispute Resolution
+- Certifications/Qualifications: Registered Foreign Lawyer (Singapore), Counselor at law (New York, US), Advocate (Israel) 
+- Awards/Accolades: Listed as IP Experts for Patents, Trademarks, Licensing & Franchising with ASIAIP, Trade Mark Star 2023 (Singapore) with IPSTAR, Recommended as Global Leader for IP-Trademarks 2022, as National Leader for Southeast Asia-Patents 2022 and Trademarks 2022 with WWL, Bronze (Singapore) with WTR1000, Chambers Global 2023 Band 3 (Intellectual Property)
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jonathan-agmon-2" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jonathan-agmon-2</a>
 
-**Edy Rusbandi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 7 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Audit, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Certified Patent Valuation Analyst (CPVA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/edy-rusbandi" target="_blank" rel="noopener">https://sanlaw.legal/team-member/edy-rusbandi</a>
+**Jocelyn Toh**
 
-**Stephanie Chan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Solicitor in Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/stephanie-chan" target="_blank" rel="noopener">https://sanlaw.legal/team-member/stephanie-chan</a></li></ul>
+- Job Title: Advocate & Solicitor
+- Years of Experience: 6 years
+- Location: Singapore
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, Branding Strategy, Contract Drafting
+- Certifications/Qualifications: Solicitor in Singapore
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/jocelyn_toh" target="_blank" rel="noopener">https://sanlaw.legal/team-member/jocelyn_toh</a>
+
+**Edy Rusbandi**
+
+- Job Title: Patent Associate
+- Years of Experience: 7 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Audit, Dispute Resolution
+- Certifications/Qualifications: Certified Patent Valuation Analyst (CPVA)
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/edy-rusbandi" target="_blank" rel="noopener">https://sanlaw.legal/team-member/edy-rusbandi</a>
+
+**Stephanie Chan**
+
+- Job Title: Associate
+- Years of Experience: 2 years
+- Location: Singapore
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting
+- Certifications/Qualifications: Solicitor in Singapore
+- URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/stephanie-chan" target="_blank" rel="noopener">https://sanlaw.legal/team-member/stephanie-chan</a>
 
 ---
 Profile last updated on 12 June 2023

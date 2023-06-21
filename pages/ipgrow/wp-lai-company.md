@@ -100,10 +100,24 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 ### Key practice experts
 
 **Alex Tan Seng Ngee**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 35 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Watch</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent Agent Singapore, Registered Patent Agent Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/alex-tan-2335227a" target="_blank" rel="noopener">https://linkedin.com/in/alex-tan-2335227a</a>
+
+- Job Title: Patent Attorney
+- Years of Experience: 35 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Watch
+- Certifications/Qualifications: Registered Patent Agent Singapore, Registered Patent Agent Malaysia
+- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/alex-tan-2335227a" target="_blank" rel="noopener">https://linkedin.com/in/alex-tan-2335227a</a>
 
 
-**Chong Yoke Fooi**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 30 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Watch</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent Agent Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/y-f-chong-9075441b" target="_blank" rel="noopener">https://linkedin.com/in/y-f-chong-9075441b</a></li></ul>
+**Chong Yoke Fooi**
+
+- Job Title: Partner
+- Years of Experience: 30 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Watch
+- Certifications/Qualifications: Registered Patent Agent Singapore
+- URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/y-f-chong-9075441b" target="_blank" rel="noopener">https://linkedin.com/in/y-f-chong-9075441b</a>
+
 
 ---
 Profile last updated on 12 June 2023

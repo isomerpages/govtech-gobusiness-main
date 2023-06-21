@@ -84,11 +84,32 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 ### Key practice experts
 
 **Andrea Chee**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor Supreme Court of Singapore, Solicitor of Supreme Court of England and Wales & Accredited Mediator, Singapore International Mediation Institute, Associate Chartered Valuer and Appraiser (Business Valuation), Tutor of Advanced Corporate Practice at Singapore Institute of Legal Education (SILE)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Singapore Managing Partner of the Year shortlist - Southeast Asia Law Awards (2021) (2020), Recommended in the Legal 500 for M&A (2015), Recommended in the IFLR 1000 for ECM (2016), Recommended in the Legal 500 for M&A (2017)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/andreachee" target="_blank" rel="noopener">https://sg.linkedin.com/in/andreachee</a>
 
-**Yuho Bong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 4 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yuho-bong" target="_blank" rel="noopener">https://www.linkedin.com/in/yuho-bong</a>
+- Job Title: Managing Director
+- Years of Experience: 20 years
+- Location: Singapore
+- IA/IP-Related Expertise: Contract Drafting
+- Certifications/Qualifications: Advocate and Solicitor Supreme Court of Singapore, Solicitor of Supreme Court of England and Wales & Accredited Mediator, Singapore International Mediation Institute, Associate Chartered Valuer and Appraiser (Business Valuation), Tutor of Advanced Corporate Practice at Singapore Institute of Legal Education (SILE)
+- Awards/Accolades: Singapore Managing Partner of the Year shortlist - Southeast Asia Law Awards (2021) (2020), Recommended in the Legal 500 for M&A (2015), Recommended in the IFLR 1000 for ECM (2016), Recommended in the Legal 500 for M&A (2017)
+- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/andreachee" target="_blank" rel="noopener">https://sg.linkedin.com/in/andreachee</a>
 
-**Dana Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dana-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/dana-lim</a></li></ul>
+**Yuho Bong**
+
+- Job Title: Senior Associate
+- Years of Experience: 4 years
+- Location: Singapore
+- IA/IP-Related Expertise: Contract Drafting
+- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/yuho-bong" target="_blank" rel="noopener">https://www.linkedin.com/in/yuho-bong</a>
+
+**Dana Lim**
+
+- Job Title: Associate
+- Years of Experience: 2 years
+- Location: Singapore
+- IA/IP-Related Expertise: Contract Drafting
+- Certifications/Qualifications: Advocate and Solicitor, Supreme Court of Singapore
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dana-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/dana-lim</a>
 
 ---
 Profile last updated on 12 June 2023

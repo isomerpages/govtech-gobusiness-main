@@ -112,26 +112,102 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 ### Key practice experts
 
 **Kristian, Robinson**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, SCOPE IP<sup>TM</sup> Consultant, Bachelor of Engineering (Chemical) (Hons), Bachelor of Science (Chemistry)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Global Leader: IP - Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), National Leader (Southeast Asia): Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), Asia IP Expert - Singapore, Asia IP (2022), Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/kristian-robinson" target="_blank" rel="noopener">https://www.spruson.com/our-people/kristian-robinson</a>
 
-**Chiou Yu, Choo**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patents: Chemical & Life Sciences Leader, Asia</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Master of Science (Biotechnology), Bachelor of Engineering (Chemical) (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/choo-chiou-yu" target="_blank" rel="noopener">https://www.spruson.com/our-people/choo-chiou-yu</a>
+- Job Title: Managing Director
+- Years of Experience: 25 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, SCOPE IP<sup>TM</sup> Consultant, Bachelor of Engineering (Chemical) (Hons), Bachelor of Science (Chemistry)
+- Awards/Accolades: Global Leader: IP - Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), National Leader (Southeast Asia): Patent Agents & Attorneys (Recommended), Who's Who Legal (2022), Asia IP Expert - Singapore, Asia IP (2022), Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/kristian-robinson" target="_blank" rel="noopener">https://www.spruson.com/our-people/kristian-robinson</a>
 
-**Hong Minh, Le**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patents: Engineering / ICT Leader, Asia</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 14 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Master of Technological Design, Bachelor of Engineering (Mechanical) (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/le-hong-minh" target="_blank" rel="noopener">https://www.spruson.com/our-people/le-hong-minh</a>
+**Chiou Yu, Choo**
 
-**Amy, Chan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Trademarks Leader, Asia</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trade Marks Agent Malaysia, Admitted and enrolled as Advocate & Solicitor in Malaysia, Certificate in Legal Practice (CLP) Malaysia, Bachelor of Laws (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Ranked Individual for Prosecution & Strategy, World Trademark Review (2021)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/amy-chan" target="_blank" rel="noopener">https://www.spruson.com/our-people/amy-chan</a>
+- Job Title: Patents: Chemical & Life Sciences Leader, Asia
+- Years of Experience: 15 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Master of Science (Biotechnology), Bachelor of Engineering (Chemical) (Hons)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/choo-chiou-yu" target="_blank" rel="noopener">https://www.spruson.com/our-people/choo-chiou-yu</a>
 
-**Ee Lin, Soo**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Patent Agent, Industrial Design Agent, Trade Marks Agent Malaysia, Graduate Certificate in Intellectual Property Law (Distinction), Doctor of Philosophy (Enzymology), Bachelor of Technology (Biotechnology) (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022), Top 20 Women in IP, Managing Intellectual Property (2019)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/soo-ee-lin" target="_blank" rel="noopener">https://www.spruson.com/our-people/soo-ee-lin</a>
+**Hong Minh, Le**
 
-**Daniel, Collopy**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 40 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered US Patent Attorney, Attorney at Law - Georgia / Ohio / Virginia / US and the US Supreme Court, Juris Doctorate (Law), Bachelor of Arts (Physics & Drama)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/daniel-collopy" target="_blank" rel="noopener">https://www.spruson.com/our-people/daniel-collopy</a>
+- Job Title: Patents: Engineering / ICT Leader, Asia
+- Years of Experience: 14 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Master of Technological Design, Bachelor of Engineering (Mechanical) (Hons)
+- Awards/Accolades: Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/le-hong-minh" target="_blank" rel="noopener">https://www.spruson.com/our-people/le-hong-minh</a>
+
+**Amy, Chan**
+
+- Job Title: Trademarks Leader, Asia
+- Years of Experience: 13 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management
+- Certifications/Qualifications: Registered Trade Marks Agent Malaysia, Admitted and enrolled as Advocate & Solicitor in Malaysia, Certificate in Legal Practice (CLP) Malaysia, Bachelor of Laws (Hons)
+- Awards/Accolades: Ranked Individual for Prosecution & Strategy, World Trademark Review (2021)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/amy-chan" target="_blank" rel="noopener">https://www.spruson.com/our-people/amy-chan</a>
+
+**Ee Lin, Soo**
+
+- Job Title: Director Malaysia
+- Years of Experience: 15 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Patent Agent, Industrial Design Agent, Trade Marks Agent Malaysia, Graduate Certificate in Intellectual Property Law (Distinction), Doctor of Philosophy (Enzymology), Bachelor of Technology (Biotechnology) (Hons)
+- Awards/Accolades: Patent Star, Managing Intellectual Property IP Stars (2022), Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022), Top 20 Women in IP, Managing Intellectual Property (2019)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/soo-ee-lin" target="_blank" rel="noopener">https://www.spruson.com/our-people/soo-ee-lin</a>
+
+**Daniel, Collopy**
+
+- Job Title: Principal
+- Years of Experience: 40 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered US Patent Attorney, Attorney at Law - Georgia / Ohio / Virginia / US and the US Supreme Court, Juris Doctorate (Law), Bachelor of Arts (Physics & Drama)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/daniel-collopy" target="_blank" rel="noopener">https://www.spruson.com/our-people/daniel-collopy</a>
 
 
-**Maik, Brinkmann**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 17 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: German Qualified Patent and Trade Mark Attorney, European Patent and Trade Mark Attorney, European Design Attorney, Registered Singapore Patent Attorney, Master of Science (equivalent) in Biology</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/maik-brinkmann" target="_blank" rel="noopener">https://www.spruson.com/our-people/maik-brinkmann</a>
+**Maik, Brinkmann**
 
-**Serene, Ong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Bachelor of Engineering (Electrical) (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/serene-ong" target="_blank" rel="noopener">https://www.spruson.com/our-people/serene-ong</a>
+- Job Title: Principal
+- Years of Experience: 17 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: German Qualified Patent and Trade Mark Attorney, European Patent and Trade Mark Attorney, European Design Attorney, Registered Singapore Patent Attorney, Master of Science (equivalent) in Biology
+- Awards/Accolades: Ranked Individual for Patent Prosecution, IAM Patent 1000 (2022)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/maik-brinkmann" target="_blank" rel="noopener">https://www.spruson.com/our-people/maik-brinkmann</a>
 
-**Jonathan, Loh**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 13 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Distinction), Bachelor of Engineering (Electrical) (Hons)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/jonathan-loh" target="_blank" rel="noopener">https://www.spruson.com/our-people/jonathan-loh</a>
+**Serene, Ong**
 
-**Grace, Wong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Principal</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, Registered Australian Trade Mark Attorney, Master of Intellectual Property Law, Bachelor of Science (Chemistry) </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019), Rising Star - Managing Intellectual Property IP Stars (2018)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/grace-wong" target="_blank" rel="noopener">https://www.spruson.com/our-people/grace-wong</a></li></ul>
+- Job Title: Principal
+- Years of Experience: 10 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Merit), Bachelor of Engineering (Electrical) (Hons)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/serene-ong" target="_blank" rel="noopener">https://www.spruson.com/our-people/serene-ong</a>
+
+**Jonathan, Loh**
+
+- Job Title: Principal
+- Years of Experience: 13 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Graduate Certificate in Intellectual Property Law (Distinction), Bachelor of Engineering (Electrical) (Hons)
+- Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/jonathan-loh" target="_blank" rel="noopener">https://www.spruson.com/our-people/jonathan-loh</a>
+
+**Grace, Wong**
+
+- Job Title: Principal
+- Years of Experience: 10 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Portfolio Management, IP Training
+- Certifications/Qualifications: Registered Singapore Patent Attorney, Registered Australian and New Zealand Patent Attorney, Registered Australian Trade Mark Attorney, Master of Intellectual Property Law, Bachelor of Science (Chemistry) 
+- Awards/Accolades: Notable Practitioner - Managing Intellectual Property IP Stars (2022), Notable Practitioner - Managing Intellectual Property IP Stars (2021), Rising Star - Managing Intellectual Property IP Stars (2019), Rising Star - Managing Intellectual Property IP Stars (2018)
+- URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/grace-wong" target="_blank" rel="noopener">https://www.spruson.com/our-people/grace-wong</a>
 
 ---
 Profile last updated on 12 June 2023

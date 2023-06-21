@@ -195,28 +195,100 @@ CEO & Tech Missionary, OTSAW.
 ### Key practice experts
 
 **Paul Adams**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: CEO</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 20 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Auckland, New Zealand</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: LLB with Honors (Software Licensing Law) - University of Auckland (NZ), BA (Economics and History) - University of Auckland (NZ), Admitted as a Barrister and Solicitor to the High Court of NZ, Fellow of the New Zealand Institute of Directors, Intellectual Asset Management Top 300 IP Strategist 2011-2022 </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Global IP Leader Prize, Intellectual Property Focus Forum, Shanghai, China, 2012</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/paul-adams" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/paul-adams</a>
 
-**Tyler Capson**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 15 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: United States</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, Valuation (with IA/IP consideration), IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA ) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: PWC XTax finalist</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
+- Job Title: CEO
+- Years of Experience: 20 years
+- Location: Auckland, New Zealand
+- IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Dispute Resolution
+- Certifications/Qualifications: LLB with Honors (Software Licensing Law) - University of Auckland (NZ), BA (Economics and History) - University of Auckland (NZ), Admitted as a Barrister and Solicitor to the High Court of NZ, Fellow of the New Zealand Institute of Directors, Intellectual Asset Management Top 300 IP Strategist 2011-2022 
+- Awards/Accolades: Global IP Leader Prize, Intellectual Property Focus Forum, Shanghai, China, 2012
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/paul-adams" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/paul-adams</a>
 
-**Ian Lim**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Manager, Valuation </li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 9 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore </li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit; IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/ian-lim" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/ian-lim</a>
+**Tyler Capson**
 
-**Justin Ng**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Analyst</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Master of Science in Wealth Management - Singapore Management University, Capital Markets Financial Advisory Services: Modules 5/6/6A/8/8A/9/9A</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/justin-ng" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/justin-ng</a>
+- Job Title: Managing Director
+- Years of Experience: 15 years
+- Location: United States
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, Valuation (with IA/IP consideration), IP Training
+- Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA ) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
+- Awards/Accolades: PWC XTax finalist
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
 
-**Stefan Tan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Analyst</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 5 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Commerce (Finance Major, Sociology Minor) - University of British Columbia, Wall Street Oasis - Valuation Mastery (Certified)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/stefan-tan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/stefan-tan</a>
+**Ian Lim**
+
+- Job Title: Senior Manager, Valuation 
+- Years of Experience: 9 years
+- Location: Singapore 
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit; IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
+- Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/ian-lim" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/ian-lim</a>
+
+**Justin Ng**
+
+- Job Title: Analyst
+- Years of Experience: 5 years
+- Location: Singapore
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
+- Certifications/Qualifications: Master of Science in Wealth Management - Singapore Management University, Capital Markets Financial Advisory Services: Modules 5/6/6A/8/8A/9/9A
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/justin-ng" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/justin-ng</a>
+
+**Stefan Tan**
+
+- Job Title: Analyst
+- Years of Experience: 5 years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
+- Certifications/Qualifications: Bachelor of Commerce (Finance Major, Sociology Minor) - University of British Columbia, Wall Street Oasis - Valuation Mastery (Certified)
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/stefan-tan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/stefan-tan</a>
 
 
-**Aden Ong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 9 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations), Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Science (Accounting and Finance) - University of London</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/aden-ong" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/aden-ong</a>
+**Aden Ong**
+
+- Job Title: Consultant
+- Years of Experience: 9 years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations), Dispute Resolution
+- Certifications/Qualifications: Bachelor of Science (Accounting and Finance) - University of London
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/aden-ong" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/aden-ong</a>
 
 
-**Richard Barnett**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Head of Strategy</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 30 years </li><li style='line-height: 27px; margin: 0px 0px !important'>Location: New Zealand</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Science (Mathematics & Physics) - Auckland University (NZ)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/richard-barnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/richard-barnett</a>
+**Richard Barnett**
 
-**Brett Kensett-Smith**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years </li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Strategy Consulting, IP Training, IP Intelligence & Search, Branding Strategy, IP Portfolio Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Patent and Trade Marks Attorney (Australia/New Zealand), Bachelor of Science (Hons) - University of Sydney (AUS), Graduate Diploma, Environmental Studies - Macquarie University (AUS), Diploma, Intellectual Property Practice, Academy of IPTA (AUS), Fellow, Institute of Patent & Trademarks Attorneys, Australia (AUS)</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/brett-kensett-smith" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/brett-kensett-smith</a>
+- Job Title: Head of Strategy
+- Years of Experience: 30 years 
+- Location: New Zealand
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: Bachelor of Science (Mathematics & Physics) - Auckland University (NZ)
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/richard-barnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/richard-barnett</a>
 
-**Caitlin Burnett**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior Strategist</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10 years </li><li style='line-height: 27px; margin: 0px 0px !important'>Location: New Zealand</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management  </li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered Trans-Tasman Patent Attorney (New Zealand & Australia), Fellow of the New Zealand Institute of Patent Attorneys (NZIPA), Bachelor of Engineering (Electronics & Systems) - Victoria University of Wellington, Member of the Intellectual Property Society of Australia and New Zealand Inc (IPSANZ), Ordinary Member of The Institute of Patent and Trade Mark Attorneys of Australia (IPTA)</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Awarded NZIPA Prize - Highest Mark in Patent Drafting Examinations 2017</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/caitlin-burnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/caitlin-burnett</a>
+**Brett Kensett-Smith**
+
+- Job Title: Director
+- Years of Experience: 25 years 
+- Location: Australia
+- IA/IP-Related Expertise: IP Strategy Consulting, IP Training, IP Intelligence & Search, Branding Strategy, IP Portfolio Management
+- Certifications/Qualifications: Registered Patent and Trade Marks Attorney (Australia/New Zealand), Bachelor of Science (Hons) - University of Sydney (AUS), Graduate Diploma, Environmental Studies - Macquarie University (AUS), Diploma, Intellectual Property Practice, Academy of IPTA (AUS), Fellow, Institute of Patent & Trademarks Attorneys, Australia (AUS)
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/brett-kensett-smith" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/brett-kensett-smith</a>
+
+**Caitlin Burnett**
+
+- Job Title: Senior Strategist
+- Years of Experience: 10 years 
+- Location: New Zealand
+- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management  
+- Certifications/Qualifications: Registered Trans-Tasman Patent Attorney (New Zealand & Australia), Fellow of the New Zealand Institute of Patent Attorneys (NZIPA), Bachelor of Engineering (Electronics & Systems) - Victoria University of Wellington, Member of the Intellectual Property Society of Australia and New Zealand Inc (IPSANZ), Ordinary Member of The Institute of Patent and Trade Mark Attorneys of Australia (IPTA)
+- Awards/Accolades: Awarded NZIPA Prize - Highest Mark in Patent Drafting Examinations 2017
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/caitlin-burnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/caitlin-burnett</a>
 
 
-**Joel Hanrahan**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 25 years </li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Training</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Arts Honours (BA Hons.) - University of New England (Australia), Graduate Diploma in Psychology (GradDipPsych) - University of New England (Australia) </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/joel-hanrahan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/joel-hanrahan</a></li></ul>
+**Joel Hanrahan**
+
+- Job Title: Managing Director
+- Years of Experience: 25 years 
+- Location: Australia
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Training
+- Certifications/Qualifications: Bachelor of Arts Honours (BA Hons.) - University of New England (Australia), Graduate Diploma in Psychology (GradDipPsych) - University of New England (Australia) 
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/joel-hanrahan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/joel-hanrahan</a>
 
 ---
 Profile last updated on 12 June 2023

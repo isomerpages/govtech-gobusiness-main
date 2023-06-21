@@ -196,11 +196,33 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 ### Key practice experts
 
 **Esther Wee**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Partner & Head of IP</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 11 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Registered patent agent in Malaysia, Registered trademark agent in Malaysia, Registered industrial design agent in Malaysia</li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore's 18 most influential lawyers under 40</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/esther-wee-23b38b18" target="_blank" rel="noopener">https://www.linkedin.com/in/esther-wee-23b38b18</a>
 
-** Philip Fong**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Partner & Head of Litigation and Dispute Management</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 28 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Laws University of London, Economics Degree (major in Accounting) University of Adelaide, </li><li style='line-height: 27px; margin: 0px 0px !important'>Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Arbitration and Mediation, Asialaw Profiles 2022 - Distinguished Practitioner for Dispute Resolution, Asialaw Profiles 2020 - Client Service Excellence, Asialaw Profiles 2018, 2019 - Market-Leading Lawyer for Dispute Resolution</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/partners/philip-fong" target="_blank" rel="noopener">https://www.harryelias.com/partners/philip-fong</a>
+- Job Title: Partner & Head of IP
+- Years of Experience: 11 years
+- Location: Singapore
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting
+- Certifications/Qualifications: Registered patent agent in Malaysia, Registered trademark agent in Malaysia, Registered industrial design agent in Malaysia
+- Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore's 18 most influential lawyers under 40
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/esther-wee-23b38b18" target="_blank" rel="noopener">https://www.linkedin.com/in/esther-wee-23b38b18</a>
 
-**Daniel Yap**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Legal Associate</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 2 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Due Diligence, IP Portfolio Management, Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Bachelor of Laws (Honours) National University of Singapore, Advocate and Solicitor of the Supreme Court of Singapore 2021</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/associates/daniel-yap" target="_blank" rel="noopener">https://www.harryelias.com/associates/daniel-yap</a></li></ul>
+** Philip Fong**
+
+- Job Title: Managing Partner & Head of Litigation and Dispute Management
+- Years of Experience: 28 years
+- Location: Singapore
+- IA/IP-Related Expertise: Dispute Resolution
+- Certifications/Qualifications: Bachelor of Laws University of London, Economics Degree (major in Accounting) University of Adelaide, 
+- Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Arbitration and Mediation, Asialaw Profiles 2022 - Distinguished Practitioner for Dispute Resolution, Asialaw Profiles 2020 - Client Service Excellence, Asialaw Profiles 2018, 2019 - Market-Leading Lawyer for Dispute Resolution
+- URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/partners/philip-fong" target="_blank" rel="noopener">https://www.harryelias.com/partners/philip-fong</a>
+
+**Daniel Yap**
+
+- Job Title: Legal Associate
+- Years of Experience: 2 years
+- Location: Singapore
+- IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Due Diligence, IP Portfolio Management, Contract Drafting
+- Certifications/Qualifications: Bachelor of Laws (Honours) National University of Singapore, Advocate and Solicitor of the Supreme Court of Singapore 2021
+- URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/associates/daniel-yap" target="_blank" rel="noopener">https://www.harryelias.com/associates/daniel-yap</a>
 
 ---
 Profile last updated on 12 June 2023

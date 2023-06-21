@@ -138,7 +138,13 @@ We're proud to have worked with some of the  most innovative companies in the Un
 ### Key practice experts
 
 **Chong-Yee Khoo**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Patent Attorney</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 27 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: European Patent Attorney, Chartered Patent Attorney (United Kingdom), Intellectual Property Litigation Certificate (United Kingdom), Registered Singapore Patent Agent, PhD (Cambridge University) Double First Class Honours degree in Natural Sciences from Queens' College</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.cantab-ip.com/people/chong-yee-khoo" target="_blank" rel="noopener">https://www.cantab-ip.com/people/chong-yee-khoo</a></li></ul>
+
+- Job Title: Patent Attorney
+- Years of Experience: 27 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
+- Certifications/Qualifications: European Patent Attorney, Chartered Patent Attorney (United Kingdom), Intellectual Property Litigation Certificate (United Kingdom), Registered Singapore Patent Agent, PhD (Cambridge University) Double First Class Honours degree in Natural Sciences from Queens' College
+- URL of LinkedIn/Company Profile: <a href="https://www.cantab-ip.com/people/chong-yee-khoo" target="_blank" rel="noopener">https://www.cantab-ip.com/people/chong-yee-khoo</a>
 
 ---
 Profile last updated on 12 June 2023

@@ -187,17 +187,58 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 ### Key practice experts
 
 **Philippe Vigand**
-<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Managing Director Patents at Novagraaf Group</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 14+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Geneva, Switzerland</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/philippe-vigand-9708391" target="_blank" rel="noopener">https://www.linkedin.com/in/philippe-vigand-9708391</a>
 
-**Benoit Chevalier**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Global director - Customer Success & Marketing</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Watch, Innovation Consultancy, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chevalierbenoit" target="_blank" rel="noopener">https://www.linkedin.com/in/chevalierbenoit</a>
+- Job Title: Managing Director Patents at Novagraaf Group
+- Years of Experience: 14+ years
+- Location: Geneva, Switzerland
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
+- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/philippe-vigand-9708391" target="_blank" rel="noopener">https://www.linkedin.com/in/philippe-vigand-9708391</a>
 
-**Cyril Mavr&eacute;**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Director of Engineering Sciences Business Unit</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 10+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Brokerage and Licensing</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Grenoble INP - Phelma- Engineer's degree. Grenoble Ecole de Management- Marketing Management and Innovation</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/cyril-mavr%C3%A9-68a0a3a9" target="_blank" rel="noopener">https://www.linkedin.com/in/cyril-mavr%C3%A9-68a0a3a9</a>
+**Benoit Chevalier**
 
-**Yasin Bismilla**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Regional Director at Questel</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 4+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Toronto, Canada</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: Registered Design Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: University of Waterloo, BASc</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/ybismilla/?originalSubdomain=ca" target="_blank" rel="noopener">https://www.linkedin.com/in/ybismilla/?originalSubdomain=ca</a>
+- Job Title: Global director - Customer Success & Marketing
+- Years of Experience: 10+ years
+- Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France
+- IA/IP-Related Expertise: IP Database, IP Intelligence and Search, IP Watch, Innovation Consultancy, IP Strategy Consulting
+- Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chevalierbenoit" target="_blank" rel="noopener">https://www.linkedin.com/in/chevalierbenoit</a>
 
-**Viviane Chilton**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Global Director, IP Solutions Expert</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 7+ years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Greater Lyon, France</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration </li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vivianechilton" target="_blank" rel="noopener">https://www.linkedin.com/in/vivianechilton</a>
+**Cyril Mavr&eacute;**
 
-** Jeferson Staelens**</li><li style='line-height: 27px; margin: 0px 0px !important'>Job Title: Senior IP & LegalTech Consultant</li><li style='line-height: 27px; margin: 0px 0px !important'>Years of Experience: 6 years</li><li style='line-height: 27px; margin: 0px 0px !important'>Location: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>IA/IP-Related Expertise: IP Database, IP Intelligence and Search, Innovation consultancy, IP Portfolio Management, IP Strategy Consulting</li><li style='line-height: 27px; margin: 0px 0px !important'>URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/jeferson-staelens" target="_blank" rel="noopener">https://sg.linkedin.com/in/jeferson-staelens</a></li></ul>
+- Job Title: Director of Engineering Sciences Business Unit
+- Years of Experience: 10+ years
+- Location: Grenoble, Auvergne-Rh&ocirc;ne-Alpes, France
+- IA/IP-Related Expertise: IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, IP Brokerage and Licensing
+- Certifications/Qualifications: Grenoble INP - Phelma- Engineer's degree. Grenoble Ecole de Management- Marketing Management and Innovation
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/cyril-mavr%C3%A9-68a0a3a9" target="_blank" rel="noopener">https://www.linkedin.com/in/cyril-mavr%C3%A9-68a0a3a9</a>
+
+**Yasin Bismilla**
+
+- Job Title: Regional Director at Questel
+- Years of Experience: 4+ years
+- Location: Toronto, Canada
+- IA/IP-Related Expertise: Registered Design Agent Service
+- Certifications/Qualifications: University of Waterloo, BASc
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/ybismilla/?originalSubdomain=ca" target="_blank" rel="noopener">https://www.linkedin.com/in/ybismilla/?originalSubdomain=ca</a>
+
+**Viviane Chilton**
+
+- Job Title: Global Director, IP Solutions Expert
+- Years of Experience: 7+ years
+- Location: Greater Lyon, France
+- IA/IP-Related Expertise: IP Strategy Consulting
+- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vivianechilton" target="_blank" rel="noopener">https://www.linkedin.com/in/vivianechilton</a>
+
+** Jeferson Staelens**
+
+- Job Title: Senior IP & LegalTech Consultant
+- Years of Experience: 6 years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Database, IP Intelligence and Search, Innovation consultancy, IP Portfolio Management, IP Strategy Consulting
+- URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/jeferson-staelens" target="_blank" rel="noopener">https://sg.linkedin.com/in/jeferson-staelens</a>
+
 
 ---
 Profile last updated on 12 June 2023
