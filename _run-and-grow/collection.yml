@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - overview.md
+      - RunSJ/.keep
+      - RunSJ/about.md
+      - RunSJ/Test.md
       - government-assistance/.keep
       - government-assistance/about-government-assistance.md
       - government-assistance/grants.md
