@@ -22,10 +22,10 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable due to scheduled maintenance till 5 October 2021 12pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
 
-  //[**NEA DOWNTIME**]
+  //[**OneILS / NEA DOWNTIME**]
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 24 May 2023 from 6:30pm to 11:59pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 10 May 2023 from 6.30pm to 8.30pm. We apologise for the inconvenience caused.",
-  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 14 Jun 2023 from 6.30pm to 11.59pm. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 21 Jun 2023 from 6.30pm to 8.30pm. We apologise for the inconvenience caused."
 
   //[**ACRA DOWNTIME, affecting BGP and FS**]
   //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 10 Feb 2023 from 12am to 5am. We apologise for the inconvenience caused.",
@@ -45,7 +45,7 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 1 Mar 2023 10pm to 2 Mar 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 6 Apr 2023 10pm to 7 Apr 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 28 Apr 2023 10pm to 29 Apr 2023 8am<br>(2) from 29 Apr 2023 10pm to 30 Apr 2023 8am"
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 5 Jun 2023 10pm to 6 Jun 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 21 Jun 2023 10pm to 22 Jun 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 26 May 2023 10pm to 27 May 2022 8am<br>(2) From 27 May 2023 10pm to 28 May 2023 8am"
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) 16 Jun 2023 from 12am to 6am<br>(2) From 16 Jun 2023 10pm to 17 Jun 2023 6am<br>(3) From 17 Jun 2023 6pm to 19 Jun 2023 6am"
 
