@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/everedge-global/
 
 EverEdge is a global intangible asset advisory, valuation and corporate finance specialist. Intangible assets, including data, content, software, brands, customer and supplier relationships, confidential information, patents and regulatory approvals are the most important assets companies own, accounting for over 90% of company value.
 
-We help companies unlock their competitive edge by identifying, valuing and monetizing their intangible assets. We help investors improve investment returns by assessing intangible asset impact and reducing intangible asset risk. Across more than 2,500 engagements we have generated an average Return on Fees to clients of more than 10X and have a Net Promoter Score of +63% (regarded as "outstanding" for a professional services firm versus the industry benchmark of -22%).
+We help companies unlock their competitive edge by identifying, valuing and monetizing their intangible assets. We help investors improve investment returns by assessing intangible asset impact and reducing intangible asset risk. Across more than 2,500 engagements we have generated an average Return on Fees to clients of more than 10X and have a Net Promoter Score of +63% (regarded as “outstanding” for a professional services firm versus the industry benchmark of -22%).
 
 <b>Year established in Singapore:</b> 2017
 
@@ -38,7 +38,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -48,7 +48,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -58,7 +58,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 51 to 55</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Audit Services**
@@ -68,7 +68,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 56 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Brokerage and Licensing Services**
@@ -78,7 +78,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  20000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 **IP Due Diligence Services**
@@ -88,7 +88,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Intelligence and Search Services**
@@ -98,7 +98,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 201 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -108,7 +108,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
 **IP Strategy Consulting Services**
@@ -118,7 +118,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 61 to 65</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Training Services**
@@ -128,27 +128,27 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 61 to 65</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
-**Valuation Service (with IA/IP considerations) Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 56 to 60</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
-</ul>
-
-**IP Watch Service Services**
+**IP Watch Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
+</ul>
+
+**Valuation (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 56 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 ---
@@ -161,7 +161,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Asutralia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): North Carolina</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): North Carolina</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -179,7 +179,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <a name='testimonials'></a>
 ### Testimonials
 
-*"At first glance, our business might look to be primarily based on tangible assets, but EverEdge helped us dig beneath the surface and recognise that a lot of our value is actually derived from the confidential information, data, digital content and other intangible assets we hold.   "While we initially engaged EverEdge on a valuation project, we extended our relationship due to the knowledge and insights the team brought to our table. EverEdge have assisted us with building a framework to identify and value our intangible assets, as well as helping us to mitigate risk around these assets. I would highly recommend EverEdge to anyone who wants to ensure they are fully capitalising on the value of their intangible assets."* - Aron Butcher, Head of Digital, QIC Real Estate.
+*"At first glance, our business might look to be primarily based on tangible assets, but EverEdge helped us dig beneath the surface and recognise that a lot of our value is actually derived from the confidential information, data, digital content and other intangible assets we hold.   “While we initially engaged EverEdge on a valuation project, we extended our relationship due to the knowledge and insights the team brought to our table. EverEdge have assisted us with building a framework to identify and value our intangible assets, as well as helping us to mitigate risk around these assets. I would highly recommend EverEdge to anyone who wants to ensure they are fully capitalising on the value of their intangible assets."* - Aron Butcher, Head of Digital, QIC Real Estate.
 
 *"We have had a long relationship with EverEdge, as its team helped us develop a strategy to build value in our portfolio of intangible assets. When EverEdge was appointed to advise Swisslog Healthcare on the sale of TransCar, its team was able to immediately identify the synergies with our business and the strategic value we could add to these assets if we acquired them. This transaction made sense for both OTSAW and TransCar and will allow both companies to focus on driving growth and margins in our core business' by delivering innovative solutions and great service to our customers."* - Ling Ting Ming, 
 CEO & Tech Missionary, OTSAW.
@@ -216,7 +216,7 @@ CEO & Tech Missionary, OTSAW.
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, Valuation (with IA/IP consideration), IP Training
 - Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA ) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
 - Awards/Accolades: PWC XTax finalist
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/tyler-capson
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/tyler-capson
 
 **Ian Lim**
 
@@ -225,7 +225,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore 
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit; IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
 - Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/ian-lim
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/ian-lim
 
 **Justin Ng**
 
@@ -234,7 +234,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Master of Science in Wealth Management - Singapore Management University, Capital Markets Financial Advisory Services: Modules 5/6/6A/8/8A/9/9A
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/justin-ng
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/justin-ng
 
 **Stefan Tan**
 
@@ -243,7 +243,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
 - Certifications/Qualifications: Bachelor of Commerce (Finance Major, Sociology Minor) - University of British Columbia, Wall Street Oasis - Valuation Mastery (Certified)
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/stefan-tan
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/stefan-tan
 
 
 **Aden Ong**
@@ -253,7 +253,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Bachelor of Science (Accounting and Finance) - University of London
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/aden-ong
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/aden-ong
 
 
 **Richard Barnett**
@@ -263,7 +263,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: New Zealand
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: Bachelor of Science (Mathematics & Physics) - Auckland University (NZ)
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/richard-barnett
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/richard-barnett
 
 **Brett Kensett-Smith**
 
@@ -272,7 +272,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Australia
 - IA/IP-Related Expertise: IP Strategy Consulting, IP Training, IP Intelligence & Search, Branding Strategy, IP Portfolio Management
 - Certifications/Qualifications: Registered Patent and Trade Marks Attorney (Australia/New Zealand), Bachelor of Science (Hons) - University of Sydney (AUS), Graduate Diploma, Environmental Studies - Macquarie University (AUS), Diploma, Intellectual Property Practice, Academy of IPTA (AUS), Fellow, Institute of Patent & Trademarks Attorneys, Australia (AUS)
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/brett-kensett-smith
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/brett-kensett-smith
 
 **Caitlin Burnett**
 
@@ -282,7 +282,7 @@ CEO & Tech Missionary, OTSAW.
 - IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management  
 - Certifications/Qualifications: Registered Trans-Tasman Patent Attorney (New Zealand & Australia), Fellow of the New Zealand Institute of Patent Attorneys (NZIPA), Bachelor of Engineering (Electronics & Systems) - Victoria University of Wellington, Member of the Intellectual Property Society of Australia and New Zealand Inc (IPSANZ), Ordinary Member of The Institute of Patent and Trade Mark Attorneys of Australia (IPTA)
 - Awards/Accolades: Awarded NZIPA Prize - Highest Mark in Patent Drafting Examinations 2017
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/caitlin-burnett
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/caitlin-burnett
 
 
 **Joel Hanrahan**
@@ -292,7 +292,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Australia
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: Bachelor of Arts Honours (BA Hons.) - University of New England (Australia), Graduate Diploma in Psychology (GradDipPsych) - University of New England (Australia) 
-- URL of Linkedin/Company Profile: www.everedgeglobal.com/staff/joel-hanrahan
+- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/joel-hanrahan
 
 ---
 Profile last updated on 12 June 2023

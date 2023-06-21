@@ -13,7 +13,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 
 <b>Year established in Singapore:</b> 2012
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Due Diligence;IP Portfolio Management, Contract Drafting, Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Due Diligence; IP Portfolio Management, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> Non-SME
 

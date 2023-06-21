@@ -47,7 +47,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
 </ul>
 
-**Freedom-to-Operate (FTO) Service Services**
+**Freedom-to-Operate Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
@@ -149,7 +149,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Non-profit organisations - 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 52%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 39%</li><li style='line-height: 27px; margin: 0px 0px !important'>Government - </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Start-ups - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Non-profit organisations - 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 52%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 39%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>

@@ -38,7 +38,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 151 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -48,7 +48,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 501 to 750</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 ---
@@ -79,9 +79,9 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We engaged Cat And Pillar to do a trade mark registration for Running Lab in Indonesia. Pre registration, we had many questions which they answered promptly and most importantly explained very clearly and provided us with options with various pros and cons. Very knowledgeable and professional. Thank you for the great service!"* - Walter Tan, Managing Director, Outdoor Venture Pte. Ltd.
+*"We engaged Cat And Pillar to do a trade mark registration for Running Lab in Indonesia. Pre registration, we had many questions which they answered promptly and most importantly explained very clearly and provided us with options with various pros and cons. Very knowledgeable and professional. Thank you for the great service!"* - Walter Tan, Managing Director, Outdoor Venture Pte Ltd.
 
-*"Previously, I hired a law firm to assist us with our trademark filing, but the process took so long that it seemed to have no end. We had to keep requesting for updates, but they kept sending us invoices to pay! I was really glad to find Yan Shao from Cat and Pillar. He took over our account, and charged a very reasonable rate with no hidden fees or nasty add-ons. He was responsive, on the ball, and timely with his updates. We could rest assured knowing that our trademark registration was being handled by a professional. Our trademark registration was finally approved in a short period after it was placed under Yan Shao's management. Highly recommended."* - Ridjal Noor, Head of Marketing, Saffrons Restaurant Pte. Ltd.
+*"Previously, I hired a law firm to assist us with our trademark filing, but the process took so long that it seemed to have no end. We had to keep requesting for updates, but they kept sending us invoices to pay! I was really glad to find Yan Shao from Cat and Pillar. He took over our account, and charged a very reasonable rate with no hidden fees or nasty add-ons. He was responsive, on the ball, and timely with his updates. We could rest assured knowing that our trademark registration was being handled by a professional. Our trademark registration was finally approved in a short period after it was placed under Yan Shao's management. Highly recommended."* - Ridjal Noor, Head of Marketing, Saffrons Restaurant Pte Ltd.
 
 *"We are very pleased with the trademark registration services provided by Cat and Pillar. We initially asked a different trademark agent for an assessment of our trademark and they did not think there was a high chance of registration. Cat and Pillar provided an accurate assessment of my trademark registration for Singapore and USA. Our trademark has since been successfully registered in Singapore. They also provide very prompt and cost effective services. Highly recommended for any business looking to protect their brand in Singapore or any other country."* - Yudara Kularathne, CEO, Hehealth  Pte Ltd.
 
@@ -98,7 +98,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search
 - Certifications/Qualifications: Registered Australian Trade Mark Attorney, Specialist Certificate in Intangible Asset Management 
-- Awards/Accolades: PS21 ExCEL Awards - Innovation Champion
+- Awards/Accolades: PS21 Excel Awards - Innovation Champion
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/yanshao-tan
 
 

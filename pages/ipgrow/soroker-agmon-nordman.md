@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/soroker-agmon-nordman/
 
 ## Soroker Agmon Nordman 
 
-Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. With a team of 40 employees in Singapore and Israel, the firm primarily offers IP, commercial, and litigation services. In Singapore, the firm has worked with academic and research institutions and start-ups in various industries including medical, chemical, pharmaceuticals, finance, software, defense, and cybersecurity. In Israel, the firm has worked with large, medium, and small enterprises in software, hardware, telecommunications, medical, security, defense, and other fields. The firm provides services in patents, trademarks, designs, copyrights, innovation consultancy, branding strategy, legal document drafting and review, deal negotiation, due diligence, IP portfolio management, litigation, strategy consulting, ongoing legal advice, and contentious matters. The firm aims to ensure its clients' long-term success in a constantly evolving international market.
+Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapore in 2016. With a team of 40 employees in Singapore and Israel, the firm primarily offers IP, commercial, and litigation services. In Singapore, the firm has worked with academic and research institutions and start-ups in various industries including medical, chemical, pharmaceuticals, finance, software, defence, and cybersecurity. In Israel, the firm has worked with large, medium, and small enterprises in software, hardware, telecommunications, medical, security, defence, and other fields. The firm provides services in patents, trademarks, designs, copyrights, innovation consultancy, branding strategy, legal document drafting and review, deal negotiation, due diligence, IP portfolio management, litigation, strategy consulting, ongoing legal advice, and contentious matters. The firm aims to ensure its clients' long-term success in a constantly evolving international market.
 
 <b>Year established in Singapore:</b> 2016
 
@@ -36,7 +36,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Contract Drafting Services**
@@ -46,7 +46,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $500</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -56,17 +56,17 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
-**Freedom-to-Operate (FTO) Service Services**
+**Freedom-to-Operate Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  3000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -76,7 +76,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **IP Audit Services**
@@ -86,7 +86,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 **IP Due Diligence Services**
@@ -96,7 +96,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -106,7 +106,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 51 to 55</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 **IP Strategy Consulting Services**
@@ -116,7 +116,17 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
+</ul>
+
+**IP Watch Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Patent Agent Services**
@@ -126,7 +136,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 201 to 300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -136,7 +146,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 16 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -146,17 +156,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  700</li>
-</ul>
-
-**IP Watch Service Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $700</li>
 </ul>
 
 ---

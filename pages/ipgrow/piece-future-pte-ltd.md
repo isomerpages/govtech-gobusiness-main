@@ -32,7 +32,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,400</li>
 </ul>
 
 **IP Intelligence and Search Services**
@@ -42,7 +42,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  50000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $50,000</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -52,7 +52,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  100000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100,000</li>
 </ul>
 
 **IP Strategy Consulting Services**
@@ -62,7 +62,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  50000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $50,000</li>
 </ul>
 
 ---

@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/alpha-omega-law-corporation/
 
 ## Alpha & Omega Law Corporation
 
-Alpha & Omega sets itself apart by being a Singapore law firm with a complete focus on IP law. A brand established in Singapore in 2003. We are strategists, idealists, analysts and business-minded. Beyond the registration and protection of IP, our goal is to work hard hand in hand with our clients to tailor powerful intellectual property strategies that will help their business reap exponential growth and profits. We provide invaluable support to businesses, Singapore and international alike, in building, enforcing and commercialising their IA in Singapore and around the world.Our clientele range from individuals to  start-ups, charities, small and medium sized enterprises, multinationals based in Singapore and globally.
+Alpha & Omega sets itself apart by being a Singapore law firm with a complete focus on IP law. A brand established in Singapore in 2003. We are strategists, idealists, analysts and business-minded. Beyond the registration and protection of IP, our goal is to work hard hand in hand with our clients to tailor powerful intellectual property strategies that will help their business reap exponential growth and profits. We provide invaluable support to businesses, Singapore and international alike, in building, enforcing and commercialising their IA in Singapore and around the world. Our clientele range from individuals to  start-ups, charities, small and medium sized enterprises, multinationals based in Singapore and globally.
 
 <b>Year established in Singapore:</b> 2009
 
@@ -32,7 +32,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $400</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -42,17 +42,17 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
-**Freedom-to-Operate (FTO) Service Services**
+**Freedom-to-Operate Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
 </ul>
 
 **IP Audit Services**
@@ -62,7 +62,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **IP Due Diligence Services**
@@ -72,7 +72,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -82,7 +82,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **IP Strategy Consulting Services**
@@ -92,7 +92,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **IP Training Services**
@@ -102,7 +102,17 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+</ul>
+
+**IP Watch Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **Patent Agent Services**
@@ -112,7 +122,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  401</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $401</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -122,7 +132,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 31 to 45</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $400</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -132,17 +142,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
-</ul>
-
-**IP Watch Service Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 ---
@@ -155,7 +155,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia, Philippines</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): South  East East and globally </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia, Philippines</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): South East Asia and globally </li></ul>
 
 ---
 <a name='client-segments'></a>

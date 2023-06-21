@@ -11,7 +11,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Portfolio Management
 
-<b>Intellectual property awards received:</b> WTR (2023) - Silver tier firm for prosecution and strategy ; IAM Patent (2022) - Gold Tier Firm for Patent Prosection ; MIP (2022) - Top Tier Firm for Patent Prosecution ; MIP (2022) - Top Tier Firm for Trade Mark Prosection ; MIP (2021) - Asia-Pacific IP Boutique firm of the year
+<b>Intellectual property awards received:</b> WTR (2023) - Silver tier firm for prosecution and strategy ; IAM Patent (2022) - Gold Tier Firm for Patent Prosecution ; MIP (2022) - Top Tier Firm for Patent Prosecution ; MIP (2022) - Top Tier Firm for Trade Mark Prosecution ; MIP (2021) - Asia-Pacific IP Boutique firm of the year
 
 <b>Type of organization:</b> Non-SME
 
@@ -27,7 +27,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Freedom-to-Operate (FTO) Service Services**
+**Freedom-to-Operate Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>

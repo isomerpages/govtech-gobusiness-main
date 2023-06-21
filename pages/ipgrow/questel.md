@@ -29,14 +29,14 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Freedom-to-Operate (FTO) Service Services**
+**Freedom-to-Operate Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 76 to 80</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -66,7 +66,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: Above 10,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  The minimum IP database service fee is 20,000 Singapore dollars.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 **IP Due Diligence Services**
@@ -106,7 +106,17 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  8450</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,450</li>
+</ul>
+
+**IP Watch Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 81 to 85</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 61 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -126,16 +136,6 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Watch Service Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 81 to 85</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -222,7 +222,6 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Certifications/Qualifications: University of Waterloo, BASc
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/ybismilla/?originalSubdomain=ca
 
-
 **Viviane Chilton**
 
 - Job Title: Global Director, IP Solutions Expert
@@ -232,7 +231,13 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/vivianechilton
 
+** Jeferson Staelens**
 
+- Job Title: Senior IP & LegalTech Consultant
+- Years of Experience: 6 years
+- Location: Singapore
+- IA/IP-Related Expertise: IP Database, IP Intelligence and Search, Innovation consultancy, IP Portfolio Management, IP Strategy Consulting
+- URL of LinkedIn/Company Profile: https://sg.linkedin.com/in/jeferson-staelens
 
 
 ---

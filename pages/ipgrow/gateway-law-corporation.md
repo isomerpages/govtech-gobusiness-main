@@ -34,7 +34,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -44,7 +44,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 **IP Database Services**
@@ -54,7 +54,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **IP Portfolio Management Services**
@@ -64,7 +64,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Patent Agent Services**
@@ -74,7 +74,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  3000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  3,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -84,7 +84,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -94,7 +94,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,500</li>
 </ul>
 
 ---
@@ -136,6 +136,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Registered Patent Attorney/Agent, Singapore & Malaysia, Advocate & Solicitor, Supreme Court of Singapore, Trade Mark & Industrial Design Agent, Malaysia, Advocate & Solicitor, High Court of Malaya, Who's Who Legal: Singapore
+- Awards/Accolades: World Trademark Review 1000 - Ranked in Prosecution and Strategy and Enforcement and Litigation and Transactions, World Intellectual Property Review Leaders - Recognised Leader, Chambers & Partners - Ranked Lawyer: Intellectual Property: Domestic: Litigation, Legal 500 (Asia-Pacific) - Recommended Lawyer
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/maxng
 
 
@@ -154,7 +155,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - Years of Experience: 8 years
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: Practicising Certificate (Advocate and Solicitor of the Supreme Court of Singapore)
+- Certifications/Qualifications: Practising Certificate (Advocate and Solicitor of the Supreme Court of Singapore)
 - URL of LinkedIn/Company Profile: www.linkedin.com/in/mitchelchua
 
 **Inshirah Lim**

@@ -10,12 +10,12 @@ Intellectual property (IP) is a critical asset for many businesses today. It inc
 It requires a deep understanding of the market, the technology, and the legal landscape, as well as expertise in financial analysis and valuation methods. That's where our services come in. We help you unlock the value of your intellectual property assets and maximize their potential.
 
 We are able to assist to estimate the value of the following intellectual property:
-- Trademarks
-- Patents
-- Software
-- Copyrights
-- Technology
-- Technical knowhow
+•	Trademarks
+•	Patents
+•	Software
+•	Copyrights
+•	Technology
+•	Technical knowhow
 
 <b>Year established in Singapore:</b> 2006
 
@@ -35,14 +35,14 @@ We are able to assist to estimate the value of the following intellectual proper
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Valuation Service (with IA/IP considerations) Services**
+**Valuation (with IA/IP considerations) Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 46 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  15000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $15,000</li>
 </ul>
 
 ---

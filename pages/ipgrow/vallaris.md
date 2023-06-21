@@ -42,14 +42,14 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Valuation Service (with IA/IP considerations) Services**
+**Valuation (with IA/IP considerations) Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 ---
@@ -80,11 +80,11 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We agree with the Judge that Mun's evidence should be preferred. Mun's evidence was more credible and objective, and the conclusions he reached were well-reasoned and supported by the evidence. The appellant accepted on appeal Mun's valuation as regards items (b) and (d), ie, 'Adjusted PPE' and 'Stock'.  [2022] SGCA 47, para 64, 66."* - Justice Steven Chong Horng Siong , Judge of Appeal, Project Succession (Appeal), The Court of Appeal of Singapore.
+*"We agree with the Judge that Mun's evidence should be preferred. Mun's evidence was more credible and objective, and the conclusions he reached were well-reasoned and supported by the evidence. The appellant accepted on appeal Mun's valuation as regards items (b) and (d), i.e., 'Adjusted PPE' and 'Stock'.  [2022] SGCA 47, para 64, 66."* - Justice Steven Chong Horng Siong , Judge of Appeal, Project Succession (Appeal), The Court of Appeal of Singapore.
 
 *"Mr. Mun Siong Yoong, Founder and CEO of Vallaris Deal Advisory Pte Ltd, was conferred the Chartered Valuer and Appraisers (CVA) designation in 2017 for his extensive industry experience in the field of Business Valuation (BV).  He is a current member of the Standards and Technical Working Group of the Institute of Valuers and Appraisers, Singapore (IVAS), an institute under the Singapore Accountancy Commission (SAC). The SAC is a statutory body under the Ministry of Finance.  The STWG provides oversight for the development and publication of practice guides on valuation matters. It also provides technical assistance to regulators such as the Accounting and Corporate Regulatory Authority (ACRA) and Singapore Exchange Regulation Company (SGX RegCo) on complex valuation issues."* -Mr. Evan Law , Chief Executive, Advisory Role, Singapore Accountancy Commission.
 
-*"'The court turns its attention next to the evidence of the Defendants' expert Mun. He is a chartered accountant as well as a chartered valuer and appraiser who has appeared in Singapore courts as well as at the Singapore International Arbitration Centre as an expert witness.'  'There was nothing new adduced from Mun during his cross-examination that altered what was stated in Mun's report.'  '...the court is of the view that's (sic) Mun testimony and expert reports are to be preferred. Mun offered a more objective and balanced analysis of the accounts of the Partnership as at 19 December 2014.'.  [2020] SGHC 159, para 122, 144 and 194."* - Justice Lai Siu Chiu , Senior Judge, Project Successon, The High Court of Singapore.
+*"'The court turns its attention next to the evidence of the Defendants' expert Mun. He is a chartered accountant as well as a chartered valuer and appraiser who has appeared in Singapore courts as well as at the Singapore International Arbitration Centre as an expert witness.'  'There was nothing new adduced from Mun during his cross-examination that altered what was stated in Mun's report.'  '…the court is of the view that's (sic) Mun testimony and expert reports are to be preferred. Mun offered a more objective and balanced analysis of the accounts of the Partnership as at 19 December 2014.'.  [2020] SGHC 159, para 122, 144 and 194."* - Justice Lai Siu Chiu , Senior Judge, Project Succession, The High Court of Singapore.
 
 
 
