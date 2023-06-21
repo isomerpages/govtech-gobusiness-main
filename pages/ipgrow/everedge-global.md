@@ -202,7 +202,7 @@ CEO & Tech Missionary, OTSAW.
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Dispute Resolution
 - Certifications/Qualifications: LLB with Honors (Software Licensing Law) - University of Auckland (NZ), BA (Economics and History) - University of Auckland (NZ), Admitted as a Barrister and Solicitor to the High Court of NZ, Fellow of the New Zealand Institute of Directors, Intellectual Asset Management Top 300 IP Strategist 2011-2022 
 - Awards/Accolades: Global IP Leader Prize, Intellectual Property Focus Forum, Shanghai, China, 2012
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/paul-adams
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/paul-adams" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/paul-adams</a>
 
 **Tyler Capson**
 
@@ -212,7 +212,7 @@ CEO & Tech Missionary, OTSAW.
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, Valuation (with IA/IP consideration), IP Training
 - Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA ) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
 - Awards/Accolades: PWC XTax finalist
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/tyler-capson
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
 
 **Ian Lim**
 
@@ -221,7 +221,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore 
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit; IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
 - Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/ian-lim
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/ian-lim" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/ian-lim</a>
 
 **Justin Ng**
 
@@ -230,7 +230,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Master of Science in Wealth Management - Singapore Management University, Capital Markets Financial Advisory Services: Modules 5/6/6A/8/8A/9/9A
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/justin-ng
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/justin-ng" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/justin-ng</a>
 
 **Stefan Tan**
 
@@ -239,7 +239,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
 - Certifications/Qualifications: Bachelor of Commerce (Finance Major, Sociology Minor) - University of British Columbia, Wall Street Oasis - Valuation Mastery (Certified)
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/stefan-tan
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/stefan-tan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/stefan-tan</a>
 
 
 **Aden Ong**
@@ -249,7 +249,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Singapore
 - IA/IP-Related Expertise: IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations), Dispute Resolution
 - Certifications/Qualifications: Bachelor of Science (Accounting and Finance) - University of London
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/aden-ong
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/aden-ong" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/aden-ong</a>
 
 
 **Richard Barnett**
@@ -259,7 +259,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: New Zealand
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: Bachelor of Science (Mathematics & Physics) - Auckland University (NZ)
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/richard-barnett
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/richard-barnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/richard-barnett</a>
 
 **Brett Kensett-Smith**
 
@@ -268,7 +268,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Australia
 - IA/IP-Related Expertise: IP Strategy Consulting, IP Training, IP Intelligence & Search, Branding Strategy, IP Portfolio Management
 - Certifications/Qualifications: Registered Patent and Trade Marks Attorney (Australia/New Zealand), Bachelor of Science (Hons) - University of Sydney (AUS), Graduate Diploma, Environmental Studies - Macquarie University (AUS), Diploma, Intellectual Property Practice, Academy of IPTA (AUS), Fellow, Institute of Patent & Trademarks Attorneys, Australia (AUS)
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/brett-kensett-smith
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/brett-kensett-smith" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/brett-kensett-smith</a>
 
 **Caitlin Burnett**
 
@@ -278,7 +278,7 @@ CEO & Tech Missionary, OTSAW.
 - IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management  
 - Certifications/Qualifications: Registered Trans-Tasman Patent Attorney (New Zealand & Australia), Fellow of the New Zealand Institute of Patent Attorneys (NZIPA), Bachelor of Engineering (Electronics & Systems) - Victoria University of Wellington, Member of the Intellectual Property Society of Australia and New Zealand Inc (IPSANZ), Ordinary Member of The Institute of Patent and Trade Mark Attorneys of Australia (IPTA)
 - Awards/Accolades: Awarded NZIPA Prize - Highest Mark in Patent Drafting Examinations 2017
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/caitlin-burnett
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/caitlin-burnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/caitlin-burnett</a>
 
 
 **Joel Hanrahan**
@@ -288,7 +288,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: Australia
 - IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Training
 - Certifications/Qualifications: Bachelor of Arts Honours (BA Hons.) - University of New England (Australia), Graduate Diploma in Psychology (GradDipPsych) - University of New England (Australia) 
-- URL of LinkedIn/Company Profile: www.everedgeglobal.com/staff/joel-hanrahan
+- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/joel-hanrahan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/joel-hanrahan</a>
 
 ---
 Profile last updated on 12 June 2023
