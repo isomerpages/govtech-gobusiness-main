@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Flow Wrap Packaging Machine'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1669
 ---
 
-## Automatic Flow Wrap Packaging Machine
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

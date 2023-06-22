@@ -64,23 +64,23 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <td>NTUC LearningHub Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1270' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1265' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
 <td>SFIC Institute Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1298' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1293' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
 <td>Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1299' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1294' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
 <td>Singapore Productivity Centre Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1310' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>
 <td>Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1555' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1545' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
 <td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
 </tr>
 </table>

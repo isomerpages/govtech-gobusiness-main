@@ -1,15 +1,15 @@
 ---
-title: 'Ellie Integrated System Version 2'
+title: 'Swipetask PRO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1349
 ---
 
-## Ellie Integrated System Version 2
+## Swipetask PRO
 
 ## Overview
 
 **Description**
 
-This solution will help to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly. Project Impact: Process is being streamlined, removing the need for double entry of orders by using online ordering and QR code Ordering.
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ This solution will help to streamline the front-end, back-end kitchen preparatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package A (E-Waiter for 1 Users, KDS for 1 Users)</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/supply_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
+<td style='padding: 10px;'>$9,968.00</td>
+<td style='padding: 10px;'>$9,968.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package B (E-Waiter for 2 Users, KDS for 3 Users)</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/supply_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
+<td style='padding: 10px;'>$17,196.00</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package C (Online ordering, E-Waiter for 1 Users, KDS for 1 Users)</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/supply_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
+<td style='padding: 10px;'>$36,388.00</td>
+<td style='padding: 10px;'>$36,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package D (Online ordering, E-Waiter for 2 Users, KDS for 3 Users)</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/supply_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
+<td style='padding: 10px;'>$42,388.00</td>
+<td style='padding: 10px;'>$42,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ellie Integrated System Version 2 - Package E (Online ordering, E-Waiter for 5 Users, KDS for 4 Users)</td>
-<td style='padding: 10px;'>$18,700.00</td>
-<td style='padding: 10px;'>$17,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/supply_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
+<td style='padding: 10px;'>$15,068.00</td>
+<td style='padding: 10px;'>$15,068.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Supply Ellie Pte Ltd<br>Web URL: www.supplyellie.com <br>Contact Hotline: 91200059 <br>Contact Email: davidang@supplyellie.com <br>
+ Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

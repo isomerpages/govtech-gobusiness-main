@@ -1,15 +1,15 @@
 ---
-title: 'Farm Washing System'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution1700
 ---
 
-## Farm Washing System
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Washing system equipped with a combination of spray nozzles and brushes to wash 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

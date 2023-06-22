@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Sowing Machine'
+title: 'Enhanced disinfection system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1691
 ---
 
-## Automatic Seed Sowing Machine
+## Enhanced disinfection system
 
 ## Overview
 
 **Description**
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that sow seeds at a specified depth and position and ensures uniform a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,17 +1,16 @@
 ---
-title: 'Blast Freezer'
+title: 'Flange Facer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1653
 ---
 
-## Blast Freezer
+## Flange Facer
 
 ## Overview
 
 **Description**
 
-Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
-
-Cost of equipment capped at $30,000 per unit
+The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +21,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
 </tr>
 </table>
 

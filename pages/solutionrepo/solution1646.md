@@ -1,17 +1,17 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1646
 ---
 
-## Automated Tray Sealer
+## Static Parcel Dimension, Weight and Scan Equipment
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $21,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'>$21,250.00</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

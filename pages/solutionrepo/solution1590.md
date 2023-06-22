@@ -1,15 +1,15 @@
 ---
-title: 'YUVO'
+title: 'Zeemart Supplier Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution1590
 ---
 
-## YUVO
+## Zeemart Supplier Hub
 
 ## Overview
 
 **Description**
 
-YUVO is an ALL-IN-ONE business productivity & employee engagement platform. YUVO enables companies to manage their workforce, ensure compliance, keep HR processes and onboarding simple as well as measure and enhance employee engagement and performance. YUVO offers digital employee onboarding, workflow management, employee pulse surveys, internal communications supported with AI chatbot, payroll, leave management, claims, time & attendance, and performance appraisal.
+Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ YUVO is an ALL-IN-ONE business productivity & employee engagement platform. YUVO
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Classic HRMS 10</td>
-<td style='padding: 10px;'>$1,600.00</td>
-<td style='padding: 10px;'>$1,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yuvo_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Classic HRMS 25</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yuvo_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
+<td style='padding: 10px;'>$17,500.00</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Classic HRMS 50</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yuvo_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Classic HRMS 100</td>
-<td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yuvo_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Classic HRMS 200</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yuvo_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
+<td style='padding: 10px;'>$29,500.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:YUVO PTE LTD<br>Web URL: www.yuvohub.com <br>Contact Hotline: 96675174 <br>Contact Email: admin@yuvohub.com 
+ Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

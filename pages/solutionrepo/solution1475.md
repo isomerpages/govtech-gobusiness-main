@@ -1,18 +1,15 @@
 ---
-title: 'QuickBooks Online Version 1'
+title: 'Digital Fund Manager Compliance powered by Palmyra'
 permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 
-## QuickBooks Online Version 1
+## Digital Fund Manager Compliance powered by Palmyra
 
 ## Overview
 
 **Description**
 
-1) Quick setup & onboarding with in accordance to clients' specific workflows.
-2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
-3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
-4) Efficient processing & recording of expenses claims into QuickBooks Online.
+Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
 
 ## Solution Packages Option(s)
 
@@ -26,48 +23,34 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1475
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
+<td style='padding: 10px;'>$130,000.00</td>
+<td style='padding: 10px;'>$85,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Basic</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,168.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
+<td style='padding: 10px;'>$180,000.00</td>
+<td style='padding: 10px;'>$105,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Advance</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,468.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
-<td style='padding: 10px;'>$5,580.00</td>
-<td style='padding: 10px;'>$4,768.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Advance</td>
-<td style='padding: 10px;'>$6,380.00</td>
-<td style='padding: 10px;'>$5,568.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
+<td style='padding: 10px;'>$220,000.00</td>
+<td style='padding: 10px;'>$130,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Value Consultancy (Singapore) Pte. Ltd.<br>Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
+ Company name:Vermeg International Singapore Pte. Limited<br>Web URL: www.vermeg.com <br>Contact Hotline: 67201012 <br>Contact Email: nmohankumar@vermeg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

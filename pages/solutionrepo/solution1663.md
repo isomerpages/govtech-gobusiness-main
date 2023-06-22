@@ -1,16 +1,25 @@
 ---
-title: 'Flange Facer'
+title: 'Automated tools management system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1663
 ---
 
-## Flange Facer
+## Automated tools management system
 
 ## Overview
 
 **Description**
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
-Cost of equipment capped at $37,500 per unit 
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Cost of equipment capped at $28,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -21,9 +30,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
 </tr>
 </table>
 

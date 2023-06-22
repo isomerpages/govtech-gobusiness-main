@@ -1,17 +1,17 @@
 ---
-title: 'Bristle Blaster / Cup Brush / Power Brush'
+title: 'Automated Labelling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1665
 ---
 
-## Bristle Blaster / Cup Brush / Power Brush
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $3,000 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $3,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
 </tr>
 </table>
 

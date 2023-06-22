@@ -1,15 +1,15 @@
 ---
-title: 'Automated Vaccination'
+title: 'Conveyor System for transporting materials'
 permalink: /productivity-solutions-grant/solutionrepo/solution1683
 ---
 
-## Automated Vaccination
+## Conveyor System for transporting materials
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

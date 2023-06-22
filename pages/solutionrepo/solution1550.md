@@ -1,15 +1,15 @@
 ---
-title: 'WhyzeHR Version 12'
+title: 'EZYSALES RETAIL POS Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1550
 ---
 
-## WhyzeHR Version 12
+## EZYSALES RETAIL POS Version 1.0
 
 ## Overview
 
 **Description**
 
-Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
+EzySales Retail POS accord Integrated Retail businesses. The solution is designed to enhance retail stores day-to-day operations in a more efficient way. The solution helps businesses to generate consistent and customizable reports in an instant. EzySales Retail POS support multi-store management with utmost ease. The solution is flexible to use and provides reliable, secure, accurate and fast payment methods. The solution offers seamless integrations and add-ons.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 25</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LIMITED VERSION</td>
+<td style='padding: 10px;'>$6,850.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 50</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'>$5,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 100</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 200</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD PLUS 150</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PROFESSIONAL VERSION</td>
+<td style='padding: 10px;'>$11,650.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Whyze Solutions is a HR & Payroll solution provider based in Singapore since 200
 
 ## Vendor Information
 
- Company Name: Whyze Solutions Pte Ltd<br>Web URL: https://whyze.com.sg/escheduling/ <br><br>Contact Hotline: 68380161 <br><br>Contact Email: enquiry@whyze.com.sg <br><br>
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

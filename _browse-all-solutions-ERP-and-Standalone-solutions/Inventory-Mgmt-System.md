@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1257' target='_blank'>RFID Inventory Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1252' target='_blank'>RFID Inventory Management System</a><br></td>
 <td>SATO Asia Pacific Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1465' target='_blank'>AIMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1455' target='_blank'>AIMS</a><br></td>
 <td>TUNITY TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Taidii SMART IT Solution for Preschool (PMS + E-form)'
+title: 'Taidii Smart E-Form Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1371
 ---
 
-## Taidii SMART IT Solution for Preschool (PMS + E-form)
+## Taidii Smart E-Form Solution
 
 ## Overview
 
 **Description**
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas. The solution covers most of the operational perspectives of the school such as attendance taking, parent-school communication, E-enrollment, E-form and finance. The product will help the schools to reduce 70% of administrative time and the overall time taken for parent-school communication can be reduced about 50%.
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Taidii is a company providing integrated solution to all the educational institu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Premium</td>
-<td style='padding: 10px;'>$13,400.00</td>
-<td style='padding: 10px;'>$13,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Standard</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Economy</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Basic</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii SMART IT Solution for Preschool (PMS + E-form) - Advance</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

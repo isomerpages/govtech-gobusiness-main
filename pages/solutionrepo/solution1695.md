@@ -1,15 +1,15 @@
 ---
-title: 'Culture Tank System with Monitoring and Control System'
+title: 'Inoculation Cabinet (Laminar flow cabinet)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1695
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Inoculation Cabinet (Laminar flow cabinet)
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Cultivation system with monitoring and control system
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

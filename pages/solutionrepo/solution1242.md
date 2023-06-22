@@ -1,19 +1,15 @@
 ---
-title: 'Royal Management Services XERO ACCOUNTING'
+title: 'Roycemedia Cybersecurity-Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Royal Management Services XERO ACCOUNTING
+## Roycemedia Cybersecurity-Firewall
 
 ## Overview
 
 **Description**
 
-Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
-
-We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
-
-The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ## Solution Packages Option(s)
 
@@ -27,48 +23,48 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
-<td style='padding: 10px;'>$728.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
-<td style='padding: 10px;'>$1,928.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'>$2,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
-<td style='padding: 10px;'>$3,528.00</td>
-<td style='padding: 10px;'>$3,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 4 - Fortigate 101F</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
-<td style='padding: 10px;'>$4,128.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
+ Company Name: Roycemedia Technologies Pte Ltd<br>Web URL: www.roycemedia.com/products.html <br><br>Contact Hotline: 63232139 <br><br>Contact Email: sales@roycemedia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
