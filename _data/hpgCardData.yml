@@ -28,7 +28,7 @@
   text_3: Submit returns
   href_4: '/licences/find-licence-by-sector/?src=home_quicklinks'
   text_4: Licence guides
-  href_5: 'https://dashboard.gobusiness.gov.sg/verify-licence/?src=home_quicklinks'
+  href_5: 'https://dashboard.gobusiness.gov.sg/verify-licence?src=home_quicklinks'
   text_5: Verify entity's licence
   is_new_5: true
   target_5: _blank
