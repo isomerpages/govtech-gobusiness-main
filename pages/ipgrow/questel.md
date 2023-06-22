@@ -231,7 +231,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vivianechilton" target="_blank" rel="noopener">https://www.linkedin.com/in/vivianechilton</a>
 
-** Jeferson Staelens**
+**Jeferson Staelens**
 
 - Job Title: Senior IP & LegalTech Consultant
 - Years of Experience: 6 years

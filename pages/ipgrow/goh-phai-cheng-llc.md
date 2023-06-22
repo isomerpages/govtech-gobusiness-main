@@ -77,16 +77,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 15%	
- - China - 15%	
- - Australia - 15%	
- - Canada - 10%	
- - Philippines - 10%	
- - Malaysia - 5%	
- - India - 5%	
- - Vietnam - 5%	
- - Israel - 5%	
- - Other Countries - 15%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 15%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Canada - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Philippines - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Vietnam - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Israel - 5%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Other Countries - 15%</li></ul>
 
 ---
 <a name='testimonials'></a>

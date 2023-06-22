@@ -205,7 +205,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 - Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore's 18 most influential lawyers under 40
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/esther-wee-23b38b18" target="_blank" rel="noopener">https://www.linkedin.com/in/esther-wee-23b38b18</a>
 
-** Philip Fong**
+**Philip Fong**
 
 - Job Title: Managing Partner & Head of Litigation and Dispute Management
 - Years of Experience: 28 years

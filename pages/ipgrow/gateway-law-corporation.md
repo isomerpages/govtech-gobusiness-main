@@ -115,11 +115,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%
- - United States - 20%	
- - Malaysia - 10%	
- - China - 10%	
- - United Kingdom - 10%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 20%	</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 10%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 10%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>

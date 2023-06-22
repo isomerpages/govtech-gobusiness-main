@@ -173,7 +173,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 - Awards/Accolades: Chambers (Asia-Pacific Guide 2023) Band 1 in "Intellectual Property: Domestic: Litigation", World Trademark Review WTR 1000 2023 - Silver for "Individuals: Enforcement & Litigation", Managing IP - IP Stars Awards 2022 - Recipient of "Patent Star" and "Trade Mark Star"
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/tant" target="_blank" rel="noopener">https://www.leenlee.com.sg/tant</a>
 
-**Zechariah, Chan **
+**Zechariah, Chan**
 
 - Job Title: Partner, Intellectual Property
 - Years of Experience: 20 years

@@ -76,7 +76,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore;100%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore -100%</li></ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
