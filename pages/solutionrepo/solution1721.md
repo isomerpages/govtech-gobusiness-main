@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution1721
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

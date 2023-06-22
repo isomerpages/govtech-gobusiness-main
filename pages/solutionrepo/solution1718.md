@@ -1,15 +1,15 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'Packing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1718
 ---
 
-## Farm Produce Washing Machine
+## Packing machine
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

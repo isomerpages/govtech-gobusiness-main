@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1715
 ---
 
-## Sterilizer Equipment
+## HVAC system
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'SPTel-Fortinet-Managed Firewall Solutions'
+title: 'MSSP for Asset Based Cyber Defence Version 1.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1811
 ---
 
-## SPTel-Fortinet-Managed Firewall Solutions
+## MSSP for Asset Based Cyber Defence Version 1.2
 
 ## Overview
 
 **Description**
 
-SPTel's Managed Firewall solution offers the best in next generation firewall (NGFW) protection for SMEs. The Fortigate F-series firewall provides superior performance with a simple management interface. It uses the AI-powered FortiGuard security service to identify multiple threats and vulnerabilities for round-the-clock protection with threat intelligence. For added security, SPTel's network is monitored and supported by a 24 X 7 Integrated Network Operation Center located in Singapore.
+TOFFS MSSP for Asset Based Cyber Defence provides 24x7 managed cybersecurity services based on CSA Cyber Essential/Trust mark framework. We equip and train the organisation to Identify, Secure, Protect and Update the Assets. Through onboarding the programme, organisations can work towards attaining the CSA Cyber Essentials Mark certification and meet the compliance cybersecurity requirements of PDPA, MAS TRM and MOH advisories etc.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Mini with Next Day Business Support</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Lite with Next Day Business Support</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Small with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$31,700.00</td>
+<td style='padding: 10px;'>$31,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$7,742.16</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Medium with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$39,700.00</td>
+<td style='padding: 10px;'>$39,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) Internet & Malware Defence SME Large with 24 x 7 Managed Support</td>
+<td style='padding: 10px;'>$44,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br>Contact Hotline: 69826888 <br>Contact Email: enquiry@sptel.com <br>
+ Company Name: Toffs Technologies Pte Ltd<br>Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation & Dosing System'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1684
 ---
 
-## Automated Irrigation & Dosing System
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

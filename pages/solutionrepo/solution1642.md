@@ -1,18 +1,20 @@
 ---
-title: 'Vertical Carousel'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1642
 ---
 
-## Vertical Carousel
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -23,9 +25,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Unit height: min. 2.5m<br>Carrier tray width: min. 1.3m<br>Load capacity per tray: min. 150kg<br>With operator Interface (Console)<br>With software linked to Inventory Management System<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Manure Treatment System'
+title: 'Vacuum Cooler Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1707
 ---
 
-## Manure Treatment System
+## Vacuum Cooler Equipment
 
 ## Overview
 
 **Description**
 
-A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A treatment system that results in a final product which is germ-free and allows
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

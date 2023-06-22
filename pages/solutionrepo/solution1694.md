@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Humidifier Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1694
 ---
 
-## Crate/ Tray washing machine
+## Humidifier Equipment
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

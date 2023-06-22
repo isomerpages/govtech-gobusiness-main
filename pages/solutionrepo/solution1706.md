@@ -1,15 +1,15 @@
 ---
-title: 'Live Pump'
+title: 'Substrate Mixing and Packing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1706
 ---
 
-## Live Pump
+## Substrate Mixing and Packing Machine
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Substrate Mixing and Packing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

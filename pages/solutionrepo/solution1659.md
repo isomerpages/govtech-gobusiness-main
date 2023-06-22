@@ -1,15 +1,15 @@
 ---
-title: 'Laser Geometric Alignment System'
+title: 'Automatic Flow Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1659
 ---
 
-## Laser Geometric Alignment System
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
 Cost of equipment capped at $37,500 per unit
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 

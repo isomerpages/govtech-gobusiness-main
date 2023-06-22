@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Feeding/ Drinking System'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1688
 ---
 
-## Automatic Feeding/ Drinking System
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that automates the feeding/ drinking process at a predetermined time an
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

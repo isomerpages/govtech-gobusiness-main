@@ -1,15 +1,15 @@
 ---
-title: 'Ear Tagging Machine'
+title: 'Manure Treatment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1697
 ---
 
-## Ear Tagging Machine
+## Manure Treatment System
 
 ## Overview
 
 **Description**
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

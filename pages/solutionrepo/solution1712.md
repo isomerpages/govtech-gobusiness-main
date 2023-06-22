@@ -1,15 +1,15 @@
 ---
-title: 'Recirculating Aquaculture System'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1712
 ---
 
-## Recirculating Aquaculture System
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A production system with reduced water exchange and use of biofiltration / envir
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

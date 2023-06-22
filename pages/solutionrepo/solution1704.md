@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Solar Panels System and Energy Storage System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1704
 ---
 
-## Humidifier Equipment
+## Solar Panels System and Energy Storage System
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solar Panels System and Energy Storage System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

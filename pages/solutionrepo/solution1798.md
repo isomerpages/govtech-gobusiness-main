@@ -1,15 +1,17 @@
 ---
-title: 'DM APEC Solutions Digital Marketing Packages'
+title: 'Deskera ERP Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1798
 ---
 
-## DM APEC Solutions Digital Marketing Packages
+## Deskera ERP Version 10
 
 ## Overview
 
 **Description**
 
-APEC Solutions is a full-stack digital marketing company which is wholly owned by a corporation listed on the Singapore Exchange (SGX) dedicated to helping businesses innovate and flourish through our suite of digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - To help businesses create brand awareness, build social currency, drive site traffic, and increase value proposition across multiple digital channels.
+SF Technologies Pte Ltd is a Platinum Channel Partner of Deskera providing expertise in digitalizing business and support in digital transformation.
+
+Deskera is an integrated platform that enables SMEs to scale faster with fewer tools. From convenience stores to manufacturing plants, hundreds of thousands of small and medium enterprises use Deskera to manage accounting, inventory, sales pipeline, and marketing automation.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,34 @@ APEC Solutions is a full-stack digital marketing company which is wholly owned b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 1 - SEM & SEO (3 Months)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (3 Licenses - up to 18 Users)</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 2 - SEO & SMM & SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (5 Licenses - up to 30 Users)</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 3 - SMM & SEM (3 Months)</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 4- SMA & SEM (6 Months)</td>
-<td style='padding: 10px;'>$11,440.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM APEC Solutions Digital Marketing Packages - Package 5 - SEM & SEO (6 Months)</td>
-<td style='padding: 10px;'>$12,100.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (10 Licenses - up to 60 Users)</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 69925334<br>Contact Email: general@apecsolutions.com <br>
+ Company name:SF TECHNOLOGIES PTE. LTD.<br>Web URL: https://sftechnologies.co/deskera <br>Contact Hotline: 81334739 <br>Contact Email: info@sftechnologies.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

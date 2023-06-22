@@ -1,15 +1,15 @@
 ---
-title: 'Dining Butler Version 1.3'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1287
 ---
 
-## Dining Butler Version 1.3
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-Dining Butler provides an end to end solution for F&B that covers the following modules 1) mobile ordering 2) POS operations 3) kitchen management 4) waiter management 5) backend item management 6) CRM 7) inventory 8) reports
+EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Dining Butler provides an end to end solution for F&B that covers the following 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 1</td>
-<td style='padding: 10px;'>$2,388.00</td>
-<td style='padding: 10px;'>$2,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 2</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 3</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 4</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 5</td>
-<td style='padding: 10px;'>$7,288.00</td>
-<td style='padding: 10px;'>$7,288.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EzyProcure Version 2.0 - e-procurement system for Wholesalers/Suppliers</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E-business_Desensitised_Annex_3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Singapore Dining Butler Pte Ltd<br>Web URL: diningbutler.com <br>Contact Hotline: 83687413 <br>Contact Email: enquiry@diningbutler.com 
+ Company Name: Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br><br>Contact Hotline: 62008021 <br><br>Contact Email: info@sgebiz.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

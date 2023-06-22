@@ -60,7 +60,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Refine Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1265' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1260' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>Sequoia Pte Ltd</td>
 </tr>
 </table>

@@ -64,11 +64,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1378' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1373' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1867' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1857' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 </table>

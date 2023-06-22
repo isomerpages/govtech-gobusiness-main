@@ -1,17 +1,17 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Automatic Nut Splitter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1657
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Automatic Nut Splitter
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
 
-Cost of equipment apped at $37,500 per unit 
+Cost of equipment capped at $7,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment apped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

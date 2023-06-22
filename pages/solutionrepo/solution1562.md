@@ -1,15 +1,17 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'Xintesys Sales and Inventory Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1562
 ---
 
-## Microsoft Dynamics 365 Business Central
+## Xintesys Sales and Inventory Management Solution
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps SMEs integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM, InvoiceNOW) and optionally one of the advanced modules (Essential license - Projects. Premium license -  After Sales Service or Manufacturing)
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,27 @@ Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package A (5 Essential Subscription Licenses)</td>
-<td style='padding: 10px;'>$29,990.00</td>
-<td style='padding: 10px;'>$27,390.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package B (10 Essential, 2 TM Subscription Licenses)</td>
-<td style='padding: 10px;'>$36,358.40</td>
-<td style='padding: 10px;'>$33,758.40</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package C (9 Essential, 2 TM Perpetual Licenses)</td>
-<td style='padding: 10px;'>$42,982.00</td>
-<td style='padding: 10px;'>$40,382.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package D (11 Premium, 2 TM Subscription Licenses)</td>
-<td style='padding: 10px;'>$54,118.40</td>
-<td style='padding: 10px;'>$42,718.40</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BC Package E (7 Premium Perpetual Licenses)</td>
-<td style='padding: 10px;'>$54,594.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/winspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Pack (10 users)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$19,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Winspire Solutions Pte Ltd<br>Web URL: https://winspiresolutions.com/microsoft-dynamics-365-business-central/ <br>Contact Hotline: 98357900 <br>Contact Email: jkulkarni@winspiresolutions.com
+ Company name:Xintesys Consultancy Pte Ltd<br>Web URL: https://xintesys.com/xintesys-demo/ <br>Contact Hotline: 62721237 <br>Contact Email: solutions@xintesys.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,46 +1,30 @@
 ---
-title: 'ZETTAPPS Finance & Order Processing Version 4.5'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1612
 ---
 
-## ZETTAPPS Finance & Order Processing Version 4.5
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
-<td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'>$18,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Payload modules to lift trolleys Minimum  150kg load<br>- Min. load surface: 720x600mm<br>- 1-1.2m/s driving with spot turning<br>- Battery: Min. 4h, ~8h standby, ~4h charging<br>- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
 </tr>
 </table>
 
@@ -48,10 +32,6 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

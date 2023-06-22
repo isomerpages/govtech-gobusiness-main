@@ -1,15 +1,15 @@
 ---
-title: 'Pasteurisation Equipment/ Plant'
+title: 'Water Treatment System for Water Recirculation or Discharge'
 permalink: /productivity-solutions-grant/solutionrepo/solution1710
 ---
 
-## Pasteurisation Equipment/ Plant
+## Water Treatment System for Water Recirculation or Discharge
 
 ## Overview
 
 **Description**
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
