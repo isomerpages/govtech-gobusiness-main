@@ -45,10 +45,10 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 
 ### For verifying a licence or accreditation
 
-- [Licence Verifier](https://dashboard.gobusiness.gov.sg/verify-licence){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [Licence Verifier](https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>Find out if a company or person has a licence by doing a search.
 
-- [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+- [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>Find out if a company or person has a Progressive Wage (PW) Mark by doing a search.
 
 ### For organising events
