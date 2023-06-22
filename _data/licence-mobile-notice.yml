@@ -1,5 +1,8 @@
 - image: <img src="/images/laptop.svg" aria-hidden="true">
-  title: Please use desktop/ laptop to apply for this licence.
+  title: Please use desktop / laptop to apply for this licence.
   description: You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.
   url: "https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136"
   text: Continue to GoBusiness Licencing Anyway
+
+- image: <img src="/images/laptop.svg" aria-hidden="true">
+  title: Please use desktop / laptop to apply for this licence.
