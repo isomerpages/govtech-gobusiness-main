@@ -7,11 +7,11 @@
   href_2: '/home-based-businesses/determine-your-home-business-scheme/?src=home_quicklinks'
   text_2: How to start a home-based business
   is_new_2: false
-  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
+  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness?src=home_quicklinks'
   target_3: _blank
   text_3: 'e-Adviser: Register new business'
   is_new_4: false
-  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
+  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=home_quicklinks'
   text_4: 'e-Adviser: Pick a business structure'
   target_4: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
@@ -37,7 +37,7 @@
   href_1: /gov-assist/budget-announcement-for-businesses/
   text_1: Budget 2023
   is_new_1: false
-  href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
+  href_2: 'https://eadviser.gobusiness.gov.sg/govassist?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank
   href_3: '/productivity-solutions-grant/?src=home_quicklinks'

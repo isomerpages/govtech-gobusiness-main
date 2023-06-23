@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution922
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business' online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
 
 With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
 

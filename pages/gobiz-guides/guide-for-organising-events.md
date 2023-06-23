@@ -26,4 +26,4 @@ Are you an event organiser organising Sports, MICE, Arts/Culture, and/or Busines
 
 The e-Adviser for Events is designed to help you understand which licences and permits you need to organise your event. Answer questions about the nature of your event, and receive personalised recommendations for licences. From there, you can access the relevant application forms directly.
 
-{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.gobusiness.gov.sg/events/?src=guide-for-organising-events" type="primary" %}
+{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events" type="primary" %}
