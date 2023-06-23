@@ -102,7 +102,7 @@ infringement of patents.</td>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPBrokerageandLicensingIcon.png' aria-hidden='true'> <a href='/intellectual-property/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/' target='_blank'>IP Brokerage and Licensing</a></td>
+<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPBrokerageandLicensingIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/' target='_blank'>IP Brokerage and Licensing</a></td>
 <td>Connects buyers and sellers of IP and manages the deal activities, e.g. purchase, sale, license, or marketing of IP assets. This includes developing licensing and franchising packages.</td>
 </tr>
 <tr>
