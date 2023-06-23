@@ -28,7 +28,7 @@ By leveraging IP information, your business can make informed decisions about th
 
 There are public IP databases that you can tap on to perform your analyses. Performing IP searches can be complex and technical, especially for patent searches. If you are not familiar with performing IP searches and analytics, you can engage IP intelligence and search professionals to perform the analyses on your behalf, saving you a lot of time. 
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP intelligence and search services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP intelligence and search services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" text="Go to e-Adviser for IP Service"%}
 
 ---
 
@@ -39,7 +39,7 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP intelligence and search service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Providers"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP intelligence and search service providers" description="Find suitable service providers based on your business size, budget, and other considerations." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" text="Go to e-Adviser for IP Service Providers"%}
 
 #### Questel
 

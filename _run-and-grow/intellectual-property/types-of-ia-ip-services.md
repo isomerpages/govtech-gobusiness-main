@@ -6,7 +6,7 @@ third_nav_title: Intellectual Property
 
 ## Types of IA/IP Services
 
-There are many intangible assets (IA) and intellectual property (IP) services business will require as it innovate, transform, and grow. 
+There are many intangible assets (IA) and intellectual property (IP) services a business will require as it innovates, transforms, and grows. 
 
 GoBusiness IP Grow features 20 IA/IP services grouped into 4 key categories. Click on each IA/IP service to view a list of service providers.
 
@@ -14,7 +14,7 @@ GoBusiness IP Grow features 20 IA/IP services grouped into 4 key categories. Cli
 
 ---
 
-{% include panel-stretched-featurelink.html image="<img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for your IA/IP service needs" description="Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice/?src=ipgrow_patentagent" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for your IA/IP service needs" description="Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice" text="Go to e-Adviser for IP Service"%}
 
 <a name='ip-search-and-registration'></a>
 

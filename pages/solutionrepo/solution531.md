@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution531
 
 Duo Studio is a local independent creative agency established in 2015 by founder and creative director, Stephanie Phua. Today, Duo is made up of 20+ young and nimble members in Singapore and Malaysia.
 
-Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business's revenue so as to provide a high ROI and ROAS.
+Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business' revenue so as to provide a high ROI and ROAS.
 
 ## Solution Packages Option(s)
 
