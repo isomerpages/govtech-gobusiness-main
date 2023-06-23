@@ -27,7 +27,7 @@ Use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?
 
 ### Be matched with suitable IA/IP service providers
 
-Use the [e-Adviser for IP Service Providers](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=start_nextstep_ip){:target="_blank"}{:rel="noopener"} to get personalised recommendations for service providers relevant to your IP needs and preferences.
+Use the [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=start_nextstep_ip){:target="_blank"}{:rel="noopener"} to get personalised recommendations for service providers relevant to your IP needs and preferences.
 
 ### Browse comprehensive IA/IP service directories
 
