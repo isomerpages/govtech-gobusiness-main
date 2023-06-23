@@ -14,7 +14,7 @@ GoBusiness IP Grow features 20 IA/IP services grouped into 4 key categories. Cli
 
 ---
 
-{% include panel-stretched-featurelink.html image="<img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for your IA/IP service needs" description="Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice" text="Go to e-Adviser for IP Service"%}
+{% include panel-stretched-featurelink.html image="<img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for your IA/IP needs" description="Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 <a name='ip-search-and-registration'></a>
 
@@ -22,7 +22,7 @@ GoBusiness IP Grow features 20 IA/IP services grouped into 4 key categories. Cli
 
 <table>
 <tr>
-<th style='width: 40%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>IA/IP Service</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ infringement of patents.</td>
 <td>Provides services relating to trade mark registration, such as trade mark search and filing services, including advice on filing strategies.</td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left; margin-right:10px;' src='/images/ipgrow/ipservices/FreedomtooperateIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate--fto--service/' target='_blank'>Freedom-To-Operate (FTO) Service</a></td>
+<td><img style='width:59px; height:auto; float:left; margin-right:10px;' src='/images/ipgrow/ipservices/FreedomtooperateIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/freedom-to-operate/' target='_blank'>Freedom-To-Operate</a></td>
 <td>Conducts patent-specific search and analysis to provide an opinion on whether a product or service infringes on a third party's patent rights.</td>
 </tr>
 <tr>
@@ -52,8 +52,8 @@ infringement of patents.</td>
 </td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPWatchIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/ip-watch-service/' target='_blank'>IP Watch Service</a></td>
-<td>Provides services to proactively monitor business and IP-related activities of competitors, e.g., launch of products or services, IP registrations, assignments, sale, as well as the activities of counterfeiters and presence of potentially infringing products and services.</td>
+<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPWatchIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/ip-search-and-registration/ip-watch/' target='_blank'>IP Watch</a></td>
+<td>Provides services to proactively monitor business and IP-related activities of competitors, e.g. launch of products or services, IP registrations, assignments, sale, as well as the activities of counterfeiters and presence of potentially infringing products and services.</td>
 </tr>
 </table>
 
@@ -63,7 +63,7 @@ infringement of patents.</td>
 
 <table>
 <tr>
-<th style='width: 40%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>IA/IP Service</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
@@ -98,12 +98,12 @@ infringement of patents.</td>
 
 <table>
 <tr>
-<th style='width: 40%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>IA/IP Service</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
 <td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPBrokerageandLicensingIcon.png' aria-hidden='true'> <a href='/intellectual-property/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/' target='_blank'>IP Brokerage and Licensing</a></td>
-<td>Connects buyers and sellers of IP and manages the deal activities, e.g., purchase, sale, license, or marketing of IP assets. This includes developing licensing and franchising packages.</td>
+<td>Connects buyers and sellers of IP and manages the deal activities, e.g. purchase, sale, license, or marketing of IP assets. This includes developing licensing and franchising packages.</td>
 </tr>
 <tr>
 <td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/IPMarketplaceIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Marketplace/' target='_blank'>IP Marketplace</a></td>
@@ -114,7 +114,7 @@ infringement of patents.</td>
 <td>Advises on tax matters in view of IP and IA considerations.</td>
 </tr>
 <tr>
-<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/ValuationIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/Valuation-Service--with-IA-IP-considerations-/' target='_blank'>Valuation Service (with IA/IP considerations)</a></td>
+<td><img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/ipgrow/ipservices/ValuationIcon.png' aria-hidden='true'> <a href='/intellectual-property/ip-grow/Commercialisation-and-Financing/Valuation--with-IA-IP-considerations-/' target='_blank'>Valuation (with IA/IP considerations)</a></td>
 <td>Assesses the monetary value of IP assets for specific purposes or triggered by specific events, e.g. IP transactions, mergers and acquisitions, IPO, tax.</td>
 </tr>
 </table>
@@ -125,7 +125,7 @@ infringement of patents.</td>
 
 <table>
 <tr>
-<th style='width: 40%;'><b>Service Name</b></th>
+<th style='width: 40%;'><b>IA/IP Service</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
