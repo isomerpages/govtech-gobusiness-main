@@ -1,0 +1,44 @@
+<style>
+  .content a.content-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    display: block;
+    padding: 12.5px 24px;
+    margin-bottom: 0;
+    text-decoration: none;
+    color: white;
+    background-color: #037e8a;
+    border-radius: 3px;
+    border: 1px solid #037e8a;
+    cursor: pointer;
+    width: fit-content;
+    width: -moz-fit-content;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .content a.content-btn:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  .content a.content-btn:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  .content a.content-btn:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
+  /* Mobile view style, hide button */
+    @media (max-width: 768px) {
+      .content .panels {
+        display: none;
+      }
+  }
+</style>
+
+<a class="content-btn" href="{{ include.src }}" target="_blank" rel="noopener">
+  {{ include.text }}
+</a>

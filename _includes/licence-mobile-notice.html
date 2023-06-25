@@ -2,7 +2,6 @@
   .content .panels {
       display: grid;
       grid-gap: 20px;
-      grid-template-columns: 1fr 1fr;
       margin: 24px 0;
   }
 
@@ -16,6 +15,7 @@
       padding: 24px;
       word-break: break-word;
       grid-auto-rows: auto;
+      grid-auto-columns: 1fr;
   }
 
   .content .panel .panel-image {
@@ -63,8 +63,9 @@
       margin: 0;
   }
 
+  /* Desktop view style, hide panel */
   @media (min-width: 768px) {
-      .content .panels {
+      .content .panel {
         display: none;
       }
   }
