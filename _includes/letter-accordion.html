@@ -86,7 +86,7 @@
       color: #037E8A;
   }
 
-  /* Mobile View, Show Grey Panel */
+  /* Mobile View, Show Grey Notice */
   @media only screen and (max-width: 768px) {
     #mobileNotice {
         display: flex;
@@ -94,18 +94,17 @@
     }
   }
 
-  /* Desktop View, hide Grey panel */
+  /* Desktop View, hide Grey Notice */
   @media (min-width: 768px) {
       #mobileNotice {
         display: none;
       }
   }
 
-    /* Mobile View, Hide Green panel */
+    /* Mobile View, Hide Green Button for apply */
     @media only screen and (max-width: 768px) {
     #desktopNotice {
-      display: flex;
-      align-items: flex-start;
+      display: none;
     }
   }
 
@@ -113,6 +112,8 @@
   @media (min-width: 768px) {
       #desktopNotice {
         display: none;
+        display: flex;
+        align-items: flex-start;
       }
   }
   
