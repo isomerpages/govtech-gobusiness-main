@@ -85,6 +85,37 @@
   ul.jekyllcodex_accordion li:hover label {
       color: #037E8A;
   }
+
+  /* Mobile View, Show Grey Panel */
+  @media only screen and (max-width: 768px) {
+    #mobileNotice {
+        display: flex;
+        align-items: flex-start;
+    }
+  }
+
+  /* Desktop View, hide Grey panel */
+  @media (min-width: 768px) {
+      #mobileNotice {
+        display: none;
+      }
+  }
+
+    /* Mobile View, Hide Green panel */
+    @media only screen and (max-width: 768px) {
+    #desktopNotice {
+      display: flex;
+      align-items: flex-start;
+    }
+  }
+
+  /* Desktop View, Show Green panel */
+  @media (min-width: 768px) {
+      #desktopNotice {
+        display: none;
+      }
+  }
+  
 </style>
 
 <ul class="jekyllcodex_accordion">
