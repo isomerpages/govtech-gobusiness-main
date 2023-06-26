@@ -9,9 +9,10 @@
         
         <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;
 
-        <span style="background: #F9FAFA; border-radius: 5px; width: auto; height: 60px; padding: 24px 8px; font-family: hknova-regular; font-size: 24px; line-height: 27px; 
+        <span style="background: #F9FAFA; border-radius: 5px; width: auto; height: 60px; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; line-height: 27px; 
         color: #313840; display: flex; vertical-align: middle;">
-        <img src="/images/laptop.svg" alt=""> Please use laptop / desktop to apply for this Licence. 
+        <img src="/images/laptop.svg" alt="" style="width: 20%;"><br>
+        <span style ="font-weight: bold;"> Please use laptop / desktop to apply for this Licence.<span>
         </span>
         
         [View Licence Details](/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore)
