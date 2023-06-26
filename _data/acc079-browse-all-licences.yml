@@ -9,7 +9,7 @@
         
         <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;
 
-        <div class = mobilePanel> <img src="/images/laptop.svg" alt="" style="width: 20%; align-self: flex-start;>
+        <div class = mobilePanel> <img src="/images/laptop.svg" alt="" style="width: 20%; align-self: flex-start;">
            <span>Please use desktop / laptop to apply for this licence.</span>
         </div>
 
