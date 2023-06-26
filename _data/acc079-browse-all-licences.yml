@@ -9,13 +9,11 @@
         
         <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>&emsp;
 
-        <span style="background: #F9FAFA; id="mobileNotice"; border-radius: 1px; width: 272px; height: 177px; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; line-height: 27px; color: #313840; display: flex; flex-direction: column; align-items: flex-start;">
+        <span style="background: #F9FAFA; border-radius: 1px; width: 272px; height: 177px; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; line-height: 27px; color: #313840; display: flex; flex-direction: column; align-items: flex-start;" id="mobileNotice">
             <img src="/images/laptop.svg" alt="" style="width: 20%; align-self: flex-start; float: left;">
             <span style="align-self: flex-start; font-weight: bold;">Please use desktop / laptop to apply for this Licence.</span>
         </span>
-
         [View Licence Details](/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore)
-
         -----
         **Free Sale Certificate (Vaccine)**
 
