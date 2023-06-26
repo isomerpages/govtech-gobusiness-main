@@ -88,7 +88,7 @@
 
   /*****************Codes below are for Mobile Notice Panel*****************/
 
-    /* Mobile View, Hide Green Button for apply */
+    /* Mobile View, Hide Green Button and show Grey Notice */
     @media only screen and (max-width: 768px) {
     #desktopNotice {
       display: none;
@@ -99,11 +99,10 @@
     }
   }
 
-  /* Desktop View, Show Green panel */
+  /* Desktop View, Show Green panel and hide Grey Notice*/
   @media (min-width: 768px) {
       #desktopNotice {
-        display: none;
-        display: flex;
+        display: inline-block;
         align-items: flex-start;
       }
       #mobileNotice {
