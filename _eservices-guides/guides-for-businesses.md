@@ -43,6 +43,11 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 - [More Licence e-Advisers](/licences/find-licence-by-sector/?src=eservices_guidesforbiz)
   <br>Browse the full directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 
+### For verifying an accreditation
+
+- [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>Find out if a company or person has a Progressive Wage (PW) Mark by doing a search.
+
 ### For organising events
 
 The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbiz'>Guide for Organising Events</a> provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Box.
