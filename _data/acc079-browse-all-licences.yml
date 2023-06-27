@@ -11,7 +11,7 @@
 
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; color: #313840;">
         <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-        <span style="font-weight: bold;">Please use laptop / desktop to apply for this Licence.</span>
+        <span style="font-weight: bold;">Please use desktop / laptop to apply for this licence.</span>
         </div>
         <a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">View Licence Details</a>
 
