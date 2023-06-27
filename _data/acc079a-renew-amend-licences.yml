@@ -5,11 +5,7 @@
       content: |
         | **Licence Name** | **Log In To** |
         |Certificate of Freedom From Disease Within Singapore|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; color: #313840;">
-        <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-        <span style="font-weight: bold;">Please use desktop / laptop to apply for this licence.</span>
-        </div>
-        <a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">Continue to GoBusiness Licencing Anyway</a>|
+        <br><br><div id="mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 8px; font-family: hknova-regular; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold;">Please use desktop / laptop to apply for this licence.</span></div><a href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">Continue to GoBusiness Licencing Anyway</a>|
         |Free Sale Certificate (Vaccine)|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Health Certificate for Export of Ornamental Fish|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
         |Licence for Animal Exhibition|[GoBusiness Licensing](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action){:target="_blank"}{:rel="noopener"}|
