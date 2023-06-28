@@ -4,11 +4,11 @@ collections:
     order:
       - overview.md
       - regulatory-requirements-guides/.keep
-      - regulatory-requirements-guides/compliance-guide-for-business.md
-      - regulatory-requirements-guides/regulatory-milestones-for-companies.md
-      - regulatory-requirements-guides/regulatory-milestones-for-sole-proprietor-partnership-SPP.md
-      - regulatory-requirements-guides/regulatory-milestones-for-limited-liability-partnership-LLP.md
-      - regulatory-requirements-guides/regulatory-milestones-for-limited-partnership-LP.md
+      - regulatory-requirements-guides/regulatory-guides-overview.md
+      - regulatory-requirements-guides/key-regulatory-requirements-for-local-companies.md
+      - regulatory-requirements-guides/key-regulatory-requirements-for-sole-proprietor-partnership-SPP.md
+      - regulatory-requirements-guides/key-regulatory-requirements-for-limited-liability-partnership-LLP.md
+      - regulatory-requirements-guides/key-regulatory-requirements-for-limited-partnership-LP.md
       - government-assistance/.keep
       - government-assistance/about-government-assistance.md
       - government-assistance/grants.md
