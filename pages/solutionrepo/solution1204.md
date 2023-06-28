@@ -1,15 +1,15 @@
 ---
-title: 'DM RHAD Digital Marketing Package Version 1'
+title: 'StaffAny'
 permalink: /productivity-solutions-grant/solutionrepo/solution1204
 ---
 
-## DM RHAD Digital Marketing Package Version 1
+## StaffAny
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. RHAD's packages are designed to assist SMEs to kick-start and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals. 
+StaffAny helps businesses in the blue collar workforce optimize their scheduling and HR administration through the integrated scheduling and time tracking mobile and web application. In addition to managing hourly workers, StaffAny tracks staff performance and automates end-of-month timesheet consolidations. With StaffAny, businesses can better performances, cut operating costs, and make time to do what matters to them the most.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1204
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Web Starter (3 months)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (25 Users)</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Google Search Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (50 Users)	</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Social Media Starter (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (100 Users)</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - PPC Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (150 Users)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM RHAD Digital Marketing Package Version 1 - Advanced Digital Marketing (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_20210360_Desensitised_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (200 Users)</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'>$18,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: RHAD Pte. Ltd<br>Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
+ Company name:Staffany Private Limited<br>Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
