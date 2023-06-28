@@ -1,6 +1,6 @@
 ---
-title: Regulatory Milestones for Limited Partnership (LP)
-permalink: /regulatory-requirements-guides/regulatory-milestones-for-limited-partnership-LP
+title: Key regulatory requirements for limited partnership (LP)
+permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-limited-partnership-LP
 third_nav_title: Regulatory Requirements Guides
 ---
 

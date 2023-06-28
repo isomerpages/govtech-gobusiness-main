@@ -1,6 +1,6 @@
 ---
-title: Regulatory Milestones for Limited Liability Partnership (LLP)
-permalink: /regulatory-requirements-guides/regulatory-milestones-for-limited-liability-partnership-LLP
+title: Key regulatory requirements for limited liability partnership (LLP)
+permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-limited-liability-partnership-LLP
 third_nav_title: Regulatory Requirements Guides
 ---
 

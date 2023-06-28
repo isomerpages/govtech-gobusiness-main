@@ -1,5 +1,5 @@
 ---
-title: Regulatory requirements guides
+title: Regulatory guides overview
 permalink: /regulatory-requirements-guides/
 third_nav_title: Regulatory Requirements Guides
 ---

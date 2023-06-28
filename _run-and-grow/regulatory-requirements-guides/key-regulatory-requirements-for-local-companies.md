@@ -1,5 +1,5 @@
 ---
-title: Regulatory Milestones for Companies
+title: Key regulatory requirements for local companies
 permalink: /regulatory-requirements-guides/regulatory-milestones-for-companies
 third_nav_title: Regulatory Requirements Guides
 ---
