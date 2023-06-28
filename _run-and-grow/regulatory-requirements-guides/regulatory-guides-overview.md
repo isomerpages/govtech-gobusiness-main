@@ -1,7 +1,7 @@
 ---
-title: Compliance Guide for Businesses
-permalink: /compliance-milestones/
-third_nav_title: Compliance Milestones
+title: Regulatory requirements guides
+permalink: /regulatory-requirements-guides/
+third_nav_title: Regulatory Requirements Guides
 ---
 
 ## Get recommendations on over 100 government schemes

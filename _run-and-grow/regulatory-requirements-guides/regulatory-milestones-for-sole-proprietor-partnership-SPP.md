@@ -1,7 +1,7 @@
 ---
 title: Regulatory Milestones for Sole Proprietor/ Partnership (SP/P)
-permalink: /compliance-milestones/regulatory-milestones-for-sole-proprietor-partnership-SPP
-third_nav_title: Compliance Milestones
+permalink: /regulatory-requirements-guides/regulatory-milestones-for-sole-proprietor-partnership-SPP
+third_nav_title: Regulatory Requirements Guides
 ---
 
 ## Regulatory Milestones for Sole Proprietor/Partnership (SP/P)

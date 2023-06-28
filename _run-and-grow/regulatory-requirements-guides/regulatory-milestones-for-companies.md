@@ -1,7 +1,7 @@
 ---
 title: Regulatory Milestones for Companies
-permalink: /compliance-milestones/regulatory-milestones-for-companies
-third_nav_title: Compliance Milestones
+permalink: /regulatory-requirements-guides/regulatory-milestones-for-companies
+third_nav_title: Regulatory Requirements Guides
 ---
 
 ## Regulatory Milestones for Companies
