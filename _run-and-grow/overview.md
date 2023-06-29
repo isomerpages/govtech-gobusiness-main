@@ -25,15 +25,15 @@ Operating a business in Singapore involves complying with various regulations.
 
 ---
 
-### Other programmes
+### Other resources
 
-<!-- fdgdf -->
+{% include panels-featurelink.html panels=site.data.acc202-run-and-grow-overview %}
 
 ---
 
 ### Other services
 
-<!-- fdgdf -->
+{% include panels-featurelink.html panels=site.data.acc203-run-and-grow-overview %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
