@@ -1,4 +1,5 @@
-- title: Government Assistance
+- banner: /images/grow/rungrow_overview_govassist_panel.png
+  title: Government Assistance
   description: Browse all support schemes, including Budget 2023.
   url: /gov-assist/?src=rungrow_overview
   text: View Government Assistance
@@ -9,7 +10,8 @@
   url: /licences/?src=rungrow_overview
   text: View Licences and Permits
 
-- title: SkillsFuture for Enterprise
+- banner: /images/grow/rungrow_overview_epjs_panel.png
+  title: SkillsFuture for Enterprise
   description: Level up your employees with skills training.
   url: /skillsfuture-for-enterprise/?src=rungrow_overview
   text: View SkillsFuture for Enterprise
