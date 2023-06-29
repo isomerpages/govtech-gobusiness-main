@@ -3,7 +3,8 @@
   url: /gov-assist/?src=rungrow_overview
   text: View Government Assistance
 
-- title: Licences and Permits
+- banner: /images/grow/rungrow_overview_licence_panel.png
+  title: Licences and Permits
   description: Browse all licences, and get recommendations on which licences to apply for.
   url: /licences/?src=rungrow_overview
   text: View Licences and Permits
@@ -13,12 +14,14 @@
   url: /skillsfuture-for-enterprise/?src=rungrow_overview
   text: View SkillsFuture for Enterprise
 
-- title: Accreditation
+- banner: /images/grow/rungrow_overview_accreditation_panel.png
+  title: Accreditation
   description: Enhance your company's profile and credibility.
   url: /accreditation/?src=rungrow_overview
   text: View Accreditations
 
-- title: Taxes, GST, and Customs
+- banner: /images/grow/rungrow_overview_tax_panel.png
+  title: Taxes, GST, and Customs
   description: Find out more about your tax filing obligations.
   url: /run-and-grow/taxes-and-gst/?src=rungrow_overview
   text: View Taxes, GST and Customs
