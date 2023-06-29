@@ -1,14 +1,19 @@
 accordion:
   - title: Requirements during business registration
     content: |
-      <img src="/images/grow/regulatory%20guides/localcompanies_businssregistration.png" aria-hidden=true>
+      <img width="90%" src="/images/grow/regulatory%20guides/localcompanies_businssregistration.png" aria-hidden=true>
 
       <strong>When incorporating your local company:</strong>
 
-      
-      GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
-
-      Check with the licensing agency if you are able to make payment for your licences at the respective government agency headquarters, if you prefer.
+      <img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> Before registering your business, determine your business activities (SSIC code), business structure and address.<br>
+      <img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Apply for Local Company Name with ACRA.<br>
+      <img style='width:59px; height:auto; float:left; margin-right:10px;'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Incorporate your Local Company with ACRA. When registering your business, specify when your Financial Year ends and appoint officers including:<br>
+      <ul>
+      <li>Company Director• Company Secretary</li>
+      <li>Auditor (unless exempted)</li>
+      <li>Chief Executive Officer (optional)</li>
+      <li>Managing Director (optional)</li>
+      </ul>
 
   - title: Ad hoc requirements
     content: |
