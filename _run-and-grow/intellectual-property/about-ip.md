@@ -17,7 +17,7 @@ Whether you are a budding entrepreneur, a start-up, a SME or an MNC, GoBusiness 
 {% include overview.html anchorlinks=site.data.ov014-ipgrow-types-of-IA-IP-services %}
 
 ---
-<a name='benefit-of-managing-ia-ip'></a>
+<a name='benefits-of-managing-ia-ip'></a>
 
 ### Benefits of managing your IA/IP
 
