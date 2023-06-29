@@ -1,28 +1,28 @@
-- banner: /images/grow/rungrow_overview_govassist_panel.png
+- banner: <img src="/images/grow/rungrow_overview_govassist_panel.png">
   title: Government Assistance
   description: Browse all support schemes, including Budget 2023.
   url: /gov-assist/?src=rungrow_overview
   text: View Government Assistance
 
-- banner: /images/grow/rungrow_overview_licence_panel.png
+- banner: <img src="/images/grow/rungrow_overview_licence_panel.png">
   title: Licences and Permits
   description: Browse all licences, and get recommendations on which licences to apply for.
   url: /licences/?src=rungrow_overview
   text: View Licences and Permits
 
-- banner: /images/grow/rungrow_overview_epjs_panel.png
+- banner: <img src="/images/grow/rungrow_overview_epjs_panel.png">
   title: SkillsFuture for Enterprise
   description: Level up your employees with skills training.
   url: /skillsfuture-for-enterprise/?src=rungrow_overview
   text: View SkillsFuture for Enterprise
 
-- banner: /images/grow/rungrow_overview_accreditation_panel.png
+- banner: <img src="/images/grow/rungrow_overview_accreditation_panel.png">
   title: Accreditation
   description: Enhance your company's profile and credibility.
   url: /accreditation/?src=rungrow_overview
   text: View Accreditations
 
-- banner: /images/grow/rungrow_overview_tax_panel.png
+- banner: <img src="/images/grow/rungrow_overview_tax_panel.png">
   title: Taxes, GST, and Customs
   description: Find out more about your tax filing obligations.
   url: /run-and-grow/taxes-and-gst/?src=rungrow_overview
