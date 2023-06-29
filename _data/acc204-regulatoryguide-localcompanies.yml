@@ -1,0 +1,55 @@
+accordion:
+  - title: Requirements during business registration
+    content: |
+      GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
+
+      Check with the licensing agency if you are able to make payment for your licences at the respective government agency headquarters, if you prefer.
+
+  - title: Ad hoc requirements
+    content: |
+      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required after the licence is processing. You will be notified via email when Stage 2 payment is required.
+
+  - title: Monthly requirements
+    content: |
+      To find out whether you get a refund, please contact the relevant government agencies directly, as refund amounts vary according to the licences.
+
+  - title: Quarterly requirements
+    content: |
+      If you've received this email, it means we are still trying to complete your payment with the relevant parties. We would appreciate your patience while we work to resolve the issue, and we will keep you updated on the outcome.
+
+  - title: Yearly requirements
+    content: |
+      Please verify your payment details and try again. If you are still having issues, you can try the following:
+
+      - Make payment at a later time
+      - Make payment on a different browser
+      - Check your proxy settings
+      - Reconnect to another network (e.g home/office network) and try again
+
+      If the error persists after 24 hours, please email us at [AskGoBiz@crimsonlogic.com.sg](mailto:AskGoBiz@crimsonlogic.com.sg) with a screenshot and a description of the error you are facing.
+
+  - title: Hiring workers
+    content: |
+      Please contact the licence agency directly to confirm if you are able to make payment at their respective headquarters.
+
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
