@@ -1,6 +1,7 @@
 accordion:
   - title: Requirements during business registration
     content: |
+      <img src="/images/grow/regulatory%20guides/localcompanies_businssregistration.png" aria-hidden=true>
       GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
 
       Check with the licensing agency if you are able to make payment for your licences at the respective government agency headquarters, if you prefer.
