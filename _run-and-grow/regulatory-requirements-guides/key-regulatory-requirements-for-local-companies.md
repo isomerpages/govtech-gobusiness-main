@@ -12,7 +12,7 @@ This guide provides an overview of the key regulatory regulations that local com
 
 {% include accordion.html accordions=site.data.acc204-regulatoryguide-localcompanies.accordion %}
 
-* Information on this page is accurate as of 20 Apr 2023
+*Information on this page is accurate as of 20 Apr 2023
 The content made available or accessible through this page may not be correct, complete, current or accurate and you should perform your own checks or obtain professional advice relevant to your particular circumstances.
 
 {% include banner-yes-no.html %}
