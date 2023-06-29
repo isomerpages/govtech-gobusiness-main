@@ -16,7 +16,7 @@ IP marketplace services enable businesses to find IA/IP for acquisition or list 
 
 By selling or licensing their IA/IP, your business can make use of IA/IP in markets where you lack the resources for its commercialisation, expand your business through strategic partnerships in new markets, and unlock new opportunities to leverage your IA/IP.
 
-For businesses needing help sourcing or selling their IP, head to [IP Brokerage and Licensing Services](/intellectual-property/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/?src=ipgrow-ip-marketplace).
+For businesses needing help sourcing or selling their IP, head to [IP Brokerage and Licensing Services](/intellectual-property/ip-grow/commercialisation-and-financing/ip-brokerage-and-licensing/).
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP marketplace services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
