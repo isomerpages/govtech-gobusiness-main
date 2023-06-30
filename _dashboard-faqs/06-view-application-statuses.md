@@ -48,3 +48,5 @@ third_nav_title: Applications
 <td>Licence is expiring soon and can be renewed.</td>
 </tr>
 </table>
+
+{% include status-border.html %}
