@@ -6,7 +6,7 @@ third_nav_title: Strategy and Management
 
 ## IP audit services
 
-The importance and advantages of ntangible assets are often overlooked. For example, the iconic Apple logo carries huge brand value and serves as a key driver for Apple’s success, yet it does not appear in the company’s balance sheet. Conducting an intellectual property (IP) audit can help you identify and assess these invaluable resources. 
+The importance and advantages of intangible assets are often overlooked. For example, the iconic Apple logo carries huge brand value and serves as a key driver for Apple’s success, yet it does not appear in the company’s balance sheet. Conducting an intellectual property (IP) audit can help you identify and assess these invaluable resources. 
 
 ### What is an IP audit? 
 
