@@ -1,5 +1,5 @@
 ---
-title: Licence Stauses
+title: Application Stauses
 permalink: /dashboard-faqs/view-application-statuses/
 third_nav_title: Applications
 ---
@@ -24,7 +24,7 @@ third_nav_title: Applications
 <td>Licence number has been generated but is not active yet.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="orange">ancelled</p><br></td>
+<td><p id="status-border" class="orange">Cancelled</p><br></td>
 <td>Licence is cancelled.</td>
 </tr>
 <tr>
@@ -45,8 +45,6 @@ third_nav_title: Applications
 </tr>
 <tr>
 <td><p id="status-border" class="orange">Due for Renewal</p><br></td>
-<td>Licence is expiring soon and can be renewed. For instructions on licence renewal, see: How do I renew an existing licence?</td>
+<td>Licence is expiring soon and can be renewed.</td>
 </tr>
 </table>
-
-{% include new-tag.html %}
