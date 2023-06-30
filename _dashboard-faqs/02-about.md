@@ -1,6 +1,7 @@
 ---
 title: About GoBusiness Dashboard
 permalink: /dashboard-faqs/about/
+
 ---
 
 ### About GoBusiness Dashboard

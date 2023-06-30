@@ -1,7 +1,6 @@
 ---
 title: Payment
 permalink: /dashboard-faqs/payment/
-third_nav_title: Applications
 ---
 
 ### Payment

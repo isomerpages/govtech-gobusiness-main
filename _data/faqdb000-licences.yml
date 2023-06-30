@@ -6,10 +6,6 @@
   url: /dashboard-faqs/find-approved-licences/?src=faqdb_hub
   text: View questions
 
-- title: Licence Statuses
-  url: /dashboard-faqs/view-licence-statuses/?src=faqdb_hub
-  text: View questions
-
 - title: Submit returns
   url: /dashboard-faqs/submit-returns/?src=faqdb_hub
   text: View questions
