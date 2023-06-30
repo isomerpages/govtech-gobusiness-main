@@ -22,7 +22,7 @@ Navigate the process of starting, running and growing a business with our handy 
   <br>For aspiring business owners to find out the next steps to run a small-scale business from home.
 
 ### For government assistance
-- [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_guidesforbiz){:target="_blank"}
+- [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
 
 ### For skills training
@@ -54,7 +54,7 @@ The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbi
 
 The Events Proposal Box allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for Sporting and MICE events are accepted.
 
-- <a href='https://eadviser.gobusiness.gov.sg/events/?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>For event organisers to find out the licences and permits needed to organise a physical event.
+- <a href='https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>For event organisers to find out the licences and permits needed to organise a physical event.
 
 - <a href='https://go.gov.sg/z6he6v' target='_blank' rel='noopener'>Proposal Box for MICE Event</a><br>Submit a proposal for an innovative MICE event that positions Singapore as the choice destination for business tourism. For proposals that include a request for government funding, please find out more about <a href='https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/assistance-and-licensing.html' target='_blank' rel='noopener'>STB's various assistance schemes</a>.
 
