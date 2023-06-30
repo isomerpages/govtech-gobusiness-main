@@ -1,10 +1,13 @@
 ---
-title: Key regulatory requirements for sole proprietor/partnership (SP/P)
-permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-sole-proprietor-partnership-SPP
+title: Key regulatory requirements for sole proprietorships/partnership (SP/P)
+permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-sole-proprietorships-partnership-SPP
 third_nav_title: Regulatory Requirements Guides
 ---
 
-## Regulatory Milestones for Sole Proprietor/Partnership (SP/P)
+## Key regulatory requirements for sole proprietorships/partnership (SP/P)
+
+<img src="/images/grow/regulatory%20guides/regulatoryguides_spp.png" aria-hidden=true>
+
 
 ![Tax Incentives](/images/grow/RunandGrow_TaxIncentives.jpg)
 
