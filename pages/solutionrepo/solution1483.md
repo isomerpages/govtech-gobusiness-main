@@ -1,15 +1,17 @@
 ---
-title: 'TERRA EMAIL PROTECTION Version 1.0'
+title: 'DM Verz Design Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1483
 ---
 
-## TERRA EMAIL PROTECTION Version 1.0
+## DM Verz Design Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-TEP is multi-layered, cloud-based email security for all organisations. It provides businesses with one-stop email security and protection from known and zero-day variants, including protection against Business Email Compromise (BEC) aka. "email impersonation", email content control against data leakages, viruses, phishing, spam, ransomware, etc. TEP will be a great addition to the existing Endpoint Protection technology and propel your organisation towards a higher level of protection.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
+The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
+The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ TEP is multi-layered, cloud-based email security for all organisations. It provi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 10</td>
-<td style='padding: 10px;'>$3,330.00</td>
-<td style='padding: 10px;'>$3,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 30</td>
-<td style='padding: 10px;'>$8,290.10</td>
-<td style='padding: 10px;'>$8,290.10</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 100</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (6 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 30</td>
-<td style='padding: 10px;'>$12,540.20</td>
-<td style='padding: 10px;'>$12,540.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (6 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 60</td>
-<td style='padding: 10px;'>$21,372.20</td>
-<td style='padding: 10px;'>$21,372.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (6 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ TEP is multi-layered, cloud-based email security for all organisations. It provi
 
 ## Vendor Information
 
- Company name:TERRA SYSTEMS PTE LTD<br>Web URL: https://terra.systems/#/ <br>Contact Hotline: 68765800 <br>Contact Email: marketing@terra-systems.com 
+ Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

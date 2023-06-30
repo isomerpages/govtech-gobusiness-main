@@ -1,16 +1,15 @@
 ---
-title: 'PEOPLECENTRAL HRMS Version 11'
+title: 'TrackSYNQ'
 permalink: /productivity-solutions-grant/solutionrepo/solution1142
 ---
 
-## PEOPLECENTRAL HRMS Version 11
+## TrackSYNQ
 
 ## Overview
 
 **Description**
 
-PeopleCentral HRMS is a complete all-in-one cloud-based solution to automate processes for HR, payroll, leave, claims, attendance, scheduling, training, and performance management.
-To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Workflow management, Alerts/Reminders, Announcements, Employee Self-service, and Mobile app functions.
+TrackSYNQ is a ready-to-deploy platform that provides track & trace functionality, fleet visibility and geo-fencing, amongst other features. The easy-to-use comprehensive user interface provides real-time monitoring of fleet and drivers from any device. ?TrackSYNQ video solution- MDVR and ADAS- allows users to monitor their fleet operation via live video streaming to see what is happening in real-time, and enables fleet owners to lower accident risk and increase driver awareness on road safety.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,41 @@ To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Wo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package A - Basic GPS 5</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 100</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package B - Basic GPS 10</td>
+<td style='padding: 10px;'>$5,260.00</td>
+<td style='padding: 10px;'>$4,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 150</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package C - Basic GPS 20</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 200</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 75</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package D - Basic GPS 50</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'>$19,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
+ Company Name: Quantum Inventions Pte Ltd<br>Web URL: https://www.quantuminventions.com/ <br><br>Contact Hotline: 68371582 <br><br>Contact Email: sales@qi.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

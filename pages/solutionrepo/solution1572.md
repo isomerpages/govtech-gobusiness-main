@@ -1,15 +1,15 @@
 ---
-title: 'V3Nity-FMS Fleet Management System Version 3.0'
+title: 'Stendard Solution Version 1.7.12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1572
 ---
 
-## V3Nity-FMS Fleet Management System Version 3.0
+## Stendard Solution Version 1.7.12
 
 ## Overview
 
 **Description**
 
-The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
+Stendard Solution is a cloud-based document management system allowing businesses of all sizes to implement business processes, in line with international standards. Users can easily collaborate, store, maintain, review, and sign-off documents electronically with digitised business workflows, version controls and track them on the platform. Stendard's vision is to put quality at the centre of all businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,34 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (5 concurrent users)</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (10 concurrent users)</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (30 concurrent users)</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$25,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+ Company name: YNL 360 Pte Ltd<br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

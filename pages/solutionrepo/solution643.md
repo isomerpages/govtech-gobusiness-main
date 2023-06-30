@@ -1,17 +1,15 @@
 ---
-title: 'FacilityBot'
+title: 'KEGMIL FSM'
 permalink: /productivity-solutions-grant/solutionrepo/solution643
 ---
 
-## FacilityBot
+## KEGMIL FSM
 
 ## Overview
 
 **Description**
 
-FacilityBot is a feature-rich Facilities Management / CMMS software. Deployed in over 500,000 sqm and with over 16,000 users, FacilityBot is easy to deploy, easy to use, and open to integrations.
-
-Building occupants can submit requests through their preferred messaging app (including WhatsApp and Telegram), email, and QR Code. Tickets are automatically created and assigned to technicians, who can upload photos and videos and close tickets via the FacilityBot Mobile App.
+Kegmil is on a mission to empower millions of deskless field service professionals with superior technology & insights to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software streamlines and automates field activities for small to mid-sized maintenance firms who keep our world running from elevator to data center equipment servicing.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,38 @@ Building occupants can submit requests through their preferred messaging app (in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package A - 10 Users</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package B - 25 Users</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package C - 40 Users</td>
+<td style='padding: 10px;'>$24,720.00</td>
+<td style='padding: 10px;'>$24,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus (Multi-Site)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package D - 60 Users</td>
+<td style='padding: 10px;'>$30,260.00</td>
+<td style='padding: 10px;'>$30,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kegmil FSM Package E - 100 Users</td>
+<td style='padding: 10px;'>$38,200.00</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +64,7 @@ Building occupants can submit requests through their preferred messaging app (in
 
 ## Vendor Information
 
- Company name:FacilityBot Pte Ltd<br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co 
+ Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

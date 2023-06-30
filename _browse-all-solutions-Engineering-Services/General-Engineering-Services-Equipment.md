@@ -28,63 +28,63 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1765' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1615' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1831' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1625' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1898' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1632' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2693' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1647' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3020' target='_blank'>Digital Welding Equipment </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1652' target='_blank'>Digital Welding Equipment </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3203' target='_blank'>Flange Facer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1653' target='_blank'>Flange Facer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3204' target='_blank'>Torque Multiplier</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1654' target='_blank'>Torque Multiplier</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3205' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1655' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3206' target='_blank'>Automatic Flange Spreader</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1656' target='_blank'>Automatic Flange Spreader</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3207' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1657' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3690' target='_blank'>Auto Welding Carriage</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1658' target='_blank'>Auto Welding Carriage</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3801' target='_blank'>Automated Labelling Machine </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1665' target='_blank'>Automated Labelling Machine </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3802' target='_blank'>Liquid Filling Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1666' target='_blank'>Liquid Filling Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3803' target='_blank'>High pressure industrial vacuum cleaner</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1667' target='_blank'>High pressure industrial vacuum cleaner</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3804' target='_blank'>High Pressure Rotating Head</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1668' target='_blank'>High Pressure Rotating Head</a><br></td>
 <td></td>
 </tr>
 </table>

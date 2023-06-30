@@ -1,15 +1,15 @@
 ---
-title: 'Simpliify''s E-commerce Version 1'
+title: 'Synergix Process Construction and Maintenance'
 permalink: /productivity-solutions-grant/solutionrepo/solution1356
 ---
 
-## Simpliify''s E-commerce Version 1
+## Synergix Process Construction and Maintenance
 
 ## Overview
 
 **Description**
 
-Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
+Process Construction & Maintenance (PCM) Solution is tailored to Singapore's Process Industry, mainly Engineering Service Providers (ESPs). It's to ensure project cost tracking with integrated procurement flow and allows the information to flow seamlessly between the office & project sites by allowing site manager to update project progress status remotely on mobile with photo evidence as well as maintenance task completion checklists to the clients.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in1 ERP Solution (5 users)</td>
+<td style='padding: 10px;'>$49,860.00</td>
+<td style='padding: 10px;'>$36,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package with MW integration</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Synergix Process Construction and Maintenance - Synergix PCM 3-in-1 ERP Solution (10 users)</td>
+<td style='padding: 10px;'>$70,860.00</td>
+<td style='padding: 10px;'>$36,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SynergixTech20210205_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'EZ Accounting and Inventory Software'
+title: 'Xero Cloud Accounting Software - Premium Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1568
 ---
 
-## EZ Accounting and Inventory Software
+## Xero Cloud Accounting Software - Premium Package
 
 ## Overview
 
 **Description**
 
-EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,31 @@ EZ Accounting is a Singapore based, integrated Accounting solution with numerous
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
-<td style='padding: 10px;'>$5,853.00</td>
-<td style='padding: 10px;'>$5,853.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software Only</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
-<td style='padding: 10px;'>$7,473.00</td>
-<td style='padding: 10px;'>$7,473.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Training</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
-<td style='padding: 10px;'>$12,473.00</td>
-<td style='padding: 10px;'>$12,473.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Setup</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
-<td style='padding: 10px;'>$12,873.00</td>
-<td style='padding: 10px;'>$12,598.00</td>
-<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ EZ Accounting is a Singapore based, integrated Accounting solution with numerous
 
 ## Vendor Information
 
- Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
+ Company Name: YMC ACCOUNTING PTE LTD<br>Web URL: https://www.thesgservice.com/sg-accounting-firm <br><br>Contact Hotline: 93891853 <br><br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'Taidii Smart E-Form Solution'
+title: 'NetDocuments'
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
-## Taidii Smart E-Form Solution
+## NetDocuments
 
 ## Overview
 
 **Description**
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
+NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
+
+Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +25,48 @@ Taidii is a company providing integrated solution to all the educational institu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
+<td style='padding: 10px;'>$18,740.00</td>
+<td style='padding: 10px;'>$17,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
+<td style='padding: 10px;'>$26,860.00</td>
+<td style='padding: 10px;'>$24,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
+<td style='padding: 10px;'>$45,600.00</td>
+<td style='padding: 10px;'>$36,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
+ Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
