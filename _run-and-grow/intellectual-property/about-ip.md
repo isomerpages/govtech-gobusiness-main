@@ -14,7 +14,7 @@ IP rights provide the owner with exclusive rights to control the use and distrib
 
 Whether you are a budding entrepreneur, a start-up, a SME or an MNC, GoBusiness IP Grow is here to help you with your IA/IP needs. Browse our comprehensive suite of IA/IP service directories, get personalised advice and recommendations with our e-Advisers, and explore a wide range of useful resources. With GoBusiness IP Grow, you can maximise the value of your IP and IA for your enterprise. Read on to learn more.
 
-{% include overview.html anchorlinks=site.data.ov014-ipgrow-types-of-IA-IP-services %}
+{% include overview.html anchorlinks=site.data.ov015-ipgrow-about %}
 
 ---
 <a name='benefits-of-managing-ia-ip'></a>
