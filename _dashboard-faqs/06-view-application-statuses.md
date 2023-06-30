@@ -4,48 +4,68 @@ permalink: /dashboard-faqs/view-application-statuses/
 third_nav_title: Applications
 ---
 
-### Licence Status
+### Application Statuses
 
 <table>
 <tr>
-<th style='width: 30%;'><b>Licence Status</b></th>
+<th style='width: 30%;'><b>Application Status</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
-<td><p id="status-border" class="green">Active</p><br></td>
-<td>Licence is active.</td>
+<td><p id="status-border" class="teal">Draft</p><br></td>
+<td>Application is saved as a draft.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="green">Renewed</p><br></td>
-<td>Licence is Renewed with a new issue date and expiry date.</td>
+<td><p id="status-border" class="blue">Submitted</p><br></td>
+<td>Application has been submitted.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="green">In-Principle Approval</p><br></td>
-<td>Licence number has been generated but is not active yet.</td>
+<td><p id="status-border" class="blue">Processing</p><br></td>
+<td>Application is currently being processed.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="orange">Cancelled</p><br></td>
-<td>Licence is cancelled.</td>
+<td><p id="status-border" class="orange">Pending Payment</p><br></td>
+<td>Payment needs to be made on GoBusiness Dashboard or GoBusiness Licensing. This is usually for Stage 2 payment.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="red">Expired</p><br></td>
-<td>Licence has expired.</td>
+<td><p id="status-border" class="orange">Pending Application Action</p><br></td>
+<td>Application requires amendments.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="red">Suspended</p><br></td>
-<td>Licence is currently suspended and may be reinstated by the relevant government agency. Contact the relevant licensing agency for more information.</td>
+<td><p id="status-border" class="orange">Pending Offline Payment</p><br></td>
+<td>Payment needs to be made outside of GoBusiness Dashboard. This is usually for Stage 2 payment.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="red">Revoked</p><br></td>
-<td>Licence is terminated due to some violations. Contact the relevant licensing agency for more information.</td>
+<td><p id="status-border" class="green">Approved</p><br></td>
+<td>Application has been approved.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="blue">Pending Effective</p><br></td>
-<td>Licence is approved but not active yet. Contact the relevant licensing agency to find out when the licence will be active.</td>
+<td><p id="status-border" class="green">Partially Approved</p><br></td>
+<td>Only certain sections of the application are approved and active. To appeal, submit a new application.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="orange">Due for Renewal</p><br></td>
-<td>Licence is expiring soon and can be renewed.</td>
+<td><p id="status-border" class="green">Completed</p><br></td>
+<td>The Corppass administrator account has been registered.</td>
+</tr>
+<tr>
+<td><p id="status-border" class="green">Registered</p><br></td>
+<td>Managed returns have been submitted. No further action is required.</td>
+</tr>
+<tr>
+<td><p id="status-border" class="red">Rejected</p><br></td>
+<td>Application has been rejected.</td>
+</tr>
+<tr>
+<td><p id="status-border" class="grey">Withdrawn</p><br></td>
+<td>Withdrawal request is currently being processed.</td>
+</tr>
+<tr>
+<td><p id="status-border" class="grey">Check SDL Page for Updates</p><br></td>
+<td>The latest status can be viewed on the Skills Development Levy GoBusiness page by clicking on Select Action > Go to SDL Page.</td>
+</tr>
+<tr>
+<td><p id="status-border" class="grey">Outdated Draft</p><br></td>
+<td>This is an outdated version of the form, and can’t be edited or submitted.</td>
 </tr>
 </table>
 
