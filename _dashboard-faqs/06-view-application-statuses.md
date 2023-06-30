@@ -20,7 +20,7 @@ third_nav_title: Applications
 <td>Licence is Renewed with a new issue date and expiry date.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="blue">In-Principle Approval</p><br></td>
+<td><p id="status-border" class="green">In-Principle Approval</p><br></td>
 <td>Licence number has been generated but is not active yet.</td>
 </tr>
 <tr>
@@ -40,11 +40,11 @@ third_nav_title: Applications
 <td>Licence is terminated due to some violations. Contact the relevant licensing agency for more information.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="red">Pending Effective</p><br></td>
+<td><p id="status-border" class="blue">Pending Effective</p><br></td>
 <td>Licence is approved but not active yet. Contact the relevant licensing agency to find out when the licence will be active.</td>
 </tr>
 <tr>
-<td><p id="status-border" class="red">Due for Renewal</p><br></td>
+<td><p id="status-border" class="orange">Due for Renewal</p><br></td>
 <td>Licence is expiring soon and can be renewed. For instructions on licence renewal, see: How do I renew an existing licence?</td>
 </tr>
 </table>
