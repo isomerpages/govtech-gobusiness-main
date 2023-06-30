@@ -8,7 +8,7 @@ third_nav_title: Applications
 
 <table>
 <tr>
-<th style='width: 30%;'><b>Application Status</th>
+<th style='width: 30%;'><b>Application Status</b></th>
 <th style='width: auto;'><b>Description</b></th>
 </tr>
 <tr>
