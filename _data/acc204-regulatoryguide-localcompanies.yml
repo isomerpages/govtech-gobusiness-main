@@ -37,19 +37,29 @@ accordion:
     content: |
       <img width="90%" src="/images/grow/regulatory%20guides/localcompanies_adhocrequirements.png" aria-hidden=true>
     
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to update ACRA.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Register for GST if taxable turnover has:
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul>
       <li>exceeded $1 million at the end of the calendar year or</li>
       <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
       </ul>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Submit an incident report with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
       
   - title: Monthly requirements
     content: |
-      To find out whether you get a refund, please contact the relevant government agencies directly, as refund amounts vary according to the licences.
+      <img width="90%" src="/images/grow/regulatory%20guides/localcompanies_monthlyrequirements.png" aria-hidden=true>
+
+      <h4>If your business hires foreign workers:</h4>
+      
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
+
+      <h4>If your business hires Singapore Citizens and Permanent Residents (SPR):</h4>
+      
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
 
   - title: Quarterly requirements
     content: |
