@@ -54,7 +54,7 @@ Event organisers should anticipate such scenarios early as part of prudent and r
   <li>
     <strong>How do I notify the Police of my event?
 </strong><br>        
-Please submit a Notice of Intention to Organise an Event at the Gobusiness portal, https://eadviser.gobusiness.gov.sg/events/?src=run&grow_licences_fs
+Please submit a Notice of Intention to Organise an Event at the Gobusiness portal, https://eadviser.gobusiness.gov.sg/events?src=run&grow_licences_fs
   </li>
 
   <li>
