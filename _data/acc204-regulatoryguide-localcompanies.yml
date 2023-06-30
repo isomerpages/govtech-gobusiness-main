@@ -22,6 +22,17 @@ accordion:
 
       <H4>After incorporating your local company:</H4>
 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> After you have received your UEN, <a href="https://www.corppass.gov.sg/cpauth/login/homepage" target="_blank" rel="noopener">register for a Corppass</a> admin account to gain access to all the government services.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.Registrable controllers (RC) are people in your company who:<br>
+      (a) has an interest in >25% of shares in your company; or<br>
+      (b) hold >25% of members' voting rights in your company; or<br>
+      (c) can exercise significant influence or control over your company/LLP
+
+      <strong>Before you hire your first employee:</strong>
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Employers will require a ,<a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopenner">CPF Submission Number (CSN)</a> to submit CPF contributions for their local and Singapore Permanent Resident employees.
+
   - title: Ad hoc requirements
     content: |
       Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required after the licence is processing. You will be notified via email when Stage 2 payment is required.
