@@ -4,25 +4,18 @@ permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-limit
 third_nav_title: Regulatory Requirements Guides
 ---
 
-## Regulatory Milestones for Limited Partnership (LP)
+## Key regulatory requirements for limited partnership (LP)
 
-![Loans](/images/grow/RunandGrow_Loans.jpg)
+<img src="/images/grow/regulatory%20guides/regulatoryguides_lp.png" aria-hidden=true>
 
-Answer a few questions about your business and our e-Adviser for Government Assistance will recommend loans you can apply for.
+This guide provides an overview of the key regulatory requirements that sole proprietorships and partnerships need to comply with.
 
-If you're looking for government assistance schemes announced at Budget 2023, head to our [Budget 2023](/gov-assist/budget-announcement-for-businesses/) page.
+{% include accordion.html accordions=site.data.acc207-regulatoryguide-lp.accordion %}
 
-{% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://eadviser.gobusiness.gov.sg/govassist/?src=govassist_loans
-" type="primary" %}
+*Information on this page is accurate as of 20 Apr 2023
+The content made available or accessible through this page may not be correct, complete, current or accurate and you should perform your own checks or obtain professional advice relevant to your particular circumstances.
 
-### For all sectors
-
-{% include letter-accordion.html accordions=site.data.acc076-loans letter="a" %}
-
-### For specific sectors
-
-{% include letter-accordion.html accordions=site.data.acc076-loans letter="b" %}
+{% include banner-yes-no.html %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

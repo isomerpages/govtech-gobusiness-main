@@ -10,7 +10,7 @@ third_nav_title: Regulatory Requirements Guides
 
 This guide provides an overview of the key regulatory requirements that sole proprietorships and partnerships need to comply with.
 
-{% include accordion.html accordions=site.data.acc204-regulatoryguide-spp.accordion %}
+{% include accordion.html accordions=site.data.acc205-regulatoryguide-spp.accordion %}
 
 *Information on this page is accurate as of 20 Apr 2023
 The content made available or accessible through this page may not be correct, complete, current or accurate and you should perform your own checks or obtain professional advice relevant to your particular circumstances.
