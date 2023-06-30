@@ -73,7 +73,8 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 26 May 2023 10pm to 26 May 11.59pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on 11 June 2023 from 12am to 10am due to scheduled maintenance. We apologise for the inconvenience caused."
   
-
+  //EDH
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 30 Jun 2023 3pm to 30 Jun 2023 6pm. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
 
   //[**GCC Migration**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
