@@ -3,5 +3,4 @@
   description: You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.
   url: https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136
   url-new-tab: true
-  target: _blank
   text: Continue to GoBusiness Licencing Anyway
