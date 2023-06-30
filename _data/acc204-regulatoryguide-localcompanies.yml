@@ -35,8 +35,18 @@ accordion:
 
   - title: Ad hoc requirements
     content: |
-      Payment for certain licences are split into two stages. Stage 1 payment is required once you submit your application, while Stage 2 payment is required after the licence is processing. You will be notified via email when Stage 2 payment is required.
+      <img width="90%" src="/images/grow/regulatory%20guides/localcompanies_adhocrequirements.png" aria-hidden=true>
+    
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to update ACRA.
 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Register for GST if taxable turnover has:
+      <ul>
+      <li>exceeded $1 million at the end of the calendar year or</li>
+      <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
+      </ul>
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Submit an incident report with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      
   - title: Monthly requirements
     content: |
       To find out whether you get a refund, please contact the relevant government agencies directly, as refund amounts vary according to the licences.
