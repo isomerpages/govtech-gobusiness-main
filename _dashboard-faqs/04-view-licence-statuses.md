@@ -33,11 +33,11 @@ third_nav_title: Licences
 </tr>
 <tr>
 <td><p id="status-border" class="red">Suspended</p><br></td>
-<td>Licence is currently suspended and may be reinstated by the relevant government agency. Contact the relevant licensing agency for more information.</td>
+<td>Licence is currently suspended and may be reinstated by the relevant government agency.</td>
 </tr>
 <tr>
 <td><p id="status-border" class="red">Revoked</p><br></td>
-<td>Licence is terminated due to some violations. Contact the relevant licensing agency for more information.</td>
+<td>Licence is terminated due to some violations.</td>
 </tr>
 <tr>
 <td><p id="status-border" class="blue">Pending Effective</p><br></td>
@@ -45,7 +45,7 @@ third_nav_title: Licences
 </tr>
 <tr>
 <td><p id="status-border" class="orange">Due for Renewal</p><br></td>
-<td>Licence is expiring soon and can be renewed.</td>
+<td>Licence is due for renewal.</td>
 </tr>
 </table>
 
