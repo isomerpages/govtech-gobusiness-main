@@ -1,5 +1,5 @@
 ---
-title: Licence Stauses
+title: Licence Statuses
 permalink: /dashboard-faqs/view-licence-statuses/
 third_nav_title: Licences
 ---
