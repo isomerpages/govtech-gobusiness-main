@@ -1,7 +1,7 @@
 accordion:
   - title: Requirements during business registration
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_businssregistration.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_businssregistration.png" aria-hidden=true>
 
       <H4>When incorporating your local company:</H4>
 
@@ -31,7 +31,7 @@ accordion:
 
   - title: Ad hoc requirements
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_adhocrequirements.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_adhocrequirements.png" aria-hidden=true>
     
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
 
@@ -45,7 +45,7 @@ accordion:
       
   - title: Monthly requirements
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_monthlyrequirements.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_monthlyrequirements.png" aria-hidden=true>
 
       <strong>If your business hires foreign workers:</strong>
       
@@ -59,7 +59,7 @@ accordion:
 
   - title: Quarterly requirements
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_quarterlyrequirements.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_quarterlyrequirements.png" aria-hidden=true>
 
       <strong>Update MOM's Occupational Employment Dataset (OED)</strong>
       
@@ -79,7 +79,7 @@ accordion:
 
   - title: Yearly requirements
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_yearlyrequirements1.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements1.png" aria-hidden=true>
 
       <h4>From your first financial year</h4>
       
@@ -93,7 +93,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> By the 1st of March of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide Form IR8A and appendices (where applicable) to employees.
 
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_yearlyrequirements2.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements2.png" aria-hidden=true>
 
       <h4>From your second/third* financial year</h4>
 
@@ -135,7 +135,7 @@ accordion:
 
   - title: Hiring workers
     content: |
-      <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_hiringworkers.png" aria-hidden=true>
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_hiringworkers.png" aria-hidden=true>
 
       <strong>Before you hire your first employee:</strong>
       
