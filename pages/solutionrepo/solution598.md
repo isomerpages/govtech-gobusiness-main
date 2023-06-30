@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'iREP Security System Version 4.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution598
 ---
 
-## EPOS Marketing AI Version 1.0
+## iREP Security System Version 4.0
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+iREP Security is a mobile reporting, maintenance and monitoring system which use GPS and Live Images to enable your security officers to log incident or occurrence reports on sites, take attendance and protect premises with Body worn cameras.  Smart phones to carry out duties on site for the security guards and feedback to agency operation or management of the MCST immediately.  The system gives you a transparent view of works completed on site, providing quality assurance to the clients.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident Management) Package 1</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 5 BWCs) Package 2</td>
+<td style='padding: 10px;'>$25,750.00</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident with 10 BWCs) Package 3</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'>$27,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 5 BWCs) Package 4</td>
+<td style='padding: 10px;'>$31,250.00</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iREP Security System Version 4.0 - (Mobile Patrol and Incident, E-Occurrence with 10 BWCs) Package 5</td>
+<td style='padding: 10px;'>$34,500.00</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gabkotech_iREP_20210378_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: Gabkotech Innovations Pte Ltd<br>Web URL: http://www.gabkotech.com <br><br>Contact Hotline: 66844419 <br><br>Contact Email: info@gabkotech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
