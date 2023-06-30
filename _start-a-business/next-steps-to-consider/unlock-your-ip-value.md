@@ -37,10 +37,6 @@ Browse our suite of [20 IA/IP service directories](/intellectual-property/ip-gro
 
 Tap on a wide range of [IA/IP-related resources](/intellectual-property/ip-grow/resources/?src=start_nextstep_ip) to support your business, including e-services, grants, free tools, guides, and programmes.
 
-### Get the latest industry insights
-
-Stay updated on key IA/IP industry insights, new IA/IP resources, and the latest features on GoBusiness IP Grow, delivered straight to your inbox. [Subscribe here](_blank).
-
 Generally, a good time to file for protection of your IP is before launching your product or service, so that no one can take advantage of your IP without your permission. If you are considering filing a patent application to protect your invention, you are encouraged to do it before you disclose your invention publicly to third parties (e.g. potential collaborators), in order to satisfy one of the qualifying criteria. You can [book a complimentary consultation on IP strategies](https://www.ipos.gov.sg/eservices/ip-clinics){:target="_blank"}{:rel="noopener"} via IP Business Clinic, a service offered by IPOS.
 
 
