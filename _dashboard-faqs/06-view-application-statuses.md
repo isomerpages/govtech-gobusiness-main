@@ -1,5 +1,5 @@
 ---
-title: Application Stauses
+title: Application Statuses
 permalink: /dashboard-faqs/view-application-statuses/
 third_nav_title: Applications
 ---
