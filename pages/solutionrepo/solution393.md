@@ -1,15 +1,15 @@
 ---
-title: 'DM Creative E-World Digital Marketing Packages'
+title: 'Sage 300 Advanced Edition Version 2022'
 permalink: /productivity-solutions-grant/solutionrepo/solution393
 ---
 
-## DM Creative E-World Digital Marketing Packages
+## Sage 300 Advanced Edition Version 2022
 
 ## Overview
 
 **Description**
 
-Digital Marketing is the new way of advertising 24/7 to reach out to where customers are looking. Digital Marketing Packages (SEO, SEM, SM) by Creative eWorld helps to drive traffic to websites and social media pages to increase product/ brand awareness. Creative DM packages improve keywords ranking on Google Search Engine, increase reach and engagement on social media (FB/IG) platforms. SME can easily kick start the digital journey with the experienced in-house team.
+Sage 300 is a globally known ERP solution suitable for small to medium sized companies. It helps to manage business finances, operations and inventory in multiple currencies and locations. Sage 300 is customizable, cost-efficient and scalable to suit various business needs. Sage 300 is also InvoiceNow ready, helping SMEs increase productivity by sending and receiving e-Invoices seamlessly. Sage 300 will greatly automate the accounting routine reducing time spend on admin and accounting tasks.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Digital Marketing is the new way of advertising 24/7 to reach out to where custo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  Lite SEO & SEM 6 months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P1 (2 Users)</td>
+<td style='padding: 10px;'>$30,347.00</td>
+<td style='padding: 10px;'>$30,247.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 -  Basic SEO & SM 6 months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P2 (5 Users)</td>
+<td style='padding: 10px;'>$35,825.00</td>
+<td style='padding: 10px;'>$35,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P3 (10 Users)</td>
+<td style='padding: 10px;'>$44,955.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P4 (7 Users)</td>
+<td style='padding: 10px;'>$39,477.00</td>
+<td style='padding: 10px;'>$39,377.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Enhanced Package S1 (5 Users)</td>
+<td style='padding: 10px;'>$26,287.00</td>
+<td style='padding: 10px;'>$26,187.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Digital Marketing is the new way of advertising 24/7 to reach out to where custo
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company Name: COMPTRAC SYSTEMS TECHNOLOGY PTE LTD<br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

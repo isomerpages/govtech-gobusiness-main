@@ -1,15 +1,15 @@
 ---
-title: 'Alpha eCommerce Booster Premium Version 2.8'
+title: 'AIO CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution145
 ---
 
-## Alpha eCommerce Booster Premium Version 2.8
+## AIO CRM
 
 ## Overview
 
 **Description**
 
-Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AlphabetSix_Alpha_eCommerce_Booster_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM - AIO CRM </td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 
 ## Vendor Information
 
- Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

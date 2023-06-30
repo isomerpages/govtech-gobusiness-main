@@ -1,15 +1,17 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: 'Armfort Security Workforce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1043
 ---
 
-## WEB360 Version 2.0.0
+## Armfort Security Workforce
 
 ## Overview
 
 **Description**
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
+
+Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,41 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - Essential (Leasing Model)</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - E-occurrence (Leasing Model)</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce -  Essential (One time)</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Armfort Security Workforce - E-occurrence (One time)</td>
+<td style='padding: 10px;'>$31,000.00</td>
+<td style='padding: 10px;'>$28,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OneThird_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company Name: ONE THIRD TECHNOLOGIES PTE LTD<br>Web URL:www.onethird.co<br>Contact Hotline: 96497552<br>Contact Email: hello@onethird.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

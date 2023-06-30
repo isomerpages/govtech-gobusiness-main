@@ -1,15 +1,16 @@
 ---
-title: 'DM GSK Group Digital Marketing Packages'
+title: 'FirstCRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution615
 ---
 
-## DM GSK Group Digital Marketing Packages
+## FirstCRM
 
 ## Overview
 
 **Description**
 
-With more than 17 years of experience providing clients with digital marketing solutions, GSK Group offers comprehensive SEO, SEM and SMM packages. Solutions are customised to meet every business's unique needs and wants. GSK Group aims to help every business achieve brand awareness, increase social media profile visibility, lead enquiries and higher sales revenue.
+Integrate and migrate all your offline leads and leads from Digital Marketing campaigns into one system. 
+Track the lead status and have clear overview of the performance of individual campaigns and sales personnel via various reports available.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,20 @@ With more than 17 years of experience providing clients with digital marketing s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 1 - SEM-Search + SEM-Display - (3 months)</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 2 - SEM-Search + SEM-Display - (6 months)	</td>
-<td style='padding: 10px;'>$8,760.00</td>
-<td style='padding: 10px;'>$8,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 3 - SEM + SEO - (6 months) </td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 4 - SEM + SMM - (6 months)</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 5 - SMM-Facebook + SMM-Instagram - (6 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCRM - Lead Management System</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Firstcom_FirstCRM_Annex_3_CR_wef_25_Nov_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:GSK Group Pte Ltd<br>Web URL: www.gskcreative.com.sg <br>Contact Hotline: 65364019 <br>Contact Email: info@gsk-group.com.sg 
+ Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
