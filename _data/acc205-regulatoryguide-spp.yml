@@ -3,37 +3,26 @@ accordion:
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/spp_businssregistration.png" aria-hidden=true>
 
-      <H4>When incorporating your local company:</H4>
+      <H4>When registering your business:</H4>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> Before registering your business, determine your business activities (SSIC code), business structure and address.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> Before registering your business, determine your business activities (SSIC code), <a href="https://eadviser.gobusiness.gov.sg/businessstructure?src=regulatoryguide-spp" target="_blank" rel="noopener">business structure</a> and <a href="/start-a-business/submit-a-business-address/">address</a>. 
+   
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Apply for Local Company Name with ACRA.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://dashboard.gobusiness.gov.sg/login?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness" target="_blank" rel="noopener">Reserve your business name</a> and <a href="https://dashboard.gobusiness.gov.sg/login?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness?src=run-spp-infographics" target="_blank" rel="noopener">register your business</a> on GoBusiness (“Login as individual user” required)
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Incorporate your Local Company with ACRA. When registering your business, specify when your Financial Year ends and appoint officers including:<br>
-      - Company Director<br>
-      - Company Secretary<br>
-      - Auditor (unless exempted)<br>
-      - Chief Executive Officer (optional)<br>
-      - Managing Director (optional)<br>
-
-      <H4>After incorporating your local company:</H4>
-
+      <H4>After registering your business: </H4>
+      
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> After you have received your UEN, <a href="https://www.corppass.gov.sg/cpauth/login/homepage" target="_blank" rel="noopener">register for a Corppass</a> admin account to gain access to all the government services.
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.Registrable controllers (RC) are people in your company who:<br>
-      (a) has an interest in >25% of shares in your company; or<br>
-      (b) hold >25% of members' voting rights in your company; or<br>
-      (c) can exercise significant influence or control over your company/LLP
 
       <strong>Before you hire your first employee:</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Employers will require a <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopenner">CPF Submission Number (CSN)</a> to submit CPF contributions for their local and Singapore Permanent Resident employees.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> Employers will require a <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopenner">CPF Submission Number (CSN)</a> to submit CPF contributions for their local and Singapore Permanent Resident employees.
 
   - title: Ad hoc requirements
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/spp_adhocrequirements.png" aria-hidden=true>
     
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in business  information or appointments and changes in personal particulars of business owners and authorised representatives , remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships" target="_blank" rel="noopener">update ACRA</a>.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul>
@@ -63,11 +52,11 @@ accordion:
 
       <strong>Update MOM's Occupational Employment Dataset (OED)</strong>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more ab out OED</a>.
 
       <strong>File and Pay your GST</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within 1 month from the end of the GST accounting period. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
       
@@ -81,59 +70,91 @@ accordion:
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements1.png" aria-hidden=true>
 
-      <h4>From your first financial year</h4>
-      
-      <strong>Pay property tax bill if your company owns properties</strong>
+      <h4>From your first year</h4>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
+      <strong>Renew your business registration</strong>
 
-      <h4>From your second financial year</h4>
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.acra.gov.sg/how-to-guides/renewing-your-registration-for-sole-proprietorships-partnerships" target="_blank" rel="noopener">Renew your business registration</a> before the expiry date. You can choose to renew your business for 1 or 3 years.
+
+      <strong>Pay property tax bill if your business owns properties</strong>
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="c"> <a href="https://www.iras.gov.sg/taxes/property-tax "  target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
+
+      <h4>From your second year</h4>
 
       <strong>Submit employees income information</strong>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> By the 1st of March of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide Form IR8A and appendices (where applicable) to employees.
+      
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D">By the 1st of March of your 2nd year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide Form IR8A and appendices (where applicable) to employees.
 
       <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements2.png" aria-hidden=true>
 
-      <h4>From your second/third* financial year</h4>
+      <h4>From your second/third  year</h4>
 
-      *Whether you do the following in your second/third financial year depends on whether your company has closed its books in the year of incorporation and income received for the year. 
-
-      <strong>File your Estimated Chargeable Income (ECI)</strong>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> File Estimated Chargeable Income (ECI) within 3 months of FYE if company does not qualify for ECI <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/estimated-chargeable-income-(eci)-filing/#title2" target="_blank" rel="noopener">filing waiver</a>.
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> Receive Notice of Assessment (NOA) within 7 days after ECI filing. No NOA will be issued when a NIL ECI is filed.
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Pay Tax Bill within 1 month from the date of the NOA.
-
-      <strong>File your annual returns with ACRA</strong>
-
+      *For partnerships, your income tax filing obligations may arise in your third year instead.
+      
+      <strong>Estimated Chargeable Income (ECI)</strong>
+      
       <table>
       <tr>
-      <td style='width: 40%;'></td>
-      <th style='width: 30%;'>Listed company</td>
-      <th style='width: 30%;'>Private company</td>
+        <thFor sole proprietors</th>
+        <th>For partnerships*</th>
       </tr>
       <tr>
-      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Hold annual general meeting. Present financial statements & updates to members.</td>
-      <td>Within 4 months from the end of FYE.</td>
-      <td>Within 6 months from the end of FYE.</td>
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> File your Estimated Chargeable Income (ECI) within 3 months of your Financial Year End (FYE) if business receives notification to file.</td>
+
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H">Your partnership entity should file your Estimated Chargeable Income within 3 months of your Financial Year End (FYE) if business receives notification to file.</td>
       </tr>
       <tr>
-      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> File annual returns with ACRA</td>
-      <td>Within 5 months from the end of FYE.</td>
-      <td>Within 7 months from the end of FYE.</td>
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Receive Notice of Assessment (NOA) within 7 days after ECI filing. No NOA will be issued when a NIL ECI is filed.</td>
+
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I ">Receive Allocation of Estimated Profit/Loss to Partners within 7 days after ECI filing.</td>
+      </tr>
+      <tr>
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Pay tax bill within 1 month from the date of the Notice of Assessment (NOA). </td>
+
+        <td></td>
       </tr>
       </table>
 
+      <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements3.png" aria-hidden=true>
+
       <strong>File your corporate income tax</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I"> <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies" target="_blank" rel="noopener">File Corporate Income tax returns</a> [Form C-S/ FormC-S(Lite)/ Form C] by 30 Nov
-      
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> - <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> Receive NOA by 31 May of the following year, and Pay Corporate Income tax within 1 month from the date of NOA. If company does not agree with assessment raised, it can <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/form-for-filing-notice-of-objection.pdf?sfvrsn=4f837c1e_11" target="_blank" rel="noopener">file an objection</a> within 2 months from the date of NOA with the Revise/ Object to Assessment digital service.
+      *For partners who are corporate entities, please refer to the "<a href="/regulatory-requirements-guides/key-regulatory-requirements-for-local-companies">Key regulatory requirements for local companies</a>" infographic.
 
-      <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements3.png" aria-hidden=true>
+      <table>
+      <tr>
+        <th>For sole proprietors</th>
+        <th>For partnerships</th>
+      </tr>
+      <tr>
+        <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> File your individual income tax return (Form B/B1) between 1 Mar to 18 Apr.<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/K.png' aria-hidden='true' alt="K"> Receive your NOA from the end of April onwards<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> Pay your income tax within 1 month from the date of your NOA<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/M.png' aria-hidden='true' alt="M"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> within 30 days from the date of your NOA</td>
+        
+        <td><strong>For partnership entity</strong><br><br>
+        
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/N.png' aria-hidden='true' alt="N">Your partnership must file its partnership income tax return (Form P) between 1 Feb to 18 Apr. If a partnership e-files its Form P by 28 Feb, the partnership allocation will be pre-filled into the respective partners' Form B/B1.<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/O.png' aria-hidden='true' alt="O">Receive your Allocation of Profit/Loss to Partners after Form P has been processed.<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/P.png' aria-hidden='true' alt="P">If you do not agree with the allocation raised, file an objection within 30 days from the date of your allocation.<br><br>
+
+        <strong>For partners within the entity</strong><br><br>
+        
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/Q.png' aria-hidden='true' alt="Q">All partners within your partnership have to file their individual income tax returns (Form B/B1) between 1 Mar to 18 Apr.<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/R.png' aria-hidden='true' alt="R">Receive your NOA from the end of April onwards.<br><br>
+
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/S.png' aria-hidden='true' alt="S">Pay your income tax within 1 month from the date of your NOA.<br><br>
+        
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/T .png' aria-hidden='true' alt="T">If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a>  within 30 days from the date of your NOA</td>
+      </tr>
+      </table>
 
   - title: Hiring workers
     content: |
