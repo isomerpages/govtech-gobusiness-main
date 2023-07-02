@@ -3,37 +3,27 @@ accordion:
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/llp_businssregistration.png" aria-hidden=true>
 
-      <H4>When incorporating your local company:</H4>
+      <H4>When registering your LLP:</H4>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> Before registering your business, determine your business activities (SSIC code), business structure and address.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> Before registering your business, determine your business activities (SSIC code), <a href="https://eadviser.gobusiness.gov.sg/businessstructure?src=regulatoryguide-llp" target="_blank" rel="noopener">business structure</a> and <a href="/start-a-business/submit-a-business-address/">address</a>.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Apply for Local Company Name with ACRA.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=L" target="_blank" rel="noopener">Apply for Business Name</a> with ACRA.
+      
+      <img style='width:24px; height:auto; float:left; mar gin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=L" target="_blank" rel="noopener">Incorporate your LLP</a> with ACRA. When registering your LLP, appoint at least two partners and at least one manager who is a local resident in Singapore, a natural person of full age (i.e. at least 18 years old) and of capacity.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Incorporate your Local Company with ACRA. When registering your business, specify when your Financial Year ends and appoint officers including:<br>
-      - Company Director<br>
-      - Company Secretary<br>
-      - Auditor (unless exempted)<br>
-      - Chief Executive Officer (optional)<br>
-      - Managing Director (optional)<br>
-
-      <H4>After incorporating your local company:</H4>
+      <H4>After registering your LLP:</H4>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> After you have received your UEN, <a href="https://www.corppass.gov.sg/cpauth/login/homepage" target="_blank" rel="noopener">register for a Corppass</a> admin account to gain access to all the government services.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.Registrable controllers (RC) are people in your company who:<br>
-      (a) has an interest in >25% of shares in your company; or<br>
-      (b) hold >25% of members' voting rights in your company; or<br>
-      (c) can exercise significant influence or control over your company/LLP
-
-      <strong>Before you hire your first employee:</strong>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Employers will require a <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopenner">CPF Submission Number (CSN)</a> to submit CPF contributions for their local and Singapore Permanent Resident employees.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.
+      
+      Registrable controllers (RC) in your LLP can exercise significant influence or control over your LLP.
 
   - title: Ad hoc requirements
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/llp_adhocrequirements.png" aria-hidden=true>
     
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in company information or to the RORC information of your company, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any <strong>change to LLP information</strong>, <strong>LLP officers' information</strong> and the <strong>RORC</strong>, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul>
@@ -47,13 +37,13 @@ accordion:
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/llp_monthlyrequirements.png" aria-hidden=true>
 
-      <strong>If your business hires foreign workers:</strong>
+      <strong>If your LLF hires foreign workers:</strong>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
 
-      <strong>If your business hires Singapore Citizens and Permanent Residents (SPR):</strong>
+      <strong>If your LLP hires Singapore Citizens and Permanent Residents (SPR):</strong>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
 
@@ -67,12 +57,12 @@ accordion:
 
       <strong>File and Pay your GST</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within 1 month from the end of the GST accounting period. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
       
       <strong>For example:</strong><br>
-      Company A<br>
+      LLP A<br>
       Financial Year ends in December<br>
       - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and pay by 31 Oct.<br>
       - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and the GIRO deduction for payment will be on 15 Nov.
@@ -81,13 +71,13 @@ accordion:
     content: |
       <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements1.png" aria-hidden=true>
 
-      <h4>From your first financial year</h4>
+      <h4>From your first year</h4>
       
-      <strong>Pay property tax bill if your company owns properties</strong>
+      <strong>Pay property tax bill if your LLP owns properties</strong>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
 
-      <h4>From your second financial year</h4>
+      <h4>From your second year</h4>
 
       <strong>Submit employees income information</strong>
 
