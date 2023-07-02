@@ -94,8 +94,8 @@ accordion:
       
       <table>
       <tr>
-        <th>For sole proprietors</th>
-        <th>For partnerships*</th>
+        <th style='width: 50%;'>For sole proprietors</th>
+        <th style='width: 50%;'>For partnerships*</th>
       </tr>
       <tr>
         <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> File your Estimated Chargeable Income (ECI) within 3 months of your Financial Year End (FYE) if business receives notification to file.<br><br>
@@ -116,8 +116,8 @@ accordion:
 
       <table>
       <tr>
-        <th>For sole proprietors</th>
-        <th>For partnerships</th>
+        <th style='width: 50%;'>For sole proprietors</th>
+        <th style='width: 50%;'>For partnerships</th>
       </tr>
       <tr>
         <td><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> <a href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-self-employed-persons/basic-guide-for-self-employed-persons" target="_blank" rel="noopener">File your individual income tax return</a> (Form B/B1) between 1 Mar to 18 Apr.<br><br>
