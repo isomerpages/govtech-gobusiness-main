@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
+title: 'DM Accelerated Digital Marketing For SMEs'
 permalink: /productivity-solutions-grant/solutionrepo/solution912
 ---
 
-## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+## DM Accelerated Digital Marketing For SMEs
 
 ## Overview
 
 **Description**
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Paid Advertising</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Lead Generation</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Creative Video Campaign</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 
 ## Vendor Information
 
- Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
+ Company Name: Next Level SG Pte Ltd<br>Web URL: www.Nextlevel.sg <br><br>Contact Hotline: 83765715 <br><br>Contact Email: info@nextlevel.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
