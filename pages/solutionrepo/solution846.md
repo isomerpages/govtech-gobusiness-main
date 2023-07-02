@@ -1,15 +1,15 @@
 ---
-title: 'DM Leading Solution Digital Marketing Packages Version 1'
+title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution846
 ---
 
-## DM Leading Solution Digital Marketing Packages Version 1
+## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ permalink: /productivity-solutions-grant/solutionrepo/solution846
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
+ Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

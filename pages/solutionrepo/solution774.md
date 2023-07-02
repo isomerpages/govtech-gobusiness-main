@@ -1,15 +1,15 @@
 ---
-title: 'Freight Master Version 8.2'
+title: 'KEEPITAL Sales Management Business Solution Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution774
 ---
 
-## Freight Master Version 8.2
+## KEEPITAL Sales Management Business Solution Version 3
 
 ## Overview
 
 **Description**
 
-The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of five core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low-cost solution, thereby providing a more level playing field for the SMEs.
+Keepital is an online Global B2B platform that brings together buyers and suppliers and allows business owners to reach out to local and overseas prospects. Through this platform, business owners can list their products and services to generate quotations to potential buyers. The objective is to digitalise all SME products and services into a single platform to increase productivity, leads generation and improve sales and revenue, reducing the workload of a salesperson.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ The Freight Master software is a suite of integrated and comprehensive software 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 7 User Package</td>
-<td style='padding: 10px;'>$20,440.00</td>
-<td style='padding: 10px;'>$20,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 18 User Package</td>
-<td style='padding: 10px;'>$36,240.00</td>
-<td style='padding: 10px;'>$36,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (500 Product Showcase)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$19,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 24 User Package</td>
-<td style='padding: 10px;'>$40,800.00</td>
-<td style='padding: 10px;'>$37,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$29,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ The Freight Master software is a suite of integrated and comprehensive software 
 
 ## Vendor Information
 
- Company Name:Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
+ Company Name: Keep Pte Ltd<br>Web URL: www.keepital.com <br>Contact Hotline: 96239126 <br>Contact Email: ask@keepital.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

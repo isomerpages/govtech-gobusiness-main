@@ -1,15 +1,15 @@
 ---
-title: 'Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1'
+title: 'Psoft Accounting Systems Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1031
 ---
 
-## Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1
+## Psoft Accounting Systems Version 7
 
 ## Overview
 
 **Description**
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+Psoft Accounting software help SMEs keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Psoft Accounting software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Single User - Peppol Ready)</td>
+<td style='padding: 10px;'>$1,520.00</td>
+<td style='padding: 10px;'>$1,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 10xVPN Licences</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Three Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'>$3,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Five Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Single User with PEPPOL)</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 50xVPN Licences</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Three Users with PEPPOL)</td>
+<td style='padding: 10px;'>$6,660.00</td>
+<td style='padding: 10px;'>$5,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 
 ## Vendor Information
 
- Company Name: Nucleo Consulting Pte Ltd<br>Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br><br>Contact Hotline: 69110533 <br><br>Contact Email: contact@nucleoconsulting.com <br><br>
+ Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
