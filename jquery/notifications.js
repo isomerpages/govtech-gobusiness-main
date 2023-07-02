@@ -48,7 +48,6 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 21 Jun 2023 10pm to 22 Jun 2023 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 26 May 2023 10pm to 27 May 2022 8am<br>(2) From 27 May 2023 10pm to 28 May 2023 8am"
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) 16 Jun 2023 from 12am to 6am<br>(2) From 16 Jun 2023 10pm to 17 Jun 2023 6am<br>(3) From 17 Jun 2023 6pm to 19 Jun 2023 6am"
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 30 Jun 2023 10pm to 1 Jul 2023 8am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
 
   //[**APEX / EDH**]
   //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) From 18 May 2023 10pm to 19 May 2023 3am<br>(2) From 20 May 2023 6pm to 21 May 2023 2am",
@@ -74,6 +73,13 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance on from 26 May 2023 10pm to 26 May 11.59pm. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on 11 June 2023 from 12am to 10am due to scheduled maintenance. We apologise for the inconvenience caused."
   
+
+
+  //[**GCC Migration**]
+  //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
+
+
+  //
 
 ];
 
