@@ -112,16 +112,16 @@ accordion:
       <table>
       <tr>
       <td style='width: 40%;'></td>
-      <th style='width: 30%;'>Listed company</td>
-      <th style='width: 30%;'>Private company</td>
+      <th style='width: 30%;'>Listed company</th>
+      <th style='width: 30%;'>Private company</th>
       </tr>
       <tr>
-      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Hold annual general meeting. Present financial statements & updates to members.</td>
+      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Hold annual general meeting. Present financial statements & updates to members.</th>
       <td>Within 4 months from the end of FYE.</td>
       <td>Within 6 months from the end of FYE.</td>
       </tr>
       <tr>
-      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> File annual returns with ACRA</td>
+      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> File annual returns with ACRA</th>
       <td>Within 5 months from the end of FYE.</td>
       <td>Within 7 months from the end of FYE.</td>
       </tr>
