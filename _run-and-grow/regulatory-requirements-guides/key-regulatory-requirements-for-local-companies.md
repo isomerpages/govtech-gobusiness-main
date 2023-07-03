@@ -1,6 +1,6 @@
 ---
 title: Key regulatory requirements for local companies
-permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-local-companies
+permalink: /regulatory-requirements-guides/local-companies
 third_nav_title: Regulatory Requirements Guides
 ---
 

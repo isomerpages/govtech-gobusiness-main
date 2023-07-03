@@ -1,6 +1,6 @@
 ---
 title: Key regulatory requirements for sole proprietorships/partnership (SP/P)
-permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-sole-proprietorships-partnership-SPP
+permalink: /regulatory-requirements-guides/sole-proprietorships-partnership-SPP
 third_nav_title: Regulatory Requirements Guides
 ---
 

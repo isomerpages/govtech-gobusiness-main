@@ -1,6 +1,6 @@
 ---
 title: Key regulatory requirements for limited partnership (LP)
-permalink: /regulatory-requirements-guides/key-regulatory-requirements-for-limited-partnership-LP
+permalink: /regulatory-requirements-guides/limited-partnership-LP
 third_nav_title: Regulatory Requirements Guides
 ---
 
