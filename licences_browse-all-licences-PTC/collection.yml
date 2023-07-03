@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-PTC:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Ticket-Payment-Service-Licence--TPSL-.md

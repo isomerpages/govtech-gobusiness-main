@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-EnterpriseSG:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Rubber-Licence.md

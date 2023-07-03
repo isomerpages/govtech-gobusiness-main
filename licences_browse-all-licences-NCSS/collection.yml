@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-NCSS:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Fund-raising-Permit.md

@@ -1,0 +1,7 @@
+collections:
+  browse-all-licences-SLA:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Application-of-Registering-Property.md
+      - Temporary-Occupation-Licences.md

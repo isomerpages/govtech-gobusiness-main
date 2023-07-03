@@ -1,0 +1,7 @@
+collections:
+  browse-all-licences-MSF:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Licence-for-Residential-Care-Facilities.md
+      - SDNTrust-Accreditation.md

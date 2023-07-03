@@ -1,0 +1,8 @@
+collections:
+  browse-all-licences-PUB:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Event-Permit-Application-for-Use-of-Reservoir.md
+      - Plumber-Licence.md
+      - Written-Approval-for-the-Discharge-of-Trade-Effluent-Into-the-Public-Sewer.md

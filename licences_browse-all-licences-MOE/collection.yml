@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-MOE:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Certificate-of-Registration-of-School.md

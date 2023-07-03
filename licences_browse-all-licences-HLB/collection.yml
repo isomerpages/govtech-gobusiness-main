@@ -1,0 +1,6 @@
+collections:
+  browse-all-licences-HLB:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Certificate-of-Registration-and-Hotel-keeper's-Licence.md
