@@ -1,15 +1,15 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: 'SAGE 300'
 permalink: /productivity-solutions-grant/solutionrepo/solution1140
 ---
 
-## WEB360 Version 2.0.0
+## SAGE 300
 
 ## Overview
 
 **Description**
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 2 Users)</td>
+<td style='padding: 10px;'>$12,736.00</td>
+<td style='padding: 10px;'>$11,404.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 3 Users)</td>
+<td style='padding: 10px;'>$16,448.00</td>
+<td style='padding: 10px;'>$14,672.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 5 Users)</td>
+<td style='padding: 10px;'>$26,384.00</td>
+<td style='padding: 10px;'>$23,276.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 10 Users)</td>
+<td style='padding: 10px;'>$35,664.00</td>
+<td style='padding: 10px;'>$30,546.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 15 Users)</td>
+<td style='padding: 10px;'>$44,144.00</td>
+<td style='padding: 10px;'>$37,116.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_SEG_Annex3_CR_wef_20_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company Name: SEG IT Services Pte Ltd<br>Web URL: http:// www.segit.com.sg <br>Contact Hotline: 64830950 <br>Contact Email: sales@segit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
