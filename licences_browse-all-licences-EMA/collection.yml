@@ -1,9 +1,0 @@
-collections:
-  browse-all-licences-EMA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Electricity-Generation.md
-      - Electricity-Retailer.md
-      - Electricity-Wholesaler.md
-      - Gas-Shipper--Retailer-or-Importer.md

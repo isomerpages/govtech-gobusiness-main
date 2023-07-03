@@ -1,7 +1,0 @@
-collections:
-  browse-all-licences-MCCY:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Application-for-Permit-to-conduct-Fund-Raising-Appeal-for-Foreign-Charitable-Purposes.md
-      - Registering-A-New-Charity-or-IPC-Status.md

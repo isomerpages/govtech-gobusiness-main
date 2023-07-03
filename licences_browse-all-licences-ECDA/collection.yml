@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-ECDA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Early-Childhood-Development-Centre-Licence.md

@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-BOA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Licence-to-Supply-Architectural-Services.md

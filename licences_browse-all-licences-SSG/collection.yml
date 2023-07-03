@@ -1,7 +1,0 @@
-collections:
-  browse-all-licences-SSG:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - EduTrust-Certification-Scheme.md
-      - Registration-of-Private-Education-Institutions.md

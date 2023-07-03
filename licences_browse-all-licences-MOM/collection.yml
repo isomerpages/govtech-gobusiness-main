@@ -1,9 +1,0 @@
-collections:
-  browse-all-licences-MOM:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Employment-Agency-Licence.md
-      - Factory-Notification-and-Registration.md
-      - Foreign-Employee-Dormitories-Act-Licence-.md
-      - Work-passes-and-permits.md

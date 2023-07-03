@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-PEB:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Licence-to-Supply-Professional-Engineering-Services.md

@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-CEA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Estate-Agent-Licence-and-Salesperson-Registration.md

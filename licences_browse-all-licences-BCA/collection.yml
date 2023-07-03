@@ -1,9 +1,0 @@
-collections:
-  browse-all-licences-BCA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Advertising-Sign--Signboard-Licence.md
-      - Amusement-Rides-Permit.md
-      - Permit-to-Erect-Temporary-Building.md
-      - Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation.md

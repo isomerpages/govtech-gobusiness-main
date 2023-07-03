@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-MHA:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Registry-of-Societies.md
