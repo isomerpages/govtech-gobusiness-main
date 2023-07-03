@@ -1,12 +1,12 @@
  <style>
-  .content .panels {
+  .mobilecontent .mobilepanels {
       display: grid;
       grid-gap: 20px;
       grid-template-columns: 1fr;
       margin: 24px 0;
   }
 
-  .content .panel {
+  .mobilecontent .mobilepanels {
       display: grid;
       row-gap: 16px;
       background-color: #F9FAFA;
@@ -18,7 +18,7 @@
       grid-auto-rows: auto;
   }
 
-  .content .panel .panel-image {
+  .mobilecontent .mobilepanels .mobilepanels-image {
       font-family: hknova-semibold;
       font-size: 24px;
       font-weight: 700;
@@ -26,91 +26,85 @@
       height: 60px;
   }
 
-  .content .panel .panel-image>img {
+  .mobilecontent .mobilepanels .mobilepanels-image>img {
       width: auto;
       height: 100%;
       margin: 0;
   }
 
-  .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
-      width: 150px;
-      object-fit: cover;
-      object-position: 90% 10%;
-  }
-
-  .content .panel .panel-title {
+  .mobilecontent .mobilepanels .mobilepanels-title {
       font-family: hknova-semibold;
       margin: 0;
   }
 
-  .content .panel .panel-description,
-  .content [class*="panel-"]>div {
+  .mobilecontent .mobilepanels .mobilepanels-description,
+  .mobilecontent [class*="mobilepanels-"]>div {
       font-family: hknova-regular;
       margin: 0;
   }
 
-  .content .panel .panel-links-container {
+  .mobilecontent .mobilepanels .mobilepanels-links-container {
       display: grid;
       row-gap: 8px;
       height: fit-content;
       align-self: end;
   }
 
-  .content .panel .panel-link {
+  .mobilecontent .mobilepanels .mobilepanels-link {
       font-size: 18px;
       line-height: 27px;
       display: block;
       margin: 0;
   }
 
-  /* Desktop view style, hide panel */
+  /* Desktop view style, hide mobilepanels */
   @media (min-width: 768px) {
-      .content .panel {
+      .mobilecontent .mobilepanels {
         display: none;
       }
   }
   
 </style>
-<div class="panels">
-  {% for panel in include.panels %}
-  <div class="panel">
-      {% if {{panel.label}} %}
-      <div class="panel-label">{% include label.html label=panel.label %}</div>
+<div class="mobilepanels">
+  {% for mobilepanels in include.panels %}
+  <div class="mobilepanels">
+      {% if {{mobilepanels.label}} %}
+      <div class="mobilepanels-label">{% include label.html label=mobilepanels.label %}</div>
       {% endif %}
-      {% if panel.image %}
-      <div class="panel-image">{{ panel.image }}</div>
+      {% if mobilepanels.image %}
+      <div class="mobilepanels-image">{{ mobilepanels.image }}</div>
       {% endif %}
-      <h4 class="panel-title">{{ panel.title }}</h4>
-      {% if panel.description %}
-      <p class="panel-description">{{ panel.description }}</p>
+      <h4 class="mobilepanels-title">{{ mobilepanels.title }}</h4>
+      {% if mobilepanels.description %}
+      <p class="mobilepanels-description">{{ mobilepanels.description }}</p>
       {% endif %}
-      {% if panel.tel or panel.email or panel.url %}
-      <div class="panel-links-container">
-          {% if panel.tel %}
-          <div class="panel-links-group">
-              {% assign tels = panel.tel | split: ',' %}
+      {% if mobilepanels.tel or mobilepanels.email or mobilepanels.url %}
+      <div class="mobilepanels-links-container">
+          {% if mobilepanels.tel %}
+          <div class="mobilepanels-links-group">
+              {% assign tels = mobilepanels.tel | split: ',' %}
               {% for tel in tels %}
-              <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
+              <a class="mobilepanels-link" href="tel:{{ tel }}">{{ tel }}</a>
               {% endfor %}
           </div>
           {% endif %}
-          {% if panel.email %}
-          <div class="panel-links-group">
-              {% assign emails = panel.email | split: ',' %}
+          {% if mobilepanels.email %}
+          <div class="mobilepanels-links-group">
+              {% assign emails = mobilepanels.email | split: ',' %}
               {% for email in emails %}
-              <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+              <a class="mobilepanels-link" href="mailto:{{ email }}">{{ email }}</a>
               {% endfor %}
           </div>
           {% endif %}
-          {% if panel.url %}
-          <div class="panel-links-group">
-              {% assign urls = panel.url | split: ',' %}
+          {% if mobilepanels.url %}
+          <div class="mobilepanels-links-group">
+              {% assign urls = mobilepanels.url | split: ',' %}
               {% for url in urls %}
-              <a class="panel-link"
+              <a class="mobilepanels-link"
                   rel="noopener"
-                  href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                  target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}"  rel="noopener">
-                  {% if panel.text %}{{panel.text}}
+                  href="{% if mobilepanels.protocol %}{{mobilepanels.protocol}}://{% else %}{% endif %}{{url}}"
+                  target="{% if mobilepanels.url-new-tab %}_blank{% else %}{% endif %}"  rel="noopener">
+                  {% if mobilepanels.text %}{{mobilepanels.text}}
                   {% else %}{{url}}{% endif %}</a>
               {% endfor %}
           </div>
