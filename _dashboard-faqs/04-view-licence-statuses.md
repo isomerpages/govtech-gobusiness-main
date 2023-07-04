@@ -17,7 +17,7 @@ third_nav_title: Licences
 </tr>
 <tr>
 <td><p id="status-border" class="green">Renewed</p></td>
-<td>Licence is Renewed with a new issue date and expiry date.</td>
+<td>Licence is renewed with a new issue date and expiry date.</td>
 </tr>
 <tr>
 <td><p id="status-border" class="green">In-Principle Approval</p></td>
