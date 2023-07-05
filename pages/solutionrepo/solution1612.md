@@ -26,35 +26,35 @@ SmartFM is a facility management suite that assists facility operators with a co
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (500 Pax)</td>
 <td style='padding: 10px;'>$20,600.00</td>
 <td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (2000 Pax)</td>
 <td style='padding: 10px;'>$32,200.00</td>
 <td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (250 Pax)</td>
 <td style='padding: 10px;'>$29,800.00</td>
 <td style='padding: 10px;'>$27,300.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (500 Pax)</td>
 <td style='padding: 10px;'>$33,000.00</td>
 <td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (1000 Pax)</td>
 <td style='padding: 10px;'>$37,800.00</td>
 <td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'><a href='https://www.gobusiness.gov.sg/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
