@@ -1,15 +1,15 @@
 ---
-title: 'DM Roots Digital Marketing Packages'
+title: 'Tisch Global - Xero Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1312
 ---
 
-## DM Roots Digital Marketing Packages
+## Tisch Global - Xero Accounting
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1312
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 1 - [SEO, Facebook Ads & 1 SEO Content]-[2 Months]</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$779.00</td>
+<td style='padding: 10px;'>$717.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 2 - [SEO, SEM & 1 SEO Content] - [2 Months]</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
+<td style='padding: 10px;'>$1,804.00</td>
+<td style='padding: 10px;'>$1,742.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 3 - [SEO, Facebook Ads, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$2,929.00</td>
+<td style='padding: 10px;'>$2,867.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 4 - [SEO, SEM, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
+<td style='padding: 10px;'>$6,138.00</td>
+<td style='padding: 10px;'>$6,057.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 5 - [SEO, Facebook Ads, 2 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
+<td style='padding: 10px;'>$7,388.00</td>
+<td style='padding: 10px;'>$7,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Roots Digital Pte. Ltd.<br>Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: matthew@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

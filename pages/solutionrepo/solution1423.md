@@ -1,15 +1,17 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'Xintesys Sales and Inventory Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1423
 ---
 
-## DM SBC Digital Marketing Packages
+## Xintesys Sales and Inventory Management Solution
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +25,17 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1423
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Pack (10 users)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$19,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +45,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1423
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company name:Xintesys Consultancy Pte Ltd<br>Web URL: https://xintesys.com/xintesys-demo/ <br>Contact Hotline: 62721237 <br>Contact Email: solutions@xintesys.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

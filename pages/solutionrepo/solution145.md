@@ -1,16 +1,15 @@
 ---
-title: 'AGHRM'
+title: 'Alpha eCommerce Booster Premium Version 2.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution145
 ---
 
-## AGHRM
+## Alpha eCommerce Booster Premium Version 2.8
 
 ## Overview
 
 **Description**
 
-AGHRMS is an All-in-One Cloud Payroll & HR Software for today's HR: Easy Payroll for 100% compliance, eAttendance, Appraisal, Leave, Claims etc on a Single, Secure Portal.
-Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repetitive, tedious processes for 80% increase in HR efficiency. The company serves SMEs, MNCs & NPOs with presence in countries mainly in Singapore, Malaysia, Indonesia, Myanmar and Thailand.
+Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,20 @@ Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repet
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 30</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 50</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 100</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 200</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AlphabetSix_Alpha_eCommerce_Booster_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AG NET PTE. LTD.<br>Web URL: https://www.aghrms.com/hrms-payroll-software-singapore/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com 
+ Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

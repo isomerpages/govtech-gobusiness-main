@@ -1,15 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - CET Global Pte Ltd'
+title: 'Autocount Accounting Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution385
 ---
 
-## Job Redesign Consultancy - CET Global Pte Ltd
+## Autocount Accounting Version 2.0
 
 ## Overview
 
 **Description**
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,38 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +65,7 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 ## Vendor Information
 
- Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,15 @@
 ---
-title: 'Getz F&B Omni Channel Solution Version 2'
+title: 'SentroWeb Version 3.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution695
 ---
 
-## Getz F&B Omni Channel Solution Version 2
+## SentroWeb Version 3.0.0
 
 ## Overview
 
 **Description**
 
-Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
-
-Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
-
-Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
+Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that businesses can take the complexities out of AML/CFT compliance, and get straight to business.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +23,38 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite 50</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 100</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 500</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular DJ 1000</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium DJ 8K</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +64,7 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email:  connect@getz.co
+ Company name:Ingenique Solutions Pte Ltd<br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

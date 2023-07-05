@@ -1,43 +1,37 @@
 ---
-title: 'TWCSS - teamWork CRM'
+title: 'Circular Gas Cutter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1472
 ---
 
-## TWCSS - teamWork CRM
+## Circular Gas Cutter
 
 ## Overview
 
 **Description**
 
-Digital transformation is key to strive in today's competitive market. teamWork CRM is a fully cloud-based solution tailormade to heighten the levels of efficiency, control & clarity for any businesses. Facilitated with an ensuite of key modules & functions (sales, internal processes, document control, mass communications etc.), it ensures that all aspects of the business is captured & deeply integrated within to exercise and take control of.
+Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+
+Cost of equipment capped at $18,750 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,15 +1,15 @@
 ---
-title: 'PayAdvisorMobile HRMS'
+title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
 permalink: /productivity-solutions-grant/solutionrepo/solution361
 ---
 
-## PayAdvisorMobile HRMS
+## Fortigate Firewall for IT Security or VPN - CARE IT
 
 ## Overview
 
 **Description**
 
-PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
+FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 1 (up to 25 users)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
+<td style='padding: 10px;'>$4,475.00</td>
+<td style='padding: 10px;'>$4,475.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 2 (up to 50 users)</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
+<td style='padding: 10px;'>$5,055.00</td>
+<td style='padding: 10px;'>$5,055.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 3 (up to 100 users)</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
+<td style='padding: 10px;'>$6,718.00</td>
+<td style='padding: 10px;'>$6,718.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 4 (up to 150 users)</td>
-<td style='padding: 10px;'>$16,450.00</td>
-<td style='padding: 10px;'>$16,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
+<td style='padding: 10px;'>$11,818.00</td>
+<td style='padding: 10px;'>$11,818.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 5 (up to 200 users)</td>
-<td style='padding: 10px;'>$20,550.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
+<td style='padding: 10px;'>$13,570.00</td>
+<td style='padding: 10px;'>$13,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com<br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
+ Company Name: Computer Analysts and Recovery Experts Pte Ltd<br>Web URL: www.care.biz <br><br>Contact Hotline: 67448022 <br><br>Contact Email: sales@sg.care.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution699' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution605' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br></td>
 <td>Glodon International Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution820' target='_blank'>INNOCOM - ASSEMBLE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution706' target='_blank'>INNOCOM - ASSEMBLE</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 </table>

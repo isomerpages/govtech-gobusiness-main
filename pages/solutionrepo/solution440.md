@@ -1,15 +1,15 @@
 ---
-title: 'BIZ POS VER 3.5'
+title: 'Sage 300 InvoiceNOW'
 permalink: /productivity-solutions-grant/solutionrepo/solution440
 ---
 
-## BIZ POS VER 3.5
+## Sage 300 InvoiceNOW
 
 ## Overview
 
 **Description**
 
-Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
+Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
+<td style='padding: 10px;'>$20,705.96</td>
+<td style='padding: 10px;'>$19,205.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$38,603.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
-<td style='padding: 10px;'>$5,750.00</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
+<td style='padding: 10px;'>$42,242.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$6,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
+<td style='padding: 10px;'>$47,703.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$50,103.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 
 ## Vendor Information
 
- Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
+ Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

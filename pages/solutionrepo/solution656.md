@@ -1,15 +1,15 @@
 ---
-title: 'FirstCom Ecommerce Web Development'
+title: 'Hubble Safety Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution656
 ---
 
-## FirstCom Ecommerce Web Development
+## Hubble Safety Management System
 
 ## Overview
 
 **Description**
 
-Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
+Hubble Safety Management System helps businesses manage and monitor the safety of their project sites in real-time. The software will streamline and digitise Permit-to-Work (PTW) and track safety data for work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites always remain safe and compliant.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,41 @@ Development of an online shopping website with comprehensive functionalities to 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FirstCom Ecommerce Web Development - Firstcom Ecommerce</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/firstcom_desensitised_annex3_wef_7_July_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 1 Project)</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 2 Projects)</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 3 Projects)</td>
+<td style='padding: 10px;'>$26,900.00</td>
+<td style='padding: 10px;'>$26,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 4 Projects)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company name:Hubble Pte Ltd<br>Web URL: hubble.sg/product/safety <br>Contact Hotline: 68167890 <br>Contact Email: sales@hubble.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

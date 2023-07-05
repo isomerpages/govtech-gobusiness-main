@@ -28,79 +28,79 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1763' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1469' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1775' target='_blank'>Circular Gas Cutter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1472' target='_blank'>Circular Gas Cutter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1808' target='_blank'>Portable Automatic Pipe Gas Cutter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1475' target='_blank'>Portable Automatic Pipe Gas Cutter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1826' target='_blank'>Portable Automatic Gas Cutting Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1476' target='_blank'>Portable Automatic Gas Cutting Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1827' target='_blank'>Power Jack for Steel Plates Adjustment (Perpendicular)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1477' target='_blank'>Power Jack for Steel Plates Adjustment (Perpendicular)</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1829' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1479' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1865' target='_blank'>Steel Plate Butt Joint Welding Alignment Tool</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1484' target='_blank'>Steel Plate Butt Joint Welding Alignment Tool</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1896' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1486' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2001' target='_blank'>Augmented Reality Welding Training Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1489' target='_blank'>Augmented Reality Welding Training Solution</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2881' target='_blank'>Battery-Powered Rope Ascender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1504' target='_blank'>Battery-Powered Rope Ascender</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2882' target='_blank'>Laser Geometric Alignment System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1505' target='_blank'>Laser Geometric Alignment System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2883' target='_blank'>Auto Welding Carriage</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1506' target='_blank'>Auto Welding Carriage</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3019' target='_blank'>Digital Welding Equipment </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1507' target='_blank'>Digital Welding Equipment </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3766' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1518' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3767' target='_blank'>Automated tools management system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1519' target='_blank'>Automated tools management system</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3768' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1520' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3805' target='_blank'>Battery-operated Torque Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1525' target='_blank'>Battery-operated Torque Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution4149' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1581' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution4150' target='_blank'>Robotic arms</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1582' target='_blank'>Robotic arms</a><br></td>
 <td></td>
 </tr>
 </table>

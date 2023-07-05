@@ -1,15 +1,15 @@
 ---
-title: 'RFID Inventory Management System'
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1332
 ---
 
-## RFID Inventory Management System
+## EZ Accounting and Inventory Software
 
 ## Overview
 
 **Description**
 
-Many SMEs manage, track and stock take their inventory and assets manually. Long manual processing time repeatedly leads to inefficiency and errors that slows down the speed of operation and increases the cost of business. SATO's RFID-based Inventory Management System(ITS) helps businesses to better manage, track and audit their inventory and assets. This will lead to improvement in productivity and traceability, and minimizing of errors in the operation.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Many SMEs manage, track and stock take their inventory and assets manually. Long
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - LITE</td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'>$11,013.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - PROFESSIONAL</td>
-<td style='padding: 10px;'>$39,000.00</td>
-<td style='padding: 10px;'>$14,013.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RFID Inventory Management System - STANDARD</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$13,513.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SATO_Asia_20210261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,873.00</td>
+<td style='padding: 10px;'>$12,598.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SATO Asia Pacific Pte Ltd<br>Web URL: https://satoasiapacific.com/ <br><br>Contact Hotline: 62762722 <br><br>Contact Email: salesorder-sap@sato-global.com <br><br>
+ Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

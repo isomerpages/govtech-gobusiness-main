@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
+title: 'PayAdvisorMobile HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution290
 ---
 
-## Job Redesign Consultancy - BDO Consultants Pte Ltd
+## PayAdvisorMobile HRMS
 
 ## Overview
 
 **Description**
 
-BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
+PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 1 (up to 25 users)</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$4,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 2 (up to 50 users)</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 3 (up to 100 users)</td>
+<td style='padding: 10px;'>$11,150.00</td>
+<td style='padding: 10px;'>$10,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 4 (up to 150 users)</td>
+<td style='padding: 10px;'>$16,450.00</td>
+<td style='padding: 10px;'>$16,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PayAdvisorMobile HRMS - Tier 5 (up to 200 users)</td>
+<td style='padding: 10px;'>$20,550.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/capps_Desensitised_Annex_3_21July2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617 <br>Contact Email: chriskuang@bdo.com.sg
+ Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com<br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

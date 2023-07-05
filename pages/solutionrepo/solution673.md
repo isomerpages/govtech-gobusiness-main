@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Commerce Version 2.0'
+title: 'DM Identity Counsel Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution673
 ---
 
-## Fooyo Commerce Version 2.0
+## DM Identity Counsel Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
+Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$12,888.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 
 ## Vendor Information
 
- Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
+ Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

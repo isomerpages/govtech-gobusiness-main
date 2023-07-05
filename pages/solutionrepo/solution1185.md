@@ -1,15 +1,16 @@
 ---
-title: 'Profectant Xero'
+title: 'Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance'
 permalink: /productivity-solutions-grant/solutionrepo/solution1185
 ---
 
-## Profectant Xero
+## Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance
 
 ## Overview
 
 **Description**
 
-Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
+The Centre for Workplace Learning & Performance (CWLP) of the Singapore University of Social Sciences, Institute for Adult Learning, specialises in learning consultancy, which looks into the people dimension as its core. Through its workplace learning and employee-driven initiatives, projects are run with outcome alignment to several areas, including job redesign. The Centre leverages deep expertise in the adult learning domain for direct application to the workplace context. 
+ 
 
 ## Solution Packages Option(s)
 
@@ -23,34 +24,20 @@ Profectant has established a sound track record in simplifying and implementing 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
+ Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

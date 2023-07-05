@@ -1,15 +1,20 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'Q-DAS - Smart Quality Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution638
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## Q-DAS - Smart Quality Software
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
+Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
+Key features:
+1) Realtime data collection from all brands of measurement equipment
+2) Fast inspection program created from CAD
+3) Full SPC analysis
 
 ## Solution Packages Option(s)
 
@@ -23,10 +28,24 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'>$28,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
+<td style='padding: 10px;'>$40,400.00</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +55,7 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

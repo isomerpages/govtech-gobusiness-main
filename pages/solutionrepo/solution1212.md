@@ -1,15 +1,15 @@
 ---
-title: 'TrackSYNQ'
+title: 'Sugati Travel CRM Version 1.1037'
 permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 
-## TrackSYNQ
+## Sugati Travel CRM Version 1.1037
 
 ## Overview
 
 **Description**
 
-TrackSYNQ is a ready-to-deploy platform that provides track & trace functionality, fleet visibility and geo-fencing, amongst other features. The easy-to-use comprehensive user interface provides real-time monitoring of fleet and drivers from any device. ?TrackSYNQ video solution- MDVR and ADAS- allows users to monitor their fleet operation via live video streaming to see what is happening in real-time, and enables fleet owners to lower accident risk and increase driver awareness on road safety.
+Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,34 @@ TrackSYNQ is a ready-to-deploy platform that provides track & trace functionalit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package A - Basic GPS 5</td>
-<td style='padding: 10px;'>$2,750.00</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package B - Basic GPS 10</td>
-<td style='padding: 10px;'>$5,260.00</td>
-<td style='padding: 10px;'>$4,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
+<td style='padding: 10px;'>$20,520.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package C - Basic GPS 20</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TrackSYNQ - Package D - Basic GPS 50</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'>$19,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quantum_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
+<td style='padding: 10px;'>$41,040.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Quantum Inventions Pte Ltd<br>Web URL: https://www.quantuminventions.com/ <br><br>Contact Hotline: 68371582 <br><br>Contact Email: sales@qi.sg <br><br>
+ Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

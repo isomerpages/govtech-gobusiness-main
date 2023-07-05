@@ -1,15 +1,15 @@
 ---
-title: 'Hubble Safety Management System'
+title: 'Bitdefender GravityZone Business Security Premium'
 permalink: /productivity-solutions-grant/solutionrepo/solution755
 ---
 
-## Hubble Safety Management System
+## Bitdefender GravityZone Business Security Premium
 
 ## Overview
 
 **Description**
 
-Hubble Safety Management System helps businesses manage and monitor the safety of their project sites in real-time. The software will streamline and digitise Permit-to-Work (PTW) and track safety data for work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites always remain safe and compliant.
+GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Hubble Safety Management System helps businesses manage and monitor the safety o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 1 Project)</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 10 Licenses</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 2 Projects)</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 25 Licenses</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 3 Projects)</td>
-<td style='padding: 10px;'>$26,900.00</td>
-<td style='padding: 10px;'>$26,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 50 Licenses</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 4 Projects)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 100 Licenses</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bitdefender GravityZone Business Security Premium - 200 Licenses</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Hubble Pte Ltd<br>Web URL: hubble.sg/product/safety <br>Contact Hotline: 68167890 <br>Contact Email: sales@hubble.sg 
+ Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

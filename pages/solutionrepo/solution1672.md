@@ -1,17 +1,16 @@
 ---
-title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
+title: 'AWECREATION - Fortinet Managed Firewall Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1672
 ---
 
-## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
+## AWECREATION - Fortinet Managed Firewall Solutions
 
 ## Overview
 
 **Description**
 
-Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
- 
-Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
+AWECREATION Managed Firewall Services powered by Fortinet's Next Generation Firewalls (NGFW) provide organizations with application control, intrusion prevention and advanced visibility across their network. NGFWs not only block malware, but also include paths for future updates, giving the flexibility to evolve with changing Cyber threats. 
+Managed by a team of Cyber security specialists, AWECREATION have been protecting enterprises from Cyber threats over the years of service.
 
 ## Solution Packages Option(s)
 
@@ -25,41 +24,48 @@ Wolfgang is a Facebook Official Marketing Partner, with an in-house local team o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 60F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$2,147.00</td>
+<td style='padding: 10px;'>$2,147.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 100F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$5,797.00</td>
+<td style='padding: 10px;'>$5,797.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 100F Firewall with 1st Year 24X7 Remote Managed Service</td>
+<td style='padding: 10px;'>$6,097.00</td>
+<td style='padding: 10px;'>$6,097.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 200F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 200F Firewall with 1st Year 24X7 Remote Managed Service</td>
+<td style='padding: 10px;'>$8,697.00</td>
+<td style='padding: 10px;'>$8,697.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
+ Company Name: AWECREATION PTE LTD <br>Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

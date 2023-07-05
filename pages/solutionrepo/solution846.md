@@ -1,15 +1,15 @@
 ---
-title: 'InfoMaster ERP Software - Asset Monitoring and Management'
+title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution846
 ---
 
-## InfoMaster ERP Software - Asset Monitoring and Management
+## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 
 ## Vendor Information
 
- Company Name: Integrated Software Engineering Pte Ltd<br>Web URL: www.infomaster.com.sg <br><br>Contact Hotline: 67475665 <br><br>Contact Email: sales@ise.com.sg <br><br>
+ Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

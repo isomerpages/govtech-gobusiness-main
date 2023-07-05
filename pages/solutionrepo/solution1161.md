@@ -1,15 +1,15 @@
 ---
-title: 'Xero Accounting software'
+title: 'Simpliify''s E-commerce Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
-## Xero Accounting software
+## Simpliify''s E-commerce Version 1
 
 ## Overview
 
 **Description**
 
-Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
+Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Refresher Package</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Standard Starter Package</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Grow Package</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Starter Package</td>
-<td style='padding: 10px;'>$4,150.00</td>
-<td style='padding: 10px;'>$4,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting software - PerfecTen Xero Premium Package</td>
-<td style='padding: 10px;'>$4,450.00</td>
-<td style='padding: 10px;'>$4,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Perfecten_Corporate_Services_Annex_3_CR_wef_21_April_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package with MW integration</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Simpliify_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 
 ## Vendor Information
 
- Company Name: Perfecten Corporate Services Pte Ltd<br>Web URL: www.xero.com <br><br>Contact Hotline: 63104961 <br><br>Contact Email: enquiry@perfecten.com.sg <br><br>
+ Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

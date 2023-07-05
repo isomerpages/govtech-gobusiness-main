@@ -1,15 +1,15 @@
 ---
-title: 'Gravis'
+title: 'MTWO Version 5.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1112
 ---
 
-## Gravis
+## MTWO Version 5.1
 
 ## Overview
 
 **Description**
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+MTWO Construction Cloud is an enterprise level platform aiming to help companies in the build environment sector increase efficiency, drive sustainability and ultimately achieve digital transformation. The platform connects all project stakeholders in one platform to enable real-time project control. The platform connects 3D BIM model with 4D project time and 5D project cost to enable time-cost optimization, and execute BIM based tendering and procurement.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Basic Plan (Up to 5 users)</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 10-User Package</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Premium Plan (Up to 10 users)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO Perpetual 5-User Package</td>
+<td style='padding: 10px;'>$36,750.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Enterprise Plan (Up to 30 users)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 15-User Package</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 
 ## Vendor Information
 
- Company Name: ONE X GROUP PTE. LTD.<br>Web URL: https://www.onextech.com.sg/work <br><br>Contact Hotline: 91198609 <br><br>Contact Email: info@onextech.com <br><br>
+ Web URL: www.mtwocloud.com/demo-request <br>Contact Hotline: 81239954 <br>Contact Email: mtwocloud@rib-software.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

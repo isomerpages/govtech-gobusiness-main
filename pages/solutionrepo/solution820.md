@@ -1,15 +1,15 @@
 ---
-title: 'INNOCOM - ASSEMBLE'
+title: 'DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution820
 ---
 
-## INNOCOM - ASSEMBLE
+## DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows.
+Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry. MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,34 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PROJECT - 1 YEAR </td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'>$13,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PROJECT - 3 YEARS</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OFFICE -1 YEAR</td>
-<td style='padding: 10px;'>$32,800.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OFFICE -3 YEARS</td>
-<td style='padding: 10px;'>$71,800.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://innocomholding.com/psg-grant/ <br><br>Contact Hotline: 66035438 <br><br>Contact Email: sales@innocom.com.sg <br><br>
+ Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.co<br>Contact Hotline: 69657008 <br>Contact Email: contact@mediaone.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

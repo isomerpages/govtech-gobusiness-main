@@ -1,32 +1,53 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'BIZ FNB DIGITAL ORDERING'
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
-## Mobile Computer (Warehouse application)
+## BIZ FNB DIGITAL ORDERING
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manual inventory counting into automated electronic data capture and transmission Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
-
-Solution is highly recommended to be able to integrate with applicant's existing inventory or warehouse management system.
-
-Cost of equipment capped at $30,000 per unit. 
+CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Mandatory specifications:<br>- Installed with software for inventory data input.<br>- Withstand rough handling, meet min IP54 standards.<br>- Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>- Battery with min 3 hrs standby.<br>- Wireless LAN/Bluetooth/cellular connectivity.<br>- Support the common operating system e.g. Android, Windows.<br>- Installation and Maintenance cost are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic FNB V3.52</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'>$3,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic QR FNB V3.52</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$6,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inventory QR FNB V3.52</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$7,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM QR FNB V3.52</td>
+<td style='padding: 10px;'>$12,960.00</td>
+<td style='padding: 10px;'>$8,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -34,6 +55,10 @@ Cost of equipment capped at $30,000 per unit.
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

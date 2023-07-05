@@ -1,15 +1,15 @@
 ---
-title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
+title: 'Xero Cloud Accounting Software - Premium Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1429
 ---
 
-## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
+## Xero Cloud Accounting Software - Premium Package
 
 ## Overview
 
 **Description**
 
-Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
+Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ Sunpro provides excellent web application development solutions for companies in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Elite)</td>
-<td style='padding: 10px;'>$7,960.00</td>
-<td style='padding: 10px;'>$7,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software Only</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'>$688.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM - E-Commerce & Mobile Apps with Inventory Management System (Sunpro Supreme)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_20210006_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Training</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Setup</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'>$3,488.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'>$4,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br><br>Contact Hotline: 67504786 <br><br>Contact Email: jiya@sunpro.com.sg <br><br>
+ Company Name: YMC ACCOUNTING PTE LTD<br>Web URL: https://www.thesgservice.com/sg-accounting-firm <br><br>Contact Hotline: 93891853 <br><br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

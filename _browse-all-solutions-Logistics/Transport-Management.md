@@ -28,24 +28,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution539' target='_blank'>Detrack</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution457' target='_blank'>Detrack</a><br></td>
 <td>Detrack Systems Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution704' target='_blank'>goTruck!Hub</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution610' target='_blank'>goTruck!Hub</a><br></td>
 <td>GoTruck Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution896' target='_blank'>iLOGON (iTMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution779' target='_blank'>iLOGON (iTMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1183' target='_blank'>PORTNET</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1021' target='_blank'>PORTNET</a><br></td>
 <td>PORTNET.COM PTE LTD </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1212' target='_blank'>TrackSYNQ</a><br></td>
-<td>Quantum Inventions Pte Ltd</td>
 </tr>
 </table>
 
