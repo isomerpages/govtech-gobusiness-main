@@ -1,19 +1,18 @@
 ---
-title: 'Dough Sheeter'
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution1498
 ---
 
-## Dough Sheeter
+## Automated Noodle Boiler
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+The automated noodle boiler automates the noodle cooking process. 
 
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+Cost of equipment capped at $10,000 per unit 
 
-Cost of equipment capped at $20,000 per unit
 
 
 ## Solution Packages Option(s)
@@ -25,9 +24,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
 </tr>
 </table>
 

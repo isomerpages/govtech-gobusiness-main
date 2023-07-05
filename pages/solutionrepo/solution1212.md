@@ -1,15 +1,15 @@
 ---
-title: 'Sugati Travel CRM Version 1.1037'
+title: 'XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 
-## Sugati Travel CRM Version 1.1037
+## XERO Accounting Software
 
 ## Overview
 
 **Description**
 
-Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
+Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
-<td style='padding: 10px;'>$10,260.00</td>
-<td style='padding: 10px;'>$10,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 - Standard, Subscription only</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
-<td style='padding: 10px;'>$20,520.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 - Premium, Subscription only</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
-<td style='padding: 10px;'>$41,040.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 - Standard + Implementation</td>
+<td style='padding: 10px;'>$1,908.75</td>
+<td style='padding: 10px;'>$1,816.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 4 - Premium + Implementation</td>
+<td style='padding: 10px;'>$3,610.00</td>
+<td style='padding: 10px;'>$3,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 - Premium Plus + Implementation + Full Day Training</td>
+<td style='padding: 10px;'>$5,115.00</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 
 ## Vendor Information
 
- Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
+ Company Name: TIMCOLE PTE LTD<br>Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

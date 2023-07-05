@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'TWCSS - teamWork CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1173
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## TWCSS - teamWork CRM
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+Digital transformation is key to strive in today's competitive market. teamWork CRM is a fully cloud-based solution tailormade to heighten the levels of efficiency, control & clarity for any businesses. Facilitated with an ensuite of key modules & functions (sales, internal processes, document control, mass communications etc.), it ensures that all aspects of the business is captured & deeply integrated within to exercise and take control of.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
+ Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

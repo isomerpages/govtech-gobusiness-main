@@ -1,32 +1,31 @@
 ---
-title: 'Mobile Responsive E-Commerce'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1385
 ---
 
-## Mobile Responsive E-Commerce
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WebImp_Mobile_Responsive_E_Commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Payload modules to lift trolleys Minimum  150kg load<br>Min. load surface: 720x600mm<br>1-1.2m/s driving with spot turning<br>Battery: Min. 4h, ~8h standby, ~4h charging<br>Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br><br></td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
