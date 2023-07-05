@@ -1,15 +1,15 @@
 ---
-title: 'Shopify'
+title: 'Swipetask PRO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 
-## Shopify
+## Swipetask PRO
 
 ## Overview
 
 **Description**
 
-Shopify powers millions of businesses globally. The all-in-one commerce platform to start, run and grow a business. With Shopify, merchants can build and customize an online store and sell in multiple places, including web, mobile, in person, brick-and-mortar locations, and pop-up shops and across multiple channels from social media to online marketplaces. Completely cloud-based and hosted, merchants have the flexibility to access and run their business from anywhere with an internet connection.
+Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Shopify powers millions of businesses globally. The all-in-one commerce platform
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Basic Plan</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
+<td style='padding: 10px;'>$9,968.00</td>
+<td style='padding: 10px;'>$9,968.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Shopify Plan</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
+<td style='padding: 10px;'>$17,196.00</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Advanced Plan</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
+<td style='padding: 10px;'>$36,388.00</td>
+<td style='padding: 10px;'>$36,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Plus Plan</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
+<td style='padding: 10px;'>$42,388.00</td>
+<td style='padding: 10px;'>$42,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
+<td style='padding: 10px;'>$15,068.00</td>
+<td style='padding: 10px;'>$15,068.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Shopify powers millions of businesses globally. The all-in-one commerce platform
 
 ## Vendor Information
 
- Company name:Shopify Commerce Singapore Pte Ltd<br>Web URL: https://www.shopify.com/sg/pricing <br>Contact Hotline: +658008526699 <br>Contact Email: PSG_Shopify_Support@shopify.com 
+ Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

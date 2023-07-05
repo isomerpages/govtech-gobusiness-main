@@ -1,15 +1,15 @@
 ---
-title: 'HAVSchool + E-Form Version 4.1'
+title: 'iFoundries E-commerce Jump Start Package Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution630
 ---
 
-## HAVSchool + E-Form Version 4.1
+## iFoundries E-commerce Jump Start Package Version 4
 
 ## Overview
 
 **Description**
 
-A complete end-to-end software system tailor-made for centres where there are students/customers obtaining centre day services (e.g. preschools, tuition/enrichment centres and services/care centres). It consists of support hardware, a web portal and mobile applications for customers, managers and staff.
+Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ A complete end-to-end software system tailor-made for centres where there are st
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ESSENTIAL</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENHANCED</td>
-<td style='padding: 10px;'>$15,580.00</td>
-<td style='padding: 10px;'>$15,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENRICHED</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART EMPOWERED</td>
-<td style='padding: 10px;'>$12,280.00</td>
-<td style='padding: 10px;'>$12,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENTERPRISE</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/iFoundries_iFoundries_E_commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ## Vendor Information
 
- Company name:HAVENCE PORTAL LLP<br>Web URL: https://havschool.com/ <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG 
+ Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

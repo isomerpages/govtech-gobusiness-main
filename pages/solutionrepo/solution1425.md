@@ -1,66 +1,37 @@
 ---
-title: 'Counto DIY Version 1'
+title: 'Bristle Blaster / Cup Brush / Power Brush'
 permalink: /productivity-solutions-grant/solutionrepo/solution1425
 ---
 
-## Counto DIY Version 1
+## Bristle Blaster / Cup Brush / Power Brush
 
 ## Overview
 
 **Description**
 
-CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
+The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
 
-Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
+Cost of equipment capped at $3,000 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
