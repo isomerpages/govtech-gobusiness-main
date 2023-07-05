@@ -75,7 +75,7 @@ Within this field, most businesses are optimistic about industry performance in 
 
 To make this projected growth a reality, it’s imperative that companies internationalise and make consistent efforts to raise productivity. 
      
-Keeping up with industry trends is also important, as this lends insight into how you can differentiate your business from competitors in the same sector. Resources such as EnterpriseSG’s [Food Services Industry Profile](https://www.enterprisesg.gov.sg/industries/food-services){:target="_blank"}{:rel="noopener"} are a great way to learn more about business transformation, industry trends, and how to expand your business to overseas markets. 
+Keeping up with industry trends is also important, as this lends insight into how you can differentiate your business from competitors in the same sector. Resources such as EnterpriseSG’s [Food Services Industry Profile](https://www.enterprisesg.gov.sg/industries/type/food-services/industry-profile){:target="_blank"}{:rel="noopener"} are a great way to learn more about business transformation, industry trends, and how to expand your business to overseas markets. 
 
 ### Advice from industry insiders
 

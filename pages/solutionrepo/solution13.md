@@ -1,15 +1,15 @@
 ---
-title: 'HReasily Online Payroll Version 5'
+title: 'Ecommerce Web Development (WooCommerce) Version 0.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution13
 ---
 
-## HReasily Online Payroll Version 5
+## Ecommerce Web Development (WooCommerce) Version 0.8
 
 ## Overview
 
 **Description**
 
-HReasily is a cloud-based HR solution that provides end-to-end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.
+Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ HReasily is a cloud-based HR solution that provides end-to-end employee data col
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package A - 5 Employees</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package B - 10 Employees</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package C - 20 Employees</td>
-<td style='padding: 10px;'>$2,200.00</td>
-<td style='padding: 10px;'>$2,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package D - 30 Employees</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HReasily Online Payroll Version 5 - Package E - 50 Employees</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361_Degree_HReasily_20210092_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Consultants_Annex_3_CR_wef_2_Sept_2021.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: 361 Degree Consultancy Pte Ltd<br>Web URL: https://361dc.com/software/hr-easily/<br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+ Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

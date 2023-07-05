@@ -161,7 +161,7 @@ File format: doc,docx,pdf,jpg,rtf,htm,bmp,xls,xlsx,dwg<br>
 Maximum upload per application: 2 MB
 </li>
 <li><strong>Temporary Fire Permit / Fire Safety Certificate issued by other government agency</strong><br />One certified true (or original) copy of Temporary Fire Permit or Fire Safety Certificate of the premise if it is issued by other government agencies (e.g. JTC, HDB or LTA)<br>
-Click for sample <a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF%20FMS%20FSC.pdf" target="_blank" rel="noopener">Fire Safety Certificate</a><br>
+Click for sample <a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+FSC.pdf" target="_blank" rel="noopener">Fire Safety Certificate</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
@@ -171,23 +171,23 @@ Maximum upload per application: 2 MB
 </li>
 
 <li><strong>Professional Engineer's Certification documents for the Piped LPG system</strong><br />Certification of supervision of piped gas system<br />Certification of equipment installed for LPG system<br />Pressure test report for the piping and fittings from the LPG installation to the point of consumption<br>
-Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF%20FMS%20PIPE.pdf" target="_blank" rel="noopener">Certificate of Supervision of Pipe</a><br>
+Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+PIPE.pdf" target="_blank" rel="noopener">Certificate of Supervision of Pipe</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
 
 <li><strong>Letter of Undertaking on Safe Handling of LPG Installation</strong><br />Letter of Undertaking on Safe Handling of LPG installation.<br>
-Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF%20FMS%20UNDERTAKING.pdf" target="_blank" rel="noopener">Letter of Undertaking on Safe Handling of LPG installation</a><br>
+Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+UNDERTAKING.pdf" target="_blank" rel="noopener">Letter of Undertaking on Safe Handling of LPG installation</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
 <li><strong>LPG Check List</strong><br />One certified true (or original) copy of LPG Checklist.<br>
-Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF%20FMS%20CHECKLIST.pdf" target="_blank" rel="noopener">LPG Checklist</a><br>
+Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+CHECKLIST.pdf" target="_blank" rel="noopener">LPG Checklist</a><br>
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB
 </li>
 <li><strong>Emergency Response Plan (Mandatory)</strong><br />To submit the ERP documents (with Annexes). Consult ERP officers at SCDF_ERP_TERP@scdf.gov.sg for more information.<br>
-Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF%20FMS%20ERP.pdf" target="_blank" rel="noopener">Notice of submission for ERP</a><br>
+Click for sample<a href="https://licence1.business.gov.sg/feportal/documents/13101/120097/SCDF+FMS+ERP.pdf" target="_blank" rel="noopener">Notice of submission for ERP</a><br>
 
 File format: doc,docx, pdf, jpg, rtf, htm, bmp, xls,xlsx<br>
 Maximum upload per application: 2 MB

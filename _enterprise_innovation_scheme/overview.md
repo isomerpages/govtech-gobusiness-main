@@ -90,12 +90,6 @@ An option to convert up to $100,000 of the total qualifying expenditure across a
 
 <a href="https://www.iras.gov.sg/schemes/disbursement-schemes/enterprise-innovation-scheme-(eis)" target="_blank" rel="noopener">Find out more about the EIS</a>
 
-### How to Apply
-
-Businesses may claim the enhanced deductions/ allowances in their income tax returns. Businesses must maintain adequate records of their qualifying activities and expenditures and provide them to IRAS upon request.
-
-Eligible businesses that wish to convert their qualifying expenditures into cash are to make an irrevocable option by submitting a prescribed election form together with the filing of the businesses’ income tax returns. The option must be exercised not later than the income tax filing due date for the relevant YA.
-
 ### Innovation Projects carried out with Polytechnics, the ITE or other qualified partners
 
 Businesses undertaking innovation projects that are capital in nature and do not meet the definition of R&D under Section 2 of the Income Tax Act, may be eligible for tax deductions if these projects are qualifying innovation projects carried out with the polytechnics, the ITE or other qualified partners (collectively known as “partner institutions”). 
@@ -268,7 +262,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
 </tr>
 </table>
 
-Click <a href=" https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/innovation-capabilities/centres-of-innovation/" target="_blank" rel="noopener">here</a> for more information about Centres of Innovation.
+Click <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/network-of-partners/centres-of-innovation" target="_blank" rel="noopener">here</a> for more information about Centres of Innovation.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

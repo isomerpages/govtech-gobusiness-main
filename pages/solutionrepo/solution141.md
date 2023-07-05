@@ -1,64 +1,38 @@
 ---
-title: 'Aggregate Cloud Accounting Software (Xero)'
+title: 'Rotary Wok Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
-## Aggregate Cloud Accounting Software (Xero)
+## Rotary Wok Fryer
 
 ## Overview
 
 **Description**
 
-Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
+Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
+The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package A (Starter)</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package B (Essential)</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'>$3,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package C (Premium)</td>
-<td style='padding: 10px;'>$5,520.00</td>
-<td style='padding: 10px;'>$5,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
-<td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'>$6,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Aggregate Consultancy Services Pte. Ltd.<br>Web URL: https://www.incorporateyour.com <br><br>Contact Hotline: 63349329 <br><br>Contact Email: sales@incorporateyour.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

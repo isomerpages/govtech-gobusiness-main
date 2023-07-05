@@ -15,7 +15,7 @@ The Industry 4.0 Human Capital Initiative (IHCI), an initiative by the Singapore
 
 - Understand how effective human capital management and human resources can maximise the success and profitability to the organisation
 
-- Be guided by the appointed consultants from McKinsey & Company and Ernst & Young during the programme
+- Be guided by the appointed consultants from McKinsey & Company and Ernst & Young druing the programme
 
 - Develop your personalised Industry 4.0 and human capital transformation roadmap to expand the implementation of Industry 4.0 beyond this programme
 

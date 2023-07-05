@@ -20,51 +20,55 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1652' target='_blank'>Encrusting Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution80' target='_blank'>Encrusting Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1662' target='_blank'>Rotary Wok Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution141' target='_blank'>Rotary Wok Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1669' target='_blank'>Automated Dough Filler/Depositor</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution331' target='_blank'>Automated Dough Filler/Depositor</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1671' target='_blank'>Automated Tray Sealer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution333' target='_blank'>Automated Tray Sealer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1672' target='_blank'>Commercial Inkjet Printer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution335' target='_blank'>Commercial Inkjet Printer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1673' target='_blank'>Vacuum Packing and Sealing Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution336' target='_blank'>Vacuum Packing and Sealing Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1674' target='_blank'>Form Fill Seal Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution337' target='_blank'>Form Fill Seal Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1676' target='_blank'>Planetary or Spiral Mixer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution417' target='_blank'>Standalone Automated Industrial Utensil Washer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1677' target='_blank'>Dough Sheeter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution419' target='_blank'>Planetary or Spiral Mixer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1678' target='_blank'>Blast Freezer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution420' target='_blank'>Dough Sheeter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1679' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution421' target='_blank'>Blast Freezer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1764' target='_blank'>Industrial/Commercial Slicer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution434' target='_blank'>Combi Oven</a><br></td>
+<td></td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3398' target='_blank'>Industrial/Commercial Slicer</a><br></td>
 <td></td>
 </tr>
 </table>

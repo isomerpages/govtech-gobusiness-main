@@ -15,10 +15,6 @@ permalink: /enterprisejobskills/digital-services/
 <td style="width:auto;">AP funding is a grant to help employers defray the manpower cost incurred when they send their employees for certifiable skills training.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP" target="_blank" rel="noopener">Career Conversion Programme Application Portal</a></td>
-<td style="width:auto;">The Career Conversion Programmes application portal is for Professionals, Managers, Executives and Technicians, including Mid-career switchers to apply to undergo skills conversion and move into new occupations or sectors</td>
-</tr>
-<tr>
 <td style="width:30%;"><a href="https://www.myskillsfuture.gov.sg/content/portal/en/ecert/ecert_verify.html" target="_blank" rel="noopener">Check E-Cert Validity</a></td>
 <td style="width:auto;">Employees who have attained Singapore Workforce Skills Qualifications (WSQ) electronic certificates (e-Cert) may check their validity here.</td>
 </tr>
@@ -47,12 +43,12 @@ permalink: /enterprisejobskills/digital-services/
 <td style="width:auto;">The OpenCerts digital service provides a common standard for the issuance of digital certificates and a means to verify the authenticity of those certificates.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://sdl.ssg.gov.sg/" target="_blank" rel="noopener">Skills Development Levy</a></td>
-<td style="width:auto;">The Skills Development Levy (SDL) Portal allows employers to make e-Payments, submit SDL e-Refund requests, upload/submit documentation as well as other SDL services.</td>
+<td style="width:30%;"><a href="https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP" target="_blank" rel="noopener">Professional Conversion Programme Application Portal</a></td>
+<td style="width:auto;">The Career Conversion Programmes application portal is for Professionals, Managers, Executives and Technicians, including Mid-career switchers to apply to undergo skills conversion and move into new occupations or sectors</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://ssg.lithium-ssg.jobkred.com/registration" target="_blank" rel="noopener">Skills Profiling for SMEs</a></td>
-<td style="width:auto;">Small and Medium Enterprises (SMEs) can now benchmark your employees' competencies to discover their strengths and skills gaps and identify training courses personalised to their skill needs. This is a pilot collaboration by SSG and JobKred, a homegrown HRTech start-up specialising in talent management.</td>
+<td style="width:30%;"><a href="https://sdl.ssg.gov.sg/" target="_blank" rel="noopener">Skills Development Levy</a></td>
+<td style="width:auto;">The Skills Development Levy (SDL) Portal allows employers to make e-Payments, submit SDL e-Refund requests, upload/submit documentation as well as other SDL services.</td>
 </tr>
 <tr>
 <td style="width:30%;"><a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SkillsFuture Enterprise Credit (Training Programme)</a></td>
