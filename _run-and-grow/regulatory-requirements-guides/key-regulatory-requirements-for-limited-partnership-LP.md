@@ -5,6 +5,7 @@ third_nav_title: Regulatory Requirements Guides
 ---
 
 ## Key regulatory requirements for limited partnership (LP)
+<div class="sr-only">Key regulatory requirements for limited partnership (LP)</div>
 
 <img src="/images/grow/regulatory%20guides/regulatoryguides_lp.png" aria-hidden=true>
 
