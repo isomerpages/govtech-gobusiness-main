@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1637
 
 **Description**
 
-VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry's professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
+VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry’s professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
 
 ## Solution Packages Option(s)
 
