@@ -6,7 +6,6 @@ third_nav_title: Regulatory Requirements Guides
 
 ## Key regulatory requirements for sole proprietorships/partnership (SP/P)
 
-<div class="sr-only">Key regulatory requirements for sole proprietorships/partnership (SP/P)</div>
 <img src="/images/grow/regulatory%20guides/regulatoryguides_spp.png" aria-hidden=true>
 
 This guide provides an overview of the key regulatory requirements that sole proprietorships and partnerships need to comply with.
