@@ -1,15 +1,16 @@
 ---
-title: 'EzySalesOrder Version 3.0'
+title: 'U Ventures XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1330
 ---
 
-## EzySalesOrder Version 3.0
+## U Ventures XERO
 
 ## Overview
 
 **Description**
 
-Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
+XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
+is doing at any given time.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +24,10 @@ Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simp
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
-<td style='padding: 10px;'>$10,180.00</td>
-<td style='padding: 10px;'>$10,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
-<td style='padding: 10px;'>$12,580.00</td>
-<td style='padding: 10px;'>$12,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
-<td style='padding: 10px;'>$14,980.00</td>
-<td style='padding: 10px;'>$14,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
-<td style='padding: 10px;'>$19,780.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +37,7 @@ Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simp
 
 ## Vendor Information
 
- Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
+ Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

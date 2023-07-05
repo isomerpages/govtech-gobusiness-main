@@ -1,15 +1,15 @@
 ---
-title: 'Tessaract Practice Management Solution'
+title: 'A-Class Corporate Governance & Document Management by Sleek'
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
-## Tessaract Practice Management Solution
+## A-Class Corporate Governance & Document Management by Sleek
 
 ## Overview
 
 **Description**
 
-Tessaract's PMS is a practice management software that powers and accelerates the growth of law firms. A one-stop-shop software solution, law firms can automate daily tasks, streamline efficiency, and improve services with Tessaract's PMS.
+Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package A</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
+<td style='padding: 10px;'>$519.21</td>
+<td style='padding: 10px;'>$519.21</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package B</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
+<td style='padding: 10px;'>$623.06</td>
+<td style='padding: 10px;'>$623.06</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package C</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
+<td style='padding: 10px;'>$728.97</td>
+<td style='padding: 10px;'>$728.97</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package D</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
+<td style='padding: 10px;'>$841.12</td>
+<td style='padding: 10px;'>$841.12</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package E</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
+<td style='padding: 10px;'>$1,009.35</td>
+<td style='padding: 10px;'>$1,009.35</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 
 ## Vendor Information
 
- Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
+ Company name:SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -20,7 +20,7 @@ This solution is supported by ECDA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1539' target='_blank'>Taidii Smart Data Analytics for Centre Operations</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1630' target='_blank'>Taidii Smart Data Analytics for Centre Operations</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>
 </table>

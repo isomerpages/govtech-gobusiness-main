@@ -1,17 +1,15 @@
 ---
-title: 'DM Duo Studio Digital Marketing Packages'
+title: 'Sage 300 InvoiceNOW'
 permalink: /productivity-solutions-grant/solutionrepo/solution440
 ---
 
-## DM Duo Studio Digital Marketing Packages
+## Sage 300 InvoiceNOW
 
 ## Overview
 
 **Description**
 
-Duo Studio is a local independent creative agency established in 2015 by founder and creative director, Stephanie Phua. Today, Duo is made up of 20+ young and nimble members in Singapore and Malaysia.
-
-Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business's revenue so as to provide a high ROI and ROAS.
+Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
 
 ## Solution Packages Option(s)
 
@@ -25,27 +23,48 @@ Duo Studio provides SMEs with end-to-end social media marketing and advertising 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 1 - SMA Facebook and SMA Instagram Static Package [3 months]</td>
-<td style='padding: 10px;'>$8,424.00</td>
-<td style='padding: 10px;'>$8,424.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
+<td style='padding: 10px;'>$20,705.96</td>
+<td style='padding: 10px;'>$19,205.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 2 - SMA Facebook and SMA Instagram Video package [3 months]</td>
-<td style='padding: 10px;'>$12,642.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$38,603.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
+<td style='padding: 10px;'>$42,242.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
+<td style='padding: 10px;'>$47,703.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$50,103.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Duo Studio Pte. Ltd.<br>Web URL: www.duo.social <br>Contact Hotline: 88151230 <br>Contact Email: hello@duo.social <br>
+ Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

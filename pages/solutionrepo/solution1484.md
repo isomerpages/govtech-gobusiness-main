@@ -1,15 +1,17 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Steel Plate Butt Joint Welding Alignment Tool'
 permalink: /productivity-solutions-grant/solutionrepo/solution1484
 ---
 
-## Automated Irrigation Equipment/ System
+## Steel Plate Butt Joint Welding Alignment Tool
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
+
+Cost of equipment capped at $12,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
 </tr>
 </table>
 

@@ -1,30 +1,32 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Shopcada POS Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1386
 ---
 
-## Circular Gas Cutter
+## Shopcada POS Version 2
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
-
-Cost of equipment capped at $18,750 per unit 
+Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offering omni-channel support to integrate offline stores with online sales within a centralized backend dashboard. The integrated CRM tools such as membership system, discounts, loyalty points offer better omni-channel shopping experience.  With a single backend, synchronizing products, inventory, and customers between outlets, and accessing management reports is made easier.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada POS Version 2 - Annual License</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$3,998.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +34,10 @@ Cost of equipment capped at $18,750 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

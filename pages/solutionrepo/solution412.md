@@ -1,15 +1,17 @@
 ---
-title: 'Microsoft Email and Endpoint Security Management'
+title: 'e-Forms for Preschool Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution412
 ---
 
-## Microsoft Email and Endpoint Security Management
+## e-Forms for Preschool Version 1.0
 
 ## Overview
 
 **Description**
 
-Microsoft Email and Endpoint Security Management elevate SMB' security from traditional antivirus to next-gen antivirus protection, endpoint detection, and threat and vulnerability management. It offers simplified configuration and management with intelligent automated investigation and response to help protect email and endpoints. Our 24*7 email and endpoint security management help SMB protect from cyber threats, detects advanced attacks and data breaches, and automates security incidents.
+Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
+BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
+BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,10 @@ Microsoft Email and Endpoint Security Management elevate SMB' security from trad
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 users package</td>
-<td style='padding: 10px;'>$4,176.00</td>
-<td style='padding: 10px;'>$4,176.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 users package</td>
-<td style='padding: 10px;'>$7,152.00</td>
-<td style='padding: 10px;'>$7,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users package</td>
-<td style='padding: 10px;'>$10,128.00</td>
-<td style='padding: 10px;'>$10,128.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users package</td>
-<td style='padding: 10px;'>$16,680.00</td>
-<td style='padding: 10px;'>$16,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>80 users package</td>
-<td style='padding: 10px;'>$25,608.00</td>
-<td style='padding: 10px;'>$25,608.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +38,7 @@ Microsoft Email and Endpoint Security Management elevate SMB' security from trad
 
 ## Vendor Information
 
- Company name:DATA CONNECT TECHNOLOGIES PRIVATE LIMITED<br>Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: SALES@D-CONNECT.NET
+ Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution333' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution351' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
 <td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution758' target='_blank'>LittleLives 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution805' target='_blank'>LittleLives 4.5</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1642' target='_blank'>BridgED Version 4.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1733' target='_blank'>BridgED Version 4.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
 </table>

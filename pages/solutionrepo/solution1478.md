@@ -1,15 +1,22 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1478
 ---
 
-## Farm Produce Washing Machine
+## Probing System
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A probing system consists of the following attached to CNC machining center:
+
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +27,9 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
 </tr>
 </table>
 

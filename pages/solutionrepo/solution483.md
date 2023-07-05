@@ -1,15 +1,15 @@
 ---
-title: 'QuickHR (eScheduling)'
+title: 'EQuipPOS Retail Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution483
 ---
 
-## QuickHR (eScheduling)
+## EQuipPOS Retail Solutions Version 3
 
 ## Overview
 
 **Description**
 
-Designed with security, stability and scalability in mind, QuickHR eScheduling enables businesses to efficiently manage attendance, overtime, timesheets, rosters/ shifts and schedules through an automated experience with built-in QuickHR HRMS Integration. QuickHR eScheduling is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based eScheduling provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
+EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Designed with security, stability and scalability in mind, QuickHR eScheduling e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START ESCH (25 Headcounts)</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT ESCH (50 Headcounts)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING ESCH (100 Headcounts)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)</td>
+<td style='padding: 10px;'>$7,048.00</td>
+<td style='padding: 10px;'>$6,748.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE ESCH (150 Headcounts)</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package D (Basic+Inventory Manager APP+ 3rd Party Integration)</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR ESCH (200 Headcounts)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

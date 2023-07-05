@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.'
+title: 'Automotive Tracking System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1329
 ---
 
-## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.
+## Automotive Tracking System Version 1
 
 ## Overview
 
 **Description**
 
-WTW (Willis Towers Watson) is a leading global company with expertise in HR consulting and people solutions. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others. We advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc.
+Track 365 Automotive Tracking System is a cloud based telematics solution.  The solution allows businesses to monitor the location of a single vehicle or a group of vehicles in real-time, with their positions automatically updating onto a map. The solution is totally web-based, users can access their information wherever and whenever they choose. Whether it's on their phone whilst out and about, or on their PC in the office.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ WTW (Willis Towers Watson) is a leading global company with expertise in HR cons
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per Vehicle</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Track365_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ WTW (Willis Towers Watson) is a leading global company with expertise in HR cons
 
 ## Vendor Information
 
- Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.  <br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers <br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
+ Company name:Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

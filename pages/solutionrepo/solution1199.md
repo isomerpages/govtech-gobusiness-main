@@ -1,15 +1,15 @@
 ---
-title: 'DM GENIA SEMANTIC SEO'
+title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1199
 ---
 
-## DM GENIA SEMANTIC SEO
+## Advanced Human Hazard Avoidance & Alert Systems Version 01
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Google's Algorithms have gotten significantly more advanced in recent years and the traditional ways of doing SEO do not work anymore. Methods like keyword stuffing and spammy link building do not work anymore. Semantic SEO is a scientific way to climb Google's search rankings in the shortest period by simply being the best option for Google.
+Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,41 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1199
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + Content Marketing (3 Months)</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Genia_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:THE GENIA PTE LTD<br>Web URL: https://thegenia.com <br>Contact Hotline: 82286874 <br>Contact Email: caleb@thegenia.com 
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

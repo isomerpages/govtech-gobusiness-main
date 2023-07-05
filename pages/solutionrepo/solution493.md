@@ -1,15 +1,15 @@
 ---
-title: 'FITPRISE Project Management System - PCM'
+title: 'EQuip Wholesales & Inventory System Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution493
 ---
 
-## FITPRISE Project Management System - PCM
+## EQuip Wholesales & Inventory System Version 3
 
 ## Overview
 
 **Description**
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic)</td>
+<td style='padding: 10px;'>$7,010.00</td>
+<td style='padding: 10px;'>$6,328.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 2 (10 users)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module)</td>
+<td style='padding: 10px;'>$8,910.00</td>
+<td style='padding: 10px;'>$8,478.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - Accounting Integration</td>
+<td style='padding: 10px;'>$12,410.00</td>
+<td style='padding: 10px;'>$11,978.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - eCommerce Integration</td>
+<td style='padding: 10px;'>$12,410.00</td>
+<td style='padding: 10px;'>$11,978.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - 2 License Bundle</td>
+<td style='padding: 10px;'>$13,490.00</td>
+<td style='padding: 10px;'>$12,776.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 
 ## Vendor Information
 
- Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Company name:Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

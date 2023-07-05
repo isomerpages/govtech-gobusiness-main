@@ -1,15 +1,16 @@
 ---
-title: 'IT Infinity Sage 300'
+title: 'INFO-TECH Cloud Accounting Software Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution693
 ---
 
-## IT Infinity Sage 300
+## INFO-TECH Cloud Accounting Software Version 1.0
 
 ## Overview
 
 **Description**
 
-Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether businesses are growing locally or expanding globally, Sage 300 is a solution for every stage that's flexible and scalable to suit your business needs.
+INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
+Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,27 @@ Sage has more than 30 years of experience helping millions of small and medium c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A1 (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$31,129.00</td>
-<td style='padding: 10px;'>$31,029.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A2 (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$34,783.00</td>
-<td style='padding: 10px;'>$34,683.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A3 (Advanced Edition - 7 Users)</td>
-<td style='padding: 10px;'>$38,437.00</td>
-<td style='padding: 10px;'>$38,337.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A4 (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$43,918.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1 (Premium Edition - 5 Users)</td>
-<td style='padding: 10px;'>$43,191.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ITinfinity_Annex3_CR_wef_13_Oct_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: IT Infinity Pte Ltd<br>Web URL: https://www.it8.com.sg/products/sage-300-erp-accpac-accounting/ <br>Contact Hotline: 63461511 <br>Contact Email: sales@it8.com.sg <br>
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

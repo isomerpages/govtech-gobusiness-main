@@ -1,15 +1,15 @@
 ---
-title: 'ALIGN HRSS - PAYROLL OUTSOURCING'
+title: 'AirGo 360- Virtual Sites platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution135
 ---
 
-## ALIGN HRSS - PAYROLL OUTSOURCING
+## AirGo 360- Virtual Sites platform
 
 ## Overview
 
 **Description**
 
-Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs can entrust their payroll needs to our dedicated accounts manager who would deliver on monthly payroll processing, employee data management, benefits & claims, and more. With payroll outsourcing, they can contain cost, manage employer-related risk, reduce administrative burdens, and maintain information confidentially.
+Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360- street view" simply and quickly. Our platform has helped extend progress supervision, enable faster site documentation & progress claims, and provide evidence to reduce costly variation orders & disputes. In this pandemic, we help teams overcome communication gaps caused by restricted physical site access.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 20 Employees</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=5,000sqm)</td>
+<td style='padding: 10px;'>$11,700.00</td>
+<td style='padding: 10px;'>$11,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 30 Employees</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=15,000sqm)</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 50 Employees</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=50,000sqm)</td>
+<td style='padding: 10px;'>$17,700.00</td>
+<td style='padding: 10px;'>$17,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 100 Employees</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=100,000sqm)</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>$20,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 200 Employees</td>
-<td style='padding: 10px;'>$53,000.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=200,000sqm)</td>
+<td style='padding: 10px;'>$27,300.00</td>
+<td style='padding: 10px;'>$20,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs c
 
 ## Vendor Information
 
- Company Name: Align Group of Companies Pte Ltd<br>Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br><br>Contact Hotline: 62225224 <br><br>Contact Email: service@aligngroup.asia <br><br>
+ Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
