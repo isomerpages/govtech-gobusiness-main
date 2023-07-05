@@ -11,11 +11,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |
 | ------  |------------------|
-| 4 Jun, 12am - 4am | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
-| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
-| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
-| Option 1 | Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd |
-
+| 5 Jun, 6.30pm - 11.59pm | **Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |
+| 5 Jun, 4pm - 8pm | **GoBusiness Dashboard** will be undergoing scheduled maintenance. |
 
 
 <script src="/jquery/jquery.min.js"></script>
