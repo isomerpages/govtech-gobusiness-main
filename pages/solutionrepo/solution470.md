@@ -1,15 +1,15 @@
 ---
-title: 'ePSProfessional Version 1.7'
+title: 'Eber Smart Members Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution470
 ---
 
-## ePSProfessional Version 1.7
+## Eber Smart Members Solution
 
 ## Overview
 
 **Description**
 
-eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
+Eber Smart Member Solution is a smart member system that comes with comprehensive loyalty & rewards system, CRM, marketing, gift card and analytic tool. Businesses can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ eFusion Technology are specialists in building ecommerce websites with 18 years'
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ePSProfessional Version 1.7 - SME Premium</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_20210466_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic package</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic Package with Professional Services</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Premium Package with Professional Services</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Efusion Technology Pte Ltd<br>Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
+ Company Name: Eber Pte Ltd<br>Web URL: https://eber.co <br><br>Contact Hotline: 31590888 <br><br>Contact Email: hello@eber.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

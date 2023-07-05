@@ -1,17 +1,15 @@
 ---
-title: 'ABSS'
+title: 'ABSS Premier Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution188
 ---
 
-## ABSS
+## ABSS Premier Version 30
 
 ## Overview
 
 **Description**
 
-ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
-
-SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
+ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$1,903.74</td>
-<td style='padding: 10px;'>$1,903.74</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1-User) Full Package</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$2,744.86</td>
-<td style='padding: 10px;'>$2,744.86</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (3-Users) Software Only</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$3,677.57</td>
-<td style='padding: 10px;'>$3,677.57</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (3-Users) Full Package</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$3,777.57</td>
-<td style='padding: 10px;'>$3,777.57</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (3-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$4,534.58</td>
-<td style='padding: 10px;'>$4,534.58</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (5-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 
 ## Vendor Information
 
- Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br>Contact Hotline: +6565056582 <br>Contact Email: cs.sg@abssasia.com <br>
+ Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com<br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

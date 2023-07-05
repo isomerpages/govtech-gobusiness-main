@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Mini Shop Version 2.0'
+title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 
-## Fooyo Mini Shop Version 2.0
+## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Basic WeChat Package</td>
-<td style='padding: 10px;'>$6,188.00</td>
-<td style='padding: 10px;'>$6,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Basic Web Package</td>
-<td style='padding: 10px;'>$6,188.00</td>
-<td style='padding: 10px;'>$6,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Standard WeChat Package</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Standard Web Package</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fooyo Mini Shop Version 2.0-Premium Package</td>
-<td style='padding: 10px;'>$10,488.00</td>
-<td style='padding: 10px;'>$10,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br><br>Contact Hotline: 97129446 <br><br>Contact Email: hi@fooyo.sg <br><br>
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
