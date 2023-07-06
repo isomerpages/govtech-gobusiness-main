@@ -50,13 +50,13 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_monthlyrequirements.png" aria-hidden=true>
 
-      <H5>If your business hires foreign workers:</H5>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your business hires foreign workers:</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
 
-      <strong>If your business hires Singapore Citizens and Permanent Residents (SPR):</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your business hires Singapore Citizens and Permanent Residents (SPR):</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
 
@@ -65,11 +65,11 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Quarterly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_quarterlyrequirements.png" aria-hidden=true>
 
-      <strong>Update MOM's Occupational Employment Dataset (OED)</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Update MOM's Occupational Employment Dataset (OED)</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
 
-      <strong>File and Pay your GST</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File and Pay your GST</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
@@ -88,13 +88,13 @@ accordion:
 
       <h4>From your first year</h4>
       
-      <strong>Pay property tax bill if your company owns properties</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Pay property tax bill if your company owns properties</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
 
       <h4>From your second year</h4>
 
-      <strong>Submit employees income information</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> By the 1st Mar of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
 
@@ -104,7 +104,7 @@ accordion:
 
       *Whether you do the following in your second/third financial year depends on whether your company has closed its books in the year of incorporation and income received for the year. 
 
-      <strong>File your Estimated Chargeable Income (ECI)</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File your Estimated Chargeable Income (ECI)</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="D"> File Estimated Chargeable Income (ECI) within 3 months of FYE if company does not qualify for ECI <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/estimated-chargeable-income-(eci)-filing/#title2" target="_blank" rel="noopener">filing waiver</a>.
 
@@ -112,7 +112,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' alt="F"> Pay Tax Bill within 1 month from the date of the NOA.
 
-      <strong>File your annual returns with ACRA</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File your annual returns with ACRA</H5>
 
       <table>
       <tr>
@@ -132,7 +132,7 @@ accordion:
       </tr>
       </table>
 
-      <strong>File your corporate income tax</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File your corporate income tax</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' alt="I"> <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies" target="_blank" rel="noopener">File Corporate Income tax returns</a> [Form C-S/ FormC-S(Lite)/ Form C] by 30 Nov
       
@@ -143,11 +143,11 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_hiringworkers.png" aria-hidden=true>
 
-      <strong>Before you hire your first employee:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Before you hire your first employee:</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> We recommend <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopener">applying for CPF Submission Number (CSN)</a> once you have set up your Corppass account. Employers will need a CSN when submitting CPF contributions for employees.
 
-      <strong>If you intend to hire foreign workers:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you intend to hire foreign workers:</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> Assign the Work Pass eServices to required officers on Corppass.
       
@@ -161,7 +161,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>.
 
-      <strong>If you intend to hire foreign workers:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you intend to hire foreign workers:</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Obtain work injury compensation (WIC) insurance for eligible workers before they start work.
       

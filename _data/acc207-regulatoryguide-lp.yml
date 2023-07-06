@@ -36,13 +36,13 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_monthlyrequirements.png" aria-hidden=true>
 
-      <strong>If your LP hires foreign workers:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your LP hires foreign workers:</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
 
-      <strong>If your LP hires Singapore Citizens and Permanent Residents (SPR):</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your LP hires Singapore Citizens and Permanent Residents (SPR):</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
 
@@ -51,11 +51,11 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Quarterly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_quarterlyrequirements.png" aria-hidden=true>
 
-      <strong>Update MOM's Occupational Employment Dataset (OED)</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Update MOM's Occupational Employment Dataset (OED)</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
 
-      <strong>File and Pay your GST</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File and Pay your GST</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your LP is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
@@ -74,17 +74,17 @@ accordion:
 
       <h4>From your first year</h4>
 
-      <strong>Renew your LP registration</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Renew your LP registration</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.acra.gov.sg/how-to-guides/renewing-your-registration-for-limited-partnerships-(lps)" target="_blank" rel="noopener">Renew your LP registration</a> before the expiry date. You can choose to renew your business for 1 or 3 years. 
       
-      <strong>Pay property tax bill if your LP owns properties</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Pay property tax bill if your LP owns properties</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
 
       <h4>From your second year</h4>
 
-      <strong>Submit employees income information</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> By the 1st Mar of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide Form <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">IR8A</a> and appendices (where applicable) to employees.
 
@@ -92,13 +92,13 @@ accordion:
 
       <h4>From your second/third year</h4>
 
-      <strong>File your Estimated Chargeable Income (ECI)</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File your Estimated Chargeable Income (ECI)</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> Your partnership entity should file your Estimated Chargeable Income within 3 months of your Financial Year End (FYE) if business receives notification to file.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> Receive Allocation of Estimated Profit/Loss to Partners within 7 days after ECI filing.
 
-      <strong>Partnership Income Tax</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Partnership Income Tax</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Your partnership must <a href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-partnerships/basic-guide-for-partnerships" target="_blank" rel="noopener">file its partnership income tax return</a> (Form P) between 1 Feb to 18 Apr. If a partnership e-files its Form P by 28 Feb, the partnership allocation will be pre-filled into the respective partners' Form B/B1.
 
@@ -106,7 +106,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I"> If you do not agree with the allocation raised, <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a>  within 30 days from the date of your allocation.
 
-      <strong>For partners within the entity</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">For partners within the entity</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> As a partner within your partnership, you have to file your individual income tax return (Form B/B1) between March 1st and April 18th.
 
@@ -121,11 +121,11 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_hiringworkers.png" aria-hidden=true>
 
-      <strong>Before you hire your first employee:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Before you hire your first employee:</H5>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> We recommend <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopener">applying for CPF Submission Number (CSN)</a> once you have set up your Corppass account. Employers will need a CSN when submitting CPF contributions for employees.
 
-      <strong>If you intend to hire foreign workers:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you intend to hire foreign workers:</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Assign the Work Pass eServices to required officers on Corppass.
       
@@ -139,7 +139,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>.
 
-      <strong>If you intend to hire foreign workers:</strong>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you intend to hire foreign workers:</H5>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Obtain work injury compensation (WIC) insurance for eligible workers before they start work.
       
