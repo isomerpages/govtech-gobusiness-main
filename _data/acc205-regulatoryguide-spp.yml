@@ -24,15 +24,15 @@ accordion:
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Ad hoc requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/spp_adhocrequirements.png" aria-hidden=true>
     
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any change in business  information or appointments and changes in personal particulars of business owners and authorised representatives , remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships" target="_blank" rel="noopener">update ACRA</a>.
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul>
       <li>exceeded $1 million at the end of the calendar year or</li>
       <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
       </ul>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships" target="_blank" rel="noopener">update ACRA</a> if there has been any change in business  information or appointments and changes in personal particulars of business owners and authorised representatives.
       
   - title: Monthly requirements
     content: |
@@ -89,11 +89,9 @@ accordion:
 
       <strong>Submit employees income information</strong>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D">By the 1st of March of your 2nd year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D">By the 1st Mar of your 2nd year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
 
       <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements2.png" aria-hidden=true>
-
-      <h4>From your second/third year</h4>
 
       <strong>Estimated Chargeable Income (ECI)</strong>
       
@@ -117,7 +115,12 @@ accordion:
 
       <img width="720px" src="/images/grow/regulatory%20guides/spp_yearlyrequirements3.png" aria-hidden=true>
 
-      <strong>File your corporate income tax</strong>
+      <strong>Individual and Partnership Income Tax</strong>
+
+      You must report your trade income if:
+      - you receive a filing notification from IRAS; or
+      - your annual net trade income in the preceding year is more than $6,000; or
+      - your total annual income in the preceding year is more than $22,000.
 
       <table>
       <tr>
@@ -135,9 +138,9 @@ accordion:
         
         <td><strong>For partnership entity</strong><br><br>
         
-        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/N.png' aria-hidden='true' alt="N">Your partnership must <a href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-partnerships/basic-guide-for-partnerships" target="_blank" rel="noopener">file its partnership income tax return (Form P)</a> between 1 Feb to 18 Apr. If a partnership e-files its Form P by 28 Feb, the partnership allocation will be pre-filled into the respective partners' Form B/B1.<br><br>
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/N.png' aria-hidden='true' alt="N">Your partnership must <a href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed-and-partnerships/tax-obligations-of-partnerships/basic-guide-for-partnerships" target="_blank" rel="noopener">file its partnership income tax return</a> (Form P) between 1 Feb to 18 Apr. If a partnership e-files its Form P by 28 Feb, the partnership allocation will be pre-filled into the respective partners' Form B/B1.<br><br>
 
-        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/O.png' aria-hidden='true' alt="O">Receive your Allocation of Profit/Loss to Partners after Form P has been processed.<br><br>
+        <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/O.png' aria-hidden='true' alt="O">Precedent partner receives your Allocation of Profit/Loss to Partners after Form P has been processed.<br><br>
 
         <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/P.png' aria-hidden='true' alt="P">If you do not agree with the allocation raised, <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 30 days from the date of your allocation.<br><br>
 
@@ -174,7 +177,13 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing" target="_blank" rel="noopener">Arrange accommodation</a>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> - <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>, and comply with <a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">factory registration requirements</a>. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>.
+
+      <strong>If you intend to hire foreign workers:</strong>
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Obtain work injury compensation (WIC) insurance for eligible workers before they start work.
+      
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I"> Ensure that you comply with <a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">factory registration requirements</a> 1 month before the start of operations. 
 
       
       
