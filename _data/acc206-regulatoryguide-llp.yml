@@ -86,7 +86,7 @@ accordion:
 
       <strong>Submit employees income information</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> By the 1st of March of your 2nd  year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> By the 1st Mar of your 2nd  year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
 
       <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements2.png" aria-hidden=true>
 
@@ -122,7 +122,7 @@ accordion:
 
   - title: Hiring workers
     content: |
-      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers< /h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_hiringworkers.png" aria-hidden=true>
 
       <strong>Before you hire your first employee:</strong>
