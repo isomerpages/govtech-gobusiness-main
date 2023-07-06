@@ -1,15 +1,15 @@
 ---
-title: 'Moneyworks'
+title: 'Advante Consulting - Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution113
 ---
 
-## Moneyworks
+## Advante Consulting - Xero Cloud Accounting
 
 ## Overview
 
 **Description**
 
-MoneyWorks family of accounting solutions provides a range of feature rich yet easy to use solutions for small, medium and large organisations. MoneyWorks is robust, fast and scalable and but simple and user-friendly, with top quality reporting capabilities. The only accounting software that runs on both Mac and Windows platform, and is flexible enough to fit within workflow and integrate with existing business software. Moneyworks is ready for On-Premise and/or On-Cloud deployment.
+Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ MoneyWorks family of accounting solutions provides a range of feature rich yet e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package A - Moneyworks Gold (1 User) Software Only</td>
-<td style='padding: 10px;'>$895.00</td>
-<td style='padding: 10px;'>$895.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Standard Subscription Only)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package B - Moneyworks Gold (1 User)</td>
-<td style='padding: 10px;'>$3,995.00</td>
-<td style='padding: 10px;'>$3,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AdvancedMicro_CR_wef29dec22_Part 2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Standard Basic Package)</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package C - Moneyworks NOW (3 User)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premium Basic Package)</td>
+<td style='padding: 10px;'>$2,650.00</td>
+<td style='padding: 10px;'>$2,625.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package D - Moneyworks Datacentre (3 User)</td>
-<td style='padding: 10px;'>$7,095.00</td>
-<td style='padding: 10px;'>$7,095.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Standard Full Package)</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package E - Moneyworks Datacentre (5 User)</td>
-<td style='padding: 10px;'>$13,795.00</td>
-<td style='padding: 10px;'>$13,495.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Premium Full Package)</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$3,425.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Advanced Micro Control Pte Ltd<br>Web URL: https://amcpro.asia <br><br>Contact Hotline: 65898878 <br><br>Contact Email: sales@amc.com.sg <br><br>
+ Company name:Advante Consulting Pte Ltd<br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

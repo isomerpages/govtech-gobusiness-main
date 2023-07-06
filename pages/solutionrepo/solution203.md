@@ -1,15 +1,15 @@
 ---
-title: 'ASL Advisory - Xero accounting software'
+title: 'ZoneSafe Proximity Warning Systems Version V03'
 permalink: /productivity-solutions-grant/solutionrepo/solution203
 ---
 
-## ASL Advisory - Xero accounting software
+## ZoneSafe Proximity Warning Systems Version V03
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software product that lets small and medium sized business owners manage their finances from anywhere and integrate with more than 1,000 apps. Xero online accounting software allows small and medium sized business connect to the bank, accountant, bookkeeper, and other business apps. It performs bookkeeping functions like invoicing and processing supplier bills, and allows business to connect to a live bank feed.
+The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/operators, and personnel with warnings that they are in close proximity of each other. The purpose of the system is to prevent collisions between vehicles and personnel in the workplace.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Xero is a cloud-based accounting software product that lets small and medium siz
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Pedestrian - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup & Subscription</td>
-<td style='padding: 10px;'>$2,064.00</td>
-<td style='padding: 10px;'>$2,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,184.00</td>
-<td style='padding: 10px;'>$3,127.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input</td>
-<td style='padding: 10px;'>$3,984.00</td>
-<td style='padding: 10px;'>$3,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input, Migration</td>
-<td style='padding: 10px;'>$5,184.00</td>
-<td style='padding: 10px;'>$5,127.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Vehicle - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:ASL Advisory Pte. Ltd.<br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com 
+ Company Name: Automation Support Services Pte Ltd<br>Web URL: www.assmsb.com <br>Contact Hotline: 68446223 <br>Contact Email: david@assmsb.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
