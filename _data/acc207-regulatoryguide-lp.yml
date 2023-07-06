@@ -1,7 +1,7 @@
 accordion:
   - title: Requirements during business registration
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Requirements during business registration</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Requirements during business registration</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_businssregistration.png" aria-hidden=true>
 
       <H4>When registering your LP:</H4>
@@ -18,7 +18,7 @@ accordion:
 
   - title: Ad hoc requirements
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Ad hoc requirements</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Ad hoc requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_adhocrequirements.png" aria-hidden=true>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there are changes to LP information and Partners or Managers' information, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
@@ -33,7 +33,7 @@ accordion:
       
   - title: Monthly requirements
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_monthlyrequirements.png" aria-hidden=true>
 
       <strong>If your LP hires foreign workers:</strong>
@@ -48,7 +48,7 @@ accordion:
 
   - title: Quarterly requirements
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Quarterly requirements</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Quarterly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_quarterlyrequirements.png" aria-hidden=true>
 
       <strong>Update MOM's Occupational Employment Dataset (OED)</strong>
@@ -69,7 +69,7 @@ accordion:
 
   - title: Yearly requirements
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Yearly requirements</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Yearly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_yearlyrequirements1.png" aria-hidden=true>
 
       <h4>From your first year</h4>
@@ -108,7 +108,7 @@ accordion:
 
   - title: Hiring workers
     content: |
-      <p style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</p>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_hiringworkers.png" aria-hidden=true>
 
       <strong>Before you hire your first employee:</strong>
