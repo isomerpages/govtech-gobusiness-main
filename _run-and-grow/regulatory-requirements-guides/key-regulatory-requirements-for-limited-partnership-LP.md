@@ -8,7 +8,7 @@ third_nav_title: Regulatory Requirements Guides
 
 <img src="/images/grow/regulatory%20guides/regulatoryguides_lp.png" aria-hidden=true>
 
-This guide provides an overview of the key regulatory requirements that sole proprietorships and partnerships need to comply with.
+This guide provides an overview of the key regulatory requirements that limited partnerships (LP) need to comply with.
 
 {% include accordion.html accordions=site.data.acc207-regulatoryguide-lp.accordion %}
 

@@ -1,10 +1,10 @@
 ---
-title: Regulatory guides overview
+title: Regulatory Guides overview
 permalink: /regulatory-requirements-guides/
 third_nav_title: Regulatory Requirements Guides
 ---
 
-## Regulatory requirements guides
+## Regulatory Requirements Guides
 
 <img src="/images/grow/regulatory%20guides/regulatoryguides_overview.png" aria-hidden=true>
 
