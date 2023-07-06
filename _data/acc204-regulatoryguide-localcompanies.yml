@@ -1,5 +1,5 @@
 accordion:
-  - title: Requirements during business registration
+  - title: Requirements during company incorporation
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Requirements during business registration</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_businssregistration.png" aria-hidden=true>
@@ -34,16 +34,16 @@ accordion:
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Ad hoc requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_adhocrequirements.png" aria-hidden=true>
-    
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> If there has been any <strong>change in company information</strong> or to the <strong>RORC information</strong> of your company, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul> 
       <li>exceeded $1 million at the end of the calendar year or</li>
       <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
       </ul>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change in company information</strong> or to the <strong>RORC information</strong> of your company.
       
   - title: Monthly requirements
     content: |
@@ -100,7 +100,7 @@ accordion:
 
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_yearlyrequirements2.png" aria-hidden=true>
 
-      <h4>From your second/third* year</h4>
+      <h4>From your second/third* financial year</h4>
 
       *Whether you do the following in your second/third financial year depends on whether your company has closed its books in the year of incorporation and income received for the year. 
 
