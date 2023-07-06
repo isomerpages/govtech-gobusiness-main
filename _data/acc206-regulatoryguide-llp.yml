@@ -10,13 +10,13 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=L" target="_blank" rel="noopener">Apply for Business Name</a> with ACRA.
       
-      <img style='width:24px; height:auto; float:left; mar gin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=L" target="_blank" rel="noopener">Incorporate your LLP</a> with ACRA. When registering your LLP, appoint at least two partners and at least one manager who is a local resident in Singapore, a natural person of full age (i.e. at least 18 years old) and of capacity.
+      <img style='width:24px; height:auto; float:left; mar gin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=L" target="_blank" rel="noopener">Register your LLP</a> with ACRA.<br>When registering your LLP, appoint at least two partners and at least one manager who is a local resident in Singapore, a natural person of full age (i.e. at least 18 years old) and of capacity.
 
       <H4>After registering your LLP:</H4>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> After you have received your UEN, <a href="https://www.corppass.gov.sg/cpauth/login/homepage" target="_blank" rel="noopener">register for a Corppass</a> admin account to gain access to all the government services.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.acra.gov.sg/compliance/register-of-registrable-controllers" target="_blank" rel="noopener">Set up Register of Registrable Controllers (RORC)</a> <strong>within 30 days</strong> and file the RORC information with ACRA within 2 business days</strong> after the RORC has been setup unless you are exempted.
       
       Registrable controllers (RC) in your LLP can exercise significant influence or control over your LLP.
 
@@ -24,23 +24,23 @@ accordion:
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Ad hoc requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_adhocrequirements.png" aria-hidden=true>
-    
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> If there has been any <strong>change to LLP information</strong>, <strong>LLP officers' information</strong> and the <strong>RORC</strong>, remember to <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">update ACRA</a>.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration" target="_blank" rel="noopener">Register for GST</a> if taxable turnover has:
       <ul>
       <li>exceeded $1 million at the end of the calendar year or</li>
       <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
       </ul>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change to LLP information</strong>, <strong>LLP officers' information</strong> and the <strong>RORC</strong>.
       
   - title: Monthly requirements
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_monthlyrequirements.png" aria-hidden=true>
 
-      <strong>If your LLF hires foreign workers:</strong>
+      <strong>If your LLP hires foreign workers:</strong>
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
 
@@ -61,7 +61,7 @@ accordion:
 
       <strong>File and Pay your GST</strong>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your LLP is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
       
@@ -90,8 +90,6 @@ accordion:
 
       <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements2.png" aria-hidden=true>
 
-      <h4>From your second/third* year</h4>
-
       <strong>File your Estimated Chargeable Income (ECI)</strong>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> Your partnership entity should file your Estimated Chargeable Income within 3 months of your Financial Year End (FYE) if business receives notification to file.
@@ -112,9 +110,19 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/J.png' aria-hidden='true' alt="J"> If you do not agree with the allocation raised, <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 30 days from the date of your allocation.
 
+      <strong>For partners within the entity</strong>
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/K.png' aria-hidden='true' alt="K"> As a partner within your partnership, you have to file your individual income tax return (Form B/B1) between March 1st and April 18th.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> Receive your NOA from the end of April onwards.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/M.png' aria-hidden='true' alt="M"> Pay your income tax within 1 month from the date of your NOA.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/N.png' aria-hidden='true' alt="N"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> with 30 days from the date of your NOA.
+
   - title: Hiring workers
     content: |
-      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers/h3>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_hiringworkers.png" aria-hidden=true>
 
       <strong>Before you hire your first employee:</strong>
