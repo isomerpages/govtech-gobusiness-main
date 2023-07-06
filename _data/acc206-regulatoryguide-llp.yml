@@ -122,7 +122,7 @@ accordion:
 
   - title: Hiring workers
     content: |
-      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers< /h3>
+      <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_hiringworkers.png" aria-hidden=true>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Before you hire your first employee:</H5>
