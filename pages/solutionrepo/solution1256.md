@@ -1,15 +1,15 @@
 ---
-title: 'Shopify'
+title: 'V3Nity-FMS Fleet Management System Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1256
 ---
 
-## Shopify
+## V3Nity-FMS Fleet Management System Version 3.0
 
 ## Overview
 
 **Description**
 
-Shopify powers millions of businesses globally. The all-in-one commerce platform to start, run and grow a business. With Shopify, merchants can build and customize an online store and sell in multiple places, including web, mobile, in person, brick-and-mortar locations, and pop-up shops and across multiple channels from social media to online marketplaces. Completely cloud-based and hosted, merchants have the flexibility to access and run their business from anywhere with an internet connection.
+The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,27 @@ Shopify powers millions of businesses globally. The all-in-one commerce platform
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Basic Plan</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Shopify Plan</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Advanced Plan</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Plus Plan</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Shopify_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Shopify Commerce Singapore Pte Ltd<br>Web URL: https://www.shopify.com/sg/pricing <br>Contact Hotline: +658008526699 <br>Contact Email: PSG_Shopify_Support@shopify.com 
+ Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

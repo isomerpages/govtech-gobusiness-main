@@ -14,6 +14,13 @@ Accreditation certifies that your company has been assessed and meets the requir
 
 {% include panels-featurelink.html panels=site.data.rgp005_accreditation %}
 
+----
+
+### Verify an entity’s accreditation
+
+Find out if a company or person has a specific accreditation by doing a search with our tool below.
+
+{% include panels-featurelink.html panels=site.data.rgp005a_accreditation-verify %}
 ---
 
 ### More accreditations

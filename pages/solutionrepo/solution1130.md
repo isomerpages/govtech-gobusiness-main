@@ -1,15 +1,15 @@
 ---
-title: 'Tracee Inventory Version 2.0.0'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1130
 ---
 
-## Tracee Inventory Version 2.0.0
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 
 **Description**
 
-Tracee Inventory allows high visibility & accessibility of products, & easy management across multiple locations. Tracee Inventory provides real-time data about Inventory levels to always stay on top of stock counts, assisting decision makers in making informed operational decisions. Coupled with API availability, Tracee Inventory helps businesses manage & streamline operational workflow with data integrations across multiple sales channels such as marketplaces, ecommerce, accounting systems.
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Tracee Inventory allows high visibility & accessibility of products, & easy mana
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tracee Inventory Version 2.0.0 - Omni Package (Up to 3 Outlets)</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qualityzone_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$3,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93956988 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
