@@ -1,15 +1,15 @@
 ---
-title: 'Revel Systems Version 2'
+title: 'TessaCloud DMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution1184
 ---
 
-## Revel Systems Version 2
+## TessaCloud DMS
 
 ## Overview
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
-<td style='padding: 10px;'>$6,880.72</td>
-<td style='padding: 10px;'>$6,880.72</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B1</td>
-<td style='padding: 10px;'>$8,175.08</td>
-<td style='padding: 10px;'>$8,175.08</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B2</td>
-<td style='padding: 10px;'>$8,869.44</td>
-<td style='padding: 10px;'>$8,869.44</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C1</td>
-<td style='padding: 10px;'>$11,035.08</td>
-<td style='padding: 10px;'>$9,875.08</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C2</td>
-<td style='padding: 10px;'>$12,423.80</td>
-<td style='padding: 10px;'>$11,163.80</td>
-<td style='padding: 10px;'><a href='/images/psg/RevelSystems_Revel Systems_Version2_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 
 ## Vendor Information
 
- Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
+ Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

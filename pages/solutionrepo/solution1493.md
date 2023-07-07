@@ -1,72 +1,38 @@
 ---
-title: 'XERO CLOUD ACCOUNTING SOFTWARE'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
-## XERO CLOUD ACCOUNTING SOFTWARE
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Basic Package</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Premier Package</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Booming Package</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Ultimate Package</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>Minimum Specifications <br>- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br>- Well capacity to be at least 5L<br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: W.L.P PTE LTD<br>Web URL: https://www.wlp.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

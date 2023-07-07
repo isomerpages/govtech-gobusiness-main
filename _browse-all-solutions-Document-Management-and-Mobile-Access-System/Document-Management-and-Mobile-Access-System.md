@@ -32,44 +32,44 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution103' target='_blank'>AdeptForms - Document Management Solution Version 1</a><br></td>
-<td>Adept Ventures Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution314' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution269' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution796' target='_blank'>M365 SharePoint Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution698' target='_blank'>M365 SharePoint Package</a><br></td>
 <td>JK Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution820' target='_blank'>Evolvecloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution722' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1301' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1116' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1379' target='_blank'>TessaCloud DMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1184' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1502' target='_blank'>Dropbox Business</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1300' target='_blank'>Dropbox Business</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1563' target='_blank'>Stendard Solution Version 1.7.12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1347' target='_blank'>Stendard Solution Version 1.7.12</a><br></td>
 <td>YNL 360 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1596' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1375' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1822' target='_blank'>Therefore Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1596' target='_blank'>Therefore Online</a><br></td>
 <td>CANON SINGAPORE PTE. LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1756' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
+<td>PROMINDS PTE LTD</td>
 </tr>
 </table>
 

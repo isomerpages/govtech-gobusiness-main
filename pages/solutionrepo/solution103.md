@@ -1,15 +1,15 @@
 ---
-title: 'AdeptForms - Document Management Solution Version 1'
+title: 'AdeptForms Security Operational Management Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution103
 ---
 
-## AdeptForms - Document Management Solution Version 1
+## AdeptForms Security Operational Management Version 2
 
 ## Overview
 
 **Description**
 
-Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
+AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Document management is a module to help the users digitize and manage their digi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package A: (Up to 3 users)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package A (Up to 5 Sites)</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package B: (Up to 8 users)</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package C: (Up to 10 users - With OCR)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package D: (Up to 15 users - With OCR)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package D (Up to 5 Sites include Bodyworn)</td>
+<td style='padding: 10px;'>$17,500.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms - Document Management Solution Version 1 - Package E: (Up to 25 users - With OCR)</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

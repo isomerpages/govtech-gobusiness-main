@@ -1,15 +1,15 @@
 ---
-title: 'Sage 300 InvoiceNOW'
+title: 'QuickHR'
 permalink: /productivity-solutions-grant/solutionrepo/solution478
 ---
 
-## Sage 300 InvoiceNOW
+## QuickHR
 
 ## Overview
 
 **Description**
 
-Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
+QuickHR is a holistic cloud based HRMS built to eliminate problems that plague traditional HR platforms. Designed with security, stability and scalability in mind, QuickHR enables businesses to efficiently manage employees, onboarding, payroll, leave, claim and appraisals through an automated experience. QuickHR is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based HRMS provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productiv
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
-<td style='padding: 10px;'>$20,705.96</td>
-<td style='padding: 10px;'>$19,205.96</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START HRMS (10 Headcounts)</td>
+<td style='padding: 10px;'>$2,700.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$38,603.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT HRMS (50 Headcounts)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
-<td style='padding: 10px;'>$42,242.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING HRMS (100 Headcounts)</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
-<td style='padding: 10px;'>$47,703.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE HRMS (150 Headcounts)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$50,103.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR HRMS (200 Headcounts)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
+ Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

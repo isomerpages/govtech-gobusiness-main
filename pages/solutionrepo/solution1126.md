@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Smart POS for Beauty Version 2022.01'
+title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1126
 ---
 
-## Qashier Smart POS for Beauty Version 2022.01
+## Advanced Human Hazard Avoidance & Alert Systems Version 01
 
 ## Overview
 
 **Description**
 
-Qashier provides smart point-of-sale and e-payment solutions to the Beauty and Services sector. Qashier's suite of solutions enable businesses to accept payments, manage store operations, and bring their business online.
+Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Qashier provides smart point-of-sale and e-payment solutions to the Beauty and S
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Pro + Basic Setup</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Advanced Setup</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Full Setup + Training</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SolarisCES_Advanced_Human_Hazard_Avoidance_DesensitisedPart_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

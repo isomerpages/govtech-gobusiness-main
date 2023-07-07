@@ -1,15 +1,15 @@
 ---
-title: 'Creative eShop'
+title: 'Sage 300 InvoiceNOW'
 permalink: /productivity-solutions-grant/solutionrepo/solution417
 ---
 
-## Creative eShop
+## Sage 300 InvoiceNOW
 
 ## Overview
 
 **Description**
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Lite</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
+<td style='padding: 10px;'>$20,705.96</td>
+<td style='padding: 10px;'>$19,205.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Standard</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$38,603.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative eShop - Creative eShop Package Premium</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_eShop_20210201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
+<td style='padding: 10px;'>$42,242.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
+<td style='padding: 10px;'>$47,703.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
+<td style='padding: 10px;'>$50,103.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ## Vendor Information
 
- Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
+ Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

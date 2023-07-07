@@ -1,6 +1,7 @@
 ---
 title: Sector-Specific Requirements
 permalink: /safemanagement/sector/
+third_nav_title: Covid-19
 ---
 
 ## Sector-Specific Requirements

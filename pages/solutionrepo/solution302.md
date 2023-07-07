@@ -1,15 +1,15 @@
 ---
-title: 'HubSpot'
+title: 'Athena E-store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
-## HubSpot
+## Athena E-store Solution
 
 ## Overview
 
 **Description**
 
-Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, but also caters to outbound marketing), sales and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah at the Massachusetts Institute of Technology (MIT), Hubspot aims to provide products, services and tools for customer relationship (CRM), social media marketing, content management, lead generation, web analytics, search engine optimization (SEO), live chat and customer support.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,27 @@ Hubspot is a SaaS provider for digital marketing (primarily inbound marketing, b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package A Hubspot sales pro + marketing (1000 contacts)</td>
-<td style='padding: 10px;'>$14,220.00</td>
-<td style='padding: 10px;'>$13,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Lite Version</td>
+<td style='padding: 10px;'>$8,050.00</td>
+<td style='padding: 10px;'>$8,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package B Hubspot sales pro + marketing (1000 contacts) + Customised Onboarding</td>
-<td style='padding: 10px;'>$16,220.00</td>
-<td style='padding: 10px;'>$15,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package C Hubspot sales pro + marketing starter (5000 contacts)</td>
-<td style='padding: 10px;'>$20,446.00</td>
-<td style='padding: 10px;'>$19,346.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HubSpot - Package D Hubspot sales CRM free + marketing pro (2000 contacts)</td>
-<td style='padding: 10px;'>$23,440.00</td>
-<td style='padding: 10px;'>$22,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Interactive_20200255_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E-store Solution-Athena E Store Solution</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com <br>
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: https://cleverly.sg/<br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

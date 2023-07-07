@@ -1,19 +1,16 @@
 ---
-title: 'Royal Management Services XERO ACCOUNTING'
+title: 'TIMES SOFTWARE HRMS Version 18'
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 
-## Royal Management Services XERO ACCOUNTING
+## TIMES SOFTWARE HRMS Version 18
 
 ## Overview
 
 **Description**
 
-Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
-
-We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
-
-The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
+Times Software Pte Ltd is an international software and consultancy company specializing in the development, implementation & systems support as well as the marketing of Times's proprietary suite of applications that include Payroll and Human Resource solutions built on leading technologies.
+Times Software Pte Ltd has a team of employees who are equipped with in-depth knowledge, technological skills, and business processes of the human resource industry standards.
 
 ## Solution Packages Option(s)
 
@@ -27,38 +24,38 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
-<td style='padding: 10px;'>$728.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
-<td style='padding: 10px;'>$1,928.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 2 (up to 50 pax)</td>
+<td style='padding: 10px;'>$15,600.00</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'>$2,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 3 (up to 100 pax)</td>
+<td style='padding: 10px;'>$22,800.00</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
-<td style='padding: 10px;'>$3,528.00</td>
-<td style='padding: 10px;'>$3,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 4 (up to 150 pax)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
-<td style='padding: 10px;'>$4,128.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 5 (up to 200 pax)</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$31,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -68,7 +65,7 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ## Vendor Information
 
- Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
+ Company Name: Times Software Pte Ltd<br>Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br><br>Contact Hotline: 62951998 <br><br>Contact Email: sales@timesoftsg.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

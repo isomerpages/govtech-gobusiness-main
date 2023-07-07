@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Shared Service'
+title: 'Invisiron Cyber Defence'
 permalink: /productivity-solutions-grant/solutionrepo/solution687
 ---
 
-## HRM Labs Shared Service
+## Invisiron Cyber Defence
 
 ## Overview
 
 **Description**
 
-HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
+Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ HRM Labs helps companies to handle their human resource administration and payro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 15 Headcount</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 30 Headcount</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 50 Headcount</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 100 Headcount</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 200 Headcount</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ HRM Labs helps companies to handle their human resource administration and payro
 
 ## Vendor Information
 
- Company Name: Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@hrmlabs.com <br><br>
+ Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

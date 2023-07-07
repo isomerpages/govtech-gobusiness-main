@@ -1,15 +1,15 @@
 ---
-title: 'MEGAPOS'
+title: 'OpensoftHR Version 18'
 permalink: /productivity-solutions-grant/solutionrepo/solution901
 ---
 
-## MEGAPOS
+## OpensoftHR Version 18
 
 ## Overview
 
 **Description**
 
-MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
+Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
-<td style='padding: 10px;'>$5,180.00</td>
-<td style='padding: 10px;'>$4,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (25 pax)</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (50 pax)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
-<td style='padding: 10px;'>$6,730.00</td>
-<td style='padding: 10px;'>$6,430.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (100 pax)</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
-<td style='padding: 10px;'>$7,230.00</td>
-<td style='padding: 10px;'>$6,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (150 pax)</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
-<td style='padding: 10px;'>$6,190.00</td>
-<td style='padding: 10px;'>$5,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (200 pax)</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company Name: Opensoft Pte Ltd<br>Web URL: https://www.opensofthr.com/products/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@opensofthr.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
