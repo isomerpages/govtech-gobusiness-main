@@ -78,7 +78,7 @@ const custom_notifications = [
   //[**GCC Migration**]
   //"<b>[Attention: System Maintenance]</b> Guided Journey and e-Advisers will be unavailable due to scheduled maintenance on 6 Nov 2022 from 12am to 8am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
 
-  "<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be undergoing scheduled maintenance from 4pm to 8pm on 5 July 2023. Some services may not be available during this period. We apologise for any inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be undergoing scheduled maintenance from 4pm to 8pm on 5 July 2023. Some services may not be available during this period. We apologise for any inconvenience caused."
   //
 
 ];
