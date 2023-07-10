@@ -8,15 +8,16 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-{% include licence-apply-button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" type="primary" %}
+{% include licence-apply-button.html %}
 
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a> 
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
 <span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span>
 <span>You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span>
-</div>
 <a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">Continue to GoBusiness Licencing anyway</a>
+</div>
+
 
 <H3>Application Details</H3>
 
