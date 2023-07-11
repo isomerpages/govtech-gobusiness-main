@@ -1585,9 +1585,8 @@
 
         For individuals wishing to become licensed fumigators.
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/baa5e0d6-f459-4596-b697-5bdd3eee6bfb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=157" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence">View Licence Details</a>
-
         -----
         **Funeral Parlour Licence**
 
@@ -2219,8 +2218,7 @@
 
         <p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
 
-        <a class="btn" href="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
+        <a class="btn" href="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences)
 
     - title: Singapore Police Force (SPF)
       content: |
@@ -2307,9 +2305,8 @@
 
         Under the Arms and Explosives Act 1913, a Licence to Import or Export is required for the import or export of any Guns, Explosives, Explosive Precursors, Weapons or Noxious Substances. 
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/f15866a1-e829-4089-af3f-e13a339383ff" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Import-or-Export-Explosive-Precursors" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Import-or-Export-Explosive-Precursors">View Licence Details</a>
-
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/8b1f7010-c012-4f22-acf6-003eb5cdda07" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-to-Import-or-Export-Explosive-Precursors)
+        
         -----
         **Licence to Import or Export for Weapons**
 
