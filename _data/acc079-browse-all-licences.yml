@@ -957,8 +957,7 @@
 
         Application for Registration as a Foreign Patent Agent under rule 10B or for Renewal of Registration as a Foreign Patent Agent under Rule 10C of the Patents (Patent Agents) Rules 2001.
 
-        <a class="btn" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" target="_blank" rel="noopener">Apply on IPOS</a><a id="desktopNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent)">View Licence Details</a>
+        <a class="btn" href="https://www.ipos.gov.sg/docs/default-source/default-document-library/form-h.docx" target="_blank" rel="noopener">Apply on IPOS</a>&emsp;[View Licence Details](/browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-H-(Registration--Renewal-of-Registration-as-a-Foreign-Patent-Agent))
 
     - title: Inland Revenue Authority of Singapore (IRAS)
       content: |
@@ -1586,7 +1585,7 @@
 
         For individuals wishing to become licensed fumigators.
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/baa5e0d6-f459-4596-b697-5bdd3eee6bfb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/baa5e0d6-f459-4596-b697-5bdd3eee6bfb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence">View Licence Details</a>
 
         -----
@@ -1773,7 +1772,7 @@
 
         For the application and registration of Vector Control Operator Certificate.
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/d01fb409-3414-433a-ad39-31e61cb7edfe" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate" style="margin-left: 1em;">View Licence Details</a>
+        <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate">View Licence Details</a>
 
         -----
@@ -1783,7 +1782,7 @@
 
         Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.
 
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/3c60d199-38aa-4618-8671-dd86793dad54" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
 
         -----
@@ -1803,9 +1802,8 @@
 
         For factories to apply for a written permission to discharge trade effluent into a watercourse.
 
-        <a class="btn" href="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" target="_blank" rel="noopener">Apply on NEA</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse">View Licence Details</a>
-
+        <a class="btn" href="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" target="_blank" rel="noopener">Apply on NEA</a>&emsp;[View Licence Details](/browse-all-licences/National-Environment-Agency-(NEA)/Written-Permission-to-Discharge-Trade-Effluent-into-a-Watercourse)
+    
     - title: National Parks Board (NPARKS)
       content: |
         **CITES Permit**
