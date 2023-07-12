@@ -10,6 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
+{% include licence-apply-button.html %}
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000140" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">

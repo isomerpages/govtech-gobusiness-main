@@ -8,6 +8,7 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
+{% include licence-apply-button.html %}
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/documents/13101/3730559/Potential+Hazards+of+Solar+Photovoltaic+Feb+2020/293e8fe0-ceed-4826-9cab-985370eeddd7" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
 <img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
