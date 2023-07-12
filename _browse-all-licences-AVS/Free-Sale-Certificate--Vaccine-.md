@@ -9,6 +9,7 @@ third_nav_title: Animal & Veterinary Service (AVS)
 Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
+{% include licence-apply-button.html %}
 
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000328" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
 <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
