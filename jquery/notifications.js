@@ -81,8 +81,8 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be undergoing scheduled maintenance from 4pm to 8pm on 5 July 2023. Some services may not be available during this period. We apologise for any inconvenience caused."
   //
 
-  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 12 Jul 2023 from 6.30pm to 11.59pm. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 8pm to 11pm on 12 July 2023. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 12 Jul 2023 from 6.30pm to 11.59pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 8pm to 11pm on 12 July 2023. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 14 Jul 2023 10pm to 15 Jul 2023 8am<br>(2) from 15 Jul 2023 10pm to16 Jul 2023 8am"
 
 ];
