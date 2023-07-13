@@ -24,11 +24,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Active Interactions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution123' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution118' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
 <td>Advocado Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution598' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution506' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
 <td>EPOS Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'NovaVision Remote Assist Version 1.0'
+title: 'DM GSK Group Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution571
 ---
 
-## NovaVision Remote Assist Version 1.0
+## DM GSK Group Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
+With more than 17 years of experience providing clients with digital marketing solutions, GSK Group offers comprehensive SEO, SEM and SMM packages. Solutions are customised to meet every business's unique needs and wants. GSK Group aims to help every business achieve brand awareness, increase social media profile visibility, lead enquiries and higher sales revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
-<td style='padding: 10px;'>$14,872.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 1 - SEM-Search + SEM-Display - (3 months)</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'>$4,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
-<td style='padding: 10px;'>$23,344.00</td>
-<td style='padding: 10px;'>$17,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 2 - SEM-Search + SEM-Display - (6 months)	</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'>$8,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
-<td style='padding: 10px;'>$31,816.00</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 3 - SEM + SEO - (6 months) </td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
-<td style='padding: 10px;'>$40,288.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 4 - SEM + SMM - (6 months)</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'>$8,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
-<td style='padding: 10px;'>$48,760.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 5 - SMM-Facebook + SMM-Instagram - (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Engage Nova Pte Ltd<br>Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com
+ Company name:GSK Group Pte Ltd<br>Web URL: www.gskcreative.com.sg <br>Contact Hotline: 65364019 <br>Contact Email: info@gsk-group.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

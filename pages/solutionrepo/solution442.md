@@ -1,17 +1,15 @@
 ---
-title: 'cuteOffice ERP Version 2.0'
+title: 'Eber Smart Members Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution442
 ---
 
-## cuteOffice ERP Version 2.0
+## Eber Smart Members Solution
 
 ## Overview
 
 **Description**
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing. 
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+Eber Smart Member Solution is a smart member system that comes with comprehensive loyalty & rewards system, CRM, marketing, gift card and analytic tool. Businesses can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,34 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP Version 2.0 - cuteOffice HRM Suite >150 Users</td>
-<td style='padding: 10px;'>$29,400.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic package</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 150 Users</td>
-<td style='padding: 10px;'>$23,200.00</td>
-<td style='padding: 10px;'>$22,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Basic Package with Professional Services</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 100 Users</td>
-<td style='padding: 10px;'>$17,600.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 50 Users</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP Version 2.0 - cuteOffice HRM Suite up to 20 Users</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CutechInfocomm20200803_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eber Smart Members Solution - Premium Package with Professional Services</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Densensitised_Eber_Annex_3_CR_wef_02_Jun_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Cutech Infocomm Solutions Pte Ltd<br>Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email: jnaveen@cutechgroup.com <br>
+ Company Name: Eber Pte Ltd<br>Web URL: https://eber.co <br><br>Contact Hotline: 31590888 <br><br>Contact Email: hello@eber.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

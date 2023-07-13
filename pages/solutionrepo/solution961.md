@@ -1,15 +1,15 @@
 ---
-title: 'Netpluz Managed Firewall'
+title: 'EASPAC Enterprise Software Version 10.1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution961
 ---
 
-## Netpluz Managed Firewall
+## EASPAC Enterprise Software Version 10.1.1
 
 ## Overview
 
 **Description**
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+EASPAC Enterprise Software for the past 20 years has established itself as a reliable software application provider. It specializes in the development of solutions that are reliable and versatile. Its user-friendly interface is designed for ease of using.  The modules which are integrated in the system encompassed both accounting and operational aspect of the business requirement. With the unique structured design, EASPAC Enterprise Software can be easily set up to cater to most industries.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$23,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
+<td style='padding: 10px;'>$28,500.00</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$37,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2300 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'>$23,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 
 ## Vendor Information
 
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
+ Company name:Prosperage Pte Ltd<br>Web URL: eas-software.com <br>Contact Hotline: 65633810 <br>Contact Email: sylvia@prosperage.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
