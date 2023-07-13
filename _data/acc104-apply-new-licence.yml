@@ -59,3 +59,7 @@ accordion:
 
       ![Screenshot of amend existing licence](/images/FAQ/db/Cancel.jpg)
     
+  - title: Why am I not able to amend, renew or cancel my licence with a Pending Effective status?
+    content: |
+      You are only able to Amend, Renew or Cancel your licence when its status changes to Active. To know if your licence allows for Amend, Renew or Cancel, [contact the relevant government agency](/contact-us/agencies/).
+
