@@ -1,16 +1,18 @@
 ---
-title: 'Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance'
+title: 'QuickBooks Online Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1115
 ---
 
-## Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance
+## QuickBooks Online Version 1
 
 ## Overview
 
 **Description**
 
-The Centre for Workplace Learning & Performance (CWLP) of the Singapore University of Social Sciences, Institute for Adult Learning, specialises in learning consultancy, which looks into the people dimension as its core. Through its workplace learning and employee-driven initiatives, projects are run with outcome alignment to several areas, including job redesign. The Centre leverages deep expertise in the adult learning domain for direct application to the workplace context. 
- 
+1) Quick setup & onboarding with in accordance to clients' specific workflows.
+2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
+3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
+4) Efficient processing & recording of expenses claims into QuickBooks Online.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +26,38 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Basic</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,168.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Advance</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'>$4,468.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
+<td style='padding: 10px;'>$5,580.00</td>
+<td style='padding: 10px;'>$4,768.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Advance</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'>$5,568.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +67,7 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 
 ## Vendor Information
 
- Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
+ Company Name: Value Consultancy (Singapore) Pte. Ltd.<br>Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

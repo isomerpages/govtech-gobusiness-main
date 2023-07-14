@@ -1,15 +1,17 @@
 ---
-title: 'Applivon - Odoo'
+title: 'ABSS'
 permalink: /productivity-solutions-grant/solutionrepo/solution164
 ---
 
-## Applivon - Odoo
+## ABSS
 
 ## Overview
 
 **Description**
 
-Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
+ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
+
+SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
 
 ## Solution Packages Option(s)
 
@@ -23,41 +25,48 @@ Odoo is an integrated suite of business applications that have thousand of modul
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App5</td>
-<td style='padding: 10px;'>$13,786.00</td>
-<td style='padding: 10px;'>$13,786.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - Single User with InvoiceNow</td>
+<td style='padding: 10px;'>$1,903.74</td>
+<td style='padding: 10px;'>$1,903.74</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App10</td>
-<td style='padding: 10px;'>$15,724.00</td>
-<td style='padding: 10px;'>$15,724.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$2,744.86</td>
+<td style='padding: 10px;'>$2,744.86</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App15</td>
-<td style='padding: 10px;'>$17,866.00</td>
-<td style='padding: 10px;'>$17,866.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 5 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$3,677.57</td>
+<td style='padding: 10px;'>$3,677.57</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App-Unlimited</td>
-<td style='padding: 10px;'>$20,400.00</td>
-<td style='padding: 10px;'>$20,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - Single User with InvoiceNow</td>
+<td style='padding: 10px;'>$3,777.57</td>
+<td style='padding: 10px;'>$3,777.57</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$4,534.58</td>
+<td style='padding: 10px;'>$4,534.58</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
+ Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br>Contact Hotline: +6565056582 <br>Contact Email: cs.sg@abssasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

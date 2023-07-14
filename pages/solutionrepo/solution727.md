@@ -1,15 +1,15 @@
 ---
-title: 'KEEPITAL Sales Management Business Solution Version 3'
+title: 'Green Radar Email Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution727
 ---
 
-## KEEPITAL Sales Management Business Solution Version 3
+## Green Radar Email Security
 
 ## Overview
 
 **Description**
 
-Keepital is an online Global B2B platform that brings together buyers and suppliers and allows business owners to reach out to local and overseas prospects. Through this platform, business owners can list their products and services to generate quotations to potential buyers. The objective is to digitalise all SME products and services into a single platform to increase productivity, leads generation and improve sales and revenue, reducing the workload of a salesperson.
+Green Radar grMail is a next-generation cloud-based email security platform with artificial intelligence capability, to discover any unprecedented email threats. The primary aim is to maximize the client's business productivity and to minimize downtime by using unified AI & human monitoring SOC and behavioral detection engines. This provides the most comprehensive email protection that blocks bulk spam, viruses, malware, spoofing emails, phishing, CEO fraud, and other email-borne attacks.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 25 users</td>
+<td style='padding: 10px;'>$650.00</td>
+<td style='padding: 10px;'>$650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 50 users</td>
+<td style='padding: 10px;'>$1,100.00</td>
+<td style='padding: 10px;'>$1,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 100 users</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (500 Product Showcase)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 150 users</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Green Radar Email Security - 200 users</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netpluz_Desensitised_Annex_3_Part_5_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 
 ## Vendor Information
 
- Company Name: Keep Pte Ltd<br>Web URL: www.keepital.com <br>Contact Hotline: 96239126 <br>Contact Email: ask@keepital.com <br>
+ Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
