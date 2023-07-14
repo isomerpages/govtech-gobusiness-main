@@ -28,31 +28,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution372' target='_blank'>Creative Sales and Order</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution320' target='_blank'>Creative Sales and Order</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution727' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
-<td>Keep Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution803' target='_blank'>MEVO DMS 8.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution700' target='_blank'>MEVO DMS 8.3</a><br></td>
 <td>MEVO Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1037' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution918' target='_blank'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0</a><br></td>
 <td>RHS Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1097' target='_blank'>EzyProcure Version 2.0</a><br></td>
-<td>Singapore E-Business Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1330' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1176' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1360' target='_blank'>Zeemart Supplier Hub</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1206' target='_blank'>Zeemart Supplier Hub</a><br></td>
 <td>Zeemart Pte Ltd</td>
 </tr>
 </table>

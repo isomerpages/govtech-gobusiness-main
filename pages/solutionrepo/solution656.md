@@ -1,15 +1,15 @@
 ---
-title: 'DM Injob Creative Digital Marketing Packages'
+title: 'LittleLives School Management System (Data Mining & Analytics)'
 permalink: /productivity-solutions-grant/solutionrepo/solution656
 ---
 
-## DM Injob Creative Digital Marketing Packages
+## LittleLives School Management System (Data Mining & Analytics)
 
 ## Overview
 
 **Description**
 
-Injob Creative provides digital marketing packages SMM + SMA, SEO + SEM or SEO+SMM packages, ensuring that they can benefit any growing local SMEs helping them reach their desired target audiences. Injob Creative's expertise helps SMEs realize improve in their outreach within 3 months time.
+LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ Injob Creative provides digital marketing packages SMM + SMA, SEO + SEM or SEO+S
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM + SMA [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
+<td style='padding: 10px;'>$6,537.00</td>
+<td style='padding: 10px;'>$5,301.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + SMA [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ Injob Creative provides digital marketing packages SMM + SMA, SEO + SEM or SEO+S
 
 ## Vendor Information
 
- Company Name:Injob Creative Pte Ltd<br>Web URL: injob.com.sg <br>Contact Hotline: 97360305 <br>Contact Email: enquiry@injob.com.sg 
+ Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
