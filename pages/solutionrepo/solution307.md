@@ -1,15 +1,15 @@
 ---
-title: 'XERO'
+title: 'DM Corsiva Lab Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
-## XERO
+## DM Corsiva Lab Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Xero is a cloud-based accounting software that connects people with the right nu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO - Cloud Accounting Software- Aspire Starter Plan A</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Basic Plan B</td>
-<td style='padding: 10px;'>$1,820.00</td>
-<td style='padding: 10px;'>$1,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Marketing and Social Media Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Advance Plan C</td>
-<td style='padding: 10px;'>$2,460.00</td>
-<td style='padding: 10px;'>$2,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Search Engine Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Super Plan D</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Content Marketing [6 Months Package]</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Wonderful Plan E</td>
-<td style='padding: 10px;'>$4,385.00</td>
-<td style='padding: 10px;'>$4,385.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography [3 Months Package]</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Vendor Information
 
- Company Name: Clooud Consulting LLP<br>Web URL: www.xero.com <br><br>Contact Hotline: 97592364 <br><br>Contact Email: info@clooudconsulting.com <br><br>
+ Company Name: Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
