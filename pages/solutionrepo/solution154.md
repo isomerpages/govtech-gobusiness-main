@@ -1,15 +1,15 @@
 ---
-title: 'Firewalla Gold Package'
+title: 'ABSS Premier Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution154
 ---
 
-## Firewalla Gold Package
+## ABSS Premier Version 30
 
 ## Overview
 
 **Description**
 
-Firewalla is an Intrusion Detection System and Intrusion Prevention System with a modern mobile interface, and a powerful cloud.  Firewalla Gold is the world's most affordable multi-gigabit smart firewall that protecting your business and family that combines features you love, easy to install, simple to use, and no monthly fees.  Anzen Global has partnered with Firewalla (USA), a progressive Cyber Security technologist to make cybersecurity simple and affordable for Singapore SMEs.
+ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package A - 1 Site</td>
-<td style='padding: 10px;'>$1,380.00</td>
-<td style='padding: 10px;'>$1,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1-User) Full Package</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package B - 2 Sites</td>
-<td style='padding: 10px;'>$2,680.00</td>
-<td style='padding: 10px;'>$2,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (3-Users) Software Only</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package C - 3 Sites</td>
-<td style='padding: 10px;'>$4,020.00</td>
-<td style='padding: 10px;'>$4,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (3-Users) Full Package</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewalla Gold Package - Package D - 4 Sites</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anzen_Global_20200755_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (3-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (5-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Firewalla is an Intrusion Detection System and Intrusion Prevention System with 
 
 ## Vendor Information
 
- Company Name: Anzen Global Pte Ltd<br>Web URL: Cybersecurity Products and Services <br><br>Contact Hotline: 97520811 <br><br>Contact Email: info@anzenglobal.com <br><br>
+ Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com<br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

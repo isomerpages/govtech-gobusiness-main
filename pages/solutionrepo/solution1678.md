@@ -1,17 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1678
 ---
 
-## Microsoft Dynamics 365 Business Central
+## WLP Digital Ecommerce Web Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is Microsoft's flagship cloud enterprise resource planning (ERP) software for SMEs, with features spanning finance, operations, customer service, inventory, procurement, and sales.
-
-AFON is the award-winning (Microsoft's President Award, Enterprise E50 Award by KPMG etc.) Microsoft partner in Singapore that helps fast-growing businesses improve financial and operational efficiencies through ERP, analytics, and industry-centric solutions.
+Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,20 @@ AFON is the award-winning (Microsoft's President Award, Enterprise E50 Award by 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users Essentials with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Systems_Microsoft_Dynamics_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Essentials with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$34,800.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Systems_Microsoft_Dynamics_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>8 Users Premium with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$60,300.00</td>
-<td style='padding: 10px;'>$31,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Systems_Microsoft_Dynamics_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Essentials with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$44,400.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Systems_Microsoft_Dynamics_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 Users Premium with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$75,600.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Systems_Microsoft_Dynamics_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Digital_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription/Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AFON Systems Pte Ltd<br>Web URL: https://www.afon.com.sg/erp/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales-enquiry@afon.com.sg
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

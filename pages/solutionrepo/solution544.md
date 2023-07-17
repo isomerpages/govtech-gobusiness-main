@@ -1,15 +1,15 @@
 ---
-title: 'Frontier eHR HRSS Version 8'
+title: 'DM Ice Cube Predictable Leads Generation Program'
 permalink: /productivity-solutions-grant/solutionrepo/solution544
 ---
 
-## Frontier eHR HRSS Version 8
+## DM Ice Cube Predictable Leads Generation Program
 
 ## Overview
 
 **Description**
 
-Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations through a user-friendly cloud-based application. HR can record employee's details and handle Payroll & Performance Appraisal process. Employees can access their HR information and perform HR related applications through web and mobile app. Through integrated services including both HRSS and HRMS, the solution provides a one stop solution for SMEs to eliminate the time and cost required for HR and Payroll administration.
+Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 users</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 1 - SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ice_Cube_Annex_3_CR_wef_24Nov22_Part_1' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 2 - Ecommerce SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 users</td>
-<td style='padding: 10px;'>$41,600.00</td>
-<td style='padding: 10px;'>$41,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 users</td>
-<td style='padding: 10px;'>$49,600.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 3 - SEM+SMA+video (3months)</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+ Company Name: Ice Cube Marketing Pte Ltd<br>Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
