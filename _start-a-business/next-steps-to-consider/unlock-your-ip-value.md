@@ -8,13 +8,19 @@ third_nav_title: Next Steps to Consider
 
 ![Protect your ideas](/images/start/StartSJ_StartSJ_TrademarksIP.jpg)
 
+<<<<<<< HEAD
+Intangible assets now account for 90% of all business value, as cited in an [Ocean Tomo study](https://oceantomo.com/intangible-asset-market-value-study/
+=======
 ### Protect your business
 
 Intangible assets now make up 90% of all business value, according to an [Ocean Tomo study](https://oceantomo.com/intangible-asset-market-value-study/
+>>>>>>> staging
 ){:target="_blank"}{:rel="noopener"}. Your inventions, designs and representations of your brand are part of your business’ [intangible assets and intellectual property (IA/IP)](https://www.ipos.gov.sg/about-ip){:target="_blank"}{:rel="noopener"} that should be protected. Common forms of IP are trade marks (representation of your brands), patents (your inventions) and designs.
 
 Whether you are a budding entrepreneur, a start-up, a SME or an MNC, protecting and managing your IP can help your business grow. Having a strong IP portfolio can open up commercial opportunities for your business such as research & development (R&D) partnerships, securing investments, licensing and franchising. Find out more about [monetising your IP](https://www.ipos.gov.sg/manage-ip/monetise-ip){:target="_blank"}{:rel="noopener"} on the Intellectual Property Office of Singapore's (IPOS) website.
 
+<<<<<<< HEAD
+=======
 ### How do I get started?
 
 You can begin your IP journey with [GoBusiness IP Grow](/intellectual-property/ip-grow/?src=start_nextstep_ip), a new online IA/IP services marketplace to support enterprises in leveraging IA/IP for growth. From e-Advisers to comprehensive service directories, GoBusiness IP Grow offers personalised advice, recommendations, and IA/IP-related resources that can help your business grow and expand globally.
@@ -40,4 +46,7 @@ Tap on a wide range of [IA/IP-related resources](/intellectual-property/ip-grow/
 Generally, a good time to file for protection of your IP is before launching your product or service, so that no one can take advantage of your IP without your permission. If you are considering filing a patent application to protect your invention, you are encouraged to do it before you disclose your invention publicly to third parties (e.g. potential collaborators), in order to satisfy one of the qualifying criteria. You can [book a complimentary consultation on IP strategies](https://www.ipos.gov.sg/eservices/ip-clinics){:target="_blank"}{:rel="noopener"} via IP Business Clinic, a service offered by IPOS.
 
 
+>>>>>>> staging
 ![An infographic listing a businesses' intangible assets and IPs. These include Trade Mark and Brand, Trade Secret, Copyright, Design, Patent and Know-how](/images/start/Unlock IA (Honey).png)
+
+Generally, a good time to file for protection of your IP is before launching your product or service, so that no one can take advantage of your IP without your permission. If you are considering filing a patent application to protect your invention, it should preferably be done before you disclose your invention publicly to third parties (eg: potential collaborators) to avoid failing to satisfy one of the qualifying criteria. You can [book a complimentary consultation on IP strategies](https://www.ipos.gov.sg/eservices/ip-clinics){:target="_blank"}{:rel="noopener"} via IP Business Clinic, a service offered by Intellectual Property Office of Singapore (IPOS).

@@ -1,15 +1,15 @@
 ---
-title: 'CIRCL F&B Omnichannel'
+title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1595
 ---
 
-## CIRCL F&B Omnichannel
+## SKYFY VTS FLEET MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
+Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,175.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
+ Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

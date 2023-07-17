@@ -1,15 +1,15 @@
 ---
-title: 'CFOsg XERO Cloud Accounting'
+title: 'DM Craft Creative Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution312
 ---
 
-## CFOsg XERO Cloud Accounting
+## DM Craft Creative Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses and help them generate effective and concrete leads. As a finalist for social media marketing agency of the year and with vast experience from running over 500 creative campaigns every year, Craft helps our clients identify and be seen by their target audiences online, increase their investment returns, and their sales through creative social marketing strategies, quality content writing and innovative media designs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Xero is an universal accounting software that provides a complete list of accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMA+ SEM) - [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMA + YouTube Advertising) - [2 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
-<td style='padding: 10px;'>$3,964.00</td>
-<td style='padding: 10px;'>$3,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,664.00</td>
-<td style='padding: 10px;'>$4,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,984.00</td>
-<td style='padding: 10px;'>$5,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (SMM + SMA) [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
+ Company name:Craft Creative Pte Ltd<br>Web URL: https://craft.com.sg/digital-marketing-services/ <br>Contact Hotline: 91880739 <br>Contact Email: admin@craft.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

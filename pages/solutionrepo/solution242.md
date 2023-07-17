@@ -1,19 +1,19 @@
 ---
-title: '1ERP - Singapore ERP'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution242
 ---
 
-## 1ERP - Singapore ERP
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-1ERP is the GoDigital solution for Singapore SMEs.
-A totally Singapore-centric software, 1ERP empowers SMEs to upgrade and GoDigital by staying lean and dynamic.
-Equipped with powerful reporting & integrated to popular software i.e Wordpress, Xero, POS etc, 1ERP aims to empower SMEs to "Increase sales channels, minimize workload + make more money!"
-Customizable & always upgrading, 1ERP aims to cater to each SME's unique requirements.
-1ERP is the Singapore Software developed by SMEs for SMEs.
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -27,31 +27,10 @@ Customizable & always upgrading, 1ERP aims to cater to each SME's unique require
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 1 - Startups</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 2 - Production</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 3 - SME</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 4 - SME PLUS</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -61,7 +40,7 @@ Customizable & always upgrading, 1ERP aims to cater to each SME's unique require
 
 ## Vendor Information
 
- Company Name: Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
