@@ -8,8 +8,14 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" type="primary" %}
-
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 <H3>Application Details</H3>
 
 <p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. It is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.<br />You may refer below on the steps for application of Supermarket Licence.</p>
