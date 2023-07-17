@@ -1,5 +1,0 @@
-collections:
-  intellectual-property-faqs:
-    output: true
-    order:
-      - gobusiness-ip-grow-faq.md
