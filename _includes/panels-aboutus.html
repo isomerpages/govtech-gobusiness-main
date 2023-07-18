@@ -63,6 +63,7 @@
         display: block;
         margin: 10px 0 5px 0;
     }
+
     .content .panel .panel-info {
         font-family: hknova-regular;
         font-size: 18px;
@@ -84,6 +85,13 @@
         margin: 0px 29px 0px 29px;
     }
 
+    .content .panel .contacts-link {
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 0 29px 0 0;
+    }
+    
     @media (max-width: 600px) {
         .content .panels {
             grid-template-columns: 1fr;
@@ -159,13 +167,13 @@
         {% if panel.call or panel.contactForm or panel.email %}
         <hr style="width:100%;text-align:left;margin:0">
         {% if panel.call %}
-        <p><strong>Call:</strong> <a class="panel-link" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
+        <p><strong>Call:</strong> <a class="contacts-link" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
         {% endif %}
         {% if panel.contactForm %}
-        <p><strong>Contact Form:</strong> <a class="panel-link" href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
+        <p><strong>Contact Form:</strong> <a class="contacts-link" href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
         {% endif %}
         {% if panel.email %}
-        <p><strong>Email:</strong> <a class="panel-link" href="tel:{{ panel.call }}">{{ panel.email }}</a></p>
+        <p><strong>Email:</strong> <a class="contacts-link" href="mailto:{{ email }}">{{ panel.email }}</a></p>
         {% endif %}
         {% endif %}
     </div>
