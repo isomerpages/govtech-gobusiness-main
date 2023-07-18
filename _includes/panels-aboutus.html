@@ -82,7 +82,7 @@
     }
 
     .content .panel .panel-links-container p {
-        margin: 29px 0 5px 0;
+        margin-left: 29px;
     }
     
     @media (max-width: 600px) {
@@ -161,7 +161,7 @@
         <div class="panel-links-container">
             <hr style="width:100%;text-align:left;margin:0">
             {% if panel.call %}
-            <p class="contacts-link"><strong>Call:</strong><a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
+            <p class="contacts-link"><strong>Call:</strong> <a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
             <p class="contacts-link" ><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
