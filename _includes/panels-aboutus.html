@@ -78,17 +78,29 @@
             grid-template-columns: 1fr;
         }
     }
+
+    .panel-second-title{
+        font-family: hknova-regular;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .panel-second-description {
+        font-family: hknova-regular;
+        font-size: 18px;
+    }
+
 </style>
 <div class="panels">
     {% for panel in include.panels %}
     <div class="panel">
       {% if panel.image %}
       <div class="panel-image" aria-hidden="true">
-        <img src="{{ panel.image }}" alt="Panel Image">
+        "{{ panel.image }}" 
       </div>
       {% endif %}
       {% if panel.header %}
-      <h2 class="panel-header">{{ panel.header }}</h2>
+      <h4 class="panel-header">{{ panel.header }}</h2>
       {% endif %}
       {% if panel.description %}
       <p class="panel-description">{{ panel.description }}</p>
@@ -103,13 +115,13 @@
       <div class="panel-contacts-container">
         <div class="panel-contacts">
             {% if panel.call %}
-            <p><strong>Call:</strong></p><a class="panel-contact" href="tel:{{ panel.call }}">{{ panel.call }}</a>
+            <p><strong>Call:</strong><a class="panel-contact" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.email %}
-            <p><strong>Email:</strong></p><a class="panel-contact" href="mailto:{{ panel.email }}">{{ panel.email }}</a>
+            <p><strong>Email:</strong><a class="panel-contact" href="mailto:{{ panel.email }}">{{ panel.email }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
-            <p><strong>Contact Form</strong></p><a class="panel-contact" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"></a>
+            <p><strong>Contact Form</strong><a class="panel-contact" {{url}}></a></p>
             {% endif %}
         </div>
       </div>
