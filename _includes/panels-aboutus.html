@@ -1,0 +1,120 @@
+<style> 
+    .content .panels {
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        margin: 24px 0;
+    }
+
+    .content .panel {
+        display: grid;
+        row-gap: 16px;
+        border: 1px solid #dbdfe4;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        word-break: break-word;
+        grid-auto-rows: auto;
+    }
+
+    .content .panel .panel-image {
+        font-family: hknova-semibold;
+        font-size: 24px;
+        font-weight: 600;
+        width: 200px;
+        height: 144px;
+        border-radius: 7px;
+    }
+
+    .content .panel .panel-banner>img {
+        width: 498px;
+        height: 200px;
+        margin: 0;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-image>img {
+        width: 200px;
+        height: 144px;
+        border-radius: 7px;
+        margin: 29px 0 0 29px;
+        object-fit: cover;
+    }
+ 
+    .content .panel .panel-title {
+        font-family: hknova-semibold;
+        margin: 32px 29px 20px 29px;
+    }
+
+    .content .panel .panel-description,
+    .content [class*="panel-"]>div {
+        font-family: hknova-regular;
+        margin: 0 29px 20px 29px;
+    }
+
+    .content .panel .panel-contacts-container {
+        display: grid;
+        row-gap: 8px;
+        height: fit-content;
+        align-self: end;
+    }
+
+    .content .panel .panel-link {
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 10px 0 5px 0;
+    }
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
+
+
+    @media (max-width: 600px) {
+        .content .panels {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+<div class="panels">
+    {% for panel in include.panels %}
+    <div class="panel">
+      {% if panel.image %}
+      <div class="panel-image" aria-hidden="true">
+        <img src="{{ panel.image }}" alt="Panel Image">
+      </div>
+      {% endif %}
+      {% if panel.header %}
+      <h2 class="panel-header">{{ panel.header }}</h2>
+      {% endif %}
+      {% if panel.description %}
+      <p class="panel-description">{{ panel.description }}</p>
+      {% endif %}
+      {% if panel.second_title %}
+      <h4 class="panel-second-title">{{ panel.secondTitle }}</h4>
+      {% endif %}
+      {% if panel.second_description %}
+      <p class="panel-second-description">{{ panel.secondDescription }}</p>
+      {% endif %}
+      {% if panel.call or panel.email or panel.url or panel.contactForm %}
+      <div class="panel-contacts-container">
+        <div class="panel-contacts">
+            {% if panel.call %}
+            <p><strong>Call:</strong></p><a class="panel-contact" href="tel:{{ panel.call }}">{{ panel.call }}</a>
+            {% endif %}
+            {% if panel.email %}
+            <p><strong>Email:</strong></p><a class="panel-contact" href="mailto:{{ panel.email }}">{{ panel.email }}</a>
+            {% endif %}
+            {% if panel.contactForm %}
+            <p><strong>Contact Form</strong></p><a class="panel-contact" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"></a>
+            {% endif %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+</div>
+  
