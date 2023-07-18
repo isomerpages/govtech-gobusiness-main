@@ -1,5 +1,5 @@
 - image: <img style="width:200px; height:144px;" src="/images/gobusiness_dashboard.png">
-  header: GoBusiness Helpdesk
+  title: GoBusiness Helpdesk
   description: For help with GoBusiness Dashboard, e-Advisers or Food Service Guided Journey, and enquiries about starting a business, licences, and government assistance.
   secondTitle: Helpdesk Operating Hours
   secondDescription: |
@@ -10,7 +10,7 @@
   email: AskGoBiz@crimsonlogic.com.sg
 
 - image: <img style="width:200px; height:144px;" src="/images/gobusiness_licensing.png">
-  header: GoBusiness Licensing
+  title: GoBusiness Licensing
   description: For support transacting on GoBusiness Licensing platform.
   secondTitle: Helpdesk Operating Hours
   secondDescription: |
@@ -21,7 +21,7 @@
   email: licences-helpdesk@crimsonlogic.com.sg
 
 - image: <img style="width:200px; height:144px;" src="/images/dashboard_graphic.png">
-  header: Business Grants Portal (BGP)
+  title: Business Grants Portal (BGP)
   description: For support transacting on BGP.
   secondTitle: Helpdesk Operating Hours
   secondDescription: |
