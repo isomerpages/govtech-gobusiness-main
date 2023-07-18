@@ -1,4 +1,4 @@
-<style> 
+<style>
     .content .panels {
         display: grid;
         grid-gap: 20px;
@@ -39,7 +39,7 @@
         margin: 29px 0 0 29px;
         object-fit: cover;
     }
- 
+
     .content .panel .panel-title {
         font-family: hknova-semibold;
         margin: 32px 29px 20px 29px;
@@ -51,6 +51,12 @@
         margin: 0 29px 20px 29px;
     }
 
+    .content .panel .panel-second-title {
+        font-family: Hk Nova;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
     .content .panel .panel-contacts-container {
         display: grid;
         row-gap: 8px;
@@ -58,12 +64,13 @@
         align-self: end;
     }
 
-    .content .panel .panel-link {
+    .content .panel .panel-contact {
         font-size: 18px;
         line-height: 27px;
-        display: block;
+        display: inline-block;
         margin: 10px 0 5px 0;
     }
+
     .content .panel .panel-info {
         font-family: hknova-regular;
         font-size: 18px;
@@ -72,61 +79,50 @@
         text-decoration: none;
     }
 
-
     @media (max-width: 600px) {
         .content .panels {
             grid-template-columns: 1fr;
         }
     }
-
-    .panel-second-title{
-        font-family: hknova-regular;
-        font-size: 18px;
-        font-weight: bold;
-    }
-
-    .panel-second-description {
-        font-family: hknova-regular;
-        font-size: 18px;
-    }
-
 </style>
+
 <div class="panels">
-    {% for panel in include.panels %}
     <div class="panel">
       {% if panel.image %}
       <div class="panel-image" aria-hidden="true">
-        "{{ panel.image }}" 
+        {{ panel.image | safe }}
       </div>
       {% endif %}
       {% if panel.header %}
-      <h4 class="panel-header">{{ panel.header }}</h2>
+      <h4 class="panel-header">{{ panel.header }}</h4>
       {% endif %}
       {% if panel.description %}
       <p class="panel-description">{{ panel.description }}</p>
       {% endif %}
-      {% if panel.second_title %}
-      <h4 class="panel-second-title">{{ panel.secondTitle }}</h4>
+      {% if panel.secondTitle %}
+      <h4 class="panel-second-title" style="font-family: Hk Nova; font-size: 18px; font-weight: bold;">{{ panel.secondTitle }}</h4>
       {% endif %}
-      {% if panel.second_description %}
+      {% if panel.secondDescription %}
       <p class="panel-second-description">{{ panel.secondDescription }}</p>
       {% endif %}
-      {% if panel.call or panel.email or panel.url or panel.contactForm %}
       <div class="panel-contacts-container">
+        {% if panel.call %}
         <div class="panel-contacts">
-            {% if panel.call %}
-            <p><strong>Call:</strong><a class="panel-contact" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
-            {% endif %}
-            {% if panel.email %}
-            <p><strong>Email:</strong><a class="panel-contact" href="mailto:{{ panel.email }}">{{ panel.email }}</a></p>
-            {% endif %}
-            {% if panel.contactForm %}
-            <p><strong>Contact Form</strong><a class="panel-contact" {{url}}></a></p>
-            {% endif %}
+          <strong>Call:</strong>
+          <a class="panel-contact" href="tel:{{ panel.call }}">{{ panel.call }}</a>
         </div>
+        {% endif %}
+        {% if panel.email %}
+        <p><strong>Email:</strong><a class="panel-contact" href="mailto:{{ panel.email }}">{{ panel.email }}</a></p>
+        {% endif %}
+        {% if panel.contactForm %}
+        <div class="panel-contacts">
+          <strong>Contact Form:</strong>
+          <a class="panel-contact" href="{{ panel.contactForm }}">Click here</a>
+        </div>
+        {% endif %}
       </div>
-      {% endif %}
     </div>
-    {% endfor %}
-</div>
+  </div>
+  
   
