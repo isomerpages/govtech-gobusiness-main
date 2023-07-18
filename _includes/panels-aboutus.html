@@ -139,7 +139,7 @@
             {% endif %}
             {% if panel.url %}
             <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-group">
+            <div class="panel-links-container">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
                 {% if panel.url-new-tab %}
@@ -165,7 +165,7 @@
         </div>
         {% endif %}
         {% if panel.call or panel.contactForm or panel.email %}
-        <div class="panel-info">
+        <div class="panel-links-container">
             <hr style="width:100%;text-align:left;margin:0">
             {% if panel.call %}
             <p><strong>Call:</strong> <a class="contacts-link" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
