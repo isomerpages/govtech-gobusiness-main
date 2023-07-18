@@ -157,14 +157,15 @@
         </div>
         {% endif %}
         {% if panel.call or panel.contactForm or panel.email %}
+        <hr style="width:100%;text-align:left;margin:0">
         {% if panel.call %}
         <p><strong>Call:</strong> <a class="panel-link" href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
         {% endif %}
         {% if panel.contactForm %}
-        <p><strong>Contact Form:</strong> <a class="panel-link" href="{{ panel.contactForm }}">Click here</a></p>
+        <p><strong>Contact Form:</strong> <a class="panel-link" href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
         {% endif %}
         {% if panel.email %}
-        <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+        <p><strong>Email:</strong> <a class="panel-link" href="tel:{{ panel.call }}">{{ panel.email }}</a></p>
         {% endif %}
         {% endif %}
     </div>
