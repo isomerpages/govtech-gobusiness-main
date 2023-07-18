@@ -11,7 +11,6 @@ permalink: /contact-us/
 
 |--|--|
 |![Contact Ask GoBiz](/images/contact Ask GoBiz.png)| Use the Ask GoBiz chatbot to find information, or request a live chat with a customer service officer. <br><br>**Live Chat Operating Hours:**<br>Monday - Friday: 8:00am - 6:00pm<br>Saturdays: 8:00am - 12:00pm<br>Closed on Sundays and public holidays<br><br>**Click the icon on the bottom right hand corner of the page to start.** |
-
 ----
 
 {% include panels-aboutus.html panels=site.data.acc013-helpdesk %}
