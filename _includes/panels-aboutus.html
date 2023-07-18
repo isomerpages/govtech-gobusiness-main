@@ -45,17 +45,11 @@
     }
 
     .content .panel .panel-description,
-    .content .panel .panel-second-description
-    .content .panel .contacts-link{
+    .content .panel .panel-second-description,
+    .content .panel .contacts-link {
         font-family: hknova-regular;
         font-size: 18px;
-        margin: 0 29px 0px 29px;
-    }
-
-    .contacts-bottom {
-        font-family: hknova-regular;
-        font-size: 18px;
-        margin: 0 29px 24px 29px;
+        margin: 0 29px 20px 29px;
     }
 
     .content .panel .panel-second-title {
@@ -88,7 +82,7 @@
     }
 
     .content .panel .panel-links-container p {
-        margin-left: 29px;
+        margin: 0px 0 0px 29px;
     }
     
     @media (max-width: 600px) {
@@ -170,10 +164,10 @@
             <p class="contacts-link"><strong>Call:</strong> <a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
-            <p class="contacts-bottom"><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
+            <p class="contacts-link" ><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
             {% endif %}
             {% if panel.email %}
-            <p class="contacts-bottom"><strong>Email:</strong> <a href="mailto:{{ email }}">{{ panel.email }}</a></p>
+            <p class="contacts-link"><strong>Email:</strong> <a href="mailto:{{ email }}">{{ panel.email }}</a></p>
             {% endif %}
         </div>
         {% endif %}
