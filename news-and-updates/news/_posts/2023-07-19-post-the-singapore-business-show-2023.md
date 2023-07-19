@@ -12,6 +12,8 @@ image: /images/news/Keynote at The Singapore Business Show 2023.jpg
 
 After a well-received debut in 2022, GoBusiness is back for the second edition of The Singapore Business Show on 30 and 31 August 2023 at Singapore Expo Hall 2.
 
+![GoBusiness at The Singapore Business Show 2022](/images/news/GoBusiness Singapore Business Show 2022.png)
+
 The Singapore Business Show aims to help SMEs and start-ups take their business to the next level by gathering and showcasing the knowledge and services of business experts and leaders. This year, the event will bring together over 300 exhibitors including GoBusiness.
 
 Visitors to the GoBusiness booth can learn more about the one-stop government platform and its functions. The GoBusiness team will also be on hand to do live demonstrations and answer queries.
