@@ -1,7 +1,7 @@
 ---
 title: 'Third-Party: On Behalf of Application (Business Users)'
 permalink: /dashboard-faqs/third-party-bizuser/
-third_nav_title: Third Party
+third_nav_title: Applications
 ---
 
 ### For Applicant
