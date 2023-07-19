@@ -1,15 +1,15 @@
 ---
-title: 'Mobile Responsive E-Commerce'
+title: 'SAP Business One, version for HANA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1522
 ---
 
-## Mobile Responsive E-Commerce
+## SAP Business One, version for HANA
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries, service/repair and manufacturing companies.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WebImp_Mobile_Responsive_E_Commerce_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Cloud Subscription Users</td>
+<td style='padding: 10px;'>$28,170.00</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 3 Perpetual Users</td>
+<td style='padding: 10px;'>$36,988.00</td>
+<td style='padding: 10px;'>$30,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - 5 Cloud Subscription Users</td>
+<td style='padding: 10px;'>$32,370.00</td>
+<td style='padding: 10px;'>$28,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - 5 Perpetual Users</td>
+<td style='padding: 10px;'>$44,764.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - 8 Perpetual Users for Project Industry</td>
+<td style='padding: 10px;'>$74,635.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Company name:Inecom Pte Ltd<br>Web URL: https://www.inecom.com.sg/solution/sap-business-one/ <br>Contact Hotline: 62259255 <br>Contact Email: enquiries@inecomworld.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Xero Accounting System'
+title: 'Highnix ERP Plus2 Version 4-3-35'
 permalink: /productivity-solutions-grant/solutionrepo/solution518
 ---
 
-## Xero Accounting System
+## Highnix ERP Plus2 Version 4-3-35
 
 ## Overview
 
 **Description**
 
-EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
-
-Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
+Highnix ERP solution is powered by Linux and cloud-based ERP engine which was developed by Highnix with tremendous amount of professional and software experience.  It simplifies and standardizes business processes, integrate business transactions and eliminate unproductive, human errors and maintain data continuity. No more worries about staff turnover. It can be customized, scaled, upgraded and can integrate with third-party applications.  It helps saving significant amount of operating cost.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard System for up to 3 concurrent users</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
-<td style='padding: 10px;'>$3,164.00</td>
-<td style='padding: 10px;'>$3,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Enhanced System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
-<td style='padding: 10px;'>$5,064.00</td>
-<td style='padding: 10px;'>$5,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
-<td style='padding: 10px;'>$6,264.00</td>
-<td style='padding: 10px;'>$6,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Enhanced System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
+ Company Name: Highnix Pte Ltd<br>Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

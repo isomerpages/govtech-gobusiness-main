@@ -1,23 +1,17 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'DM Duo Studio Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution382
 ---
 
-## Qoqolo School Management System Version 4.3
+## DM Duo Studio Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+Duo Studio is a local independent creative agency established in 2015 by founder and creative director, Stephanie Phua. Today, Duo is made up of 20+ young and nimble members in Singapore and Malaysia.
+
+Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business's revenue so as to provide a high ROI and ROAS.
 
 ## Solution Packages Option(s)
 
@@ -31,48 +25,27 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 1 - SMA Facebook and SMA Instagram Static Package [3 months]</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 2 - SMA Facebook and SMA Instagram Video package [3 months]</td>
+<td style='padding: 10px;'>$12,642.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Company Name: Duo Studio Pte. Ltd.<br>Web URL: www.duo.social <br>Contact Hotline: 88151230 <br>Contact Email: hello@duo.social <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

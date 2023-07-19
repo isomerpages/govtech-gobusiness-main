@@ -13,7 +13,7 @@ panels:
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_panel
         target: _blank
       - text: e-Adviser for Government Assistance
-        href: https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_panel
+        href: https://eadviser.gobusiness.gov.sg/govassist?src=eservices_panel
         target: _blank
     info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/">View all guides for businesses</a>
   - title: Employment Matters
