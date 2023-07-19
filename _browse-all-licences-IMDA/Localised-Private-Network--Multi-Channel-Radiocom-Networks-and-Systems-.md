@@ -10,7 +10,7 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10057" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/416bfa38-c8d1-447d-8a3f-c428e4e73ba6" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Network fee: $100.00<br />Frequency fee: $16.05 (with GST)</p>
+<p><strong>Fee</strong><br />Network fee: $100.00<br />Frequency fee: $16.20 (with GST)</p>
 
 <H3>Requirements</H3>
 

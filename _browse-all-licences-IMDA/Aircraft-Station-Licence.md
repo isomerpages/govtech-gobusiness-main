@@ -8,7 +8,7 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10011" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/a2c0a4a1-b26b-4b7c-9fc1-c81fe9d5562c" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -21,7 +21,7 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>A copy of the Civil Aviation Authority of Singapore Approval</strong></li>
- <li><strong>A copy of the Equipment Information List</strong></li>
- </ul>
+<li><strong>A copy of the Civil Aviation Authority of Singapore Approval</strong></li>
+<li><strong>A copy of the Equipment Information List</strong></li>
+</ul>
 

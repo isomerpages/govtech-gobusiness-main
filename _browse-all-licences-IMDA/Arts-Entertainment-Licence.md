@@ -8,7 +8,7 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f2ed19c4-40eb-4470-a312-b1ddf3613e70" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -21,11 +21,11 @@ Infocomm Media Development Authority (IMDA)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Art Exhibitions</strong></li>
- <li><strong>Multi-disciplinary Arts Entertainment</strong></li>
- <li><strong>Improv Performances</strong></li>
- <li><strong>Plays, Play-Reading and Poetry Recital</strong></li>
- <li><strong>Pop/Rock Concerts and Variety Shows</strong></li>
- <li><strong>Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre</strong></li>
- </ul>
+<li><strong>Art Exhibitions</strong></li>
+<li><strong>Multi-disciplinary Arts Entertainment</strong></li>
+<li><strong>Improv Performances</strong></li>
+<li><strong>Plays, Play-Reading and Poetry Recital</strong></li>
+<li><strong>Pop/Rock Concerts and Variety Shows</strong></li>
+<li><strong>Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre</strong></li>
+</ul>
 
