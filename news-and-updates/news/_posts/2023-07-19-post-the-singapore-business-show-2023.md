@@ -10,27 +10,21 @@ image: /images/news/Keynote at The Singapore Business Show 2023.jpg
 
 ![GoBusiness x The Singapore Business Show 2023](/images/news/Keynote at The Singapore Business Show 2023.jpg)
 
-The Business Show 2022 will be held in Singapore for the first time ever, gathering entrepreneurs and business leaders for a 2-day conference and exhibition. The speaker lineup includes [Simon Ang](https://www.singaporebusinessshow.com/speakers/simon-ang/){:target="_blank"}{:rel="noopener"}, Deputy Director, Product Management, GovTech Singapore, who will deliver his keynote speech, “How SMEs in Singapore Can Benefit From GoBusiness” on 28 September at 3.30pm.
+After a well-received debut in 2022, GoBusiness is back for the second edition of The Singapore Business Show on 30 and 31 August 2023 at Singapore Expo Hall 2.
 
-**Event dates:**
- - 28 Sep Wednesday (10am - 5pm) 
- - 29 Sep Thursday (10am - 4pm) 
+The Singapore Business Show aims to help SMEs and start-ups take their business to the next level by gathering and showcasing the knowledge and services of business experts and leaders. This year, the event will bring together over 300 exhibitors including GoBusiness.
 
-**Event venue:** 
- - Singapore Expo Hall 2 
- - GoBusiness Booth number: 124 
- 
-![Summary of date and time of the keynote speech by Simon Ang](/images/news/GoBusiness Keynote Infographics.jpg)
-<figcaption>Catch Simon Ang’s keynote speech at the conference, 28 Sep 3.30pm.</figcaption>
+Visitors to the GoBusiness booth can learn more about the one-stop government platform and its functions. The GoBusiness team will also be on hand to do live demonstrations and answer queries.
 
-Simon, who leads the GoBusiness team in GovTech’s Moments of Life (MOL) division, will share insights on GoBusiness’ features that help users start, run, and grow their businesses.
+In addition, visitors can also find out more at the keynote speech by GoBusiness lead product manager, Zhuo Shaowei, where he will share about how GoBusiness’ features help users start, run and grow a business. 
 
-Tickets to the event are free-of-charge. Simply [register to attend](https://registration.fortem-international.com/Forms/Form.aspx?FormRef=SBS92Visitor){:target="_blank"}{:rel="noopener"}, and visit the GoBusiness Booth (booth number 124) near the VIP lounge for a chance to win exclusive GoBusiness merchandise, and also get a live demonstration on how GoBusiness can help you and your business.
+**Keynote details**
+Date: 30 August 2023
+Time: 1.15 - 1.45pm
+Venue: Keynote Theatre 1
 
-![Exclusive GoBusiness merchandise like coasters, nanopresso, and coffee pods](/images/news/Exclusive merchandise at GoBusiness booth.jpg)
-<figcaption>Stand a chance to win exclusive GoBusiness merchandise at the GoBusiness booth.</figcaption>
 
-More information can be found in [The Singapore Business Show guide](https://www.singaporebusinessshow.com/showguide/){:target="_blank"}{:rel="noopener"}.
+Tickets to the event are [free-of-charge](https://eventdata.uk/Forms/Form.aspx?FormRef=SBS83Visitor&TrackingCode=GovTech){:target="_blank"}{:rel="noopener"}. More information can be found at [https://www.singaporebusinessshow.com/](https://www.singaporebusinessshow.com/){:target="_blank"}{:rel="noopener"}
 
 
 <script src="/jquery/jquery.min.js"></script>
