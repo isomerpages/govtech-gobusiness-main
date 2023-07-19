@@ -123,7 +123,7 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 
 #### VALLARIS
 
-VALLARIS helps entrepreneurs and CEOs with their mergers and acquisitions deals and disputes.
+Vallaris helps entrepreneurs and CEOs with their mergers and acquisitions deals and disputes.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
