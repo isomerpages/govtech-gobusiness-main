@@ -4,7 +4,7 @@ permalink: /intellectual-property/ip-grow/
 third_nav_title: Intellectual Property
 ---
 
-## Strengthen your Business with GoBusiness IP Grow
+## Strengthen your business with GoBusiness IP Grow
 
 ![Protect your ideas](/images/ipgrow/IP.jpg)
 
