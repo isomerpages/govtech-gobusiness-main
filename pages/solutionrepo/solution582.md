@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
+title: 'BIM Collaborate Pro'
 permalink: /productivity-solutions-grant/solutionrepo/solution582
 ---
 
-## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+## BIM Collaborate Pro
 
 ## Overview
 
 **Description**
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product-BIM Collaborate Pro. A single platform that connects design, construction processes and project team at BIM Collaborate Pro, a cloud collaboration solution for Revit users. Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D .
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ EON was established in 1996 and specialises in providing human capital consultin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (2 Users Pack)</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk Docs (10 Users Pack)</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Collaborate Pro (5 Users Pack)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (10 Users Pack)</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (25 Users Pack)</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$26,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ EON was established in 1996 and specialises in providing human capital consultin
 
 ## Vendor Information
 
- Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

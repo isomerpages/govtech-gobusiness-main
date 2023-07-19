@@ -1,17 +1,15 @@
 ---
-title: 'SAP Business One'
+title: 'BOTG'
 permalink: /productivity-solutions-grant/solutionrepo/solution132
 ---
 
-## SAP Business One
+## BOTG
 
 ## Overview
 
 **Description**
 
-AFON is the award-winning (Top SAP Partner in Singapore, Enterprise E50 Award by KPMG etc.) ERP consultancy in Singapore, that helps fast-growing businesses improve financial and operational efficiencies through ERP, analytics, and industry-centric solutions.
-
-SAP Business One is an enterprise resource planning software designed for SMEs, by world No. 1 ERP brand leader SAP. It automates and streamlines key business functions in financials, operations, sales, and human resources together.
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,24 @@ SAP Business One is an enterprise resource planning software designed for SMEs, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$29,016.00</td>
-<td style='padding: 10px;'>$27,716.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 3 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$31,653.00</td>
-<td style='padding: 10px;'>$30,353.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$56,136.00</td>
-<td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 5 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$58,785.00</td>
-<td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$67,798.00</td>
-<td style='padding: 10px;'>$42,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Tech_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +50,7 @@ SAP Business One is an enterprise resource planning software designed for SMEs, 
 
 ## Vendor Information
 
- Company name:AFON Technologies Pte Ltd<br>Web URL: https://www.afon.com.sg/erp/sap-business-one <br>Contact Hotline: 63230901 <br>Contact Email: sales-enquiry@afon.com.sg 
+ Company name:ANTSCOLONY PTE LTD<br>Web URL: http://botg.com.sg/ <br>Contact Hotline: 89077790 <br>Contact Email: info@botg.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

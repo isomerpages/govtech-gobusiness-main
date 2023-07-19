@@ -10,7 +10,7 @@ Land Transport Authority (LTA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/building-works---restricted-activities-in-railway-protection-zon/Codes_of_practice_standards_specifications_guides_and_forms.html" type="primary" %}
+[View Submission Guide](https://www.lta.gov.sg/content/dam/ltagov/industry_innovations/industry_matters/development_construction_resources/Building_Works_Restricted_Activities_in_Railway_Protection_Zone/Codes_of_Practice_Standards_Specifications_Guides_Forms/Guide_to_carrying_out_restricted_activities_within_railway_protection_and_safety_zones.pdf){:target="_blank"}{:rel="noopener"}
 
 <H3>Application Details</H3>
 

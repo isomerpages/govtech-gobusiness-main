@@ -7,11 +7,11 @@
   href_2: '/home-based-businesses/determine-your-home-business-scheme/?src=home_quicklinks'
   text_2: How to start a home-based business
   is_new_2: false
-  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
+  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness?src=home_quicklinks'
   target_3: _blank
   text_3: 'e-Adviser: Register new business'
   is_new_4: false
-  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
+  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=home_quicklinks'
   text_4: 'e-Adviser: Pick a business structure'
   target_4: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
@@ -37,7 +37,7 @@
   href_1: /gov-assist/budget-announcement-for-businesses/
   text_1: Budget 2023
   is_new_1: false
-  href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
+  href_2: 'https://eadviser.gobusiness.gov.sg/govassist?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank
   href_3: '/productivity-solutions-grant/?src=home_quicklinks'
@@ -54,13 +54,17 @@
   alt: Explore More
   title: Explore More
   id: 4
-  href_1: '/enterprisejobskills/?src=home_quicklinks'
-  text_1: Enterprise Portal for Jobs and Skills (EPJS)
-  is_new_1: false
-  href_2: '/accreditation/?src=home_quicklinks'
-  text_2: Accreditation
-  href_3: '/gebiz-alerts/?src=home_quicklinks'
-  text_3: GeBIZ Alerts
-  href_4: '/Haze/?src=home_quicklinks'
-  text_4: Haze
-  is_new_4: true
+  href_1: '/regulatory-requirements-guides/?src=home_quicklinks'
+  text_1: Regulatory requirements guides
+  is_new_1: true
+  href_2: '/enterprisejobskills/?src=home_quicklinks'
+  text_2: Enterprise Portal for Jobs and Skills (EPJS)
+  is_new_2: false
+  href_3: '/accreditation/?src=home_quicklinks'
+  text_3: Accreditation
+  href_4: '/gebiz-alerts/?src=home_quicklinks'
+  text_4: GeBIZ Alerts
+  href_5: '/Haze/?src=home_quicklinks'
+  text_5: Haze
+  is_new_5: true
+

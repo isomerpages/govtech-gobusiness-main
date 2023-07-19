@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - NTUC LearningHub Pte Ltd'
+title: 'TWCSS - teamWork CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1030
 ---
 
-## Job Redesign Consultancy - NTUC LearningHub Pte Ltd
+## TWCSS - teamWork CRM
 
 ## Overview
 
 **Description**
 
-NTUC LearningHub is the leading Continuing Education and Training provider in Singapore which aims to transform the lifelong employability of working people. Since our corporatisation in 2004, we have helped over 26,000 organisations and achieved more than 2.6 million training places. As a Total Learning Solutions provider, we forge partnerships to offer a wide range of relevant end-to-end advisory & training to help companies and individuals transform and upskill.
+Digital transformation is key to strive in today's competitive market. teamWork CRM is a fully cloud-based solution tailormade to heighten the levels of efficiency, control & clarity for any businesses. Facilitated with an ensuite of key modules & functions (sales, internal processes, document control, mass communications etc.), it ensures that all aspects of the business is captured & deeply integrated within to exercise and take control of.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ NTUC LearningHub is the leading Continuing Education and Training provider in Si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyNTUCLearningHub.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: NTUC LearningHub Pte Ltd<br>Web URL: http://www.ntuclearninghub.com/<br>Contact Name: NTUC LearningHub Corporate Sales<br>Contact Hotline: +65 6336 5482<br>Contact Email: corpsales@ntuclearninghub.com
+ Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

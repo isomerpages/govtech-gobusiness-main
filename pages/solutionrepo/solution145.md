@@ -1,15 +1,15 @@
 ---
-title: 'AIO CRM'
+title: 'Applivon - Odoo'
 permalink: /productivity-solutions-grant/solutionrepo/solution145
 ---
 
-## AIO CRM
+## Applivon - Odoo
 
 ## Overview
 
 **Description**
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
+Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,41 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM - AIO CRM </td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App5</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App10</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App15</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App-Unlimited</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
+ Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

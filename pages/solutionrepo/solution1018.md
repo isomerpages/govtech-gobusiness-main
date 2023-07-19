@@ -1,15 +1,15 @@
 ---
-title: 'RAVEPIXEL WEB SUITE Version 8.0'
+title: 'SYSFREIGHT Version 10.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
-## RAVEPIXEL WEB SUITE Version 8.0
+## SYSFREIGHT Version 10.01
 
 ## Overview
 
 **Description**
 
-RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
+SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences).
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_ecommerce_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 3 User</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$15,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 6 User</td>
+<td style='padding: 10px;'>$24,480.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 9 User</td>
+<td style='padding: 10px;'>$31,140.00</td>
+<td style='padding: 10px;'>$29,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User</td>
+<td style='padding: 10px;'>$37,080.00</td>
+<td style='padding: 10px;'>$35,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 15 User</td>
+<td style='padding: 10px;'>$42,300.00</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+ Company Name: SYSMAGIC SOFTWARE SOLUTION PTE LTD<br>Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Beaufort-Xero Digital Solutions'
+title: 'Legal Tech Platform (LTP) Pro'
 permalink: /productivity-solutions-grant/solutionrepo/solution257
 ---
 
-## Beaufort-Xero Digital Solutions
+## Legal Tech Platform (LTP) Pro
 
 ## Overview
 
 **Description**
 
-Beaufort provides Accounting & Tax Services to SME Businesses & Companies. Beaufort is the Partner Reseller of XERO, a Cloud Accounting Software.
-As Xero Certified Advisors the Xero account will be setup, and depending on the package choice, any customisations as stated. There are packages for Beaufort customised workflow training of best practices for users to do their daily Day-to-Day managing of their accounts. 
-Beaufort's range of 5 packages, allows a wide selection.
+The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's technology partner, that provides an easier way for legal teams to share documents, communicate securely, manage teams, and put knowledge to work. Connect with other tools and systems used by lawyers in Singapore on an encrypted platform that is sector-secure, and SOC 2 compliant. Get and keep your team on the same page with an intuitive and enjoyable to use interface that runs on phones and browsers.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ Beaufort's range of 5 packages, allows a wide selection.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Subscription Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 3 Users</td>
+<td style='padding: 10px;'>$2,484.00</td>
+<td style='padding: 10px;'>$2,484.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Subscription + Set Up</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 6 Users</td>
+<td style='padding: 10px;'>$4,968.00</td>
+<td style='padding: 10px;'>$4,968.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Subscription + Set Up + Training (B)</td>
-<td style='padding: 10px;'>$2,536.00</td>
-<td style='padding: 10px;'>$2,474.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 10 Users</td>
+<td style='padding: 10px;'>$8,280.00</td>
+<td style='padding: 10px;'>$8,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Subscription + Set Up + Training (B,I) + Custom + Data (Opening)</td>
-<td style='padding: 10px;'>$6,136.00</td>
-<td style='padding: 10px;'>$6,074.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 15 Users</td>
+<td style='padding: 10px;'>$12,420.00</td>
+<td style='padding: 10px;'>$12,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription + Set Up + Training (B,I,A) + Custom + Data (Opening & 1-Yr)</td>
-<td style='padding: 10px;'>$9,936.00</td>
-<td style='padding: 10px;'>$9,874.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Beaufort_Annex_3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 20 Users</td>
+<td style='padding: 10px;'>$16,560.00</td>
+<td style='padding: 10px;'>$16,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ Beaufort's range of 5 packages, allows a wide selection.
 
 ## Vendor Information
 
- Company name:Beaufort Tax Consultants Pte Ltd<br>Web URL: https://www.xero.beaufort.sg/ <br>Contact Hotline: 88229376 <br>Contact Email: contact@beaufort.sg 
+ Company name:C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: 658001207076 <br>Contact Email: singapore@lupl.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

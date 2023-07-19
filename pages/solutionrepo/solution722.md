@@ -1,15 +1,15 @@
 ---
-title: 'DM Ice Cube Predictable Leads Generation Program'
+title: 'Netiquette Cloud Business Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution722
 ---
 
-## DM Ice Cube Predictable Leads Generation Program
+## Netiquette Cloud Business Suite
 
 ## Overview
 
 **Description**
 
-Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
+Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 1 - SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ice_Cube_Annex_3_CR_wef_24Nov22_Part_1' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
+<td style='padding: 10px;'>$4,340.00</td>
+<td style='padding: 10px;'>$4,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 2 - Ecommerce SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 3 - SEM+SMA+video (3months)</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
+<td style='padding: 10px;'>$6,340.00</td>
+<td style='padding: 10px;'>$6,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package E (Saas for 35 Users)</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Ice Cube Marketing Pte Ltd<br>Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
+ Company Name: Netiquette Software Pte Ltd<br>Web URL: www.netiquette.com.sg <br><br>Contact Hotline: 94882285 <br><br>Contact Email: enquiry@netiquette.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

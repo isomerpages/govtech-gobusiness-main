@@ -15,3 +15,6 @@ Heat pump technology
 - AO Smith - HPW-60A
 - F&BSAS - FB1P420
 - F&BSAS - FB5P1850
+- RHEEM - ProTerra RHP180-2805
+- RHEEM - ProTerra RHP280-2805
+- RHEEM - ProTerra RHP400-5207C

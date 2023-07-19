@@ -1,16 +1,15 @@
 ---
-title: 'AUTOCOUNT ACCOUNTING SOFTWARE Version 2'
+title: 'ASURIX HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution717
 ---
 
-## AUTOCOUNT ACCOUNTING SOFTWARE Version 2
+## ASURIX HRMS
 
 ## Overview
 
 **Description**
 
-I Soft Business Solutions provides business solutions to SMEs through accounting software and consultation services by experienced consultants.
-AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. The features include: flexibility, expandability and ease-to-use to help business grow and sustain development needs.
+Asurix Human Resource Software is a fully customisable cloud based Human Resource Management system and trusted by customer across the region. It simplify the HR administration for organisation and reduce total cost of ownership.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,48 @@ AutoCount offers a series of products that focus mainly on business automation (
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (10 users) </td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (25 users) </td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (5 Users)</td>
-<td style='padding: 10px;'>$8,720.00</td>
-<td style='padding: 10px;'>$8,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (50 users)</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
-<td style='padding: 10px;'>$14,020.00</td>
-<td style='padding: 10px;'>$14,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (100 users)</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$17,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (15 Users)</td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (150 users)</td>
+<td style='padding: 10px;'>$26,850.00</td>
+<td style='padding: 10px;'>$23,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:I SOFT BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://autocountsoft.sg/autocount-accounting-singapore.html <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com 
+ Company name:NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
