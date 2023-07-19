@@ -1,7 +1,7 @@
 ---
 title: 'Third-Party: On Behalf of Application (Individual Users)'
 permalink: /dashboard-faqs/third-party-individualuser/
-third_nav_title: Third Party
+third_nav_title: Applications
 ---
 
 ### General
