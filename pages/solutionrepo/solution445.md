@@ -1,15 +1,17 @@
 ---
-title: 'Creative Sales and Order'
+title: 'FacilityBot'
 permalink: /productivity-solutions-grant/solutionrepo/solution445
 ---
 
-## Creative Sales and Order
+## FacilityBot
 
 ## Overview
 
 **Description**
 
-Creative Sales and order management is an user friendly end-to end solution that enable companies to request for quote to confirmation of their products or services easily. This solution provide SMEs in Wholesales industry an opportunity to broaden their reach, stay competitive, increase the sales, streamline operation and optimize resources.
+FacilityBot is a feature-rich Facilities Management / CMMS software. Deployed in over 500,000 sqm and with over 16,000 users, FacilityBot is easy to deploy, easy to use, and open to integrations.
+
+Building occupants can submit requests through their preferred messaging app (including WhatsApp and Telegram), email, and QR Code. Tickets are automatically created and assigned to technicians, who can upload photos and videos and close tickets via the FacilityBot Mobile App.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,41 @@ Creative Sales and order management is an user friendly end-to end solution that
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SME</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Lite</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
 <td style='padding: 10px;'>$15,000.00</td>
 <td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus (Multi-Site)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
+ Company name:FacilityBot Pte Ltd<br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

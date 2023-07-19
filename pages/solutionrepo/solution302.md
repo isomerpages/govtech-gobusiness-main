@@ -1,17 +1,15 @@
 ---
-title: '1ECommerce'
+title: 'BIZ POS VER 3.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
-## 1ECommerce
+## BIZ POS VER 3.5
 
 ## Overview
 
 **Description**
 
-1ECommerce by Bona Technologies is a bespoke website solution specialising in WooCommerce powered by WordPress which will create a new business channel for SMEs to GoDigital and increase their sales revenue with minimal cost. 
-
-1ECommerce has powerful promotion capabilities to drive customer retention and can be integrated with 1ERP - Singapore ERP Software for efficient and streamlined business processes.
+Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution302
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
+<td style='padding: 10px;'>$4,750.00</td>
+<td style='padding: 10px;'>$4,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Parallax</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
+<td style='padding: 10px;'>$4,050.00</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Promotion</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
+<td style='padding: 10px;'>$5,750.00</td>
+<td style='padding: 10px;'>$5,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
+<td style='padding: 10px;'>$6,750.00</td>
+<td style='padding: 10px;'>$6,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Omni-Channel</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Technologies_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution302
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

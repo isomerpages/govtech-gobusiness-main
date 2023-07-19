@@ -1,19 +1,17 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'NetDocuments'
 permalink: /productivity-solutions-grant/solutionrepo/solution1120
 ---
 
-## Pepper Cloud CRM Version 14.0
+## NetDocuments
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
+NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
 
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
 
 ## Solution Packages Option(s)
 
@@ -27,31 +25,38 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_10Users</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
+<td style='padding: 10px;'>$18,740.00</td>
+<td style='padding: 10px;'>$17,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
+<td style='padding: 10px;'>$26,860.00</td>
+<td style='padding: 10px;'>$24,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
+<td style='padding: 10px;'>$45,600.00</td>
+<td style='padding: 10px;'>$36,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -61,7 +66,7 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte Ltd<br>Web URL: https://peppercloud.com/ <br><br>Contact Hotline: 97510475 <br><br>Contact Email: sales@peppercloud.com <br><br>
+ Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,20 @@
 ---
-title: 'EQuip Orders Version 1'
+title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution561
 ---
 
-## EQuip Orders Version 1
+## (A.I.) INFO-TECH Cloud HRMS Version 8.0
 
 ## Overview
 
 **Description**
 
-Edgeworks EQuip Orders is a solution that transforms the digital ordering experience in the F&B segment. It provides an Omnichannel ordering experience where customers order via online app for pickup or delivery, dine in QR ordering with digital payment processing. Sales are seamlessly consolidated into a single backend system. Cloud based reports and mobile applications are available to analyse business performance. Professional service and training are included to ensure business readiness.
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
+
+1. Transforming HR Software to Cloud
+2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
+3. Help HR handle company's compliance challenges and better manage resources.
+4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +28,48 @@ Edgeworks EQuip Orders is a solution that transforms the digital ordering experi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite + Rewards</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + Rewards</td>
-<td style='padding: 10px;'>$8,550.00</td>
-<td style='padding: 10px;'>$7,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
+<td style='padding: 10px;'>$25,300.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + eWaiter</td>
-<td style='padding: 10px;'>$8,250.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuip_Orders_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
+<td style='padding: 10px;'>$32,700.00</td>
+<td style='padding: 10px;'>$30,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg 
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

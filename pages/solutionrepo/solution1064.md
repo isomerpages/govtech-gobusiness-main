@@ -1,15 +1,15 @@
 ---
-title: 'Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1'
+title: 'DM TheAsiaMedia Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1064
 ---
 
-## Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1
+## DM TheAsiaMedia Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Sonicwall firewall has ransomware protection and it is highly recommended to have a firewall in any IT network as part of the cybersecurity protection. The firewall acts as a traffic police for the network and monitors the traffic for intruders, suspicious activities and block them (with a valid subscription). It also allows you to control what your users are doing in your network. It enables your team to work from home and connect to the office to access your corporate data and systems securely
+Established since 2005, TheAsiaMedia provides decades of digital marketing experience to help businesses increase brand and product awareness, generate leads, and drive sales. TheAsiaMedia's digital marketing solutions encompass research and planning to target-setting and creating and implementing effective online marketing campaigns. Depending on the companies' objectives, TheAsiaMedia's Digital Marketing solutions are aimed at maximizing ROIs through continuous optimization and insights.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'>$3,628.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 1 - SMM + Google Ads  [2 Months]</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 10xVPN Licences</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'>$4,033.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 2 - SMM + Google Ads with Google Street View [2 Months]</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ370 with 1 Year EPSS with NSM & 30xVPN Licences</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'>$4,411.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 3 - SMM + Google Ads [3 Months]</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 2xVPN Licences</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'>$6,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 4 - SMM + Google Ads with WeChat Marketing [2 Months]</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1 - Sonicwall TZ670 with 1 Year EPSS with NSM & 50xVPN Licences</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'>$7,346.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nucleo_Consulting_SonicFirewall__20210186_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 5 - SMM + Google Ads with Google Street View [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Sonicwall firewall has ransomware protection and it is highly recommended to hav
 
 ## Vendor Information
 
- Company Name: Nucleo Consulting Pte Ltd<br>Web URL: https://www.nucleoconsulting.com/psg-grant-singapore <br><br>Contact Hotline: 69110533 <br><br>Contact Email: contact@nucleoconsulting.com <br><br>
+ Company Name: TheAsiaMedia Pte Ltd<br>Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -5,7 +5,7 @@ panels:
     links:
       - text: Guide for Organising Events
         href: /gobiz-guides/guide-for-organising-events/?src=eservices
-        is_new: true
+        is_new: false
       - text: "e-Adviser for Skills Training"
         href: https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices
         target: _blank

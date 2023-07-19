@@ -1,15 +1,17 @@
 ---
-title: 'Everyday Corporate Xero Cloud Accounting Software'
+title: 'Stormshield UTM Firewall Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution620
 ---
 
-## Everyday Corporate Xero Cloud Accounting Software
+## Stormshield UTM Firewall Security
 
 ## Overview
 
 **Description**
 
-Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+
+Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +25,48 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard with Data Migration</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN310</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Premium (Multicurrency)</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN510</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4- Premium (Multicurrency) with Data Migration</td>
-<td style='padding: 10px;'>$3,980.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710 (Twin Pack)</td>
+<td style='padding: 10px;'>$20,515.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Everyday Corporate Pte. Ltd.<br>Web URL: www.everydaycorporate.com <br>Contact Hotline: 93202657 <br>Contact Email: hello@everydaycorporate.com <br>
+ Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

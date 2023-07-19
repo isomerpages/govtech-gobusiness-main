@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'Simplify Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution755
 ---
 
-## Microsoft Dynamics 365 Business Central
+## Simplify Version 1
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics family, and intended to assist with finance, manufacturing, customer relationship management, supply chains, analytics and electronic commerce for small and medium-sized companies and local subsidiaries of large international groups
+Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics fami
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$21,850.00</td>
-<td style='padding: 10px;'>$20,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
-<td style='padding: 10px;'>$25,810.00</td>
-<td style='padding: 10px;'>$21,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
+<td style='padding: 10px;'>$17,300.00</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
-<td style='padding: 10px;'>$34,510.00</td>
-<td style='padding: 10px;'>$24,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
+<td style='padding: 10px;'>$27,500.00</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
+<td style='padding: 10px;'>$33,500.00</td>
+<td style='padding: 10px;'>$30,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
+<td style='padding: 10px;'>$36,500.00</td>
+<td style='padding: 10px;'>$32,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics fami
 
 ## Vendor Information
 
- Company Name:Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com 
+ Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'e-Forms for Preschool Version 1.0'
+title: 'Frontier e-HR Version 8 - AutomateHR eFrontier'
 permalink: /productivity-solutions-grant/solutionrepo/solution467
 ---
 
-## e-Forms for Preschool Version 1.0
+## Frontier e-HR Version 8 - AutomateHR eFrontier
 
 ## Overview
 
 **Description**
 
-Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
-BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
-BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
+Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee's details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
 
 ## Solution Packages Option(s)
 
@@ -25,10 +23,38 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 25 Users</td>
+<td style='padding: 10px;'>$6,200.00</td>
+<td style='padding: 10px;'>$6,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 50 Users</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 100 Users</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 150 Users</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 200 Users</td>
+<td style='padding: 10px;'>$29,200.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,7 +64,7 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br><br>Contact Hotline: 63910921 <br><br>Contact Email: enquiry@frontier-ehr.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: '1SME'
+title: 'DM Corsiva Lab Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
-## 1SME
+## DM Corsiva Lab Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-1SME is the GoDigital solution for Singapore SMEs and empowers SMEs to reach out to more customers and increase their earnings.
-The solution is equipped with multiple sales channels and full-fledged analytics enabling precise decision-making.
-1SME aims to empower SMEs to increase their outreach to more customers, get more leads, and minimize workload.
+At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ The solution is equipped with multiple sales channels and full-fledged analytics
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BonaTechnologies_1SME_Annex3_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Leads </td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BonaTechnologies_1SME_Annex3_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Marketing and Social Media Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales </td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BonaTechnologies_1SME_Annex3_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Search Engine Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Events</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BonaTechnologies_1SME_Annex3_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Content Marketing [6 Months Package]</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Marketing</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BonaTechnologies_1SME_Annex3_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography [3 Months Package]</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company Name: Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

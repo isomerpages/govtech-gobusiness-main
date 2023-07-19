@@ -1,23 +1,15 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'EQuipPOS Beauty Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution397
 ---
 
-## Qoqolo School Management System Version 4.3
+## EQuipPOS Beauty Solutions Version 3
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
 
 ## Solution Packages Option(s)
 
@@ -31,38 +23,38 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Lite)</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic)</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + GuestBook App)</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'>$7,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + Digital Rewards & Orders App)</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -72,7 +64,7 @@ Key Benefits:
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

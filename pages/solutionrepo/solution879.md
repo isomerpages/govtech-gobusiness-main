@@ -1,15 +1,15 @@
 ---
-title: 'DM Leading Solution Digital Marketing Packages Version 1'
+title: 'REACH MOIBOO Version 2.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution879
 ---
 
-## DM Leading Solution Digital Marketing Packages Version 1
+## REACH MOIBOO Version 2.6
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
+Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key function from Sales, Billing, Inventory and Accounting - enable businesses to grow faster with increase in productivity. The solution is ideal for Retailers, Restaurants, Workshops, Auto Dealers, Auto Rental Companies, Wholesalers and Service Providers.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,24 @@ permalink: /productivity-solutions-grant/solutionrepo/solution879
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +50,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution879
 
 ## Vendor Information
 
- Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
+ Company Name: Reach Process Outsourcing Pte Ltd<br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: helpdesk@moiboo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

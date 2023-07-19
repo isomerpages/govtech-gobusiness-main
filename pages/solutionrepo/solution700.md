@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Software'
+title: 'MEVO DMS 8.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution700
 ---
 
-## Xero Cloud Accounting Software
+## MEVO DMS 8.3
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
+Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software and Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software, Setup and Training</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software Setup and Migration</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Harvest - Software Setup, Migration and Training</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Harvest_Annex3_29_dec_22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales Enterprise (10 Users Bundle)</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408<br>Contact Email: ask@harvestaccounting.com.sg 
+ Company Name: MEVO Pte Ltd<br>Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

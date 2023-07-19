@@ -1,15 +1,15 @@
 ---
-title: 'HAVSchool + E-Form Version 4.1'
+title: 'MuRho Inventory Management & Sales Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution710
 ---
 
-## HAVSchool + E-Form Version 4.1
+## MuRho Inventory Management & Sales Management System
 
 ## Overview
 
 **Description**
 
-A complete end-to-end software system tailor-made for centres where there are students/customers obtaining centre day services (e.g. preschools, tuition/enrichment centres and services/care centres). It consists of support hardware, a web portal and mobile applications for customers, managers and staff.
+MuRho is a leading home-grown provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Order N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ A complete end-to-end software system tailor-made for centres where there are st
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ESSENTIAL</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENHANCED</td>
-<td style='padding: 10px;'>$15,580.00</td>
-<td style='padding: 10px;'>$15,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack B  (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENRICHED</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART EMPOWERED</td>
-<td style='padding: 10px;'>$12,280.00</td>
-<td style='padding: 10px;'>$12,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENTERPRISE</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack C (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ A complete end-to-end software system tailor-made for centres where there are st
 
 ## Vendor Information
 
- Company name:HAVENCE PORTAL LLP<br>Web URL: https://havschool.com/ <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG 
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

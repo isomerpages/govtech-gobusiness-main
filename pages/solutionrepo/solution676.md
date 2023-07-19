@@ -1,19 +1,17 @@
 ---
-title: 'Getz F&B Omni Channel Solution Version 2'
+title: 'DM MediaPlus Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution676
 ---
 
-## Getz F&B Omni Channel Solution Version 2
+## DM MediaPlus Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
 
-Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
-
-Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
+With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
 
 ## Solution Packages Option(s)
 
@@ -27,27 +25,48 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Search DM Package (SEM/SEO) [3 Months]</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_getz_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Activate Social DM Package (SMA/SMM) [3 Months]</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Search DM Package (SEM/SEO) [6 Months]</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaPlus Digital Marketing Package - Advanced Social DM Package (SMM/SMA) [6 Months]</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>.</td>
+<td style='padding: 10px;'>$9,995.00</td>
+<td style='padding: 10px;'>$9,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 85406590 (WhatsApp)<br>Contact Email:  connect@getz.co
+ Company Name: MediaPlus Digital Pte Ltd<br>Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

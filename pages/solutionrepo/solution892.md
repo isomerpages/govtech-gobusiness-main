@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (e-form)'
+title: 'Really Platform for PMs and FMs Version 2.4'
 permalink: /productivity-solutions-grant/solutionrepo/solution892
 ---
 
-## LittleLives School Management System (e-form)
+## Really Platform for PMs and FMs Version 2.4
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
+Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Individual Property or Project Packaged Solution</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</td>
+<td style='padding: 10px;'>$12,960.00</td>
+<td style='padding: 10px;'>$12,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</td>
+<td style='padding: 10px;'>$24,800.00</td>
+<td style='padding: 10px;'>$24,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</td>
+<td style='padding: 10px;'>$34,600.00</td>
+<td style='padding: 10px;'>$34,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</td>
+<td style='padding: 10px;'>$49,200.00</td>
+<td style='padding: 10px;'>$49,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
+ Web URL: https://www.really.sg/project-management-features/ <br><br>Contact Hotline: 69507563 <br><br>Contact Email: info@really.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,18 @@
 ---
-title: 'Sage 300 InvoiceNOW'
+title: 'DM Hashmeta Digital Enablement Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution503
 ---
 
-## Sage 300 InvoiceNOW
+## DM Hashmeta Digital Enablement Packages
 
 ## Overview
 
 **Description**
 
-Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productivity by sending and receiving eInvoices seamlessly.  Sage has more than 30 years of experience helping millions of small and medium companies make smarter decisions when it comes to managing their business. Whether your business is growing locally or expanding globally, we have a solution for every stage that's flexible and scalable to suit your business needs.
+Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta's own proprietary technologies. 
+
+The solutions offered to increase client's marketing effectiveness and efficiencies include the following:
+Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generation (SEO/SEM).
 
 ## Solution Packages Option(s)
 
@@ -23,48 +26,48 @@ Sage 300 InvoiceNOW is a PEPPOL ready solution that helps SME increase productiv
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CLOUD Suite - 3 users</td>
-<td style='padding: 10px;'>$20,705.96</td>
-<td style='padding: 10px;'>$19,205.96</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Paid Advertising + Content Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$38,603.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Paid Advertising + Tik Tok Live Streaming [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 7 users</td>
-<td style='padding: 10px;'>$42,242.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Paid Advertising + Influencer Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Distribution Suite - 10 users</td>
-<td style='padding: 10px;'>$47,703.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Paid Advertising + Ecommerce Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PREMIUM Distribution Suite - 5 users</td>
-<td style='padding: 10px;'>$50,103.00</td>
-<td style='padding: 10px;'>$29,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Databit_Annex3_CR_wef_20Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Lead Generation (SEO+SEM) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Databit Pte Ltd<br>Web URL: https://www.databit.com.sg/products/sage-300-erp-accpac <br>Contact Hotline: 63340388 <br>Contact Email: sales@databit.com.sg <br>
+ Company name:Hashmeta Pte Ltd<br>Web URL: www.hashmeta.com<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

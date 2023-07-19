@@ -1,15 +1,15 @@
 ---
-title: 'Evolvecloud'
+title: 'WEB360 Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution859
 ---
 
-## Evolvecloud
+## WEB360 Version 2.0.0
 
 ## Overview
 
 **Description**
 
-Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, collaborating & organizing work, allowing flexi-work arrangement deployment effectively. With audit trails and access control, information security is enhanced. Evolvecloud's user-centric interface provides the tools for remote and off-premises real-time collaboration within the organization. Evolvecloud supports full compliance with USA HIPAA, EU GDPR, EU Cybersecurity Act, Clause 14 of ISO27001 & SG PDPA.
+The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package I</td>
-<td style='padding: 10px;'>$7,180.00</td>
-<td style='padding: 10px;'>$6,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package II</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'>$8,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package III</td>
-<td style='padding: 10px;'>$13,760.00</td>
-<td style='padding: 10px;'>$11,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package IV</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'>$13,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package V</td>
-<td style='padding: 10px;'>$20,540.00</td>
-<td style='padding: 10px;'>$15,860.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, 
 
 ## Vendor Information
 
- Company name:K&K IT Private Limited<br>Web URL: https://knkit.sg/evolvecloud/ <br>Contact Hotline: 68020447 <br>Contact Email: admin@knkit.sg 
+ Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

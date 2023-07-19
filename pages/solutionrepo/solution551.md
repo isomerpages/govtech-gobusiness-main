@@ -1,15 +1,15 @@
 ---
-title: 'EQuipPOS Beauty Solutions Version 3'
+title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution551
 ---
 
-## EQuipPOS Beauty Solutions Version 3
+## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
 
 ## Overview
 
 **Description**
 
-EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Lite)</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic)</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + GuestBook App)</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'>$7,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + Digital Rewards & Orders App)</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)</td>
-<td style='padding: 10px;'>$5,050.00</td>
-<td style='padding: 10px;'>$5,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
+<td style='padding: 10px;'>$10,359.99</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care
 
 ## Vendor Information
 
- Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
+ Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

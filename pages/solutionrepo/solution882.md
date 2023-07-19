@@ -1,15 +1,19 @@
 ---
-title: 'LFSuite'
+title: 'Redoc - Document Management Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution882
 ---
 
-## LFSuite
+## Redoc - Document Management Version 1.0
 
 ## Overview
 
 **Description**
 
-LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart document management and transaction records platform. 
+
+Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights and transaction records on the performance of your business. 
+
+Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,38 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</td>
-<td style='padding: 10px;'>$7,780.00</td>
-<td style='padding: 10px;'>$7,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C [Complete] - (3x Digital Ordering + KDS + Analytics)</td>
-<td style='padding: 10px;'>$9,860.00</td>
-<td style='padding: 10px;'>$9,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$12,100.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$16,940.00</td>
-<td style='padding: 10px;'>$10,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</td>
-<td style='padding: 10px;'>$19,340.00</td>
-<td style='padding: 10px;'>$16,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Levelfive_LFSuite_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (Up to 60 users)</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +68,7 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 
 ## Vendor Information
 
- Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
+ Company name:Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

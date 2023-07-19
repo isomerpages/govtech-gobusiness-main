@@ -1,15 +1,17 @@
 ---
-title: 'RealtyPromote Version 3.2'
+title: 'Xero Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution387
 ---
 
-## RealtyPromote Version 3.2
+## Xero Accounting System
 
 ## Overview
 
 **Description**
 
-CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
+EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
+
+Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5</td>
-<td style='padding: 10px;'>$4,740.00</td>
-<td style='padding: 10px;'>$4,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
+<td style='padding: 10px;'>$1,664.00</td>
+<td style='padding: 10px;'>$1,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 20</td>
-<td style='padding: 10px;'>$9,360.00</td>
-<td style='padding: 10px;'>$9,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
+<td style='padding: 10px;'>$3,164.00</td>
+<td style='padding: 10px;'>$3,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 40</td>
-<td style='padding: 10px;'>$16,199.00</td>
-<td style='padding: 10px;'>$16,199.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
+<td style='padding: 10px;'>$5,064.00</td>
+<td style='padding: 10px;'>$5,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RealtyPromote Version 3.2 - RealtyPromote Package 5 up to 60</td>
-<td style='padding: 10px;'>$23,499.00</td>
-<td style='padding: 10px;'>$23,499.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CommercePromote_Annex_3_CR_wef_10_March_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
+<td style='padding: 10px;'>$6,264.00</td>
+<td style='padding: 10px;'>$6,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ## Vendor Information
 
- Company Name: CommercePromote Pte Ltd<br>Web URL: https://commercepromote.com/agency-management <br><br>Contact Hotline: 97508889 <br><br>Contact Email: cpsales@commercepromote.com <br><br>
+ Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
