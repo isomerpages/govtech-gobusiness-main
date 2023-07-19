@@ -85,6 +85,8 @@ const custom_notifications = [
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to scheduled maintenance from 8pm to 11pm on 12 July 2023. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
   //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to maintenance from 15 Jul 2023 2pm to 17 Jul 2023 12am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused."
 
+  "<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be undergoing scheduled maintenance from 3pm to 8pm on 19 July 2023. Some services may not be available during this period. We apologise for any inconvenience caused."
+
 ];
 
 // Do not edit the following code
