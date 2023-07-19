@@ -20,7 +20,7 @@ Visitors to the GoBusiness booth can learn more about the one-stop government pl
 
 In addition, visitors can also find out more at the keynote speech by GoBusiness lead product manager, Zhuo Shaowei, where he will share about how GoBusiness’ features help users start, run and grow a business. 
 
-**Keynote details**
+**Keynote details**<br>
 Date: 30 August 2023<br>
 Time: 1.15 - 1.45pm<br>
 Venue: Keynote Theatre 1
