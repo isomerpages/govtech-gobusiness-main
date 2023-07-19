@@ -1,15 +1,15 @@
 ---
-title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
+title: 'EPOINT Version 9'
 permalink: /productivity-solutions-grant/solutionrepo/solution1595
 ---
 
-## SKYFY VTS FLEET MANAGEMENT SYSTEM
+## EPOINT Version 9
 
 ## Overview
 
 **Description**
 
-Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
+Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,175.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Basic</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$5,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance</td>
+<td style='padding: 10px;'>$7,456.00</td>
+<td style='padding: 10px;'>$6,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance+</td>
+<td style='padding: 10px;'>$8,256.00</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eKiosk - Basic</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'>$3,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 
 ## Vendor Information
 
- Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
+ Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
