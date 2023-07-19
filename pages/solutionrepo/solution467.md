@@ -1,17 +1,15 @@
 ---
-title: 'DST E-Commerce'
+title: 'Frontier e-HR Version 8 - AutomateHR eFrontier'
 permalink: /productivity-solutions-grant/solutionrepo/solution467
 ---
 
-## DST E-Commerce
+## Frontier e-HR Version 8 - AutomateHR eFrontier
 
 ## Overview
 
 **Description**
 
-The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
-
-WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
+Frontier e-HR HRMS assists SMEs to improve the productivity of human resource operations through a user-friendly full cloud-based application. Through this platform, HR department will be able to record employee's details, strengthen policies and handle regular processes such as Payroll & Performance Appraisal.  Management team can retrieve reports to perform analysis conveniently. Employees have access to their HR information and perform HR related applications through web and mobile app.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,48 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DST E-Commerce - Premium Package</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 25 Users</td>
+<td style='padding: 10px;'>$6,200.00</td>
+<td style='padding: 10px;'>$6,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 50 Users</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 100 Users</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 150 Users</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Frontier e-HR Version 8 - AutomateHR eFrontier - 200 Users</td>
+<td style='padding: 10px;'>$29,200.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_e-HR_Pte_Ltd_20220021_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br><br>Contact Hotline: 63910921 <br><br>Contact Email: enquiry@frontier-ehr.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

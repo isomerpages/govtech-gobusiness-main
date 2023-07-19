@@ -1,15 +1,15 @@
 ---
-title: 'Applivon - Odoo'
+title: 'ASL Advisory - Xero accounting software'
 permalink: /productivity-solutions-grant/solutionrepo/solution169
 ---
 
-## Applivon - Odoo
+## ASL Advisory - Xero accounting software
 
 ## Overview
 
 **Description**
 
-Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
+Xero is a cloud-based accounting software product that lets small and medium sized business owners manage their finances from anywhere and integrate with more than 1,000 apps. Xero online accounting software allows small and medium sized business connect to the bank, accountant, bookkeeper, and other business apps. It performs bookkeeping functions like invoicing and processing supplier bills, and allows business to connect to a live bank feed.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Odoo is an integrated suite of business applications that have thousand of modul
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App5</td>
-<td style='padding: 10px;'>$13,786.00</td>
-<td style='padding: 10px;'>$13,786.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App10</td>
-<td style='padding: 10px;'>$15,724.00</td>
-<td style='padding: 10px;'>$15,724.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup & Subscription</td>
+<td style='padding: 10px;'>$2,064.00</td>
+<td style='padding: 10px;'>$2,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App15</td>
-<td style='padding: 10px;'>$17,866.00</td>
-<td style='padding: 10px;'>$17,866.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription & Training</td>
+<td style='padding: 10px;'>$3,184.00</td>
+<td style='padding: 10px;'>$3,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App-Unlimited</td>
-<td style='padding: 10px;'>$20,400.00</td>
-<td style='padding: 10px;'>$20,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input</td>
+<td style='padding: 10px;'>$3,984.00</td>
+<td style='padding: 10px;'>$3,927.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup, Subscription, Training, Opening balance input, Migration</td>
+<td style='padding: 10px;'>$5,184.00</td>
+<td style='padding: 10px;'>$5,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASL_Advisory_XeroAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Odoo is an integrated suite of business applications that have thousand of modul
 
 ## Vendor Information
 
- Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
+ Company name:ASL Advisory Pte. Ltd.<br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

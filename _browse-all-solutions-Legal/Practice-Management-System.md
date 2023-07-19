@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Legal/Practice-Management-System
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,11 +28,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution247' target='_blank'>CLIO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution208' target='_blank'>CLIO</a><br></td>
 <td>Bizibody Technology Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1264' target='_blank'>Tessaract Practice Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1046' target='_blank'>Tessaract Practice Management Solution</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 </table>

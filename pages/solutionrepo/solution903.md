@@ -1,15 +1,17 @@
 ---
-title: 'Network Box Next Generation Managed Security Version 5.5'
+title: 'WESS - Wellness Management Software Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution903
 ---
 
-## Network Box Next Generation Managed Security Version 5.5
+## WESS - Wellness Management Software Version 2.0
 
 ## Overview
 
 **Description**
 
-Network Box UTM is a Managed Security Service Provider, protecting its clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's Unified Threat Management, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
+WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
+A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
+From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,48 @@ Network Box UTM is a Managed Security Service Provider, protecting its clients t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload</td>
-<td style='padding: 10px;'>$6,441.00</td>
-<td style='padding: 10px;'>$6,441.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Lite</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload</td>
-<td style='padding: 10px;'>$7,606.00</td>
-<td style='padding: 10px;'>$7,606.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package III - Higher Workload</td>
-<td style='padding: 10px;'>$9,250.00</td>
-<td style='padding: 10px;'>$9,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Payment</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i</td>
-<td style='padding: 10px;'>$11,794.00</td>
-<td style='padding: 10px;'>$11,794.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
+ Company Name: Refine Solutions Pte Ltd<br>Web URL: www.wessconnect.com <br><br>Contact Hotline: 66028212 <br><br>Contact Email: contactus@wessconnect.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'A-Class Corporate Governance & Document Management by Sleek'
+title: 'Counto DIY Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
-## A-Class Corporate Governance & Document Management by Sleek
+## Counto DIY Version 1
 
 ## Overview
 
 **Description**
 
-Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
+CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
+
+Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,31 @@ Sleek offers a fully digital experience for the effortless management of corpora
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +59,7 @@ Sleek offers a fully digital experience for the effortless management of corpora
 
 ## Vendor Information
 
- Company name:SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg
+ Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,16 @@
 ---
-title: 'DM LiteBrew Digital Marketing Package'
+title: 'Cloudable Data Protection Suite-Powered by Acronis'
 permalink: /productivity-solutions-grant/solutionrepo/solution271
 ---
 
-## DM LiteBrew Digital Marketing Package
+## Cloudable Data Protection Suite-Powered by Acronis
 
 ## Overview
 
 **Description**
 
-Brew Interactive is a full-suite, award winning digital marketing agency. Their solutions have been specially designed to help address the requirements of any growing SMEs; from an increase in awareness, to driving leads and sales.
-
-Brew Interactive's service packages range from 3 to 6 months long, and are flexible to accommodate any SME's growth plans.
+Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
+It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
 
 ## Solution Packages Option(s)
 
@@ -25,38 +24,38 @@ Brew Interactive's service packages range from 3 to 6 months long, and are flexi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEM + SMM] 5 months</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEM + SMM + Landing Page] 4 months</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package B- Advanced Security + Advanced Management 25 Licences</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEM + SEO] 6 months</td>
-<td style='padding: 10px;'>$10,250.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package C- Advanced Security + Advanced Management 50 Licences</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEM + SEO + Content Creation] 4 months</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package D- Advanced Security + Advanced Management 100 Licences</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEM + Full SEO] 6 months</td>
-<td style='padding: 10px;'>$15,100.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +65,7 @@ Brew Interactive's service packages range from 3 to 6 months long, and are flexi
 
 ## Vendor Information
 
- Company name:Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/digital-marketing-psg-packages/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
+ Company Name: Cloudable Solutions Pte Ltd<br>Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'FacilityBot'
+title: 'DM Inbox Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution556
 ---
 
-## FacilityBot
+## DM Inbox Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-FacilityBot is a feature-rich Facilities Management / CMMS software. Deployed in over 500,000 sqm and with over 16,000 users, FacilityBot is easy to deploy, easy to use, and open to integrations.
-
-Building occupants can submit requests through their preferred messaging app (including WhatsApp and Telegram), email, and QR Code. Tickets are automatically created and assigned to technicians, who can upload photos and videos and close tickets via the FacilityBot Mobile App.
+Inbox Consults helps businesses use paid advertising by crafting irresistible offers, a compelling message to the right audience, and creating sustainable value for customers. Inbox Consults creates highly converting landing pages with attention-grabbing ads in the form of videos and/or pictures. With track records in various industries and niches, partner with Inbox Consults today to begin an amazing journey in digital marketing and improved business!
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,38 @@ Building occupants can submit requests through their preferred messaging app (in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Conversion Kickstarter - SEM | Display and Video  (3 months) - With Video | Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Conversion Kickstarter - SMM | Display and Video (3 months) - With Video | Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Digital Presence Starter - SMM | SM Page Management (3 months) - With Shoot | Copy</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus (Multi-Site)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/FacilityBot_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Digital Awareness - Brand Awareness / Engagement (2 months) - With ExShoot | Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Digital Advertising - SEM or SMM | Display and Video (5 months) - With Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +64,7 @@ Building occupants can submit requests through their preferred messaging app (in
 
 ## Vendor Information
 
- Company name:FacilityBot Pte Ltd<br>Web URL: facilitybot.co <br>Contact Hotline: 97480484 <br>Contact Email: sales@facilitybot.co 
+ Company name: Inbox Consults Pte Ltd<br>Web URL: www.inboxconsults.com<br>Contact Hotline: 88213786<br>Contact Email: gavin@inboxconsults.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

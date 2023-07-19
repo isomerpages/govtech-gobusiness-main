@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Smart POS Version 2022.01'
+title: 'TERRA EMAIL PROTECTION Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1036
 ---
 
-## Qashier Smart POS Version 2022.01
+## TERRA EMAIL PROTECTION Version 1.0
 
 ## Overview
 
 **Description**
 
-Qashier provides smart point-of-sale and digital payment solutions to retailers. Qashier's full suite of integrated solutions includes point-of-sale hardware, software, payment acceptance, inventory management, customer loyalty, and integrations to 3rd party apps including e-commerce and accounting software.
+TEP is multi-layered, cloud-based email security for all organisations. It provides businesses with one-stop email security and protection from known and zero-day variants, including protection against Business Email Compromise (BEC) aka. "email impersonation", email content control against data leakages, viruses, phishing, spam, ransomware, etc. TEP will be a great addition to the existing Endpoint Protection technology and propel your organisation towards a higher level of protection.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro</td>
-<td style='padding: 10px;'>$1,818.00</td>
-<td style='padding: 10px;'>$1,818.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 10</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'>$3,330.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Pro + Basic Setup</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'>$2,417.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 30</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'>$8,290.10</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Advanced Setup</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'>$3,297.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 100</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'>$24,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS Version 2022.01 - Growth + Full Setup + Training</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'>$4,497.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 30</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'>$12,540.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 60</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'>$21,372.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Qashier provides smart point-of-sale and digital payment solutions to retailers.
 
 ## Vendor Information
 
- Company name:Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com 
+ Company name:TERRA SYSTEMS PTE LTD<br>Web URL: https://terra.systems/#/ <br>Contact Hotline: 68765800 <br>Contact Email: marketing@terra-systems.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

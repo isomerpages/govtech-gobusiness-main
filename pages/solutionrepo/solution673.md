@@ -1,15 +1,15 @@
 ---
-title: 'DM Identity Counsel Digital Marketing Packages'
+title: 'DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution673
 ---
 
-## DM Identity Counsel Digital Marketing Packages
+## DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
+Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry. MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets l
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package A (6 months)</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_123.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package B (6 months)</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_456.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM MediaOne SEO RankUp + SEM RevUp Digital Marketing Packages - Package C (6 months)</td>
+<td style='padding: 10px;'>$11,888.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DM_MediaOne_20210532_Desensitised_Annex_3_Part_789.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
+ Company Name: MediaOne Business Group Pte Ltd<br>Web URL: mediaone.co<br>Contact Hotline: 69657008 <br>Contact Email: contact@mediaone.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Smart Glasses - InnoGlas'
+title: 'Netiquette Cloud Business Suite'
 permalink: /productivity-solutions-grant/solutionrepo/solution722
 ---
 
-## Smart Glasses - InnoGlas
+## Netiquette Cloud Business Suite
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'>$7,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
+<td style='padding: 10px;'>$4,340.00</td>
+<td style='padding: 10px;'>$4,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>$14,740.00</td>
-<td style='padding: 10px;'>$12,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>$21,060.00</td>
-<td style='padding: 10px;'>$18,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
+<td style='padding: 10px;'>$6,340.00</td>
+<td style='padding: 10px;'>$6,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>$15,240.00</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>$35,560.00</td>
-<td style='padding: 10px;'>$20,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package E (Saas for 35 Users)</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
+ Company Name: Netiquette Software Pte Ltd<br>Web URL: www.netiquette.com.sg <br><br>Contact Hotline: 94882285 <br><br>Contact Email: enquiry@netiquette.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'CFOsg XERO Cloud Accounting'
+title: 'Crystal Dash CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution325
 ---
 
-## CFOsg XERO Cloud Accounting
+## Crystal Dash CRM
 
 ## Overview
 
 **Description**
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+Crystal Dash CRM enables SMEs and MNCs to easily configure process work flows for sales, customer service to operational teams. It can be scaled effectively to meet the needs of every unique industry, with multi-country expansion support and remote working capabilities. Integrate with omni-channel communication from calls, emails, WhatsApp.
+
+Crystal Dash is built for the modern day CRM with less clicks and more automation to make staff happier and increase revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,24 @@ Xero is an universal accounting software that provides a complete list of accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (3 Users)</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (6 Users)</td>
+<td style='padding: 10px;'>$8,920.00</td>
+<td style='padding: 10px;'>$8,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
-<td style='padding: 10px;'>$3,964.00</td>
-<td style='padding: 10px;'>$3,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,664.00</td>
-<td style='padding: 10px;'>$4,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,984.00</td>
-<td style='padding: 10px;'>$5,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional Edition (3 Users)</td>
+<td style='padding: 10px;'>$9,460.00</td>
+<td style='padding: 10px;'>$9,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +52,7 @@ Xero is an universal accounting software that provides a complete list of accoun
 
 ## Vendor Information
 
- Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
+ Company name:Crystal Net Pte Ltd<br>Web URL: https://www.crystaldash.com/ <br>Contact Hotline: 67278111 <br>Contact Email: info@crystaldash.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,18 +1,15 @@
 ---
-title: 'aiCARE Shield Managed Security Version Ver1.0'
+title: 'DM Roots Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution936
 ---
 
-## aiCARE Shield Managed Security Version Ver1.0
+## DM Roots Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
-aiCARE Shield Managed Security comes with 8x5 Hotline Support.
-Support Day : Monday - Friday
-Support Time : 9am-6pm
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
 
 ## Solution Packages Option(s)
 
@@ -26,48 +23,48 @@ Support Time : 9am-6pm
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 1 - [SEO, Facebook Ads & 1 SEO Content]-[2 Months]</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 2 - [SEO, SEM & 1 SEO Content] - [2 Months]</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 3 - [SEO, Facebook Ads, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 4 - [SEO, SEM, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Roots Digital Marketing Packages - Package 5 - [SEO, Facebook Ads, 2 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootDigital_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
+ Company Name: Roots Digital Pte. Ltd.<br>Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

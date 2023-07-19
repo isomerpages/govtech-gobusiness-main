@@ -1,15 +1,15 @@
 ---
-title: 'MetroERP Version 1.0'
+title: 'Psoft Accounting Systems Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution847
 ---
 
-## MetroERP Version 1.0
+## Psoft Accounting Systems Version 7
 
 ## Overview
 
 **Description**
 
-MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
+Psoft Accounting software help SMEs keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Psoft Accounting software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Single User - Peppol Ready)</td>
+<td style='padding: 10px;'>$1,520.00</td>
+<td style='padding: 10px;'>$1,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,300.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Three Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'>$3,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Five Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Single User with PEPPOL)</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Three Users with PEPPOL)</td>
+<td style='padding: 10px;'>$6,660.00</td>
+<td style='padding: 10px;'>$5,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ## Vendor Information
 
- Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
+ Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

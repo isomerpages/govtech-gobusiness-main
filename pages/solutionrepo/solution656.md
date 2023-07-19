@@ -1,15 +1,15 @@
 ---
-title: 'Hubble Safety Management System'
+title: 'LittleLives School Management System (Data Mining & Analytics)'
 permalink: /productivity-solutions-grant/solutionrepo/solution656
 ---
 
-## Hubble Safety Management System
+## LittleLives School Management System (Data Mining & Analytics)
 
 ## Overview
 
 **Description**
 
-Hubble Safety Management System helps businesses manage and monitor the safety of their project sites in real-time. The software will streamline and digitise Permit-to-Work (PTW) and track safety data for work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites always remain safe and compliant.
+LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ Hubble Safety Management System helps businesses manage and monitor the safety o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 1 Project)</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
+<td style='padding: 10px;'>$6,537.00</td>
+<td style='padding: 10px;'>$5,301.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 2 Projects)</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 3 Projects)</td>
-<td style='padding: 10px;'>$26,900.00</td>
-<td style='padding: 10px;'>$26,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Up to 4 Projects)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hubble_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ Hubble Safety Management System helps businesses manage and monitor the safety o
 
 ## Vendor Information
 
- Company name:Hubble Pte Ltd<br>Web URL: hubble.sg/product/safety <br>Contact Hotline: 68167890 <br>Contact Email: sales@hubble.sg 
+ Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

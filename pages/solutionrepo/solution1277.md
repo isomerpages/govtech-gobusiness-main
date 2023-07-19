@@ -1,60 +1,30 @@
 ---
-title: 'Sage 300 Advance Edition'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1277
 ---
 
-## Sage 300 Advance Edition
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud (3 users)</td>
-<td style='padding: 10px;'>$15,521.00</td>
-<td style='padding: 10px;'>$15,521.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (3 users)</td>
-<td style='padding: 10px;'>$29,309.00</td>
-<td style='padding: 10px;'>$26,983.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (5 Users)</td>
-<td style='padding: 10px;'>$32,788.00</td>
-<td style='padding: 10px;'>$30,039.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (7 Users)</td>
-<td style='padding: 10px;'>$36,267.00</td>
-<td style='padding: 10px;'>$33,095.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (10 Users)</td>
-<td style='padding: 10px;'>$41,484.00</td>
-<td style='padding: 10px;'>$37,679.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 
@@ -62,10 +32,6 @@ A powerful accounting and financial management solution that allows SME's to max
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

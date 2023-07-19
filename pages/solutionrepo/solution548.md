@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'Microsoft Dynamics 365 Business Central'
 permalink: /productivity-solutions-grant/solutionrepo/solution548
 ---
 
-## EPOS Marketing AI Version 1.0
+## Microsoft Dynamics 365 Business Central
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics family, and intended to assist with finance, manufacturing, customer relationship management, supply chains, analytics and electronic commerce for small and medium-sized companies and local subsidiaries of large international groups
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,34 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$21,850.00</td>
+<td style='padding: 10px;'>$20,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
+<td style='padding: 10px;'>$25,810.00</td>
+<td style='padding: 10px;'>$21,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
+<td style='padding: 10px;'>$34,510.00</td>
+<td style='padding: 10px;'>$24,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name:Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

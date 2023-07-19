@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Software - Premium Package'
+title: 'CIRCL F&B Omnichannel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1429
 ---
 
-## Xero Cloud Accounting Software - Premium Package
+## CIRCL F&B Omnichannel
 
 ## Overview
 
 **Description**
 
-Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
+CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,10 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software Only</td>
-<td style='padding: 10px;'>$688.00</td>
-<td style='padding: 10px;'>$688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Training</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software & Setup</td>
-<td style='padding: 10px;'>$3,488.00</td>
-<td style='padding: 10px;'>$3,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_YMC_Annex_3_CR_wef_20_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +36,7 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 
 ## Vendor Information
 
- Company Name: YMC ACCOUNTING PTE LTD<br>Web URL: https://www.thesgservice.com/sg-accounting-firm <br><br>Contact Hotline: 93891853 <br><br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br><br>
+ Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

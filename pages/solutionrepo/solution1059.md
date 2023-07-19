@@ -1,15 +1,15 @@
 ---
-title: 'Xero'
+title: 'Sage 300 Advance Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution1059
 ---
 
-## Xero
+## Sage 300 Advance Edition
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software which allow multiple users to log into the system at the same time, anytime, anywhere and on any device to view and perform transactions. Bank transactions can be fed directly into Xero daily so that cash position, receivables and payables can be kept accurate and updated. OCR technology enables bills and receipts to be pulled into Xero automatically.  Xero simplify accounting and free up time for the more important task of doing beautiful business.
+A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Xero is a cloud-based accounting software which allow multiple users to log into
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Lite</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud (3 users)</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Basic</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (3 users)</td>
+<td style='padding: 10px;'>$29,309.00</td>
+<td style='padding: 10px;'>$26,983.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Standard</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$4,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (5 Users)</td>
+<td style='padding: 10px;'>$32,788.00</td>
+<td style='padding: 10px;'>$30,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premium</td>
-<td style='padding: 10px;'>$6,464.00</td>
-<td style='padding: 10px;'>$6,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (7 Users)</td>
+<td style='padding: 10px;'>$36,267.00</td>
+<td style='padding: 10px;'>$33,095.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (10 Users)</td>
+<td style='padding: 10px;'>$41,484.00</td>
+<td style='padding: 10px;'>$37,679.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:RDC CORPORATE PTE LTD<br>Web URL: www.xero.com/sg/ <br>Contact Hotline: 62235466 <br>Contact Email: support@rdccorporate.com 
+ Company name:The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
