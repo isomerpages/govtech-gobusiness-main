@@ -18,13 +18,13 @@ For example, a month before Meta launched its payment platform Meta Pay, the tec
 
 By leveraging IP information, your business can make informed decisions about their IP and business strategies, including:
 
-- Determining which markets to target;
+- Determining which markets to target
 
-- Identifying products or services to develop based on interest and demand; 
+- Identifying products or services to develop based on interest and demand
 
-- Deciding whether to file patent or trade mark applications;
+- Deciding whether to file patent or trade mark applications
 
-- Evaluating whether to invest in research and development or license a technology. 
+- Evaluating whether to invest in research and development or license a technology
 
 There are public IP databases that you can tap on to perform your analyses. Performing IP searches can be complex and technical, especially for patent searches. If you are not familiar with performing IP searches and analytics, you can engage IP intelligence and search professionals to perform the analyses on your behalf, saving you a lot of time. 
 
