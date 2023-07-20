@@ -22,7 +22,7 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <b>Address in Singapore:</b> 52D Gilstead Road, Singapore 309097
 
-<b>Website:</b> <a href='https://www.cantab-ip.com'  target='_blank' rel='noopener'>https://www.cantab-ip.com</a>
+<b>Website:</b> <a href='https://www.cantab-ip.com'>https://www.cantab-ip.com</a>
 
 <b>Offer:</b> 30 minute initial consultation without charge.
 
@@ -150,7 +150,7 @@ The World's Leading Patent Practitioners 2017 - Intellectual Asset Magazine's IA
 The World's Leading Patent Practitioners 2016 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2016 edition ; 
 The World's Leading Patent Practitioners 2015 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2015 edition ; 
 The World's Leading Patent Practitioners 2014 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2014 edition  
-- URL of LinkedIn/Company Profile: <a href='https://www.cantab-ip.com/people/chong-yee-khoo'  target='_blank' rel='noopener'>https://www.cantab-ip.com/people/chong-yee-khoo</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.cantab-ip.com/people/chong-yee-khoo" target="_blank" rel="noopener">https://www.cantab-ip.com/people/chong-yee-khoo</a>
 
 ---
 Profile last updated on 12 June 2023
