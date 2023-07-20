@@ -1,15 +1,15 @@
 ---
-title: 'Proximity Sensor Safety Solution Version 4'
+title: 'TessaCloud DMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution1041
 ---
 
-## Proximity Sensor Safety Solution Version 4
+## TessaCloud DMS
 
 ## Overview
 
 **Description**
 
-Nettbox Proximity Sensor is an obstacle detection solution which is suitable for all category of heavy vehicles /machines. It is a safety solution which allows instant detection of the object which is of close proximity and avoids accidents and collisions . It also enables audio alerts to the operator and the passer-by to flag up instant alarm. This enables the operators to enhance confidence with productivity where the average time of an operation to be shortened compared without the solution.
+TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$4,240.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 05</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'>$14,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 06</td>
-<td style='padding: 10px;'>$25,640.00</td>
-<td style='padding: 10px;'>$17,684.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 08</td>
-<td style='padding: 10px;'>$34,120.00</td>
-<td style='padding: 10px;'>$23,512.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name : NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
+ Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

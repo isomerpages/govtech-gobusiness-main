@@ -1,15 +1,15 @@
 ---
-title: 'Sage 300Cloud Version 2022'
+title: 'Moneyworks'
 permalink: /productivity-solutions-grant/solutionrepo/solution94
 ---
 
-## Sage 300Cloud Version 2022
+## Moneyworks
 
 ## Overview
 
 **Description**
 
-Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
+MoneyWorks family of accounting solutions provides a range of feature rich yet easy to use solutions for small, medium and large organisations. MoneyWorks is robust, fast and scalable and but simple and user-friendly, with top quality reporting capabilities. The only accounting software that runs on both Mac and Windows platform, and is flexible enough to fit within workflow and integrate with existing business software. Moneyworks is ready for On-Premise and/or On-Cloud deployment.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package A - Moneyworks Gold (1 User) Software Only</td>
+<td style='padding: 10px;'>$895.00</td>
+<td style='padding: 10px;'>$895.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$33,200.00</td>
-<td style='padding: 10px;'>$33,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package B - Moneyworks Gold (1 User)</td>
+<td style='padding: 10px;'>$3,995.00</td>
+<td style='padding: 10px;'>$3,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_AdvancedMicro_CR_wef29dec22_Part 2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$42,615.00</td>
-<td style='padding: 10px;'>$42,615.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package C - Moneyworks NOW (3 User)</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package D - Moneyworks Datacentre (3 User)</td>
+<td style='padding: 10px;'>$7,095.00</td>
+<td style='padding: 10px;'>$7,095.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$34,615.00</td>
-<td style='padding: 10px;'>$34,615.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_ACSolv_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Moneyworks - Package E - Moneyworks Datacentre (5 User)</td>
+<td style='padding: 10px;'>$13,795.00</td>
+<td style='padding: 10px;'>$13,495.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advanced_micro_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 
 ## Vendor Information
 
- Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
+ Company Name: Advanced Micro Control Pte Ltd<br>Web URL: https://amcpro.asia <br><br>Contact Hotline: 65898878 <br><br>Contact Email: sales@amc.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

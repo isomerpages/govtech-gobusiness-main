@@ -110,7 +110,7 @@ While the law currently does not allow for the conversion of a sole proprietorsh
 
 Last but not least, you can consider seeking additional support for your expansion. GoBusiness consolidates [over 100 government assistance schemes](/gov-assist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to help local businesses, from financial assistance to training and skills upgrading, as well as support programmes that help businesses adopt IT solutions and equipment.
 
-If you are not sure which schemes to apply for, you can use the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to identify suitable schemes tailored to your business needs. Simply complete a short questionnaire, and the e-Adviser will generate a list of recommended government schemes suitable for you.
+If you are not sure which schemes to apply for, you can use the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to identify suitable schemes tailored to your business needs. Simply complete a short questionnaire, and the e-Adviser will generate a list of recommended government schemes suitable for you.
 
 A home-based business is only as big as you can dream, so it is crucial to plan ahead for the future. Whether you’re just exploring new ways to earn passive income, or taking baby steps to make your dream job a reality, the GoBusiness Home Business Guide will serve as your playbook, to ensure that you comply with the regulations while running your business from home.
 

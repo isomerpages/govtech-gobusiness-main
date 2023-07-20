@@ -1,16 +1,15 @@
 ---
-title: 'U Ventures XERO'
+title: 'NMTODOO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1566
 ---
 
-## U Ventures XERO
+## NMTODOO
 
 ## Overview
 
 **Description**
 
-XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
-is doing at any given time.
+The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,48 @@ is doing at any given time.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 5 Users (Basic)</td>
+<td style='padding: 10px;'>$9,353.00</td>
+<td style='padding: 10px;'>$9,353.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 8 Users (Standard)</td>
+<td style='padding: 10px;'>$13,043.00</td>
+<td style='padding: 10px;'>$13,043.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 10 Users (Premium)</td>
+<td style='padding: 10px;'>$15,316.00</td>
+<td style='padding: 10px;'>$15,316.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 12 Users (Professional)</td>
+<td style='padding: 10px;'>$19,620.00</td>
+<td style='padding: 10px;'>$17,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales for 15 Users (Enterprise)</td>
+<td style='padding: 10px;'>$21,681.00</td>
+<td style='padding: 10px;'>$18,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
+ Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

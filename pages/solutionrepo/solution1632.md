@@ -1,15 +1,15 @@
 ---
-title: 'Weebo KYBIO POS Solution Version 3.3.4.4'
+title: 'Smartweb Version V3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1632
 ---
 
-## Weebo KYBIO POS Solution Version 3.3.4.4
+## Smartweb Version V3
 
 ## Overview
 
 **Description**
 
-KYBIO is an all-in-one Cloud-Based POS System equipped with product management, inventory management, promotion management and sales analytics module. Go digital with E-commerce integration or accept digital payment. KYBIO is here to scale alongside businesses as it allows Merchants to manage multiple outlets all from a single platform.
+Drive higher sales, streamline operations, and provide a better customer experience through a data-driven approach to restaurant management and customer engagement; with fast, error-free ordering, quicker table turns and reduced reliance on staff. Address customer pain points by reducing wait time and eliminating errors on the orders whilst improving the overall dining experience through AI that personalise recommendations based on the spending habits and palette profile every dinner.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ KYBIO is an all-in-one Cloud-Based POS System equipped with product management, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weebo KYBIO POS Solution Version 3.3.4.4 - Basic - Mobile</td>
-<td style='padding: 10px;'>$2,572.00</td>
-<td style='padding: 10px;'>$2,572.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with Training, Installation and Configuration</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weebo KYBIO POS Solution Version 3.3.4.4 - Basic</td>
-<td style='padding: 10px;'>$4,300.00</td>
-<td style='padding: 10px;'>$4,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering without Training, Installation and Configuration</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weebo KYBIO POS Solution Version 3.3.4.4 - Basic + Inventory Management</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,778.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 1 x Kiosk Ordering Solution Software License</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Weebo KYBIO POS Solution Version 3.3.4.4 - Basic + Multi-Software</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$9,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk Ordering Solution Software License for 2 x Kiosk</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 2 x Kiosk Ordering Software License</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$10,399.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>
+ Company name:TabSquare Pte Ltd<br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

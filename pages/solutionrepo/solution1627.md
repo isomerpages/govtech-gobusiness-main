@@ -1,15 +1,15 @@
 ---
-title: 'DM WECOFA Digital Marketing Packages'
+title: 'iMakan'
 permalink: /productivity-solutions-grant/solutionrepo/solution1627
 ---
 
-## DM WECOFA Digital Marketing Packages
+## iMakan
 
 ## Overview
 
 **Description**
 
-Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
+iMakan Self Ordering is best known to help F&B achieve high efficiency in the entire order-to-kitchen process. From iMakan Self Ordering Kiosks, iMakan QR Table Ordering to iMakan Online Ordering for self-pickup and delivery, the solution features a clean and intuitive user interface for quick, fuss free ordering. Together with its automated upselling feature, iMakan helps F&B owners realize potential revenue sooner.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Wecofa's Digital Marketing Package is designed to help SMEs to establish a compr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Ordering (Subscription)</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Analytics</td>
+<td style='padding: 10px;'>$5,780.00</td>
+<td style='padding: 10px;'>$5,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 x Kiosks + KDS & Number Display with Analytics</td>
+<td style='padding: 10px;'>$13,980.00</td>
+<td style='padding: 10px;'>$12,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Wecofa's Digital Marketing Package is designed to help SMEs to establish a compr
 
 ## Vendor Information
 
- Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

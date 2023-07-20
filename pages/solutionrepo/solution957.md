@@ -1,16 +1,15 @@
 ---
-title: 'MEGAPOS Beauty & Wellness'
+title: 'Simplr Warehouse Management Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution957
 ---
 
-## MEGAPOS Beauty & Wellness
+## Simplr Warehouse Management Version 6
 
 ## Overview
 
 **Description**
 
-MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
-Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
+The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,31 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model (3 users)</td>
+<td style='padding: 10px;'>$25,200.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 5 Users)</td>
+<td style='padding: 10px;'>$29,700.00</td>
+<td style='padding: 10px;'>$29,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 8 users)</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$32,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - On Premise (5 Users)</td>
+<td style='padding: 10px;'>$56,000.00</td>
+<td style='padding: 10px;'>$33,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +57,7 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company Name: SIMPLR SOLUTIONS PTE LTD<br>Web URL: https://simplr.net/solutions/ <br><br>Contact Hotline: 93801127 <br><br>Contact Email: ram@simplr.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

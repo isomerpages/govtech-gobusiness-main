@@ -1,15 +1,17 @@
 ---
-title: 'EPOINT Version 9'
+title: 'Stormshield UTM Firewall Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution620
 ---
 
-## EPOINT Version 9
+## Stormshield UTM Firewall Security
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+
+Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic</td>
-<td style='padding: 10px;'>$8,331.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Basic+</td>
-<td style='padding: 10px;'>$11,046.00</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN310</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Lite</td>
-<td style='padding: 10px;'>$5,531.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN510</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eWaiter - Advance</td>
-<td style='padding: 10px;'>$11,831.00</td>
-<td style='padding: 10px;'>$11,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOINT Version 9 - eKiosk - Advance</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOINT_EPOINT_Version_9_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710 (Twin Pack)</td>
+<td style='padding: 10px;'>$20,515.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br><br>Contact Hotline: 61006300 <br><br>Contact Email: darren.sim@epointpos.com <br><br>
+ Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

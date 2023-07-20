@@ -1,20 +1,15 @@
 ---
-title: 'Q-DAS - Smart Quality Software'
+title: 'Proximity Sensor Safety Solution Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution737
 ---
 
-## Q-DAS - Smart Quality Software
+## Proximity Sensor Safety Solution Version 4
 
 ## Overview
 
 **Description**
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+Nettbox Proximity Sensor is an obstacle detection solution which is suitable for all category of heavy vehicles /machines. It is a safety solution which allows instant detection of the object which is of close proximity and avoids accidents and collisions . It also enables audio alerts to the operator and the passer-by to flag up instant alarm. This enables the operators to enhance confidence with productivity where the average time of an operation to be shortened compared without the solution.
 
 ## Solution Packages Option(s)
 
@@ -28,24 +23,38 @@ Key features:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'>$28,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$4,240.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$2,914.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
-<td style='padding: 10px;'>$40,400.00</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 05</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$14,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 06</td>
+<td style='padding: 10px;'>$25,640.00</td>
+<td style='padding: 10px;'>$17,684.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 08</td>
+<td style='padding: 10px;'>$34,120.00</td>
+<td style='padding: 10px;'>$23,512.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -55,7 +64,7 @@ Key features:
 
 ## Vendor Information
 
- Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
+ Company Name : NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

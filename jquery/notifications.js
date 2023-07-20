@@ -2,8 +2,9 @@
 
 const custom_notifications = [
 
+
   "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark Services will be unavailable due to scheduled maintenance on 23 Jul from 12am to 8pm. Please view the upcoming maintenance schedule for details of affected services. We apologise for the inconvenience caused.",
-  "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the upcoming maintenance schedule for details of affected services. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the upcoming maintenance schedule for details of affected services. We apologise for the inconvenience caused."
 
 ];
 

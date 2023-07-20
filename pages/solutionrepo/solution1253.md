@@ -1,43 +1,37 @@
 ---
-title: 'Realtimme Cloud Version 3.0.0'
+title: 'Commercial Inkjet Printer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1253
 ---
 
-## Realtimme Cloud Version 3.0.0
+## Commercial Inkjet Printer
 
 ## Overview
 
 **Description**
 
-Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reporting to ACRA and corporate tax form C-S to IRAS. The solution consists of accounts receivables, accounts payable and general ledgers fully integrated with sales & purchases management module and inventory system. The solution is InvoiceNow ready, GST compliance to IRAS requirement and multi currency ready.
+Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
+
+Cost of equipment capped at $16,000 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Realtimme Cloud Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:Realtimme IT Consultancy Pte Ltd<br>Web URL: www.realtimme.com.sg <br>Contact Hotline: 81488824 <br>Contact Email: sales@realtimme.net 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
