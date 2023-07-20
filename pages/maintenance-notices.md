@@ -12,7 +12,6 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |
 | ------  |------------------|
 | 23 Jul, 12am - 8pm | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |
-| 24 Jul, 11am - 12pm | **Test system** will be unavailable during the upcoming scheduled maintenance. |
 
 
 <script src="/jquery/jquery.min.js"></script>
