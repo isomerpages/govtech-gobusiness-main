@@ -9,7 +9,7 @@ Bird & Bird ATMD is a leading Singapore law firm with a strong local presence, c
 
 We are uniquely placed to offer the whole range of services being a law firm with a strong intellectual property practice, as well as an experienced team of in-house patent attorneys. Our detailed understanding of technology and innovation and its challenges enables us to help domestic and multinational businesses manage, protect, exploit and litigate their IP rights even as businesses embrace digitisation and e-commerce.
 
-With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
+With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
 
 <b>Year established in Singapore:</b> 1994
 
@@ -273,7 +273,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 - Years of Experience: 10+ years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified by F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
+- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
 - Awards/Accolades: IAM Patent 1000 - Bronze Band (Patent Prosecution), Listed in Who's Who Legal: Patents
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/h/hui-leng-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/h/hui-leng-tan</a>
 

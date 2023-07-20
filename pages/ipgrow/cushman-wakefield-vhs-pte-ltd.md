@@ -5,9 +5,11 @@ permalink: /intellectual-property/ip-grow/cushman-wakefield-vhs-pte-ltd/
 
 ## Cushman & Wakefield VHS Pte Ltd
 
-Cushman & Wakefield is a global real estate services firm that delivers exceptional value and a one-stop service platform for real estate occupiers and owners. At Cushman & Wakefield Singapore, we provide a full suite of commercial real estate services including Valuation & Advisory Services. Our Singapore team consists of more than 2,100 professionals, making it the largest full-service commercial real estate company in the country, leveraging off the expertise of 2000 offices across 70 countries around the world.  
+Cushman & Wakefield is a global real estate services firm that delivers exceptional value and a one-stop service platform for real estate occupiers and owners. At Cushman & Wakefield Singapore, we provide a full suite of commercial real estate services including Valuation & Advisory Services (V&A). 
 
-The opening of two new offices in Singapore solidifies our position as a real estate services powerhouse in Singapore and the region - Singapore for Singapore, Singapore for Asia.
+Our V&A team provides real estate and business valuation and advisory services to owners, investors, and developers, major corporations, REITs, institutional funds, financial institutions, government agencies to small business owners and individuals.   
+
+Additionally, our business valuation professionals are widely recognized for providing the most sophisticated advice. We have a good standing track record and an experienced dedicated team with a single point of contact in Singapore to deliver a consistent quality service worldwide. Our business valuers are qualified with professional certifications such as CVA, CFA, ICVS, ACCA and FRM. We provide independent valuation opinions of IA and IP during corporate exercises like financial reporting for M&A, impairment tests, tax reference (for claiming write-down allowances under S19B of the SITA) and potential transaction reference.
 
 <b>Year established in Singapore:</b> 2007
 
@@ -17,7 +19,7 @@ The opening of two new offices in Singapore solidifies our position as a real es
 
 <b>Address in Singapore:</b> 88, Market Street #47-01 CapitaSpring, Singapore 048948
 
-<b>Website:</b> <a href='https://www.cushmanwakefield.com/en/singapore'>https://www.cushmanwakefield.com/en/singapore</a>
+<b>Website:</b> <a href='https://www.cushmanwakefield.com/en/singapore/services/valuation-advisory-services'>https://www.cushmanwakefield.com/en/singapore/services/valuation-advisory-services</a>
 
 <b>Offer:</b> -
 

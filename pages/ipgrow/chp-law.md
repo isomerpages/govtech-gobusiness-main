@@ -168,11 +168,10 @@ We work together with our clients every step of the way, providing elegant and c
 **Arthur Yap**
 
 - Job Title: Director (Litigation)
-- Years of Experience: -
+- Years of Experience: 16 years
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution, IP Training, IP Watch, IP Portfolio Management
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore, B. Eng. (Chem) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore; FSIArb
-- Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arthur-yap-9a70432a" target="_blank" rel="noopener">https://www.linkedin.com/in/arthur-yap-9a70432a</a>
 
 ---

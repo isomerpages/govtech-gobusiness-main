@@ -64,7 +64,7 @@ Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -377,7 +377,7 @@ Goh Phai Cheng LLC, Singapore Lawyers providing Best Value and Good Service.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,330</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> FREE FIRST CONSULTATION.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free first consultation.</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/goh-phai-cheng-llc/){:target='_blank'}
@@ -448,7 +448,7 @@ Seiter IP Consultants LLP is a small IP boutique firm providing different types 
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -463,7 +463,7 @@ Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence an
 
 #### Aedificare Law
 
-At Aedificare Law, We Build and Protect Your Business.
+At Aedificare Law, we build and protect your business.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
