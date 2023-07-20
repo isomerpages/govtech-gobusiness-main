@@ -12,13 +12,13 @@ Having an intellectual property (IP) watch in place is an effective way to prote
 
 ### Benefits of IP watch services
 
-By employing an IP watch service, your business can proactively protect its interests and anticipate potential threats to its IP. It includes 
+By employing an IP watch service, your business can proactively protect its interests and anticipate potential threats to its IP. It includes:
 
-- Monitoring IP filings to detect and alert you of any conflicting IP, enabling you to oppose them based on your IP rights;
+- Monitoring IP filings to detect and alert you of any conflicting IP, enabling you to oppose them based on your IP rights
 
-- Monitoring IP filings to track the activities of competitors in a particular industry;
+- Monitoring IP filings to track the activities of competitors in a particular industry
 
-- Monitoring of online spaces for IP infringement.  
+- Monitoring of online spaces for IP infringement
 
 An IP watch service helps you spot potential infringements before they become major problems, allowing you to take swift and decisive action to protect your commercial interests. By keeping a close eye on the activities of your competitors, you can also gain valuable insights to inform your business strategies.
 
