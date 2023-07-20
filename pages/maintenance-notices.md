@@ -11,7 +11,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |
 | ------  |------------------|
-| - | - |
+|  |  |
 
 
 <script src="/jquery/jquery.min.js"></script>
