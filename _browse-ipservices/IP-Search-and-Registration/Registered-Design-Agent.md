@@ -186,7 +186,7 @@ The firm is specializing in intellectual property, commercial law and dispute re
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -216,7 +216,7 @@ Dentons Rodyk offers clients a full suite of legal services to do business local
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -356,7 +356,7 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 
 #### Aedificare Law
 
-At Aedificare Law, We Build and Protect Your Business.
+At Aedificare Law, we build and protect your business.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

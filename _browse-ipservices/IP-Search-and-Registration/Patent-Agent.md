@@ -14,9 +14,7 @@ Patents are a form of intellectual property (IP) that can help your business pro
 
 ### Benefits of patent agent services
 
-How you craft and file your patent application can greatly affect the scope of your patent protection.
-
-That is why patent agents can be helpful in navigating the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
+How you craft and file your patent application can greatly affect the scope of your patent protection. That is why patent agents can be helpful in navigating the challenging patent application process. They are certified professionals who can assess your invention's patentability, prepare and file patent applications, and advise you on the validity and infringement of patents. With their expertise, you can maximise your chances of obtaining strong patents based on your business needs.
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a patent agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
@@ -64,7 +62,7 @@ Spruson & Ferguson has been in Asia for more than 25 years and we can service ov
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -278,7 +276,7 @@ Our law firm provides a full range of IP services including contentious matters 
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
