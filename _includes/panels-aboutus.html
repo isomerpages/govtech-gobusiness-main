@@ -5,6 +5,7 @@
         grid-gap: 20px;
         grid-template-columns: 1fr 1fr;
         margin: 24px 0;
+        align-items: start;
     }
 
     .content .panel {
@@ -47,7 +48,15 @@
         margin: 110px 29px 0px 29px;
     }
 
-    .content .panel .panel-description,
+    .content .panel .panel-description{
+        display: grid;
+        font-family: hknova-regular;
+        font-size: 18px;
+        margin: 0 29px 0px 29px;
+        align-self: start;
+        min-height: 135px;
+    }
+
     .content .panel .panel-second-description,
     .content .panel .contacts-link {
         display: grid;
