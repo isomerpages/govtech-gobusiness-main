@@ -1,15 +1,15 @@
 ---
-title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
+title: 'iLOGON (iTMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution634
 ---
 
-## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
+## iLOGON (iTMS)
 
 ## Overview
 
 **Description**
 
-Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
+KEYfields' iLOGON iTMS is an operational centric and easy to implement transport management solution, with scalable design that allow flexibility to add or enhance functionalities to meet business growing needs. The solution enhances transportation logistics to boost on-time deliveries and customer service levels. It provides real time updates, listen to jobs and manages all fleet and driver resources to ensure the right supplies is picked up and delivered on time.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
-<td style='padding: 10px;'>$10,359.99</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iTMS) -  SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/<br>Contact Hotline: 68427886<br>Contact Email: info@keyfields.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Synergix Sales, Accounting, Inventory'
+title: 'ABSS(MYOB) Premier'
 permalink: /productivity-solutions-grant/solutionrepo/solution1754
 ---
 
-## Synergix Sales, Accounting, Inventory
+## ABSS(MYOB) Premier
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (5 Users with InvoiceNow)</td>
-<td style='padding: 10px;'>$53,750.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Software (1 User)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (10 Users with InvoiceNow)</td>
-<td style='padding: 10px;'>$74,750.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Software & Training (1 User)</td>
+<td style='padding: 10px;'>$2,623.00</td>
+<td style='padding: 10px;'>$2,303.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Software (3 Users)</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Software & Training (3 Users)</td>
+<td style='padding: 10px;'>$3,937.00</td>
+<td style='padding: 10px;'>$3,617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Software, Remote Access & Training (3 Users)</td>
+<td style='padding: 10px;'>$4,956.00</td>
+<td style='padding: 10px;'>$4,636.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

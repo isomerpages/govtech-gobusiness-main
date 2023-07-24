@@ -1,66 +1,41 @@
 ---
-title: 'Counto DIY Version 1'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1343
 ---
 
-## Counto DIY Version 1
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
 
-Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Minimum water tank capacity of 15 litres</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

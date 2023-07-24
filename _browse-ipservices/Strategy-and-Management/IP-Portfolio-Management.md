@@ -124,7 +124,7 @@ Spruson & Ferguson has been in Asia for more than 25 years and we can service ov
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -403,7 +403,7 @@ Seiter IP Consultants LLP is a small IP boutique firm providing different types 
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

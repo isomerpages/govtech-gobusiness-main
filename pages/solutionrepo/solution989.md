@@ -1,16 +1,15 @@
 ---
-title: 'Rah Tech Sophos Endpoint Protection'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution989
 ---
 
-## Rah Tech Sophos Endpoint Protection
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 
 **Description**
 
-Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
-Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,10 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
-<td style='padding: 10px;'>$29,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$3,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +36,7 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 
 ## Vendor Information
 
- Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
