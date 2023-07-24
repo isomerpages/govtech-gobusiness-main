@@ -1,18 +1,17 @@
 ---
-title: 'Vacuum Packing and Sealing Machine'
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1254
 ---
 
-## Vacuum Packing and Sealing Machine
+## Static Parcel Dimension, Weight and Scan Equipment
 
 ## Overview
 
 **Description**
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Cost of equipment capped at $35,000 per unit 
+Cost of equipment capped at $21,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $35,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'>$21,250.00</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

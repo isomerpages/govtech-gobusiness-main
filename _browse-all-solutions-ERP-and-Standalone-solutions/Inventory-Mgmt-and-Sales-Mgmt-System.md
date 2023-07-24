@@ -36,27 +36,27 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution692' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution684' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution710' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution702' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution833' target='_blank'>Odoo Enterprise Version 16</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution825' target='_blank'>Odoo Enterprise Version 16</a><br></td>
 <td>PORT CITIES SINGAPORE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1187' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1179' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1214' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1206' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1398' target='_blank'>Deskera ERP Version 10</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1390' target='_blank'>Deskera ERP Version 10</a><br></td>
 <td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>

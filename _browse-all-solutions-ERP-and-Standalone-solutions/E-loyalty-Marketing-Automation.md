@@ -28,7 +28,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1735' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1727' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
 <td>Advocado Pte Ltd</td>
 </tr>
 </table>

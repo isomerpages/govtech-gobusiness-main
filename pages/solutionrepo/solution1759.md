@@ -1,15 +1,15 @@
 ---
-title: '(SaaS) JustLogin HR Cloud'
+title: 'Moneyworks Version 9'
 permalink: /productivity-solutions-grant/solutionrepo/solution1759
 ---
 
-## (SaaS) JustLogin HR Cloud
+## Moneyworks Version 9
 
 ## Overview
 
 **Description**
 
-JustLogin is a cloud-based Human Resource Management solution that comes with a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Employees can also utilize the JustLogin mobile application to access the HR services from anywhere.
+Ostendo provides Moneyworks, an Accounting software suitable for businesses of all sizes. It is developed by Cognito Software based in New Zealand since 1986. Key features of the solution include: general ledger, invoicing, inventory management, and sales management. MoneyWorks can interface seamlessly with most leading payroll, CRM, POS systems or mySQL, making it possible to streamline workflow. The friendly interface and graphic workflows make MoneyWorks fast, easy and efficient to operate.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A (Up to 15 pax)</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold (1 user)</td>
+<td style='padding: 10px;'>$1,395.00</td>
+<td style='padding: 10px;'>$1,295.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B (Up to 50 pax)</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Now (3 users)</td>
+<td style='padding: 10px;'>$5,740.00</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C (Up to 100 pax)</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users)</td>
+<td style='padding: 10px;'>$7,235.00</td>
+<td style='padding: 10px;'>$6,935.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D (Up to 150 pax)</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users with integration and automation)</td>
+<td style='padding: 10px;'>$9,735.00</td>
+<td style='padding: 10px;'>$9,435.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E (Up to 200 pax)</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (6 users with integration and automation)</td>
+<td style='padding: 10px;'>$11,385.00</td>
+<td style='padding: 10px;'>$11,085.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
+ Web URL: www.ostendoasia.com <br><br>Contact Hotline: 68505150 <br><br>Contact Email: info.sg@ostendoasia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

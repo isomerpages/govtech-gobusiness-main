@@ -1,15 +1,15 @@
 ---
-title: 'Automated Slaughtering Equipment'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
-## Automated Slaughtering Equipment
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated line to slaughter livestock from cutting, deskinning and deboning line
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
