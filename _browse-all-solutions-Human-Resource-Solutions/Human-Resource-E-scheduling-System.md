@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-sched
 ## Human Resource E-scheduling System
 ## Overview
 
-**Description**
-
-Track overall scheduling of employees, generate attendance and overtime reports and push notifications to employees on their work shifts.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

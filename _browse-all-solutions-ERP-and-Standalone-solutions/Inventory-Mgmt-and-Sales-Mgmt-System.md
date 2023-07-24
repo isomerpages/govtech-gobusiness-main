@@ -6,12 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and
 ## Inventory Management and Sales Management System
 ## Overview
 
-**Description**
-
-Setup product details for each item group, inventory locations, journal logs, create price groups / discounts, barcode labelling for RFID search and allow integration with Point of Sales (POS) systems. 
-
-Offers ability to generate quotations, invoices, purchase orders and generate reports.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

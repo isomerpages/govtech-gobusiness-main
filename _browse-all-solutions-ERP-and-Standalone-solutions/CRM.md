@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM
 ## Customer Relationship Management (CRM)
 ## Overview
 
-**Description**
-
-Offers ability to track all sales leads, assign to sales reps, setup sales targets, generate quotations, setup customers and generate detailed sales reports.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

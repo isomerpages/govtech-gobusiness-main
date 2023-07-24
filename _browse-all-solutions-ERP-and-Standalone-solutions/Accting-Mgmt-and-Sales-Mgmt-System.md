@@ -6,12 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Accting-Mgmt-and-S
 ## Accounting Management and Sales Management System
 ## Overview
 
-**Description**
-
-Offers a company the ability to manage their accounting process such as general ledger setup, create journal entries, calculate sales tax, cash flow, generate AR / AP reports. 
-
-Offers ability to generate quotations, invoices, purchase orders and generate reports.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

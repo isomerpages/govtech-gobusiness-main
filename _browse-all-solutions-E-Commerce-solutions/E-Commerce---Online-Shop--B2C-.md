@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--
 ## E-Commerce - Online Shop (B2C)
 ## Overview
 
-**Description**
-
-Offers setup of online e-shop with secured payment to sell products and services online.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

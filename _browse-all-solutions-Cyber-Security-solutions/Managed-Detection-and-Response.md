@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-
 ## Managed Detection and Response
 ## Overview
 
-**Description**
-
-Managed Detection and Response (MDR) solutions deliver 24/7 threat monitoring, detection and lightweight response services to customers leveraging a combination of technologies deployed at the host and network layers, advanced analytics, threat intelligence, and human expertise in incident investigation and response. MDR providers undertake incident validation, and can offer remote response services, such as threat containment and support in bringing a customer’s environment back to some form of “known good”.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
