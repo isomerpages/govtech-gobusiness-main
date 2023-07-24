@@ -6,6 +6,15 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 ## Unified Threat Management
 ## Overview
 
+**Description**
+
+Unified Threat Management (UTM) is a converged platform of point security products, particularly suited to small and middle-sized businesses. 
+
+Typical feature sets fall into three main subsets: 
+(a) firewall/intrusion prevention system (IPS)/virtual private network; 
+(b) secure Web gateway security (URL filtering, Web antivirus [AV]); and 
+(c) messaging security (anti-spam, mail AV).
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ## Fleet Safety Management System
 ## Overview
 
+**Description**
+
+Offers at least one of Driver Status Monitoring system, Blind Spot detection system and Advanced Driver Assistance System.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

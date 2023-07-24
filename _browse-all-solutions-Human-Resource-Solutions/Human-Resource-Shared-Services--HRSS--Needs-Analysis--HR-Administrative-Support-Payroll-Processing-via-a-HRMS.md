@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-
 ## Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS
 ## Overview
 
+**Description**
+
+Review a company's internal HR process, offer a HRMS system and provide HR administrative and payroll processing support such as issuing payslips, ePayment of salaries, leave, attendance and claims.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
