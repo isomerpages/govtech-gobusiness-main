@@ -45,7 +45,12 @@ panels:
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices
         target: _blank
-  - title: For Covid-19
+  - title: Emergency Preparedness
     image: /images/Covid.svg
     alt: ""
-    text-only: Onsite manpower declaration is no longer required.<br><br>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
+    links:
+      - text: Haze
+        href: /haze/?src=eservices
+        is_new: true
+      - text: Covid-19
+        href: /covid/?src=eservices
