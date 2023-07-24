@@ -7,14 +7,37 @@ permalink: /energy-efficiency-grant/solutionrepo/Refrigerator
 
 ### Technical Requirements
 
-Household refrigerator: Minimum 3-ticks and using refrigerant with GWP <= 15
+Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
 
 Commercial refrigerator: Inverter technology
 
 
 ### Pre-Approved Equipment Brands and Models
 
+- A-COOL - 260
+- A-COOL - 2DB
+- A-COOL - 2DBB
+- A-COOL - 2DT
+- A-COOL - 2DTF
+- A-COOL - 2DTT
+- A-COOL - 2SDBB
+- A-COOL - 370
+- A-COOL - 3DB
+- A-COOL - 3DBB
+- A-COOL - 3DT
+- A-COOL - 3DTF
+- A-COOL - 430L
+- A-COOL - 4DT
+- A-COOL - 4DTF
+- A-COOL - 530
+- A-COOL - SDW-200
+- A-COOL - SXS-500Y
+- A-COOL - SXS-700Y
 - ARCTICOOL - ED0.5F-2M
+- ARCTICOOL - ED1.0F-4M
+- ARCTICOOL - ED1200F
+- ARCTICOOL - ED1500F
+- ARCTICOOL - ED1800F
 - Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
 - Bosch - KGN36XI46
@@ -333,6 +356,7 @@ Commercial refrigerator: Inverter technology
 - IISTIA - UF1875A
 - IISTIA - UPC2A
 - IISTIA - UPC4A
+- IISTIA - UPCF2A
 - IISTIA - UPF2A
 - IISTIA - UPF4A
 - INNOTRICS - FD-417BA
@@ -387,6 +411,7 @@ Commercial refrigerator: Inverter technology
 - LG - GS-B6472PZ
 - LG - GS-L6013PZ
 - LG - GT-B3127PZ
+- LG - GT-B3153BN
 - LG - GT-B3302PZ
 - LG - GT-B3722PZ
 - LG - GT-B3952BL
@@ -464,6 +489,8 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-F62EG-ST-P
 - Mitsubishi Electric - MR-F62EG-ST-P1
 - Mitsubishi Electric - MR-F62EG-W-P
+- Mitsubishi Electric - MR-F62ET-BRW-P
+- Mitsubishi Electric - MR-F62ET-ST-P
 - Mitsubishi Electric - MR-FS51ES-BR-P
 - Mitsubishi Electric - MR-FS51ES-SSL-P
 - Mitsubishi Electric - MR-FX47EN-GBK-P
@@ -543,6 +570,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRF-K1563-3B
 - Panasonic - SRF-K1563-3B 
 - Panasonic - SRF-K1563B
+- Panasonic - SRF-K1563SB
 - Panasonic - SRF-K1583B
 - Panasonic - SRF-K1583SB
 - Panasonic - SRF-K1863B
@@ -583,6 +611,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SRR-K1283C2B
 - Panasonic - SRR-K1283CSB
 - Panasonic - SRR-K1283SB
+- Panasonic - SRR-K1561-3B
 - Panasonic - SRR-K1561C2B
 - Panasonic - SRR-K1561CSB
 - Panasonic - SRR-K1561SB
@@ -629,14 +658,24 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUF-1571ES
 - Panasonic - SUF-1861ES
 - Panasonic - SUF-1871ES
+- Panasonic - SUF-DK1261-3
+- Panasonic - SUF-DK1271-3
+- Panasonic - SUF-DK761-3
+- Panasonic - SUF-DK771-3
 - Panasonic - SUF-K1261B
 - Panasonic - SUF-K1261SB
+- Panasonic - SUF-K1261SB-R
 - Panasonic - SUF-K1271B
+- Panasonic - SUF-K1271SB-R
 - Panasonic - SUF-K1561B
 - Panasonic - SUF-K1561SB
+- Panasonic - SUF-K1561SB-R
 - Panasonic - SUF-K1571B
+- Panasonic - SUF-K1571SB-R
 - Panasonic - SUF-K1861SB
+- Panasonic - SUF-K1861SB-R
 - Panasonic - SUF-K1871SB
+- Panasonic - SUF-K1871SB-R
 - Panasonic - SUF-K961B
 - Panasonic - SUF-K971B
 - Panasonic - SUR-1261ES
@@ -647,20 +686,42 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUR-1571ES(E)
 - Panasonic - SUR-1861ES
 - Panasonic - SUR-1871ES
+- Panasonic - SUR-DK1261-3
+- Panasonic - SUR-DK1271-3
+- Panasonic - SUR-DK1661-3
+- Panasonic - SUR-DK1671-3
+- Panasonic - SUR-DK761-3
+- Panasonic - SUR-DK771-3
 - Panasonic - SUR-K1261B
 - Panasonic - SUR-K1261CB
+- Panasonic - SUR-K1261CB-R
 - Panasonic - SUR-K1261SB
+- Panasonic - SUR-K1261SB-R
 - Panasonic - SUR-K1271B
 - Panasonic - SUR-K1271CB
+- Panasonic - SUR-K1271CB-R
+- Panasonic - SUR-K1271SB-R
 - Panasonic - SUR-K1561B
 - Panasonic - SUR-K1561CB
+- Panasonic - SUR-K1561CB-R
 - Panasonic - SUR-K1561SB
+- Panasonic - SUR-K1561SB-R
 - Panasonic - SUR-K1571B
 - Panasonic - SUR-K1571CB
+- Panasonic - SUR-K1571CB-R
+- Panasonic - SUR-K1571SB-R
 - Panasonic - SUR-K1861CSB
+- Panasonic - SUR-K1861CSB-R
 - Panasonic - SUR-K1861SB
+- Panasonic - SUR-K1861SB-R
 - Panasonic - SUR-K1871CSB
+- Panasonic - SUR-K1871CSB-R
 - Panasonic - SUR-K1871SB
+- Panasonic - SUR-K1871SB-R
+- Panasonic - SUR-K2161SB
+- Panasonic - SUR-K2161SB-R
+- Panasonic - SUR-K2171SB
+- Panasonic - SUR-K2171SB-R
 - Ryker - TF24101
 - Samsung - RB34T6054B1
 - Samsung - RF59A70T3S9
@@ -933,20 +994,21 @@ Commercial refrigerator: Inverter technology
 - SOLID COOL - SC-4DT
 - SOLID COOL - SC-4DTF
 - SOLID COOL - SC-530
+- SOLID COOL - SCX1200C2
+- SOLID COOL - SCX1200F2
+- SOLID COOL - SCX1500C2
+- SOLID COOL - SCX1500F2
+- SOLID COOL - SCX1800C3
+- SOLID COOL - SCX1800F3
+- SOLID COOL - SCX2DC
+- SOLID COOL - SCX2DF
+- SOLID COOL - SCX4DC
+- SOLID COOL - SCX4DF
+- SOLID COOL - SCX6DC
+- SOLID COOL - SCX6DF
 - SOLID COOL - SXS-500Y
 - SOLID COOL - SXS-700Y
-- SOLID COOL - UC1275
-- SOLID COOL - UC1575
-- SOLID COOL - UC1875
-- SOLID COOL - UF1275
-- SOLID COOL - UF1575
-- SOLID COOL - UF1875
-- SOLID COOL - UPC2
-- SOLID COOL - UPC4
-- SOLID COOL - UPC6
-- SOLID COOL - UPF2
-- SOLID COOL - UPF4
-- SOLID COOL - UPF6
+- SOLID-COOL - SCX4DCF
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
 - Sub-Zero - ICBBI-36R/S/TH-LH
@@ -965,8 +1027,13 @@ Commercial refrigerator: Inverter technology
 - SunTrump - KJA-FF771
 - SunTrump - KJA-FR1271
 - SunTrump - KJA-FR771
+- Superior - 12060FRNS
 - Superior - 12076FRNS
+- Superior - 15060FRNS
 - Superior - 15076FRNS
+- Superior - 18060FRNS
+- Superior - 18076FRNS
+- Superior - 1GDFRNS
 - Superior - 2DFRNS
 - Superior - 4DFRNS
 - Tecno - TFR 1288-V2
@@ -986,6 +1053,11 @@ Commercial refrigerator: Inverter technology
 - Toshiba - GR-RB410WE-PMX(22)
 - Toshiba - GR-RB410WE-PMX(30)
 - Toshiba - GR-RB410WE-PMX(37)
+- Toshiba - GR-RT559WE-PMX(06S)
+- Toshiba - GR-RT559WE-PMX(21S)
+- Toshiba - GR-RT559WE-PMX(22S)
+- Toshiba - GR-RT559WE-PMX(37S)
+- Toshiba - GR-RT559WE-PMX(57S)
 - Ty Brand - RTGD-1DC-260-IVTH
 - Ty Brand - RTGD-1DC-330-IVTH
 - Ty Brand - RTGD-1DC-IVTH-B
@@ -1009,7 +1081,25 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-022CS-IVTH
 - YUDA - YD-022FS-IVTH
 - YUDA - YD-2GDC-IVT
+- YUDA - YD-2GDF-IVT
+- YUDA - YD-315UC-IVTH
+- YUDA - YD-315UF-IVTH
+- YUDA - YD-31UC-IVTH
+- YUDA - YD-31UF-IVTH
 - YUDA - YD-3GDC-IVT
+- YUDA - YD-3GDF-IVT
+- YUDA - YD-425UC-IVTH
+- YUDA - YD-425UF-IVTH
+- YUDA - YD-42UC-IVTH
+- YUDA - YD-42UF-IVTH
+- YUDA - YD-525UC-IVTH
+- YUDA - YD-525UF-IVTH
+- YUDA - YD-52UC-IVTH
+- YUDA - YD-52UF-IVTH
+- YUDA - YD-625UC-IVTH
+- YUDA - YD-625UF-IVTH
+- YUDA - YD-62UC-IVTH
+- YUDA - YD-62UF-IVTH
 - YUDA - YD-6OPC-IVT
 - Yuda - YD-X50FIF-IVT
 - YUDA - YD-X63FIF-BG-IVT
