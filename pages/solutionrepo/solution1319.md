@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Robot Cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1319
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Robot Cleaner
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

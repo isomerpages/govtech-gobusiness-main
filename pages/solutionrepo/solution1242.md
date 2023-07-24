@@ -1,19 +1,20 @@
 ---
-title: 'Automated Dough Filler/Depositor'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Automated Dough Filler/Depositor
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +25,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
 </tr>
 </table>
 

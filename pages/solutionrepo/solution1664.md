@@ -1,15 +1,15 @@
 ---
-title: 'RAVEPIXEL WEB SUITE Version 8.0'
+title: 'Creative eShop'
 permalink: /productivity-solutions-grant/solutionrepo/solution1664
 ---
 
-## RAVEPIXEL WEB SUITE Version 8.0
+## Creative eShop
 
 ## Overview
 
 **Description**
 
-RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
+Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
-<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Standard</td>
+<td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_RAVEPIXEL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Lite</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 
 ## Vendor Information
 
- Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+ Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

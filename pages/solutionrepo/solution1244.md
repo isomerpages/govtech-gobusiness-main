@@ -1,17 +1,17 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Steel Plate Butt Joint Welding Alignment Tool'
 permalink: /productivity-solutions-grant/solutionrepo/solution1244
 ---
 
-## Automated Tray Sealer
+## Steel Plate Butt Joint Welding Alignment Tool
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $12,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
 </tr>
 </table>
 

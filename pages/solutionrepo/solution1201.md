@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online Accounting Software'
+title: 'ZBD Total Fortified Cyber Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution1201
 ---
 
-## Quickbooks Online Accounting Software
+## ZBD Total Fortified Cyber Security
 
 ## Overview
 
 **Description**
 
-Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
+To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease. 
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$803.48</td>
-<td style='padding: 10px;'>$764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - FortiGate 60F</td>
+<td style='padding: 10px;'>$3,480.00</td>
+<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$3,003.48</td>
-<td style='padding: 10px;'>$2,964.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 80F</td>
+<td style='padding: 10px;'>$4,080.00</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,803.48</td>
-<td style='padding: 10px;'>$3,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 100F</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$5,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,603.48</td>
-<td style='padding: 10px;'>$4,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 200F</td>
+<td style='padding: 10px;'>$8,670.00</td>
+<td style='padding: 10px;'>$7,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,803.48</td>
-<td style='padding: 10px;'>$7,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 40F</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'>$2,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
+ Company name:Zebedee Solution Pte Ltd<br>Web URL: https://zebedee.sg/ <br>Contact Hotline: 82331490 <br>Contact Email: info@zebedee.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

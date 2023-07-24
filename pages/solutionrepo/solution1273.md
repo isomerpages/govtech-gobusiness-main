@@ -1,17 +1,17 @@
 ---
-title: 'Automated Labelling Machine'
+title: 'Automatic Nut Splitter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1273
 ---
 
-## Automated Labelling Machine
+## Automatic Nut Splitter
 
 ## Overview
 
 **Description**
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $7,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

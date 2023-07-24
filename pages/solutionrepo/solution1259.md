@@ -1,22 +1,17 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'Blast Freezer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1259
 ---
 
-## Digital Welding Equipment
+## Blast Freezer
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -27,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
 </tr>
 </table>
 

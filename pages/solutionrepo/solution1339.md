@@ -1,71 +1,38 @@
 ---
-title: 'Managed Firewall Solution'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1339
 ---
 
-## Managed Firewall Solution
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-LGA's Managed Firewall Solution provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance thanks to LGA's fully managed service.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 40F</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 60F</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 80F</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 100F</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 200F</td>
-<td style='padding: 10px;'>$8,860.00</td>
-<td style='padding: 10px;'>$7,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>Minimum Specifications <br>- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br>- Well capacity to be at least 5L<br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:LGA Telecom Pte Ltd<br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

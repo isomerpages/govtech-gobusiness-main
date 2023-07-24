@@ -52,39 +52,39 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution810' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution818' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution851' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution859' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution852' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution860' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1022' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1030' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1445' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1453' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1488' target='_blank'>AIO CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1496' target='_blank'>AIO CRM</a><br></td>
 <td>AIO Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1524' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1532' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1568' target='_blank'>HubSpot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1576' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1573' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1581' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
 <td>Alitec Pte Ltd</td>
 </tr>
 </table>

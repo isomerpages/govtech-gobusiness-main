@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Harvester'
+title: 'Automated Counter/ Biomass Estimation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1287
 ---
 
-## Automatic Harvester
+## Automated Counter/ Biomass Estimation System
 
 ## Overview
 
 **Description**
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+Automatic devices for measuring or estimating the number of produce in a period.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To harvest produce automatically to reduce manual tasks and improve manpower pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

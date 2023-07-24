@@ -1,15 +1,15 @@
 ---
-title: 'Underwater Camera'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1328
 ---
 
-## Underwater Camera
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Underwater cameras to have closer monitoring of the livestock activity in water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

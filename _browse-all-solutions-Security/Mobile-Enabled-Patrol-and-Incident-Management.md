@@ -40,7 +40,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Gabkotech Innovations Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1637' target='_blank'>Armfort Security Workforce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1645' target='_blank'>Armfort Security Workforce</a><br></td>
 <td>ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd</td>
 </tr>
 </table>

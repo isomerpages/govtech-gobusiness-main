@@ -1,15 +1,15 @@
 ---
-title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
+title: 'Sterilizer Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1321
 ---
 
-## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
+## Sterilizer Equipment
 
 ## Overview
 
 **Description**
 
-Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Dosers and sensors or sub-meters for water and energy monitoring of relevant far
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

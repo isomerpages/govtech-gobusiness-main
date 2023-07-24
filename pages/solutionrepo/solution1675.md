@@ -1,15 +1,15 @@
 ---
-title: 'PixelCommerce Version 5.9.3'
+title: 'Fooyo Commerce Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1675
 ---
 
-## PixelCommerce Version 5.9.3
+## Fooyo Commerce Version 2.0
 
 ## Overview
 
 **Description**
 
-PixelCommerce is a tailored eCommerce website solution for SMEs to go online and thrive in the digital economy. Enabling businesses to sell directly to customers anytime, anywhere - effortlessly, PixelCommerce is a proven solution that has been implemented for hundreds of SMEs over the years.
+Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,27 @@ PixelCommerce is a tailored eCommerce website solution for SMEs to go online and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fast</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,488.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lego</td>
-<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
+<td style='padding: 10px;'>$9,588.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
+ Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

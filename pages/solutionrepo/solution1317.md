@@ -1,15 +1,15 @@
 ---
-title: 'Water Filtration System'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1317
 ---
 
-## Water Filtration System
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system for filtration of water used for farming to improve growing conditions,
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

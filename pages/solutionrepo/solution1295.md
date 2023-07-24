@@ -1,15 +1,15 @@
 ---
-title: 'Ear Tagging Machine'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution1295
 ---
 
-## Ear Tagging Machine
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

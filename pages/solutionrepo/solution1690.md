@@ -1,15 +1,15 @@
 ---
-title: 'OOM_Ecommerce_Solution'
+title: '3D Omni Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1690
 ---
 
-## OOM_Ecommerce_Solution
+## 3D Omni Commerce
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
+3D Omni Commerce is an integrated "all-channel" online store, to empower SMEs to streamline business processes and designed to optimize conversions. The solution comprises a professionally designed E-commerce website, with On-Page SEO, Inventory Management, Promotion Management, E-payment gateway integration, CRM, and synchronisation of prices, orders, and inventories to popular Online Marketplaces, such as Shopee and Lazada.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Advance)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Value)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Gold)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PRO</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_OmniCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 
 ## Vendor Information
 
- Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company name:3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

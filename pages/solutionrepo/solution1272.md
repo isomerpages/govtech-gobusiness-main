@@ -1,17 +1,17 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1272
 ---
 
-## Automatic Nut Splitter
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Cost of equipment capped at $7,500 per unit 
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br>- Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

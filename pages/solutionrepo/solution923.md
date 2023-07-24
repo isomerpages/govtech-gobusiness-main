@@ -1,17 +1,15 @@
 ---
-title: 'Million Accounting and Stock Control System Version 3'
+title: 'MTWO Version 5.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
-## Million Accounting and Stock Control System Version 3
+## MTWO Version 5.1
 
 ## Overview
 
 **Description**
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
-
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+MTWO Construction Cloud is an enterprise level platform aiming to help companies in the build environment sector increase efficiency, drive sustainability and ultimately achieve digital transformation. The platform connects all project stakeholders in one platform to enable real-time project control. The platform connects 3D BIM model with 4D project time and 5D project cost to enable time-cost optimization, and execute BIM based tendering and procurement.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,34 @@ Million Accounting supports Multi-Company and Multi-Currency and has four module
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
-<td style='padding: 10px;'>$3,969.00</td>
-<td style='padding: 10px;'>$3,969.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 10-User Package</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (2 Users)</td>
-<td style='padding: 10px;'>$4,969.00</td>
-<td style='padding: 10px;'>$4,969.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO Perpetual 5-User Package</td>
+<td style='padding: 10px;'>$36,750.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (3 Users)</td>
-<td style='padding: 10px;'>$5,969.00</td>
-<td style='padding: 10px;'>$5,969.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (5 Users)</td>
-<td style='padding: 10px;'>$7,269.00</td>
-<td style='padding: 10px;'>$7,269.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (5 Users with Mobile App access)</td>
-<td style='padding: 10px;'>$7,549.00</td>
-<td style='padding: 10px;'>$7,549.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 15-User Package</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg 
+ Web URL: www.mtwocloud.com/demo-request <br>Contact Hotline: 81239954 <br>Contact Email: mtwocloud@rib-software.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

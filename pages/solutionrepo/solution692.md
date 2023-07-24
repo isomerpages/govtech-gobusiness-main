@@ -1,15 +1,15 @@
 ---
-title: 'MEVO DMS 8.3'
+title: 'MetroERP Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution692
 ---
 
-## MEVO DMS 8.3
+## MetroERP Version 1.0
 
 ## Overview
 
 **Description**
 
-Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$13,300.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales Enterprise (10 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 
 ## Vendor Information
 
- Company Name: MEVO Pte Ltd<br>Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

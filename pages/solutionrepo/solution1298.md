@@ -1,15 +1,15 @@
 ---
-title: 'Farm Washing System'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1298
 ---
 
-## Farm Washing System
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-Washing system equipped with a combination of spray nozzles and brushes to wash produce.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Washing system equipped with a combination of spray nozzles and brushes to wash 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

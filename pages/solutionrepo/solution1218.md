@@ -1,39 +1,46 @@
 ---
-title: 'Automated Tools Management System'
+title: 'ZETTAPPS Finance & Order Processing Version 4.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution1218
 ---
 
-## Automated Tools Management System
+## ZETTAPPS Finance & Order Processing Version 4.5
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system. 
- 
-Cost of equipment capped at $28,000 per unit
-
+ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>- Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'>$18,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -41,6 +48,10 @@ Cost of equipment capped at $28,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

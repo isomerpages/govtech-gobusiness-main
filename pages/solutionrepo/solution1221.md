@@ -1,30 +1,64 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'Zoho Workplace PSG Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
-## Autonomous Mobile Robot
+## Zoho Workplace PSG Edition
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+Zoho Workplace by Zoho Corporation.
 
-Cost of equipment capped at $37,500 per unit 
+Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
+
+Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Payload modules to lift trolleys Minimum  150kg load<br>Min. load surface: 720x600mm<br>1-1.2m/s driving with spot turning<br>Battery: Min. 4h, ~8h standby, ~4h charging<br>Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 15 users</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 20 users</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 30 users</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +66,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br><br>Contact Hotline: 67231040 <br><br>Contact Email: sales@zohocorp.com <br><br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

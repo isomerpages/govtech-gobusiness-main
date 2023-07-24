@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Dehusking Machine/ Shaker'
 permalink: /productivity-solutions-grant/solutionrepo/solution1302
 ---
 
-## Humidifier Equipment
+## Dehusking Machine/ Shaker
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting Software'
+title: 'Intelli-Signage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1451
 ---
 
-## AutoCount Accounting Software
+## Intelli-Signage
 
 ## Overview
 
 **Description**
 
-Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
+Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics. Intelli-Signage is a revolutionary digital marketing platform that allowed retail business owner to deploy their new product, promotion campaign and services real-time to attract new customers, as the content design is based on a cloud-based platform and can be directly deployed to any store outlet at any time and any location.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage 1 unit</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'>$4,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anewtech_Systems_Intelli_Signage_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 
 ## Vendor Information
 
- Company Name: Ingenious Business Software Pte Ltd<br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+ Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

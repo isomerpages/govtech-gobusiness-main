@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'MuRho Inventory Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1412
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## MuRho Inventory Management System
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+MuRho is a leading local provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Connect N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 1 (SaaS with hardware)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 2 (SaaS with hardware and API connector)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack 3 (Perpetual License on cloud with hardware) </td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

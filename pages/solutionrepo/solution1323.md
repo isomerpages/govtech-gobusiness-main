@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Vacuum Cooler Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
-## HVAC system
+## Vacuum Cooler Equipment
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
