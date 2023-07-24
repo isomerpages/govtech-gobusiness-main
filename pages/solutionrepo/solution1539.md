@@ -1,15 +1,15 @@
 ---
-title: 'DM Supermom Digital Marketing Packages'
+title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1539
 ---
 
-## DM Supermom Digital Marketing Packages
+## Weebo Digital Ordering Solution Version 3.2.9.0
 
 ## Overview
 
 **Description**
 
-Supermom provides effective digital marketing solutions for SME clients that are in trend with best practices of digital marketing efforts to reach target customers. These services range from lead generation campaigns to build first party data CRM, curated survey insights to better understand customers, influencer marketing to tap on the power of word of mouth marketing as well as email marketing. All packages include social media advertising services to enable maximum reach to target audience.
+Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,34 @@ Supermom provides effective digital marketing solutions for SME clients that are
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SI + SMA [3 Months]</td>
-<td style='padding: 10px;'>$8,620.00</td>
-<td style='padding: 10px;'>$8,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - EM + SMA [3 Months]</td>
-<td style='padding: 10px;'>$9,470.00</td>
-<td style='padding: 10px;'>$9,470.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - IM + SMA [3 Months]</td>
-<td style='padding: 10px;'>$10,540.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - LG + SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,720.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:welovesupermom pte ltd<br>Web URL: WWW.WELOVESUPERMOM.COM <br>Contact Hotline: 91071849<br>Contact Email: INFO@WELOVESUPERMOM.COM
+ Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

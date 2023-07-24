@@ -1,15 +1,15 @@
 ---
-title: 'Xero'
+title: 'DM Supermom Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
-## Xero
+## DM Supermom Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software which allow multiple users to log into the system at the same time, anytime, anywhere and on any device to view and perform transactions. Bank transactions can be fed directly into Xero daily so that cash position, receivables and payables can be kept accurate and updated. OCR technology enables bills and receipts to be pulled into Xero automatically.  Xero simplify accounting and free up time for the more important task of doing beautiful business.
+Supermom provides effective digital marketing solutions for SME clients that are in trend with best practices of digital marketing efforts to reach target customers. These services range from lead generation campaigns to build first party data CRM, curated survey insights to better understand customers, influencer marketing to tap on the power of word of mouth marketing as well as email marketing. All packages include social media advertising services to enable maximum reach to target audience.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,31 @@ Xero is a cloud-based accounting software which allow multiple users to log into
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Lite</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SI + SMA [3 Months]</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Basic</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - EM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Standard</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$4,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - IM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$10,540.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premium</td>
-<td style='padding: 10px;'>$6,464.00</td>
-<td style='padding: 10px;'>$6,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - LG + SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ Xero is a cloud-based accounting software which allow multiple users to log into
 
 ## Vendor Information
 
- Company name:RDC CORPORATE PTE LTD<br>Web URL: www.xero.com/sg/ <br>Contact Hotline: 62235466 <br>Contact Email: support@rdccorporate.com 
+ Company name:welovesupermom pte ltd<br>Web URL: WWW.WELOVESUPERMOM.COM <br>Contact Hotline: 91071849<br>Contact Email: INFO@WELOVESUPERMOM.COM
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

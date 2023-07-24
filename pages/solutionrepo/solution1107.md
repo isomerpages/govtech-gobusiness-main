@@ -1,15 +1,16 @@
 ---
-title: 'WarelyEcom Version 1.3'
+title: 'U Ventures XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 
-## WarelyEcom Version 1.3
+## U Ventures XERO
 
 ## Overview
 
 **Description**
 
-WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
+XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
+is doing at any given time.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +24,10 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Express</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WarelyEcom Version 1.3 - Premium</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +37,7 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 
 ## Vendor Information
 
- Company Name: Plus 65 Marketing Pte Ltd<br>Web URL: https://warelycorp.com/<br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
+ Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

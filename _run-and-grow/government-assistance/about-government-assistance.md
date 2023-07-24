@@ -21,7 +21,7 @@ Find out with e-Adviser for Government Assistance, a free online tool to help yo
 </p>
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist
+https://eadviser.gobusiness.gov.sg/govassist?src=about_govassist
 " type="primary" %}
 
 ### Types of assistance schemes

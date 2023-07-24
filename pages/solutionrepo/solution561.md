@@ -1,15 +1,20 @@
 ---
-title: 'QuickHR (eScheduling)'
+title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution561
 ---
 
-## QuickHR (eScheduling)
+## (A.I.) INFO-TECH Cloud HRMS Version 8.0
 
 ## Overview
 
 **Description**
 
-Designed with security, stability and scalability in mind, QuickHR eScheduling enables businesses to efficiently manage attendance, overtime, timesheets, rosters/ shifts and schedules through an automated experience with built-in QuickHR HRMS Integration. QuickHR eScheduling is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based eScheduling provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
+
+1. Transforming HR Software to Cloud
+2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
+3. Help HR handle company's compliance challenges and better manage resources.
+4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +28,48 @@ Designed with security, stability and scalability in mind, QuickHR eScheduling e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START ESCH (25 Headcounts)</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT ESCH (50 Headcounts)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING ESCH (100 Headcounts)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE ESCH (150 Headcounts)</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
+<td style='padding: 10px;'>$25,300.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR ESCH (200 Headcounts)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
+<td style='padding: 10px;'>$32,700.00</td>
+<td style='padding: 10px;'>$30,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

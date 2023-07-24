@@ -1,17 +1,28 @@
 ---
-title: 'DM Verz Design Digital Marketing Package'
+title: 'Daisy XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
-## DM Verz Design Digital Marketing Package
+## Daisy XERO Accounting Software
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
-The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
-The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
+All-in-one online accounting software
+Run customer's business on Xero's fast, simple, powerful online accounting software.
+
+Everything in one place
+See the invoices, contacts and accounts online.
+
+Connect to the bank
+Easily sync bank and financial information.
+
+Collaborate in real time
+Invite customer's advisor in, and work together anywhere.
+
+Customise to suit customer's needs
+Xero can connect with other apps.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +36,38 @@ The packages that range from 3-months to 6-months provides flexibility to busine
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training</td>
+<td style='padding: 10px;'>$2,280.00</td>
+<td style='padding: 10px;'>$2,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (6 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training + Migration</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,145.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (6 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,200.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +77,7 @@ The packages that range from 3-months to 6-months provides flexibility to busine
 
 ## Vendor Information
 
- Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
+ Company name:Daisy Consultants Pte Ltd<br>Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
+title: 'Profectant Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution839
 ---
 
-## Job Redesign Consultancy - KLC International Institute Pte Ltd
+## Profectant Xero
 
 ## Overview
 
 **Description**
 
-KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
+Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ KLC International Institute (KLCII) is a human capital development organisation.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: KLC International Institute Pte Ltd <br>Web URL: https://klc.edu.sg/ <br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
+ Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

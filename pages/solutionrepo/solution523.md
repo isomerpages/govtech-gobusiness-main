@@ -1,15 +1,15 @@
 ---
-title: 'ABSS(MYOB) Premier'
+title: 'HRM Labs Shared Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution523
 ---
 
-## ABSS(MYOB) Premier
+## HRM Labs Shared Service
 
 ## Overview
 
 **Description**
 
-E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package A - Software (1 User)</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 15 Headcount</td>
+<td style='padding: 10px;'>$4,330.00</td>
+<td style='padding: 10px;'>$4,330.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package B - Software & Training (1 User)</td>
-<td style='padding: 10px;'>$2,623.00</td>
-<td style='padding: 10px;'>$2,303.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 30 Headcount</td>
+<td style='padding: 10px;'>$8,660.00</td>
+<td style='padding: 10px;'>$8,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package C - Software (3 Users)</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 50 Headcount</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package D - Software & Training (3 Users)</td>
-<td style='padding: 10px;'>$3,937.00</td>
-<td style='padding: 10px;'>$3,617.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 100 Headcount</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ABSS(MYOB) Premier - Package E - Software, Remote Access & Training (3 Users)</td>
-<td style='padding: 10px;'>$4,956.00</td>
-<td style='padding: 10px;'>$4,636.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_click_Desensitised_Annex_3_21_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 200 Headcount</td>
+<td style='padding: 10px;'>$29,760.00</td>
+<td style='padding: 10px;'>$29,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 
 ## Vendor Information
 
- Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
+ Company Name: Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@hrmlabs.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

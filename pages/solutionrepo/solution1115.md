@@ -1,15 +1,18 @@
 ---
-title: 'Profectant Xero'
+title: 'QuickBooks Online Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1115
 ---
 
-## Profectant Xero
+## QuickBooks Online Version 1
 
 ## Overview
 
 **Description**
 
-Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
+1) Quick setup & onboarding with in accordance to clients' specific workflows.
+2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
+3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
+4) Efficient processing & recording of expenses claims into QuickBooks Online.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +26,48 @@ Profectant has established a sound track record in simplifying and implementing 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Basic</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,168.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Advance</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'>$4,468.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
+<td style='padding: 10px;'>$5,580.00</td>
+<td style='padding: 10px;'>$4,768.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Advance</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'>$5,568.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
+ Company Name: Value Consultancy (Singapore) Pte. Ltd.<br>Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

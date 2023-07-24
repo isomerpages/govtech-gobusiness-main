@@ -1,30 +1,53 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'Aptsys - Digital Ordering Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1623
 ---
 
-## Autonomous Mobile Robot
+## Aptsys - Digital Ordering Solutions
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
+Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Payload modules to lift trolleys Minimum  150kg load<br>Min. load surface: 720x600mm<br>1-1.2m/s driving with spot turning<br>Battery: Min. 4h, ~8h standby, ~4h charging<br>Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Customer Relation Management System Version 2.0</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +55,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
