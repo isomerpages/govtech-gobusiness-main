@@ -160,11 +160,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1768' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1764' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
 <td>Databit Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1789' target='_blank'>SAGE 300</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1785' target='_blank'>SAGE 300</a><br></td>
 <td>SEG IT Services Pte Ltd</td>
 </tr>
 </table>

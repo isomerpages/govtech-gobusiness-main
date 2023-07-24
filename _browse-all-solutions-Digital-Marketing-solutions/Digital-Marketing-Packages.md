@@ -240,11 +240,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NBT DIGITAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1815' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1811' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br></td>
 <td>Ice Cube Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1825' target='_blank'>DM MediaPlus Digital Marketing Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1821' target='_blank'>DM MediaPlus Digital Marketing Package</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
 </table>

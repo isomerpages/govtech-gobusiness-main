@@ -1,6 +1,6 @@
 ---
 title: 'LFSuite'
-permalink: /productivity-solutions-grant/solutionrepo/solution1810
+permalink: /productivity-solutions-grant/solutionrepo/solution1806
 ---
 
 ## LFSuite

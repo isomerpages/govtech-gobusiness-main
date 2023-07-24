@@ -1,6 +1,6 @@
 ---
 title: 'ABSS(MYOB) Premier'
-permalink: /productivity-solutions-grant/solutionrepo/solution1746
+permalink: /productivity-solutions-grant/solutionrepo/solution1745
 ---
 
 ## ABSS(MYOB) Premier

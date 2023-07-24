@@ -1,6 +1,6 @@
 ---
 title: 'DST E-Commerce'
-permalink: /productivity-solutions-grant/solutionrepo/solution1823
+permalink: /productivity-solutions-grant/solutionrepo/solution1819
 ---
 
 ## DST E-Commerce

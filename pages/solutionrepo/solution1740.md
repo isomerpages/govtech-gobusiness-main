@@ -1,6 +1,6 @@
 ---
 title: 'CFOsg XERO Cloud Accounting'
-permalink: /productivity-solutions-grant/solutionrepo/solution1741
+permalink: /productivity-solutions-grant/solutionrepo/solution1740
 ---
 
 ## CFOsg XERO Cloud Accounting

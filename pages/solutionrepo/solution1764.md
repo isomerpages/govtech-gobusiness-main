@@ -1,6 +1,6 @@
 ---
 title: 'Sage 300 InvoiceNOW'
-permalink: /productivity-solutions-grant/solutionrepo/solution1768
+permalink: /productivity-solutions-grant/solutionrepo/solution1764
 ---
 
 ## Sage 300 InvoiceNOW

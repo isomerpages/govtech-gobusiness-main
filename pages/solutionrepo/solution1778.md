@@ -1,6 +1,6 @@
 ---
 title: 'iLOGON (iWMS)'
-permalink: /productivity-solutions-grant/solutionrepo/solution1782
+permalink: /productivity-solutions-grant/solutionrepo/solution1778
 ---
 
 ## iLOGON (iWMS)

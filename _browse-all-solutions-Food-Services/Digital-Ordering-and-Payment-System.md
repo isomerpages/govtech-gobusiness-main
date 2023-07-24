@@ -116,19 +116,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NSTORY PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1799' target='_blank'>Revel Systems Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1795' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1803' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1799' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1810' target='_blank'>LFSuite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1806' target='_blank'>LFSuite</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1814' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
 </table>

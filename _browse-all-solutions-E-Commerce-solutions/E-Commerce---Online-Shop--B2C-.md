@@ -64,12 +64,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SUNPRO INNO APPS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1661' target='_blank'>Athena E-store Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1662' target='_blank'>Athena E-store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1663' target='_blank'>Cub3commerce</a><br></td>
-<td>DUCB3 PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1664' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
@@ -164,15 +160,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Websentials Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1802' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1798' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
 <td>ZIPPY SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1808' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1804' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1823' target='_blank'>DST E-Commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1819' target='_blank'>DST E-Commerce</a><br></td>
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 </table>

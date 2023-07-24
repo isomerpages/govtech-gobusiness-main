@@ -1,6 +1,6 @@
 ---
 title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
-permalink: /productivity-solutions-grant/solutionrepo/solution1818
+permalink: /productivity-solutions-grant/solutionrepo/solution1814
 ---
 
 ## AZ DIGITAL ORDERING SOLUTION Version 1.0

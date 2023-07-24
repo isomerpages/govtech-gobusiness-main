@@ -36,7 +36,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PORTNET.COM PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1777' target='_blank'>goTruck!Hub</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1773' target='_blank'>goTruck!Hub</a><br></td>
 <td>GoTruck Pte Ltd</td>
 </tr>
 </table>

@@ -42,34 +42,6 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 <td style='padding: 10px;'>$5,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$5,898.00</td>
-<td style='padding: 10px;'>$5,898.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_E_Commerce_MPD _Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
-<td style='padding: 10px;'>$8,975.00</td>
-<td style='padding: 10px;'>$8,975.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_E_Commerce_MPD _Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Elite</td>
-<td style='padding: 10px;'>$9,985.00</td>
-<td style='padding: 10px;'>$9,985.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_E_Commerce_MPD _Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

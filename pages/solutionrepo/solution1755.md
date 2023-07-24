@@ -1,6 +1,6 @@
 ---
 title: 'Moneyworks Version 9'
-permalink: /productivity-solutions-grant/solutionrepo/solution1759
+permalink: /productivity-solutions-grant/solutionrepo/solution1755
 ---
 
 ## Moneyworks Version 9
