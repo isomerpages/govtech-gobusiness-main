@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Digital-Marketing-solutions/Digital-Marketing-P
 ## Digital Marketing Packages
 ## Overview
 
+**Description**
+
+Offers a company the ability to onboard digital marketing packages such as Search Engine Optimisation (SEO), Search Engine Marketing (SEM), Social Media Marketing (SMM) to improve revenue, branding and etc.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

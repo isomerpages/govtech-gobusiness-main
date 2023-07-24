@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Document-Management-and-Mobile-Access-System/Do
 ## Document Management and Mobile Access System
 ## Overview
 
+**Description**
+
+Ability to synchronize digital documents across multiple sites, create user permissions, provide search, audit trail and data backup capabilities.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs

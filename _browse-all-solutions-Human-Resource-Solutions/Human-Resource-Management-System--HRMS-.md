@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Managem
 ## Human Resource Management System (HRMS)
 ## Overview
 
+**Description**
+
+Manage a company’s employee records in all the key HR administrative areas such as personnel management, payroll, leave, employee benefits, employee claims and appraisal.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
