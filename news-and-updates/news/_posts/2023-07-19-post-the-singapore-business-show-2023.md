@@ -16,7 +16,7 @@ After a well-received debut in 2022, GoBusiness is back for the second edition o
 
 The Singapore Business Show aims to help SMEs and start-ups take their business to the next level by gathering and showcasing the knowledge and services of business experts and leaders. This year, the event will bring together over 300 exhibitors including GoBusiness.
 
-Meet the GoBusiness team Booth 1033 to learn more about the one-stop government platform and its functions. The team will also be on hand to do live demonstrations and answer queries.
+Meet the GoBusiness team at **Booth 1033** to learn more about the one-stop government platform and its functions. The team will also be on hand to do live demonstrations and answer queries.
 
 In addition, visitors can also find out more at the keynote speech by GoBusiness lead product manager, Zhuo Shaowei, where he will share about how GoBusiness’ features help users start, run and grow a business. 
 
