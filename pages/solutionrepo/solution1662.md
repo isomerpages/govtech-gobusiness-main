@@ -1,15 +1,15 @@
 ---
-title: 'DM NBT Digital Performance Marketing Package'
+title: 'Athena E-store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1662
 ---
 
-## DM NBT Digital Performance Marketing Package
+## Athena E-store Solution
 
 ## Overview
 
 **Description**
 
-NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that specialises in providing search engine marketing and social media marketing solutions for SMEs. NBT Digital works closely with clients to identify specific business needs and tailor a business strategy that best works for them.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that spec
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM [6 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NBT_DIGITAL_DM_NBT_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_Estore_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_Estore_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: NBT DIGITAL PTE LTD<br>Web URL: nbtdigital.com.sg <br>Contact Hotline: 81894766 <br>Contact Email: jay@nbtdigital.com.sg <br>
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL:https://cleverly.sg/<br>Contact Hotline: 8866 3438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

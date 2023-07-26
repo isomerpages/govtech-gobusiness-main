@@ -1,15 +1,15 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'LED grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution1324
 ---
 
-## Farm Produce Washing Machine
+## LED grow lights
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+LED grow lights with smart dynamic lighting control to help plants grow.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

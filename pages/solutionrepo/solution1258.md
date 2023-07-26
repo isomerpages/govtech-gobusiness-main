@@ -1,20 +1,15 @@
 ---
-title: 'Dough Sheeter'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1258
 ---
 
-## Dough Sheeter
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
-
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
-
-Cost of equipment capped at $20,000 per unit
-
+Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 
 ## Solution Packages Option(s)
 
@@ -25,9 +20,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

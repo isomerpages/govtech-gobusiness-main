@@ -1,15 +1,15 @@
 ---
-title: 'Intuit Quickbooks Online Full Transformation Packages'
+title: 'AutoCount Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1730
 ---
 
-## Intuit Quickbooks Online Full Transformation Packages
+## AutoCount Accounting
 
 ## Overview
 
 **Description**
 
-Quickbooks Online is a user-friendly accounting solution and is able to track sales, expenses and profit or by classes, projects, and locations. The solution can generate digital sales quotations and sales invoices and can track and manage Goods and Services Tax (GST) with customized IRAS Form F5.
+AutoCount possess more than 25 years software development experience. Its main business is to develop and provide high quality accounting software as well as other business applications to small and medium sized enterprises. As at today, AutoCount Accounting have been the preferred choices of most SMEs in Malaysia and its surrounding countries. More than 200,000 companies and 600,000 users of various industries/sectors
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Quickbooks Online is a user-friendly accounting solution and is able to track sa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Plan</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (1 Users) </td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plan </td>
-<td style='padding: 10px;'>$3,564.00</td>
-<td style='padding: 10px;'>$3,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (3 Users) </td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business</td>
-<td style='padding: 10px;'>$5,664.00</td>
-<td style='padding: 10px;'>$5,664.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (5 Users)</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business - With Customised Training</td>
-<td style='padding: 10px;'>$6,864.00</td>
-<td style='padding: 10px;'>$6,864.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (8 Users)  </td>
+<td style='padding: 10px;'>$12,820.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Small Business - With Customised Training</td>
-<td style='padding: 10px;'>$9,264.00</td>
-<td style='padding: 10px;'>$9,264.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (15 Users) </td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Quickbooks Online is a user-friendly accounting solution and is able to track sa
 
 ## Vendor Information
 
- Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
+ Web URL: http://autocountsoft.com.sg/autocount-accounting/ <br><br>Contact Hotline: 6583219689 <br><br>Contact Email: sales.sg@autocountsoft.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

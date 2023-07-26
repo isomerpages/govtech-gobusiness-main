@@ -1,15 +1,15 @@
 ---
-title: 'Culture Tank System with Monitoring and Control System'
+title: 'Hi-jack Cleaning Machinery'
 permalink: /productivity-solutions-grant/solutionrepo/solution1301
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Hi-jack Cleaning Machinery
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Cultivation system with monitoring and control system
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hi-jack Cleaning Machinery</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,20 +1,15 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'Automatic Flow Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1267
 ---
 
-## Digital Welding Equipment
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
 Cost of equipment capped at $37,500 per unit
 
@@ -27,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 
