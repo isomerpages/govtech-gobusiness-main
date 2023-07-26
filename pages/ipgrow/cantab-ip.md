@@ -15,7 +15,8 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
 
-<b>Intellectual property awards received:</b> IAM Patent 1000
+<b>Intellectual property awards received:</b> Patent Law Firm of the Year in Singapore 2014 ;
+2011 Singapore Boutique IP Law Firm of the Year Award
 
 <b>Type of organization:</b> SME
 
@@ -144,6 +145,11 @@ We're proud to have worked with some of the  most innovative companies in the Un
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Due Diligence
 - Certifications/Qualifications: European Patent Attorney, Chartered Patent Attorney (United Kingdom), Intellectual Property Litigation Certificate (United Kingdom), Registered Singapore Patent Agent, PhD (Cambridge University) Double First Class Honours degree in Natural Sciences from Queens' College
+- Awards/Accolades: The World's Leading Patent Practitioners 2018 - Intellectual Asset Magazine's IAM Patent 1000 2018 edition ;
+The World's Leading Patent Practitioners 2017 - Intellectual Asset Magazine's IAM Patent 1000 2017 edition ;
+The World's Leading Patent Practitioners 2016 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2016 edition ; 
+The World's Leading Patent Practitioners 2015 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2015 edition ; 
+The World's Leading Patent Practitioners 2014 - Recommended for patent prosecution in Singapore - Intellectual Asset Magazine's IAM Patent 1000 2014 edition  
 - URL of LinkedIn/Company Profile: <a href="https://www.cantab-ip.com/people/chong-yee-khoo" target="_blank" rel="noopener">https://www.cantab-ip.com/people/chong-yee-khoo</a>
 
 ---
