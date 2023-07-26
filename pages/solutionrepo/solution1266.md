@@ -9,7 +9,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1266
 
 **Description**
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
+
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 

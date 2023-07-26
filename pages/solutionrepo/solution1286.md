@@ -1,15 +1,15 @@
 ---
-title: 'Aeration System/ Oxygenation System'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1286
 ---
 
-## Aeration System/ Oxygenation System
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

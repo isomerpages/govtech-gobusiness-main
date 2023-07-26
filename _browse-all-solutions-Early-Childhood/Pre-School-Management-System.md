@@ -32,11 +32,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution658' target='_blank'>LittleLives 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution655' target='_blank'>LittleLives 4.5</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1476' target='_blank'>BridgED Version 4.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1468' target='_blank'>BridgED Version 4.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
 </table>

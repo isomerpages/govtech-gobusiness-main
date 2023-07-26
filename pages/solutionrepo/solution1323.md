@@ -1,15 +1,15 @@
 ---
-title: 'Vacuum Cooler Equipment'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
-## Vacuum Cooler Equipment
+## HVAC system
 
 ## Overview
 
 **Description**
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that rapidly cools from produce to extend shelf life and be more energy
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
