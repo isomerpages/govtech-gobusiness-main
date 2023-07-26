@@ -1,15 +1,15 @@
 ---
-title: 'Invisiron Cyber Defence'
+title: 'DM IPRO Dezign Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution604
 ---
 
-## Invisiron Cyber Defence
+## DM IPRO Dezign Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] The digital marketing solutions could help SMEs to achieve 50-80% improvement in brand exposure, lead generation and sales conversion on digital channels, including Social Media (Facebook & Instagram) and Search Engine (Google organic search & Ads). The solutions cover objective definition to market research, strategy development & execution, as well as review & improvement. To ensure sustainability, training will be provided to equip SMEs with the right mindset and skills in digital marketing.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Invisiron's UTM solution mitigates cyber-attacks automatically and is able to de
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 1 - (SEM + SMA) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 2 - (SEO + SMA) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 3 - (SEO + SEM) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Invisiron's UTM solution mitigates cyber-attacks automatically and is able to de
 
 ## Vendor Information
 
- Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
+ Company Name: IPRO DEZIGN PTE LTD<br>Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br><br>Contact Hotline: 69147727 <br><br>Contact Email: admin@iprodezign.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
