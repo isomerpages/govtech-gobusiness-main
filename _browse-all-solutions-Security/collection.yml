@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
+      - Mobile-Enabled-Patrol-and-Incident-Management.md
+      - Automated-Visitor-Management.md

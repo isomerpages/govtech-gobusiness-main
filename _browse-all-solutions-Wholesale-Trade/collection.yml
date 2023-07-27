@@ -3,5 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
-      - Unified-Threat-Management.md
+      - Sales-Management.md
+      - Inventory-Management-System.md
+      - Enterprise-Resource-Planning--ERP--Software-for-Wholesale.md
+      - General-Wholesale-Trade-Equipment.md

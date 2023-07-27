@@ -56,6 +56,41 @@ Taidii is a company providing integrated solution to all the educational institu
 <td style='padding: 10px;'>$11,600.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Desensitised_Taidii_(PMS_+_E-form)_Annex_3_CR_wef_23_Dec_2021_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$9,050.00</td>
+<td style='padding: 10px;'>$9,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$10,050.00</td>
+<td style='padding: 10px;'>$10,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$11,050.00</td>
+<td style='padding: 10px;'>$11,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

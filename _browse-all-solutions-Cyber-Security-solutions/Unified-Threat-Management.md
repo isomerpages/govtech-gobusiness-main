@@ -6,11 +6,28 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 ## Unified Threat Management
 ## Overview
 
+**Description**
+
+Unified Threat Management (UTM) is a converged platform of point security products, particularly suited to small and middle-sized businesses. 
+
+Typical feature sets fall into three main subsets: 
+(a) firewall/intrusion prevention system (IPS)/virtual private network; 
+(b) secure Web gateway security (URL filtering, Web antivirus [AV]); and 
+(c) messaging security (anti-spam, mail AV).
+
 **Support Level and Conditions**
 
-Up to 70% for SMEs, 70% for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
+This solution is supported by Enterprise Singapore (EnterpriseSG).
+
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500905'  target='_blank' rel='noopener'>1. Demonstrate Secure Use of IT</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021002154'  target='_blank' rel='noopener'>2. Fundamentals of Cyber Security</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021010360'  target='_blank' rel='noopener'>3. NICF - Certified Network Defender</a><br>
 
 ## Pre-Approved Solutions
 
@@ -20,68 +37,64 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution139' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
-<td>Aon Solutions Singapore Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution135' target='_blank'>Firewalla Gold Package</a><br></td>
+<td>Anzen Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution186' target='_blank'>Job Redesign Consultancy - BDO Consultants Pte Ltd</a><br></td>
-<td>BDO Consultants Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution297' target='_blank'>Fortigate Firewall for IT Security or VPN - CARE IT</a><br></td>
+<td>Computer Analysts and Recovery Experts Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution242' target='_blank'>Job Redesign Consultancy - Cadence Group Pte Ltd</a><br></td>
-<td>Cadence Group Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution410' target='_blank'>Eminet Sophos XGS Firewall</a><br></td>
+<td>EMINET PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution262' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd </a><br></td>
-<td>CET Global Pte Ltd </td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution601' target='_blank'>Invisiron Cyber Defence</a><br></td>
+<td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution431' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br></td>
-<td>EON Consulting & Training Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution617' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution439' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
-<td>Ernst & Young Advisory Pte Ltd </td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution734' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br></td>
+<td>Network Box (Sin) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution633' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
-<td>KLC International Institute Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution772' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br></td>
+<td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution639' target='_blank'>Job Redesign Consultancy - KPMG Services Pte Ltd.</a><br></td>
-<td>KPMG Services Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution857' target='_blank'>Firewall Security Protection</a><br></td>
+<td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution646' target='_blank'>Job Redesign Consultancy - LiT Strategy Pte Ltd</a><br></td>
-<td>LIT STRATEGY PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution938' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
+<td>Roycemedia Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution683' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
-<td>Mercer (Singapore) Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution960' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
+<td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution771' target='_blank'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</a><br></td>
-<td>NTUC LearningHub Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution948' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
-<td>SFIC Institute Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1339' target='_blank'>Managed Firewall Solution</a><br></td>
+<td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution958' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
-<td>Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1407' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution959' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
-<td>Singapore Productivity Centre Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1760' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution970' target='_blank'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</a><br></td>
-<td>Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1167' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </a><br></td>
-<td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1828' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td>Nucleo Consulting Pte Ltd</td>
 </tr>
 </table>
 

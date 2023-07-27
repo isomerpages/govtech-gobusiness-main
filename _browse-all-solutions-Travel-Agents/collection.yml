@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
+      - Travel-Management-System--E-Commerce-.md
+      - Travel-Management-System--Operations-.md

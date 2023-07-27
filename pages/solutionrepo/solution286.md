@@ -28,41 +28,6 @@ Qoqolo is a School Management System with a full suite of digital services: stud
 <td style='padding: 10px;'>$1,680.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

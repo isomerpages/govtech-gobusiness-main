@@ -3,5 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
-      - Unified-Threat-Management.md
+      - Workforce-Management.md
+      - Project-Management-System.md
+      - 3-in-1-ERP-solution.md
+      - General-Engineering-Services-Equipment.md

@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Unified-Threat-Management.md
+      - Document-Management-and-Transaction-Records-Submission-for-Estate-Agents.md
+      - Document-Management-for-Estate-Agents.md
