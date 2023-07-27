@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Manufacturing-Quality-Management.md
-      - Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-.md
-      - General-Advanced-Manufacturing-Equipment.md
+      - Unified-Threat-Management.md
+      - Unified-Threat-Management.md

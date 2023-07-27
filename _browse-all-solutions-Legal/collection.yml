@@ -3,6 +3,4 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Practice-Management-System.md
-      - Matter-Management-and-Collaboration-Tool.md
-      - Document-Management-System.md
+      - Unified-Threat-Management.md

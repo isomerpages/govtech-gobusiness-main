@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Digital-Ordering-and-Payment-System.md
-      - B2B-Marketplace-E-Procurement-System.md
-      - General-Food-Services-Equipment.md
+      - Unified-Threat-Management.md
+      - Unified-Threat-Management.md
