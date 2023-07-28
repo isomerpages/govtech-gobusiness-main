@@ -59,6 +59,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1023' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
 <td>Techfount Systems Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1790' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
+<td>Juss Solutions Group Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

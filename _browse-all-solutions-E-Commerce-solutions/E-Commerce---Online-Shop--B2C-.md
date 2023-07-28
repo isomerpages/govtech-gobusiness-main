@@ -171,6 +171,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1819' target='_blank'>DST E-Commerce</a><br></td>
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1826' target='_blank'>Athena E-Store Solution</a><br></td>
+<td>Cleverly SG Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
