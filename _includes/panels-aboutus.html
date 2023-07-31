@@ -46,20 +46,20 @@
         align-self: stretch;
     }
 
-    .content .panel .panel-second-description {
-        display: grid;
-        font-family: hknova-regular;
-        font-size: 18px;
-        margin: 0 29px 0px 29px;
-        align-self: stretch;
-    }
-
     .content .panel .panel-second-title {
         display: grid;
         font-family: hknova-regular;
         font-size: 18px;
         font-weight: bold;
         margin: 10px 29px 0px 29px;
+    }
+
+    .content .panel .panel-second-description {
+        display: grid;
+        font-family: hknova-regular;
+        font-size: 18px;
+        margin: 0 29px 0px 29px;
+        align-self: stretch;
     }
 
     .content .panel .panel-links-container {
@@ -78,6 +78,11 @@
         line-height: 27px;
         color: #647283;
         text-decoration: none;
+    }
+
+    .content .panel .panel-links-container {
+        margin-top: 0rem;
+        align-self: start;
     }
 
     .sameLine {
@@ -118,13 +123,13 @@
         <hr style="width:100%;text-align:left;margin:0">
         <div class="panel-links-container">
             {% if panel.call %}
-            <p><strong>Call:</strong><a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
+            <p class = "links-container"><strong>Call:</strong><a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
-            <p><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}" class="sameLine">{{ panel.contactForm }}</a></p>
+            <p class = "links-container"><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}" class="sameLine">{{ panel.contactForm }}</a></p>
             {% endif %}
             {% if panel.email %}
-            <p><strong>Email:</strong> <a href="mailto:{{ email }}" class="sameLine">{{ panel.email }}</a></p>
+            <p class = "links-container"><strong>Email:</strong> <a href="mailto:{{ email }}" class="sameLine">{{ panel.email }}</a></p>
             {% endif %}
         </div>
         {% endif %}
