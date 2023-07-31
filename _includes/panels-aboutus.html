@@ -60,7 +60,6 @@
         font-size: 18px;
         margin: 0 29px 0px 29px;
         align-self: stretch;
-        margin-bottom: 1em;
     }
 
     .content .panel .panel-second-title {
@@ -93,6 +92,11 @@
         color: #647283;
         text-decoration: none;
     }
+
+    .sameLine {
+        display: inline; 
+    }
+
     
     @media (max-width: 600px) {
         .content .panels {
@@ -171,13 +175,13 @@
         <div class="panel-links-container">
             <hr style="width:100%;text-align:left;margin:0">
             {% if panel.call %}
-            <p class="contacts-link"><strong>Call:</strong> <a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
+            <p class="contacts-link"><strong>Call:</strong><a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
-            <p class="contacts-link" ><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
+            <p class="contacts-link" ><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}" class="sameLine">{{ panel.contactForm }}</a></p>
             {% endif %}
             {% if panel.email %}
-            <p class="contacts-link"><strong>Email:</strong> <a href="mailto:{{ email }}">{{ panel.email }}</a></p>
+            <p class="contacts-link"><strong>Email:</strong> <a href="mailto:{{ email }}" class="sameLine">{{ panel.email }}</a></p>
             {% endif %}
         </div>
         {% endif %}
