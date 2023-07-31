@@ -42,7 +42,7 @@ We are able to assist to estimate the value of the following intellectual proper
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 46 to 50</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $15,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  15000</li>
 </ul>
 
 ---
