@@ -43,7 +43,7 @@
         font-family: hknova-regular;
         font-size: 18px;
         margin: 0 29px 0px 29px;
-        align-self: stretch;
+        align-items: stretch;
     }
 
     .content .panel .panel-second-title {
@@ -52,7 +52,7 @@
         font-size: 18px;
         font-weight: bold;
         margin: 10px 29px 0px 29px;
-        align-self:start;
+        align-items:start;
     }
 
     .content .panel .panel-second-description {
@@ -60,9 +60,9 @@
         font-family: hknova-regular;
         font-size: 18px;
         margin: 0 29px 0px 29px;
-        align-self: stretch;
+        align-items: stretch;
     }
-    
+
     .content .panel .lineDivider {
         display:inline;
     }
@@ -71,7 +71,7 @@
         display: grid;
         row-gap: 2px;
         height: fit-content;
-        align-self: start;
+        align-items: start;
         font-family: hknova-regular;
         font-size: 18px;
         margin: 0px 29px 0px 29px;   
@@ -129,7 +129,7 @@
         <hr class = "lineDivider" style="width:100%;text-align:left;margin:0">
         <div class="panel-links-container">
             {% if panel.call %}
-            <p class = "links-container"><strong>Call: </strong> <a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
+            <p class = "links-container"><strong>Call:</strong> <a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
             <p class = "links-container"><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}" class="sameLine">{{ panel.contactForm }}</a></p>
