@@ -1,15 +1,15 @@
 ---
-title: 'AdeptForms Security Operational Management Version 2'
+title: 'Aggregate Cloud Accounting Software (Xero)'
 permalink: /productivity-solutions-grant/solutionrepo/solution108
 ---
 
-## AdeptForms Security Operational Management Version 2
+## Aggregate Cloud Accounting Software (Xero)
 
 ## Overview
 
 **Description**
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+Aggregate Consultancy Services provides one stop digital solution to digitalise the sales, accounting, taxation, human resource management process. We address the challenges of limited resources and manpower faced by start-ups and SMEs so that their business owners and managers are able to spend more productive time growing the businesses instead of handling much of the back-office process. Supported by Xero, we aim to increase the odds of business success in the challenging environment.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ AdeptForms help our clients to improve and grow by automating their business pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package A (Up to 5 Sites)</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package A (Starter)</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package B (Essential)</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'>$3,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package C (Premium)</td>
+<td style='padding: 10px;'>$5,520.00</td>
+<td style='padding: 10px;'>$5,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package D (Up to 5 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aggregate Cloud Accounting Software (Xero) - Package D (Premium Plus)</td>
+<td style='padding: 10px;'>$6,720.00</td>
+<td style='padding: 10px;'>$6,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aggregate_Consultancy_20210180_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Adept Ventures Pte Ltd<br>Web URL: https://www.adeptforms.com/ <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@adeptforms.com <br><br>
+ Company Name: Aggregate Consultancy Services Pte. Ltd.<br>Web URL: https://www.incorporateyour.com <br><br>Contact Hotline: 63349329 <br><br>Contact Email: sales@incorporateyour.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'KEEPITAL Sales Management Business Solution Version 3'
+title: 'Profectant Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution831
 ---
 
-## KEEPITAL Sales Management Business Solution Version 3
+## Profectant Xero
 
 ## Overview
 
 **Description**
 
-Keepital is an online Global B2B platform that brings together buyers and suppliers and allows business owners to reach out to local and overseas prospects. Through this platform, business owners can list their products and services to generate quotations to potential buyers. The objective is to digitalise all SME products and services into a single platform to increase productivity, leads generation and improve sales and revenue, reducing the workload of a salesperson.
+Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (24 Product Showcase)</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (48 Product Showcase)</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (500 Product Showcase)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_2021_07_28_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 
 ## Vendor Information
 
- Company Name: Keep Pte Ltd<br>Web URL: www.keepital.com <br>Contact Hotline: 96239126 <br>Contact Email: ask@keepital.com <br>
+ Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

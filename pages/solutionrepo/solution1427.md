@@ -1,15 +1,15 @@
 ---
-title: 'TIME ACCESS E-Scheduling System V1.8'
+title: 'EISOL F&B (Eats365) Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1427
 ---
 
-## TIME ACCESS E-Scheduling System V1.8
+## EISOL F&B (Eats365) Version 1.0
 
 ## Overview
 
 **Description**
 
-TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software developed from 28 years of market experience. The Integrated Cloud Solution combines Web Application/Mobile application/Biometric Hardware. Manage staff with e-timesheet reports and duty rosters from any location. Track IN/OUT attendance from the Mobile App with GPS Geo-location and Geo-fencing features. The solution can be integrated to any existing Business Software, or further upgraded to a Payroll/HRMS software.
+Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-based restaurant management system designed to aggregate customer orders from online, in-store, food delivery or digital self-ordering platform. It is designed to achieve better operational efficiency. Eats365 continues to upgrade and integrate with other apps or payment systems to expand its usability and allow businesses to scale and adapt to business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software deve
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 1 (10 Users)</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start-up</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 2 (25 Users)</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growth</td>
+<td style='padding: 10px;'>$5,236.00</td>
+<td style='padding: 10px;'>$4,736.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 3 (50 Users)</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large</td>
+<td style='padding: 10px;'>$5,587.00</td>
+<td style='padding: 10px;'>$5,087.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 4 (100 Users)</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk</td>
+<td style='padding: 10px;'>$6,276.00</td>
+<td style='padding: 10px;'>$5,776.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 5 (200 Users)</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$8,575.00</td>
+<td style='padding: 10px;'>$7,475.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software deve
 
 ## Vendor Information
 
- Company Name: TIME ACCESS INTERNATIONAL<br>Web URL: https://timeaccessworld.com/services?service=software<br>Contact Hotline: 62980012<br>Contact Email: info@timeaccessworld.com
+ Company Name: EISOL Pte Ltd<br>Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

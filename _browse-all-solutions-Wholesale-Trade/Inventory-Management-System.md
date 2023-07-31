@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution538' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>EQuip Wholesales & Inventory System Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1826' target='_blank'>MuRho Inventory Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1404' target='_blank'>MuRho Inventory Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 </table>

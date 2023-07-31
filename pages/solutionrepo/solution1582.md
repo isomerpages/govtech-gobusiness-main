@@ -1,15 +1,15 @@
 ---
-title: 'Stendard Solution Version 1.7.12'
+title: 'One-Stop Document Access Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1582
 ---
 
-## Stendard Solution Version 1.7.12
+## One-Stop Document Access Version 2.0
 
 ## Overview
 
 **Description**
 
-Stendard Solution is a cloud-based document management system allowing businesses of all sizes to implement business processes, in line with international standards. Users can easily collaborate, store, maintain, review, and sign-off documents electronically with digitised business workflows, version controls and track them on the platform. Stendard's vision is to put quality at the centre of all businesses.
+Powered by M365 and other integrated apps, OSDAS is a cloud-based document management solution offering versioning, collaboration, file sharing, meta-data tagging, digitization, search, automated document processing, OCR content search, digital signatures, and PDF management. With cloud and mobile access, OSDAS ensures secure document management across multiple sites with customized user permissions and automated cloud backup. Ready for deployment, OSDAS is an all-rounded solution for SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Stendard Solution is a cloud-based document management system allowing businesse
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (5 concurrent users)</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$6,381.00</td>
+<td style='padding: 10px;'>$6,381.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (10 concurrent users)</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus-Enhanced</td>
+<td style='padding: 10px;'>$7,812.00</td>
+<td style='padding: 10px;'>$7,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (30 concurrent users)</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$25,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
+<td style='padding: 10px;'>$10,152.00</td>
+<td style='padding: 10px;'>$10,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro-Enhanced</td>
+<td style='padding: 10px;'>$16,596.00</td>
+<td style='padding: 10px;'>$14,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise-Enhanced</td>
+<td style='padding: 10px;'>$23,616.00</td>
+<td style='padding: 10px;'>$21,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Stendard Solution is a cloud-based document management system allowing businesse
 
 ## Vendor Information
 
- Company name: YNL 360 Pte Ltd<br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io
+ Company Name: PROMINDS PTE LTD<br>Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

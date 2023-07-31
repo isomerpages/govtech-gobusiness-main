@@ -1,15 +1,16 @@
 ---
-title: 'Proximity Sensor Safety Solution Version 4'
+title: 'Fleet Safety Management System Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution976
 ---
 
-## Proximity Sensor Safety Solution Version 4
+## Fleet Safety Management System Version 7
 
 ## Overview
 
 **Description**
 
-Nettbox Proximity Sensor is an obstacle detection solution which is suitable for all category of heavy vehicles /machines. It is a safety solution which allows instant detection of the object which is of close proximity and avoids accidents and collisions . It also enables audio alerts to the operator and the passer-by to flag up instant alarm. This enables the operators to enhance confidence with productivity where the average time of an operation to be shortened compared without the solution.
+SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
+ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack A : Object-base Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$4,240.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett Pack B : AI Human Detection Proximity Sensor Per Vehicle</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$2,914.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Proximity_Sensor_SafetySolution_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 6 vehicles</td>
+<td style='padding: 10px;'>$14,820.00</td>
+<td style='padding: 10px;'>$12,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 05</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'>$14,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 8 vehicles</td>
+<td style='padding: 10px;'>$19,660.00</td>
+<td style='padding: 10px;'>$15,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 06</td>
-<td style='padding: 10px;'>$25,640.00</td>
-<td style='padding: 10px;'>$17,684.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 10 vehicles</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Proximity Sensor Safety Solution Version 4 - Nett Pack 08</td>
-<td style='padding: 10px;'>$34,120.00</td>
-<td style='padding: 10px;'>$23,512.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nett_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Safety Management System Version 7 - 14 vehicles</td>
+<td style='padding: 10px;'>$34,180.00</td>
+<td style='padding: 10px;'>$27,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Electronics_20210158_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ Nettbox Proximity Sensor is an obstacle detection solution which is suitable for
 
 ## Vendor Information
 
- Company Name : NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
+ Company Name: SmartComm Electronics Pte Ltd<br>Web URL: www.smartcomm.biz <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

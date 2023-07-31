@@ -1,16 +1,15 @@
 ---
-title: 'ZETTAPPS Inventory & Order Processing'
+title: 'Qashier Digital Ordering Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1608
 ---
 
-## ZETTAPPS Inventory & Order Processing
+## Qashier Digital Ordering Version 2022.01
 
 ## Overview
 
 **Description**
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
-For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
+Qashier provides a full suite of affordable and easy-to-use digital ordering solutions for all types of F&B businesses including food kiosks, cafes, restaurants and bars. Qashier's integrated solution includes QR and online ordering, integrated payment processing, inventory and ingredient management, CRM and customer loyalty, and kitchen management systems.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,48 @@ For Distributors or Retailers, there are functions that enable them to track the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Basic</td>
+<td style='padding: 10px;'>$2,359.00</td>
+<td style='padding: 10px;'>$2,359.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Pro</td>
+<td style='padding: 10px;'>$3,159.00</td>
+<td style='padding: 10px;'>$3,159.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for QSR</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for Restaurants</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering Starter Kit</td>
+<td style='padding: 10px;'>$4,839.00</td>
+<td style='padding: 10px;'>$4,839.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+ Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,16 +1,16 @@
 ---
-title: 'Gurusoft Logistics Management System Version 11'
+title: 'MEGAPOS Beauty & Wellness'
 permalink: /productivity-solutions-grant/solutionrepo/solution673
 ---
 
-## Gurusoft Logistics Management System Version 11
+## MEGAPOS Beauty & Wellness
 
 ## Overview
 
 **Description**
 
-Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
-Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
+MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
+Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
 
 ## Solution Packages Option(s)
 
@@ -24,31 +24,38 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$6,680.00</td>
+<td style='padding: 10px;'>$6,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
-<td style='padding: 10px;'>$35,900.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
+<td style='padding: 10px;'>$7,380.00</td>
+<td style='padding: 10px;'>$7,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
-<td style='padding: 10px;'>$50,000.00</td>
-<td style='padding: 10px;'>$43,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'>$10,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
+<td style='padding: 10px;'>$14,360.00</td>
+<td style='padding: 10px;'>$14,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -58,7 +65,7 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 
 ## Vendor Information
 
- Company Name: Gurusoft Pte Ltd<br>Web URL: https://www.gurusofttech.com/WMS <br><br>Contact Hotline: 62708083 <br><br>Contact Email: sales@gurusoft.com.sg <br><br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

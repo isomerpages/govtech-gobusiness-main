@@ -1,15 +1,15 @@
 ---
-title: 'iTrack Vehicle Fleet Tracking'
+title: 'T-GUARD'
 permalink: /productivity-solutions-grant/solutionrepo/solution1096
 ---
 
-## iTrack Vehicle Fleet Tracking
+## T-GUARD
 
 ## Overview
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+T-Guard is an enhanced safe driving management system that encompasses a collision avoidance system. It has the capability to prevent accidents due to potential causes of abnormal driver behaviour such as fatigue, smoking, distraction, yawning, and provides closed loop interventions to prevent accidents. The solution provides SMEs with greater fleet insights to improve business productivity and safety by analyzing driver behavior with score card to instill safe driving culture.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard (Per vehicle)</td>
+<td style='padding: 10px;'>$5,538.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard Enhance (Per vehicle)</td>
+<td style='padding: 10px;'>$5,657.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 94798687 <br>Contact Email: customerservice@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

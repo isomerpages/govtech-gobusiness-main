@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-
 ## Managed Detection and Response
 ## Overview
 
+**Description**
+
+Managed Detection and Response (MDR) solutions deliver 24/7 threat monitoring, detection and lightweight response services to customers leveraging a combination of technologies deployed at the host and network layers, advanced analytics, threat intelligence, and human expertise in incident investigation and response. MDR providers undertake incident validation, and can offer remote response services, such as threat containment and support in bringing a customer's environment back to some form of "known good".
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,32 +32,36 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution241' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution176' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
 <td>Axiom IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution458' target='_blank'>Cybots AMDR</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution343' target='_blank'>Cybots AMDR</a><br></td>
 <td>Cybots Pte. Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution480' target='_blank'>Microsoft Email and Endpoint Security Management</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution360' target='_blank'>Microsoft Email and Endpoint Security Management</a><br></td>
 <td>DATA CONNECT TECHNOLOGIES PRIVATE LIMITED</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution966' target='_blank'>Green Radar Email Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution719' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1389' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1028' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1498' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1125' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1815' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1393' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1399' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
+<td>Toffs Technologies Pte Ltd</td>
 </tr>
 </table>
 

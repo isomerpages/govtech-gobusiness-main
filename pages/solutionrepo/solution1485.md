@@ -1,15 +1,28 @@
 ---
-title: 'Digital Fund Manager Compliance powered by Palmyra'
+title: 'Daisy XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1485
 ---
 
-## Digital Fund Manager Compliance powered by Palmyra
+## Daisy XERO Accounting Software
 
 ## Overview
 
 **Description**
 
-Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
+All-in-one online accounting software
+Run customer's business on Xero's fast, simple, powerful online accounting software.
+
+Everything in one place
+See the invoices, contacts and accounts online.
+
+Connect to the bank
+Easily sync bank and financial information.
+
+Collaborate in real time
+Invite customer's advisor in, and work together anywhere.
+
+Customise to suit customer's needs
+Xero can connect with other apps.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +36,38 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'>$85,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
-<td style='padding: 10px;'>$180,000.00</td>
-<td style='padding: 10px;'>$105,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training</td>
+<td style='padding: 10px;'>$2,280.00</td>
+<td style='padding: 10px;'>$2,225.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
-<td style='padding: 10px;'>$220,000.00</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training + Migration</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,145.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,200.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +77,7 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 
 ## Vendor Information
 
- Company name:Vermeg International Singapore Pte. Limited<br>Web URL: www.vermeg.com <br>Contact Hotline: 67201012 <br>Contact Email: nmohankumar@vermeg.com 
+ Company name:Daisy Consultants Pte Ltd<br>Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

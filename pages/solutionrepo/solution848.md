@@ -1,15 +1,15 @@
 ---
-title: 'Lemonade eCommerce Solution'
+title: 'Qashier Smart POS for Beauty Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution848
 ---
 
-## Lemonade eCommerce Solution
+## Qashier Smart POS for Beauty Version 2022.01
 
 ## Overview
 
 **Description**
 
-Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
+Qashier provides smart point-of-sale and e-payment solutions to the Beauty and Services sector. Qashier's suite of solutions enable businesses to accept payments, manage store operations, and bring their business online.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customise
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lemonade eCommerce Solution - Prime</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Lemonade_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Pro + Basic Setup</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Advanced Setup</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Full Setup + Training</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
+ Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
