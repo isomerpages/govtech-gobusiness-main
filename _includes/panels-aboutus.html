@@ -16,12 +16,10 @@
         border-radius: 5px;
         word-break: break-word;
         grid-auto-rows: auto;
-        row-gap: 16px;
         align-content: start;
     }
 
     .content .panel .panel-image {
-        display: grid;
         font-family: hknova-semibold;
         font-size: 24px;
         font-weight: 600;
@@ -83,14 +81,13 @@
     }
 
     .content .panel .panel-link {
-        display: grid;
+        display: block;
         font-size: 18px;
         line-height: 27px;
         margin: 10px 0 5px 0;
     }
 
     .content .panel .panel-info {
-        display: grid;
         font-family: hknova-regular;
         font-size: 18px;
         line-height: 27px;
@@ -174,13 +171,13 @@
         <div class="panel-links-container">
             <hr style="width:100%;text-align:left;margin:0">
             {% if panel.call %}
-            <p class="contacts-link"><strong>Call:</strong><a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
+            <p class="contacts-link"><strong>Call:</strong> <a href="tel:{{ panel.call }}">{{ panel.call }}</a></p>
             {% endif %}
             {% if panel.contactForm %}
-            <p class="contacts-link" ><strong>Contact Form:</strong><a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
+            <p class="contacts-link" ><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}">{{ panel.contactForm }}</a></p>
             {% endif %}
             {% if panel.email %}
-            <p class="contacts-link"><strong>Email:</strong><a href="mailto:{{ email }}">{{ panel.email }}</a></p>
+            <p class="contacts-link"><strong>Email:</strong> <a href="mailto:{{ email }}">{{ panel.email }}</a></p>
             {% endif %}
         </div>
         {% endif %}
