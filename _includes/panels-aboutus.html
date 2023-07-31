@@ -70,6 +70,7 @@
         font-family: hknova-regular;
         font-size: 18px;
         margin: 0px 29px 0px 29px;   
+        margin-top: 1em;
     }
 
     .content .panel .panel-info {
@@ -115,8 +116,8 @@
         <p class="panel-second-description">{{ panel.secondDescription }}</p>
         {% endif %}
         {% if panel.call or panel.contactForm or panel.email %}
+        <hr style="width:100%;text-align:left;margin:0">
         <div class="panel-links-container">
-            <hr style="width:100%;text-align:left;margin:0">
             {% if panel.call %}
             <p class="contacts-link"><strong>Call:</strong><a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
             {% endif %}
