@@ -26,13 +26,6 @@
         height: 60px;
     }
 
-    .content .panel .panel-banner>img {
-        width: 498px;
-        height: 200px;
-        margin: 0;
-        object-fit: cover;
-    }
-
     .content .panel .panel-image>img {
         width: auto;
         height: 100%;
@@ -53,8 +46,7 @@
         align-self: stretch;
     }
 
-    .content .panel .panel-second-description,
-    .content .panel .contacts-link {
+    .content .panel .panel-second-description {
         display: grid;
         font-family: hknova-regular;
         font-size: 18px;
@@ -75,7 +67,6 @@
         row-gap: 2px;
         height: fit-content;
         align-self: end;
-        min-height: 125px;
     }
 
     .content .panel .panel-link {
@@ -108,14 +99,8 @@
 <div class="panels">
     {% for panel in include.panels %}
     <div class="panel">
-        {% if {{panel.label}} %}
-        <div class="panel-label">{% include label.html label=panel.label %}</div>
-        {% endif %}
         {% if panel.image %}
         <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
-        {% endif %}
-        {% if panel.banner %}
-        <div class="panel-banner" aria-hidden="true">{{ panel.banner }}</div>
         {% endif %}
         <h4 class="panel-title">{{ panel.title }}
         {% if panel.is_new %}
@@ -132,44 +117,6 @@
         {% endif %}
         {% if panel.secondDescription %}
         <p class="panel-second-description">{{ panel.secondDescription }}</p>
-        {% endif %}
-        {% if panel.tel or panel.url or panel.text %}
-        <div class="panel-links-container">
-            {% if panel.tel %}
-            <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-group">
-                {% assign tels = panel.tel | split: ',' %}
-                {% for tel in tels %}
-                <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
-            {% if panel.url %}
-            <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-container">
-                {% assign urls = panel.url | split: ',' %}
-                {% for url in urls %}
-                {% if panel.url-new-tab %}
-                <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="_blank" rel="noopenner">
-                {% else %}
-                    <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
-                {% endif %}
-                    {% if panel.text %}{{panel.text}}
-                    {% else %}{{url}}{% endif %}</a>
-                {% endfor %}
-            </div>
-            {% else %}
-                {% if panel.text %}
-                <hr style="width:100%;text-align:left;margin:0">
-                <div class="panel-info">
-                    {{panel.text}}
-                </div>
-                {% endif %}
-            {% endif %}
-        </div>
         {% endif %}
         {% if panel.call or panel.contactForm or panel.email %}
         <div class="panel-links-container">
