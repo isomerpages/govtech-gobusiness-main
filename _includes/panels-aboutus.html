@@ -16,6 +16,13 @@
         word-break: break-word;
         grid-auto-rows: auto;
         align-content: start;
+        grid-template-areas:
+        "image"
+        "title"
+        "description"
+        "second-title"
+        "second-description"
+        "links";
     }
 
     .content .panel .panel-image {
@@ -24,6 +31,7 @@
         font-weight: 600;
         width: auto;
         height: 60px;
+        grid-area: image;
     }
 
     .content .panel .panel-image>img {
@@ -44,6 +52,7 @@
         font-size: 18px;
         margin: 0 29px 0px 29px;
         align-self: stretch;
+        grid-area: description;
     }
 
     .content .panel .panel-second-title {
@@ -52,18 +61,20 @@
         font-size: 18px;
         font-weight: bold;
         margin: 10px 29px 0px 29px;
+        grid-area: second-title;
     }
 
     .content .panel .panel-second-description {
-        display: flex;
-        align-self: start;
+        display: grid;
         font-family: hknova-regular;
         font-size: 18px;
         margin: 0 29px 0px 29px;
+        align-self: stretch;
+        grid-area: second-description;
     }
 
     .content .panel .panel-links-container {
-        display: flex;
+        display: grid;
         row-gap: 2px;
         height: fit-content;
         align-self: start;
@@ -71,6 +82,7 @@
         font-size: 18px;
         margin: 0px 29px 0px 29px;   
         min-height:100px;
+        grid-area: links;
     }
 
     .content .panel .panel-info {
