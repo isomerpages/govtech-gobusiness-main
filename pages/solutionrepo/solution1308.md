@@ -1,15 +1,15 @@
 ---
-title: 'Feed Processing Machine'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution1308
 ---
 
-## Feed Processing Machine
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-A machine to mix and chop up the materials for animal feed. 
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine to mix and chop up the materials for animal feed.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Feed Processing Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

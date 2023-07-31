@@ -1,19 +1,20 @@
 ---
-title: 'Automated Dough Filler/Depositor'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1250
 ---
 
-## Automated Dough Filler/Depositor
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-Cost of equipment capped at $25,000 per unit 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -24,9 +25,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Equipment must be able to offer several options of hoppers with different volumes. <br>- Equipment must allow company to be able to change desired dough weight. <br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 

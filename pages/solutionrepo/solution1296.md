@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1296
 ---
 
-## Automatic Seed Plug Transplanter
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

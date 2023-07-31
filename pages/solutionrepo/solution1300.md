@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Feed Processing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 
-## Crate/ Tray washing machine
+## Feed Processing Machine
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+A machine to mix and chop up the materials for animal feed. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Feed Processing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
