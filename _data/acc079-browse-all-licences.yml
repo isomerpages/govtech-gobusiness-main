@@ -132,14 +132,18 @@
 
         The Amusement Rides Safety Act (Chapter 6A) defines an amusement ride as any mechanised or power-driven device that carries patrons on a fixed or restricted course, or within a defined area, designed for the primary purpose of giving them amusement, thrills, or excitment, and is available for use by members of the public. This definition will not cover devices that are meant primarily for transport purposes, such as monorails, trams, sky trains and amphibious vehicles.
 
-        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation" target="_blank" rel="noopener">Apply on BCA</a>&emsp;[View Licence Details](/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit)
+        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a id = " desktopNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
+
+        <a id = "mobileNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
 
         -----
         **Permit to Erect Temporary Building**
 
         <p>A person/owner who intends to erect any temporary/makeshift structure is required to apply for a Temporary Building Permit. The application must reach BCA 3 weeks before the construction of the temporary building.</p>
 
-        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building" target="_blank" rel="noopener">Apply on BCA</a>&emsp;[View Licence Details](/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building)
+        <a class="btn" href="https://www1.bca.gov.sg/regulatory-info/temporary-buildings-application/application-for-a-permit-to-erect-temporary-building" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building">View Licence Details</a>
+
+        <a id = "mobileNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Permit-to-Erect-Temporary-Building">View Licence Details</a>
 
         -----
         **Structural and Building Plans Requirements for Rooftop Solar PV Installation**
@@ -150,7 +154,9 @@
         (c) the solar panels also function as a roof shelter, covering an area that exceeds 10 square metres; or
         (d) any other new building works, as defined under the Building Control Act.
 
-        <a class="btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on BCA</a>&emsp;[View Licence Details](/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation)
+        <a class="btn" href="https://corenet.gov.sg/general/e-info.aspx" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
+
+        <a id = "mobileNotice" href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation">View Licence Details</a>
 
     - title: Board of Architects (BOA)
       content: |
@@ -158,7 +164,9 @@
 
         For providing architectural services that require submission of plans and certificates to authorities regulating buildings.
 
-        <a class="btn" href="https://www.boa.gov.sg/register/application-forms/" target="_blank" rel="noopener">Apply on BOA</a>&emsp;[View Licence Details](/browse-all-licences/Board-of-Architects-(BOA)/Licence-to-Supply-Architectural-Services)
+        <a class="btn" href="https://www.boa.gov.sg/register/application-forms/" target="_blank" rel="noopener">Apply on BOA</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Board-of-Architects-(BOA)/Licence-to-Supply-Architectural-Services">View Licence Details</a>
+
+        <a id = "mobileNotice" href = "/browse-all-licences/Board-of-Architects-(BOA)/Licence-to-Supply-Architectural-Services">View Licence Details</a>
 
 - accordion:
   letter: c
