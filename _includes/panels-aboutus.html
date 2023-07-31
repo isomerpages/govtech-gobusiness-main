@@ -61,7 +61,10 @@
         margin: 0 29px 0px 29px;
         align-self: stretch;
     }
-
+    .content .panel .lineDivider {
+        display:inline;
+    }
+    
     .content .panel .panel-links-container {
         display: grid;
         row-gap: 2px;
@@ -122,7 +125,7 @@
         <p class="panel-second-description">{{ panel.secondDescription }}</p>
         {% endif %}
         {% if panel.call or panel.contactForm or panel.email %}
-        <hr style="width:100%;text-align:left;margin:0">
+        <hr class = "lineDivider" style="width:100%;text-align:left;margin:0">
         <div class="panel-links-container">
             {% if panel.call %}
             <p class = "links-container"><strong>Call:</strong><a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
