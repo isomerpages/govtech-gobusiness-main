@@ -1,6 +1,8 @@
-- anchor: '#skills_training_benefits'
-  anchor_text: File income tax return
-- anchor: '#skillsfuture_journey'
-  anchor_text: Register for GST
-- anchor: '#entreprise_portal_for_jobs_and_skills_epjs'
-  anchor_text: Pay Skills Development Levy
+- anchor: '#what-is-SDL'
+  anchor_text: What is SDL?
+- anchor: '#calculate-pay-SDL'
+  anchor_text: How do I calculate and pay the SDL?
+- anchor: '#SDL-e-services'
+  anchor_text: SDL e-Services
+- anchor: '#SDL-faq'
+  anchor_text: FAQ
