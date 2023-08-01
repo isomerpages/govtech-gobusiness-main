@@ -88,27 +88,6 @@
 
   /*****************Codes below are for Mobile Notice Panel*****************/
 
-    /* Mobile View, Hide Green Button and show Grey Notice */
-    @media only screen and (max-width: 768px) {
-    #desktopNotice {
-      width: 0px;
-      height: 0px;
-      margin: 0;
-      overflow: 0;
-      border: 0;
-      padding: 0;
-      display: none;  
-    }
-  }
-
-  /* Desktop View, Show Green panel and hide Grey Notice*/
-  @media (min-width: 768px) {
-      #mobileNotice {
-        display: none;
-        height: 0px;
-        width: 0px;
-    }
-  }
   #main-content a.primary-btn {
     font-family: hknova-regular;
     font-size: 18px;
@@ -145,6 +124,28 @@
   #main-content a.primary-btn:focus {
     color: white;
     outline: 2px solid #1C8B95;
+  }
+
+  /* Mobile View, Hide Green Button and show Grey Notice */
+  @media only screen and (max-width: 768px) {
+    #desktopNotice {
+      width: 0px;
+      height: 0px;
+      margin: 0;
+      overflow: 0;
+      border: 0;
+      padding: 0;
+      display: none;  
+    }
+  }
+
+  /* Desktop View, Show Green panel and hide Grey Notice*/
+  @media (min-width: 768px) {
+      #mobileNotice {
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
   }
 
 </style>
