@@ -2,6 +2,6 @@ collections:
   about-skills-development-levy:
     output: true
     order:
-      - 01-about-skills-development-levy.md
-      - 02-sdl-e-services.md
-      - 03-sdl-faq.md
+      - about-skills-development-levy.md
+      - sdl-e-services.md
+      - sdl-faq.md
