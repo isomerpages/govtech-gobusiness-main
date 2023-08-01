@@ -1,5 +1,5 @@
 collections:
-  about-skills-development-levy:
+  sdl:
     output: true
     order:
       - about-skills-development-levy.md
