@@ -7,11 +7,11 @@ permalink: /about-skills-development-levy/
 
 ![Skills Development Levy](/images/sdlsign.jpg)
 
-{% include overview.html anchorlinks=site.data.ov016-taxes-gst-overview %}
+{% include overview.html anchorlinks=site.data.ov017-skillsdevelopmentlevy-overview.yml %}
 
 ---
-<hr>
-<a name="what-is-SDL"></a>
+
+<a name="sdl_intro"></a>
 ### What is SDL?
 
 The SDL is a compulsory monthly levy that businesses have to pay, to support workforce upgrading programmes and to provide training grants.
@@ -30,8 +30,8 @@ The levies go to the Skills Development Fund (SDF), which supports workforce upg
 The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.skillsfuture.gov.sg/). You can read about the [Skills Development Levy (SDL)](www.placeholder.com) and the [SDL regulations](www.placeholder.com) on the Singapore Statutes Online website.
 
 ---
-<hr>
-<a name="calculate-pay-SDL"></a>
+
+<a name="sdl_eservices"></a>
 ### How do I calculate and pay the SDL?
 
 The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
@@ -64,7 +64,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
         <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td>
     <td>
-        <b>Pay outstanding SDL / Pay SDL on foreign employees</b><br>
+        <b>Pay outstanding SDL / Pay SDL on foreign employees</b><br><br>
         If you:
         <ul>
             <li>Have forgotten to pay / underpaid your SDL; or </li>
@@ -76,7 +76,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </table>
 
 ---
-<hr>
+
 <a name="SDL-e-services"></a>
 ### SDL e-Services
 
@@ -94,8 +94,8 @@ You can also view your SDL payment history, and retrieve and download SDL notifi
 View the full list of [SDL e-Services and resources](www.placeholder.com).
 
 ---
-<hr>
-<a name="SDL-faq"></a>
+
+<a name="sdl_faq"></a>
 ### FAQ
 
 {% include panels-featurelink.html panels=site.data.rgp005c_skillsdevelopmentlevy-faq %}

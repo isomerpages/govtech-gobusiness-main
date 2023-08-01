@@ -12,6 +12,7 @@ third_nav_title: Taxes, GST and Customs
 
 ---
 
+<a name="file_income_tax_return"></a>
 ### File income tax return
 
 Income tax is filed with Inland Revenue Authority of Singapore (IRAS). Unsure about the tax filing obligations for your business/company?
@@ -41,6 +42,7 @@ Learn more about your company's Corporate Income Tax filing obligations from thi
 
 ---
 
+<a name="register_for_gst"></a>
 ### Register for GST
 
 You will need to register for GST if:
@@ -93,6 +95,7 @@ Check out the following webpages and video to learn more.
 
 ---
 
+<a name="pay_sdl"></a>
 ### Pay Skills Development Levy (SDL)
 
 The SDL is a compulsory monthly levy that businesses have to pay on **all employees**, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).
