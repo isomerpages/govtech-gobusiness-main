@@ -92,6 +92,6 @@ View the full list of [SDL e-Services and resources](www.placeholder.com).
 
 ---
 
-###FAQ
+### FAQ
 
 {% include panels-featurelink.html panels=site.data.rgp005c_skillsdevelopmentlevy-faq %}
