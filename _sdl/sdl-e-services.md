@@ -1,5 +1,5 @@
 ---
-title: About Skills Development Levy (SDL)
+title: SDL E-Services
 permalink: /sdl-e-services/
 ---
 

@@ -40,15 +40,14 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 <table>
 <tr>
-    <th> <b>e-Service</b> </th>
-    <th> <b>Description</b> </th>
+    <th width = 20%> <b>e-Service</b> </th>
+    <th width = 80%> <b>Description</b> </th>
 </tr>
 <tr>
     <td> 
         <a href="www.placeholder.com" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
     </td>
     <td>
-        <ul>
         <b>Make regular SDL payments together with CPF contributions</b><br>
         With CPF EZPay, you can:
         <ul>
@@ -63,7 +62,6 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
         <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td>
     <td>
-        <ul>
         <b>Pay outstanding SDL / Pay SDL on foreign employees</b><br>
         If you:
         <ul>
