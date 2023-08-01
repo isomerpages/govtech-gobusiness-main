@@ -2427,9 +2427,7 @@
         
         You will need to obtain the approval from the Licensing Officer before commencing the blasting operation. 
         
-        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-a-Blasting-Operation-">View Licence Details</a>
-
-        <a id = "mobileNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-a-Blasting-Operation-">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-a-Blasting-Operation-">View Licence Details</a>
 
         -----
         **Approval to conduct a Fireworks Display**
