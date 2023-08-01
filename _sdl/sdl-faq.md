@@ -1,5 +1,5 @@
 ---
-title: Skills Development Levy FAQ
+title: Skills FAQ
 permalink: /sdl-faq/
 ---
 

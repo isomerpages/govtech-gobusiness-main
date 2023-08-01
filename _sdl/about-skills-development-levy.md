@@ -40,8 +40,8 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 <table>
 <tr>
-    <th width = 20%> <b>e-Service</b> </th>
-    <th width = 80%> <b>Description</b> </th>
+    <th style='width: 30%;'> <b>e-Service</b> </th>
+    <th style='width: auto;'> <b>Description</b> </th>
 </tr>
 <tr>
     <td> 
