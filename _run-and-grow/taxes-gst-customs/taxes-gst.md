@@ -93,9 +93,9 @@ Check out the following webpages and video to learn more.
 
 ---
 
-###Pay Skills Development Levy (SDL)
+### Pay Skills Development Levy (SDL)
 
-The SDL is a compulsory monthly levy that businesses have to pay on all employees, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).
+The SDL is a compulsory monthly levy that businesses have to pay on **all employees**, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).
 
 Learn more about SDL and how to calculate and make payment at the links below.
 
