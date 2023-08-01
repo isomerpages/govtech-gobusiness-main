@@ -3,8 +3,6 @@ title: SDL e-Services
 permalink: /sdl-e-services/
 ---
 
-{% include overview-blue.html anchorlinks=site.data.rgp009-sdl-eservices %}
-
 <table>
 <tr>
     <th style='width: 30%;'> <b>e-Service</b> </th>
