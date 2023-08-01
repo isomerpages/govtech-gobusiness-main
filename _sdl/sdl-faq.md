@@ -3,6 +3,18 @@ title: About Skills Development Levy (SDL)
 permalink: /sdl-faq/
 ---
 
-### SkillsFuture for Enterprise FAQ
+### Skills Development Levy (SDL) Help
 
-{% include accordion.html accordions=site.data.acc109-skillsfuture-for-enterprise.accordion %}
+### General SDL FAQ
+
+For questions about SDL scope, compliance, computation, and more
+
+
+### SDL on GoBusiness Dashboard
+
+For help navigating or transacting SDL e-services on GoBusiness Dashboard.
+
+
+### SDL on  CPF EZPay
+
+For help using CPF EZPay, check out the [CPF EZPay User Guide](www.placeholder.com).

@@ -45,7 +45,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
+        <a href="www.placeholder.com" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
     </td>
     <td>
         <ul>
@@ -60,14 +60,14 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
+        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td>
     <td>
         <ul>
         <b>Pay outstanding SDL / Pay SDL on foreign employees</b><br>
         If you:
         <ul>
-            <li>Have forgotten to pay / underpaid your SDL; or  </li>
+            <li>Have forgotten to pay / underpaid your SDL; or </li>
             <li>Hire only foreign employees</li>
         </ul>
         You can make SDL payment and declaration directly via GoBusiness Dashboard.
