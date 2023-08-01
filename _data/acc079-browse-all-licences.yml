@@ -340,7 +340,7 @@
 
         All Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development Centres Act and Regulations.
 
-        <a id="browseLicenceButton" href="https://dashboard.gobusiness.gov.sg/task-details/7e5b5a1c-17fc-49f6-8130-93f9e983aeb2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7e5b5a1c-17fc-49f6-8130-93f9e983aeb2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence">View Licence Details</a>
 
         <a id = "mobileNotice" href = "/browse-all-licences/Early-Childhood-Development-Agency-(ECDA)/Early-Childhood-Development-Centre-Licence">View Licence Details</a>
 
