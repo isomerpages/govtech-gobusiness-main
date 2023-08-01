@@ -31,7 +31,7 @@ The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](h
 
 ---
 
-<a name="sdl_eservices"></a>
+<a name="calculate-pay-SDL"></a>
 ### How do I calculate and pay the SDL?
 
 The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
