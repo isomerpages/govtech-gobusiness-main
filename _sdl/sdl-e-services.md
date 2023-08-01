@@ -1,6 +1,6 @@
 ---
 title: About Skills Development Levy (SDL)
-permalink: /about-skills-development-levy/
+permalink: /sdl-e-services/
 ---
 
 ### SkillsFuture for Enterprise FAQ
