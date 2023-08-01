@@ -7,7 +7,7 @@ permalink: /about-skills-development-levy/
 
 ![Skills Development Levy](/images/sdlsign.jpg)
 
-{% include overview.html anchorlinks=site.data.ov017-skillsdevelopmentlevy-overview.yml %}
+{% include overview.html anchorlinks=site.data.ov017-skillsdevelopmentlevy-overview %}
 
 ---
 
