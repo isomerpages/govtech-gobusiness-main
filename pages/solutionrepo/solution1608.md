@@ -1,16 +1,15 @@
 ---
-title: 'XERO CLOUD ACCOUNTING SOFTWARE'
+title: 'Qashier Digital Ordering Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1608
 ---
 
-## XERO CLOUD ACCOUNTING SOFTWARE
+## Qashier Digital Ordering Version 2022.01
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+Qashier provides a full suite of affordable and easy-to-use digital ordering solutions for all types of F&B businesses including food kiosks, cafes, restaurants and bars. Qashier's integrated solution includes QR and online ordering, integrated payment processing, inventory and ingredient management, CRM and customer loyalty, and kitchen management systems.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Basic Package</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Basic</td>
+<td style='padding: 10px;'>$2,359.00</td>
+<td style='padding: 10px;'>$2,359.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Premier Package</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Pro</td>
+<td style='padding: 10px;'>$3,159.00</td>
+<td style='padding: 10px;'>$3,159.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for QSR</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Booming Package</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for Restaurants</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'>$4,259.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Ultimate Package</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering Starter Kit</td>
+<td style='padding: 10px;'>$4,839.00</td>
+<td style='padding: 10px;'>$4,839.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ## Vendor Information
 
- Company Name: W.L.P PTE LTD<br>Web URL: https://www.wlp.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

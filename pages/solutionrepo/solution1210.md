@@ -1,15 +1,15 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: 'ZETTAPPS Finance & Order Processing Version 4.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution1210
 ---
 
-## WEB360 Version 2.0.0
+## ZETTAPPS Finance & Order Processing Version 4.5
 
 ## Overview
 
 **Description**
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'>$18,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

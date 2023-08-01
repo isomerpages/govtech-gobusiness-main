@@ -1,15 +1,15 @@
 ---
-title: 'Zeemart Supplier Hub'
+title: 'Simpliify''s E-commerce Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1704
 ---
 
-## Zeemart Supplier Hub
+## Simpliify''s E-commerce Version 1
 
 ## Overview
 
 **Description**
 
-Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
+Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
-<td style='padding: 10px;'>$29,500.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Simpliify_Simpliify_Ecommerce_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
+ Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

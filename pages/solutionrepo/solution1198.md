@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Digital Ordering Version 2022.01'
+title: 'Zeemart Supplier Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution1198
 ---
 
-## Qashier Digital Ordering Version 2022.01
+## Zeemart Supplier Hub
 
 ## Overview
 
 **Description**
 
-Qashier provides a full suite of affordable and easy-to-use digital ordering solutions for all types of F&B businesses including food kiosks, cafes, restaurants and bars. Qashier's integrated solution includes QR and online ordering, integrated payment processing, inventory and ingredient management, CRM and customer loyalty, and kitchen management systems.
+Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Qashier provides a full suite of affordable and easy-to-use digital ordering sol
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Basic</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Pro</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
+<td style='padding: 10px;'>$17,500.00</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Growth for QSR</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Starter Kit Growth for Restaurants</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Qashier_Annex_3_CR_wef_8_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Digital Ordering Version 2022.01 - Self Ordering Starter Kit</td>
-<td style='padding: 10px;'>$6,838.00</td>
-<td style='padding: 10px;'>$6,039.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Pte_Ltd_Qashier_Digital_Ordering_Desensitised_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
+<td style='padding: 10px;'>$29,500.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Qashier provides a full suite of affordable and easy-to-use digital ordering sol
 
 ## Vendor Information
 
- Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br><br>Contact Hotline: 31650155 <br><br>Contact Email: hello@qashier.com <br><br>
+ Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

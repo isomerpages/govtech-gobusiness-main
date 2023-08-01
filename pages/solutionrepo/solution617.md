@@ -1,15 +1,17 @@
 ---
-title: 'FITPRISE Project Management System - PCM'
+title: 'Stormshield UTM Firewall Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution617
 ---
 
-## FITPRISE Project Management System - PCM
+## Stormshield UTM Firewall Security
 
 ## Overview
 
 **Description**
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+
+Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +25,38 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN210</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'>$2,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Juss_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 2 (10 users)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN310</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'>$4,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN510</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'>$6,392.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'>$10,126.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stormshield UTM Firewall Security - SN710 (Twin Pack)</td>
+<td style='padding: 10px;'>$20,515.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +66,7 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 
 ## Vendor Information
 
- Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Company Name: Juss Solutions Group Pte Ltd<br>Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

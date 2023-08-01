@@ -7,11 +7,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -73,6 +73,8 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Fujitsu - AOAH36CBTA
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
+- GREE - GULD18W/NhB1-K(P)
+- GREE - GULD24W/NhB-K(P)
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -216,6 +218,6 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
 
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>

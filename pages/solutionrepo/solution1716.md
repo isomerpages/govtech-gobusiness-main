@@ -1,15 +1,15 @@
 ---
-title: 'ZETTAPPS Finance & Order Processing Version 4.5'
+title: 'A2000ERP SOLUTION Version 12.X'
 permalink: /productivity-solutions-grant/solutionrepo/solution1716
 ---
 
-## ZETTAPPS Finance & Order Processing Version 4.5
+## A2000ERP SOLUTION Version 12.X
 
 ## Overview
 
 **Description**
 
-ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
+A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP LITE System for 2 Users (Cloud Based-1yr SAAS) </td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
-<td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'>$18,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP System for 3 Users (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$15,560.00</td>
+<td style='padding: 10px;'>$15,546.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP MOBILE System for 5 Users, Mobile Suite for 5-Devices (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$26,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP WAREHOUSE System for 5 Users, Mobile Sales/Warehouse for 10 Devices (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$32,200.00</td>
+<td style='padding: 10px;'>$29,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+ Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

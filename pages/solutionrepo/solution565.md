@@ -1,15 +1,15 @@
 ---
-title: 'EQuipPOS Retail Solutions Version 3'
+title: 'SentroWeb Version 3.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution565
 ---
 
-## EQuipPOS Retail Solutions Version 3
+## SentroWeb Version 3.0.0
 
 ## Overview
 
 **Description**
 
-EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
+Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that businesses can take the complexities out of AML/CFT compliance, and get straight to business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ EQuip POS Retail Solutions display real-time and offline capabilities at the sam
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite 50</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'>$500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 100</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'>$1,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)</td>
-<td style='padding: 10px;'>$7,048.00</td>
-<td style='padding: 10px;'>$6,748.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 500</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package D (Basic+Inventory Manager APP+ 3rd Party Integration)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular DJ 1000</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium DJ 8K</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
+ Company name:Ingenique Solutions Pte Ltd<br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

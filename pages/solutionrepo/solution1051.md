@@ -1,15 +1,15 @@
 ---
-title: 'NMTODOO'
+title: 'Sage 300 Advance Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution1051
 ---
 
-## NMTODOO
+## Sage 300 Advance Edition
 
 ## Overview
 
 **Description**
 
-The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
+A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ The solution is an integrated, cohesive, user-friendly CRM, sales and financial 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 5 Users (Basic)</td>
-<td style='padding: 10px;'>$11,113.00</td>
-<td style='padding: 10px;'>$11,113.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud (3 users)</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 8 Users (Standard)</td>
-<td style='padding: 10px;'>$15,123.00</td>
-<td style='padding: 10px;'>$15,123.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (3 users)</td>
+<td style='padding: 10px;'>$29,309.00</td>
+<td style='padding: 10px;'>$26,983.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 10 Users (Premium)</td>
-<td style='padding: 10px;'>$17,916.00</td>
-<td style='padding: 10px;'>$17,916.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (5 Users)</td>
+<td style='padding: 10px;'>$32,788.00</td>
+<td style='padding: 10px;'>$30,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting, CRM and Sales for 12 Users (Professional)</td>
-<td style='padding: 10px;'>$22,100.00</td>
-<td style='padding: 10px;'>$22,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (7 Users)</td>
+<td style='padding: 10px;'>$36,267.00</td>
+<td style='padding: 10px;'>$33,095.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng, CRM and Sales for 15 Users (Enterprise)</td>
-<td style='padding: 10px;'>$25,121.00</td>
-<td style='padding: 10px;'>$25,121.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Neu_Media_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (10 Users)</td>
+<td style='padding: 10px;'>$41,484.00</td>
+<td style='padding: 10px;'>$37,679.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
+ Company name:The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

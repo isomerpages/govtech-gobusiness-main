@@ -1,23 +1,15 @@
 ---
-title: 'Eminet Sophos XGS Firewall'
+title: 'Smart Glasses - InnoGlas'
 permalink: /productivity-solutions-grant/solutionrepo/solution589
 ---
 
-## Eminet Sophos XGS Firewall
+## Smart Glasses - InnoGlas
 
 ## Overview
 
 **Description**
 
-Sophos XGS Cybersecurity Solution that provides :
-(i) Network Firewall
-(ii) Intrusion Detection/Prevention System
-(iii) Virtual Private Network (VPN)
-(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
-(v) Secure Email Gareway (e.g. anti-spam, content filtering)
-(vi) Anti-Virus/Anti-Malware
-(vii) Application Control
-(viii) Sandboxing
+InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
 
 ## Solution Packages Option(s)
 
@@ -31,31 +23,38 @@ Sophos XGS Cybersecurity Solution that provides :
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 116</td>
-<td style='padding: 10px;'>$1,670.00</td>
-<td style='padding: 10px;'>$1,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
+<td style='padding: 10px;'>$8,420.00</td>
+<td style='padding: 10px;'>$7,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 136</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
+<td style='padding: 10px;'>$14,740.00</td>
+<td style='padding: 10px;'>$12,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2100</td>
-<td style='padding: 10px;'>$3,862.00</td>
-<td style='padding: 10px;'>$3,862.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
+<td style='padding: 10px;'>$21,060.00</td>
+<td style='padding: 10px;'>$18,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2300</td>
-<td style='padding: 10px;'>$5,168.00</td>
-<td style='padding: 10px;'>$5,168.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
+<td style='padding: 10px;'>$15,240.00</td>
+<td style='padding: 10px;'>$13,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
+<td style='padding: 10px;'>$35,560.00</td>
+<td style='padding: 10px;'>$20,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ Sophos XGS Cybersecurity Solution that provides :
 
 ## Vendor Information
 
- Company Name: EMINET PTE LTD<br>Web URL: www.eminet.com.sg <br><br>Contact Hotline: 66019898 <br><br>Contact Email: charles@eminet.com.sg <br><br>
+ Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

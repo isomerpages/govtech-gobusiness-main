@@ -1,15 +1,17 @@
 ---
-title: 'Gravis'
+title: 'NetDocuments'
 permalink: /productivity-solutions-grant/solutionrepo/solution1112
 ---
 
-## Gravis
+## NetDocuments
 
 ## Overview
 
 **Description**
 
-Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning (ERP) solution that seeks to leverage on data to aid firms in making business decisions. The cloud-based SaaS platform drives meaningful business insights, allowing firms to make data-driven decisions to grow their companies. It also brings together different aspects of businesses such as invoicing, product, inventory, order, and customer management on a unified platform to increase efficiency and reduce costs.
+NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
+
+Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,48 @@ Gravis is an integrated omnichannel e-commerce and Enterprise Resource Planning 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Basic Plan (Up to 5 users)</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Premium Plan (Up to 10 users)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gravis - Enterprise Plan (Up to 30 users)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OneXGroup_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
+<td style='padding: 10px;'>$18,740.00</td>
+<td style='padding: 10px;'>$17,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
+<td style='padding: 10px;'>$26,860.00</td>
+<td style='padding: 10px;'>$24,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
+<td style='padding: 10px;'>$45,600.00</td>
+<td style='padding: 10px;'>$36,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ONE X GROUP PTE. LTD.<br>Web URL: https://www.onextech.com.sg/work <br><br>Contact Hotline: 91198609 <br><br>Contact Email: info@onextech.com <br><br>
+ Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

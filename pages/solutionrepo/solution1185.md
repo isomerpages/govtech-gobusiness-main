@@ -1,15 +1,15 @@
 ---
-title: 'Profectant Xero'
+title: 'Stendard Solution Version 1.7.12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1185
 ---
 
-## Profectant Xero
+## Stendard Solution Version 1.7.12
 
 ## Overview
 
 **Description**
 
-Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
+Stendard Solution is a cloud-based document management system allowing businesses of all sizes to implement business processes, in line with international standards. Users can easily collaborate, store, maintain, review, and sign-off documents electronically with digitised business workflows, version controls and track them on the platform. Stendard's vision is to put quality at the centre of all businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Profectant has established a sound track record in simplifying and implementing 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (5 concurrent users)</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (10 concurrent users)</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (30 concurrent users)</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$25,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Profectant has established a sound track record in simplifying and implementing 
 
 ## Vendor Information
 
- Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
+ Company name: YNL 360 Pte Ltd<br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

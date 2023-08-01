@@ -1,15 +1,15 @@
 ---
-title: 'Alpha eCommerce Booster Premium Version 2.8'
+title: 'Microsoft Cybersecurity Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution176
 ---
 
-## Alpha eCommerce Booster Premium Version 2.8
+## Microsoft Cybersecurity Package
 
 ## Overview
 
 **Description**
 
-Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
+This managed security service leverages the power of Microsoft's integrated threat protection solution that protect your devices and office 365 email against advanced threats such as credential phishing, ransomware and malware. With an "assume breach" mindset and AI-driven adaptive protection, behavioral cyber telemetry is continuously collected so as to prevent, detect, respond and recover automatically against advanced threats near real-time. Axiom will deploy the solution and support you.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AlphabetSix_Alpha_eCommerce_Booster_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
+ Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

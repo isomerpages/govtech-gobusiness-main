@@ -1,15 +1,15 @@
 ---
-title: 'Invisiron Cyber Defence'
+title: 'Qashier Smart POS for Beauty Version 2022.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution848
 ---
 
-## Invisiron Cyber Defence
+## Qashier Smart POS for Beauty Version 2022.01
 
 ## Overview
 
 **Description**
 
-Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
+Qashier provides smart point-of-sale and e-payment solutions to the Beauty and Services sector. Qashier's suite of solutions enable businesses to accept payments, manage store operations, and bring their business online.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,34 @@ Invisiron's UTM solution mitigates cyber-attacks automatically and is able to de
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Pro + Basic Setup</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'>$2,417.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Advanced Setup</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'>$3,297.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Qashier Smart POS for Beauty Version 2022.01 - Growth + Full Setup + Training</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'>$4,497.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qashier_20220110_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
+ Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

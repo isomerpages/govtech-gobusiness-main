@@ -1,15 +1,15 @@
 ---
-title: 'PixelCommerce Version 5.9.3'
+title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.'
 permalink: /productivity-solutions-grant/solutionrepo/solution1167
 ---
 
-## PixelCommerce Version 5.9.3
+## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.
 
 ## Overview
 
 **Description**
 
-PixelCommerce is a tailored eCommerce website solution for SMEs to go online and thrive in the digital economy. Enabling businesses to sell directly to customers anytime, anywhere - effortlessly, PixelCommerce is a proven solution that has been implemented for hundreds of SMEs over the years.
+WTW (Willis Towers Watson) is a leading global company with expertise in HR consulting and people solutions. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others. We advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ PixelCommerce is a tailored eCommerce website solution for SMEs to go online and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Fast</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Essentials</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Product Focused</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Service Focused</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - B2B / B2C Hybrid</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ PixelCommerce is a tailored eCommerce website solution for SMEs to go online and
 
 ## Vendor Information
 
- Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
+ Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.  <br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers <br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Singtel Endpoint Security'
+title: 'ASHOKATREE - Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1385
 ---
 
-## Singtel Endpoint Security
+## ASHOKATREE - Xero Cloud Accounting
 
 ## Overview
 
 **Description**
 
-Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
+Get ready for one of the best accounting solutions for small and medium size businesses (SME). Xero is one of the fastest-growing and popular cloud-based software solutions in the market. Thanks to its ease of use and versatility, Xero is packed with features and integrations that make it suitable for various businesses and sectors. SME currently exploring accounting solution may connect with Ashoka Tree Associates to learn more about Xero. Ashoka Tree Associates is a certified Xero advisor.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Singtel Endpoint Security provides comprehensive protection for your endpoints-f
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
-<td style='padding: 10px;'>$625.00</td>
-<td style='padding: 10px;'>$625.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 25 Licenses</td>
-<td style='padding: 10px;'>$1,343.00</td>
-<td style='padding: 10px;'>$1,343.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 51 Licenses</td>
-<td style='padding: 10px;'>$3,233.00</td>
-<td style='padding: 10px;'>$3,233.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 100 Licenses</td>
-<td style='padding: 10px;'>$5,884.00</td>
-<td style='padding: 10px;'>$5,884.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Empower</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses</td>
-<td style='padding: 10px;'>$8,890.00</td>
-<td style='padding: 10px;'>$8,890.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Excellence</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
+ Company name:ASHOKA TREE ASSOCIATES PTE. LTD.<br>Web URL: www.ashokatree.com.sg <br>Contact Hotline: 69516732 <br>Contact Email: johnny@ashokatree.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

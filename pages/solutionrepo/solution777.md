@@ -1,15 +1,15 @@
 ---
-title: 'DM Identity Counsel Digital Marketing Packages'
+title: 'OCi Sales & Accounting Management System (SAM)'
 permalink: /productivity-solutions-grant/solutionrepo/solution777
 ---
 
-## DM Identity Counsel Digital Marketing Packages
+## OCi Sales & Accounting Management System (SAM)
 
 ## Overview
 
 **Description**
 
-Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
+OCi Sales and Accounting Management System (SAM) is a straight-forward and comprehensive system in serving the needs in the following. Pre-Sales Management, Post-Sales Fulfilment Management, Accounts Receivable Management, Accounts Payable Management, Inventory Management, Multi-Currency Management, Project Management, Reporting, Accounting & Compliance Management.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets l
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Concurrent User)</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Concurrent Users)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Concurrent Users)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Concurrent Users)</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (8 Concurrent Users)</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
+ Company name:OCi System Pte Ltd<br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
