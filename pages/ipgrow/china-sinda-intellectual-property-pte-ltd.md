@@ -121,6 +121,7 @@ We provide professional services to international and domestic clients on all as
 - URL of LinkedIn/Company Profile: <a href="https://www.chinasinda.sg/" target="_blank" rel="noopener">https://www.chinasinda.sg/</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 26 July 2023

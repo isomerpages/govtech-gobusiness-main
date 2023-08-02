@@ -255,6 +255,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 - URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/chua-shang-li.html" target="_blank" rel="noopener">https://www.donburk.asia/chua-shang-li.html</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

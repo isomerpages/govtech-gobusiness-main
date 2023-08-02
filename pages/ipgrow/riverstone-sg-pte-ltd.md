@@ -59,6 +59,7 @@ Valueteam is a leading specialized valuation consulting firm in Singapore for cl
 - URL of LinkedIn/Company Profile: <a href="https://www.valueteam.com.sg" target="_blank" rel="noopener">https://www.valueteam.com.sg</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 26 July 2023

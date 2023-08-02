@@ -118,6 +118,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/samyukta-ravishankar-35001ab2" target="_blank" rel="noopener">https://www.linkedin.com/in/samyukta-ravishankar-35001ab2</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

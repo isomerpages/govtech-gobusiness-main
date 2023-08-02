@@ -89,6 +89,7 @@ From humble origins as a one-man business in 1977, we have matured into one of t
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/ameen-kalani-67a22618" target="_blank" rel="noopener">https://linkedin.com/in/ameen-kalani-67a22618</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/640e83c53ab4240011d59584' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

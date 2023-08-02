@@ -89,6 +89,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/david-zeng-sm" target="_blank" rel="noopener">https://www.linkedin.com/in/david-zeng-sm</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

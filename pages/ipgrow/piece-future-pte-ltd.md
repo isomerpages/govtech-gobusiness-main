@@ -99,6 +99,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/company/piecefuture" target="_blank" rel="noopener">https://sg.linkedin.com/company/piecefuture</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/643f4a3d662b62001209ac43' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

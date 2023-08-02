@@ -75,6 +75,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/nur-hazwah-mohd-amin-26b018169/" target="_blank" rel="noopener">https://www.linkedin.com/in/nur-hazwah-mohd-amin-26b018169/</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/64893e950ad50d0011e6bca4' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 26 July 2023

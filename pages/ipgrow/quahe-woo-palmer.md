@@ -162,6 +162,7 @@ We are a full service law firm comprising a team of experienced legal practition
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/emma-qing" target="_blank" rel="noopener">https://sg.linkedin.com/in/emma-qing</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

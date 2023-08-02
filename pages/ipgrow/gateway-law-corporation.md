@@ -206,6 +206,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/geneva-k" target="_blank" rel="noopener">https://www.linkedin.com/in/geneva-k</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

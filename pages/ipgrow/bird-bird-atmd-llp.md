@@ -297,6 +297,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwid
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/y/yi-xin-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/y/yi-xin-tan</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

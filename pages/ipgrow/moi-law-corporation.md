@@ -147,6 +147,7 @@ Read more about our services and expertise at: https://www.moi.legal
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/soklingmoi" target="_blank" rel="noopener">https://www.linkedin.com/in/soklingmoi</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

@@ -234,6 +234,7 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 - URL of LinkedIn/Company Profile: <a href="https://dentons.rodyk.com/en/jianming-chang" target="_blank" rel="noopener">https://dentons.rodyk.com/en/jianming-chang</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

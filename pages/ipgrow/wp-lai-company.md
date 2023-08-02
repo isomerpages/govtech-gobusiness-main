@@ -120,6 +120,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/642b74c9f5467b001273aa78' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

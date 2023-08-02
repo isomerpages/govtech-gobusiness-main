@@ -180,6 +180,7 @@ We provide timely, cost-effective, and commercially practical solutions to those
 - URL of LinkedIn/Company Profile: <a href="https://www.that.legal/jonathan" target="_blank" rel="noopener">https://www.that.legal/jonathan</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/643f94f9f643c40012e624cf' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

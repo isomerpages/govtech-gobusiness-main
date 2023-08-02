@@ -227,6 +227,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 - URL of LinkedIn/Company Profile: <a href="https://sanlaw.legal/team-member/stephanie-chan" target="_blank" rel="noopener">https://sanlaw.legal/team-member/stephanie-chan</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

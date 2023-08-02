@@ -66,6 +66,7 @@ We are the sole Singapore member firm of WTS Global, an international tax networ
 - URL of LinkedIn/Company Profile: <a href="https://taxiseasia.com/portfolio-items/eugene-lim/" target="_blank" rel="noopener">https://taxiseasia.com/portfolio-items/eugene-lim/</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 26 July 2023

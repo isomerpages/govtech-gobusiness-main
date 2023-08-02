@@ -111,6 +111,7 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dana-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/dana-lim</a>
 
 ---
-
+<p>
 <a class='btn' href='https://form.gov.sg/642d0129355de1001111ad18' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023
