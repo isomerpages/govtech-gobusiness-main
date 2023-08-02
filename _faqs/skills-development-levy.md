@@ -1,13 +1,21 @@
 ---
-title: Skills Development Levy
+title: Skills Development Levy FAQ
 permalink: /skillsdevelopmentlevy-faqs/
 ---
-<meta http-equiv="REFRESH" content="0;url=/skillsdevelopmentlevy-faqs/">
 
-###SDL and Contribution Rate
+### Skills Development Levy (SDL) Help
 
-{% include letter-accordion.html accordions=site.data.acc300-skills-development-levy-faq letter="a" %}
+### General SDL FAQ
 
-###Contact Us
+For questions about SDL scope, compliance, computation, and more
 
-{% include letter-accordion.html accordions=site.data.acc300-skills-development-levy-faq letter="b" %}
+
+### SDL on GoBusiness Dashboard
+
+For help navigating or transacting SDL e-services on GoBusiness Dashboard.
+
+{% include panels-featurelink.html panels=site.data.rgp005d_skillsdevelopmentlevy-faq %}
+
+### SDL on  CPF EZPay
+
+For help using CPF EZPay, check out the [CPF EZPay User Guide](www.placeholder.com).
