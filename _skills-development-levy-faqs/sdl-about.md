@@ -5,8 +5,8 @@ permalink: /skills-development-levy-faqs/sdl-about
 
 ### General
 
-{% include letter-accordion.html accordions=site.data.acc111a-ip-grow-faq letter="a" %}
+{% include letter-accordion.html accordions=site.data.acc300-skills-development-levy-faq letter="a" %}
 
 ### Contact Us
 
-{% include letter-accordion.html accordions=site.data.acc111a-ip-grow-faq letter="b" %}
+{% include letter-accordion.html accordions=site.data.acc300-skills-development-levy-faq letter="b" %}
