@@ -286,4 +286,6 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/nedimovic" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/nedimovic</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

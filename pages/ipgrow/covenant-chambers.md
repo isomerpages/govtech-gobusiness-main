@@ -147,4 +147,6 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 - URL of LinkedIn/Company Profile: <a href="https://www.covenantchambers.com/james-tan" target="_blank" rel="noopener">https://www.covenantchambers.com/james-tan</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

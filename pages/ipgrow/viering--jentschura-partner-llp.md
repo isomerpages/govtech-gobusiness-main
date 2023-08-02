@@ -237,4 +237,6 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 - IA/IP-Related Expertise: Registered Design Agent Service, IP Database, IP Due Diligence, IP Portfolio Management, IP Training
 
 ---
+
+<a class='btn' href='https://form.gov.sg/643f4dbebce917001147346b' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

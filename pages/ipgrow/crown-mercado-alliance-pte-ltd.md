@@ -67,4 +67,6 @@ With Crownmercado, you're a partner in a bold venture of growth, creativity, and
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/linda-isaac/" target="_blank" rel="noopener">https://www.linkedin.com/in/linda-isaac/</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/64a3958e320b790012071734' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

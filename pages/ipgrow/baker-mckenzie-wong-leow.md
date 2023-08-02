@@ -78,4 +78,6 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 - URL of LinkedIn/Company Profile: <a href="https://www.bakermckenzie.com/en/people/l/lim-ren-jun" target="_blank" rel="noopener">https://www.bakermckenzie.com/en/people/l/lim-ren-jun</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

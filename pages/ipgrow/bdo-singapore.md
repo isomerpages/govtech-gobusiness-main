@@ -77,4 +77,6 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/evelyn-lim-85920841" target="_blank" rel="noopener">https://sg.linkedin.com/in/evelyn-lim-85920841</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

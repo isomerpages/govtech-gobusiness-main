@@ -156,4 +156,6 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/danny-gelman" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/danny-gelman</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

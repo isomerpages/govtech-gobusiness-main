@@ -186,4 +186,6 @@ At Valuing IP, we make your intangibles, tangible!
 - URL of LinkedIn/Company Profile: <a href="https://sincathay.com/web/professionals" target="_blank" rel="noopener">https://sincathay.com/web/professionals</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

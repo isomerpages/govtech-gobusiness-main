@@ -165,4 +165,6 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/wai-yeng-chan" target="_blank" rel="noopener">https://www.linkedin.com/in/wai-yeng-chan</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

@@ -85,4 +85,6 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/nick-ang-28483945" target="_blank" rel="noopener">https://sg.linkedin.com/in/nick-ang-28483945</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

@@ -86,4 +86,6 @@ We want to help your business in the same way. So please reach out to us today!
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/justintanwl" target="_blank" rel="noopener">https://www.linkedin.com/in/justintanwl</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

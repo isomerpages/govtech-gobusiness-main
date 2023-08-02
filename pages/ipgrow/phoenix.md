@@ -59,4 +59,6 @@ Phoenix Design Pte Ltd. is a renowned and innovative design agency based in Sing
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/herryho/" target="_blank" rel="noopener">https://www.linkedin.com/in/herryho/</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/648904650ad50d0011dd9370' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

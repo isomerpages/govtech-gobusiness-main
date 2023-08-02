@@ -150,4 +150,6 @@ DCC has offices in Singapore, Australia, Hong Kong, Malaysia and New Zealand, as
 - URL of LinkedIn/Company Profile: <a href="https://dcc.com/people/ross-clark/" target="_blank" rel="noopener">https://dcc.com/people/ross-clark/</a>
 
 ---
+
+<a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023
