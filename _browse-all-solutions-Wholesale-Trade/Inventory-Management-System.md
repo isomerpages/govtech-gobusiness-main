@@ -32,7 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1412' target='_blank'>MuRho Inventory Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1404' target='_blank'>MuRho Inventory Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 </table>

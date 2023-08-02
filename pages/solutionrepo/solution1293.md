@@ -1,15 +1,15 @@
 ---
-title: 'Automatic case labelling machine'
+title: 'Culture Tank System with Monitoring and Control System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1293
 ---
 
-## Automatic case labelling machine
+## Culture Tank System with Monitoring and Control System
 
 ## Overview
 
 **Description**
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+Cultivation system with monitoring and control system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Case printing system or pack labelling system which allow the user to fully cust
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

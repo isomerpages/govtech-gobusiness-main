@@ -7,14 +7,11 @@ permalink: /maintenance-notices/
 
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
 
-### 2023
+### 2023 
 
-| **Scheduled Date** | **Remarks** |
-| ------  |------------------|
-| 21 Jul, 10pm - 22 Jul, 6am<br>22 Jul, 10pm - 23 Jul, 8am  | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available.
-| ------  |------------------|
-| 23 Jul, 12am - 8pm | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |
-
+| **Scheduled Date** | **Remarks** | 
+| ------  |------------------| 
+| 01 Aug, 8pm - 02 Aug, 12am | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance from 1 Aug 2023 8pm to 2 Aug 2023 12 am. Users will not be able to login during this period. We apologise for any inconvenience caused. |
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

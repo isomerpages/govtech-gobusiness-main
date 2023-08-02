@@ -1,15 +1,15 @@
 ---
-title: 'Automated Vaccination'
+title: 'Automatic Seed Sowing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1289
 ---
 
-## Automated Vaccination
+## Automatic Seed Sowing Machine
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
