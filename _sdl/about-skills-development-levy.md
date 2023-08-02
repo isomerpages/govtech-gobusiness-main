@@ -42,7 +42,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 <table>
 <tr>
-    <th style='width: 30%;'> <b>e-Service</b> </th>
+    <th style='width: 40%;'> <b>e-Service</b> </th>
     <th style='width: auto;'> <b>Description</b> </th>
 </tr>
 <tr>
@@ -85,9 +85,9 @@ Compute SDL amount payable (no login required):
 - [SDL Calculator](www.placeholder.com)
 
 **Log into GoBusiness Dashboard** to access the following e-Services:
-- SDL Payment & Declaration 
-- Refund of SDL Overpaid 
-- Notice of Objection (NOO) for SDL 
+- [SDL Payment & Declaration](www.placeholder.com)
+- [Refund of SDL Overpaid](www.placeholder.com)
+- [Notice of Objection (NOO) for SDL](www.placeholder.com)
 
 You can also view your SDL payment history, and retrieve and download SDL notification letters from within GoBusiness Dashboard.
 

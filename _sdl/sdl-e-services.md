@@ -7,9 +7,10 @@ permalink: /sdl-e-services/
 
 {% include notice.html notice=site.data.rgp009-sdl-eservices%}
 
+<br>
 <table>
 <tr>
-    <th style='width: 30%;'> <b>e-Service</b> </th>
+    <th style='width: 50%;'> <b>e-Service</b> </th>
     <th style='width: auto;'> <b>Description</b> </th>
 </tr>
 <tr>
@@ -82,7 +83,7 @@ permalink: /sdl-e-services/
         <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Return Form for Cheque Payment (.docx, 37 KB)</a>
     </td>
     <td>
-        Please fill up and enclose this form if paying SDL directly to SSG via cheque. You can find detailed instructions for this payment method at the SDL General FAQ (link to direct category).
+        Please fill up and enclose this form if paying SDL directly to SSG via cheque. You can find detailed instructions for this payment method at the [SDL General FAQ (link to direct category)](www.placeholder.com).
     </td>
 </tr>
 <tr>
@@ -90,9 +91,11 @@ permalink: /sdl-e-services/
         <a href="www.placeholder.com" target="_blank" rel="noopener">Declaration Form for Payroll Records (.xlsx, 202 KB)</a>
     </td>
     <td>
-       Include this Declaration Form in your SDL Payment & Declaration  application if:
-        Your computation based on your payroll records differs from SSG records for any of the relevant months; or 
-        Your most recent months' wage data from Government’s records are still unavailable for SSG to derive your SDL payable.
+       Include this Declaration Form in your [SDL Payment & Declaration](www.placeholder.com) application if:
+       <ul>
+        <li>Your computation based on your payroll records differs from SSG records for any of the relevant months; or</li> 
+        <li>Your most recent months' wage data from Government’s records are still unavailable for SSG to derive your SDL payable.</li>
+        </ul>
     </td>
 </tr>
 <tr>
@@ -100,8 +103,10 @@ permalink: /sdl-e-services/
         <a href="www.placeholder.com" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 202 KB)</a>
     </td>
     <td>
-        Include this template in your Notice of Objection (NOO) for SDL  application if:
-        Your computation based on your payroll records differs from SSG records in the SDL Notice of Assessment (NOA) for any of the relevant months.
+        Include this template in your [Notice of Objection (NOO) for SDL](www.placeholde.com) application if:
+        <ul>
+        <li>Your computation based on your payroll records differs from SSG records in the SDL Notice of Assessment (NOA) for any of the relevant months.</li>
+        </ul>
     </td>
 </tr>
 </table>
