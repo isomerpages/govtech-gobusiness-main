@@ -1,7 +1,7 @@
 ---
-title: About SLD
+title: About SDL
 permalink: /skills-development-levy-faqs/sdl-about
-third_nav_title: About SLD
+third_nav_title: About SDL
 ---
 
 ### General
