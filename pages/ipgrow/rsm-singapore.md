@@ -88,4 +88,7 @@ We are able to assist to estimate the value of the following intellectual proper
 - URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/daniel-low" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/daniel-low</a>
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

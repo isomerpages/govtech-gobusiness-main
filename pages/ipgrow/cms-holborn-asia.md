@@ -176,4 +176,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/denise-loh" target="_blank" rel="noopener">https://sg.linkedin.com/in/denise-loh</a>
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

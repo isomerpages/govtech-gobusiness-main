@@ -98,4 +98,7 @@ Founded in 2006, OOm is a one-stop digital marketing company that helps SMEs and
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/james-kong-2b24b061/" target="_blank" rel="noopener">https://www.linkedin.com/in/james-kong-2b24b061/</a>
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/64a39cb9b529c3001260ab83' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

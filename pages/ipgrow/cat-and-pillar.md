@@ -100,4 +100,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/640682ebb016ad0012f115c1' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

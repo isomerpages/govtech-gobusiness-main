@@ -94,4 +94,7 @@ As the first ISO 9001:2015 and management certified creative consultancy in Sing
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/ysaksen/" target="_blank" rel="noopener">https://www.linkedin.com/in/ysaksen/</a>
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/6482534cc80b3a00115c6e54' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

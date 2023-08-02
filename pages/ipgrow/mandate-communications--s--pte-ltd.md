@@ -79,4 +79,7 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 - URL of LinkedIn/Company Profile: <a href="https://www.mandatecomms.sg" target="_blank" rel="noopener">https://www.mandatecomms.sg</a>
 
 ---
+
+<br>
+<a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023
