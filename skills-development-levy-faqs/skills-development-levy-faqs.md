@@ -1,8 +1,15 @@
 ---
 title: About SLD
-permalink: /skills-development-levy-faqs/sdl-about
+permalink: /skills-development-levy-faqs/
 ---
 
-### General
 
-{% include letter-accordion.html accordions=site.data.acc111a-ip-grow-faq letter="a" %}
+### Skills Development Levy (SDL) Help
+
+### General SDL FAQ
+
+For questions about SDL scope, compliance, computation, and more.
+
+### SDL on GoBusiness Dashboard
+
+### SDL on CPF EZPay
