@@ -291,7 +291,4 @@ CEO & Tech Missionary, OTSAW.
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/joel-hanrahan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/joel-hanrahan</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

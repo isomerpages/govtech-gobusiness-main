@@ -69,7 +69,4 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/shingo-tsuda-58740120/" target="_blank" rel="noopener">https://www.linkedin.com/in/shingo-tsuda-58740120/</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

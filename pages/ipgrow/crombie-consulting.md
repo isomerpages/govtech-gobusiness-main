@@ -78,7 +78,4 @@ We are the brand famous for making brands famous. Over the past 35 years, we hav
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/andrewncrombie" target="_blank" rel="noopener">https://www.linkedin.com/in/andrewncrombie</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

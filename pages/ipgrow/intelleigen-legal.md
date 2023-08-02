@@ -163,7 +163,4 @@ The firm also provides backend IP support to Magic Circle Firm.
 - URL of LinkedIn/Company Profile: <a href="https://www.intelleigen.com/our-lawyers" target="_blank" rel="noopener">https://www.intelleigen.com/our-lawyers</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

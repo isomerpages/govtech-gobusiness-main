@@ -108,7 +108,4 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/munsiongyoong" target="_blank" rel="noopener">https://www.linkedin.com/in/munsiongyoong</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

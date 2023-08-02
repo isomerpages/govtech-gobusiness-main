@@ -139,7 +139,4 @@ We are one of the most reputable patent attorney firms in Singapore, having been
 - URL of LinkedIn/Company Profile: <a href="https://www.marks-clerk.com/our-people/gerald-samuel/" target="_blank" rel="noopener">https://www.marks-clerk.com/our-people/gerald-samuel/</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

@@ -94,7 +94,4 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/daniel-chan-6039b92b" target="_blank" rel="noopener">https://sg.linkedin.com/in/daniel-chan-6039b92b</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

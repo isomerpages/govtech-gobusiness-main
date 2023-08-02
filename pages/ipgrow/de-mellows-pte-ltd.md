@@ -83,7 +83,4 @@ De Mellows is a leading branding and marketing agency in Singapore and have work
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/sivarajanavismrmarketing/" target="_blank" rel="noopener">https://www.linkedin.com/in/sivarajanavismrmarketing/</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/648fc056ef9c070011abf0e3' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

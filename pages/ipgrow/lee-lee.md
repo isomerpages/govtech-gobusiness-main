@@ -223,7 +223,4 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

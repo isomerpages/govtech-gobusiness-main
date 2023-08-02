@@ -225,7 +225,4 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 - URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/associates/daniel-yap" target="_blank" rel="noopener">https://www.harryelias.com/associates/daniel-yap</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

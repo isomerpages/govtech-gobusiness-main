@@ -200,7 +200,4 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg" target="_blank" rel="noopener">https://www.linkedin.com/in/alvin-tan-638711186/?originalSubdomain=sg</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/642b82aad11e700013de2c97' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

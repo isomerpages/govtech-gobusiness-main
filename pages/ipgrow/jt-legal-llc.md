@@ -91,7 +91,4 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 - URL of LinkedIn/Company Profile: <a href="https://jtlegal.com.sg/joshua-tan" target="_blank" rel="noopener">https://jtlegal.com.sg/joshua-tan</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/64474f4686f6760012553eda' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

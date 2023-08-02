@@ -182,7 +182,4 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/marni-haji-afandi-72427838" target="_blank" rel="noopener">https://www.linkedin.com/in/marni-haji-afandi-72427838</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023

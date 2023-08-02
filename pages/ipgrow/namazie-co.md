@@ -78,7 +78,4 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 - URL of LinkedIn/Company Profile: <a href="https://www.namazie-law.com" target="_blank" rel="noopener">https://www.namazie-law.com</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 26 July 2023

@@ -202,7 +202,4 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 - URL of LinkedIn/Company Profile: <a href="https://www.alphaandomega.com.sg/about/our-people" target="_blank" rel="noopener">https://www.alphaandomega.com.sg/about/our-people</a>
 
 ---
-
-<br>
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
 Profile last updated on 12 June 2023
