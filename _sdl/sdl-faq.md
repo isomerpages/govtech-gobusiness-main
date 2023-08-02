@@ -1,4 +1,4 @@
 ---
 title: Skills FAQ
-permalink: /skillsdevelopmentlevy-faqs/
+permalink: /skills-development-levy-faqs/
 ---
