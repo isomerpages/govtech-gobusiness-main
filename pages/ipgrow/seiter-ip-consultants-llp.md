@@ -21,7 +21,7 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 
 <b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.
 
-<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

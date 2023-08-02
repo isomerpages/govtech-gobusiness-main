@@ -19,7 +19,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <b>Website:</b> <a href='https://www.spruson.com/'>https://www.spruson.com/</a>
 
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

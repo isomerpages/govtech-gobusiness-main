@@ -21,7 +21,7 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 
 <b>Offer:</b> We are happy to offer a free 15min consultation to understand your IP needs better
 
-<a class='btn' href='https://form.gov.sg/646ea7da8b572f00120b3fdf' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/646ea7da8b572f00120b3fdf' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

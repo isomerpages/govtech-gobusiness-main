@@ -17,7 +17,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 
 <b>Website:</b> <a href='https://www.alphaandomega.com.sg'>https://www.alphaandomega.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

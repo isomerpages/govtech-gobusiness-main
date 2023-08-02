@@ -19,7 +19,7 @@ DCC has offices in Singapore, Australia, Hong Kong, Malaysia and New Zealand, as
 
 <b>Website:</b> <a href='https://dcc.com/'>https://dcc.com/</a>
 
-<a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -19,7 +19,7 @@ Nabyula is a specialist brand communication consultancy that helps fast-growing 
 
 <b>Offer:</b> Feel free to contact us for a discovery chat to see if it is a good fit.
 
-<a class='btn' href='https://form.gov.sg/648907da8976520013ecd54d' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/648907da8976520013ecd54d' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

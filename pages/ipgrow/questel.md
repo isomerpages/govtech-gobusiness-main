@@ -21,7 +21,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 
 <b>Website:</b> <a href='https://www.questel.com/'>https://www.questel.com/</a>
 
-<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 

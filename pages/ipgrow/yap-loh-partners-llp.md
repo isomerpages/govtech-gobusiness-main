@@ -30,7 +30,7 @@ We want to help your business in the same way. So please reach out to us today!
 
 <b>Website:</b> <a href='https://www.ylplegal.com'>https://www.ylplegal.com</a>
 
-<a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

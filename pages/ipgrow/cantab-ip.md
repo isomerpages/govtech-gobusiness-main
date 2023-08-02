@@ -26,7 +26,7 @@ We're proud to have worked with some of the  most innovative companies in the Un
 
 <b>Offer:</b> 30 minute initial consultation without charge.
 
-<a class='btn' href='https://form.gov.sg/641b92e91ee4e100125ac17e' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/641b92e91ee4e100125ac17e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -17,7 +17,7 @@ We are a full service law firm comprising a team of experienced legal practition
 
 <b>Website:</b> <a href='https://www.qwp.sg/'>https://www.qwp.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -19,7 +19,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 
 <b>Website:</b> <a href='https://www.fpapatents.com'>https://www.fpapatents.com</a>
 
-<a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -23,7 +23,7 @@ Read more about our services and expertise at: https://www.moi.legal
 
 <b>Website:</b> <a href='https://www.moi.legal'>https://www.moi.legal</a>
 
-<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

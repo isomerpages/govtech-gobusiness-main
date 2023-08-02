@@ -39,7 +39,7 @@ Community of solvers combining innovative technologies to build trust and delive
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 10000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -54,7 +54,7 @@ Community of solvers combining innovative technologies to build trust and delive
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
 
 ---
 
@@ -69,7 +69,7 @@ Community of solvers combining innovative technologies to build trust and delive
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 3000</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
 
 ---
 
@@ -84,7 +84,7 @@ Community of solvers combining innovative technologies to build trust and delive
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000 - $15,000</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/bdo-singapore/){:target='_blank'}
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bdo-singapore/){:target='_blank'}
 
 ---
 
@@ -99,7 +99,7 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
 
 ---
 
@@ -114,7 +114,7 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> 8000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/max-lewis-consultants-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/max-lewis-consultants-pte-ltd/){:target='_blank'}
 
 ---
 

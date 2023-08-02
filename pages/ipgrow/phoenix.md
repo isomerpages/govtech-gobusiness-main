@@ -17,7 +17,7 @@ Phoenix Design Pte Ltd. is a renowned and innovative design agency based in Sing
 
 <b>Website:</b> <a href='https://www.phoenix.com.sg'>https://www.phoenix.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/648904650ad50d0011dd9370' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/648904650ad50d0011dd9370' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

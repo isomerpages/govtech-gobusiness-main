@@ -21,7 +21,7 @@ Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's lo
 
 <b>Offer:</b> First consultation is free upon formal engagement of our firm.
 
-<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

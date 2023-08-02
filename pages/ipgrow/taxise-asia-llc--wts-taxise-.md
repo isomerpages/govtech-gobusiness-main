@@ -19,7 +19,7 @@ We are the sole Singapore member firm of WTS Global, an international tax networ
 
 <b>Website:</b> <a href='https://www.taxiseAsia.com'>https://www.taxiseAsia.com</a>
 
-<a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

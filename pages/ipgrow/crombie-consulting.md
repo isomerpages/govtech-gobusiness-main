@@ -19,7 +19,7 @@ We are the brand famous for making brands famous. Over the past 35 years, we hav
 
 <b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes
 
-<a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

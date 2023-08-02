@@ -19,7 +19,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <b>Website:</b> <a href='https://www.maxlewis.com.sg'>https://www.maxlewis.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

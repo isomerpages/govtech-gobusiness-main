@@ -23,7 +23,7 @@ Additionally, our business valuation professionals are widely recognized for pro
 
 <b>Offer:</b> -
 
-<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

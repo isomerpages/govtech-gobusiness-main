@@ -25,7 +25,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 <b>Website:</b> <a href='https://www.bakermckenzie.com/en/'>https://www.bakermckenzie.com/en/</a>
 
-<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

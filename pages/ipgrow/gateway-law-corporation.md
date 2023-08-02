@@ -19,7 +19,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 
 <b>Website:</b> <a href='https://gateway-law.com/'>https://gateway-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -19,7 +19,7 @@ The name Distilleri is a play on the word 'Distill' - to purify or refine throug
 
 <b>Website:</b> <a href='https://distilleri.sg/'>https://distilleri.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/64a39ea59693f40011757358' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64a39ea59693f40011757358' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

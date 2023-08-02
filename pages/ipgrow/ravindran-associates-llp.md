@@ -19,7 +19,7 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 
 <b>Website:</b> <a href='https://www.ipravi.com/'>https://www.ipravi.com/</a>
 
-<a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 

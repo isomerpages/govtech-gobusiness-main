@@ -17,7 +17,7 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 
 <b>Website:</b> <a href='https://aedificarelaw.wordpress.com'>https://aedificarelaw.wordpress.com</a>
 
-<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

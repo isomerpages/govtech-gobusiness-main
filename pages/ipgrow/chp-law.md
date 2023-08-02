@@ -23,7 +23,7 @@ We work together with our clients every step of the way, providing elegant and c
 
 <b>Website:</b> <a href='https://www.chp.law'>https://www.chp.law</a>
 
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

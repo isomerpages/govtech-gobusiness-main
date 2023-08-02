@@ -19,7 +19,7 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 <b>Website:</b> <a href='https://www.namazie-law.com/'>https://www.namazie-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 

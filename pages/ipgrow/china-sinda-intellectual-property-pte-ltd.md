@@ -21,7 +21,7 @@ We provide professional services to international and domestic clients on all as
 
 <b>Website:</b> <a href='https://www.chinasinda.sg/'>https://www.chinasinda.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

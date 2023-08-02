@@ -21,7 +21,7 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 
 <b>Offer:</b> Free 1:1 consultation and problem diagnosis
 
-<a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 

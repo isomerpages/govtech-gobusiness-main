@@ -21,7 +21,7 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 
 <b>Website:</b> <a href='www.mandatecomms.sg'>www.mandatecomms.sg</a>
 
-<a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

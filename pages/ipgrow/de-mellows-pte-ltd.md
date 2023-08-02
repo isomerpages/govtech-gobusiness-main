@@ -19,7 +19,7 @@ De Mellows is a leading branding and marketing agency in Singapore and have work
 
 <b>Offer:</b> Free Brand Audit + Website Audit and a 1 hour free consultation With 3 Free Takeaways that can help your business.
 
-<a class='btn' href='https://form.gov.sg/648fc056ef9c070011abf0e3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/648fc056ef9c070011abf0e3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 

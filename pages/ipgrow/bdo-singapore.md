@@ -17,7 +17,7 @@ BDO in Singapore is a full-service professional services firm providing audit, t
 
 <b>Website:</b> <a href='https://www.bdo.com.sg/en-gb/home'>https://www.bdo.com.sg/en-gb/home</a>
 
-<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

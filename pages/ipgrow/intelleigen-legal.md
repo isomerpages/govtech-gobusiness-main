@@ -21,7 +21,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 
 <b>Website:</b> <a href='https://www.intelleigen.com'>https://www.intelleigen.com</a>
 
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

@@ -17,7 +17,7 @@ Piece Future is an Asia-headquartered and innovation-driven Intellectual Propert
 
 <b>Website:</b> <a href='https://www.piecefuture.com'>https://www.piecefuture.com</a>
 
-<a class='btn' href='https://form.gov.sg/643f4a3d662b62001209ac43' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4a3d662b62001209ac43' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 

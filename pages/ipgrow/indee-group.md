@@ -17,7 +17,7 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 
 <b>Website:</b> <a href='https://www.indee-sg.com/'>https://www.indee-sg.com/</a>
 
-<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
