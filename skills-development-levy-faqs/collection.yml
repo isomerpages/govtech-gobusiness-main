@@ -1,0 +1,9 @@
+collections:
+  skills-development-levy-faqs:
+    output: true
+    order:
+      - sdl-about.md
+      - sdl-scope-and-liability.md
+      - sdl-computation.md
+      - sdl-due-date-and-payment.md
+
