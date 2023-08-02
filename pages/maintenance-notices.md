@@ -7,12 +7,11 @@ permalink: /maintenance-notices/
 
 Kindly note the following scheduled maintenance. We apologise for the inconvenience caused.
 
-### 2023
+### 2023 
 
-| **Scheduled Date** | **Remarks** |
-| ------ |---------------|
-| 26 Jul, 6:30 pm - 11:59 pm | Application , amendment, renewal & cancellation of **National Environment Agency** licences will be unavailable during the upcoming scheduled maintenance. | 
-
+| **Scheduled Date** | **Remarks** | 
+| ------ |-------------------| 
+| 2 Aug, 6:30pm - 8:30pm | **NEA One Integrated Licensing System (OneILS)** will be unavailable during the upcoming scheduled maintenance. | 
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
