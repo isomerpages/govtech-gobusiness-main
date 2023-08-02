@@ -14,6 +14,7 @@ For questions about SDL scope, compliance, computation, and more
 
 For help navigating or transacting SDL e-services on GoBusiness Dashboard.
 
+{% include panels-featurelink.html panels=site.data.rgp005d_skillsdevelopmentlevy-faq %}
 
 ### SDL on  CPF EZPay
 
