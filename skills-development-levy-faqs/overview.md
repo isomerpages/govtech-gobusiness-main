@@ -1,8 +1,7 @@
 ---
-title: About SLD
+title: About SDL
 permalink: /skills-development-levy-faqs/
 ---
-
 
 ### Skills Development Levy (SDL) Help
 

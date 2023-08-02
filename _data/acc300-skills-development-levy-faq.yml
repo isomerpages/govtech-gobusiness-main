@@ -1,6 +1,204 @@
 - accordion:
   letter: a
   data:
-    - title: Hello
+    - title: What is Skills Development Levy (SDL) and what is it for?
       content: |
-        Testing accordian
+       "The Skills Development Levy (SDL) is a levy used to support workforce upgrading programmes and to provide training grants to employers when they send their employees to attend training under the national Continuing Education and Training system.
+
+        The SDL is administered by the SkillsFuture Singapore Agency (SSG)."
+
+
+    - title: How much do I have to contribute for the SDL?
+      content: |
+      The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+    
+    - title: What were the past revisions in SDL? How often will the SDL be adjusted?
+      content: |
+      "The history of changes to the SDL salary ceiling and rates is shown in the table below:
+
+      [table of figures - see current FAQ]
+
+      * Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
+
+      # The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.
+
+      The Government will review the levy rate regularly and any revision will take into account the need to maintain workforce and industry competitiveness through continuous skills upgrading and development."
+
+- accordion:
+  letter: b
+  data:
+    - title: Who do I contact for further enquiries?
+      content: |
+        You can contact SkillsFuture Singapore (SSG) through their feedback portal or call our helpdesk at 6785 5785.
+
+- accordion:
+  letter: c
+  data:
+    - title: Who is required to pay SDL?
+      content: |
+        "All employers are required to pay SDL for their employees.
+ 
+        SDL is not payable for the following employees:
+          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
+          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+        
+        For more details, you can refer to this question on exemptions."
+
+    - title: Are ministries and statutory boards required to pay SDL for their employees?
+      content: |
+        Yes, ministries and statutory boards are still required to contribute SDL for their employees.
+
+    - title: Do employers need to pay SDL for employees who are paid locally but work outside of Singapore?
+      content: |
+        No, employers do not need to pay SDL for employees who render services outside of Singapore. 
+
+    - title: Do employers need to pay SDL for foreign employees?
+      content: |
+        Yes, employers need to pay SDL for foreign employees. This is in addition to any foreign employee levy payable to the Ministry of Manpower.
+
+    - title: Why do I have to pay both SDL and Foreign Worker Levy (FWL) for foreign employees?
+      content: |
+      "Both the SDL and FWL serve different purposes.
+
+      SDL contributions are channelled to the Skills Development Fund which is used to build a national Continuing Education and Training (CET) system and provide financial assistance for employers to send their employees for training under the national CET system.
+
+      FWL is a levy imposed via the Ministry of Manpower for the administration of foreign workers with work permits."
+
+    - title: If an employer engages a third party agent to pay remuneration on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
+      content: |
+        "Yes. For example, Company A has five employees and is liable to pay remuneration to those employees. Company A engages a third party agent, Company B, to pay remuneration to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
+
+        In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the remuneration is paid by Company B on its behalf."
+
+    - title: Is SDL payable for directors or partners for the remuneration paid to them?
+      content: |
+        "SDL is not applicable on the fees paid to its directors. However, SDL is payable on directors' remuneration if the director is an employee of the company.
+        
+        SDL is not payable on the remuneration paid to its partners."
+
+    - title: Is a self-employed person required to pay SDL on account of his earnings from his business?
+      content: |
+        No, self-employed persons such as taxi drivers and hawkers do not need to pay SDL on account of the earnings from their business. However, the self-employed person has to pay SDL for any employees they hire.
+
+    - title: Which categories of employees or workers are exempted from SDL?
+      content: |
+        "SDL is not required for:
+          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
+          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+        • A matriculated or registered student of any of the following institutions, who is employed for the training approved by the institution in question:
+          1. Institute of Technical Education
+          2. Nanyang Polytechnic
+          3. Nanyang Technological University
+          4. National University of Singapore
+          5. Ngee Ann Polytechnic
+          6. Republic Polytechnic
+          7. Singapore Institute of Technology
+          8. Singapore Management University
+          9. Singapore Polytechnic
+          10. Singapore University of Social Sciences
+          11. Singapore University of Technology and Design
+          12. Temasek Polytechnic
+        
+        •  A matriculated or registered student of any overseas tertiary education institution who is required by the institution to undergo training in Singapore for a period of not more than 6 months. The exemption of SDL is subject to the condition that the employer of the student submits to SkillsFuture Singapore (SSG) a letter issued by the overseas tertiary education institution which confirms that:
+          1. The student is a matriculated or registered student of the institution; and
+          2. The student is required by the institution to undergo training in Singapore.
+        
+        •  A registered student (other than a student who has completed his ""A"" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
+        • Students of Government schools, excluding tertiary institutions, working during their scheduled school holidays.
+        •  'N' & 'O' level Government school students working during the scheduled school holidays.
+        •  'A' level students working during scheduled school holidays before their ""A"" level examinations."
+
+    - title: Do employers need to pay SDL for part-time employees?
+      content: |
+        Yes, SDL is payable for both full-time and part-time employees.
+
+    - title: Do employers need to pay SDL for employees whose length of employment is less than a month?
+      content: |
+        "Yes. SDL is payable for employees whose length of employment is less than a month. 
+
+        The exemption made for such employees is no longer in force."
+
+    - title: Can employers be exempted from paying SDL if they are not tapping on SDF training assistance?
+      content: |
+        "No. The collection of SDL and the disbursement of SDF training assistance are separate matters.
+
+        SDF training assistance is given as financial incentives for employers to upgrade their workers' skills. The SDL payment by an employer is not tied to the amount of funding the employer can obtain from SDF to train its workers. For details on SDF funding, please visit the SkillsFuture Singapore (SSG) website."
+    
+    - title: If there's a change in the shareholders of a company, or a change in the partners of a limited liability partnership (LLP), is the company or LLP required to pay the outstanding SDL?
+      content: |
+        Yes, companies and LLPs have legal personalities separate from those of its shareholders or partners. The company or LLP is still required to pay any outstanding SDL, regardless of changes in shareholders or partners.
+    
+    - title: What types of payment by employers are subject to SDL?
+      content: |
+        "You can refer to [this list](https://sdl.ssg.gov.sg/DOCs/Annex_A_SDL_FAQ.pdf) of various payment types and whether they are subject to SDL.""
+
+- accordion:
+  letter: d
+  data:
+    - title: How do I calculate how much SDL to pay for my employees?
+      content: |
+        "SDL is payable on the first $4,500 of monthly remuneration at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
+        
+        [Section D - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+
+    - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
+      content: |
+        "For a month where the employee is paid bonus or allowance, the amount of bonus or allowance is considered as remuneration for that month.
+
+        For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%)."
+    - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
+      content: |
+        "If remuneration is paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
+        
+        The remuneration can be converted to Singapore dollars using any of the published exchange rates used by a major local bank."
+
+    - title: How do I calculate SDL for employees who are on paid leave or no-pay leave?
+      content: |
+        "If the employer pays remuneration to the employee during the period of leave, the amount of SDL payable can be calculated based on that remuneration.
+
+        If the employer does not pay and is not liable to pay remuneration to the employee during the period of leave, then no SDL is payable."
+
+- accordion:
+  letter: e
+  data:
+    - title: When must I make payment for SDL?
+      content: |
+        "All employers are required to pay SDL for their employees.
+ 
+        SDL is not payable for the following employees:
+          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
+          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+        
+        For more details, you can refer to this question on exemptions."
+
+    - title: How do I make payment for SDL?
+      content: |
+        "You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives."
+
+    - title: Can I pay in instalments for SDL?
+      content: |
+        "You can use the [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to get personalised recommendations for suitable service providers, based on your intellectual property needs and preferences."
+
+    - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What happens if I do not pay SDL on time?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What SDL-related documents do I need to prepare and keep?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What are the penalties for giving false information regarding the employer's liability to pay SDL?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What are the penalties for hindering or obstructing SSG acting in the discharge of its duties under the SDL Act or any regulations made thereunder?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+    
+    - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
