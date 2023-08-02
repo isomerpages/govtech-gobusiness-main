@@ -1,15 +1,15 @@
 ---
-title: 'Ear Tagging Machine'
+title: 'Inoculation Cabinet (Laminar flow cabinet)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1303
 ---
 
-## Ear Tagging Machine
+## Inoculation Cabinet (Laminar flow cabinet)
 
 ## Overview
 
 **Description**
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

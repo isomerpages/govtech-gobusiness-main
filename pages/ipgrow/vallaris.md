@@ -5,22 +5,22 @@ permalink: /intellectual-property/ip-grow/vallaris/
 
 ## VALLARIS
 
-VALLARIS helps entrepreneurs and CEOs with their mergers and acquisitions ("M&A") deals and disputes.
+Vallaris helps entrepreneurs and CEOs with their mergers and acquisitions ("M&A") deals and disputes.
 
 Only 1% of entrepreneurs and CEOs fund raise successfully.
 
 Businesses often fail to raise the right type of funding at the right valuation at the right time.
 
-BUSINESS PLAN MISTAKES
+Business Plan Mistakes 
 Many fail without a clear What's in It For Me? ("WIIFM") for investors.
 
-BAD VALUATION
+Bad Valuation 
 Too low, you won't attract investors. Too high, you'll distance investors.
 
-CAN'T SEAL THE DEAL
+Can't Seal The Deal
 Most entrepreneurs are not trained to attract, pitch and close accredited investors.
 
-VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing Them.
+Vallaris' mission is to get investors & capital coming to you instead of chasing them.
 
 <b>Year established in Singapore:</b> 2018
 

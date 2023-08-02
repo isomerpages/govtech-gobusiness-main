@@ -1,19 +1,22 @@
 ---
-title: 'Encrusting Machine'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 
-## Encrusting Machine
+## Probing System
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+A probing system consists of the following attached to CNC machining center:
 
-Cost of equipment capped at $25,000 per unit 
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
+
+
 
 ## Solution Packages Option(s)
 
@@ -24,9 +27,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br><br></td>
 </tr>
 </table>
 

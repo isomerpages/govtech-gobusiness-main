@@ -161,7 +161,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): North Carolina</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Australia, North Carolina</li></ul>
 
 ---
 <a name='client-segments'></a>

@@ -1,15 +1,15 @@
 ---
-title: 'Pasteurisation Equipment/ Plant'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1316
 ---
 
-## Pasteurisation Equipment/ Plant
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

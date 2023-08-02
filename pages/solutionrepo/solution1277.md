@@ -1,17 +1,17 @@
 ---
-title: 'Ethylene Removal System'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1277
 ---
 
-## Ethylene Removal System
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

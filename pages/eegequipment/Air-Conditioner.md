@@ -7,11 +7,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -73,6 +73,8 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Fujitsu - AOAH36CBTA
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
+- GREE - GULD18W/NhB1-K(P)
+- GREE - GULD24W/NhB-K(P)
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO

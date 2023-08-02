@@ -30,7 +30,7 @@ To further protect your business interests, you may also consider seeking the ad
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for Freedom-to-Operate service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for freedom-to-operate service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
 
 #### Questel
 
@@ -49,7 +49,7 @@ Questel is a true end-to-end intellectual property solutions provider.
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -220,7 +220,7 @@ Intelleigen Legal LLC is a registered law firm based in Singapore.
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

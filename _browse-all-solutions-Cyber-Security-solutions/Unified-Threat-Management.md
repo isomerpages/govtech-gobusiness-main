@@ -6,6 +6,15 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 ## Unified Threat Management
 ## Overview
 
+**Description**
+
+Unified Threat Management (UTM) is a converged platform of point security products, particularly suited to small and middle-sized businesses. 
+
+Typical feature sets fall into three main subsets: 
+(a) firewall/intrusion prevention system (IPS)/virtual private network; 
+(b) secure Web gateway security (URL filtering, Web antivirus [AV]); and 
+(c) messaging security (anti-spam, mail AV).
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -40,44 +49,52 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>EMINET PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution604' target='_blank'>Invisiron Cyber Defence</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution601' target='_blank'>Invisiron Cyber Defence</a><br></td>
 <td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution620' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution617' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution742' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution734' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br></td>
 <td>Network Box (Sin) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution780' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution772' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution865' target='_blank'>Firewall Security Protection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution857' target='_blank'>Firewall Security Protection</a><br></td>
 <td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution946' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution938' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
 <td>Roycemedia Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution968' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution960' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1201' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1347' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1339' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1415' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1407' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1760' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td>SPTEL PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1828' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td>Nucleo Consulting Pte Ltd</td>
 </tr>
 </table>
 
