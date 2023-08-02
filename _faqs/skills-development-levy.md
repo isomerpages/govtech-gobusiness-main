@@ -7,7 +7,7 @@ permalink: /skillsdevelopmentlevy-faqs/overview
 
 ### General SDL FAQ
 
-For questions about SDL scope, comp
+For questions about SDL scope, compliance, computation, and more.
 
 ### SDL on GoBusiness Dashboard
 
