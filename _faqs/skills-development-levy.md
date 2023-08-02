@@ -1,14 +1,13 @@
 ---
 title: Skills Development Levy FAQ
-permalink: /skillsdevelopmentlevy-faqs/
+permalink: /skillsdevelopmentlevy-faqs/overview
 ---
 
 ### Skills Development Levy (SDL) Help
 
 ### General SDL FAQ
 
-For questions about SDL scope, compliance, computation, and more
-
+For questions about SDL scope, comp
 
 ### SDL on GoBusiness Dashboard
 

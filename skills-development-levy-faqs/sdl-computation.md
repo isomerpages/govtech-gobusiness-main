@@ -1,6 +1,6 @@
 ---
 title: SDL Computation
-permalink: /skills-development-levy-faqs/ia-ip-service-provider-faq
+permalink: /skills-development-levy-faqs/sdl-computation
 ---
 
 ### SDL Computation

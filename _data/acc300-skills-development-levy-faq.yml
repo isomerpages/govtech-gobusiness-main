@@ -1,24 +1,6 @@
 - accordion:
   letter: a
   data:
-    - title: What is Skills Development Levy (SDL) and what is it for?
+    - title: Hello
       content: |
-       "The Skills Development Levy (SDL) is a levy used to support workforce upgrading programmes and to provide training grants to employers when they send their employees to attend training under the national Continuing Education and Training system.
-
-        The SDL is administered by the SkillsFuture Singapore Agency (SSG)."
-
-    - title: How much do I have to contribute for the SDL?
-      content: |
-      The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
-    
-    - title: What were the past revisions in SDL? How often will the SDL be adjusted?
-      content: |
-      "The history of changes to the SDL salary ceiling and rates is shown in the table below:
-
-      [table of figures - see current FAQ]
-
-      * Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
-
-      # The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.
-
-      The Government will review the levy rate regularly and any revision will take into account the need to maintain workforce and industry competitiveness through continuous skills upgrading and development."
+        Testing accordian

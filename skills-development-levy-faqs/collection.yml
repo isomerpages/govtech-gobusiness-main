@@ -2,7 +2,7 @@ collections:
   skills-development-levy-faqs:
     output: true
     order:
-      - skills-development-levy-faqs.md
+      - overview.md
       - sdl-about.md
       - sdl-scope-and-liability.md
       - sdl-computation.md
