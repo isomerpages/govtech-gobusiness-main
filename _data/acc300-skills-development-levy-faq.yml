@@ -115,15 +115,15 @@
 
     - title: Do employers need to pay SDL for employees whose length of employment is less than a month?
       content: |
-        "Yes. SDL is payable for employees whose length of employment is less than a month. 
+        Yes. SDL is payable for employees whose length of employment is less than a month. 
 
-        The exemption made for such employees is no longer in force."
+        The exemption made for such employees is no longer in force.
 
     - title: Can employers be exempted from paying SDL if they are not tapping on SDF training assistance?
       content: |
-        "No. The collection of SDL and the disbursement of SDF training assistance are separate matters.
+        No. The collection of SDL and the disbursement of SDF training assistance are separate matters.
 
-        SDF training assistance is given as financial incentives for employers to upgrade their workers' skills. The SDL payment by an employer is not tied to the amount of funding the employer can obtain from SDF to train its workers. For details on SDF funding, please visit the SkillsFuture Singapore (SSG) website."
+        SDF training assistance is given as financial incentives for employers to upgrade their workers' skills. The SDL payment by an employer is not tied to the amount of funding the employer can obtain from SDF to train its workers. For details on SDF funding, please visit the SkillsFuture Singapore (SSG) website.
     
     - title: If there's a change in the shareholders of a company, or a change in the partners of a limited liability partnership (LLP), is the company or LLP required to pay the outstanding SDL?
       content: |
@@ -150,15 +150,15 @@
     
     - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
       content: |
-        "If remuneration is paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
+        If remuneration is paid in a foreign currency, the employer should calculate the amount of SDL payable, based on the equivalent value in Singapore dollars.
         
-        The remuneration can be converted to Singapore dollars using any of the published exchange rates used by a major local bank."
+        The remuneration can be converted to Singapore dollars using any of the published exchange rates used by a major local bank.
 
     - title: How do I calculate SDL for employees who are on paid leave or no-pay leave?
       content: |
-        "If the employer pays remuneration to the employee during the period of leave, the amount of SDL payable can be calculated based on that remuneration.
+        If the employer pays remuneration to the employee during the period of leave, the amount of SDL payable can be calculated based on that remuneration.
 
-        If the employer does not pay and is not liable to pay remuneration to the employee during the period of leave, then no SDL is payable."
+        If the employer does not pay and is not liable to pay remuneration to the employee during the period of leave, then no SDL is payable.
 
 - accordion:
   letter: e
@@ -204,3 +204,85 @@
     - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
       content: |
         There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+- accordion:
+  letter: f
+  data:
+    - title: When must I make payment for SDL?
+      content: |
+        All employers are required to pay SDL for their employees.
+ 
+        SDL is not payable for the following employees:
+          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
+          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+        
+        For more details, you can refer to this question on exemptions.
+
+    - title: How do I make payment for SDL?
+      content: |
+        "You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives."
+
+    - title: Can I pay in instalments for SDL?
+      content: |
+        "You can use the [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to get personalised recommendations for suitable service providers, based on your intellectual property needs and preferences."
+
+    - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What happens if I do not pay SDL on time?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What SDL-related documents do I need to prepare and keep?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What are the penalties for giving false information regarding the employer's liability to pay SDL?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+    - title: What are the penalties for hindering or obstructing SSG acting in the discharge of its duties under the SDL Act or any regulations made thereunder?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+    
+    - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
+      content: |
+        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+
+- accordion:
+  letter: f
+  data:
+    - title: I've received a Notice of Assessment (NOA). What does it mean?
+      content: |
+        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
+        
+        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
+        
+        You can proceed to make payment via GoBusiness (Link)
+
+    - title: I have been making monthly SDL contributions to CPFB (or SSG). Can I ignore this NOA?
+      content: |
+        If you have received a NOA, it means you still have outstanding SDL payable for the period stated in it. Please check your payroll records for both local and foreign employees.
+
+        If your calculated SDL payable differs from the amounted stated in the NOA, you can file a Notice of Objection via GoBusiness (Link).
+
+    - title: How are the figures derived in the SDL NOA? How do I verify them?
+      content: |
+        The figures in the NOA are calculated based on wage data from government records for all your local and foreign employees.
+ 
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee*, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+        
+        - Please refer to the definition of ""remuneration"" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+
+    - title: The estimated outstanding SDL payable in the SDL NOA is different from my own records. What should I do?
+      content: |
+        If your calculated SDL payable differs from the amount stated, please file Notice of Objection via GoBusiness (Link).
+
+    - title: Why do I need to file a Notice of Objection (NOO)?
+      content: |
+        You do not need to file NOO if you agree with the amount payable in the NOA. Please file NOO only if you disagree with the amount.
+        
+        Please note that there are penalties for providing false returns or information.
+        
+        View more information/details on NOO in the Dashboard SDL FAQ.
