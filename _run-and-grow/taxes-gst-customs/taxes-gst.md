@@ -4,7 +4,7 @@ permalink: /run-and-grow/taxes-and-gst/
 third_nav_title: Taxes, GST and Customs
 ---
 
-## File income tax return with Inland Revenue Authority of Singapore (IRAS)
+## Income Taxes, Levy, and GST
 
 ![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
 
