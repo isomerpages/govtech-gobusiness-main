@@ -18,13 +18,13 @@ For example, a month before Meta launched its payment platform Meta Pay, the tec
 
 By leveraging IP information, your business can make informed decisions about their IP and business strategies, including:
 
-- Determining which markets to target;
+- Determining which markets to target
 
-- Identifying products or services to develop based on interest and demand; 
+- Identifying products or services to develop based on interest and demand
 
-- Deciding whether to file patent or trade mark applications;
+- Deciding whether to file patent or trade mark applications
 
-- Evaluating whether to invest in research and development or license a technology. 
+- Evaluating whether to invest in research and development or license a technology
 
 There are public IP databases that you can tap on to perform your analyses. Performing IP searches can be complex and technical, especially for patent searches. If you are not familiar with performing IP searches and analytics, you can engage IP intelligence and search professionals to perform the analyses on your behalf, saving you a lot of time. 
 
@@ -151,7 +151,7 @@ Dentons Rodyk offers clients a full suite of legal services to do business local
 
 #### Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP provides IP services and practises the full spectrum of IP law.
+Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum of IP law.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -244,7 +244,7 @@ Piece Future is an Intellectual Property bank offering various strategy services
 
 #### Shook Lin & Bok LLP
 
-Shook Lin & Bok LLP is a leading full service law Firm with an Asian presence and global reach.
+Shook Lin & Bok LLP is a leading full service law firm with an Asian presence and global reach.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

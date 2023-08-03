@@ -139,7 +139,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 **James Tan**
 
-- Job Title: Associate
+- Job Title: Senior Associate
 - Years of Experience: 2 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
