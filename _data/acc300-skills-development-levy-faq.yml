@@ -29,3 +29,16 @@
     - title: Who do I contact for further enquiries?
       content: |
         You can contact SkillsFuture Singapore (SSG) through their feedback portal or call our helpdesk at 6785 5785.
+
+- accordion:
+  letter: c
+  data:
+    - title: Who is required to pay SDL?
+      content: |
+        All employers are required to pay SDL for their employees.
+ 
+        SDL is not payable for the following employees:
+          - An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
+          - An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+        
+        For more details, you can refer to this question on exemptions.
