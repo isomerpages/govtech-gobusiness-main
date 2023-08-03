@@ -1,17 +1,15 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: 'Automated Mixer/ Compacter for Growing Media'
 permalink: /productivity-solutions-grant/solutionrepo/solution1228
 ---
 
-## Portable Automatic Gas Cutting Machine
+## Automated Mixer/ Compacter for Growing Media
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
-
-Cost of equipment capped at $6,250 per unit
+Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $6,250 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

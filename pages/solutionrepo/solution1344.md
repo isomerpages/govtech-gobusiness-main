@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Solutions'
+title: 'MSSP for Asset Based Cyber Defence Version 1.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1344
 ---
 
-## Xero Cloud Accounting Solutions
+## MSSP for Asset Based Cyber Defence Version 1.2
 
 ## Overview
 
 **Description**
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations, for each transformation solutions deployment, SCS provides transformation consultation, integration, recommendations, project management, implementation as well as onsite training and technical support.
+TOFFS MSSP for Asset Based Cyber Defence provides 24x7 managed cybersecurity services based on CSA Cyber Essential/Trust mark framework. We equip and train the organisation to Identify, Secure, Protect and Update the Assets. Through onboarding the programme, organisations can work towards attaining the CSA Cyber Essentials Mark certification and meet the compliance cybersecurity requirements of PDPA, MAS TRM and MOH advisories etc.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Going digital is not only about moving to cloud-based accounting software but al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - System Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Mini with Next Day Business Support</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Lite</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Lite with Next Day Business Support</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Basic</td>
-<td style='padding: 10px;'>$4,864.00</td>
-<td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Small with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$31,700.00</td>
+<td style='padding: 10px;'>$31,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Standard</td>
-<td style='padding: 10px;'>$8,064.00</td>
-<td style='padding: 10px;'>$8,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Medium with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$39,700.00</td>
+<td style='padding: 10px;'>$39,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Premium</td>
-<td style='padding: 10px;'>$10,464.00</td>
-<td style='padding: 10px;'>$10,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) Internet & Malware Defence SME Large with 24 x 7 Managed Support</td>
+<td style='padding: 10px;'>$44,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Going digital is not only about moving to cloud-based accounting software but al
 
 ## Vendor Information
 
- Company name:Singapore Corporate Services Pte. Ltd.<br>Web URL: https://scs-cpa.com/xero-psg-grant <br>Contact Hotline: 69141113 <br>Contact Email: enquiry@scs-cpa.com 
+ Company Name: Toffs Technologies Pte Ltd<br>Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
