@@ -111,7 +111,7 @@ Global brand protection and trademark registration services in over 80 jurisdict
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 151 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 1) Free consultation for first-time clients on trademark registration related matters. 2) 10% discount on professional fees.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> <br>1) Free consultation for first-time clients on trademark registration related matters. <br>2) 10% discount on professional fees.</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640682ebb016ad0012f115c1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cat-and-pillar/){:target='_blank'}

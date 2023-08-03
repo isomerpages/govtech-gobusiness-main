@@ -21,7 +21,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 
 <b>Website:</b> <a href='https://www.catandpillar.com'>https://www.catandpillar.com</a>
 
-<b>Offer:</b> 1) Free consultation for first-time clients on trademark registration related matters. 2) 10% discount on professional fees.
+<b>Offer:</b> <br>1) Free consultation for first-time clients on trademark registration related matters. <br>2) 10% discount on professional fees.
 
 <a class='btn' href='https://form.gov.sg/640682ebb016ad0012f115c1' target='_blank' rel='noopener'>Get in touch</a>
 
