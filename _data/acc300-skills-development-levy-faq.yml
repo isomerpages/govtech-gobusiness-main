@@ -33,7 +33,7 @@
         </tr>
         </table>
 
-        # The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.**
+        "#" The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.**
 
         - Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
 
@@ -44,7 +44,7 @@
   data:
     - title: Who do I contact for further enquiries?
       content: |
-        You can contact SkillsFuture Singapore (SSG) through their feedback portal or call our helpdesk at 6785 5785.
+        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](www.placeholder.com) or call our helpdesk at 6785 5785.
 
 - accordion:
   letter: c
@@ -102,6 +102,7 @@
         SDL is not required for:
           - An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
           - An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
+
         - A matriculated or registered student of any of the following institutions, who is employed for the training approved by the institution in question:
           1. Institute of Technical Education
           2. Nanyang Polytechnic
