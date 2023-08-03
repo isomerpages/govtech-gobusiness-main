@@ -219,13 +219,13 @@
             <td>SDL is on the first $4,500 only</td>
         </tr>
         <tr>
-            <td>F</td>
+            <td rowspan = 2>F</td>
             <td>$10,000.00</td>
             <td>$11.25</td>
             <td>SDL is on the first $4,500 only</td>
         </tr>
         <tr>
-            <td rowspan = 2>Total</td>
+            <td>Total</td>
             <td>$42.75</td>
             <td> </td>
         </tr>
@@ -269,7 +269,15 @@
 
     - title: How do I make payment for SDL?
       content: |
-        "You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives."
+        Employers can pay SDL via the following options:
+
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information. This feature can also be used to pay SDL for your foreign employees. For more details, please refer to Section 7 – Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
+
+        Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
+
+        - Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness.
+
+        Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
 
     - title: Can I pay in instalments for SDL?
       content: |
