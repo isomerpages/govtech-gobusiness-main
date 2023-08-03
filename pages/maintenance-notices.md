@@ -9,7 +9,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 ### 2023 
 
-| **SchedPre-Login and Post-Log inuled Date** | **Remarks** | 
+| **Scheduled Date** | **Remarks** | 
 | ------ |-------------------| 
 | 3 Aug, 4:00pm - 6:00pm | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance. | 
 
