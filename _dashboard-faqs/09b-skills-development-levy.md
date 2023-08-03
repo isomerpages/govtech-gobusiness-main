@@ -1,5 +1,5 @@
 ---
 title: Skills Development Levy
-permalink: /skills-development-levy-faqs/
-third_nav_title: Skills Development Levy
+permalink: /dashboard-faqs/skills-development-levy-faqs/
 ---
+<meta http-equiv="REFRESH" content="0;url=/skills-development-levy-faqs/">

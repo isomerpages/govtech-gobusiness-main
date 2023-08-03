@@ -1,5 +1,5 @@
 ---
-title: About SDL
+title: Skills Development Levy (SDL) FAQ
 permalink: /skills-development-levy-faqs/
 ---
 
