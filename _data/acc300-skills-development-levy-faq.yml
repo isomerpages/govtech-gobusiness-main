@@ -165,48 +165,6 @@
   data:
     - title: When must I make payment for SDL?
       content: |
-        Employers are required to pay SDL within 14 days from the end of each month.
-
-    - title: How do I make payment for SDL?
-      content: |
-        Employers can pay SDL via the following options:
-        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information. This feature can also be used to pay SDL for your foreign employees. For more details, please refer to Section 7 – Auto-computation of Skills Development Levy (SDL) via CPF EZPay. <br> Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
-
-        - Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness. <br> Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
-
-    - title: Can I pay in instalments for SDL?
-      content: |
-        "You can use the [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to get personalised recommendations for suitable service providers, based on your intellectual property needs and preferences."
-
-    - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
-    - title: What happens if I do not pay SDL on time?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
-    - title: What SDL-related documents do I need to prepare and keep?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
-    - title: What are the penalties for giving false information regarding the employer's liability to pay SDL?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
-    - title: What are the penalties for hindering or obstructing SSG acting in the discharge of its duties under the SDL Act or any regulations made thereunder?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-    
-    - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
-      content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
-- accordion:
-  letter: f
-  data:
-    - title: When must I make payment for SDL?
-      content: |
         All employers are required to pay SDL for their employees.
  
         SDL is not payable for the following employees:
@@ -221,31 +179,81 @@
 
     - title: Can I pay in instalments for SDL?
       content: |
-        "You can use the [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to get personalised recommendations for suitable service providers, based on your intellectual property needs and preferences."
+        Employers who have difficulty paying the outstanding SDL in one lump sum may submit a request for instalment payments via SkillsFuture Singapore (SSG)'s feedback portal.
 
+        Information required includes the amount of outstanding SDL payable, reasons for the employer's inability to pay in one lump sum, and the number of instalments required.
+    
     - title: What should I do if I have forgotten to pay, or have been underpaying SDL?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-
+        Employers have to make a back-payment for the whole period that they have not been paying or have been underpaying. They may make a lump sum payment to the CPF Board or SkillsFuture Singapore (SSG) immediately.
+    
     - title: What happens if I do not pay SDL on time?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+        Late payment is subject to a penalty at the rate of 10% per annum of the outstanding amount.
 
     - title: What SDL-related documents do I need to prepare and keep?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+        Employers will need to prepare and keep a register containing the following details for every employee:
+        - Employee's full name, gender, age, address, identity card number, nature of employment, rate and amount of remuneration, date of commencement and cessation of employment, and such other records for SkillsFuture Singapore (SSG) to ascertain the levy payable
+
+        SSG may also request for records such as the CPF Board's Record of Payment (Form 90/90A) as documentary evidence of SDL payment.
 
     - title: What are the penalties for giving false information regarding the employer's liability to pay SDL?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+        Any person who negligently or without reasonable excuse gives any false information about his own or any other person's liability to pay SDL may be subject to: a penalty equal to the amount of the SDL due and unpaid, and to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
 
     - title: What are the penalties for hindering or obstructing SSG acting in the discharge of its duties under the SDL Act or any regulations made thereunder?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
-    
+        Any person who hinders or obstructs SSG or any officer, employee or agent of SSG acting in the discharge of its or his duties under the SDL Act or any regulations made thereunder may be subject to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
     - title: What can I do if I'm not sure how to make payment on GoBusiness Dashboard?
       content: |
-        There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
+        For help transacting SDL on GoBusiness Dashboard, head to the [Dashboard SDL FAQ](/dashboard-faqs/).
+
+- accordion:
+  letter: f
+  data:
+    - title: What is the auto-computation of SDL feature on CPF EZPay?
+      content: |
+        "Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
+ 
+        [Section F - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+          
+        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the ""Skills Development Levy (SDL) - For foreign employees"" section in the same transaction."
+
+    - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
+      content: |
+        The bonus pay-outs or allowances should be added to the monthly salary and employers should use the total sum to determine the SDL for their employees. For example, if the employee's salary for Dec 2014 is $3,000 and the bonus paid in Dec 2014 is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). In this scenario, SDL payable is $10 ($4,000 x 0.25%).
+
+    - title: What should I do if I do not want the system to auto-compute the SDL amount?
+      content: |
+        We strongly encourage the use of the auto-computation feature which improves your convenience in making SDL contributions.
+ 
+        To disable the auto-computation during the online submission, employers can edit the ""SDL To be Paid"" field or set the SDL payable option to ""No"" for certain employees who do not require SDL contributions.
+        
+        Please retain all supporting documents as per your declaration as SkillsFuture Singapore (SSG) may request for them subsequently.
+
+    - title: Can I make back-payments for SDL?
+      content: |
+        Employers can make back-payments for SDL directly to SkillsFuture Singapore (SSG) by logging in to GoBusiness. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
+        
+        You can also make back-payments for SDL via CPF EZPay, where the SDL payable is automatically calculated.
+
+    - title: How do I indicate employees who are exempted from SDL?
+      content: |
+        "For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
+ 
+        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+
+    - title: Where can I get technical assistance for the auto-computation feature?
+      content: |
+        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB | Write to us](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
+
+    - title: Do I need to round off the SDL amount to be paid for the foreign employees?
+      content: |
+        "No, you should indicate the actual amount payable under the ""Skills Development Levy (SDL) – For foreign employees"" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
+ 
+        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
 
 - accordion:
   letter: g
