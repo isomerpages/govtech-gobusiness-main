@@ -1,15 +1,15 @@
 ---
-title: 'Digital Retail Ecommerce Solutions'
+title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1603
 ---
 
-## Digital Retail Ecommerce Solutions
+## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0
 
 ## Overview
 
 **Description**
 
-The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
+AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders and Delivery. The end-to-end solutions include integration with POS, Self-Ordering Kiosk, Kitchen Management/Display Systems, Rewards (points system, e-vouchers, e-gift cards), Online Payment with multiple payment gateways, Pay at Table, Real Time Menu controls, Data Analytics, amongst others.   AppsPOS also provides e-waiter solution for dine in restaurants to assist customers in ordering.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QR ordering (Basic)</td>
+<td style='padding: 10px;'>$2,620.00</td>
+<td style='padding: 10px;'>$2,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_BYOD_Solution_Version5_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering Kiosk (Barcode Scan for ExpressCheckout)</td>
+<td style='padding: 10px;'>$3,840.00</td>
+<td style='padding: 10px;'>$3,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_BYOD_Solution_Version5_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering Kiosk</td>
+<td style='padding: 10px;'>$6,020.00</td>
+<td style='padding: 10px;'>$6,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_BYOD_Solution_Version5_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QR ordering (Standard) - with CRM & KDS</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$7,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_BYOD_Solution_Version5_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QR Ordering (Premium) - with advanced CRM & KDS</td>
+<td style='padding: 10px;'>$10,990.00</td>
+<td style='padding: 10px;'>$10,910.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AppsPOS_BYOD_Solution_Version5_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
+ Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

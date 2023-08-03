@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM
 ## Customer Relationship Management (CRM)
 ## Overview
 
+**Description**
+
+Offers ability to track all sales leads, assign to sales reps, setup sales targets, generate quotations, setup customers and generate detailed sales reports.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,59 +32,63 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution213' target='_blank'>1SME</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution217' target='_blank'>1SME</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution248' target='_blank'>CARDDIO Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution252' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution321' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution325' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution378' target='_blank'>Eber Smart Members Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution384' target='_blank'>Eber Smart Members Solution</a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution448' target='_blank'>FirstCRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution454' target='_blank'>FirstCRM</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution450' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution456' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution819' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution810' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td>Pepper Cloud Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution851' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution820' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution852' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution975' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1022' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1390' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1445' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1433' target='_blank'>AIO CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1488' target='_blank'>AIO CRM</a><br></td>
 <td>AIO Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1469' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1524' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1513' target='_blank'>HubSpot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1568' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1518' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1573' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
 <td>Alitec Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,19 @@
 ---
-title: 'Rainwater harvesting system and storage tank'
+title: 'Mobile Computer (Warehouse application)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1270
 ---
 
-## Rainwater harvesting system and storage tank
+## Mobile Computer (Warehouse application)
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +24,9 @@ A system with pumps, tanks and purification systems that collects and stores rai
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
 </tr>
 </table>
 
