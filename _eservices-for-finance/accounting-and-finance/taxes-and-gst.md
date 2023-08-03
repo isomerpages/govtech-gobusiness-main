@@ -1,10 +1,10 @@
 ---
-title: Taxes and GST
+title: Taxes, Levy, and GST
 permalink: /e-services/taxes-and-GST/
 third_nav_title: Accounting and Finance
 ---
 
-## Taxes and GST
+## Taxes, Levy, and GST
 
 ![Taxes and GST](/images/eservices/eServices_Taxes and GST.jpg)
 
