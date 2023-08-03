@@ -35,7 +35,7 @@
   data:
     - title: Who do I contact for further enquiries?
       content: |
-- title: Who is required to pay SDL?
+  - title: Who is required to pay SDL?
       content: |
         All employers are required to pay SDL for their employees.
  
@@ -67,9 +67,9 @@
 
     - title: If an employer engages a third party agent to pay remuneration on its behalf to its (the employer's) employees, does the employer still have to pay SDL?
       content: |
-        "Yes. For example, Company A has five employees and is liable to pay remuneration to those employees. Company A engages a third party agent, Company B, to pay remuneration to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
+        Yes. For example, Company A has five employees and is liable to pay remuneration to those employees. Company A engages a third party agent, Company B, to pay remuneration to the five employees on its (Company A's) behalf. There is no contractual relationship between Company B and the employees.
 
-        In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the remuneration is paid by Company B on its behalf."
+        In the above scenario, Company A is still required to pay SDL for the five employees, notwithstanding that the remuneration is paid by Company B on its behalf.
 
     - title: Is SDL payable for directors or partners for the remuneration paid to them?
       content: |
@@ -104,10 +104,10 @@
           1. The student is a matriculated or registered student of the institution; and
           2. The student is required by the institution to undergo training in Singapore.
         
-        -  A registered student (other than a student who has completed his ""A"" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
+        - A registered student (other than a student who has completed his ""A"" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
         - Students of Government schools, excluding tertiary institutions, working during their scheduled school holidays.
         - 'N' & 'O' level Government school students working during the scheduled school holidays.
-        -  'A' level students working during scheduled school holidays before their ""A"" level examinations.
+        - 'A' level students working during scheduled school holidays before their ""A"" level examinations.
 
     - title: Do employers need to pay SDL for part-time employees?
       content: |
