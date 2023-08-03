@@ -26,7 +26,7 @@ permalink: /dashboard-faqs/
 
 ### Levies
 
-{% include panels-featurelink.html panels=site.data.faqdb003-skills-development-levy %}
+{% include panels-featurelink.html panels=site.data.faqdb006-dashboard-sdl %}
 
 ----
 
