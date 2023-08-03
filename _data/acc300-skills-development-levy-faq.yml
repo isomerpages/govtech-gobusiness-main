@@ -230,7 +230,7 @@
             <td> </td>
         </tr>
         <tr>
-            <td rowspan = 2>Total SDL Payable</td>
+            <td>Total SDL Payable</td>
             <td>$42</td>
             <td>Rounding down is done at the total for the whole organisation and not on each employee</td>
         </tr>
