@@ -242,7 +242,7 @@
       content: |
         For a month where the employee is paid bonus or allowance, the amount of bonus or allowance is considered as remuneration for that month.
 
-        For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%)."
+        For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%).
     
     - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
       content: |
@@ -317,11 +317,11 @@
   data:
     - title: What is the auto-computation of SDL feature on CPF EZPay?
       content: |
-        "Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
+        Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
  
         [Section F - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
           
-        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the ""Skills Development Levy (SDL) - For foreign employees"" section in the same transaction."
+        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the ""Skills Development Levy (SDL) - For foreign employees"" section in the same transaction.
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
@@ -343,19 +343,19 @@
 
     - title: How do I indicate employees who are exempted from SDL?
       content: |
-        "For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
+        For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
  
-        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
 
     - title: Where can I get technical assistance for the auto-computation feature?
       content: |
-        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB | Write to us](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
+        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
 
     - title: Do I need to round off the SDL amount to be paid for the foreign employees?
       content: |
-        "No, you should indicate the actual amount payable under the ""Skills Development Levy (SDL) – For foreign employees"" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
+        No, you should indicate the actual amount payable under the ""Skills Development Levy (SDL) – For foreign employees"" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
  
-        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
 
 - accordion:
   letter: g
