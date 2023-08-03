@@ -15,7 +15,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Calculator</a>
+        <a href="https://go.gov.sg/sdl-calculator" target="_blank" rel="noopener">SDL Calculator</a>
     </td> 
     <td>
         Compute SDL amount payable with an online calculator. No login required.
@@ -23,7 +23,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td> 
     <td>
         Make payment for outstanding SDL, or pay SDL on your foreign employees. Login to GoBusiness Dashboard required.
@@ -31,7 +31,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment with CPF Contributions</a>
+        <a href="https://www.cpf.gov.sg/employer/employer-obligations/skills-development-levy" target="_blank" rel="noopener">SDL Payment with CPF Contributions</a>
     </td> 
     <td>
         Pay SDL together with your employees’ monthly CPF contributions via CPF EZPay. Login to CPF required.
@@ -39,7 +39,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">Refund of Overpaid SDL</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/request-refund" target="_blank" rel="noopener">Refund of Overpaid SDL</a>
     </td> 
     <td>
         Submit refund request for overpayment of SDL. Login to GoBusiness Dashboard required.
@@ -47,7 +47,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">Notice of Objection (NOO) for SDL</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object" target="_blank" rel="noopener">Notice of Objection (NOO) for SDL</a>
     </td> 
     <td>
         Submit an objection if your calculated SDL payable differs from the amount stated in the SDL Notice of Assessment (NOA). Login to GoBusiness Dashboard required.
@@ -55,7 +55,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">View Payment History and Notifications</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl" target="_blank" rel="noopener">View Payment History and Notifications</a>
     </td> 
     <td>
         View SDL payment history, or retrieve and download SDL notification letters. Login to GoBusiness Dashboard required.
