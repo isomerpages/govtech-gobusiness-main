@@ -24,7 +24,7 @@
             <th style='width: auto;'> <b>Maximum Contribution Per Employee</b> </th>
         </tr>
         <tr>
-            <td>"1 Jul 2000#"</td>
+            <td>1 Jul 2000#</td>
             <td>30 Jun 2004</td>
             <td>$1,500</td>
             <td>1%</td>
@@ -50,16 +50,16 @@
         <tr>
             <td>1 Oct 2008</td>
             <td>Current</td>
-            <td>"Up to $4,500*"</td>
+            <td>Up to $4,500*</td>
             <td>0.25%</td>
             <td>$2.00</td>
             <td>$11.25</td>
         </tr>
         </table>
 
-        "# The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance."
+        <p># The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
 
-        "* Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration."
+        * Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
 
         The Government will review the levy rate regularly and any revision will take into account the need to maintain workforce and industry competitiveness through continuous skills upgrading and development.
         
@@ -145,10 +145,10 @@
           1. The student is a matriculated or registered student of the institution; and
           2. The student is required by the institution to undergo training in Singapore.
         
-        -  A registered student (other than a student who has completed his ""A"" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
+        -  A registered student (other than a student who has completed his "A" level examinations) of any school registered under the Education Act (Cap. 87) and who is employed during the gazetted school holidays.
         - Students of Government schools, excluding tertiary institutions, working during their scheduled school holidays.
         -  'N' & 'O' level Government school students working during the scheduled school holidays.
-        -  'A' level students working during scheduled school holidays before their ""A"" level examinations.
+        -  'A' level students working during scheduled school holidays before their "A" level examinations.
 
     - title: Do employers need to pay SDL for part-time employees?
       content: |
@@ -181,13 +181,68 @@
       content: |
         SDL is payable on the first $4,500 of monthly remuneration at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
         
-        [Section D - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+        <table>
+        <tr>
+            <th style='width: auto;'> <b>Employee</b> </th>
+            <th style='width: auto;'> <b>Monthly Remuneration</b> </th>
+            <th style='width: auto;'> <b>SDL Payable</b> </th>
+            <th style='width: auto;'> <b>Remarks</b> </th>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>$150.80</td>
+            <td>$2</td>
+            <td>Minimum of $2 is payable for those earning less than $800</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>$609.50</td>
+            <td>$2</td>
+            <td>Minimum of $2 is payable for those earning less than $800</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>$2,000.00</td>
+            <td>$5</td>
+            <td>0.25% of monthly remuneration</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>$4,500.00</td>
+            <td>$11.25</td>
+            <td>0.25% of monthly remuneration</td>
+        </tr>
+        <tr>
+            <td>E</td>
+            <td>$4,502.00</td>
+            <td>$11.25</td>
+            <td>SDL is on the first $4,500 only</td>
+        </tr>
+        <tr>
+            <td>F</td>
+            <td>$10,000.00</td>
+            <td>$11.25</td>
+            <td>SDL is on the first $4,500 only</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Total</td>
+            <td>$42.75</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td>Total SDL Payable</td>
+            <td>$42</td>
+            <td>Rounding down is done at the total for the whole organisation and not on each employee</td>
+        </tr>
+        </table>
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
         For a month where the employee is paid bonus or allowance, the amount of bonus or allowance is considered as remuneration for that month.
 
-        For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%)."
+        For example, if the employee's salary for December is $3,000 and the bonus paid in December is $1,000, SDL should be calculated based on $4,000 ($3,000 +$1,000). SDL payable is $10 ($4,000 x 0.25%).
     
     - title: How do I calculate SDL for employees who work in Singapore but whose remunerations are paid in foreign currencies?
       content: |
@@ -216,7 +271,13 @@
 
     - title: How do I make payment for SDL?
       content: |
-        "You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives."
+        Employers can pay SDL via the following options:
+
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information. This feature can also be used to pay SDL for your foreign employees. For more details, please refer to Section 7 – Auto-computation of Skills Development Levy (SDL) via CPF EZPay.
+        <br>Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
+
+        - Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness.
+        <br>Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
 
     - title: Can I pay in instalments for SDL?
       content: |
@@ -256,11 +317,11 @@
   data:
     - title: What is the auto-computation of SDL feature on CPF EZPay?
       content: |
-        "Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
+        Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
  
         [Section F - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
           
-        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the ""Skills Development Levy (SDL) - For foreign employees"" section in the same transaction."
+        For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the "Skills Development Levy (SDL) - For foreign employees" section in the same transaction.
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
@@ -270,7 +331,7 @@
       content: |
         We strongly encourage the use of the auto-computation feature which improves your convenience in making SDL contributions.
  
-        To disable the auto-computation during the online submission, employers can edit the ""SDL To be Paid"" field or set the SDL payable option to ""No"" for certain employees who do not require SDL contributions.
+        To disable the auto-computation during the online submission, employers can edit the "SDL To be Paid" field or set the SDL payable option to "No" for certain employees who do not require SDL contributions.
         
         Please retain all supporting documents as per your declaration as SkillsFuture Singapore (SSG) may request for them subsequently.
 
@@ -282,19 +343,19 @@
 
     - title: How do I indicate employees who are exempted from SDL?
       content: |
-        "For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
+        For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
  
-        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
 
     - title: Where can I get technical assistance for the auto-computation feature?
       content: |
-        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB | Write to us](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
+        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
 
     - title: Do I need to round off the SDL amount to be paid for the foreign employees?
       content: |
-        "No, you should indicate the actual amount payable under the ""Skills Development Levy (SDL) – For foreign employees"" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
+        No, you should indicate the actual amount payable under the "Skills Development Levy (SDL) – For foreign employees" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
  
-        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]"
+        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
 
 - accordion:
   letter: g
@@ -319,7 +380,7 @@
  
         You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee*, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
         
-        - Please refer to the definition of ""remuneration"" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        - Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
 
     - title: The estimated outstanding SDL payable in the SDL NOA is different from my own records. What should I do?
       content: |
