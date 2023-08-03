@@ -27,7 +27,7 @@ Domestic servants, gardeners or chauffeurs are exempted.
 
 The levies go to the Skills Development Fund (SDF), which supports workforce upgrading programmes and provides grants for employees who attend training under the national Continuing Education and Training system.
 
-The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.skillsfuture.gov.sg/). You can read about the [Skills Development Levy (SDL)](www.placeholder.com) and the [SDL regulations](www.placeholder.com) on the Singapore Statutes Online website.
+The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}. You can read about the [Skills Development Levy (SDL)](https://sso.agc.gov.sg/Act/SDLA1979){:target="_blank"}{:rel="noopener"} and the [SDL regulations](https://sso.agc.gov.sg/SL/SDLA1979-RG2?DocDate=20161003){:target="_blank"}{:rel="noopener"} on the Singapore Statutes Online website.
 
 ---
 
@@ -36,7 +36,7 @@ The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](h
 
 The SDL payable is at 0.25% of the monthly remuneration for each employee, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
 
-You can use the [SDL calculator](www.placeholder.com) to compute the payable amount.
+You can use the [SDL calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"} to compute the payable amount.
 
 Late payment may result in a penalty of 10% on the outstanding amount each year.
 
@@ -47,7 +47,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
+        <a href="https://www.cpf.gov.sg/employer/employer-obligations/skills-development-levy" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
     </td>
     <td>
         <b>Make regular SDL payments together with CPF contributions</b><br>
@@ -61,7 +61,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td>
     <td>
         <b>Pay outstanding SDL / Pay SDL on foreign employees</b><br><br>
@@ -82,16 +82,16 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 Compute SDL amount payable (no login required):
 
-- [SDL Calculator](www.placeholder.com)
+- [SDL Calculator](https://go.gov.sg/sdl-calculator)
 
 **Log into GoBusiness Dashboard** to access the following e-Services:
-- [SDL Payment & Declaration](www.placeholder.com)
-- [Refund of SDL Overpaid](www.placeholder.com)
-- [Notice of Objection (NOO) for SDL](www.placeholder.com)
+- [SDL Payment & Declaration](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}
+- [Refund of SDL Overpaid](https://dashboard.gobusiness.gov.sg/sdl/request-refund){:target="_blank"}{:rel="noopener"}
+- [Notice of Objection (NOO) for SDL](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}
 
 You can also view your SDL payment history, and retrieve and download SDL notification letters from within GoBusiness Dashboard.
 
-View the full list of [SDL e-Services and resources](www.placeholder.com).
+View the full list of [SDL e-Services and resources](/sdl-e-services/).
 
 ---
 
