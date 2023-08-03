@@ -165,17 +165,14 @@
   data:
     - title: When must I make payment for SDL?
       content: |
-        All employers are required to pay SDL for their employees.
- 
-        SDL is not payable for the following employees:
-          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
-          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
-        
-        For more details, you can refer to this question on exemptions.
+        Employers are required to pay SDL within 14 days from the end of each month.
 
     - title: How do I make payment for SDL?
       content: |
-        "You can use the [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-faq){:target="_blank"}{:rel="noopener"} to identify and understand your IP needs, based on your business activities and objectives."
+        Employers can pay SDL via the following options:
+        - CPF EZPay. You will be able to use the SDL auto computation feature to compute your employee's SDL payable based on the remuneration information. This feature can also be used to pay SDL for your foreign employees. For more details, please refer to Section 7 – Auto-computation of Skills Development Levy (SDL) via CPF EZPay. <br> Payment made via CPF Board takes approximately two months for the transaction to be reflected in SSG's records.
+
+        - Employers making back-payments or with only foreign employees can make payment through SDL payment service on GoBusiness. <br> Payment made via the GoBusiness will take up to two weeks to be reflected in SSG's records.
 
     - title: Can I pay in instalments for SDL?
       content: |
@@ -251,7 +248,7 @@
         There are [20 IA/IP services](/intellectual-property/ip-grow/types-of-ia-ip-services/?src=ipgrow-faq) on GoBusiness IP Grow. Click on each IA/IP service to view the list of service providers specific to that service.
 
 - accordion:
-  letter: f
+  letter: g
   data:
     - title: I've received a Notice of Assessment (NOA). What does it mean?
       content: |
