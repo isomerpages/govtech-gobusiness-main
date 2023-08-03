@@ -181,7 +181,60 @@
       content: |
         SDL is payable on the first $4,500 of monthly remuneration at the rate of 0.25%, subject to a minimum of $2. The table below gives an example of how to calculate SDL payable:
         
-        [Section D - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+        <table>
+        <tr>
+            <th style='width: auto;'> <b>Employee</b> </th>
+            <th style='width: auto;'> <b>Monthly Remuneration</b> </th>
+            <th style='width: auto;'> <b>SDL Payable</b> </th>
+            <th style='width: auto;'> <b>Remarks</b> </th>
+        </tr>
+        <tr>
+            <td>A</td>
+            <td>$150.80</td>
+            <td>$2</td>
+            <td>Minimum of $2 is payable for those earning less than $800</td>
+        </tr>
+        <tr>
+            <td>B</td>
+            <td>$609.50</td>
+            <td>$2</td>
+            <td>Minimum of $2 is payable for those earning less than $800</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>$2,000.00</td>
+            <td>$5</td>
+            <td>0.25% of monthly remuneration</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>$4,500.00</td>
+            <td>$11.25</td>
+            <td>0.25% of monthly remuneration</td>
+        </tr>
+        <tr>
+            <td>E</td>
+            <td>$4,502.00</td>
+            <td>$11.25</td>
+            <td>SDL is on the first $4,500 only</td>
+        </tr>
+        <tr>
+            <td>F</td>
+            <td>$10,000.00</td>
+            <td>$11.25</td>
+            <td>SDL is on the first $4,500 only</td>
+        </tr>
+        <tr>
+            <td rowspan = 2>Total</td>
+            <td>$42.75</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan = 2>Total SDL Payable</td>
+            <td>$42</td>
+            <td>Rounding down is done at the total for the whole organisation and not on each employee</td>
+        </tr>
+        </table>
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
