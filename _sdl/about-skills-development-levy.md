@@ -27,7 +27,7 @@ Domestic servants, gardeners or chauffeurs are exempted.
 
 The levies go to the Skills Development Fund (SDF), which supports workforce upgrading programmes and provides grants for employees who attend training under the national Continuing Education and Training system.
 
-The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}. You can read about the [Skills Development Levy (SDL)](https://sso.agc.gov.sg/Act/SDLA1979){:target="_blank"}{:rel="noopener"} and the [SDL regulations](https://sso.agc.gov.sg/SL/SDLA1979-RG2?DocDate=20161003){:target="_blank"}{:rel="noopener"} on the Singapore Statutes Online website.
+The SDL and SDF are administrated by the [SkillsFuture Singapore Agency (SSG)](https://www.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}. You can read about the [Skills Development Levy (SDL)](https://sso.agc.gov.sg/Act/SDLA1979?ProvIds=P11-#pr2-){:target="_blank"}{:rel="noopener"} and the [SDL regulations](https://sso.agc.gov.sg/SL/SDLA1979-RG2?DocDate=20161003){:target="_blank"}{:rel="noopener"} on the Singapore Statutes Online website.
 
 ---
 
@@ -47,7 +47,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="https://www.cpf.gov.sg/employer/employer-obligations/skills-development-levy" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
+        <a href="URLs https://go.gov.sg/sdl-calculator https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
     </td>
     <td>
         <b>Make regular SDL payments together with CPF contributions</b><br>
