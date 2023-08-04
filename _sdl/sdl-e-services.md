@@ -72,7 +72,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">How to Update Company Contact Person(s)</a>
+        <a href="www.placeholder-dashboardfaq.com">How to Update Company Contact Person(s)</a>
     </td>
     <td>
         Instructions for writing in to SkillsFuture Singapore (SSG) to update company contact person(s).
