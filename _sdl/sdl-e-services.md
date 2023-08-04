@@ -92,7 +92,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 202 KB)</a>
+        <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 197 KB)</a>
     </td>
     <td>
         Include this template in your [Notice of Objection (NOO) for SDL](www.placeholde.com) application if:
