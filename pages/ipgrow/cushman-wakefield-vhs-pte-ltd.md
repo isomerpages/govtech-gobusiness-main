@@ -23,7 +23,7 @@ Additionally, our business valuation professionals are widely recognized for pro
 
 <b>Offer:</b> -
 
-<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -38,7 +38,7 @@ Additionally, our business valuation professionals are widely recognized for pro
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
 </ul>
 
 ---
@@ -93,4 +93,7 @@ Additionally, our business valuation professionals are widely recognized for pro
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/denise-yu-mei-ong-7b775713" target="_blank" rel="noopener">https://www.linkedin.com/in/denise-yu-mei-ong-7b775713</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023
