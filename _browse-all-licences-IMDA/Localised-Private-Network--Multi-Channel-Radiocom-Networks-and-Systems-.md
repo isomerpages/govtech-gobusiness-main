@@ -10,15 +10,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/416bfa38-c8d1-447d-8a3f-c428e4e73ba6" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/6b3bc97f-9a89-436f-bed2-361d4a6a495e" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>For establishing and setting up of a network using radio communication equipment utilising the multi-channel radio equipment.</p>
+<p>For operating a multi-channel radio-communication network (such as walkie talkie network) on a shared-use basis and within a localised area.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Network fee: $100.00<br />Frequency fee: $16.20 (with GST)</p>
+<p><strong>Fee</strong><br />Licence Fee: $100 per annum per network. GST is not applicable.<br />Frequency Fee: $15.00 per frequency. GST is applicable.</p>
 
 <H3>Requirements</H3>
 
