@@ -1,15 +1,15 @@
 ---
-title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
+title: 'Carbonate HR Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution243
 ---
 
-## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
+## Carbonate HR Version 1
 
 ## Overview
 
 **Description**
 
-Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME manage leave, schedule their employees with work timings, track attendance and pay staff quickly. Carbonate is an all in one solution to solve all your HR needs.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full v
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
-<td style='padding: 10px;'>$16,300.00</td>
-<td style='padding: 10px;'>$14,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 20</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 50</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$27,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 100</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 150</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 200</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
+ Company Name: Carbonate Pte Ltd<br>Web URL: www.carbonateapp.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@carbonateapp.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
