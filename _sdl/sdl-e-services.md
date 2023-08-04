@@ -80,22 +80,10 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">Declaration Form for Payroll Records (.xlsx, 202 KB)</a>
-    </td>
-    <td>
-       Include this Declaration Form in your [SDL Payment & Declaration](www.placeholder.com) application if:
-       <ul>
-        <li>Your computation based on your payroll records differs from SSG records for any of the relevant months; or</li> 
-        <li>Your most recent months' wage data from Government’s records are still unavailable for SSG to derive your SDL payable.</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td> 
         <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 197 KB)</a>
     </td>
     <td>
-        Include this template in your [Notice of Objection (NOO) for SDL](www.placeholde.com) application if:
+        Include this template in your [Notice of Objection (NOO) for SDL](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"} application if:
         <ul>
         <li>Your computation based on your payroll records differs from SSG records in the SDL Notice of Assessment (NOA) for any of the relevant months.</li>
         </ul>
