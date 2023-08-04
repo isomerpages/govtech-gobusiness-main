@@ -29,6 +29,16 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+**Branding Strategy Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Case by case</li>
+</ul>
+
 ---
 <a name='industry-focus'></a>
 ### Industry focus

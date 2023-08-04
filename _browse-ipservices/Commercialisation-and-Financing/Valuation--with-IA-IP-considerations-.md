@@ -92,16 +92,16 @@ Community of solvers combining innovative technologies to build trust and delive
 
 #### BDO Singapore
 
-
+Committed to exceptional client service by delivering what we promise, when you need it.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000 - $15,000</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bdo-singapore/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/64ab4ac8ce11aa0012f53127' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bdo-singapore/){:target='_blank'}
 
 ---
 
@@ -123,16 +123,16 @@ Professional service provider with comprehensive IA/IP valuation experience by q
 
 #### Riverstone SG Pte Ltd
 
-
+Business valuation,  IP valuation, brand valuation,  patent valuation, technology valuation, etc.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/riverstone-sg-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/64a392bd6b65df0012e48d50' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/riverstone-sg-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -185,16 +185,16 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 
 #### Taxise Asia LLC (WTS Taxise)
 
-
+Boutique law firm specialising in international tax, transfer pricing and international trade law.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $25,000</li>
 </ul>
 
-<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
 
 ---
 
