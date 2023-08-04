@@ -31,7 +31,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://www.cpf.gov.sg/employer/employer-obligations/skills-development-levy" target="_blank" rel="noopener">SDL Payment with CPF Contributions</a>
+        <a href="https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">SDL Payment with CPF Contributions</a>
     </td> 
     <td>
         Pay SDL together with your employees’ monthly CPF contributions via CPF EZPay. Login to CPF required.
@@ -80,14 +80,6 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="www.placeholder.com" target="_blank" rel="noopener">SDL Return Form for Cheque Payment (.docx, 37 KB)</a>
-    </td>
-    <td>
-        Please fill up and enclose this form if paying SDL directly to SSG via cheque. You can find detailed instructions for this payment method at the [SDL General FAQ (link to direct category)](www.placeholder.com).
-    </td>
-</tr>
-<tr>
-    <td> 
         <a href="www.placeholder.com" target="_blank" rel="noopener">Declaration Form for Payroll Records (.xlsx, 202 KB)</a>
     </td>
     <td>
@@ -118,7 +110,5 @@ For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Da
 
 For other questions about SDL, browse the [General SDL FAQ](www.placeholder.com).
 
-For help using CPF EZPay, check out the [CPF EZPay User Guide](www.placeholder.com).
+For help using CPF EZPay, check out the [CPF EZPay User Guide](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}.
 
-<script src="/jquery/jquery.min.js"></script>
-<script src="/jquery/bp-menu-new-tab.js"></script>

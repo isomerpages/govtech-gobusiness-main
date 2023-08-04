@@ -10,8 +10,7 @@ const listOfLinks = [
   "Dashboard",
   "SkillsFuture for Enterprise",
   "Intellectual Property",
-  "Skills Development Levy",
-  "SDL FAQ"
+  "Skills Development Levy"
 ];
 
 const main = ".bp-menu-list>li>a";

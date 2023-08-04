@@ -47,7 +47,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 </tr>
 <tr>
     <td> 
-        <a href="URLs https://go.gov.sg/sdl-calculator https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
+        <a href="https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">CPF EZPay via CPF Website</a>
     </td>
     <td>
         <b>Make regular SDL payments together with CPF contributions</b><br>
@@ -82,7 +82,7 @@ Late payment may result in a penalty of 10% on the outstanding amount each year.
 
 Compute SDL amount payable (no login required):
 
-- [SDL Calculator](https://go.gov.sg/sdl-calculator)
+- [SDL Calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
 
 **Log into GoBusiness Dashboard** to access the following e-Services:
 - [SDL Payment & Declaration](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}
@@ -100,5 +100,3 @@ View the full list of [SDL e-Services and resources](/sdl-e-services/).
 
 {% include panels-featurelink.html panels=site.data.rgp005c_skillsdevelopmentlevy-faq %}
 
-<script src="/jquery/jquery.min.js"></script>
-<script src="/jquery/bp-menu-new-tab.js"></script>
