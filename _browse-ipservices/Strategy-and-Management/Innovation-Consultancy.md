@@ -22,7 +22,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 
 ### Connect with relevant service providers for innovation consultancy services
 
-**7 service providers listed.**
+**14 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -39,7 +39,7 @@ Questel is a true end-to-end intellectual property solutions provider.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
 
 ---
 
@@ -55,7 +55,37 @@ EverEdge provides specialist intangible asset advisory, valuation and corporate 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
+
+---
+
+#### Marks & Clerk Singapore LLP
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
+
+---
+
+#### Davies Collison Cave
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
 
 ---
 
@@ -70,7 +100,37 @@ A global strategy consultancy helping clients to seize competitive advantage and
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/lek-consulting/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lek-consulting/){:target='_blank'}
+
+---
+
+#### Think SME Pte Ltd
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/think-sme-pte-ltd/){:target='_blank'}
+
+---
+
+#### PHOENIX
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $48,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/phoenix/){:target='_blank'}
 
 ---
 
@@ -85,7 +145,7 @@ FT Consulting is an Asia-centric business consulting firm helping companies grow
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ft-consulting-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -101,7 +161,7 @@ The firm is specializing in intellectual property, commercial law and dispute re
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer 1.5 hour free consultation to newly established technological star-ups.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soroker-agmon-nordman/){:target='_blank'}
 
 ---
 
@@ -116,7 +176,7 @@ A well-reputed multi-disciplinary law firm in Singapore.
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
 
 ---
 
@@ -129,10 +189,55 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> <br>(1) DIAMS Free Demo & Trial <br>(2) Octimine Free Trial & Search Analytics Tutorial <br>(3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
 </ul>
 
-<a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Connect</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
+<a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dennemeyer/){:target='_blank'}
+
+---
+
+#### Riverstone SG Pte Ltd
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/riverstone-sg-pte-ltd/){:target='_blank'}
+
+---
+
+#### INDEE Group 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/indee-group/){:target='_blank'}
+
+---
+
+#### Exy Intellectual Property
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+</ul>
+
+<a class='btn' href='' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
 
 ---
 
