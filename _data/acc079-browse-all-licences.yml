@@ -487,7 +487,7 @@
 
         For carrying out any form of public entertainment concerning the arts, viz. plays, musical performances, dance performances, exhibitions, variety shows and pop/ rock concerts. The Arts Entertainment Licence has to be collected from IMDA before the start of the the performance or event.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9c468103-ef70-4012-a31c-aae58b9e830a" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Arts-Entertainment-Licence">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Arts-Entertainment-Licence" style="margin-left: 1em;">View Licence Details</a>
 
         -----
         **Computer Online Service Licence**
