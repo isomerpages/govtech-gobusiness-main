@@ -119,3 +119,6 @@ For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Da
 For other questions about SDL, browse the [General SDL FAQ](www.placeholder.com).
 
 For help using CPF EZPay, check out the [CPF EZPay User Guide](www.placeholder.com).
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/epjs-bp-menu-new-tab.js"></script>

@@ -99,3 +99,6 @@ View the full list of [SDL e-Services and resources](/sdl-e-services/).
 ### FAQ
 
 {% include panels-featurelink.html panels=site.data.rgp005c_skillsdevelopmentlevy-faq %}
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/epjs-bp-menu-new-tab.js"></script>
