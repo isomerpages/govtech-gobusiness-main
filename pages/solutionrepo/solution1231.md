@@ -1,22 +1,15 @@
 ---
-title: 'Probing System'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1231
 ---
 
-## Probing System
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-Cost of equipment capped at $37,500 per unit 
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -27,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

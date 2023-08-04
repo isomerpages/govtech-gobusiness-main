@@ -25,7 +25,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 <b>Offer:</b> We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.
 
-<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -36,31 +36,31 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): No minimum project fee</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 600</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  No minimum project fee</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  No minimum project fee</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  </li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -147,4 +147,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 - URL of LinkedIn/Company Profile: <a href="https://www.covenantchambers.com/james-tan" target="_blank" rel="noopener">https://www.covenantchambers.com/james-tan</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

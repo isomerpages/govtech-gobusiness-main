@@ -17,7 +17,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 
 <b>Website:</b> <a href='https://www.alphaandomega.com.sg'>https://www.alphaandomega.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -28,71 +28,71 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 41 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 2000</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
 </ul>
 
 **Freedom-to-Operate Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Audit Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  8000</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  50000</li>
 </ul>
 
 **IP Strategy Consulting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  40000</li>
 </ul>
 
 **IP Training Services**
@@ -102,37 +102,37 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
 </ul>
 
 **IP Watch Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  40000</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $401</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  </li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 31 to 45</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -142,7 +142,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  400</li>
 </ul>
 
 ---
@@ -202,4 +202,7 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 - URL of LinkedIn/Company Profile: <a href="https://www.alphaandomega.com.sg/about/our-people" target="_blank" rel="noopener">https://www.alphaandomega.com.sg/about/our-people</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

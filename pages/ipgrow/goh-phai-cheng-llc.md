@@ -21,7 +21,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 
 <b>Offer:</b> Free first consultation.
 
-<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -35,18 +35,18 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $2,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Case-by-case basis </li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  20000</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -56,7 +56,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,330</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  2330</li>
 </ul>
 
 ---
@@ -112,4 +112,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/constance-leong-???-a61b362a" target="_blank" rel="noopener">https://linkedin.com/in/constance-leong-???-a61b362a</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

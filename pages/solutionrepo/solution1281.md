@@ -1,15 +1,19 @@
 ---
-title: 'Automated Vaccination'
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution1281
 ---
 
-## Automated Vaccination
+## Automated Noodle Boiler
 
 ## Overview
 
 **Description**
 
-Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
+The automated noodle boiler automates the noodle cooking process. 
+
+Cost of equipment capped at $10,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +24,9 @@ Automatic vaccination machine that increases accuracy and rate of vaccination, a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
 </tr>
 </table>
 
