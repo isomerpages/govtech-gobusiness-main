@@ -393,3 +393,37 @@
         Please note that there are penalties for providing false returns or information.
         
         View more information/details on NOO in the Dashboard SDL FAQ.
+
+- accordion:
+  letter: h
+  data:
+    - title: I've received a Notice of Assessment (NOA). What does it mean?
+      content: |
+        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
+        
+        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
+        
+        You can proceed to make payment via GoBusiness (Link)
+
+- accordion:
+  letter: i
+  data:
+    - title: I've received a Notice of Assessment (NOA). What does it mean?
+      content: |
+        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
+        
+        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
+        
+        You can proceed to make payment via GoBusiness (Link)
+
+- accordion:
+  letter: j
+  data:
+    - title: I've received a Notice of Assessment (NOA). What does it mean?
+      content: |
+        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
+        
+        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
+        
+        You can proceed to make payment via GoBusiness (Link)
+
