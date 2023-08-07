@@ -1,18 +1,15 @@
 ---
-title: 'DM Hashmeta Digital Enablement Packages'
+title: 'Microsoft Dynamics 365 Business Central (NAV) On Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution487
 ---
 
-## DM Hashmeta Digital Enablement Packages
+## Microsoft Dynamics 365 Business Central (NAV) On Cloud
 
 ## Overview
 
 **Description**
 
-Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta's own proprietary technologies. 
-
-The solutions offered to increase client's marketing effectiveness and efficiencies include the following:
-Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generation (SEO/SEM).
+Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick-to-implement, simple-to-use business solution with the power to support all the business ambitions.
 
 ## Solution Packages Option(s)
 
@@ -26,38 +23,17 @@ Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generati
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Paid Advertising + Content Marketing [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package A (5 Essential Users with Peppol)</td>
+<td style='padding: 10px;'>$22,905.00</td>
+<td style='padding: 10px;'>$20,155.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Paid Advertising + Tik Tok Live Streaming [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Paid Advertising + Influencer Marketing [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Paid Advertising + Ecommerce Marketing [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Lead Generation (SEO+SEM) [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package B (10 Essential Users with Peppol)</td>
+<td style='padding: 10px;'>$37,335.00</td>
+<td style='padding: 10px;'>$29,235.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -67,7 +43,7 @@ Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generati
 
 ## Vendor Information
 
- Company name:Hashmeta Pte Ltd<br>Web URL: www.hashmeta.com<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
+ Company name:Globalsoft Solutions Pte Ltd<br>Web URL: http://mng-solutions.com/dynamics-365-business/ <br>Contact Hotline: 65705012 <br>Contact Email: enquiries@mng-solutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

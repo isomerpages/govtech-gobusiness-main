@@ -1,15 +1,15 @@
 ---
-title: 'DM Firstcom Digital Marketing Programme'
+title: 'FidCorp Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution449
 ---
 
-## DM Firstcom Digital Marketing Programme
+## FidCorp Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! 
+FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is committed to providing quality products and services to business owners. As the winner of the Xero Singapore Emerging Accounting Partner of the Year Award for FY2022, FidCorp present FidCorp Xero Accounting Software to business owners so that they have more ME time with Xero simplifying their everyday business tasks! As always, FidCorp believe in retaining a personal touch while leveraging technology to deliver cost-eff
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution449
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
+<td style='padding: 10px;'>$2,164.00</td>
+<td style='padding: 10px;'>$2,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
+<td style='padding: 10px;'>$2,564.00</td>
+<td style='padding: 10px;'>$2,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
+<td style='padding: 10px;'>$4,264.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution449
 
 ## Vendor Information
 
- Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

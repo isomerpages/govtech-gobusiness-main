@@ -1,15 +1,15 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: 'iTrack Vehicle Fleet Tracking'
 permalink: /productivity-solutions-grant/solutionrepo/solution819
 ---
 
-## WEB360 Version 2.0.0
+## iTrack Vehicle Fleet Tracking
 
 ## Overview
 
 **Description**
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

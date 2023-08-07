@@ -1,15 +1,15 @@
 ---
-title: 'Realtimme Cloud Version 3.0.0'
+title: 'QuickDesk Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution852
 ---
 
-## Realtimme Cloud Version 3.0.0
+## QuickDesk Marketing
 
 ## Overview
 
 **Description**
 
-Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reporting to ACRA and corporate tax form C-S to IRAS. The solution consists of accounts receivables, accounts payable and general ledgers fully integrated with sales & purchases management module and inventory system. The solution is InvoiceNow ready, GST compliance to IRAS requirement and multi currency ready.
+Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reportin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Realtimme Cloud Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
+<td style='padding: 10px;'>$2,133.41</td>
+<td style='padding: 10px;'>$2,013.41</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
+<td style='padding: 10px;'>$4,649.30</td>
+<td style='padding: 10px;'>$4,249.30</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
+<td style='padding: 10px;'>$7,713.91</td>
+<td style='padding: 10px;'>$7,053.91</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
+<td style='padding: 10px;'>$9,395.19</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
+<td style='padding: 10px;'>$14,374.74</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reportin
 
 ## Vendor Information
 
- Company name:Realtimme IT Consultancy Pte Ltd<br>Web URL: www.realtimme.com.sg <br>Contact Hotline: 81488824 <br>Contact Email: sales@realtimme.net 
+ Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

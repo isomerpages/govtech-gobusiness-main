@@ -1,15 +1,15 @@
 ---
-title: 'DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution1377
 ---
 
-## DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-Aks Tech provides Digital Marketing Solution that are designed to help SMEs to enhance their social online presence, improving brand recognition and exposure. Solutions come with Digital Marketing Strategy Development, Social Media Platforms, Strategic Content Production (Video/Photography, Creative Design), Analytics and Training to help SMEs succeed in their digital marketing strategies as well as running effective Ads Campaigns to capture & retain audience's attention.
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Aks Tech provides Digital Marketing Solution that are designed to help SMEs to e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 1 (SMM+SMA - FB & IG) 2 months -Brand Awareness + Leads</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 2 (SMM+SMA - FB & IG) 3 months</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Aks Tech provides Digital Marketing Solution that are designed to help SMEs to e
 
 ## Vendor Information
 
- Companu Name: Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

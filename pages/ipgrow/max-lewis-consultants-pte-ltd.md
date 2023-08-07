@@ -19,7 +19,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <b>Website:</b> <a href='https://www.maxlewis.com.sg'>https://www.maxlewis.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -34,7 +34,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **Tax Advisory (with IA/IP considerations) Services**
@@ -44,7 +44,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  8000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,000</li>
 </ul>
 
 **Valuation (with IA/IP considerations) Services**
@@ -54,7 +54,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 ---
@@ -109,7 +109,4 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/albert-tan-Tiong-Heng" target="_blank" rel="noopener">https://linkedin.com/in/albert-tan-Tiong-Heng</a>
 
 ---
-<p>
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
-</p>
 Profile last updated on 12 June 2023

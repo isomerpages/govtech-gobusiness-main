@@ -1,15 +1,15 @@
 ---
-title: 'Cartrack Fleet Management'
+title: 'CARDDIO Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution252
 ---
 
-## Cartrack Fleet Management
+## CARDDIO Version 1
 
 ## Overview
 
 **Description**
 
-Cartrack's all-in-one Fleet Management solution increases the safety, efficiency, compliance and sustainability of any business with on-the-ground operations. Cartrack's solution harnesses the data from advanced telematics devices and 3rd party APIs with analytics, computer vision and proprietary AI to empower businesses with the real-time actionable insights needed to improve their operations and make their lives easier.
+Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Cartrack's all-in-one Fleet Management solution increases the safety, efficiency
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet (per Vehicle)</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cartrack_Cartrack_Fleet_Management_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Cartrack's all-in-one Fleet Management solution increases the safety, efficiency
 
 ## Vendor Information
 
- Company name:Cartrack Technologies South East Asia Pte Ltd<br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg 
+ Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

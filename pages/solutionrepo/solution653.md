@@ -1,16 +1,15 @@
 ---
-title: 'MEGAPOS Beauty & Wellness'
+title: 'LittleLives School Management System (Data Mining & Analytics)'
 permalink: /productivity-solutions-grant/solutionrepo/solution653
 ---
 
-## MEGAPOS Beauty & Wellness
+## LittleLives School Management System (Data Mining & Analytics)
 
 ## Overview
 
 **Description**
 
-MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
-Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
+LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,27 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
+<td style='padding: 10px;'>$6,537.00</td>
+<td style='padding: 10px;'>$5,301.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'>$4,797.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

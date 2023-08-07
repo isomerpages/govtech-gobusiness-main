@@ -17,7 +17,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 
 <b>Website:</b> <a href='https://www.dco.sg'>https://www.dco.sg</a>
 
-<a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Connect</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -32,7 +32,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 101 to 150</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **IP Watch Services**
@@ -42,7 +42,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -52,7 +52,7 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  940</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $940</li>
 </ul>
 
 ---
@@ -89,7 +89,4 @@ Dave & Co. LLP is a specialist trademarks firm with extensive experience with tr
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/david-zeng-sm" target="_blank" rel="noopener">https://www.linkedin.com/in/david-zeng-sm</a>
 
 ---
-<p>
-<a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>
-</p>
 Profile last updated on 12 June 2023

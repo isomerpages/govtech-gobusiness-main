@@ -19,7 +19,7 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 
 <b>Website:</b> <a href='https://www.allenandgledhill.com/'>https://www.allenandgledhill.com/</a>
 
-<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>
+<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Connect</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -30,11 +30,11 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Case by case</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -210,7 +210,4 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 - URL of LinkedIn/Company Profile: <a href="https://www.allenandgledhill.com/partners/22894/afzal-ali" target="_blank" rel="noopener">https://www.allenandgledhill.com/partners/22894/afzal-ali</a>
 
 ---
-<p>
-<a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>
-</p>
 Profile last updated on 12 June 2023

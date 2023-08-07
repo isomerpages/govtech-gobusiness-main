@@ -1,15 +1,15 @@
 ---
-title: 'DM Fier Capital Digital Marketing Packages'
+title: 'DM OC Digital Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1434
 ---
 
-## DM Fier Capital Digital Marketing Packages
+## DM OC Digital Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
+OC Digital is a proven multi-award-winning agency that has served Singapore businesses for over 10 years helping more than 600 companies generate customers by using the right digital marketing methods. As an SME ourselves, we know what local businesses are going through. Entrust your business with us to win back more customers today! We have created 4 digital marketing package solutions for you to choose from and there is one that will definitely help you and your business.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,31 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO + SEM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +57,7 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 
 ## Vendor Information
 
- Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
+ Company Name: OC Digital Pte Ltd<br>Web URL: https://ocdigitalnetwork.com/services/ <br>Contact Hotline: 63430068 <br>Contact Email: hello@ocdigitalnetwork.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
