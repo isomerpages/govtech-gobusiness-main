@@ -1,15 +1,17 @@
 ---
-title: 'DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2'
+title: 'Microsoft Dynamics 365 Business Central Version Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution1464
 ---
 
-## DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2
+## Microsoft Dynamics 365 Business Central Version Cloud
 
 ## Overview
 
 **Description**
 
-Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of SMEs in their digital growth. These solutions are customized for SMEs at different stages of digital maturity to enhance their online brand presence, digital marketing strategy, communication with target audiences, and increase sales. Bluehive's services cater to businesses that operate through ecommerce websites, brick-and-mortar stores, or both.
+Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
+
+Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$24,100.00</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 5 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$23,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 8 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$41,100.00</td>
+<td style='padding: 10px;'>$26,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SMA (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 10 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$46,000.00</td>
+<td style='padding: 10px;'>$29,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Edition - SaaS 8 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$53,600.00</td>
+<td style='padding: 10px;'>$30,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of
 
 ## Vendor Information
 
- Company Name: Bluehive Consulting Asia Pte Ltd<br>Web URL: https://www.bluehiveasia.com/psg-digital-marketing/<br>Contact Hotline: 91919682<br>Contact Email: projects@bluehiveasia.com
+ Company Name: Dalstech Pte Ltd<br>Web URL: https://www.dalstech.com/dynamics-365-business-central <br>Contact Hotline: 69092088 <br>Contact Email: sales@dalstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

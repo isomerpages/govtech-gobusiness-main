@@ -1,0 +1,145 @@
+<style> 
+    .content .panels {
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        margin: 24px 0;
+        align-items: start;
+    }
+
+    .content .panel {
+        display: grid;
+        row-gap: 16px;
+        border: 1px solid #dbdfe4;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        word-break: break-word;
+        grid-auto-rows: auto;
+        align-content: start;
+    }
+
+    .content .panel .panel-image {
+        font-family: hknova-semibold;
+        font-size: 24px;
+        font-weight: 600;
+        width: auto;
+        height: 60px;
+    }
+
+    .content .panel .panel-image>img {
+        width: auto;
+        height: 100%;
+        margin: 29px 0 0 29px;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-title {
+        font-family: hknova-semibold;
+        margin: 110px 29px 0px 29px;
+    }
+
+    .content .panel .panel-description{
+        display: grid;
+        font-family: hknova-regular;
+        font-size: 18px;
+        margin: 0 29px 0px 29px;
+        align-items: stretch;
+    }
+
+    .content .panel .panel-second-title {
+        display: grid;
+        font-family: hknova-regular;
+        font-size: 18px;
+        font-weight: bold;
+        margin: 10px 29px 0px 29px;
+        align-items:start;
+    }
+
+    .content .panel .panel-second-description {
+        display: grid;
+        font-family: hknova-regular;
+        font-size: 18px;
+        margin: 0 29px 0px 29px;
+        align-items: stretch;
+    }
+
+    .content .panel .lineDivider {
+        display:inline;
+    }
+
+    .content .panel .panel-links-container {
+        display: grid;
+        row-gap: 2px;
+        height: fit-content;
+        align-items: start;
+        font-family: hknova-regular;
+        font-size: 18px;
+        margin: 0px 29px 0px 29px;   
+        min-height: 100px;
+    }
+
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
+
+    .content .panel .links-container {
+        margin-top: 0rem;
+        margin-bottom: 0rem;
+        align-self: start;
+    }
+
+    .sameLine {
+        display: inline; 
+    }
+
+    
+    @media (max-width: 600px) {
+        .content .panels {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
+<div class="panels">
+    {% for panel in include.panels %}
+    <div class="panel">
+        {% if panel.image %}
+        <div class="panel-image" aria-hidden="true">{{ panel.image }}</div>
+        {% endif %}
+        <h4 class="panel-title">{{ panel.title }}
+        {% if panel.is_new %}
+        <span style="margin-left: 8px;">
+          {% include new-tag.html %}
+        </span>
+        {% endif %}
+        </h4>
+        {% if panel.description %}
+        <p class="panel-description">{{ panel.description }}</p>
+        {% endif %}
+        {% if panel.secondTitle %}
+        <p class="panel-second-title">{{ panel.secondTitle }}</p>
+        {% endif %}
+        {% if panel.secondDescription %}
+        <p class="panel-second-description">{{ panel.secondDescription }}</p>
+        {% endif %}
+        {% if panel.call or panel.contactForm or panel.email %}
+        <hr class = "lineDivider" style="width:100%;text-align:left;margin:0">
+        <div class="panel-links-container">
+            {% if panel.call %}
+            <p class = "links-container"><strong>Call:</strong> <a href="tel:{{ panel.call }}" class="sameLine">{{ panel.call }}</a></p>
+            {% endif %}
+            {% if panel.contactForm %}
+            <p class = "links-container"><strong>Contact Form:</strong> <a href="{{ panel.contactForm }}" class="sameLine">{{ panel.contactForm }}</a></p>
+            {% endif %}
+            {% if panel.email %}
+            <p class = "links-container"><strong>Email:</strong> <a href="mailto:{{ email }}" class="sameLine">{{ panel.email }}</a></p>
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>

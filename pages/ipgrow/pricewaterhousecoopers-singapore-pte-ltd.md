@@ -6,7 +6,9 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 ## PricewaterhouseCoopers Singapore Pte. Ltd.
 
 1. We are a member firm of PwC International Limited with nearly 328,000 people in 152 countries. We are among the leading professional services networks in the world focusing on helping organisations and individuals create the value they are looking for. In Singapore, we have more than 3,500 partners and staff to help resolve complex issues and identify opportunities for public, private and government organisations to progress. 
+
 2. At PwC, our purpose is to build trust in society and solve important problems.
+
 3. Our global strategy The New Equation which is a future that is human-led and tech-powered. For us, people and technology work hand in hand. It's about how human ingenuity combines with technology innovation and experience to deliver faster, more intelligent and better outcomes while building trust across the value chain. People and technology working together to create a stronger tomorrow
 
 <b>Year established in Singapore:</b> 2010
@@ -19,7 +21,7 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 
 <b>Website:</b> <a href='https://www.pwc.com/sg/en.html'>https://www.pwc.com/sg/en.html</a>
 
-<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -34,7 +36,7 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  10000</li>
 </ul>
 
 **Valuation (with IA/IP considerations) Services**
@@ -44,7 +46,7 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 21 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  30000</li>
 </ul>
 
 ---
@@ -126,4 +128,7 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/tien-chi-wong" target="_blank" rel="noopener">https://www.linkedin.com/in/tien-chi-wong</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

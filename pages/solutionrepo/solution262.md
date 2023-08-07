@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - CET Global Pte Ltd'
+title: 'XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution262
 ---
 
-## Job Redesign Consultancy - CET Global Pte Ltd
+## XERO
 
 ## Overview
 
 **Description**
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO - Cloud Accounting Software- Aspire Starter Plan A</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Basic Plan B</td>
+<td style='padding: 10px;'>$1,820.00</td>
+<td style='padding: 10px;'>$1,820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Advance Plan C</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Super Plan D</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Wonderful Plan E</td>
+<td style='padding: 10px;'>$4,385.00</td>
+<td style='padding: 10px;'>$4,385.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 ## Vendor Information
 
- Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
+ Company Name: Clooud Consulting LLP<br>Web URL: www.xero.com <br><br>Contact Hotline: 97592364 <br><br>Contact Email: info@clooudconsulting.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

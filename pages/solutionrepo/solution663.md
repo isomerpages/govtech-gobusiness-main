@@ -1,15 +1,15 @@
 ---
-title: 'Madsoft Solutions GST API Version 320'
+title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution663
 ---
 
-## Madsoft Solutions GST API Version 320
+## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 2 users with InvoiceNow</td>
-<td style='padding: 10px;'>$9,039.00</td>
-<td style='padding: 10px;'>$8,839.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 5 users with InvoiceNow</td>
-<td style='padding: 10px;'>$13,859.00</td>
-<td style='padding: 10px;'>$13,459.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 3 users with RFID hardware and InvoiceNow</td>
-<td style='padding: 10px;'>$19,829.00</td>
-<td style='padding: 10px;'>$16,929.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Premier 6 users with InvoiceNow</td>
-<td style='padding: 10px;'>$24,819.00</td>
-<td style='padding: 10px;'>$23,219.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 8 users with InvoiceNow</td>
-<td style='padding: 10px;'>$25,579.00</td>
-<td style='padding: 10px;'>$24,279.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 
 ## Vendor Information
 
- Company Name: Madsoft Solutions Pte Ltd<br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
+ Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com <br>Contact Email: marissa.chang@mercer.com <br>Contact Number: 63982800
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

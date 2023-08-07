@@ -1,17 +1,15 @@
 ---
-title: 'Armfort Security Workforce'
+title: 'eCommerce Masterplan Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1645
 ---
 
-## Armfort Security Workforce
+## eCommerce Masterplan Version 2.0
 
 ## Overview
 
 **Description**
 
-Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
-
-Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
+Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,17 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential (Leasing Model)</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (Leasing Model)</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Essential (One time)</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (One time)</td>
-<td style='padding: 10px;'>$31,000.00</td>
-<td style='padding: 10px;'>$28,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +43,7 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 
 ## Vendor Information
 
- Company Name: ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd<br>Web URL:www.armfort.com<br>Contact Hotline: 96497552<br>Contact Email: support@armfort.com
+ Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

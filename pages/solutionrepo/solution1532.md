@@ -1,15 +1,15 @@
 ---
-title: 'CalendarOne CRM Solution Version 2'
+title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 
-## CalendarOne CRM Solution Version 2
+## SKYFY VTS FLEET MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-CalendarOne CRM is a cloud based solution that integrates and automates the entire customer-related business process. It is a centralize platform that enable businesses to share, track, administer and manage their clients' engagement and experience. The solution enables businesses to gain deeper insight into their clients, thus helping them identify critical trends, retain clients and increase sales.
+Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ CalendarOne CRM is a cloud based solution that integrates and automates the enti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution - 25 Users Licence</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'>$10,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CalendarOne_CalendarOne_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CalendarOne CRM Solution - 50 Users Licence</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CalendarOne_CalendarOne_CRM_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,175.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ CalendarOne CRM is a cloud based solution that integrates and automates the enti
 
 ## Vendor Information
 
- Company Name: CalendarOne Pte Ltd<br>Web URL: http://www.calendarone.com/smesgodigital <br>Contact Hotline: 92485655 <br>Contact Email: francis@calendarone.com <br>
+ Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

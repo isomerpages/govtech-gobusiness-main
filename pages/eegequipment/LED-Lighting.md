@@ -280,6 +280,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GT-10E27T
 - DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
+- DYCORRA - DY-GT-12TE27S
 - DYCORRA - DY-GT-9E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
@@ -1931,7 +1932,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Sunshine - LPINB-7G24dC
 - Sunshine - LPINB-7G24dD
 - Sunshine - LPINB-7G24dW
-- Sunshine - LT8A-12W, LT8A-12D, LT8A-12C
+- Sunshine - LT8A-12C
+- Sunshine - LT8A-12D
+- Sunshine - LT8A-12W
 - Sunshine - LT8A-18C
 - Sunshine - LT8A-18D
 - Sunshine - LT8A-18W

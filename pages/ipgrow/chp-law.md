@@ -23,7 +23,7 @@ We work together with our clients every step of the way, providing elegant and c
 
 <b>Website:</b> <a href='https://www.chp.law'>https://www.chp.law</a>
 
-<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -34,11 +34,11 @@ We work together with our clients every step of the way, providing elegant and c
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 18000</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -168,12 +168,14 @@ We work together with our clients every step of the way, providing elegant and c
 **Arthur Yap**
 
 - Job Title: Director (Litigation)
-- Years of Experience: -
+- Years of Experience: 16 years
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution, IP Training, IP Watch, IP Portfolio Management
 - Certifications/Qualifications: LL.B. (Hons) National University of Singapore, B. Eng. (Chem) National University of Singapore, Advocate & Solicitor of the Supreme Court of Singapore; FSIArb
-- Awards/Accolades: IAM Strategy 300 (Global list 2020), IAM Strategy 300 (Global list 2021), IAM Strategy 300 (Global list 2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arthur-yap-9a70432a" target="_blank" rel="noopener">https://www.linkedin.com/in/arthur-yap-9a70432a</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

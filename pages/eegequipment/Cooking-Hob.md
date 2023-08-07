@@ -15,6 +15,7 @@ Induction technology
 - Bertazzoni - P302IB2NE
 - Bertazzoni - P603I30NV
 - Bertazzoni - P885IC2G5NE
+- Bertos - E7P4B/IND
 - Bertos - LXE9P2/IND
 - Bertos - LXE9P4/IND
 - Chefmaster - CM-200T1
@@ -23,6 +24,13 @@ Induction technology
 - Chefmaster - CM-500A
 - Chefmaster - CM-500W
 - Chefmaster - CM-700D3T
+- COO - CK-280
+- COO - CK-2B350
+- COO - CK-350
+- COO - CK-4B350
+- COO - CK-FS-800
+- COO - CK-TT-2B350
+- COO - CK-WS-800
 - Dambo - H80-HJ098-P15S-BT
 - Dambo - LDS-DCL800-HJ098-20PS
 - Dambo - LDS-DT400-HJ098-A12PS
@@ -55,21 +63,26 @@ Induction technology
 - Garland - Instinct Hob 3.5
 - Garland - Instinct Hob 5
 - Hatco - IRNG-PB1-36
+- Hatco - IRNG-PB2-18
 - Hatco - IRNG-PB2-24-IA
 - Hatco - IRNG-PB2-29
 - Hatco - IRNG-PB2-36
 - Hatco - IRNG-PB2-36-IA
 - Hatco - IRNG-PC1-36
+- Hatco - IRNG-PC2F-18
 - Hatco - IRNG-PC2F-24-IA
 - Hatco - IRNG-PC2F-29
 - Hatco - IRNG-PC2F-36
 - Hatco - IRNG-PC2F-36-IA
+- Hatco - IRNG-PC2S-18
 - Hatco - IRNG-PC2S-24-IA
 - Hatco - IRNG-PC2S-29
 - Hatco - IRNG-PC2S-36
 - Hatco - IRNG-PC2S-36-IA
+- Hatco - IWRM-B1-1313-05
 - Hatco - IWRM-C1-1317-06
 - Hatco - IWRM-CD1-03
+- Hatco - IWRM-CD1-05
 - Mantru.e - ZC2-C366A
 - Mantru.e - ZC2-C366A-Q
 - Mantru.e - ZC2-C366B-Q
