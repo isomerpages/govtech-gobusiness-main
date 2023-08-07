@@ -1,15 +1,15 @@
 ---
-title: 'Quickbook Online'
+title: 'Microsoft 365 Defender'
 permalink: /productivity-solutions-grant/solutionrepo/solution1338
 ---
 
-## Quickbook Online
+## Microsoft 365 Defender
 
 ## Overview
 
 **Description**
 
-Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, invoicing, payroll, and more.
+Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbook Online- QBO</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IRIS_CORPORATE_Quickbook_Online_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:IRIS CORPORATE SERVICES PTE. LTD.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?region=SG&location=singapore <br>Contact Hotline: 81001936 <br>Contact Email: iriscorporateservices@yahoo.com
+ Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

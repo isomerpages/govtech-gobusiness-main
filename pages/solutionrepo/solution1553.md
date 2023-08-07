@@ -1,15 +1,19 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'Getz F&B Omni Channel Solution Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1553
 ---
 
-## Microsoft Dynamics 365 Business Central
+## Getz F&B Omni Channel Solution Version 2
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate the majority of SME's transactions from CRM to quote, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventory on the supply side. Assembly function are also available to cater to SME's mini-manufacturing needs. This would eliminate redundant processes and tasks. With more accurate information, SME's can make better informed decisions.
+Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
+
+Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
+
+Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,17 @@ Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Basic</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$23,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Basic</td>
-<td style='padding: 10px;'>$31,400.00</td>
-<td style='padding: 10px;'>$26,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Intermediate</td>
-<td style='padding: 10px;'>$35,200.00</td>
-<td style='padding: 10px;'>$28,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Advance</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Intermediate</td>
-<td style='padding: 10px;'>$43,800.00</td>
-<td style='padding: 10px;'>$31,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +47,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate 
 
 ## Vendor Information
 
- Company name:Microlabs Pte Ltd<br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg 
+ Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 91010657  (WhatsApp)<br>Contact Email:  connect@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Blast Freezer'
+title: 'Milking Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1251
 ---
 
-## Blast Freezer
+## Milking Machine
 
 ## Overview
 
 **Description**
 
-Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
-
-Cost of equipment capped at $30,000 per unit
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

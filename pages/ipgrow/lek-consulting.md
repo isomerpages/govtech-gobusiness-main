@@ -22,7 +22,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 
 <b>Website:</b> <a href='https://www.lek.com'>https://www.lek.com</a>
 
-<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -33,11 +33,11 @@ We take a highly analytical approach to solving our clients' problems, taking th
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  20000</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -118,4 +118,7 @@ We take a highly analytical approach to solving our clients' problems, taking th
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/samyukta-ravishankar-35001ab2" target="_blank" rel="noopener">https://www.linkedin.com/in/samyukta-ravishankar-35001ab2</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023
