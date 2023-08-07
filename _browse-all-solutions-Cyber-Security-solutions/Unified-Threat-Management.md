@@ -79,6 +79,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1352' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1694' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td>SPTEL PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1762' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td>Nucleo Consulting Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
