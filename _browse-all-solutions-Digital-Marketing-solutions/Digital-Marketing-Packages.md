@@ -243,6 +243,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1755' target='_blank'>DM MediaPlus Digital Marketing Package</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1790' target='_blank'>DM 2Stallions Complete Digital Marketing Packages</a><br></td>
+<td>2STALLIONS PTE LTD</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

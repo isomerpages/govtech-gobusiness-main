@@ -131,6 +131,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1775' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1798' target='_blank'>WarelyPOS Version 1.3</a><br></td>
+<td>PLUS 65 MARKETING PTE. LTD.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

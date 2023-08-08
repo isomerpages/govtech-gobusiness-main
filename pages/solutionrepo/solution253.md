@@ -56,6 +56,41 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 <td style='padding: 10px;'>$16,560.00</td>
 <td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users (2 Years)</td>
+<td style='padding: 10px;'>$4,968.00</td>
+<td style='padding: 10px;'>$4,968.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 Users (2 Years)</td>
+<td style='padding: 10px;'>$9,936.00</td>
+<td style='padding: 10px;'>$9,936.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (2 Years)</td>
+<td style='padding: 10px;'>$16,560.00</td>
+<td style='padding: 10px;'>$16,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users (2 Years)</td>
+<td style='padding: 10px;'>$24,840.00</td>
+<td style='padding: 10px;'>$24,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (2 Years)</td>
+<td style='padding: 10px;'>$33,120.00</td>
+<td style='padding: 10px;'>$33,120.00</td>
+<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment

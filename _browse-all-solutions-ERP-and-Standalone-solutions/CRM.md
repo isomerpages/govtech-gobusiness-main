@@ -83,6 +83,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1518' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
 <td>Alitec Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1785' target='_blank'>Zoho CRM</a><br></td>
+<td>Zoho Corporation Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

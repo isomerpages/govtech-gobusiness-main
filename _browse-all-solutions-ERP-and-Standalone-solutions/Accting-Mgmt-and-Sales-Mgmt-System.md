@@ -267,6 +267,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1689' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1795' target='_blank'>Bamboo Sea: Xero</a><br></td>
+<td>Bamboo Sea Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
