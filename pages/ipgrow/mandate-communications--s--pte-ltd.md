@@ -9,7 +9,7 @@ Established in 1976, we have more than 40 years of B2B, B2C and G2C marketing co
 
 This depth of experience shapes our expertise across  branding, advertising, digital & content, media and event planning. Our strength lies in developing marketing communication strategies and carefully calibrated campaigns that deliver results for our clients. We innovate with spirited storytelling and communicate them across existing and emerging platforms. We are in fact dedicated communicators who are adept at employing whatever channel or technique necessary to best connect with your target audience - that's probably why we're not afraid to be judged by the results we generate for our clients.
 
-Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Services and Media Planning & Buying agencies.
+Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Services and Media Planning & Buying agencies.
 
 <b>Year established in Singapore:</b> 1976
 
@@ -32,11 +32,11 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Case by case</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $50,000</li>
 </ul>
 
 ---
