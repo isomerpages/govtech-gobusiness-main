@@ -190,15 +190,15 @@
 
     - title: How will I receive my refund?
       content: |
-      The refund will be credited to your provided Corporate PayNow ID.
+        The refund will be credited to your provided Corporate PayNow ID.
 
 - accordion:
   letter: f
   data:
     - title: What is a Notice of Objection (NOO)?
       content: |
-      NOO is a declaration of the following: 1) The outstanding SDL payable that you have calculated differs from the amount stated in the Notice of Assessment.
-      2) You have paid the outstanding SDL amount that you have verified.
+        NOO is a declaration of the following: 1) The outstanding SDL payable that you have calculated differs from the amount stated in the Notice of Assessment.
+        2) You have paid the outstanding SDL amount that you have verified.
 
     - title: Why do I need to file a Notice of Objection (NOO)?
       content: |
