@@ -10,8 +10,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** | 
-| ------ |-------------------| 
-| 2 Aug, 6:30pm - 8:30pm | **NEA One Integrated Licensing System (OneILS)** will be unavailable during the upcoming scheduled maintenance. | 
+| ------  |------------------| 
+| NIL | NIL |
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

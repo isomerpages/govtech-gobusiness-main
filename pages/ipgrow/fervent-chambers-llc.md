@@ -23,7 +23,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 
 <b>Offer:</b> Our first consultation (up to 30 minutes) is free.
 
-<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -34,11 +34,11 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): 600</li>
 </ul>
 
 **Dispute Resolution Services**
@@ -48,7 +48,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  600</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -58,7 +58,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  250</li>
 </ul>
 
 ---
@@ -95,4 +95,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 - URL of LinkedIn/Company Profile: <a href="https://ferventchambers.com/lawyer/lim-zheng-feng-immanuel" target="_blank" rel="noopener">https://ferventchambers.com/lawyer/lim-zheng-feng-immanuel</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

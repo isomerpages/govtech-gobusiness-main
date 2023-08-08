@@ -1,15 +1,15 @@
 ---
-title: '.'
+title: 'iTrack Vehicle Fleet Tracking'
 permalink: /productivity-solutions-grant/solutionrepo/solution791
 ---
 
-## .
+## iTrack Vehicle Fleet Tracking
 
 ## Overview
 
 **Description**
 
-Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
+Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (200 pax)</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 
 ## Vendor Information
 
- Company Name: Opensoft Pte Ltd<br>Web URL: https://www.opensofthr.com/products/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@opensofthr.com <br><br>
+ Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
