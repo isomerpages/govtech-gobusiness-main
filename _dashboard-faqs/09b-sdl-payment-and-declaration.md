@@ -1,7 +1,7 @@
 ---
 title: SDL Payment and Declaration
 permalink: /dashboard-faqs/sdl-payment/
-third_nav_title: SDL Payment and Declaration
+third_nav_title: Skills Development Levy (SDL)
 ---
 
 ### SDL Payment

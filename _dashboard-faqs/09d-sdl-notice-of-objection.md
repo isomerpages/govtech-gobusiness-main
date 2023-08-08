@@ -1,7 +1,7 @@
 ---
 title: Notice of Objection (NOO)
-permalink: /dashboard-faqs/sdl-noo/
-third_nav_title: Notice of Objection (NOO)
+permalink: /dashboard-faqs/sdl-notice-of-objection/
+third_nav_title: Skills Development Levy (SDL)
 ---
 
 ### Notice of Objection (NOO)

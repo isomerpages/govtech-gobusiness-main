@@ -1,7 +1,7 @@
 ---
 title: SDL Refund
 permalink: /dashboard-faqs/sdl-refund/
-third_nav_title: SDL Refund
+third_nav_title: Skills Development Levy (SDL)
 ---
 
 ### SDL Refund

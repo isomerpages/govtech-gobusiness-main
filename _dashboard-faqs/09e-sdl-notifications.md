@@ -1,7 +1,7 @@
 ---
 title: SDL Notifications
 permalink: /dashboard-faqs/sdl-notifications/
-third_nav_title: SDL Notifications
+third_nav_title: Skills Development Levy (SDL)
 ---
 
 ### SDL Notifications

@@ -1,7 +1,7 @@
 ---
 title: Skills Development Levy (SDL) Dashboard FAQ
-permalink: /dashboard-faqs/skills-development-levy-dashboardfaqs/
-third_nav_title: SDL on GoBusiness
+permalink: /dashboard-faqs/sdl-on-gobusiness/
+third_nav_title: Skills Development Levy (SDL)
 ---
 
 ### SDL on GoBusiness
