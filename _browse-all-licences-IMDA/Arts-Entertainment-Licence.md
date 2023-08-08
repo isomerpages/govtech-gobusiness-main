@@ -35,4 +35,3 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>Pop/Rock Concerts and Variety Shows</strong></li>
  <li><strong>Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre</strong></li>
  </ul>
-
