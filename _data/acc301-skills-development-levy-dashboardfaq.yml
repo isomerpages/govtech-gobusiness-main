@@ -3,7 +3,7 @@
   data:
     - title: What is Skills Development Levy (SDL) on GoBusiness?
       content: |
-        "SDL on GoBusiness enables employers to perform SDL transactions with SkillsFuture Singapore (SSG). These allow you to:
+        SDL on GoBusiness enables employers to perform SDL transactions with SkillsFuture Singapore (SSG). These allow you to:
   
         - Make payment for SDL or declare a non-liability of SDL
         - Apply for a refund of overpaid SDL
@@ -16,9 +16,9 @@
 
     - title: Should I use GoBusiness or CPF to pay my SDL?
       content: |
-        "CPF EZPay is for employers to pay for employees' monthly SDL, together with their CPF contributions. You can also use it to pay for foreign employees in the same transaction.
+        CPF EZPay is for employers to pay for employees' monthly SDL, together with their CPF contributions. You can also use it to pay for foreign employees in the same transaction.
 
-        The SDL payment service on GoBusiness is for employers who have forgotten to pay / underpaid their SDL, or who only have foreign employees."
+        The SDL payment service on GoBusiness is for employers who have forgotten to pay / underpaid their SDL, or who only have foreign employees.
 
     - title: Who will be able to access SDL on GoBusiness?
       content: |
@@ -69,9 +69,9 @@
 
         You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee*, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month) and calculate the SDL payable amount using the SDL calculator. 
 
-        * Please refer to the definition of ""remuneration"" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        * Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
 
-        If you do not agree with the calculation, you will be able to correct the amount by filling and submitting the ""Declaration Form"" template via the SDL Payment & Declaration form.
+        If you do not agree with the calculation, you will be able to correct the amount by filling and submitting the "Declaration Form" template via the SDL Payment & Declaration form.
 
     - title: How do I make my SDL payment on GoBusiness?
       content: |
@@ -91,7 +91,7 @@
 
         5. Subsequent sections will be populated with the relevant periods and SDL records, where available. For the Relevant Period with SSG Records section, you will need to confirm the SDL payable and make a declaration if your records differ. For the Relevant Period Without SSG Records section, you will need to provide your computation before making payment as SSG will not have your records for the last 2 to 3 months.
 
-        6. If your internal records differ from SSG's SDL records, select ""I would like to submit a declaration for..."" in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the ""Declaration Form"" (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document. If your internal records have no discrepencies with SSG's SDL records, select ""I agree with SSG's records"".
+        6. If your internal records differ from SSG's SDL records, select "I would like to submit a declaration for..." in the declaration section. Thereafter, indicate your own records in the available SDL fields and attach the "Declaration Form" (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document. If your internal records have no discrepencies with SSG's SDL records, select "I agree with SSG's records".
 
         7. Proceed to make payment either via online payment  (stripe/ credit card) through GoBusiness; or offline payment (bank transfer or PayNow) where payment instructions will be communicated separately over email from SSG.
 
@@ -123,19 +123,19 @@
 
         Click on the Retrieve SDL Records button after selecting the month(s) range.
 
-        5. Depending on your selected Relevant period, ""Relevant Period with SSG Records"" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or ""Relevant Period without SSG Records"" section or both sections will be displayed. ""SDL Paid"" refers to the amount of SDL you have previously paid for the relevant period.
+        5. Depending on your selected Relevant period, "Relevant Period with SSG Records" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or "Relevant Period without SSG Records" section or both sections will be displayed. "SDL Paid" refers to the amount of SDL you have previously paid for the relevant period.
         
         6. When the Relevant Period Without SSG Records section is displayed, you will only be able to see an amount in SDL Paid if you have previously made payment for this relevant period. The Revised SDL Paid for the Relevant Period Without SDL Records section is an optional field and can be left blank unless your SDL Paid records differ from ours. However, it is mandatory to provide your computed Outstanding SDL Payable for Relevant Period Without SSG Records.
 
         7. In the Provision of Employer Records (for GoBusiness to confirm) section, select the period that you would like to submit a declaration.
         The list of values for “I would like to submit a declaration” will be populated via GoBusiness and SSG, depending on the applicable date range. 
 
-        ""I would like to submit a declaration for Relevant Period with SSG records""
-        ""I would like to submit a declaration for Relevant Period without SSG records""
-        ""I would like to submit a declaration for both Relevant Periods with and without SSG records""
-        ""I agree with SSG’s records""
+        "I would like to submit a declaration for Relevant Period with SSG records"
+        "I would like to submit a declaration for Relevant Period without SSG records"
+        "I would like to submit a declaration for both Relevant Periods with and without SSG records"
+        "I agree with SSG’s records"
 
-        8. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in ""declaration form"" section should match with the supporting document in ""Upload Declaration Form""?.
+        8. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
 
         9. Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
@@ -157,32 +157,32 @@
 
     - title: Must I submit declaration on non-liability of Outstanding SDL Payable through GoBusiness?
       content: |
-      Yes, you will need to.
+        Yes, you will need to.
 
 - accordion:
   letter: d
   data:
     - title: How do I view my SDL payment history?
       content: |
-        "Go to the Payment History tab on the SDL page to see the following:
+        Go to the Payment History tab on the SDL page to see the following:
 
-        • Payments to SDL on GoBusiness, CPF or offline payment
-        • Receipts for past payments
-        • Refunds from SkillsFuture Singapore (SSG)"
+        - Payments to SDL on GoBusiness, CPF or offline payment
+        - Receipts for past payments
+        - Refunds from SkillsFuture Singapore (SSG)
 
 - accordion:
   letter: e
   data:
     - title: How do I request for refund of excess SDL payment made?
       content: |
-        "To submit a refund request on GoBusiness, fill up the form via Levy > Skills Development Levy (SDL) > Apply for a Refund. You will be required to indicate your Corporate PayNow ID, the period and refund amount.
+        To submit a refund request on GoBusiness, fill up the form via Levy > Skills Development Levy (SDL) > Apply for a Refund. You will be required to indicate your Corporate PayNow ID, the period and refund amount.
 
         Conditions for refund:
         1) The relevant period indicated in your request form must be reflected in our records. You may check whether the payment record has been reflected by clicking on Download Details under the Outstanding SDL Payable section on the SDL page. 
 
-        2) Refund will only be allowed unless there is a nett overpayment (a negative ""-"" Outstanding SDL Payable) shown on the Outstanding SDL Payable section on the SDL page.
+        2) Refund will only be allowed unless there is a nett overpayment (a negative "-" Outstanding SDL Payable) shown on the Outstanding SDL Payable section on the SDL page.
 
-        3) There must be overpaid SDL shown in the relevant months that you have indicated in your refund request. Any reallocation of your past SDL Paid amount to the correct relevant months have to be declared before you submit a refund request."
+        3) There must be overpaid SDL shown in the relevant months that you have indicated in your refund request. Any reallocation of your past SDL Paid amount to the correct relevant months have to be declared before you submit a refund request.
     
     - title: How do I know the status of my refund request?
       content: |
