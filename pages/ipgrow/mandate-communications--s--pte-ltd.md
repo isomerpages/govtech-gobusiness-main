@@ -9,7 +9,7 @@ Established in 1976, we have more than 40 years of B2B, B2C and G2C marketing co
 
 This depth of experience shapes our expertise across  branding, advertising, digital & content, media and event planning. Our strength lies in developing marketing communication strategies and carefully calibrated campaigns that deliver results for our clients. We innovate with spirited storytelling and communicate them across existing and emerging platforms. We are in fact dedicated communicators who are adept at employing whatever channel or technique necessary to best connect with your target audience - that's probably why we're not afraid to be judged by the results we generate for our clients.
 
-Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Services and Media Planning & Buying agencies.
+Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Services and Media Planning & Buying agencies.
 
 <b>Year established in Singapore:</b> 1976
 

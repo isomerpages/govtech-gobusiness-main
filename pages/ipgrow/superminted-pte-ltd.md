@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/superminted-pte-ltd/
 
 ## Superminted Pte Ltd
 
-Superminted is an end-to-end brand management agency specialising in brand building and activation. We partner with clients across industries and markets to create fresh and innovative 360º branding campaigns to meet their business goals.
+Superminted is an end-to-end brand management agency specialising in brand building and activation. We partner with clients across industries and markets to create fresh and innovative 360<sup>o</sup> branding campaigns to meet their business goals.
 
 <b>Year established in Singapore:</b> 2017
 
