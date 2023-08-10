@@ -3,7 +3,7 @@
 const custom_notifications = [
 
   //1 system downtime only
-  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable during the upcoming scheduled maintenance from 4 Aug 2023 10pm to 5 Aug 2023 6am and from 5 Aug 2034 10pm to 6 Aug 8am. <br> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences will be unavailable during the upcoming scheduled maintenance on 10 Aug 2023 from 6.30pm to 11.59pm.<br> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
   
   //multiple services
   //"<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
