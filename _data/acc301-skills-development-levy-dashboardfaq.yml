@@ -28,8 +28,8 @@
       content: |
         1. Inform your Corppass admin about granting access to MTI ‘GoBusiness’ e-Service for the Corppass account of employees who are authorised to view SDL records
         2. Perform a review of the current users who have access to MTI ‘GoBusiness’ e-Service’ and remove personnel who do not need to access SDL services
-        3. Visit https://www.gobusiness.gov.sg (insert updated url here) for SDL digital services
-        4. Should you require any clarification, please contact SSG Helpdesk at 6785 5785 or feedback portal at https://service-portal.skillsfuture.gov.sg/s/feedback/.
+        3. Visit [here](/sdl-e-services/) for SDL digital services
+        4. Should you require any clarification, please contact SSG Helpdesk at 6785 5785 or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
     
     - title: What are the payment methods?
       content: | 
@@ -135,7 +135,7 @@
         "I would like to submit a declaration for both Relevant Periods with and without SSG records"
         "I agree with SSG’s records"
 
-        8. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the Declaration Form template (insert url: https://go.gov.sg/sdl-declaration-form) as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
+        8. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
 
         9. Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
