@@ -36,7 +36,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 76 to 80</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Innovation Consultancy Services**
@@ -66,7 +66,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: Above 10,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  20000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 **IP Due Diligence Services**
@@ -106,7 +106,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  8450</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,450</li>
 </ul>
 
 **IP Watch Services**
