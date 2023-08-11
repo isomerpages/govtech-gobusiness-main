@@ -58,41 +58,6 @@ Verlata is a NetDocuments Platinum Partner, providing implementation services fo
 <td style='padding: 10px;'>$36,300.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users (2 years)</td>
-<td style='padding: 10px;'>$9,820.00</td>
-<td style='padding: 10px;'>$9,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users (2 years)</td>
-<td style='padding: 10px;'>$16,640.00</td>
-<td style='padding: 10px;'>$16,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users (2 years)</td>
-<td style='padding: 10px;'>$30,980.00</td>
-<td style='padding: 10px;'>$30,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users (2 years)</td>
-<td style='padding: 10px;'>$45,220.00</td>
-<td style='padding: 10px;'>$42,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users (2 years)</td>
-<td style='padding: 10px;'>$76,200.00</td>
-<td style='padding: 10px;'>$66,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
