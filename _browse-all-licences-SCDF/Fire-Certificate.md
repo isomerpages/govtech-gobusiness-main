@@ -1,14 +1,16 @@
 ---
-title: Fire Certificate
-permalink: /browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate
+title: Fire Cert
+permalink: /browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Cert
 third_nav_title: Singapore Civil Defence Force (SCDF)
 ---
 
-## Apply for Fire Certificate
+## Apply for Fire Cert
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on SCDF" src="https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-certificate" type="primary" %}
+{% include spcp-text.html type="cp" %}
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/995f75be-ec53-4a95-8aca-d55a9954f450" type="primary" %}
 
 <H3>Application Details</H3>
 
