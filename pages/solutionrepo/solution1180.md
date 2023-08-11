@@ -1,18 +1,22 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
-## Form Fill Seal Machine
+## Probing System
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+A probing system consists of the following attached to CNC machining center:
 
-Cost of equipment  capped at $20,500 per unit 
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
+
+
 
 ## Solution Packages Option(s)
 
@@ -23,9 +27,9 @@ Cost of equipment  capped at $20,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br><br></td>
 </tr>
 </table>
 

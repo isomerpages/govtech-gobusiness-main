@@ -1,18 +1,15 @@
 ---
-title: 'Automated Deep Fryer'
+title: 'Water Treatment System for Water Recirculation or Discharge'
 permalink: /productivity-solutions-grant/solutionrepo/solution1263
 ---
 
-## Automated Deep Fryer
+## Water Treatment System for Water Recirculation or Discharge
 
 ## Overview
 
 **Description**
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
-
-Cost of equipment capped at $4,000 per unit 
-
+A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +20,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>Minimum Specifications <br>- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br>- Well capacity to be at least 5L<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

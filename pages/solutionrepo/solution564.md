@@ -1,15 +1,15 @@
 ---
-title: 'Smart Glasses - InnoGlas'
+title: 'Freight Master Version 8.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution564
 ---
 
-## Smart Glasses - InnoGlas
+## Freight Master Version 8.2
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of five core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low-cost solution, thereby providing a more level playing field for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'>$7,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>$14,740.00</td>
-<td style='padding: 10px;'>$12,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 7 User Package</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>$21,060.00</td>
-<td style='padding: 10px;'>$18,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>$15,240.00</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 18 User Package</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>$35,560.00</td>
-<td style='padding: 10px;'>$20,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 24 User Package</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'>$37,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
+ Company Name:Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Solar Panels System and Energy Storage System'
+title: 'Enhanced disinfection system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1244
 ---
 
-## Solar Panels System and Energy Storage System
+## Enhanced disinfection system
 
 ## Overview
 
 **Description**
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that stores and converts solar energy into electrical energy for farm u
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solar Panels System and Energy Storage System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

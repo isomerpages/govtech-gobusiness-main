@@ -40,23 +40,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution456' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution461' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution502' target='_blank'>HRM Labs Shared Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution507' target='_blank'>HRM Labs Shared Service</a><br></td>
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution640' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution645' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution845' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution853' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
 <td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1556' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1569' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'MyRetailer Plus Version 4'
+title: 'MyRetailer Android POS'
 permalink: /productivity-solutions-grant/solutionrepo/solution361
 ---
 
-## MyRetailer Plus Version 4
+## MyRetailer Android POS
 
 ## Overview
 
 **Description**
 
-MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
-<td style='padding: 10px;'>$4,190.00</td>
-<td style='padding: 10px;'>$3,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Second Monitor</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$3,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Web Store</td>
-<td style='padding: 10px;'>$5,390.00</td>
-<td style='padding: 10px;'>$4,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Cloud Dashboard</td>
-<td style='padding: 10px;'>$7,390.00</td>
-<td style='padding: 10px;'>$6,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments</td>
-<td style='padding: 10px;'>$4,926.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 
 ## Vendor Information
 
- Company name:DCS Synthesis Pte. Ltd.<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz 
+ Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

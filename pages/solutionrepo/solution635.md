@@ -1,15 +1,15 @@
 ---
-title: 'Madsoft Solutions GST API Version 320'
+title: 'LittleLives 4.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution635
 ---
 
-## Madsoft Solutions GST API Version 320
+## LittleLives 4.5
 
 ## Overview
 
 **Description**
 
-Madsoft Solutions is an integrated order processing, inventory and accounting solution to meet the operational and financial reporting needs of SMEs. Easy user interface allows non-account person to manage the finances. Real-time updating and powerful inquiry function provide up-to-date information for management. It is able to track receiving and ordering, management of inventory turnover, handle project costing, multiple locations, simple item assembly.  It has on-line or on premise versions.
+LittleLives solution facilitates day-to-day school operations through its core mobile applications that include Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  The solution can handle the full life cycle of a child's preschool journey.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 2 users with InvoiceNow</td>
-<td style='padding: 10px;'>$9,039.00</td>
-<td style='padding: 10px;'>$8,839.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS Lite</td>
+<td style='padding: 10px;'>$6,518.60</td>
+<td style='padding: 10px;'>$6,518.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Business 5 users with InvoiceNow</td>
-<td style='padding: 10px;'>$13,859.00</td>
-<td style='padding: 10px;'>$13,459.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$9,770.00</td>
+<td style='padding: 10px;'>$9,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 3 users with RFID hardware and InvoiceNow</td>
-<td style='padding: 10px;'>$19,829.00</td>
-<td style='padding: 10px;'>$16,929.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment + Thermal Scanner</td>
+<td style='padding: 10px;'>$15,110.00</td>
+<td style='padding: 10px;'>$14,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Premier 6 users with InvoiceNow</td>
-<td style='padding: 10px;'>$24,819.00</td>
-<td style='padding: 10px;'>$23,219.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment</td>
+<td style='padding: 10px;'>$10,310.00</td>
+<td style='padding: 10px;'>$10,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Madsoft Enterprise 8 users with InvoiceNow</td>
-<td style='padding: 10px;'>$25,579.00</td>
-<td style='padding: 10px;'>$24,279.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Madsoft_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS intro + Thermal Scanner</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Madsoft Solutions Pte Ltd<br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
+ Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

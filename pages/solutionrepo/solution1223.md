@@ -1,15 +1,15 @@
 ---
-title: 'Conveyor System for transporting materials'
+title: 'Aeration System/ Oxygenation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1223
 ---
 
-## Conveyor System for transporting materials
+## Aeration System/ Oxygenation System
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A conveyor system that automates farming processes such as production, feeding, 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

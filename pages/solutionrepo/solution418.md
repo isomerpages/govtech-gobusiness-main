@@ -1,15 +1,15 @@
 ---
-title: 'FITPRISE Project Management System - PCM'
+title: 'NovaVision Remote Assist Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution418
 ---
 
-## FITPRISE Project Management System - PCM
+## NovaVision Remote Assist Version 1.0
 
 ## Overview
 
 **Description**
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+NovaVision Remote Assist Solution is a collaborative and knowledge-sharing platform that allows field technicians and experts to connect with each other and collaborate on maintenance, repair, invigilation, and inspection operations via live video, audio powered by Augmented Reality. The solution combines VSight Remote Assist cloud-based application and RealWear voice command smart glass to provide a hand-free, collaborative and intuitive solution for Field Service professionals.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package A - 1 Year (2 Units)</td>
+<td style='padding: 10px;'>$14,872.00</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 2 (10 users)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package B - 1 Year (4 Units)</td>
+<td style='padding: 10px;'>$23,344.00</td>
+<td style='padding: 10px;'>$17,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package C - 1 Year (6 Units)</td>
+<td style='padding: 10px;'>$31,816.00</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package D - 1 Year (8 Units)</td>
+<td style='padding: 10px;'>$40,288.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NovaVision - Remote Assist Solution with Smart Glasses - Package E - 1 Year (10 Units)</td>
+<td style='padding: 10px;'>$48,760.00</td>
+<td style='padding: 10px;'>$33,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Engage_Nova_20210215_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 
 ## Vendor Information
 
- Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Company name:Engage Nova Pte Ltd<br>Web URL: https://www.engagenova.com/novavision <br>Contact Hotline: 88492042 <br>Contact Email: contact@engagenova.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

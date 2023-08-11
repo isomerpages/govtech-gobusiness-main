@@ -1,15 +1,15 @@
 ---
-title: 'Temperature montoring/ labelling device'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1261
 ---
 
-## Temperature montoring/ labelling device
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Accurate infrared temperature monitoring and labelling devices that improves pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

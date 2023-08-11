@@ -1,15 +1,15 @@
 ---
-title: 'TERRA EMAIL PROTECTION Version 1.0'
+title: 'Taidii Smart E-Form Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution973
 ---
 
-## TERRA EMAIL PROTECTION Version 1.0
+## Taidii Smart E-Form Solution
 
 ## Overview
 
 **Description**
 
-TEP is multi-layered, cloud-based email security for all organisations. It provides businesses with one-stop email security and protection from known and zero-day variants, including protection against Business Email Compromise (BEC) aka. "email impersonation", email content control against data leakages, viruses, phishing, spam, ransomware, etc. TEP will be a great addition to the existing Endpoint Protection technology and propel your organisation towards a higher level of protection.
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ TEP is multi-layered, cloud-based email security for all organisations. It provi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 10</td>
-<td style='padding: 10px;'>$3,330.00</td>
-<td style='padding: 10px;'>$3,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 30</td>
-<td style='padding: 10px;'>$8,290.10</td>
-<td style='padding: 10px;'>$8,290.10</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 100</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 30</td>
-<td style='padding: 10px;'>$12,540.20</td>
-<td style='padding: 10px;'>$12,540.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 60</td>
-<td style='padding: 10px;'>$21,372.20</td>
-<td style='padding: 10px;'>$21,372.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Terra_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ TEP is multi-layered, cloud-based email security for all organisations. It provi
 
 ## Vendor Information
 
- Company name:TERRA SYSTEMS PTE LTD<br>Web URL: https://terra.systems/#/ <br>Contact Hotline: 68765800 <br>Contact Email: marketing@terra-systems.com 
+ Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

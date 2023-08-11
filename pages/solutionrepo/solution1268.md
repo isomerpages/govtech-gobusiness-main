@@ -1,19 +1,15 @@
 ---
-title: 'Automated Noodle Boiler'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1268
 ---
 
-## Automated Noodle Boiler
+## HVAC system
 
 ## Overview
 
 **Description**
 
-The automated noodle boiler automates the noodle cooking process. 
-
-Cost of equipment capped at $10,000 per unit 
-
-
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +20,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

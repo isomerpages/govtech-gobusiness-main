@@ -1,15 +1,16 @@
 ---
-title: 'DM Identity Counsel Digital Marketing Packages'
+title: 'AUTOCOUNT ACCOUNTING SOFTWARE Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution523
 ---
 
-## DM Identity Counsel Digital Marketing Packages
+## AUTOCOUNT ACCOUNTING SOFTWARE Version 2
 
 ## Overview
 
 **Description**
 
-Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
+I Soft Business Solutions provides business solutions to SMEs through accounting software and consultation services by experienced consultants.
+AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. The features include: flexibility, expandability and ease-to-use to help business grow and sustain development needs.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,48 @@ Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets l
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (5 Users)</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (15 Users)</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
+ Company name:I SOFT BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://autocountsoft.sg/autocount-accounting-singapore.html <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'Automated Tray Sealer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1190
 ---
 
-## Auto Welding Carriage
+## Automated Tray Sealer
 
 ## Overview
 
 **Description**
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
 </tr>
 </table>
 

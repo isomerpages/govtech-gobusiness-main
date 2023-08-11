@@ -1,15 +1,15 @@
 ---
-title: 'Ear Tagging Machine'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 
-## Ear Tagging Machine
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-A machine used to place ear tags into the ears of livestocks to provide a means of identification.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to place ear tags into the ears of livestocks to provide a means 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

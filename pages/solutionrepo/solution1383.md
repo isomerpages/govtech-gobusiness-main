@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting Software'
+title: 'SmartFM Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1383
 ---
 
-## AutoCount Accounting Software
+## SmartFM Version 2.0
 
 ## Overview
 
 **Description**
 
-Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
+SmartFM is a facility management suite that assists facility operators with a comprehensive set of modules. It is applicable to different facility types, such as buildings, worksites & dormitories. At its base, it is an integrated, cloud-based facility management solution. It is designed to be a common data collection interface where all the stakeholders of the facility can perform their day-to-day operations, share data, and have critical oversight over the facility on a single platform.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (500 Pax)</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (2000 Pax)</td>
+<td style='padding: 10px;'>$32,200.00</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (250 Pax)</td>
+<td style='padding: 10px;'>$29,800.00</td>
+<td style='padding: 10px;'>$27,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (500 Pax)</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (1000 Pax)</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 
 ## Vendor Information
 
- Company Name: Ingenious Business Software Pte Ltd<br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+ Company Name: CHIMERIC TECHNOLOGIES PTE LTD<br>Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1254
 ---
 
-## Automated Irrigation Equipment/ System
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
