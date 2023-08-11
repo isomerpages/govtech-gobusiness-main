@@ -24,7 +24,7 @@
             <th style='width: auto;'> <b>Maximum Contribution Per Employee</b> </th>
         </tr>
         <tr>
-            <td>1 Jul 2000#</td>
+            <td>1 Jul 2000<sup>#</sup></td>
             <td>30 Jun 2004</td>
             <td>$1,500</td>
             <td>1%</td>
@@ -57,7 +57,7 @@
         </tr>
         </table>
 
-        <p># The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
+        <p><sup>#</sup> The legal requirement for SDL contributions by employers was introduced via gazette in Oct 1979. For employers who need to know the rates earlier than 1 July 2000, they may contact SSG for direct assistance.</p>
 
         <sup>*</sup> Prior to 1 October 2008, an employer does not have to contribute SDL for employees whose monthly remuneration is above the salary ceiling. However, with effect from 1 October 2008, an employer will have to contribute SDL even if the monthly remuneration exceeds the salary ceiling. This is because the revised SDL regulations stipulate that the contribution is up to the first $4,500 of monthly remuneration.
 
