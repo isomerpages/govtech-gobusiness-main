@@ -259,13 +259,7 @@
   data:
     - title: When must I make payment for SDL?
       content: |
-        All employers are required to pay SDL for their employees.
- 
-        SDL is not payable for the following employees:
-          • An employee who is a domestic servant, chauffeur or gardener wholly and exclusively employed by an individual outside of that individual's trade, business, profession or vocation. 
-          • An employee who does not render any services in Singapore for at least a month. This excludes employees who are on leave for that month.
-        
-        For more details, you can refer to this question on exemptions.
+        Employers are required to pay SDL within 14 days from the end of each month.
 
     - title: How do I make payment for SDL?
       content: |
