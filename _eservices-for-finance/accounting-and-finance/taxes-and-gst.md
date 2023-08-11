@@ -18,7 +18,7 @@ Learn more at our [Run and Grow guide for taxes, levy, and GST](/run-and-grow/).
 
 **SkillsFuture Singapore (SSG)**
 
-- [SDL Calculator](https://go.gov.sg/sdl-calculator)
+- [SDL Calculator](https://go.gov.sg/sdl-calculator){:target="_blank"}{:rel="noopener"}
   <br>Compute SDL amount payable with an online calculator.
 
 - [SDL Payment & Declaration via GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}
@@ -36,10 +36,10 @@ Learn more at our [Run and Grow guide for taxes, levy, and GST](/run-and-grow/).
 - [View Payment History and Notificaitons](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}
   <br>View SDL payment history, or retrieve and download SDL notification letters.
 
-- [Update Company Contact Person(s)]()
+- [Update Company Contact Person(s)](/dashboard-faqs/sdl-notifications/)
   <br>Instructions for writing in to SSG to update company contact person(s).
 
-- [Download SDL forms and templates](/sdl-e-services/){:target="_blank"}{:rel="noopener"}
+- [Download SDL forms and templates](/sdl-e-services/)
   <br>Download various forms and templates at the full SDL e-services page.
 
 

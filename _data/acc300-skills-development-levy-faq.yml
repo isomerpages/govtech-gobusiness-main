@@ -172,7 +172,7 @@
     
     - title: What types of payment by employers are subject to SDL?
       content: |
-        You can refer to [this list](https://sdl.ssg.gov.sg/DOCs/Annex_A_SDL_FAQ.pdf) of various payment types and whether they are subject to SDL.
+        You can refer to [this list](https://sdl.ssg.gov.sg/DOCs/Annex_A_SDL_FAQ.pdf){:target="_blank"}{:rel="noopener"}9 of various payment types and whether they are subject to SDL.
 
 - accordion:
   letter: d

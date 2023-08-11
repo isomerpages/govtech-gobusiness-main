@@ -57,7 +57,7 @@
 
     - title: How do I view a monthly breakdown of the SDL payable, SDL paid and outstanding SDL payable?
       content: |
-        To view the breakdown, click on the Download Details button in the outstanding SDL payable widget on the [SDL page](https://dashboard.gobusiness.gov.sg/sdl).
+        To view the breakdown, click on the Download Details button in the outstanding SDL payable widget on the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}.
 
         <img src='/images/sdl-outstandingpayment.png' aria-hidden='true'>
 
@@ -222,7 +222,7 @@
 
     - title: How do I see a detailed breakdown for the estimated outstanding SDL payable?
       content: |
-        Log in to GoBusiness Dashboard and go to the [SDL page](https://dashboard.gobusiness.gov.sg/sdl). Then click on the Download Details button in the outstanding SDL payable widget.
+        Log in to GoBusiness Dashboard and go to the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}. Then click on the Download Details button in the outstanding SDL payable widget.
         
         <img src='/images/sdl-outstandingpayment.png' aria-hidden='true'>
 
