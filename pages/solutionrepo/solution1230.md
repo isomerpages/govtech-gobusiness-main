@@ -1,15 +1,15 @@
 ---
-title: 'Automatic case labelling machine'
+title: 'Farm Washing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1230
 ---
 
-## Automatic case labelling machine
+## Farm Washing System
 
 ## Overview
 
 **Description**
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Case printing system or pack labelling system which allow the user to fully cust
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
