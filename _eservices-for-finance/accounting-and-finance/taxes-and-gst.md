@@ -18,28 +18,28 @@ Learn more at our [Run and Grow guide for taxes, levy, and GST](/run-and-grow/).
 
 **SkillsFuture Singapore (SSG)**
 
-- [SDL Calculator]()
+- [SDL Calculator](https://go.gov.sg/sdl-calculator)
   <br>Compute SDL amount payable with an online calculator.
 
-- [SDL Payment & Declaration via GoBusiness Dashboard]()
+- [SDL Payment & Declaration via GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}
   <br>Make payment for outstanding SDL, or pay SDL on your foreign employees.
 
-- [SDL Payment with CPF contributions]()
+- [SDL Payment with CPF contributions](https://www.cpf.gov.sg/employer/login){:target="_blank"}{:rel="noopener"}
   <br>Pay SDL together with your employees’ monthly CPF contributions via CPF EZPay.
 
-- [Refund of SDL Overpaid]()
+- [Refund of SDL Overpaid](https://dashboard.gobusiness.gov.sg/sdl/request-refund){:target="_blank"}{:rel="noopener"}
   <br>Submit refund request for overpayment of SDL.
 
-- [Notice of Objection (NOO) for SDL]()
+- [Notice of Objection (NOO) for SDL](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}
   <br>Submit an objection if your calculated SDL payable differs from the amount stated in the SDL Notice of Assessment (NOA). 
 
-- [View Payment History and Notificaitons]()
+- [View Payment History and Notificaitons](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}
   <br>View SDL payment history, or retrieve and download SDL notification letters.
 
 - [Update Company Contact Person(s)]()
   <br>Instructions for writing in to SSG to update company contact person(s).
 
-- [Download SDL forms and templates(this link will jump user to the resource section directly)]()
+- [Download SDL forms and templates](/sdl-e-services/){:target="_blank"}{:rel="noopener"}
   <br>Download various forms and templates at the full SDL e-services page.
 
 
