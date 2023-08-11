@@ -1,15 +1,15 @@
 ---
-title: 'Collection Systems'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1241
 ---
 
-## Collection Systems
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic collector used to collect produce, which can also reduce the damage ra
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
