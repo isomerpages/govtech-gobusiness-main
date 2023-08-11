@@ -68,7 +68,7 @@
   data:
     - title: Who do I contact for further enquiries?
       content: |
-        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](www.placeholder.com) or call our helpdesk at 6785 5785.
+        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://portal.ssg-wsg.gov.sg/feedback){:target="_blank"}{:rel="noopener"} or call our helpdesk at [6785 5785](tel:+65 6785 5785).
 
 - accordion:
   letter: c
