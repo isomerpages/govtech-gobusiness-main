@@ -1,15 +1,15 @@
 ---
-title: 'Intelli-Signage'
+title: 'DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1388
 ---
 
-## Intelli-Signage
+## DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2
 
 ## Overview
 
 **Description**
 
-Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics. Intelli-Signage is a revolutionary digital marketing platform that allowed retail business owner to deploy their new product, promotion campaign and services real-time to attract new customers, as the content design is based on a cloud-based platform and can be directly deployed to any store outlet at any time and any location.
+Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of SMEs in their digital growth. These solutions are customized for SMEs at different stages of digital maturity to enhance their online brand presence, digital marketing strategy, communication with target audiences, and increase sales. Bluehive's services cater to businesses that operate through ecommerce websites, brick-and-mortar stores, or both.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage 1 unit</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$4,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anewtech_Systems_Intelli_Signage_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
+ Company Name: Bluehive Consulting Asia Pte Ltd<br>Web URL: https://www.bluehiveasia.com/psg-digital-marketing/<br>Contact Hotline: 91919682<br>Contact Email: projects@bluehiveasia.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
