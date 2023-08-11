@@ -1,15 +1,15 @@
 ---
-title: 'Creative eShop'
+title: 'Corsiva Lab E-Commerce Website Development(WordPress / Shopify)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1596
 ---
 
-## Creative eShop
+## Corsiva Lab E-Commerce Website Development(WordPress / Shopify)
 
 ## Overview
 
 **Description**
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,24 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Standard</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express </td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Lite</td>
-<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +50,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company name:Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

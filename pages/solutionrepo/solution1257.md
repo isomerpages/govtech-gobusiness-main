@@ -1,15 +1,15 @@
 ---
-title: 'Solar Panels System and Energy Storage System'
+title: 'Rainwater harvesting system and storage tank'
 permalink: /productivity-solutions-grant/solutionrepo/solution1257
 ---
 
-## Solar Panels System and Energy Storage System
+## Rainwater harvesting system and storage tank
 
 ## Overview
 
 **Description**
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that stores and converts solar energy into electrical energy for farm u
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solar Panels System and Energy Storage System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
