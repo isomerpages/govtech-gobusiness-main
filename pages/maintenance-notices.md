@@ -11,8 +11,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------| 
-| 10 Aug, 6.30pm - 11.59pm | **Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance.  
-| 13 Aug, 0am - 6am | **Singpass** will be undergoing scheduled maintenance. Singpass service may experience intermittent disruptions during this period. 
+| 10 Aug, 6.30pm - 11.59pm | **Application, amendment, renewal & cancellation of National Environment Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 11 Aug, 7.15pm - 9.15pm | **Application, amendment & renewing of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |
+| 12 Aug, 0am – 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |
+| 13 Aug, 0am - 7am | **GoBusiness Dashboard for FIN holders** will be unavailable due to scheduled maintenance. |
+| 14 Aug, 0am - 3am | **Singpass** will be undergoing scheduled maintenance. Singpass service may experience intermittent disruptions during this period. |
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
