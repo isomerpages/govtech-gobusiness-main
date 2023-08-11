@@ -83,7 +83,7 @@ permalink: /sdl-e-services/
         <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 197 KB)</a>
     </td>
     <td>
-        Include this template in your [Notice of Objection (NOO) for SDL](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"} application if:
+        Include this template in your <a href="https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object" target="_blank" rel="noopener">Notice of Objection (NOO) for SDL</a> application if:
         <ul>
         <li>Your computation based on your payroll records differs from SSG records in the SDL Notice of Assessment (NOA) for any of the relevant months.</li>
         </ul>
