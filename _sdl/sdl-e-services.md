@@ -94,9 +94,9 @@ permalink: /sdl-e-services/
 ### Help and support
 
 
-For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Dashboard SDL FAQ](www.placeholder.com).
+For help with SDL e-Services on GoBusiness Dashboard, head to the [GoBusiness Dashboard SDL FAQ](/dashboard-faqs/sdl-on-gobusiness/).
 
-For other questions about SDL, browse the [General SDL FAQ](www.placeholder.com).
+For other questions about SDL, browse the [General SDL FAQ](/skills-development-levy-faqs/).
 
 For help using CPF EZPay, check out the [CPF EZPay User Guide](https://www.cpf.gov.sg/employer/making-cpf-contributions/submitting-cpf-contributions-via-cpf-ezpay){:target="_blank"}{:rel="noopener"}.
 
