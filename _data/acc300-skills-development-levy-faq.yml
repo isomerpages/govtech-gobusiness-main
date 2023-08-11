@@ -319,9 +319,11 @@
       content: |
         Employers who contribute SDL via CPF EZPay, can get their SDL payable automatically calculated for their local employees in the relevant month based on their declared remuneration.
  
-        [Section F - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+        <img src='/images/sdl-Auto-Computation-1.png' aria-hidden='true'>
           
         For foreign employees, employers can use SSG's SDL online calculator to work out the SDL contribution and indicate the lump sum payment under the "Skills Development Levy (SDL) - For foreign employees" section in the same transaction.
+
+        <img src='/images/sdl-Auto-Computation-2.png' aria-hidden='true'>
 
     - title: How do employers calculate SDL for months with bonus pay-outs or allowances?
       content: |
@@ -345,17 +347,17 @@
       content: |
         For employees whom SDL is not required, please select No at the SDL Payable field during your CPF submission (see picture below).
  
-        [Section C - [see current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+        <img src='/images/sdl-Employee-Exemption.png' aria-hidden='true'>
 
     - title: Where can I get technical assistance for the auto-computation feature?
       content: |
-        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide) on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index).
+        Employers can refer to the [user guide](https://cpf.gov.sg/CPFEZPayquickguide){:target="_blank"}{:rel="noopener"} on using CPF EZPay. For techncial asssistance, please contact CPF Board at 6220 2340 or write to them at [CPFB](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index){:target="_blank"}{:rel="noopener"}.
 
     - title: Do I need to round off the SDL amount to be paid for the foreign employees?
       content: |
-        No, you should indicate the actual amount payable under the "Skills Development Levy (SDL) – For foreign employees" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
+        No, you should indicate the actual amount payable under the "Skills Development Levy (SDL) - For foreign employees" field when submitting the details. CPF EZPay will sum up the total SDL amount payable (for both your local and foreign employees) and the final amount will be rounded down to the nearest dollar at the confirmation and payment page.
  
-        [Section F-7 - see [current FAQ](https://sdl.ssg.gov.sg/Docs/SDL-Frequently-Asked-Questions.pdf)]
+        <img src='/images/sdl-Foreign-Employee.png' aria-hidden='true'>
 
 - accordion:
   letter: g
