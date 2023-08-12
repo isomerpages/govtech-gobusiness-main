@@ -19,4 +19,4 @@ For help navigating or transacting SDL e-services on GoBusiness Dashboard.
 
 ### SDL on CPF EZPay
 
-For help using CPF EZPay, check out the [CPF EZPay User Guide](https://www.cpf.gov.sg/content/dam/web/employer/making-cpf-contributions/documents/CPFEZPayQuickRefUserGuide.pdf).
+For help using CPF EZPay, check out the [CPF EZPay User Guide](https://www.cpf.gov.sg/content/dam/web/employer/making-cpf-contributions/documents/CPFEZPayQuickRefUserGuide.pdf){:target="_blank"}{:rel="noopener"}.
