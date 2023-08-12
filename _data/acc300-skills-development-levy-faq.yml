@@ -360,25 +360,25 @@
         
         Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
         
-        You can proceed to make payment via GoBusiness (Link)
+        You can proceed to [make payment via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
     - title: I have been making monthly SDL contributions to CPFB (or SSG). Can I ignore this NOA?
       content: |
         If you have received a NOA, it means you still have outstanding SDL payable for the period stated in it. Please check your payroll records for both local and foreign employees.
 
-        If your calculated SDL payable differs from the amounted stated in the NOA, you can file a Notice of Objection via GoBusiness (Link).
+        If your calculated SDL payable differs from the amounted stated in the NOA, you can [file a Notice of Objection via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}.
 
     - title: How are the figures derived in the SDL NOA? How do I verify them?
       content: |
         The figures in the NOA are calculated based on wage data from government records for all your local and foreign employees.
  
-        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee*, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month).
         
-        - Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        <sup>*</sup> Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
 
     - title: The estimated outstanding SDL payable in the SDL NOA is different from my own records. What should I do?
       content: |
-        If your calculated SDL payable differs from the amount stated, please file Notice of Objection via GoBusiness (Link).
+        If your calculated SDL payable differs from the amount stated, please [file Notice of Objection via GoBusiness](https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object){:target="_blank"}{:rel="noopener"}.
 
     - title: Why do I need to file a Notice of Objection (NOO)?
       content: |
@@ -386,38 +386,6 @@
         
         Please note that there are penalties for providing false returns or information.
         
-        View more information/details on NOO in the Dashboard SDL FAQ.
+        View more information/details on [NOO in the Dashboard SDL FAQ](/dashboard-faqs/sdl-notice-of-objection/).
 
-- accordion:
-  letter: h
-  data:
-    - title: I've received a Notice of Assessment (NOA). What does it mean?
-      content: |
-        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
-        
-        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
-        
-        You can proceed to make payment via GoBusiness (Link)
-
-- accordion:
-  letter: i
-  data:
-    - title: I've received a Notice of Assessment (NOA). What does it mean?
-      content: |
-        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
-        
-        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
-        
-        You can proceed to make payment via GoBusiness (Link)
-
-- accordion:
-  letter: j
-  data:
-    - title: I've received a Notice of Assessment (NOA). What does it mean?
-      content: |
-        A Notice of Assessment (NOA) means you have outstanding SDL payable for the period stated.
-        
-        Please note that SDL is a mandatory levy payable by all employers for both local and foreign employees rendering services in Singapore.
-        
-        You can proceed to make payment via GoBusiness (Link)
 
