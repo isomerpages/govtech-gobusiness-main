@@ -104,10 +104,9 @@
       content: |
         The SDL Declaration Form serves as a declaration of the outstanding SDL payable that you have verified against your own payroll records and that you have made payment for it.
 
-    - title: When do I need to submit the declaration on non-liability of Outstanding SDL Payable for my employees?
+    - title: When do I need to submit the declaration on Outstanding SDL Payable for my employees?
       content: |
-        You will need to submit the SDL Declaration Form when your calculated SDL payable differs from the amount stated in our records. and/or 
-        2) SSG do not have the most recent records from other government agencies to compute your SDL payable. 
+        You will need to submit the SDL Declaration Form when your calculated SDL payable differs from the amount stated in our records.
 
     - title: The SDL amounts shown is different from my records. What should I do?
       content: |
