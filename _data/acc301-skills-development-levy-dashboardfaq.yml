@@ -112,33 +112,33 @@
       content: |
         If you do not agree with our calculation, you will be able to correct the amount by filling and submitting the Declaration Form template via our SDL Payment & Declaration form:
 
-        1. Log in to GoBusiness Dashboard as a Business User, and go to Levy > Skills Development Levy (SDL)
+        1.) Log in to GoBusiness Dashboard as a Business User, and go to Levy > Skills Development Levy (SDL)
 
-        2. Click on the Make Payment / Declaration button to get to the SDL Payment & Declaration form.
+        2.) Click on the Make Payment / Declaration button to get to the SDL Payment & Declaration form.
 
-        3. Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
+        3.) Review the Applicant and Company Detail in the General Information page and update contact information, if necessary. Click Next to go to the next page.
 
-        4. In Application Details, select the full month(s) you are making outstanding SDL payment and/or declaration. For example, if you are making payment for July and August 2022, select 01/07/2022 for Start Date, and 31/08/2022 for End Date.
+        4.) In Application Details, select the full month(s) you are making outstanding SDL payment and/or declaration. For example, if you are making payment for July and August 2022, select 01/07/2022 for Start Date, and 31/08/2022 for End Date.
 
         Click on the Retrieve SDL Records button after selecting the month(s) range.
 
-        5. Depending on your selected Relevant period, "Relevant Period with SSG Records" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or "Relevant Period without SSG Records" section or both sections will be displayed. "SDL Paid" refers to the amount of SDL you have previously paid for the relevant period.
+        5.) Depending on your selected Relevant period, "Relevant Period with SSG Records" section (refers to period where wage data from Government's records for all your local and foreign employees are available to derive your SDL Payable) or "Relevant Period without SSG Records" section or both sections will be displayed. "SDL Paid" refers to the amount of SDL you have previously paid for the relevant period.
         
-        6. When the Relevant Period Without SSG Records section is displayed, you will only be able to see an amount in SDL Paid if you have previously made payment for this relevant period. The Revised SDL Paid for the Relevant Period Without SDL Records section is an optional field and can be left blank unless your SDL Paid records differ from ours. However, it is mandatory to provide your computed Outstanding SDL Payable for Relevant Period Without SSG Records.
+        6.) When the Relevant Period Without SSG Records section is displayed, you will only be able to see an amount in SDL Paid if you have previously made payment for this relevant period. The Revised SDL Paid for the Relevant Period Without SDL Records section is an optional field and can be left blank unless your SDL Paid records differ from ours. However, it is mandatory to provide your computed Outstanding SDL Payable for Relevant Period Without SSG Records.
 
-        7. In the Provision of Employer Records (for GoBusiness to confirm) section, select the period that you would like to submit a declaration.
+        7.) In the Provision of Employer Records (for GoBusiness to confirm) section, select the period that you would like to submit a declaration.
         The list of values for “I would like to submit a declaration” will be populated via GoBusiness and SSG, depending on the applicable date range. 
 
-        "I would like to submit a declaration for Relevant Period with SSG records"
-        "I would like to submit a declaration for Relevant Period without SSG records"
-        "I would like to submit a declaration for both Relevant Periods with and without SSG records"
-        "I agree with SSG’s records"
+        "I would like to submit a declaration for Relevant Period with SSG records"<br>
+        "I would like to submit a declaration for Relevant Period without SSG records"<br>
+        "I would like to submit a declaration for both Relevant Periods with and without SSG records"<br>
+        "I agree with SSG's records"
 
-        8. If you have selected to submit a declaration, you are required to fill in your own monthly computation in the [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
+        8.) If you have selected to submit a declaration, you are required to fill in your own monthly computation in the [Declaration Form template](https://go.gov.sg/sdl-declaration-form){:target="_blank"}{:rel="noopener"} as a supporting document for the relevant period selected and upload the template. You are also required to fill in your aggregated SDL Payable, SDL Paid and Outstanding SDL Payable for the full relevant period. The figures should match what's in your Declaration Form - this is quite confusing.. are we trying to say that what's filled up in "declaration form" section should match with the supporting document in "Upload Declaration Form"?.
 
-        9. Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
+        9.) Select the payment mode before clicking Review Form to proceed to the Declaration Review page.
 
-        10. Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
+        10.) Once you have verified the details shown in the Review page, you may proceed to submit with and without payment, depending on whether there is any outstanding SDL payable.
 
     - title: How do I submit online declaration on non-liability of SDL via GoBusiness for my employees who are exempted from SDL?
       content: |
