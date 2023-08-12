@@ -177,11 +177,12 @@
         To submit a refund request on GoBusiness, fill up the form via Levy > Skills Development Levy (SDL) > Apply for a Refund. You will be required to indicate your Corporate PayNow ID, the period and refund amount.
 
         Conditions for refund:
+
         1) The relevant period indicated in your request form must be reflected in our records. You may check whether the payment record has been reflected by clicking on Download Details under the Outstanding SDL Payable section on the SDL page. 
 
         2) Refund will only be allowed unless there is a nett overpayment (a negative "-" Outstanding SDL Payable) shown on the Outstanding SDL Payable section on the SDL page.
 
-        3) There must be overpaid SDL shown in the relevant months that you have indicated in your refund request. Any reallocation of your past SDL Paid amount to the correct relevant months have to be declared before you submit a refund request.
+        3) There must be overpaid SDL shown in the relevant months that you have indicated in your refund request.
     
     - title: How do I know the status of my refund request?
       content: |
@@ -196,8 +197,7 @@
   data:
     - title: What is a Notice of Objection (NOO)?
       content: |
-        NOO is a declaration of the following: 1) The outstanding SDL payable that you have calculated differs from the amount stated in the Notice of Assessment.
-        2) You have paid the outstanding SDL amount that you have verified.
+        NOO is a declaration of the outstanding SDL payable that you have calculated differs from the amount stated in the Notice of Assessment.
 
     - title: Why do I need to file a Notice of Objection (NOO)?
       content: |
@@ -234,6 +234,6 @@
 
     - title: How do I update my SDL contact information?
       content: |
-        You can email your updated SDL contact information to SDL@ssg.gov.sg.
+        You can email your updated SDL contact information to [SDL@ssg.gov.sg](mailto:SDL@ssg.gov.sg).
 
-        Please contact SkillsFuture Singapore (SSG) through our feedback portal or our hotline at 6785 5785 if you have enquiries.
+        Please contact SkillsFuture Singapore (SSG) through our [feedback portal](https://portal.ssg-wsg.gov.sg/feedback){:target="_blank"}{:rel="noopener"} or our hotline at [6785 5785](tel:+65 6785 5785) if you have enquiries.
