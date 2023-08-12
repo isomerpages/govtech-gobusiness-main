@@ -26,8 +26,8 @@
     
     - title: How do I access SDL information and perform SDL-related transactions?
       content: |
-        1. Inform your Corppass admin about granting access to MTI ‘GoBusiness’ e-Service for the Corppass account of employees who are authorised to view SDL records
-        2. Perform a review of the current users who have access to MTI ‘GoBusiness’ e-Service’ and remove personnel who do not need to access SDL services
+        1. Inform your Corppass admin about granting access to MTI 'GoBusiness' e-Service for the Corppass account of employees who are authorised to view SDL records
+        2. Perform a review of the current users who have access to MTI 'GoBusiness' e-Service' and remove personnel who do not need to access SDL services
         3. Visit [here](/sdl-e-services/) for SDL digital services
         4. Should you require any clarification, please contact SSG Helpdesk at [6785 5785](tel:+65 6785 5785) or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
     
@@ -46,15 +46,15 @@
 
     - title: How is the outstanding SDL payable calculated?
       content: |
-        Employers can download the monthly breakdown of the SDL payable, SDL paid and estimated outstanding SDL payable from the SDL page via the Download Details button. This will give an overview of how the outstanding SDL payable amount was calculated.
+        Employers can download the monthly breakdown of the SDL payable, SDL paid and estimated outstanding SDL payable from the [SDL page](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"} via the Download Details button. This will give an overview of how the outstanding SDL payable amount was calculated.
 
-        Please review your organisation’s payroll records to determine the SDL payable for your local and foreign employees and the amount of SDL you have previously paid for the period.
+        Please review your organisation's payroll records to determine the SDL payable for your local and foreign employees and the amount of SDL you have previously paid for the period.
 
-        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration* for each employee*, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month) and calculate the SDL payable amount using the SDL calculator. 
+        You may verify your payroll records using the SDL rate of 0.25% of the monthly remuneration<sup>*</sup> for each employee<sup>*</sup>, with the minimum payable of $2 (for an employee earning less than $800 a month) and a maximum of $11.25 (for an employee earning more than $4,500 a month) and calculate the SDL payable amount using the SDL calculator. 
 
-        * Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
+        <sup>*</sup> Please refer to the definition of "remuneration" and “employee” found in Section 2 of the Skills Development Levy Act 1979.
 
-        If you do not agree with the calculation, you will be able to correct the amount by filling and submitting the "Declaration Form" template via the SDL Payment & Declaration form.
+        If you do not agree with the calculation, you will be able to correct the amount by filling and submitting the "Declaration Form" template via the [SDL Payment & Declaration form](https://dashboard.gobusiness.gov.sg/sdl/make-payment){:target="_blank"}{:rel="noopener"}.
 
     - title: How do I make my SDL payment on GoBusiness?
       content: |
