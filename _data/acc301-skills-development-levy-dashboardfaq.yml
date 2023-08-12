@@ -29,25 +29,8 @@
         1. Inform your Corppass admin about granting access to MTI ‘GoBusiness’ e-Service for the Corppass account of employees who are authorised to view SDL records
         2. Perform a review of the current users who have access to MTI ‘GoBusiness’ e-Service’ and remove personnel who do not need to access SDL services
         3. Visit [here](/sdl-e-services/) for SDL digital services
-        4. Should you require any clarification, please contact SSG Helpdesk at 6785 5785 or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
+        4. Should you require any clarification, please contact SSG Helpdesk at [6785 5785](tel:+65 6785 5785) or feedback portal at [https://service-portal.skillsfuture.gov.sg/s/feedback/](https://service-portal.skillsfuture.gov.sg/s/feedback/){:target="_blank"}{:rel="noopener"}.
     
-    - title: What are the payment methods?
-      content: | 
-        You can pay via one of the following methods:
-
-        (A) Credit Card
-        GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
-
-        (B) Offline Payment
-        Bank Transfer
-        Remarks/Reference: [GoBusiness SubmissionID]
-        You may reference the payment instructions sent by SSG after submission of payment and declaration form
-
-        (C) Offline Payment
-        PayNow
-        Bill Reference Number: [GoBusiness SubmissionID]
-        You may reference the payment instructions sent by SSG after submission of payment and declaration form
-        
 - accordion:
   letter: b
   data:
@@ -97,6 +80,23 @@
 
         8. Track your transaction status on SDL Page, under SDL notifications
 
+    - title: What are the payment methods?
+      content: | 
+        You can pay via one of the following methods:
+
+        (A) Credit Card
+        GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
+
+        (B) Offline Payment
+        Bank Transfer
+        Remarks/Reference: [GoBusiness SubmissionID]
+        You may reference the payment instructions sent by SSG after submission of payment and declaration form
+
+        (C) Offline Payment
+        PayNow
+        Bill Reference Number: [GoBusiness SubmissionID]
+        You may reference the payment instructions sent by SSG after submission of payment and declaration form
+        
 - accordion:
   letter: c
   data:
