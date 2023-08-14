@@ -8,7 +8,17 @@ third_nav_title: New Business Owners
 
 ![Essential business regulations](/images/eservices/eServices_Essential Business Regulations.jpg)
 
-Depending on your sector and business activity, there may be mandatory business regulations you will need to comply with when you start your business. Learn more about your duties and obligations as an employer, as stipulated by the Employment Act [here](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}{:rel="noopener"}. Here is a list of relevant e-Services.
+Depending on your sector and business activity, there may be mandatory business regulations you will need to comply with when you start your business. 
+
+### Regulatory requirements guides
+
+There are essential tax and compliance rules that every business in Singapore needs to know, depending on your business structure. 
+
+{% include panels-featurelink.html panels=site.data.acc208-essential-business-regulations-overview %}
+
+### Your obligations as an employer 
+
+Learn more about your duties and obligations as an employer, as stipulated by the Employment Act [here](https://www.mom.gov.sg/employment-practices/employment-act){:target="_blank"}{:rel="noopener"}. 
 
 ### e-Services for essential business regulations
 
@@ -23,6 +33,11 @@ Depending on your sector and business activity, there may be mandatory business 
 
 - [Emissions data monitoring and analysis system](#){:target="_blank"}{:rel="noopener"}
   <br>Emissions Data Monitoring and Analysis System
+
+** Ministry of Manpower
+
+- [Factory Notification and Registration](https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories){:target="_blank"}{:rel="noopener"}
+  <br>Notify or register your premises with MOM if your owkrplace is defined as a factory under the Workplace Safety and Health (WSH) Act. [Read the WSH Act's definition of a factory](https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/what-is-a-factory){:target="_blank"}{:rel="noopener"}.
 
 **Singapore Customs**
 
