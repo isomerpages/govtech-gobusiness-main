@@ -25,6 +25,13 @@ Navigate the process of starting, running and growing a business with our handy 
 - [e-Adviser for Home-Based Business](https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_guidesforbiz){:target="_blank"}
   <br>For aspiring business owners to find out the next steps to run a small-scale business from home.
 
+<a name="business-regulations"></a>
+
+### For business regulations
+- [Regulatory requirements guides](/regulatory-requirements-guides/){:target="_blank"}
+  <br>A guide with the various regulatory deadlines to comply with.
+
+
 <a name="gov-assistance"></a>
 
 ### For government assistance
