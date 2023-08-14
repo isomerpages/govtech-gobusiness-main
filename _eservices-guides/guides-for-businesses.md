@@ -31,7 +31,6 @@ Navigate the process of starting, running and growing a business with our handy 
 - [Regulatory requirements guides](/regulatory-requirements-guides/){:target="_blank"}
   <br>A guide with the various regulatory deadlines to comply with.
 
-
 <a name="gov-assistance"></a>
 
 ### For government assistance
