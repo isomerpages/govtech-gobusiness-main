@@ -34,7 +34,7 @@ Learn more about your duties and obligations as an employer, as stipulated by th
 - [Emissions data monitoring and analysis system](#){:target="_blank"}{:rel="noopener"}
   <br>Emissions Data Monitoring and Analysis System
 
-**Ministry of Manpower
+**Ministry of Manpower**
 
 - [Factory Notification and Registration](https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories){:target="_blank"}{:rel="noopener"}
   <br>Notify or register your premises with MOM if your owkrplace is defined as a factory under the Workplace Safety and Health (WSH) Act. [Read the WSH Act's definition of a factory](https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/what-is-a-factory){:target="_blank"}{:rel="noopener"}.
