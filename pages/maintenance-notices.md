@@ -11,7 +11,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------| 
-| 14 Aug, 7.15pm - 15 Aug, 12.00am | **Application, amendment & renewing of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 15 Aug, 6pm - 8pm | **Application, amendment & renewing of Singapore Civil Defence Force (SCDF) licences** will be unavailable during the upcoming scheduled maintenance. | 
 
 
 <script src="/jquery/jquery.min.js"></script>
