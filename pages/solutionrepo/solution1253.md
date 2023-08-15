@@ -1,15 +1,15 @@
 ---
-title: 'Pasteurisation Equipment/ Plant'
+title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1253
 ---
 
-## Pasteurisation Equipment/ Plant
+## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

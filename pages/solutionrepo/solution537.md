@@ -1,15 +1,20 @@
 ---
-title: 'DM Inbox Digital Marketing Packages'
+title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution537
 ---
 
-## DM Inbox Digital Marketing Packages
+## (A.I.) INFO-TECH Cloud HRMS Version 8.0
 
 ## Overview
 
 **Description**
 
-Inbox Consults helps businesses use paid advertising by crafting irresistible offers, a compelling message to the right audience, and creating sustainable value for customers. Inbox Consults creates highly converting landing pages with attention-grabbing ads in the form of videos and/or pictures. With track records in various industries and niches, partner with Inbox Consults today to begin an amazing journey in digital marketing and improved business!
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
+
+1. Transforming HR Software to Cloud
+2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
+3. Help HR handle company's compliance challenges and better manage resources.
+4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +28,48 @@ Inbox Consults helps businesses use paid advertising by crafting irresistible of
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Conversion Kickstarter - SEM | Display and Video  (3 months) - With Video | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Conversion Kickstarter - SMM | Display and Video (3 months) - With Video | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Digital Presence Starter - SMM | SM Page Management (3 months) - With Shoot | Copy</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Digital Awareness - Brand Awareness / Engagement (2 months) - With ExShoot | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
+<td style='padding: 10px;'>$25,300.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Digital Advertising - SEM or SMM | Display and Video (5 months) - With Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
+<td style='padding: 10px;'>$32,700.00</td>
+<td style='padding: 10px;'>$30,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: Inbox Consults Pte Ltd<br>Web URL: www.inboxconsults.com<br>Contact Hotline: 88213786<br>Contact Email: gavin@inboxconsults.com
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

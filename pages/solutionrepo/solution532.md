@@ -1,15 +1,15 @@
 ---
-title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
+title: 'DM Inbox Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 
-## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
+## DM Inbox Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
+Inbox Consults helps businesses use paid advertising by crafting irresistible offers, a compelling message to the right audience, and creating sustainable value for customers. Inbox Consults creates highly converting landing pages with attention-grabbing ads in the form of videos and/or pictures. With track records in various industries and niches, partner with Inbox Consults today to begin an amazing journey in digital marketing and improved business!
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Conversion Kickstarter - SEM | Display and Video  (3 months) - With Video | Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Conversion Kickstarter - SMM | Display and Video (3 months) - With Video | Page</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Digital Presence Starter - SMM | SM Page Management (3 months) - With Shoot | Copy</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Digital Awareness - Brand Awareness / Engagement (2 months) - With ExShoot | Page</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
-<td style='padding: 10px;'>$10,359.99</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Digital Advertising - SEM or SMM | Display and Video (5 months) - With Page</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
+ Company name: Inbox Consults Pte Ltd<br>Web URL: www.inboxconsults.com<br>Contact Hotline: 88213786<br>Contact Email: gavin@inboxconsults.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

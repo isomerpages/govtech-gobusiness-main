@@ -1,17 +1,15 @@
 ---
-title: 'Xero Accounting System'
+title: 'EQuipPOS Retail Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution381
 ---
 
-## Xero Accounting System
+## EQuipPOS Retail Solutions Version 3
 
 ## Overview
 
 **Description**
 
-EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
-
-Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
+EQuip POS Retail Solutions display real-time and offline capabilities at the same time. The solution provides modules including sales, inventory, customer relationship management, promotion, and mobile inventory manager. Cloud based POS reports and mobile applications are available for business owners to analyse business performance, along with e-commerce and e-payment integrations to drive sales. Professional services and user training are included to ensure that the solution is business ready.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package A (Basic)</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package B (Basic+Multi Outlet Control)</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
-<td style='padding: 10px;'>$3,164.00</td>
-<td style='padding: 10px;'>$3,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package C (Basic+Inventory Manager APP)</td>
+<td style='padding: 10px;'>$7,048.00</td>
+<td style='padding: 10px;'>$6,748.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
-<td style='padding: 10px;'>$5,064.00</td>
-<td style='padding: 10px;'>$5,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package D (Basic+Inventory Manager APP+ 3rd Party Integration)</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
-<td style='padding: 10px;'>$6,264.00</td>
-<td style='padding: 10px;'>$6,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Retail Solutions Version 3 - Package E (Basic+Online Orders & Rewards App)</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_20220048_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

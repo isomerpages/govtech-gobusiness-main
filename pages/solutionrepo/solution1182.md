@@ -1,18 +1,20 @@
 ---
-title: 'Rotary Wok Fryer'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1182
 ---
 
-## Rotary Wok Fryer
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-Cost of equipment capped at $37,500 per unit 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -23,9 +25,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 

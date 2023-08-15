@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Email and Endpoint Security Management'
+title: 'MyRetailer Android POS'
 permalink: /productivity-solutions-grant/solutionrepo/solution356
 ---
 
-## Microsoft Email and Endpoint Security Management
+## MyRetailer Android POS
 
 ## Overview
 
 **Description**
 
-Microsoft Email and Endpoint Security Management elevate SMB' security from traditional antivirus to next-gen antivirus protection, endpoint detection, and threat and vulnerability management. It offers simplified configuration and management with intelligent automated investigation and response to help protect email and endpoints. Our 24*7 email and endpoint security management help SMB protect from cyber threats, detects advanced attacks and data breaches, and automates security incidents.
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Microsoft Email and Endpoint Security Management elevate SMB' security from trad
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 users package</td>
-<td style='padding: 10px;'>$4,176.00</td>
-<td style='padding: 10px;'>$4,176.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 users package</td>
-<td style='padding: 10px;'>$7,152.00</td>
-<td style='padding: 10px;'>$7,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users package</td>
-<td style='padding: 10px;'>$10,128.00</td>
-<td style='padding: 10px;'>$10,128.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users package</td>
-<td style='padding: 10px;'>$16,680.00</td>
-<td style='padding: 10px;'>$16,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>80 users package</td>
-<td style='padding: 10px;'>$25,608.00</td>
-<td style='padding: 10px;'>$25,608.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dataconnect_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:DATA CONNECT TECHNOLOGIES PRIVATE LIMITED<br>Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: SALES@D-CONNECT.NET
+ Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
