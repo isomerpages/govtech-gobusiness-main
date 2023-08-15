@@ -286,6 +286,35 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
+    
+    - title: Cyber Security Agency (CSA)
+      content: |
+        **Cybersecurity Labelling Scheme for IoT (Level 1)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact certification@csa.gov.sg.</p>
+
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/daef1ed0-f564-4599-b933-15370c4991ac" target="_blank" rel="noopener">Apply on CSA</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-1))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 2)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact certification@csa.gov.sg.</p>
+
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/aa611d55-fae6-4187-ab28-aeaba26071d1" target="_blank" rel="noopener">Apply on CSA</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-2))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 3)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact certification@csa.gov.sg.</p>
+
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/de4e8a86-d51a-489f-b1ea-bb1cd0310d97" target="_blank" rel="noopener">Apply on CSA</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-3))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 4)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact certification@csa.gov.sg.</p>
+
+        <a class="btn" href="https://dashboard-staging.l1t.molb.gov.sg/task-details/80bd1519-eb2b-4d57-bfc7-b466bce959e9" target="_blank" rel="noopener">Apply on CSA</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4))
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
