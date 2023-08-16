@@ -11,7 +11,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------| 
-| 15 Aug, 6pm - 8pm | **Application, amendment & renewing of Singapore Civil Defence Force (SCDF) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 16 Aug, 6pm - 8pm| **Application, amendment & renewing of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 16 Aug, 6:30pm - 11:59pm | **Application, amendment & renewing of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 
 
 <script src="/jquery/jquery.min.js"></script>
