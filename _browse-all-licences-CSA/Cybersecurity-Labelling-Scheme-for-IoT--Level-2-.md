@@ -8,7 +8,7 @@ third_nav_title: Cyber Security Agency (CSA)
 
 Cyber Security Agency (CSA)
 
-{% include button.html text="Apply on CSA" src="https://dashboard-staging.l1t.molb.gov.sg/task-details/aa611d55-fae6-4187-ab28-aeaba26071d1" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/40121c2f-8027-4905-9b2b-c82ae2a97841" type="primary" %}
 
 <H3>Application Details</H3>
 
