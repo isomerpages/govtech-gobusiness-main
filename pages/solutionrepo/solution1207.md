@@ -1,17 +1,15 @@
 ---
-title: 'High pressure industrial vacuum cleaner'
+title: 'Crate/ Tray washing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1207
 ---
 
-## High pressure industrial vacuum cleaner
+## Crate/ Tray washing machine
 
 ## Overview
 
 **Description**
 
-The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
-
-Cost of equipment capped at $12,500 per unit 
+A machine used to wash crates and trays used for farming.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

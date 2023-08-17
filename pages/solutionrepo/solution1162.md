@@ -1,17 +1,18 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: 'Vacuum Packing and Sealing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1162
 ---
 
-## Portable Automatic Gas Cutting Machine
+## Vacuum Packing and Sealing Machine
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
+The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
 
-Cost of equipment capped at $6,250 per unit
+Cost of equipment capped at $35,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $6,250 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
 </tr>
 </table>
 

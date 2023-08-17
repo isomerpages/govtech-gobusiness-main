@@ -1,15 +1,15 @@
 ---
-title: 'AM8ZE ERP - VISTA'
+title: 'Synergix Sales, Accounting, Inventory'
 permalink: /productivity-solutions-grant/solutionrepo/solution1495
 ---
 
-## AM8ZE ERP - VISTA
+## Synergix Sales, Accounting, Inventory
 
 ## Overview
 
 **Description**
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$16,750.00</td>
-<td style='padding: 10px;'>$16,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (5 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$53,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (Unlimited Users)</td>
-<td style='padding: 10px;'>$20,850.00</td>
-<td style='padding: 10px;'>$20,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (Unlimited Users)</td>
-<td style='padding: 10px;'>$30,150.00</td>
-<td style='padding: 10px;'>$26,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$34,850.00</td>
-<td style='padding: 10px;'>$27,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Advanced (Unlimited Users)</td>
-<td style='padding: 10px;'>$38,350.00</td>
-<td style='padding: 10px;'>$27,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (10 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$74,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 
 ## Vendor Information
 
- Company Name: AM8ZE PTE LTD<br>Web URL: https://am8ze.com/erp/ <br>Contact Hotline: 96222206 <br>Contact Email: sales@am8ze.com <br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
+title: 'Artemis'
 permalink: /productivity-solutions-grant/solutionrepo/solution329
 ---
 
-## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
+## Artemis
 
 ## Overview
 
 **Description**
 
-Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
+Artemis is a comprehensive and user-friendly automation tool, which helps clients meet complex KYC/AML/CTF regulatory requirements. Leveraging on Machine Learning and Artificial Intelligence, Artemis is built specifically to address the challenges of the ever-changing regulatory landscape, it also helps regulated businesses to stay ahead of the regulatory curve by assisting them in fulfilling their KYC, risk assessment, record-keeping, screening, and ongoing due diligence obligations.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Searches</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'>$2,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 75/20</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>500 Searches</td>
+<td style='padding: 10px;'>$2,888.00</td>
+<td style='padding: 10px;'>$2,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1000 Searches</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'>$3,788.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3000 Searches</td>
+<td style='padding: 10px;'>$4,588.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company name:Cynopsis Solutions Pte Ltd<br>Web URL: https://cynopsis-solutions.com/artemis-kyc-solution/ <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,17 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'Bristle Blaster / Cup Brush / Power Brush'
 permalink: /productivity-solutions-grant/solutionrepo/solution1178
 ---
 
-## Commercial Inkjet Printer
+## Bristle Blaster / Cup Brush / Power Brush
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
+The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
 
-Cost of equipment capped at $16,000 per unit
+Cost of equipment capped at $3,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $16,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

@@ -1,17 +1,17 @@
 ---
-title: 'DM Digital M Digital Marketing Packages Version 0.1'
+title: 'Xero Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution366
 ---
 
-## DM Digital M Digital Marketing Packages Version 0.1
+## Xero Accounting System
 
 ## Overview
 
 **Description**
 
-Digital M provides digital marketing solutions to help SMEs and Startups in Singapore improve their digital presence and connect them with the right target audience. Digital M use SEO, SEM and social media marketing (SMM) strategies to rank higher on search engines and increase brand awareness, guaranteeing more website traffic, high-quality leads and sales.  
+EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
 
-The packages are designed to meet the short-term digital marketing goals of businesses from any industry in just 3 months.
+Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +25,38 @@ The packages are designed to meet the short-term digital marketing goals of busi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 1 - SEO + SEM (3 months)</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
+<td style='padding: 10px;'>$1,664.00</td>
+<td style='padding: 10px;'>$1,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 2 - SEO + SEM ( 3 months) </td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 3 - SMM + SEM (3 months) </td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
+<td style='padding: 10px;'>$3,164.00</td>
+<td style='padding: 10px;'>$3,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 4 - SEO + SMM (3 months) 	</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
+<td style='padding: 10px;'>$5,064.00</td>
+<td style='padding: 10px;'>$5,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital M Digital Marketing Package 5 - SEO + SEM + SMM (3 months)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Digital_M_DM_Digital_M_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
+<td style='padding: 10px;'>$6,264.00</td>
+<td style='padding: 10px;'>$6,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The packages are designed to meet the short-term digital marketing goals of busi
 
 ## Vendor Information
 
- Company name:Digital M Pte. Ltd.<br>Web URL: www.digitalm.sg <br>Contact Hotline: 87562812 <br>Contact Email: enquire@digitalm.sg 
+ Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

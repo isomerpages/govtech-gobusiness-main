@@ -3,10 +3,10 @@
 const custom_notifications = [
 
   //1 system downtime only
-  "<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 14 Aug 2023 from 7.15pm to 15 Aug 2023 12.00am.<br> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Singapore Civil Defence Force (SCDF) licences will be unavailable during the upcoming scheduled maintenance on 15 Aug 2023 from 6.00pm to 8.00pm.<br> Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
   
   //multiple services
-  //"<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
 
 ];
 
