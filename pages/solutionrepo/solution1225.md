@@ -1,15 +1,15 @@
 ---
-title: 'Culture Tank System with Monitoring and Control System'
+title: 'Recirculating Aquaculture System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1225
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Recirculating Aquaculture System
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Cultivation system with monitoring and control system
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

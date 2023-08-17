@@ -1,19 +1,15 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution1202
 ---
 
-## Mobile Computer (Warehouse application)
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
-
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
-
-Cost of equipment capped at $30,000 per unit
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -24,9 +20,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

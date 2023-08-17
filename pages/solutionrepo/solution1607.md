@@ -1,15 +1,15 @@
 ---
-title: '3D Omni Commerce'
+title: 'Shopcada Ecommerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1607
 ---
 
-## 3D Omni Commerce
+## Shopcada Ecommerce
 
 ## Overview
 
 **Description**
 
-3D Omni Commerce is an integrated "all-channel" online store, to empower SMEs to streamline business processes and designed to optimize conversions. The solution comprises a professionally designed E-commerce website, with On-Page SEO, Inventory Management, Promotion Management, E-payment gateway integration, CRM, and synchronisation of prices, orders, and inventories to popular Online Marketplaces, such as Shopee and Lazada.
+Shopcada is an Omni Channel ecommerce platform and its Key features include payment integration, order fulfillment automation and integration with delivery companies, SEO friendly & SEM Integration, CRM & loyalty tools, advance reporting, social commerce and integration with online marketplaces such as Shopee, Lazada and Zalora.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1607
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart1.pdf ' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PRO</td>
-<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_OmniCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_Shopcada_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1607
 
 ## Vendor Information
 
- Company name:3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com 
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

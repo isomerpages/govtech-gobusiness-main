@@ -1,15 +1,15 @@
 ---
-title: 'Recirculating Aquaculture System'
+title: 'Digital quality testing equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Recirculating Aquaculture System
+## Digital quality testing equipment
 
 ## Overview
 
 **Description**
 
-A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
+Quality testing equipment in measuring the produce quality and freshness
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A production system with reduced water exchange and use of biofiltration / envir
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

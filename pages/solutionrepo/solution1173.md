@@ -1,17 +1,15 @@
 ---
-title: 'Vertical Carousel'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1173
 ---
 
-## Vertical Carousel
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
-
-Cost of equipment capped at $37,500 per unit 
+Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit height: min. 2.5m<br>- Carrier tray width: min. 1.3m<br>- Load capacity per tray: min. 150kg<br>- With operator Interface (Console)<br>- With software linked to Inventory Management System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

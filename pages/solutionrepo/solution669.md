@@ -1,15 +1,15 @@
 ---
-title: 'ITAPS'
+title: 'ASURIX HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution669
 ---
 
-## ITAPS
+## ASURIX HRMS
 
 ## Overview
 
 **Description**
 
-iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
+Asurix Human Resource Software is a fully customisable cloud based Human Resource Management system and trusted by customer across the region. It simplify the HR administration for organisation and reduce total cost of ownership.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (10 users) </td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (25 users) </td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (50 users)</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 4 (120 employees)					</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (100 users)</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$17,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 5 (200 employees)					</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (150 users)</td>
+<td style='padding: 10px;'>$26,850.00</td>
+<td style='padding: 10px;'>$23,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 
 ## Vendor Information
 
- Company Name: Mind Master Solutions Pte Ltd<br>Web URL: www.mindmaster.com.sg <br><br>Contact Hotline: 62505623 <br><br>Contact Email: info@mindmastersg.com <br><br>
+ Company name:NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

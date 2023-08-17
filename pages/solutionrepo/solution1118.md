@@ -1,17 +1,15 @@
 ---
-title: 'Counto DIY Version 1'
+title: 'Quickbooks Online Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1118
 ---
 
-## Counto DIY Version 1
+## Quickbooks Online Accounting Software
 
 ## Overview
 
 **Description**
 
-CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
-
-Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
+Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,38 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
+<td style='padding: 10px;'>$803.48</td>
+<td style='padding: 10px;'>$764.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
+<td style='padding: 10px;'>$3,003.48</td>
+<td style='padding: 10px;'>$2,964.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
+<td style='padding: 10px;'>$3,803.48</td>
+<td style='padding: 10px;'>$3,764.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
+<td style='padding: 10px;'>$4,603.48</td>
+<td style='padding: 10px;'>$4,564.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
+<td style='padding: 10px;'>$7,803.48</td>
+<td style='padding: 10px;'>$7,764.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +64,7 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 
 ## Vendor Information
 
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
+ Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

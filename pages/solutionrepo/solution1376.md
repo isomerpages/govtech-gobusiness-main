@@ -1,15 +1,15 @@
 ---
-title: 'DM Business Thrust Digital Marketing Packages Version DM01'
+title: 'DM SEOciety Digital Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution1376
 ---
 
-## DM Business Thrust Digital Marketing Packages Version DM01
+## DM SEOciety Digital Marketing
 
 ## Overview
 
 **Description**
 
-Business Thrust specialises in digital marketing and offers SEO and SEM services to help businesses improve their online visibility, drive traffic to their websites, and increase conversions through effective search engine optimization techniques. The key benefits of digital marketing services include enhanced brand recognition, higher search engine rankings, and increased website traffic, resulting in improved lead generation and sales for clients.
+SEOciety, a Google partner company, is one of the few integrated bilingual digital marketing agency in Singapore. SEOciety offers English and Chinese SEO and SEM packages to help SMEs open new markets and generate effective and concrete leads.  Having a presence in both the Google English and Chinese market will increase visibility and differentiate businesses to a new audience while increasing market share for the long term.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Business Thrust specialises in digital marketing and offers SEO and SEM services
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO+SEM (6 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
+<td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
+<td style='padding: 10px;'>$10,490.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_DMBusinessThrust_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Business Thrust specialises in digital marketing and offers SEO and SEM services
 
 ## Vendor Information
 
- Company Name: Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+ Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

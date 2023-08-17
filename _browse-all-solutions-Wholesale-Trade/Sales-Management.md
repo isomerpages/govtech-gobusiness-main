@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution311' target='_blank'>Creative Sales and Order</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution306' target='_blank'>Creative Sales and Order</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution664' target='_blank'>MEVO DMS 8.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution652' target='_blank'>MEVO DMS 8.3</a><br></td>
 <td>MEVO Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1105' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>

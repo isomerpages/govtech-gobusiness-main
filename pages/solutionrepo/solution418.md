@@ -1,15 +1,15 @@
 ---
-title: 'FITPRISE Project Management System - PCM'
+title: 'Everyday Corporate Xero Cloud Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution418
 ---
 
-## FITPRISE Project Management System - PCM
+## Everyday Corporate Xero Cloud Accounting Software
 
 ## Overview
 
 **Description**
 
-FITPRISE Project Management System is a flexible business system for SMEs where the monitoring of project milestones is essential. Each milestone can be properly tracked and fulfilled. Customized reports provides full traceability of end-to-end job operation status. The solution provides the flexibility to create new fields, logic to meet the SMEs operations workflow. This helps with the solution acceptance for users as system processes are more familiar and customized to their daily operations.
+Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ FITPRISE Project Management System is a flexible business system for SMEs where 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 1 (5 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FITPRISE Project Management System - PCM - Package 2 (10 users)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Enhanzcom20210226_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard with Data Migration</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Premium (Multicurrency)</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4- Premium (Multicurrency) with Data Migration</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'>$3,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Enhanzcom Pte Ltd<br>Web URL: www.enhanzcom.com <br><br>Contact Hotline: 62761128 <br><br>Contact Email: enquiries@enhanzcom.com <br><br>
+ Company Name: Everyday Corporate Pte. Ltd.<br>Web URL: www.everydaycorporate.com <br>Contact Hotline: 93202657 <br>Contact Email: hello@everydaycorporate.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

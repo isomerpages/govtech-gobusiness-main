@@ -1,17 +1,17 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Augmented Reality Welding Training Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1158
 ---
 
-## Circular Gas Cutter
+## Augmented Reality Welding Training Solution
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
 
-Cost of equipment capped at $18,750 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
 </tr>
 </table>
 
