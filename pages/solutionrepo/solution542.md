@@ -1,16 +1,15 @@
 ---
-title: 'INFO-TECH Cloud Accounting Software Version 1.0'
+title: 'BIM Collaborate Pro'
 permalink: /productivity-solutions-grant/solutionrepo/solution542
 ---
 
-## INFO-TECH Cloud Accounting Software Version 1.0
+## BIM Collaborate Pro
 
 ## Overview
 
 **Description**
 
-INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
-Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
+Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product-BIM Collaborate Pro. A single platform that connects design, construction processes and project team at BIM Collaborate Pro, a cloud collaboration solution for Revit users. Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D .
 
 ## Solution Packages Option(s)
 
@@ -24,27 +23,48 @@ Info-Tech Cloud Accounting Software also helps to save time especially with defa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (2 Users Pack)</td>
 <td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autodesk Docs (10 Users Pack)</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Collaborate Pro (5 Users Pack)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (10 Users Pack)</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collaborate Pro (25 Users Pack)</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$26,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_BIM_Collaborate_Pro_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

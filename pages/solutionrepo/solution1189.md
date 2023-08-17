@@ -1,15 +1,17 @@
 ---
-title: 'Laser Geometric Alignment System'
+title: 'Liquid Filling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
-## Laser Geometric Alignment System
+## Liquid Filling Machine
 
 ## Overview
 
 **Description**
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
 
 Cost of equipment capped at $37,500 per unit
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
+<td style='padding: 10px;'>- Minimally semi-automated<br>- Volumetric or weight based filling<br>- Touchscreen display can be supported<br>- Explosion proof can be supported <br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported <br></td>
 </tr>
 </table>
 

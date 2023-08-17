@@ -1,17 +1,17 @@
 ---
-title: 'Steel Plate Butt Joint Welding Alignment Tool'
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1170
 ---
 
-## Steel Plate Butt Joint Welding Alignment Tool
+## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ## Overview
 
 **Description**
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
 
-Cost of equipment capped at $12,500 per unit
+Cost of equipment apped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
 </tr>
 </table>
 
