@@ -1,15 +1,17 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'High pressure industrial vacuum cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1190
 ---
 
-## Auto Welding Carriage
+## High pressure industrial vacuum cleaner
 
 ## Overview
 
 **Description**
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
+
+Cost of equipment capped at $12,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

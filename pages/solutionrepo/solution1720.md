@@ -1,15 +1,17 @@
 ---
-title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
+title: 'DM MediaPlus Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1720
 ---
 
-## EPOS Integrated Digital Solution for F&B Version 2.0
+## DM MediaPlus Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, place orders and make payment. Orders are automatically sent to the kitchen. This streamlined process enables an F&B to (i) improve manpower and efficiency and (ii) increase customer satisfaction. Built-in CRM and Rewards Program drive increased customer spend and retention, increasing sales and profitability. Integrations to Grab, FoodPanda, Xero, Quickkbooks, Shopify and Ecommerce further increase productivity.
+Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
+
+With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Activate Search DM Package (SEM/SEO) [3 Months]</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_DM_MediaPlus_Digital_Marketing_Package_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Activate Social DM Package (SMA/SMM) [3 Months]</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'>$6,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_DM_MediaPlus_Digital_Marketing_Package_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Search DM Package (SEM/SEO) [6 Months]</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_DM_MediaPlus_Digital_Marketing_Package_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Social DM Package (SMM/SMA) [6 Months]</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_DM_MediaPlus_Digital_Marketing_Package_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accelerate DM Package (SEO/SEM/SMA) [3 Months]</td>
+<td style='padding: 10px;'>$9,995.00</td>
+<td style='padding: 10px;'>$9,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_DM_MediaPlus_Digital_Marketing_Package_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, 
 
 ## Vendor Information
 
- Company name:EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

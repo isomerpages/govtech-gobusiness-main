@@ -1,15 +1,15 @@
 ---
-title: 'Digital Retail Ecommerce Solutions'
+title: '3D Omni Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1590
 ---
 
-## Digital Retail Ecommerce Solutions
+## 3D Omni Commerce
 
 ## Overview
 
 **Description**
 
-The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
+3D Omni Commerce is an integrated "all-channel" online store, to empower SMEs to streamline business processes and designed to optimize conversions. The solution comprises a professionally designed E-commerce website, with On-Page SEO, Inventory Management, Promotion Management, E-payment gateway integration, CRM, and synchronisation of prices, orders, and inventories to popular Online Marketplaces, such as Shopee and Lazada.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PRO</td>
+<td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_OmniCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It c
 
 ## Vendor Information
 
- Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
+ Company name:3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Live Pump'
+title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1236
 ---
 
-## Live Pump
+## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

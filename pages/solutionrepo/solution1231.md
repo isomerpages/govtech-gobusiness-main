@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced disinfection system'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1231
 ---
 
-## Enhanced disinfection system
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
