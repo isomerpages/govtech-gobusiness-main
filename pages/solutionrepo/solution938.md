@@ -1,15 +1,15 @@
 ---
-title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
+title: 'SYSFREIGHT Version 10.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution938
 ---
 
-## Iorderla Digital Ordering BYOD Solution Version 1.0
+## SYSFREIGHT Version 10.01
 
 ## Overview
 
 **Description**
 
-Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
+SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences).
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 3 User</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$15,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 6 User</td>
+<td style='padding: 10px;'>$24,480.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 9 User</td>
+<td style='padding: 10px;'>$31,140.00</td>
+<td style='padding: 10px;'>$29,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User</td>
+<td style='padding: 10px;'>$37,080.00</td>
+<td style='padding: 10px;'>$35,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 15 User</td>
+<td style='padding: 10px;'>$42,300.00</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 
 ## Vendor Information
 
- Company Name: SUNTOYO TECHNOLOGY PTE LTD<br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
+ Company Name: SYSMAGIC SOFTWARE SOLUTION PTE LTD<br>Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

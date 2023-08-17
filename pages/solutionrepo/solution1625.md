@@ -1,15 +1,15 @@
 ---
-title: 'Simpliify''s E-commerce Version 1'
+title: 'Advocado Cloud Loyalty CRM Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1625
 ---
 
-## Simpliify''s E-commerce Version 1
+## Advocado Cloud Loyalty CRM Software
 
 ## Overview
 
 **Description**
 
-Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
+Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing and sales automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Simpliify_Ecommerce_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Advocado_Cloud_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Advocado_Cloud_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional Package</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Advocado_Cloud_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_Advocado_Cloud_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+ Web URL: https://www.advocadoapp.com <br><br>Contact Hotline: 64449556 <br><br>Contact Email: hello@advocado.me <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

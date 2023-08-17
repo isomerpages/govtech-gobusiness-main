@@ -1,15 +1,15 @@
 ---
-title: 'Web Imp Express E-Commerce Website Development Version v1'
+title: 'Athena E-Store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
-## Web Imp Express E-Commerce Website Development Version v1
+## Athena E-Store Solution
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/ <br>Contact Hotline: 88663438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

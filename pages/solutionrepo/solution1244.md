@@ -1,15 +1,15 @@
 ---
-title: 'Solar Panels System and Energy Storage System'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution1244
 ---
 
-## Solar Panels System and Energy Storage System
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system that stores and converts solar energy into electrical energy for farm u
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solar Panels System and Energy Storage System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

@@ -1,18 +1,17 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Automatic Nut Splitter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
-## Form Fill Seal Machine
+## Automatic Nut Splitter
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
 
-Cost of equipment  capped at $20,500 per unit 
+Cost of equipment capped at $7,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment  capped at $20,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 
