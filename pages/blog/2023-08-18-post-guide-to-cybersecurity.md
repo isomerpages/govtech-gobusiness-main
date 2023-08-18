@@ -48,14 +48,14 @@ The ultimate goal is to help SMEs achieve a base level of cybersecurity, which s
 ### Completing the fundamentals: The Cyber Essentials mark
 
 ![Cyber essentials mark infographic](/images/blog/content/Cybersecurity 3.jpg)
-<figcaption>The Cyber Essentials mark guides SME owners on prioritising the cyber measures needed to protect their organisation from the most common cyber attacks (Image: Cyber Security Association of Singapore)</figcaption>
+<figcaption>The Cyber Essentials mark guides SME owners on prioritising the cyber measures needed to protect their organisation from the most common cyber attacks (Image: Cyber Security Association of Singapore)</figcaption> 
 
 Attaining the [Cyber Essentials](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-scheme-for-organisation/cyber-essentials){:target="_blank"}{:rel="noopener"} mark is a good milestone to aim for. Designed for SMEs which have limited IT and/or cybersecurity expertise and resources, the mark serves as a certification to recognise that organisations have put in place good cyber hygiene measures. It also helps these SMEs prioritise the measures most vital to safeguard their systems and operations from common cyber threats.
 
 To achieve the mark, organisations will first need to introduce measures across five different categories: protection for their assets; secure access and protection against malicious software; prompt software updates; backing up of essential data; as well as having an incident response plan.
 
 ![Pre-approved cybersecurity solutions for PSG](/images/blog/content/Cybersecurity 4.jpg)
-<figcaption>Much like how people need to maintain good hygiene habits, the same applies for cyber hygiene. CSA’s Cybersecurity Health Plan equips SMEs with the knowledge they need to do so (Image: Canva)</figcaption>
+<figcaption>Business owners can obtain the Productivity Solutions Grant for select pre-approved cybersecurity solutions</figcaption>
 
 SMEs looking to attain the Cyber Essentials mark can consider looking into pre-approved cyber solutions under the [SMEs Go Digital programme](https://www.imda.gov.sg/how-we-can-help/smes-go-digital){:target="_blank"}{:rel="noopener"}. Under this programme, CSA has worked with the Infocomm Media Development Authority and Enterprise Singapore to curate [a list of pre-approved cybersecurity solutions](https://services2.imda.gov.sg/CTOaaS/Solutions){:target="_blank"}{:rel="noopener"} that are market-proven, cost-effective and provided by reliable vendors.
 
