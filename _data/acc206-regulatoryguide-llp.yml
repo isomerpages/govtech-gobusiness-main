@@ -31,24 +31,27 @@ accordion:
       <li>you expect taxable turnover to exceed $1 million in the next 12 months.</li>
       </ul>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened within 10 days of the incident.<br>
+      For fatal accidents or dangerous occurrences, notify MOM immediately at [mom_oshd@mom.gov.sg](mailto:mom_oshd@mom.gov.sg).
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change to LLP information</strong>, <strong>LLP officers' information</strong> and the <strong>RORC</strong>.
-      
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change to the RORC information</strong> (within 2 business days after updating your RORC), <strong>in your LLP, or LLP officer's information</strong> (within 14 business days).
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="D"> <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/employers-responsibilities#:~:text=For%20work%20permit%20applications%20and,addresses%20of%20your%20migrant%20workers" target="_blank" rel="noopener">Update MOM</a> when your staff, who are work pass holders, change their residential address within 5 days of any change.
+
   - title: Monthly requirements
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Monthly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_monthlyrequirements.png" aria-hidden=true>
 
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your LLP hires foreign workers:</H5>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your business hires foreign workers:</H5>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">View your MOM Foreign Worker Levy bill</a> by the 6th of every month.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/check-and-pay-levy" target="_blank" rel="noopener">Payment for the Foreign Worker Levy</a> will be made via Giro by the 17th of each month.
 
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your LLP hires Singapore Citizens and Permanent Residents (SPR):</H5>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If your business hires Singapore Citizens and Permanent Residents (SPR):</H5>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions" target="_blank" rel="noopener">Make employee CPF monthly contribution</a> and Skills Development Levy (SDL) payment by the last day of each month. Action will be taken against employers who fail to pay by the 14th of the following month.
 
   - title: Quarterly requirements
     content: |
@@ -57,13 +60,22 @@ accordion:
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Update MOM's Occupational Employment Dataset (OED)</H5>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees.<br>
+      To allow MOM to shape manpower policies, businesses are required to provide MOM with updated details of your workforce's occupational and employment details via the OED portal every quarter. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
+
+      <img width="720px" src="/images/grow/regulatory%20guides/llp_quarterlyrequirements2.png" aria-hidden=true>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File and Pay your GST</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your LLP is GST-registered, <a ref="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">e-file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
+      
+      <strong>For example:</strong><br>
+      Partnership A<br>
+      Financial Year ends in December<br>
+      - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.<br>
+      - Alternately, if the LLP has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
       
       <strong>For example:</strong><br>
       LLP A<br>
@@ -119,6 +131,7 @@ accordion:
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/M.png' aria-hidden='true' alt="M"> Pay your income tax within 1 month from the date of your NOA.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/N.png' aria-hidden='true' alt="N"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> with 30 days from the date of your NOA.
+ 
   - title: Hiring workers
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
