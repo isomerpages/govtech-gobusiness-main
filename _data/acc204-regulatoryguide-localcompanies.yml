@@ -84,8 +84,8 @@ accordion:
       Company A<br>
       Financial Year ends in December<br>
       - For the quarterly GST accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.
-      - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
-
+      - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov. 
+      <br>
 
   - title: Yearly requirements
     content: |
@@ -93,16 +93,8 @@ accordion:
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_yearlyrequirements1.png" aria-hidden=true>
 
       <h4>From your second financial year</h4>
-      
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
-
-      <h4>From your second year</h4>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
-
-
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> By the 1st of March of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
       
@@ -146,7 +138,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/O.png' alt="O"> <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies" target="_blank" rel="noopener">File Corporate Income tax returns</a> [Form C-S/ FormC-S(Lite)/ Form C] by 30 Nov
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' alt="H"> <strong> - </strong> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px' src='/images/grow/regulatory guides/J.png' alt="J"> Receive NOA by 31 May of the following year, and Pay Corporate Income tax within 1 month from the date of NOA. If company does not agree with assessment raised, it can <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 2 months from the date of NOA with the Revise/ Object to Assessment digital service.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' alt="H"> - <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px' src='/images/grow/regulatory guides/J.png' alt="J"> Receive NOA by 31 May of the following year, and Pay Corporate Income tax within 1 month from the date of NOA. If company does not agree with assessment raised, it can <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 2 months from the date of NOA with the Revise/ Object to Assessment digital service.
 
   - title: Hiring workers
     content: |
