@@ -76,7 +76,7 @@ accordion:
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File and Pay your GST</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">e-file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
       
@@ -85,6 +85,7 @@ accordion:
       Financial Year ends in December<br>
       - For the quarterly GST accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.
       - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
+
 
   - title: Yearly requirements
     content: |
@@ -101,8 +102,10 @@ accordion:
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> By the 1st Mar of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
 
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> By the 1st of March of your 2nd financial year, submit employees income information electronically to IRAS if on <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/join-the-auto-inclusion-scheme-(ais)-for-employment-income" target="_blank" rel="noopener">Auto-Inclusion Scheme (AIS)</a> for Employment Income. Otherwise, provide <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employers/auto-inclusion-scheme-(ais)-for-employment-income/reporting-employee-earnings-(ir8a-appendix-8a-appendix-8b-ir8s)" target="_blank" rel="noopener">Form IR8A</a> and appendices (where applicable) to employees.
+      
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_yearlyrequirements2.png" aria-hidden=true>
 
       <h4>From your second/third* financial year</h4>
@@ -131,7 +134,7 @@ accordion:
       <td>Within 6 months from the end of FYE.</td>
       </tr>
       <tr>
-      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' alt="F> File annual returns with ACRA</th>
+      <th><img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' alt="F"> File annual returns with ACRA</th>
       <td>Within 5 months from the end of FYE.</td>
       <td>Within 7 months from the end of FYE.</td>
       </tr>
@@ -143,7 +146,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/O.png' alt="O"> <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/basic-guide-to-corporate-income-tax-for-companies" target="_blank" rel="noopener">File Corporate Income tax returns</a> [Form C-S/ FormC-S(Lite)/ Form C] by 30 Nov
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' alt="H"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px' src='/images/grow/regulatory guides/J.png' alt="J"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px' src='/images/grow/regulatory guides/L.png' alt="L"> Receive NOA by 31 May of the following year, and Pay Corporate Income tax within 1 month from the date of NOA. If company does not agree with assessment raised, it can <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 2 months from the date of NOA with the Revise/ Object to Assessment digital service.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' alt="H"> <strong> - </strong> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px' src='/images/grow/regulatory guides/J.png' alt="J"> Receive NOA by 31 May of the following year, and Pay Corporate Income tax within 1 month from the date of NOA. If company does not agree with assessment raised, it can <a href="https://www.iras.gov.sg/media/docs/default-source/uploadedfiles/pdf/user-guide-(tp)_revise-object-to-assessmentc15d9c13-95cd-43d6-8af0-41798057dbfa.pdf?sfvrsn=c8a1bb67_16" target="_blank" rel="noopener">file an objection</a> within 2 months from the date of NOA with the Revise/ Object to Assessment digital service.
 
   - title: Hiring workers
     content: |
@@ -157,7 +160,7 @@ accordion:
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> Before your local or foreign workers start work, remember to obtain work injury compensation (WIC) insurance if they are:
       - Manual workers
       - Non-manual workers with a salary of less than $2,600/month<br>
-      <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules" target="_blank" rel="noopener">Information about WIC</a>
+      <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules" target="_blank" rel="noopener">Information about WIC</a><br>
       <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/resources-and-tools" target="_blank" rel="noopener">Tools and resources for employers to download about WIC</a>
 
       <img width="720px" src="/images/grow/regulatory%20guides/localcompanies_hiringworkers2.png" aria-hidden=true>
