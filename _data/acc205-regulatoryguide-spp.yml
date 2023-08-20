@@ -31,9 +31,7 @@ accordion:
       </ul>
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened within 10 days of the incident.<br>
-      For fatal accidents or dangerous occurrences, notify MOM immediately at 
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-sole-proprietorships-and-partnerships" target="_blank" rel="noopener">Update ACRA</a> if there has been any change in business  information or appointments and changes in personal particulars of business owners and authorised representatives.
+      For fatal accidents or dangerous occurrences, notify MOM immediately at [mom_oshd@mom.gov.sg](mailto:mom_oshd@mom.gov.sg).
       
   - title: Monthly requirements
     content: |
@@ -59,17 +57,19 @@ accordion:
       
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> By the <strong>14th day after the end of each quarter</strong>, remember to <a href="https://stats.mom.gov.sg/laboursurvey/0Bn9VrkyUSUIttash5fgI5gAbBsfXwrIIlDbaQhFs_g%28*/!STANDARD" target="_blank" rel="noopener">update the OED</a> on changes to the occupational and employment details of your employees. <a href="https://stats.mom.gov.sg/Pages/OurSurveys.aspx" target="_blank" rel="noopener">Read more about OED</a>.
 
+      <img width="720px" src="/images/grow/regulatory%20guides/spp_quarterlyrequirements2.png" aria-hidden=true>
+
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">File and Pay your GST</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> If your company is GST-registered, <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/filing-gst/completing-gst-returns" target="_blank" rel="noopener">e-file your GST F5</a> via <a href="https://www.iras.gov.sg/digital-collaboration/for-businesses-employers" target="_blank" rel="noopener">IRAS' Seamless-Filing-From-Software (#SFFS)</a> or <a href="https://mytax.iras.gov.sg/" target="_blank" rel="noopener">myTax Portal</a> within <strong>1 month from the end of the GST accounting period</strong>. 
       
       Most GST-registered businesses file GST returns on a quarterly basis. The start and end of each quarterly period is dependent on your Financial Year End (FYE). 
       
       <strong>For example:</strong><br>
-      Business A<br>
+      Partnership A<br>
       Financial Year ends in December<br>
       - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and pay by 31 Oct if they are not on GIRO.<br>
-      - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and the GIRO deduction for payment will be on 15 Nov.
+      - Alternately, if the LLP has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
 
   - title: Yearly requirements
     content: |
