@@ -72,7 +72,8 @@ accordion:
       Financial Year ends in December<br>
       - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and pay by 31 Oct pay by 31 Oct if they are not on GIRO.<br>
       - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and the GIRO deduction for payment will be on 15 Nov.<br><br>
-
+      <br><br>
+      
   - title: Yearly requirements
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Yearly requirements</h3>
@@ -84,11 +85,7 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.acra.gov.sg/how-to-guides/renewing-your-registration-for-limited-partnerships-(lps)" target="_blank" rel="noopener">Renew your LP registration</a> before the expiry date. You can choose to renew your business for 1 or 3 years. 
       
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Pay property tax bill if your LP owns properties</H5>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
-
-      <h4>From your second year</h4>
+      <h4>From your second financial year</h4>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
 
@@ -119,6 +116,7 @@ accordion:
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> Pay your income tax within 1 month from the date of your NOA.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/M.png' aria-hidden='true' alt="M"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> with 30 days from the date of your NOA.
+ 
   - title: Hiring workers
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>

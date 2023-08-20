@@ -32,7 +32,7 @@ accordion:
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting" target="_blank" rel="noopener">Submit an incident report</a> with Ministry of Manpower's WSH Incident Reporting system, if a work-related accident has happened within 10 days of the incident.<br>
       For fatal accidents or dangerous occurrences, notify MOM immediately at [mom_oshd@mom.gov.sg](mailto:mom_oshd@mom.gov.sg).
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change in company information</strong> (within 14 business days) or to the <strong>Register of Registrable Controllers (RORC) information</strong> (within 2 business days after updating your RORC) of your company.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> <a href="https://www.acra.gov.sg/how-to-guides/updating-information-of-companies-and-company-officers" target="_blank" rel="noopener">Update ACRA</a> if there has been any <strong>change in company information</strong> or appointments and changes in personal particulars of business owners and authorised representatives within 14 business days.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="C"> <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/employers-responsibilities#:~:text=For%20work%20permit%20applications%20and,addresses%20of%20your%20migrant%20workers" target="_blank" rel="noopener">Update MOM</a> when your staff, who are work pass holders, change their residential address within 5 days of any change.
 
@@ -74,7 +74,7 @@ accordion:
       Financial Year ends in December<br>
       - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.<br>
       - Alternately, if the LLP has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
-      
+      <br><br>
 
   - title: Yearly requirements
     content: |
@@ -87,11 +87,8 @@ accordion:
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <a href="https://www.acra.gov.sg/how-to-guides/renewing-your-registration-for-sole-proprietorships-partnerships" target="_blank" rel="noopener">Renew your business registration</a> before the expiry date. You can choose to renew your business for 1 or 3 years.
 
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Pay property tax bill if your business owns properties</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="c"> <a href="https://www.iras.gov.sg/taxes/property-tax "  target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
-
-      <h4>From your second year</h4>
+      <h4>From your second financial year</h4>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
       

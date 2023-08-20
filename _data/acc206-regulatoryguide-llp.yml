@@ -77,24 +77,12 @@ accordion:
       - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and make payment by 31 Oct if they are not on GIRO.<br>
       - Alternately, if the LLP has a GIRO arrangement with IRAS, e-file by 31 Oct and payment deduction will take place on 15 Nov.
       
-      <strong>For example:</strong><br>
-      LLP A<br>
-      Financial Year ends in December<br>
-      - For the quarterly accounting period of 1 Jul - 30 Sep, they would have to e-file their GST F5 and pay by 31 Oct pay by 31 Oct if they are not on GIRO.<br>
-      - Alternately, if the company has a GIRO arrangement with IRAS, e-file by 31 Oct and the GIRO deduction for payment will be on 15 Nov.<br><br>
-
   - title: Yearly requirements
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Yearly requirements</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/llp_yearlyrequirements1.png" aria-hidden=true>
 
-      <h4>From your first year</h4>
-      
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Pay property tax bill if your LLP owns properties</H5>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> <a href="https://www.iras.gov.sg/taxes/property-tax" target="_blank" rel="noopener">Receive Property Tax Bill</a> at the end of the year, and pay property tax by 31 Jan if there is no GIRO arrangement for the payment of property tax.
-
-      <h4>From your second year</h4>
+      <h4>From your second financial year</h4>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Submit employees income information</H5>
 
