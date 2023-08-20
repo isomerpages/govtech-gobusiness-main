@@ -113,52 +113,33 @@ accordion:
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/L.png' aria-hidden='true' alt="L"> Pay your income tax within 1 month from the date of your NOA.
 
       <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/M.png' aria-hidden='true' alt="M"> If you do not agree with the assessment raised, <a href="https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/making-changes-after-filing-receiving-tax-bill" target="_blank" rel="noopener">file an objection</a> with 30 days from the date of your NOA.
-
   - title: Hiring workers
     content: |
       <h3 style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Hiring workers</h3>
       <img width="720px" src="/images/grow/regulatory%20guides/lp_hiringworkers.png" aria-hidden=true>
 
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">Before you hire your first employee:</H5>
+      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you're hiring local or foreign workers</H5>
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' aria-hidden='true' alt="A"> We recommend <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopener">applying for CPF Submission Number (CSN)</a> once you have set up your Corppass account. Employers will need a CSN when submitting CPF contributions for employees.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/A.png' alt="A"> We recommend <a href="https://www.cpf.gov.sg/employer/making-cpf-contributions/applying-for-a-cpf-submission-number" target="_blank" rel="noopener">applying for CPF Submission Number (CSN)</a> once you have set up your Corppass account. Employers will need a CSN when submitting CPF contributions for employees.
+
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' alt="B"> Before your local or foreign workers start work, remember to obtain work injury compensation (WIC) insurance if they are:
+      - Manual workers
+      - Non-manual workers with a salary of less than $2,600/month<br>
+      <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules" target="_blank" rel="noopener">Information about WIC</a><br>
+      <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/resources-and-tools" target="_blank" rel="noopener">Tools and resources for employers to download about WIC</a>
+
+      <img width="720px" src="/images/grow/regulatory%20guides/lp_hiringworkers2.png" aria-hidden=true>
 
       <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you intend to hire foreign workers:</H5>
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/B.png' aria-hidden='true' alt="B"> Assign the Work Pass eServices to required officers on Corppass.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' alt="C"> Assign the Work Pass eService to required officers on Corppass.
       
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/C.png' aria-hidden='true' alt="C"> Register for an account for MOM services <a href="https://www.mom.gov.sg/eservices/services/work-pass-account-registration-wpar" target="_blank" rel="noopener">Work Pass Account Registration eService</a>, and declare your business activity.
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' alt="D"> Register for an account for MOM services <a href="https://www.mom.gov.sg/eservices/services/work-pass-account-registration-wpar" target="_blank" rel="noopener">Work Pass Account Registration eService</a>, and declare your business activity.
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/D.png' aria-hidden='true' alt="D"> Apply for <a href="https://www.mom.gov.sg/passes-and-permits" target="_blank" rel="noopener">work pass holders</a> (if needed).
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' alt="E"> Apply for <a href="https://www.mom.gov.sg/passes-and-permits" target="_blank" rel="noopener">work pass holders</a> (if needed).
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/E.png' aria-hidden='true' alt="E"> <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-apply-for-giro-bank-account-for-my-levy-payment" target="_blank" rel="noopener">Set up GIRO</a> with MOM for Foreign Worker Levy (if you hire Work Permit or S Pass holders).
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' alt="F"> <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-apply-for-giro-bank-account-for-my-levy-payment" target="_blank" rel="noopener">Set up GIRO</a> with MOM for Foreign Worker Levy (if you hire Work Permit or S Pass holders).
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/F.png' aria-hidden='true' alt="F"> <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing" target="_blank" rel="noopener">Arrange accommodation</a>
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' alt="G"> <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing" target="_blank" rel="noopener">Secure accommodation</a> for workers, and register residential address in <a href="https://www.mom.gov.sg/eservices/services/ofwas" target="_blank" rel="noopener">Online Foreign Worker Address Service (OFWAS)</a> before issuance of work passes. 
 
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/G.png' aria-hidden='true' alt="G"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>.
-
-      <H5 style="font-family: hknova-bold; font-weight: $bold; font-size: 18px; line-height: 27px; color: #313840;">If you're hiring local or foreign workers:</H5>
-
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Obtain work injury compensation (WIC) insurance for eligible workers before they start work.
-      
-      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/I.png' aria-hidden='true' alt="I"> Ensure that you comply with <a href="https://www.mom.gov.sg/workplace-safety-and-health/factory-notification-and-registration/requirements-for-factories" target="_blank" rel="noopener">factory registration requirements</a> 1 month before the start of operations. 
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      <img style='width:24px; height:auto; float:left; margin-right:10px;margin-top:0px;margin-bottom:0px'  src='/images/grow/regulatory guides/H.png' aria-hidden='true' alt="H"> Ensure that migrant workers have attended the <a href="https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider" target="_blank" rel="noopener">necessary training courses</a>.
