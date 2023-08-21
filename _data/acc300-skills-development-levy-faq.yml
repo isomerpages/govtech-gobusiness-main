@@ -331,9 +331,9 @@
 
     - title: Can I make back-payments for SDL?
       content: |
-        Employers can make back-payments for SDL directly to SkillsFuture Singapore (SSG) by logging in to GoBusiness. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
+        Employers can make back-payments for SDL directly to SkillsFuture Singapore (SSG) by [logging in to GoBusiness](https://dashboard.gobusiness.gov.sg/sdl){:target="_blank"}{:rel="noopener"}. Head to Levy > Skills Development Levy (SDL) and click on the Make Payment/Declaration button.
         
-        You can also make back-payments for SDL via CPF EZPay, where the SDL payable is automatically calculated.
+        You can also make back-payments for SDL via CPF EZPay.
 
     - title: How do I indicate employees who are exempted from SDL?
       content: |
