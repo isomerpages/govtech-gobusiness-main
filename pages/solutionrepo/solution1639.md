@@ -1,15 +1,15 @@
 ---
-title: 'A2000 WebShop (B2C) Version 2'
+title: 'CFOsg XERO Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1639
 ---
 
-## A2000 WebShop (B2C) Version 2
+## CFOsg XERO Cloud Accounting
 
 ## Overview
 
 **Description**
 
-A2000 E-Commerce enables SMEs to extend their business online. With this solution, SMEs may open up new business opportunities and generate higher sales revenue with an automated sales channel. This is a digital platform that allows customers to purchase 24/7 on the e-commerce site, widen sales reach to a global audience, and attract & retain customers with data insights.
+Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ A2000 E-Commerce enables SMEs to extend their business online. With this solutio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> A2000 WebShop (B2C) Version 2 - Standard</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000_WebShop_B2C_Ver2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,964.00</td>
+<td style='padding: 10px;'>$3,907.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
+<td style='padding: 10px;'>$4,664.00</td>
+<td style='padding: 10px;'>$4,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
+<td style='padding: 10px;'>$5,984.00</td>
+<td style='padding: 10px;'>$5,927.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ A2000 E-Commerce enables SMEs to extend their business online. With this solutio
 
 ## Vendor Information
 
- Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
+ Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

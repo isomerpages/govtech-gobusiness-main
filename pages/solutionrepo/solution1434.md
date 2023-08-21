@@ -1,15 +1,17 @@
 ---
-title: 'DM Fier Capital Digital Marketing Packages'
+title: 'Microsoft Dynamics 365 Business Central Version Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution1434
 ---
 
-## DM Fier Capital Digital Marketing Packages
+## Microsoft Dynamics 365 Business Central Version Cloud
 
 ## Overview
 
 **Description**
 
-Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
+Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
+
+Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +25,38 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 3 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$24,100.00</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 5 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$23,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 8 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$41,100.00</td>
+<td style='padding: 10px;'>$26,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 10 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$46,000.00</td>
+<td style='padding: 10px;'>$29,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Edition - SaaS 8 Users with InvoiceNow</td>
+<td style='padding: 10px;'>$53,600.00</td>
+<td style='padding: 10px;'>$30,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +66,7 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 
 ## Vendor Information
 
- Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
+ Company Name: Dalstech Pte Ltd<br>Web URL: https://www.dalstech.com/dynamics-365-business-central <br>Contact Hotline: 69092088 <br>Contact Email: sales@dalstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

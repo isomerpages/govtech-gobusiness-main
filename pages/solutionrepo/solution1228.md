@@ -1,15 +1,15 @@
 ---
-title: 'Automated Mixer/ Compacter for Growing Media'
+title: 'Sterilizer Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1228
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Sterilizer Equipment
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

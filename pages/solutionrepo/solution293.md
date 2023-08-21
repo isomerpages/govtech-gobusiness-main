@@ -1,15 +1,15 @@
 ---
-title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
+title: 'DM Corsiva Lab Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution293
 ---
 
-## Fortigate Firewall for IT Security or VPN - CARE IT
+## DM Corsiva Lab Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Marketing and Social Media Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Search Engine Marketing [3 Months Package]</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Content Marketing [6 Months Package]</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography [3 Months Package]</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 
 ## Vendor Information
 
- Company Name: Computer Analysts and Recovery Experts Pte Ltd<br>Web URL: www.care.biz <br><br>Contact Hotline: 67448022 <br><br>Contact Email: sales@sg.care.biz <br><br>
+ Company Name: Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

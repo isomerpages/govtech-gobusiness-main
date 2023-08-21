@@ -1,15 +1,15 @@
 ---
-title: 'Collection Systems'
+title: 'Packing machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1241
 ---
 
-## Collection Systems
+## Packing machine
 
 ## Overview
 
 **Description**
 
-Automatic collector used to collect produce, which can also reduce the damage rate.
+A machine that automates the packing of farm produce with high speed and high degree of precision, may also include labelling and weighing functions.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic collector used to collect produce, which can also reduce the damage ra
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

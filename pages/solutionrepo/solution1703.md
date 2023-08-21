@@ -1,15 +1,15 @@
 ---
-title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
+title: 'Web Imp Express E-Commerce Website Development Version v1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1703
 ---
 
-## Advanced Human Hazard Avoidance & Alert Systems Version 01
+## Web Imp Express E-Commerce Website Development Version v1
 
 ## Overview
 
 **Description**
 
-Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
+Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,150.00</td>
-<td style='padding: 10px;'>$1,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,450.00</td>
-<td style='padding: 10px;'>$1,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,650.00</td>
-<td style='padding: 10px;'>$1,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'>$1,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensure
 
 ## Vendor Information
 
- Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
+ Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

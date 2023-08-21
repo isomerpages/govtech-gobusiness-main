@@ -43,11 +43,6 @@
     - title: Engineering Services
       content: |
         
-        **IT Solution**
-        - <a href='/browse-all-solutions-Engineering-Services/Workforce-Management'>Workforce Management</a>
-        - <a href='/browse-all-solutions-Engineering-Services/Project-Management-System'>Project Management System</a>
-        - <a href='/browse-all-solutions-Engineering-Services/3-in-1-ERP-solution'>3-in-1 ERP solution</a>
-        
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
 
@@ -253,6 +248,7 @@
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Endpoint-Protection-Platform'>Endpoint Protection Platform</a>
 - accordion:
   letter: c
   data:

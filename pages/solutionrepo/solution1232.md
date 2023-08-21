@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Harvester'
+title: 'Water Filtration System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1232
 ---
 
-## Automatic Harvester
+## Water Filtration System
 
 ## Overview
 
 **Description**
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To harvest produce automatically to reduce manual tasks and improve manpower pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

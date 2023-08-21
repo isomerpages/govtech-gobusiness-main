@@ -1,16 +1,15 @@
 ---
-title: 'TIMES SOFTWARE HRMS Version 18'
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1029
 ---
 
-## TIMES SOFTWARE HRMS Version 18
+## EZ Accounting and Inventory Software
 
 ## Overview
 
 **Description**
 
-Times Software Pte Ltd is an international software and consultancy company specializing in the development, implementation & systems support as well as the marketing of Times's proprietary suite of applications that include Payroll and Human Resource solutions built on leading technologies.
-Times Software Pte Ltd has a team of employees who are equipped with in-depth knowledge, technological skills, and business processes of the human resource industry standards.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,31 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 1 (up to 25 pax)</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 2 (up to 50 pax)</td>
-<td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 3 (up to 100 pax)</td>
-<td style='padding: 10px;'>$22,800.00</td>
-<td style='padding: 10px;'>$21,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 4 (up to 150 pax)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIMES SOFTWARE HRMS Version 18 - Cloud-based package 5 (up to 200 pax)</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$31,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TIMES_SOFTWARE_20210414_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,873.00</td>
+<td style='padding: 10px;'>$12,598.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +57,7 @@ Times Software Pte Ltd has a team of employees who are equipped with in-depth kn
 
 ## Vendor Information
 
- Company Name: Times Software Pte Ltd<br>Web URL: https://www.timesoftsg.com.sg/timesepayroll/ <br><br>Contact Hotline: 62951998 <br><br>Contact Email: sales@timesoftsg.com.sg <br><br>
+ Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

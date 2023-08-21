@@ -1,15 +1,15 @@
 ---
-title: 'GenicDocs - Document Management Software'
+title: 'DM C.O Enterprise Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution231
 ---
 
-## GenicDocs - Document Management Software
+## DM C.O Enterprise Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly interface
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With more than 8 years of experience, C.O Enterprise's 3 or 6 months Digital Marketing Packages help businesses gain mindshare, improve brand awareness and generate higher sales. All packages help clients with Facebook and Instagram marketing content generation, a 3-hour photoshoot, assessment of competitors, target audience and current state of digital presence and digital marketing strategy development including proposed brand positioning and campaign planning and development.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ GenicDocs is very user-friendly interface and secured Document Management Softwa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (up to 5 users)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMM Facebook + SMM Instagram) 3 months</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (up to 7 users)</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (up to 10 users)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMM Facebook + SMM Instagram) 6 months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (up to 15 users)</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (up to 25 users)</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ GenicDocs is very user-friendly interface and secured Document Management Softwa
 
 ## Vendor Information
 
- Company name:Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com 
+ Company Name: C.O Enterprise Pte Ltd<br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

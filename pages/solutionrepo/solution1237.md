@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Automated Irrigation Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1237
 ---
 
-## Crate/ Tray washing machine
+## Automated Irrigation Equipment/ System
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+Water efficient irrigation system (e.g. sprinkler)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

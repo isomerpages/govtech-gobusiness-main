@@ -1,15 +1,15 @@
 ---
-title: '3D Omni Commerce'
+title: 'Intuit Quickbooks Online Full Transformation Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1620
 ---
 
-## 3D Omni Commerce
+## Intuit Quickbooks Online Full Transformation Packages
 
 ## Overview
 
 **Description**
 
-3D Omni Commerce is an integrated "all-channel" online store, to empower SMEs to streamline business processes and designed to optimize conversions. The solution comprises a professionally designed E-commerce website, with On-Page SEO, Inventory Management, Promotion Management, E-payment gateway integration, CRM, and synchronisation of prices, orders, and inventories to popular Online Marketplaces, such as Shopee and Lazada.
+Quickbooks Online is a user-friendly accounting solution and is able to track sales, expenses and profit or by classes, projects, and locations. The solution can generate digital sales quotations and sales invoices and can track and manage Goods and Services Tax (GST) with customized IRAS Form F5.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1620
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Plan</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PRO</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_OmniCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plan </td>
+<td style='padding: 10px;'>$3,564.00</td>
+<td style='padding: 10px;'>$3,564.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business</td>
+<td style='padding: 10px;'>$5,664.00</td>
+<td style='padding: 10px;'>$5,664.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business - With Customised Training</td>
+<td style='padding: 10px;'>$6,864.00</td>
+<td style='padding: 10px;'>$6,864.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Small Business - With Customised Training</td>
+<td style='padding: 10px;'>$9,264.00</td>
+<td style='padding: 10px;'>$9,264.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1620
 
 ## Vendor Information
 
- Company name:3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com 
+ Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

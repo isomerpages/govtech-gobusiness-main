@@ -1,25 +1,19 @@
 ---
-title: 'Automated Tools Management System'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1165
 ---
 
-## Automated Tools Management System
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
 
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system. 
- 
-Cost of equipment capped at $28,000 per unit
+Cost of equipment capped at $20,000 per unit
 
 
 ## Solution Packages Option(s)
@@ -31,9 +25,9 @@ Cost of equipment capped at $28,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>- Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 
