@@ -286,6 +286,35 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Central-Narcotics-Bureau-(CNB)/Permit-Administration-and-Control-System(PATROL)">View Licence Details</a>
+    
+    - title: Cyber Security Agency of Singapore (CSA)
+      content: |
+        **Cybersecurity Labelling Scheme for IoT (Level 1)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/327fba30-dee6-4e86-a105-5a2987ead256" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-1))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 2)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/2e6b5855-9e73-4220-99ed-d7433b2b32ab" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-2))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 3)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/bfbb5e4e-358a-42aa-9bac-0df776a624b2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-3))
+
+        -----
+        **Cybersecurity Labelling Scheme for IoT (Level 4)**
+
+        <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/50f4282e-87b4-4660-bf24-190ad5a8305b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4))
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
@@ -1907,7 +1936,7 @@
       content: |
         **Application for Temporary Fire Permit / Fire Safety Certificate**
 
-        A building owner may apply and obtain a Temporary Fire Permit (TFP) for a limited period to occupy or use the premises, prior to obtaining the FSC. The TFP is only issued on condition that the fire safety works of the project has been satisfactorily completed with very minor outstanding issues left to be complied with. The timeframe to obtain the FSC after issuance of the TFP will depend on the size, type and complexity of the project. Normally, a maximum of 6 months will be granted.
+        A building owner may apply and obtain a Temporary Fire Permit (TFP) for a limited period to occupy or use the premises, prior to obtaining the FSC. The TFP is only issued on condition that the fire safety works of the project has been satisfactorily completed with very minor outstanding issues left to be complied with. The timeframe to obtain the FSC after issuance of the TFP will depend on the size, type and complexity of the project. Normally, a maximum of 6 months will be granted. 
 
         <a class="primary-btn" href="https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-safety-certificate-temporary-fire-permit" target="_blank" rel="noopener">Apply on SCDF</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Application-for-Temporary-Fire-Permit---Fire-Safety-Certificate">View Licence Details</a>
 
@@ -1920,7 +1949,7 @@
         
         For First Application and Renewal of Fire Certificate shall be made via the new application platform.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/995f75be-ec53-4a95-8aca-d55a9954f450" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/659ae823-a84d-408b-8ad7-ae196755b966" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
 
         -----
         **Lodgement of Minor Addition / Alteration Works (Minor A&A)**

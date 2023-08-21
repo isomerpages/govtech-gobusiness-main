@@ -11,10 +11,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------| 
-| 16 Aug, 6pm - 8pm| **Application, amendment & renewing of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
-| 16 Aug, 6:30pm - 11:59pm | **Application, amendment & renewing of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
-| 16 Aug, 7:15pm - 21:15pm | **Application, amendment & renewing of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. | 
-
+| 18 Aug, 10pm - 19 Aug, 6am<br>19 Aug, 10pm - 20 Aug, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+| 20 Aug, 12am - 4am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. | 
+| 30 Aug, 4pm - 8pm | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance. Some services may not be available during this period. | 
 
 
 <script src="/jquery/jquery.min.js"></script>
