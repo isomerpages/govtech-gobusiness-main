@@ -1,17 +1,17 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
-## Commercial Inkjet Printer
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Cost of equipment capped at $16,000 per unit
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $16,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>- Min. spreading force of 140 KN<br>- Must be certified intrinsically safe (e.g. ATEX certified)<br><br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

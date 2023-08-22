@@ -1,15 +1,15 @@
 ---
-title: 'Simplify Version 1'
+title: 'RavenPOS Personal Wellness Management System Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution703
 ---
 
-## Simplify Version 1
+## RavenPOS Personal Wellness Management System Version 12
 
 ## Overview
 
 **Description**
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+RAVENPOS wellness management system helps to manage and automate crucial business operation in the beauty and wellness industry. From session and credit packages, commission, inventory, appointment to customer management; the solution frees up resources, boosts revenue and increases productivity to scale the business
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Basic</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
-<td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Standard</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Advance</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
-<td style='padding: 10px;'>$33,500.00</td>
-<td style='padding: 10px;'>$30,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Professional</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,500.00</td>
-<td style='padding: 10px;'>$32,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Enterprise</td>
+<td style='padding: 10px;'>$13,250.00</td>
+<td style='padding: 10px;'>$13,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
+ Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

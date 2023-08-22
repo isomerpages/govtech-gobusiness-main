@@ -1,15 +1,15 @@
 ---
-title: 'ITAPS'
+title: 'MuRho Inventory Management & Sales Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution657
 ---
 
-## ITAPS
+## MuRho Inventory Management & Sales Management System
 
 ## Overview
 
 **Description**
 
-iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
+MuRho is a leading home-grown provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Order N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack B  (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 4 (120 employees)					</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 5 (200 employees)					</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack C (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Mind Master Solutions Pte Ltd<br>Web URL: www.mindmaster.com.sg <br><br>Contact Hotline: 62505623 <br><br>Contact Email: info@mindmastersg.com <br><br>
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'MuRho Inventory Management System'
+title: 'EISOL F&B (Eats365) Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1319
 ---
 
-## MuRho Inventory Management System
+## EISOL F&B (Eats365) Version 1.0
 
 ## Overview
 
 **Description**
 
-MuRho is a leading local provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Connect N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
+Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-based restaurant management system designed to aggregate customer orders from online, in-store, food delivery or digital self-ordering platform. It is designed to achieve better operational efficiency. Eats365 continues to upgrade and integrate with other apps or payment systems to expand its usability and allow businesses to scale and adapt to business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ MuRho is a leading local provider of inventory management system since 2002 with
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 1 (SaaS with hardware)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start-up</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 2 (SaaS with hardware and API connector)</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growth</td>
+<td style='padding: 10px;'>$5,236.00</td>
+<td style='padding: 10px;'>$4,736.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack 3 (Perpetual License on cloud with hardware) </td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large</td>
+<td style='padding: 10px;'>$5,587.00</td>
+<td style='padding: 10px;'>$5,087.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk</td>
+<td style='padding: 10px;'>$6,276.00</td>
+<td style='padding: 10px;'>$5,776.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$8,575.00</td>
+<td style='padding: 10px;'>$7,475.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
+ Company Name: EISOL Pte Ltd<br>Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

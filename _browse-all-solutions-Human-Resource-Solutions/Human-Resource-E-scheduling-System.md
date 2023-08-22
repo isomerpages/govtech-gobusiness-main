@@ -36,19 +36,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution761' target='_blank'>TimeCentral Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution751' target='_blank'>TimeCentral Version 11</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution912' target='_blank'>StaffAny</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution894' target='_blank'>StaffAny</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution994' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution976' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1077' target='_blank'>WhyzeHR eScheduling</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1059' target='_blank'>WhyzeHR eScheduling</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
 </tr>
 </table>
