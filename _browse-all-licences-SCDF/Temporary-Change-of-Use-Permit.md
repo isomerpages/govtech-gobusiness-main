@@ -8,7 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/6c8adcb7-d3c1-482f-8c51-e3b3c85478e2" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/72188bc0-a579-4a32-b0cc-76b1badc5b20" type="primary" %}
 
 <H3>Application Details</H3>
 
