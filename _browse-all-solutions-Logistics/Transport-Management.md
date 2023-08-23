@@ -32,11 +32,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>KEYfields Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution781' target='_blank'>PORTNET</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution771' target='_blank'>PORTNET</a><br></td>
 <td>PORTNET.COM PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1672' target='_blank'>goTruck!Hub</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1645' target='_blank'>goTruck!Hub</a><br></td>
 <td>GoTruck Pte Ltd</td>
 </tr>
 </table>

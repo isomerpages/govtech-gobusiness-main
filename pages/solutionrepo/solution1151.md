@@ -1,20 +1,17 @@
 ---
-title: 'Robotic arms'
+title: 'Static Parcel Dimension, Weight and Scan Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 
-## Robotic arms
+## Static Parcel Dimension, Weight and Scan Equipment
 
 ## Overview
 
 **Description**
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $21,250 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -25,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
+<td style='padding: 10px;'>$21,250.00</td>
+<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
 </tr>
 </table>
 

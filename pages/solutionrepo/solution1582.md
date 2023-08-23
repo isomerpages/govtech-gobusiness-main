@@ -1,15 +1,15 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
+title: 'E-Commerce MPD Package Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1582
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 2.0
+## E-Commerce MPD Package Version 2.0
 
 ## Overview
 
 **Description**
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
+Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital presence and sales by widening their reach through the digital platform where users can easily browse, shop and purchase their merchandise/products/services via a few clicks online with minimal manpower and overall operations cost lowered. Additionally, the solution is scalable and allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Woocommerce/Shopify Express</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_ECommerce_MPD_PKG_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Woocommerce Elite</td>
+<td style='padding: 10px;'>$9,961.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_ECommerce_MPD_PKG_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 ## Vendor Information
 
- Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
+ Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

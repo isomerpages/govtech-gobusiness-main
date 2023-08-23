@@ -1,17 +1,17 @@
 ---
-title: 'Blast Freezer'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1166
 ---
 
-## Blast Freezer
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
-Cost of equipment capped at $30,000 per unit
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 

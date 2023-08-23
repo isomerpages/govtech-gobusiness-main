@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Child Development'
+title: 'vTrak Version 1.4'
 permalink: /productivity-solutions-grant/solutionrepo/solution1290
 ---
 
-## Taidii Smart Data Analytics for Child Development
+## vTrak Version 1.4
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PER VEHICLE</td>
+<td style='padding: 10px;'>$1,939.00</td>
+<td style='padding: 10px;'>$1,719.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IDEE_INFOCOM_vTrak_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company Name: IDEE INFOCOM PTE LTD<br>Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

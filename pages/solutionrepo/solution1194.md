@@ -1,15 +1,15 @@
 ---
-title: 'Automated Counter/ Biomass Estimation System'
+title: 'Farm Processing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
-## Automated Counter/ Biomass Estimation System
+## Farm Processing Machine
 
 ## Overview
 
 **Description**
 
-Automatic devices for measuring or estimating the number of produce in a period.
+Integrated processing system to process produce into value-added products
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic devices for measuring or estimating the number of produce in a period.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

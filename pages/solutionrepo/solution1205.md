@@ -1,15 +1,15 @@
 ---
-title: 'Closed Containment System'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution1205
 ---
 
-## Closed Containment System
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To cultivate produce in a controlled environment that isolates and protects them
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
