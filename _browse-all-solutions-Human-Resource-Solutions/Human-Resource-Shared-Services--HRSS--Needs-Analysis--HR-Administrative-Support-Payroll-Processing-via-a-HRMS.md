@@ -52,11 +52,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution830' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution820' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
 <td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1539' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1516' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 </table>

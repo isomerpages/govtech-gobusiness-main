@@ -1,15 +1,19 @@
 ---
-title: 'Water Treatment System for Water Recirculation or Discharge'
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 
-## Water Treatment System for Water Recirculation or Discharge
+## Automated Noodle Boiler
 
 ## Overview
 
 **Description**
 
-A system for wastewater treatment to improve the water quality before the water is reused or discharged (e.g. Ozone, fine bubble, etc). 
+The automated noodle boiler automates the noodle cooking process. 
+
+Cost of equipment capped at $10,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +24,9 @@ A system for wastewater treatment to improve the water quality before the water 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Treatment System for Water Recirculation or Discharge</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Auto lift functions for the noodle baskets to be automatically lifted out of the boiler at pre-set timings.<br>- Minimally capacity of 3 noodle baskets.<br><br></td>
 </tr>
 </table>
 

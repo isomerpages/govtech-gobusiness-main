@@ -1,15 +1,19 @@
 ---
-title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
+title: 'Royal Management Services XERO ACCOUNTING'
 permalink: /productivity-solutions-grant/solutionrepo/solution853
 ---
 
-## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
+## Royal Management Services XERO ACCOUNTING
 
 ## Overview
 
 **Description**
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
+
+We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
+
+The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +27,48 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
+<td style='padding: 10px;'>$728.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 60 Employees)</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
+<td style='padding: 10px;'>$1,928.00</td>
+<td style='padding: 10px;'>$1,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
+<td style='padding: 10px;'>$2,528.00</td>
+<td style='padding: 10px;'>$2,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (3 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'>$3,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
+<td style='padding: 10px;'>$4,128.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
+ Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

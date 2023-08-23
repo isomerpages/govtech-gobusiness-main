@@ -1,19 +1,18 @@
 ---
-title: 'Autonomous Material Transportation Robot'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1136
 ---
 
-## Autonomous Material Transportation Robot
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
 
-Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
+Cost of equipment capped at $37,500 per unit 
 
-Cost of equipment capped at $37,500 per unit. 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +23,9 @@ Cost of equipment capped at $37,500 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit height: min. 2.5m<br>- Carrier tray width: min. 1.3m<br>- Load capacity per tray: min. 150kg<br>- With operator Interface (Console)<br>- With software linked to Inventory Management System</td>
 </tr>
 </table>
 
