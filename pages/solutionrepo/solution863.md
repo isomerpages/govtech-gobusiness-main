@@ -1,19 +1,15 @@
 ---
-title: 'Royal Management Services XERO ACCOUNTING'
+title: 'BeauteSoft V6.3.7.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution863
 ---
 
-## Royal Management Services XERO ACCOUNTING
+## BeauteSoft V6.3.7.2
 
 ## Overview
 
 **Description**
 
-Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
-
-We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
-
-The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
+BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon streamline operations. BeauteSoft is a fully integrated software solution that covers customer management information, online appointment booking, sales of packages and products, rule-based staff commission, integrated inventory management, and business intelligence reports. It provides iPad-based registration, consultation, and image capturing for before and after comparison. It also provides QR code check-in for Spa.
 
 ## Solution Packages Option(s)
 
@@ -27,38 +23,38 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
-<td style='padding: 10px;'>$728.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
-<td style='padding: 10px;'>$1,928.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard-M</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'>$2,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$11,749.00</td>
+<td style='padding: 10px;'>$11,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
-<td style='padding: 10px;'>$3,528.00</td>
-<td style='padding: 10px;'>$3,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-M</td>
+<td style='padding: 10px;'>$12,949.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
-<td style='padding: 10px;'>$4,128.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-Plus</td>
+<td style='padding: 10px;'>$16,549.00</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -68,7 +64,7 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 
 ## Vendor Information
 
- Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
+ Company name:SEQUOIA PTE LTD<br>Web URL: http://www.beaute-soft.com <br>Contact Hotline: 96951383 <br>Contact Email: ang@sequoia-asia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

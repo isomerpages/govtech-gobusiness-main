@@ -1,15 +1,15 @@
 ---
-title: 'Websentials Ecommerce Web Development'
+title: 'CFOsg XERO Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1612
 ---
 
-## Websentials Ecommerce Web Development
+## CFOsg XERO Cloud Accounting
 
 ## Overview
 
 **Description**
 
-Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
+Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
-<td style='padding: 10px;'>$9,040.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,964.00</td>
+<td style='padding: 10px;'>$3,907.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
+<td style='padding: 10px;'>$4,664.00</td>
+<td style='padding: 10px;'>$4,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
+<td style='padding: 10px;'>$5,984.00</td>
+<td style='padding: 10px;'>$5,927.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
+ Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

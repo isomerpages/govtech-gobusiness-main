@@ -1,15 +1,15 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'SYNERGIX Version TH6'
 permalink: /productivity-solutions-grant/solutionrepo/solution917
 ---
 
-## DM SBC Digital Marketing Packages
+## SYNERGIX Version TH6
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ permalink: /productivity-solutions-grant/solutionrepo/solution917
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
+<td style='padding: 10px;'>$39,420.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

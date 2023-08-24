@@ -1,15 +1,17 @@
 ---
-title: 'Vacuum Cooler Equipment'
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1230
 ---
 
-## Vacuum Cooler Equipment
+## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ## Overview
 
 **Description**
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ A system that rapidly cools from produce to extend shelf life and be more energy
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br>- Maintenance costs not supported</td>
 </tr>
 </table>
 

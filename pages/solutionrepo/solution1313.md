@@ -1,15 +1,15 @@
 ---
-title: 'vTrak Version 1.4'
+title: 'CIRCL F&B Omnichannel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1313
 ---
 
-## vTrak Version 1.4
+## CIRCL F&B Omnichannel
 
 ## Overview
 
 **Description**
 
-The unique thing about iDee InfoCom as a solution provider is our ability to understand our customer needs and provide them with a Total Solution incorporating Wireless and Radio Frequency Technology. Beyond the above, iDee InfoCom also provides a full spectrum of Automation solutions for Meter Reading, RFID, Field Service, Barcoding and more.
+CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PER VEHICLE</td>
-<td style='padding: 10px;'>$1,939.00</td>
-<td style='padding: 10px;'>$1,719.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IDEE_INFOCOM_vTrak_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 
 ## Vendor Information
 
- Company Name: IDEE INFOCOM PTE LTD<br>Web URL: WWW.IDEE.SG <br>Contact Hotline: 62936461 <br>Contact Email: INFO@IDEE.SG <br>
+ Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

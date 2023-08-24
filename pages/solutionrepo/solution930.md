@@ -1,15 +1,15 @@
 ---
-title: 'Swipetask PRO'
+title: 'Taidii Smart E-Form Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution930
 ---
 
-## Swipetask PRO
+## Taidii Smart E-Form Solution
 
 ## Overview
 
 **Description**
 
-Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
+Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
-<td style='padding: 10px;'>$17,196.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'>$1,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 
 ## Vendor Information
 
- Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+ Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
