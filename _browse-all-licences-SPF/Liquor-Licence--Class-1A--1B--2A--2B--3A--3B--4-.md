@@ -96,7 +96,9 @@ Maximum upload per application: 2 MB
 
 <H3>Requirements</H3>
 
-<p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER</p> 
-<p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* SECRETARY<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p> 
-<p><strong>Business (Sole Proprietor/Partnership)</strong><br />Applicant must be having one of the following position:<br />* OWNER<br />* AUTHORIZED REPRESENTATIVE</p> 
+<p><strong>Limited Liability Partnership</strong><br />Applicant must be having position:<br />* PARTNER</p>
+<p><strong>Company</strong><br />Applicant must be having one of the following position:<br />* MANAGING DIRECTOR<br />* DIRECTOR<br />* CHIEF EXECUTIVE OFFICER</p>
+<p><strong>Business (Sole Proprietor/Partnership)</strong><br />Applicant must be having one of the following position:<br />* OWNER<br />* AUTHORIZED REPRESENTATIVE</p>
 <p><strong>LP</strong><br />Applicant must be having one of the following position:<br />* GENERAL PARTNER<br />* LIMITED PARTNER</p>
+
+
