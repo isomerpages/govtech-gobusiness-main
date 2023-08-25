@@ -20,7 +20,7 @@ Singapore Police Force (SPF)
 <li>
 <strong>Where can I get more information for Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4) and Class 5 - Temporary Liquor Licence?</strong><br> 
 More information can be found at the 
-<a href=�https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence� target=�_blank� rel=�noopener�>SPF website</a>
+<a href=https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence target=_blank rel=noopener>SPF website</a>
 </li>
 <li>
 <strong>Who can be an applicant?</strong><br>

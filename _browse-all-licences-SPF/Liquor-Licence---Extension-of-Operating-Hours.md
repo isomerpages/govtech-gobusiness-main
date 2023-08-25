@@ -23,7 +23,7 @@ Singapore Police Force (SPF)
 <li>
 <strong>Where can I get more information for Extension Hours Liquor Licence?</strong><br> 
 More information can be found at the 
-<a href=�https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence� target=�_blank� rel=�noopener�>SPF website</a>
+<a href=https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence target=_blank rel=noopener>SPF website</a>
 </li>
 <li>
 <strong>Who can be an applicant?</strong><br>
