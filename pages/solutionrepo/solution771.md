@@ -1,15 +1,15 @@
 ---
-title: 'iTrack Vehicle Fleet Tracking'
+title: 'PORTNET'
 permalink: /productivity-solutions-grant/solutionrepo/solution771
 ---
 
-## iTrack Vehicle Fleet Tracking
+## PORTNET
 
 ## Overview
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+PORTNET is the first nation-wide business-to-business (B2B) port community solution that empowers the shipping community to easily manage the complexity of cargo operations and the entire shipping process.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PORTNET - Portnet Package A</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'>$2,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PORTNET - Portnet Package B</td>
+<td style='padding: 10px;'>$3,350.00</td>
+<td style='padding: 10px;'>$3,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Portnet_20200827_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company Name: PORTNET.COM PTE LTD <br>Web URL: https://www.portnet.com/WWWPublic/products.html <br><br>Contact Hotline: 63211173 <br><br>Contact Email: csc@portnet.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

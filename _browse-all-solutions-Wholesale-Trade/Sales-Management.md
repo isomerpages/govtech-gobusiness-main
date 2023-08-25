@@ -36,7 +36,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MEVO Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1070' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>

@@ -1,17 +1,19 @@
 ---
-title: 'Steel Plate Butt Joint Welding Alignment Tool'
+title: 'Battery-Powered Rope Ascender'
 permalink: /productivity-solutions-grant/solutionrepo/solution1153
 ---
 
-## Steel Plate Butt Joint Welding Alignment Tool
+## Battery-Powered Rope Ascender
 
 ## Overview
 
 **Description**
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
+Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
 
-Cost of equipment capped at $12,500 per unit
+The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
+
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
 </tr>
 </table>
 

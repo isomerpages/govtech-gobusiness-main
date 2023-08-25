@@ -36,19 +36,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>FacilityBot Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution703' target='_blank'>Simplify Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution693' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution930' target='_blank'>Swipetask PRO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution912' target='_blank'>Swipetask PRO</a><br></td>
 <td>Swipetask Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1353' target='_blank'>SmartFM Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1330' target='_blank'>SmartFM Version 2.0</a><br></td>
 <td>CHIMERIC TECHNOLOGIES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1378' target='_blank'>VisionMan</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1355' target='_blank'>VisionMan</a><br></td>
 <td>ECS Techno_Sys (Asia Pacific) Pte Ltd</td>
 </tr>
 </table>
