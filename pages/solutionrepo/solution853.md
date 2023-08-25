@@ -1,17 +1,19 @@
 ---
-title: 'HR Shared Services by RecruitSG'
+title: 'Royal Management Services XERO ACCOUNTING'
 permalink: /productivity-solutions-grant/solutionrepo/solution853
 ---
 
-## HR Shared Services by RecruitSG
+## Royal Management Services XERO ACCOUNTING
 
 ## Overview
 
 **Description**
 
-recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
+Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
 
-Companies can simplify their HR processes with recruitSG's end-to-end service - supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
+We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
+
+The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +27,38 @@ Companies can simplify their HR processes with recruitSG's end-to-end service - 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 30 Employees</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
+<td style='padding: 10px;'>$728.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 50 Employees</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
+<td style='padding: 10px;'>$1,928.00</td>
+<td style='padding: 10px;'>$1,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 100 Employees</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
+<td style='padding: 10px;'>$2,528.00</td>
+<td style='padding: 10px;'>$2,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 150 Employees</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'>$3,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 200 Employees</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
+<td style='padding: 10px;'>$4,128.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +68,7 @@ Companies can simplify their HR processes with recruitSG's end-to-end service - 
 
 ## Vendor Information
 
- Company name: RECRUIT.COM.SG PTE. LTD.<br>Web URL: WWW.RECRUIT.COM.SG <br>Contact Hotline: 68767936 <br>Contact Email: HELLO@RECRUIT.COM.SG 
+ Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

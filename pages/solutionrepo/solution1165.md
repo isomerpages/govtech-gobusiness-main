@@ -1,26 +1,17 @@
 ---
-title: 'Automated Tools Management System'
+title: 'Automatic Shrink Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1165
 ---
 
-## Automated Tools Management System
+## Automatic Shrink Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system. 
- 
-Cost of equipment capped at $28,000 per unit
-
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -31,9 +22,9 @@ Cost of equipment capped at $28,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>- Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 

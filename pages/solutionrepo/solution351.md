@@ -1,16 +1,15 @@
 ---
-title: 'ABSS Premier Version 30'
+title: 'MyRetailer Plus Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 
-## ABSS Premier Version 30
+## MyRetailer Plus Version 4
 
 ## Overview
 
 **Description**
 
-Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
-ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more.
+MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1U+Setup+Training</td>
-<td style='padding: 10px;'>$3,280.00</td>
-<td style='padding: 10px;'>$3,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
+<td style='padding: 10px;'>$4,190.00</td>
+<td style='padding: 10px;'>$3,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Setup+Training</td>
-<td style='padding: 10px;'>$4,230.00</td>
-<td style='padding: 10px;'>$4,230.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Second Monitor</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$5,780.00</td>
-<td style='padding: 10px;'>$5,780.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Web Store</td>
+<td style='padding: 10px;'>$5,390.00</td>
+<td style='padding: 10px;'>$4,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 1U+Setup+Training</td>
-<td style='padding: 10px;'>$6,090.00</td>
-<td style='padding: 10px;'>$6,090.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Cloud Dashboard</td>
+<td style='padding: 10px;'>$7,390.00</td>
+<td style='padding: 10px;'>$6,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments</td>
+<td style='padding: 10px;'>$4,926.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 
 ## Vendor Information
 
- Web URL: www.dandelion.com.sg <br><br>Contact Hotline: 89275811 <br><br>Contact Email: info@dandelion.com.sg <br><br>
+ Company name:DCS Synthesis Pte. Ltd.<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

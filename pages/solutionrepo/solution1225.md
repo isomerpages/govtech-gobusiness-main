@@ -1,15 +1,15 @@
 ---
-title: 'Automated Sorter/ Grader'
+title: 'Underwater Camera'
 permalink: /productivity-solutions-grant/solutionrepo/solution1225
 ---
 
-## Automated Sorter/ Grader
+## Underwater Camera
 
 ## Overview
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic graders to sort produce by species/ sizes/ weight while minimizing the
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

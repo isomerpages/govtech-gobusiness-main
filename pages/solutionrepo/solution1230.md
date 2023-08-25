@@ -1,15 +1,17 @@
 ---
-title: 'Automatic case labelling machine'
+title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1230
 ---
 
-## Automatic case labelling machine
+## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 
 ## Overview
 
 **Description**
 
-Case printing system or pack labelling system which allow the user to fully customize their label.
+The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Case printing system or pack labelling system which allow the user to fully cust
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic case labelling machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br>- Maintenance costs not supported</td>
 </tr>
 </table>
 

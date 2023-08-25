@@ -57,7 +57,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution7
 
 ## Vendor Information
 
- Company name:1103 STUDIOS PTE LTD<br>Web URL: www.1103studios.com <br>Contact Hotline: 97297686 <br>Contact Email: hello@1103studios.com 
+ Company name:1103 STUDIOS PTE LTD<br>Web URL: www.1103studios.com <br>Contact Hotline: 89462005<br>Contact Email: hello@1103studios.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

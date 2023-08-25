@@ -1,15 +1,15 @@
 ---
-title: 'Simplr Warehouse Management Version 6'
+title: 'Sugati Travel CRM Version 1.1037'
 permalink: /productivity-solutions-grant/solutionrepo/solution902
 ---
 
-## Simplr Warehouse Management Version 6
+## Sugati Travel CRM Version 1.1037
 
 ## Overview
 
 **Description**
 
-The end-to-end warehouse management solution helps improve efficiency of warehouse personnel at every stage - receiving, picking, storage, loading, delivery - and provides management with real-time control over inventory.
+Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,34 @@ The end-to-end warehouse management solution helps improve efficiency of warehou
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model (3 users)</td>
-<td style='padding: 10px;'>$25,200.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'>$10,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 5 Users)</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
+<td style='padding: 10px;'>$20,520.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - Cloud Model ( 8 users)</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$32,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplr Warehouse Management Version 6 - On Premise (5 Users)</td>
-<td style='padding: 10px;'>$56,000.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SIMPLR_20200732_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
+<td style='padding: 10px;'>$41,040.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SIMPLR SOLUTIONS PTE LTD<br>Web URL: https://simplr.net/solutions/ <br><br>Contact Hotline: 93801127 <br><br>Contact Email: ram@simplr.net <br><br>
+ Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
