@@ -9,13 +9,13 @@ description: Cybersecurity is a challenge when a lack of expertise, manpower, fu
 ---
 
 ![Cybersecurity practices for small and medium enterprises](/images/blog/content/Cybersecurity Feature.jpg)
-<figcaption>Cybersecurity may seem daunting for SMEs but there are several programmes to make such measures easily implementable and affordable (Image: Canva)</figcaption>
+<figcaption>Cybersecurity may seem daunting for SMEs but there are several programmes to make such measures more easily implementable and affordable (Image: Canva)</figcaption>
 
 The Covid-19 pandemic saw unprecedented digitalisation for small and medium enterprises (SMEs). While this saw SMEs enjoying perks like [improved efficiency](https://www.gobusiness.gov.sg/gobusiness-blog/psg?src=home_blog){:target="_blank"}{:rel="noopener"}, [greater customer reach](https://www.gobusiness.gov.sg/gobusiness-blog/three-steps-to-digital-presence?src=home_blog){:target="_blank"}{:rel="noopener"} or even [simpler bookkeeping](https://www.gobusiness.gov.sg/gobusiness-blog/corporate-tax-filing-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}, the risks of going digital cannot be understated. 
 
 ### Common cybersecurity risks for SMEs
 
-From phishing scams to ransomware, SMEs are particularly vulnerable to cyber threats. In the 2022 alone, over 130 ransomware cases were reported, with SMEs in the manufacturing and retail sectors being most affected - as found in the [Singapore Cyber Landscape 2022](https://www.csa.gov.sg/Tips-Resource/publications/2023/singapore-cyber-landscape-2022){:target="_blank"}{:rel="noopener"}.
+From phishing scams to ransomware, SMEs are particularly vulnerable to cyber threats. In 2022 alone, over 130 ransomware cases were reported, with SMEs in the manufacturing and retail sectors being most affected - as found in the [Singapore Cyber Landscape 2022](https://www.csa.gov.sg/Tips-Resource/publications/2023/singapore-cyber-landscape-2022){:target="_blank"}{:rel="noopener"}.
 
 Their vulnerability arises as a result of two factors: first, many of these businesses may hold valuable data as well as Intellectual Property, which threat actors may seek to extort for financial gains; next, SMEs often lack the manpower, resource, budget or even knowledge of cybersecurity. It is therefore important for businesses to put in place cybersecurity measures to protect their systems and data so that their operations and reputation will not affected by cyber attacks.
 
