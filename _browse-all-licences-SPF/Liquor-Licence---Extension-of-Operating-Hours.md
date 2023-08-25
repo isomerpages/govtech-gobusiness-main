@@ -8,7 +8,9 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/98280a1c-7a00-4d51-9f38-9da16595a2c2" type="primary" %}
+{% include spcp-text.html type="cp" %}
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/9a352202-38fd-41db-8db6-735ad630afa7" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -18,20 +20,20 @@ Singapore Police Force (SPF)
 <h3>FAQ</h3>
 
 <ol>
-  <li>
-    <strong>Where can I get more information for Extension Hours Liquor Licence?</strong><br>        
+<li>
+<strong>Where can I get more information for Extension Hours Liquor Licence?</strong><br> 
 More information can be found at the 
-<a href="https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence" target="_blank" rel="noopener">SPF website</a>
-  </li>
-  <li>
-    <strong>Who can be an applicant?</strong><br>
-If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
+<a href=�https://www.police.gov.sg/e-Services/Police-Licences/Liquor-Licence� target=�_blank� rel=�noopener�>SPF website</a>
+</li>
+<li>
+<strong>Who can be an applicant?</strong><br>
+If you have just updated ACRA for any changes related to your Company�s name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
 
 <strong>Entity Type:</strong> <br>
 Limited Liability Partnership<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having position:<br> 
-* PARTNER<br>        
+* PARTNER<br> 
 <br>
 
 <strong>Entity Type:</strong> <br>
@@ -39,10 +41,9 @@ Company<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having one of the following position:<br>
 * MANAGING DIRECTOR<br>
-* SECRETARY<br>
 * DIRECTOR<br>
 * CHIEF EXECUTIVE OFFICER<br>
-<br>        
+<br> 
 
 <strong>Entity Type:</strong> <br>
 Business (Sole Proprietor/Partnership)<br>
@@ -58,7 +59,7 @@ LP<br>
 Applicant must be having one of the following position:<br>
 * GENERAL PARTNER<br>
 * LIMITED PARTNER<br>
-  </li>
+</li>
 </ol>
 
 
