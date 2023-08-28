@@ -125,11 +125,13 @@ Our industry-focused approach enables us to combine in-depth industry experience
 <a name='testimonials'></a>
 ### Testimonials
 
-*"*Joyce Tan has built up a substantial IP practice in Singapore, including trade mark portfolio management work. Her practice is enhanced by her expertise in TMT. (Strengths) Joyce has demonstrated deep expertise in commercial law topics and was able to explain the implications to our senior management team. She is able to conduct discussions with other parties, steer discussions to our company's favour and provide effective strategies and advice on the case. Joyce is a legal pearl, driven by competence, professionalism, enthusiasm and a lot of humour.” - Chambers Asia Pacific.
+*"Joyce Tan has built up a substantial IP practice in Singapore, including trade mark portfolio management work. Her practice is enhanced by her expertise in TMT. (Strengths) Joyce has demonstrated deep expertise in commercial law topics and was able to explain the implications to our senior management team. She is able to conduct discussions with other parties, steer discussions to our company's favour and provide effective strategies and advice on the case. Joyce is a legal pearl, driven by competence, professionalism, enthusiasm and a lot of humour."* - Chambers Asia Pacific.
 
-*"*Daniel Lim has a recognised presence in Singapore, often advising on contentious IP matters. He is particularly active on patent and copyright cases. (Strengths:) Mr Lim is well known in IP circles in Singapore to be experienced in patent law. Daniel is very sharp in his work. He presents his advice in great clarity and demonstrates his grasp of IPR issues.” - Chambers Asia Pacific.
+*"Daniel Lim has a recognised presence in Singapore, often advising on contentious IP matters. He is particularly active on patent and copyright cases. (Strengths:) Mr Lim is well known in IP circles in Singapore to be experienced in patent law. Daniel is very sharp in his work. He presents his advice in great clarity and demonstrates his grasp of IPR issues."* - Chambers Asia Pacific.
 
-“Jeffrey Lim stands out on PDPA matters. He is also an IT savvy Tech lawyer. Jeffrey Lim is an experienced lawyer with in-depth and good technical and insights in the contracts he handles and advises on. He has a good business sense and is able to advise in-house counsels what will happen around the corner. This enables the in-house team to be well- prepared with their planning.” - The Legal 500.
+*"Jeffrey Lim stands out on PDPA matters. He is also an IT savvy Tech lawyer. Jeffrey Lim is an experienced lawyer with in-depth and good technical and insights in the contracts he handles and advises on. He has a good business sense and is able to advise in-house counsels what will happen around the corner. This enables the in-house team to be well- prepared with their planning."* - The Legal 500.
+
+
 
 ---
 <a name='case-studies'></a>

@@ -19,7 +19,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 
 <b>Website:</b> <a href='https://trademarks-patents.com/'>https://trademarks-patents.com/</a>
 
-<b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.
+<b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.
 
 <a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -187,9 +187,11 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 <a name='testimonials'></a>
 ### Testimonials
 
-*" - Tim Beaton-Smith, Vice President Legal, Polaris Inc., USA.* - Tim Beaton-Smith, Vice President Legal, Polaris Inc., USA.
+*"One single sentence describes best how working with Schweiger & Partners is: 'consider it done'"* - Tim Beaton-Smith, Vice President Legal, Polaris Inc., USA.
 
-“Following Schweiger & Partner's recommendations in Singapore has saved our client a six-digits amount of money, and five (5) years in processing time.” - Jacopi Liguori, Head of IP Law, Withers Worldwide, Italy.*"When it comes to patent litigation, you want to have Schweiger & Partners in your own team, and not as an adversary."* - Wendy Low, Partner, Eldan Law, Singapore.
+*"Following Schweiger & Partner's recommendations in Singapore has saved our client a six-digits amount of money, and five (5) years in processing time."* - Jacopi Liguori, Head of IP Law, Withers Worldwide, Italy.
+
+*"When it comes to patent litigation, you want to have Schweiger & Partners in your own team, and not as an adversary."* - Wendy Low, Partner, Eldan Law, Singapore.
 
 
 
@@ -267,7 +269,7 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 - Years of Experience: 21 years
 - Location: Munich, Germany
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO)
-- Certifications/Qualifications: European Patent Attorney - European Patent Office (Europe), German Patent & Trademark Attorney - German Patent & Trademark Office (Germany), European Trademark & Registered Design Attorney - European Union Intellectual Property Office (Europe), PhD (Dr. rer. nat.) thesis "Pressure-Temperature-Development and Geochemistry of Eclogites in the Dora-Maira-Massiv, Western Alps”  - Ruhr-University Bochum (Germany), Diploma in Mineralogy - Ruhr-University Bochum (Germany) 
+- Certifications/Qualifications: European Patent Attorney - European Patent Office (Europe), German Patent & Trademark Attorney - German Patent & Trademark Office (Germany), European Trademark & Registered Design Attorney - European Union Intellectual Property Office (Europe), PhD (Dr. rer. nat.) thesis "Pressure-Temperature-Development and Geochemistry of Eclogites in the Dora-Maira-Massiv, Western Alps"  - Ruhr-University Bochum (Germany), Diploma in Mineralogy - Ruhr-University Bochum (Germany) 
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/elke-ursula-nowlan-14313272/" target="_blank" rel="noopener">https://www.linkedin.com/in/elke-ursula-nowlan-14313272/</a>
 
 ---

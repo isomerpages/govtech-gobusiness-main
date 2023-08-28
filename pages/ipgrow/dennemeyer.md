@@ -15,7 +15,7 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, IP Strategy Consulting, Valuation
 
-<b>Intellectual property awards received:</b> [2022] Dennemeyer Group cited as a premier provider of Intellectual Property law and management services in WTR1000 ; [2021] Dennemeyer & Associates ranks among top European IP law firms in WTR1000 ; [2020] Dennemeyer & Associates ranked as one of the world's top IP law firms in WTR1000 ; [2019] Dennemeyer Group selected as the “Recommended Trademark Service Provider” in WTR1000 ; [2018] Dennemeyer & Associates winner of the “Intellectual Property - Law Firm of the Year - Luxembourg” at Lawyer Monthly Legal Awards 2018
+<b>Intellectual property awards received:</b> [2022] Dennemeyer Group cited as a premier provider of Intellectual Property law and management services in WTR1000 ; [2021] Dennemeyer & Associates ranks among top European IP law firms in WTR1000 ; [2020] Dennemeyer & Associates ranked as one of the world's top IP law firms in WTR1000 ; [2019] Dennemeyer Group selected as the "Recommended Trademark Service Provider" in WTR1000 ; [2018] Dennemeyer & Associates winner of the "Intellectual Property - Law Firm of the Year - Luxembourg" at Lawyer Monthly Legal Awards 2018
 
 <b>Type of organization:</b> Non-SME
 
