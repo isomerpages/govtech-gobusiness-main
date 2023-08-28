@@ -30,101 +30,101 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 76 to 80</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 61 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Freedom-to-Operate Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 26 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 41 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 46 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Training Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $4,300</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 41 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Please contact Spruson & Ferguson to receive a tailored quotation</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 ---
@@ -179,4 +179,4 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 <p>
 <a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

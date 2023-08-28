@@ -26,10 +26,24 @@ For businesses needing help sourcing or selling their IP, head to [IP Brokerage 
 ---
 
 ### Connect with relevant service providers for IP marketplace services
-
 **0 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP marketplace service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+
+#### IPI
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of listings in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000 - $15,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
+
+---
 

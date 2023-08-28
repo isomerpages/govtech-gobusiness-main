@@ -32,61 +32,61 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 **IP Audit Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Database Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 501 to 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 151 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 66 to 70</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 46 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $500</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1251 to 1500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depends on scope of work</li>
 </ul>
 
 ---
@@ -117,11 +117,11 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 <a name='testimonials'></a>
 ### Testimonials
 
-*"IPHub has been our efficient one-stop service provider for the trademark filings in several jurisdictions in Asia. Doroth&eacute;e and team are well equipped with extensive experiences, knowledge and support network. They understand our specific needs, highly responsive and effective in providing us with the recommendations and solutions. Highly recommended to work with!"* - Director, UCC
+*"IPHub has been our efficient one-stop service provider for the trademark filings in several jurisdictions in Asia. Dorothee Frey and team are well equipped with extensive experiences, knowledge and support network. They understand our specific needs, highly responsive and effective in providing us with the recommendations and solutions. Highly recommended to work with!"* - Director, UCC
 
-*"Highly recommended. Doroth&eacute;e and her team are dedicated to simplify Intellectual Property. We greatly appreciate their practical approach, their responsiveness and the effectiveness of their one-stop solution in Asia. There are very few companies that offer such high-quality services. Nobody will answer your emails/requests quicker than IPHub, this is so exceptional!"* - Director, Gyeon
+*"Highly recommended. Dorothee Frey and her team are dedicated to simplify Intellectual Property. We greatly appreciate their practical approach, their responsiveness and the effectiveness of their one-stop solution in Asia. There are very few companies that offer such high-quality services. Nobody will answer your emails/requests quicker than IPHub, this is so exceptional!"* - Director, Gyeon
 
-*"Doroth&eacute;e and her team at IPHub Asia have been invaluable in our filing process. Doroth&eacute;e especially has expert knowledge in this field and for the region, which was exactly what we required. The promptness in her responses wherever she is had been helpful; and you know you are in good hands when the recommendations offered are tailored to your business needs. It's been a pleasure working with them."* - Director, Preqin
+*"Dorothee Frey and her team at IPHub Asia have been invaluable in our filing process. Dorothee Frey especially has expert knowledge in this field and for the region, which was exactly what we required. The promptness in her responses wherever she is had been helpful; and you know you are in good hands when the recommendations offered are tailored to your business needs. It's been a pleasure working with them."* - Director, Preqin
 
 
 

@@ -26,8 +26,7 @@ The scope of protection provided by a trade mark relies heavily on how the mark 
 ---
 
 ### Connect with relevant service providers for trade mark agent
-
-**46 service providers listed.**
+**55 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -39,9 +38,9 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> Above 5000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> (1) DIAMS Free Demo & Trial (2) Octimine Free Trial & Search Analytics Tutorial (3) 30-minute free IP consulting for corporates about an IP topic of their choice.</li>
 </ul>
 
@@ -55,9 +54,9 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 3501 to 3750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $590</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
@@ -70,9 +69,9 @@ Redefining Assets , At Valuing IP, we make your Intangibles, Tangible!
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1751 to 2000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $490</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Early Bird Promotion for our IP Valuation Software Subscription starting from USD 1,500 only! Limited to first 10 subscribers for each package. Savings up to 30% off!</li>
 </ul>
 
@@ -86,9 +85,9 @@ Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1751 to 2000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation is free upon formal engagement of our firm.</li>
 </ul>
 
@@ -102,9 +101,9 @@ Bird & Bird ATMD is a leading full-service Singapore law firm in association wit
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1251 to 1500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/bird-bird-atmd-llp/){:target='_blank'}
@@ -117,9 +116,9 @@ Our name says it all - an IP hub providing Asia-wide coverage with a strong focu
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1251 to 1500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We are happy to offer a free 15min consultation to understand your IP needs better</li>
 </ul>
 
@@ -133,9 +132,9 @@ We help our clients protect, manage, and commercialise their intellectual proper
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1001 to 1250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on scope of work</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Book a free 1-hour consultation.</li>
 </ul>
 
@@ -149,9 +148,9 @@ Global brand protection and trademark registration services in over 80 jurisdict
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5000 and upwards</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 1) Free consultation for first-time clients on trademark registration related matters. 2) 10% discount on professional fees.</li>
 </ul>
 
@@ -165,9 +164,9 @@ We are a law firm specialising in IP registration, enforcement, advisory, and di
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ravindran-associates-llp/){:target='_blank'}
@@ -180,9 +179,9 @@ Spruson & Ferguson has been in Asia for more than 25 years and we can service ov
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact Spruson & Ferguson to receive a tailored quotation</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/spruson-ferguson--asia--pte-ltd/){:target='_blank'}
@@ -195,9 +194,9 @@ We specialize in trademark, design and patent prosecution, and IP dispute and co
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $900</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> We charge based on the work required rather than strictly based on a minimum project fee.</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial half-hour consultation.</li>
 </ul>
 
@@ -211,9 +210,9 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
@@ -226,9 +225,9 @@ The Firm has served and helped many SMEs in Singapore as well as entrepreneurs f
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642b74c9f5467b001273aa78' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/wp-lai-company/){:target='_blank'}
@@ -241,9 +240,9 @@ Dave & Co. is a specialist trademarks firm with extensive experience in Singapor
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $940</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642b7980d88e0800129ad394' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dave-co-llp/){:target='_blank'}
@@ -256,9 +255,9 @@ The firm is specializing in intellectual property, commercial law and dispute re
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $700</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on the project</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer 1.5 hour free consultation to newly established technological star-ups.</li>
 </ul>
 
@@ -272,9 +271,9 @@ Our law firm provides a full range of IP services including contentious matters 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $6,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/quahe-woo-palmer/){:target='_blank'}
@@ -287,9 +286,9 @@ We are law firm with focus on IP law. We serve individuals and businesses of all
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> Above 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Please contact Spruson & Ferguson to receive a tailored quotation</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/alpha-omega-law-corporation/){:target='_blank'}
@@ -302,9 +301,9 @@ Ghows LLC is a Singapore law practice recognised within the industry for its exp
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> Above 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ghows-llc/){:target='_blank'}
@@ -317,9 +316,9 @@ VJP offers excellent support to innovations as its team covers a wide range of t
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 286 to 300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $280</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 30 mins consultation.</li>
 </ul>
 
@@ -333,9 +332,9 @@ Dentons Rodyk offers clients a full suite of legal services to do business local
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 196 to 210</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/dentons-rodyk-davidson-llp/){:target='_blank'}
@@ -348,9 +347,9 @@ A well-reputed multi-disciplinary law firm in Singapore.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 181 to 195</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
@@ -363,9 +362,9 @@ A boutique law firm specialising in IP, media, entertainment, technology, busine
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 121 to 135</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/moi-law-corporation/){:target='_blank'}
@@ -378,9 +377,9 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 91 to 105</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/chp-law/){:target='_blank'}
@@ -393,9 +392,9 @@ Questel is a true end-to-end intellectual property solutions provider.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 61 to 75</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/questel/){:target='_blank'}
@@ -408,9 +407,9 @@ We provide IP services to clients from individuals and small businesses through 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 61 to 75</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/640e83c53ab4240011d59584' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/henry-goh--s--pte-ltd/){:target='_blank'}
@@ -423,9 +422,9 @@ Goh Phai Cheng LLC, Singapore Lawyers providing Best Value and Good Service.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,330</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 46 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $900</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free first consultation.</li>
 </ul>
 
@@ -439,9 +438,9 @@ A regional legal practice with a focus in IP & technology, litigation, corporate
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 46 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $250</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-law-corporation/){:target='_blank'}
@@ -454,9 +453,9 @@ Clear, practical and business oriented advice to help protect, enforce and defen
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 31 to 45</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 30 minute initial consultation without charge.</li>
 </ul>
 
@@ -470,7 +469,7 @@ Intelleigen Legal LLC is a registered law firm based in Singapore.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 31 to 45</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
@@ -485,9 +484,9 @@ Seiter IP Consultants LLP is a small IP boutique firm providing different types 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.</li>
 </ul>
 
@@ -501,7 +500,7 @@ Shook Lin & Bok LLP is a leading full service law firm with an Asian presence an
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depends on scope of work</li>
 </ul>
@@ -516,9 +515,9 @@ At Aedificare Law, we build and protect your business.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aedificare-law/){:target='_blank'}
@@ -531,9 +530,9 @@ Withers KhattarWong is a full-service international law firm located in Singapor
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $550 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/withers-khattarwong-llp/){:target='_blank'}
@@ -546,9 +545,9 @@ Allen & Gledhill is a regional law firm providing legal services to premier clie
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $350</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/allen-gledhill-llp/){:target='_blank'}
@@ -561,9 +560,9 @@ We provide IP Advisory, Registration, Strategy/Management/Audit, Licensing & Fra
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 16 to 30</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $590</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yap-loh-partners-llp/){:target='_blank'}
@@ -576,9 +575,9 @@ A trusted and tech-driven law firm, we focus on commercial & property disputes a
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.</li>
 </ul>
 
@@ -592,9 +591,9 @@ IP/IA experts with vast experience advising on contentious and non-contentious I
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free first consultation (<30 minutes), if the firm is engaged.</li>
 </ul>
 
@@ -608,9 +607,9 @@ A boutique corporate and corporate finance law firm.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Depending on the scope of work needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Our first consultation is free</li>
 </ul>
 
@@ -624,9 +623,9 @@ CMS is a global top-10 law firm with an active IP offering in the Asia-Pacific r
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> We charge based on the work required rather than strictly based on a minimum project fee.</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,200</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/644886784ff9210011168207' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/cms-holborn-asia/){:target='_blank'}
@@ -639,9 +638,9 @@ A firm committed to delivering proactive, quality and commercially led advice fo
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64583ea79d94740011a92042' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/auriga-ip/){:target='_blank'}
@@ -654,9 +653,9 @@ A full-service law firm founded in 1947 and member of PLG International Lawyers.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/tan-rajah-cheah/){:target='_blank'}
@@ -670,9 +669,9 @@ We relentlessly eliminate redundant processes to save costs and time for you.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Our first consultation (up to 30 minutes) is free.</li>
 </ul>
 
@@ -686,9 +685,9 @@ Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
@@ -701,9 +700,9 @@ We are the representative office of the first foreign IP firm under SG Governmen
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600 hourly rate</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $550 and upwards</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6490fe43ac885100110f899f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/china-sinda-intellectual-property-pte-ltd/){:target='_blank'}
@@ -716,9 +715,9 @@ Specialized in a wide range of different intellectual property, Exy IP is your g
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Case by case</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64893e950ad50d0011e6bca4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
@@ -731,12 +730,151 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/namazie-co/){:target='_blank'}
+
+---
+
+#### Yusarn Audrey LLC
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $940</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64b48c75b0717e0012c39889' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yusarn-audrey-llc/){:target='_blank'}
+
+---
+
+#### Schweiger & Partners 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/schweiger-partners/){:target='_blank'}
+
+---
+
+#### Piloto Asia Pte Ltd
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64b72627b8f4240012662480' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/piloto-asia-pte-ltd/){:target='_blank'}
+
+---
+
+#### Aequitas Law LLP
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> First consultation (limited to 30 minutes) is free, exclusive to users of GoBusiness IP Grow.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64c709e15ed383001239085b' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/aequitas-law-llp/){:target='_blank'}
+
+---
+
+#### Joyce A. Tan & Partners LLC
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $25,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64cc5549d373a300124c3398' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/joyce-a-tan-partners-llc/){:target='_blank'}
+
+---
+
+#### Horizon IP 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $25,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free attorney-client privilege consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d580da00881d00121b9f16' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/horizon-ip/){:target='_blank'}
+
+---
+
+#### JurisAsia LLC 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $767</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 30 min discussion of technology (if necessary) prior to patent drafting. </li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d05bad09d6fc0011d7a842' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/jurisasia-llc/){:target='_blank'}
+
+---
+
+#### Ascend Corporate Service
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $4,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d583fcd88b27001238f214' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ascend-corporate-service/){:target='_blank'}
+
+---
+
+#### Yuen Law LLC
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $7,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64e30b3d51571a0011e8bebc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/yuen-law-llc/){:target='_blank'}
 
 ---
 

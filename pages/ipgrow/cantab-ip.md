@@ -37,81 +37,81 @@ We're proud to have worked with some of the  most innovative companies in the Un
 **Freedom-to-Operate Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depending on work required</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 56 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 **IP Strategy Consulting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $50,000</li>
 </ul>
 
 **IP Watch Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depends on the project</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 901 to 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 31 to 35</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Case-by-case basis </li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 26 to 30</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1500 and upwards</li>
 </ul>
 
 ---
@@ -156,4 +156,4 @@ The World's Leading Patent Practitioners 2014 - Recommended for patent prosecuti
 <p>
 <a class='btn' href='https://form.gov.sg/641b92e91ee4e100125ac17e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

@@ -30,31 +30,31 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Depending on the scope of work needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depending on the scope of work needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depending on the scope of work needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 ---
@@ -94,4 +94,4 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 <p>
 <a class='btn' href='https://form.gov.sg/64474f4686f6760012553eda' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

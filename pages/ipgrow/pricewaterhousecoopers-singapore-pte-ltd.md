@@ -32,21 +32,21 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 **Tax Advisory (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 21 to 25</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 ---
@@ -131,4 +131,4 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 <p>
 <a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

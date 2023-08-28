@@ -32,21 +32,21 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **Innovation Consultancy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 ---

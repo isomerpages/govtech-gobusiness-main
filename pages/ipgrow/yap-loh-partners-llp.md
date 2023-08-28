@@ -44,8 +44,8 @@ We want to help your business in the same way. So please reach out to us today!
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,500</li>
 </ul>
 
 ---
@@ -89,4 +89,4 @@ We want to help your business in the same way. So please reach out to us today!
 <p>
 <a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

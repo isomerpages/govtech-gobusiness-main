@@ -28,8 +28,7 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 ---
 
 ### Connect with relevant service providers for IP brokerage and licensing services
-
-**8 service providers listed.**
+**9 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -41,9 +40,9 @@ EverEdge provides specialist intangible asset advisory, valuation and corporate 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
@@ -57,9 +56,9 @@ Our law firm provides a full range of IP services including contentious matters 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Request for quotation</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/quahe-woo-palmer/){:target='_blank'}
@@ -72,9 +71,9 @@ Seiter IP Consultants LLP is a small IP boutique firm providing different types 
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 56 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.</li>
 </ul>
 
@@ -88,9 +87,9 @@ Piece Future is an Intellectual Property bank offering various strategy services
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 51 to 55</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/643f4a3d662b62001209ac43' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/piece-future-pte-ltd/){:target='_blank'}
@@ -103,9 +102,9 @@ We are a law firm specialising in IP registration, enforcement, advisory, and di
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ravindran-associates-llp/){:target='_blank'}
@@ -118,8 +117,8 @@ A well-reputed multi-disciplinary law firm in Singapore.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
@@ -133,9 +132,9 @@ Specialized in a wide range of different intellectual property, Exy IP is your g
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64893e950ad50d0011e6bca4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
@@ -148,12 +147,28 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $4,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
+
+---
+
+#### Horizon IP 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of transactions completed in previous calendar year:</b> 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $700</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free attorney-client privilege consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d580da00881d00121b9f16' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/horizon-ip/){:target='_blank'}
 
 ---
 

@@ -5,9 +5,9 @@ permalink: /intellectual-property/ip-grow/gateway-law-corporation/
 
 ## Gateway Law Corporation
 
-Gateway law is a regional legal practice with particular strengths in the areas of intellectual property advisory and enforcement, franchising, technology and communications, and media and entertainment law. In addition, Gateway also provides services in the traditional areas of general litigation and dispute resolution, real estate advisory, corporate and commercial law, employment law, medical law, and family and matrimonial law. 
+Gateway Law Corporation is a Singapore-based IP law practice with an Asia-wide focus. It has an extensive team of IP specialists which includes patent, design and trade mark agents.  It focuses on trade marks, copyrights and patents, among other areas. It represents an impressive clientele comprising of local, regional and international businesses. It is noted for its expertise in commercialisation strategies, IP protection and portfolio management.
 
-We serve a varied clientele in a wide range of industries and businesses. We work with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies and regulatory bodies.
+Gateway works with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies, and regulatory bodies.
 
 <b>Year established in Singapore:</b> 2006
 
@@ -31,70 +31,70 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 601 to 650</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 41 to 60</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $800</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 251 to 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **IP Database Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 201 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 151 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 151 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $250</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 150</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $500</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 101 to 150</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 ---
@@ -209,4 +209,4 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <p>
 <a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

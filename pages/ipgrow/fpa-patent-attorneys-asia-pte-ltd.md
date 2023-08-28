@@ -11,7 +11,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 
-<b>Intellectual property awards received:</b> Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ; Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ; Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ; Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ; Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
+<b>Intellectual property awards received:</b> Intellectual property awards received: Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ; Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ; Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ; Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property 2019 and 2021 ; Tier 1 Firm, Patent Prosecution, Australia, Managing Intellectual Property IP Stars Handbook; Gold Tier Firm, Patent Prosecution, Australia, IAM
 
 <b>Type of organization:</b> SME
 
@@ -30,70 +30,70 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 **IP Audit Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $6,000</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
 **IP Watch Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 21 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 31 to 45</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
@@ -132,17 +132,17 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore 
-- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022)
+- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2023), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2023), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022), Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2023)
 - URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/desmond-tan" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/desmond-tan</a>
 
-**Karen, Bentlely**
+**Karen, Bentley**
 
 - Job Title: Principal
 - Years of Experience: 19 years
 - Location: Melbourne and Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 
-- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
+- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2023), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2023), Recognised as a 'Global Leader' by IAM Strategy 300 2023, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms)
 - URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/karen-bentley" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/karen-bentley</a>
 
 **Danny Gelman**
@@ -159,4 +159,4 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 <p>
 <a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

@@ -26,8 +26,7 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 ---
 
 ### Connect with relevant service providers for branding strategy services
-
-**21 service providers listed.**
+**26 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -85,7 +84,7 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $$ - $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
 </ul>
 
@@ -115,9 +114,9 @@ Creativeans is an award-winning design management and branding company.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6482534cc80b3a00115c6e54' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/creativeans/){:target='_blank'}
@@ -130,9 +129,9 @@ Creativeans is an award-winning design management and branding company.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $18,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/648904650ad50d0011dd9370' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/phoenix/){:target='_blank'}
@@ -146,8 +145,8 @@ A proven branding agency that can generate results .. guaranteed.
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $18,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Brand Audit + Website Audit and a 1 hour free consultation With 3 Free Takeaways that can help your business.</li>
 </ul>
 
@@ -162,8 +161,8 @@ OOm is a one-stop digital marketing company that helps businesses to digitalise.
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64a39cb9b529c3001260ab83' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/oom-pte-ltd/){:target='_blank'}
@@ -176,8 +175,8 @@ FT Consulting is an Asia-centric business consulting firm helping companies grow
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 </ul>
 
@@ -195,8 +194,8 @@ Corporate Services
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 1:1 consultation and problem diagnosis</li>
 </ul>
 
@@ -211,8 +210,8 @@ The brand famous for making brands famous
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000-$25,000 based on project scope</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $30,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> 100% Obligation Free - Project Assessment Workshop - 60 minutes</li>
 </ul>
 
@@ -227,8 +226,8 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000-$25,000 based on project scope</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/649bc0fc7e18e300128fe3cb' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/davies-collison-cave/){:target='_blank'}
@@ -241,9 +240,9 @@ The firm is specializing in intellectual property, commercial law and dispute re
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We offer 1.5 hour free consultation to newly established technological star-ups.</li>
 </ul>
 
@@ -257,8 +256,8 @@ A well-reputed multi-disciplinary law firm in Singapore.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 </ul>
 
@@ -273,8 +272,8 @@ A global strategy consultancy helping clients to seize competitive advantage and
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/lek-consulting/){:target='_blank'}
@@ -288,8 +287,8 @@ Nabyula helps fast-growing Professional Services companies establish authority i
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $8,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Feel free to contact us for a discovery chat to see if it is a good fit.</li>
 </ul>
 
@@ -304,8 +303,8 @@ Mandate Communications is a full service branding agency established in 1976
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $50,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $801 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> No minimum project fee; Depending on project scope and approach, thus team and time needed</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/mandate-communications--s--pte-ltd/){:target='_blank'}
@@ -319,8 +318,8 @@ Crownmercado: A creative powerhouse, innovating dynamic brand strategies in the 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $40,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $8,000</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation</li>
 </ul>
 
@@ -335,8 +334,8 @@ Specialized in a wide range of different intellectual property, Exy IP is your g
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $50,000</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64893e950ad50d0011e6bca4' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/exy-intellectual-property/){:target='_blank'}
@@ -355,6 +354,83 @@ Strategic communications agency, providing holistic marketing services.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64a39ea59693f40011757358' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/distilleri/){:target='_blank'}
+
+---
+
+#### I Concept
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 501 to 750</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $600</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> We do provide some goodwill discount on a case by case basis</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64c9ea4d862ac600126333d8' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/i-concept/){:target='_blank'}
+
+---
+
+#### IPI
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
+
+---
+
+#### ABrandADay
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64ade4554f9e2800115509ec' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/abrandaday/){:target='_blank'}
+
+---
+
+#### Soda Plus Creative
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64caf07ed373a3001227083f' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/soda-plus-creative/){:target='_blank'}
+
+---
+
+#### JurisAsia LLC 
+
+
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free 30 min discussion of technology (if necessary) prior to patent drafting. </li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d05bad09d6fc0011d7a842' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/jurisasia-llc/){:target='_blank'}
 
 ---
 

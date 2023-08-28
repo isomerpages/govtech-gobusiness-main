@@ -45,11 +45,11 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 251 to 500</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $590</li>
 </ul>
 
 ---
@@ -111,4 +111,4 @@ Vallaris' mission is to get investors & capital coming to you instead of chasing
 <p>
 <a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
