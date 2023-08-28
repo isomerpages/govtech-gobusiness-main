@@ -203,7 +203,7 @@ Boutique law firm specialising in international tax, transfer pricing and intern
 
 #### Yusarn Audrey LLC
 
-
+Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -218,7 +218,7 @@ Boutique law firm specialising in international tax, transfer pricing and intern
 
 #### Schweiger & Partners 
 
-
+A patent law agency offering certified services with fast turnaround times, at fixed prices.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -234,7 +234,7 @@ Boutique law firm specialising in international tax, transfer pricing and intern
 
 #### Horizon IP 
 
-
+A boutique firm focusing on patent and trademark preparation, prosecution and other IP matters.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -250,7 +250,7 @@ Boutique law firm specialising in international tax, transfer pricing and intern
 
 #### Business Valuation Singapore
 
-
+The local valuation specialists of Intangible Assets and Intellectual Property in Singapore and Asia.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

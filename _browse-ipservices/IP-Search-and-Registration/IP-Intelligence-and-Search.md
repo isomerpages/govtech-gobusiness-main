@@ -414,7 +414,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 #### Yusarn Audrey LLC
 
-
+Yusarn Audrey LLC is a boutique intellectual property (IP) and corporate commercial law firm
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -429,7 +429,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 #### Schweiger & Partners 
 
-
+A patent law agency offering certified services with fast turnaround times, at fixed prices.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -445,7 +445,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 #### JurisAsia LLC 
 
-
+JurisAsia LLC provides legal services globally through our exclusive association with Gowling WLG.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
@@ -461,7 +461,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 #### Ascend Corporate Service
 
-
+Ascend Corporate Services has been providing trademark registration services in Singapore since 2013
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

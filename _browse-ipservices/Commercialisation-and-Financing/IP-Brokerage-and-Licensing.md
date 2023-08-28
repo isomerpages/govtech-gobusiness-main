@@ -158,7 +158,7 @@ DCC prides itself on its experience and expertise in providing quality IP servic
 
 #### Horizon IP 
 
-
+A boutique firm focusing on patent and trademark preparation, prosecution and other IP matters.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>

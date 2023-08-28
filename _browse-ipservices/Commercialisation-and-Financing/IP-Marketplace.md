@@ -34,7 +34,7 @@ Select a service provider below to view their profile and connect with them.
 
 #### IPI
 
-
+IPI is an innovation catalyst that creates opportunities for enterprises to grow beyond boundaries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
