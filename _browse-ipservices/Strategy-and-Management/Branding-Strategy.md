@@ -18,7 +18,7 @@ An effective brand strategy is crucial in developing a strong and valuable brand
 
 With a successful brand strategy, your business can enhance the appeal of its products and services, foster customer loyalty, and ultimately, increase its revenue and market share in a crowded marketplace. 
 
-<img style='width:800px; height:auto; float:left; margin-right:10px;' src='/images/ipgrow/ipservices/Branding Strategy.png' aria-hidden='true'>
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Branding Strategy.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Valuable brands tend to evoke various emotions and make us recall certain qualities. For example, these brands may prompt feelings of relaxation or excitement, and be associated with attributes like luxury and comfort.</figcaption>
 <br>
 
