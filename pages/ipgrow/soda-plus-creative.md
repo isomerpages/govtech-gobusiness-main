@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/soda-plus-creative/
 
 ## Soda Plus Creative
 
-People have called us many things—an agency, designers, event planners, consultants, project managers, creative partners, friends. None of that matters, as long as we can help.
+People have called us many things-an agency, designers, event planners, consultants, project managers, creative partners, friends. None of that matters, as long as we can help.
 
 While traditional agencies create multiple layers between yourself and the person responsible for executing your deliverables, Soda+ intentionally keep things lean to maintain direct and efficient communication so you always know who is responsible for your project.
 
