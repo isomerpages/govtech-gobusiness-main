@@ -24,11 +24,11 @@ It is with these challenges in mind that the [Cyber Security Agency of Singapore
 ### For the beginners: Cybersecurity Toolkits 
 
 ![CSA Cybersecurity toolkit for SME owners](/images/blog/content/Cybersecurity 1.jpg)
-<figcaption>The Cybersecurity Toolkit for SME Owners acts as a guide to inform SME owners on the steps to take to improve their cyber hygiene (Image: Cyber Security Association of Singapore)</figcaption>
+<figcaption>The Cybersecurity Toolkit for SME owners acts as a guide to inform SME owners on the steps to take to improve their cyber hygiene (Image: Cyber Security Association of Singapore)</figcaption>
 
 Not sure of where to start? CSA has created comprehensive toolkits that take SME owners and their employees through the fundamentals. 
 
-The [Cybersecurity Toolkit](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/enterprise-leaders-and-sme-ownerss) for SME Owners covers key topics like cybersecurity leadership, educating employees, protecting information assets such as hardware, software and data assets, securing access as well as building cyber resilience. It comprises actionable advice for SME owners to improve their cybersecurity posture as well as guiding statements and questions to help them understand the best practices in cybersecurity. 
+The [Cybersecurity Toolkit](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/enterprise-leaders-and-sme-ownerss) for SME owners covers key topics like cybersecurity leadership, educating employees, protecting information assets such as hardware, software and data assets, securing access as well as building cyber resilience. It comprises actionable advice for SME owners to improve their cybersecurity posture as well as guiding statements and questions to help them understand the best practices in cybersecurity. 
 
 There’s even a toolkit dedicated specially for employees to raise their cyber awareness. After all, [human error](https://www.tessian.com/research/the-psychology-of-human-error/){:target="_blank"}{:rel="noopener"} accounts for about 85 per cent of data breaches. The [Cybersecurity Toolkit for Employees](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/cybersecurity-toolkit-for-employees){:target="_blank"}{:rel="noopener"} therefore delves into the measures staff can take to protect themselves and their organisation against cyber threats. This includes education on phishing, how to set strong passphrases, how to handle and disclose important data, and even covers remote work. 
 
@@ -61,5 +61,5 @@ SMEs looking to attain the Cyber Essentials mark can consider looking into pre-a
 
 Those who wish to adopt these solutions can also get funding support through the [Productivity Solutions Grant](https://www.gobusiness.gov.sg/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} for Endpoint Protection, Managed Detection and Response, and Unified Threat Management solutions. 
 
-<em> This article is accurate as at 18 Aug 2023</em>
+<em> This article is accurate as at 28 Aug 2023</em>
 
