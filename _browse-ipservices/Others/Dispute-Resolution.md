@@ -18,6 +18,9 @@ Given the legal implications and costs of disputes, businesses are always encour
 
 Disputes can be costly and time-consuming. If not handled properly, they can damage a company's reputation or even result in substantial legal penalties. Engaging professional guidance and support throughout the process can help businesses avoid costly litigation by exploring more efficient and effective ways to resolve disputes.
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Dispute Resolution.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? A dispute can be resolved without going to court. Alternative methods like negotiation, mediation, arbitration, and expert determination are cost-effective options in Singapore. You can even get funding support through the WIPO-Singapore ASEAN Mediation Programme for mediating IP and technology disputes or negotiations.</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs dispute resolution services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---

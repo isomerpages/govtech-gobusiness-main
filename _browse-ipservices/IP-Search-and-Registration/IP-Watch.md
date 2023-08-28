@@ -22,6 +22,10 @@ By employing an IP watch service, your business can proactively protect its inte
 
 An IP watch service helps you spot potential infringements before they become major problems, allowing you to take swift and decisive action to protect your commercial interests. By keeping a close eye on the activities of your competitors, you can also gain valuable insights to inform your business strategies.
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Watch.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know?
+IP watch services are particularly useful when, 1. your competitors are very active. 2. You suspect copying is taking place. 3. Your brand is valuable and well-known. 4. You are concerned about new entrants.</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP watch services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---

@@ -20,6 +20,9 @@ Getting FTO clearance can help you avoid costly legal disputes and potential inf
 
 To further protect your business interests, you may also consider seeking the advice of [trade mark](/intellectual-property/ip-grow/ip-search-and-registration/trade-mark-agent/?src=ipgrow-freedom-to-operate) and [registered design agents](/intellectual-property/ip-grow/ip-search-and-registration/registered-design-agent/?src=ipgrow-freedom-to-operate) on whether your new product or service infringes third-party trade mark and registered design rights in your targeted markets.
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Freedom-To Operate (FTO).png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Freedom-to-operate (FTO) analysis is critical in highly regulated or competitive industries, such as biopharmaceuticals and biotechnology. It may greatly reduce a company's risk of infringing third-party patent rights. </figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs freedom-to-operate services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---

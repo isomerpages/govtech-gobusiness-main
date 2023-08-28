@@ -20,6 +20,9 @@ Contract drafting services help businesses understand the commercial implication
 
 In the context of intangible assets (IA) and IP, having a well-written contract can help businesses secure or commercialise their IA/IP rights, understand their contractual obligations, and reduce the risk of IA/IP disputes arising from contract ambiguity. A well-drafted contract for your IA/IP can also help businesses demonstrate their commitment to protecting their IA to investors and stakeholders. 
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Contract Drafting.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Before entering business negotiations, always have external parties sign a non-disclosure agreement (NDA). A NDA protects your IP, ideas or plans from being disclosed or used by others.</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs contract drafting services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---

@@ -21,6 +21,9 @@ Generally, national and international IP offices provide free access to their IP
 
 If you prefer to engage a professional to analyse IP information for you, head to [IP Intelligence and Search Services](/intellectual-property/ip-grow/ip-search-and-registration/ip-intelligence-and-search/?src=ipgrow-ip-database). 
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Database.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? You can use the IPOS Digital Hub by the Intellectual Property Office of Singapore (IPOS) to check if a trademark is available for use or registration in Singapore. It is also important to search in countries you intend to market in. </figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP database services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---

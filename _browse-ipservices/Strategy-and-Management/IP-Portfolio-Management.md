@@ -20,6 +20,9 @@ Businesses that lack the manpower or financial means to manage their IP assets c
 
 IP portfolio management enables your business to identify cost-saving opportunities and consolidate all its IP onto a single platform. Having an overview of your IP portfolio is especially important if you have multiple IP across different countries. 
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Portfolio Management.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know how to keep track of your IP portfolio in 3 easy steps? 1. Identify your assets and list key legal contracts. 2. Identify necessary actions (e.g. renewals of contracts and IP rights). 3. Keep records up-to-date and stored in a safe place!</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP portfolio management services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---
