@@ -41,7 +41,7 @@ With the [Cybersecurity Health Plan](https://www.csa.gov.sg/our-programmes/suppo
 
 These CISO consultants will help SMEs who may not otherwise have the knowledge or IT personnel to develop a cybersecurity health plan. They will be equipped with an understanding of their cybersecurity needs and current cybersecurity posture, as well as receive recommendations that will help them take the next step in their journey. 
 
-Bearing in mind the limited funding that SMEs may have to dedicate to such cybersecurity consultants, eligible SMEs can also attain up to 70% co-funding support when signing up for the CISO-as-a-Service initiative. 
+Bearing in mind the limited funding that SMEs may have to dedicate to such cybersecurity consultants, eligible SMEs can also attain up to 70 per cent co-funding support when signing up for the CISO-as-a-Service initiative. 
 
 The ultimate goal is to help SMEs achieve a base level of cybersecurity, which sets them up to attain CSA’s Cyber Essentials mark. 
 
