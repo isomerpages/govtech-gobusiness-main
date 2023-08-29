@@ -85,7 +85,7 @@ For new business owners, corporate taxes need not be filed for their first year.
 
 Finally, businesses will have to file the annual returns with ACRA. This involves holding an annual general meeting, and presenting financial statements and updates to company members within 6 months from the end of the financial year, and subsequently filing annual returns one month after that. 
 
-Congratulations! You’ve survived your first year in business!
+### Congratulations! You’ve survived your first year in business!
 
 ![Key regulatory requirements for local companies in Singapore](/images/blog/content/First year 4.jpg)
 <figcaption>The GoBusiness Regulatory Requirement Guides lay out all the requirements different types of companies will need to follow when starting a business in Singapore. (Image: Screengrab from GoBusiness)</figcaption>
