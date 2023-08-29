@@ -7,7 +7,7 @@ permalink: /enterprisejobskills/digital-services/
 
 ![All Digital Services](/images/epjs/digital-services/All Digital Services.png)
 
-{% include training-sj-panel.html image="/images/epjs/panel-icon.png" title="Stay up to date on your team's training progress" body="Sign up for our upcoming feature, Enterprise Training Insights, and help us understand what data you want to see about your team's training." url="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner"%}
+{% include training-sj-panel.html image=" " title="Stay up to date on your team's training progress" body="Sign up for our upcoming feature, Enterprise Training Insights, and help us understand what data you want to see about your team's training." url="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner"%}
 
 <table>
 <tr>
