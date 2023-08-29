@@ -26,9 +26,8 @@ First, they will need to determine basic information like the SSIC (Singapore St
 
 New business owners can also turn to GoBusiness’ [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=regulatoryguide-localcompanies){:target="_blank"}{:rel="noopener"} for guidance on which business structure to register under. In this case, the entrepreneur eventually decides to proceed as a Local Company and proceeds to source a potential site for the bookstore. 
 
-
-The GoBusiness e-Adviser for Business Structure provides recommendations for business structures entrepreneurs can adopt based on their requirements. (Image: Screengrab from GoBusiness)
-[Alt tag: <img src="Image 1.jpg" alt="e-Adviser for Business Structure">]
+![e-Adviser for Business Structure](/images/blog/content/First year 1.jpg)
+<figcaption>The GoBusiness e-Adviser for Business Structure provides recommendations for business structures entrepreneurs can adopt based on their requirements. (Image: Screengrab from GoBusiness)</figcaption>
 
 Upon finding a perfect location for the bookstore, the entrepreneur now has a [business address](https://www.gobusiness.gov.sg/start-a-business/submit-a-business-address/){:target="_blank"}{:rel="noopener"} and can register the business with the Accounting and Corporate Regulatory Authority (ACRA). The entrepreneur then applies for a [company name](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=C){:target="_blank"}{:rel="noopener"} and officially incorporates the business. 
 
@@ -48,9 +47,8 @@ The RORC is a register that comprises the particulars of the company’s registr
 
 With a majority of the administrative matters out of the way, now comes the fun part! Entrepreneurs can look into renovating their shopfronts and begin hiring staff in preparation for opening. 
 
-
-Businesses looking to hire local and foreign workers will need to take note of requirements such as Work Pass accounts, the Foreign Worker Levy and ensuring insurance is provided for employees (Image: Canva)
-[Alt tag: <img src="Image 2.jpg" alt="Hiring employees">]
+![Hiring employees](/images/blog/content/First year 2.jpg)
+<figcaption>Businesses looking to hire local and foreign workers will need to take note of requirements such as Work Pass accounts, the Foreign Worker Levy and ensuring insurance is provided for employees (Image: Canva)</figcaption>
 
 Since the bookstore owner intends to hire both local and foreign workers, there are still a few steps to take before opening the doors. This includes assigning the Work Pass eServices to required officers on Corppass, registering for a [Work Pass Account](https://www.mom.gov.sg/faq/work-pass-general/how-do-i-apply-for-giro-bank-account-for-my-levy-payment){:target="_blank"}{:rel="noopener"}, setting up [GIRO](https://www.mom.gov.sg/faq/work-pass-general/how-do-i-apply-for-giro-bank-account-for-my-levy-payment){:target="_blank"}{:rel="noopener"} for Foreign Worker Levy payments, arranging [accommodations](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing){:target="_blank"}{:rel="noopener"} for the workers if needed, and ensuring that the staff has attended the [necessary training courses](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-training/find-accredited-wsh-courses-and-training-provider){:target="_blank"}{:rel="noopener"}. 
 
@@ -78,8 +76,8 @@ Payment can be made either through IRAS’ [#SeamlessFilingFromSoftware (#SFFS)]
 
 ### Months 7-12: Taxes
 
-Tax filing will need to be done annually at the end of each financial year (Image: Canva)
-[Alt tag: <img src="Image 3.jpg" alt="Corporate taxes">]
+![Corporate taxes](/images/blog/content/First year 3.jpg)
+<figcaption>Tax filing will need to be done annually at the end of each financial year (Image: Canva)</figcaption>
 
 Come the end of the year, business owners who own the property of which they are operating out of will receive a [Property Tax Bill](https://www.iras.gov.sg/taxes/property-tax){:target="_blank"}{:rel="noopener"}, which they are required to pay by 31 January. 
 
@@ -89,8 +87,8 @@ Finally, businesses will have to file the annual returns with ACRA. This involve
 
 Congratulations! You’ve survived your first year in business!
 
-The GoBusiness Regulatory Requirement Guides lay out all the requirements different types of companies will need to follow when starting a business in Singapore. (Image: Screengrab from GoBusiness)
-[Alt tag: <img src="Image 4.jpg" alt="Key regulatory requirements for local companies in Singapore">]
+![Key regulatory requirements for local companies in Singapore](/images/blog/content/First year 4.jpg)
+<figcaption>The GoBusiness Regulatory Requirement Guides lay out all the requirements different types of companies will need to follow when starting a business in Singapore. (Image: Screengrab from GoBusiness)</figcaption>
 
 Starting and running a business is no easy feat. Entrepreneurs will have their hands full with trying to ensure healthy margins, managing staff, and managing daily operations without needing to fret about the numerous regulations surrounding administrative and financial matters. 
 
