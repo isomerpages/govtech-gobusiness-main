@@ -1,15 +1,17 @@
 ---
-title: 'Microsoft 365 Defender'
+title: 'SAP Business One'
 permalink: /productivity-solutions-grant/solutionrepo/solution1401
 ---
 
-## Microsoft 365 Defender
+## SAP Business One
 
 ## Overview
 
 **Description**
 
-Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+AFON is the award-winning (Top SAP Partner in Singapore, Enterprise E50 Award by KPMG etc.) ERP consultancy in Singapore, that helps fast-growing businesses improve financial and operational efficiencies through ERP, analytics, and industry-centric solutions.
+
+SAP Business One is an enterprise resource planning software designed for SMEs, by world No. 1 ERP brand leader SAP. It automates and streamlines key business functions in financials, operations, sales, and human resources together.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$27,216.00</td>
+<td style='padding: 10px;'>$22,716.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 3 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$29,853.00</td>
+<td style='padding: 10px;'>$25,353.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$54,336.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 5 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$56,985.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$65,998.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 
 ## Vendor Information
 
- Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
+ Company name:AFON Technologies Pte Ltd<br>Web URL: https://www.afon.com.sg/erp/sap-business-one <br>Contact Hotline: 63230901 <br>Contact Email: sales-enquiry@afon.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

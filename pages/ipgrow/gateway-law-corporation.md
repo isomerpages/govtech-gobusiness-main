@@ -19,7 +19,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 
 <b>Website:</b> <a href='https://gateway-law.com/'>https://gateway-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -74,7 +74,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -206,4 +206,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/geneva-k" target="_blank" rel="noopener">https://www.linkedin.com/in/geneva-k</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

@@ -1,15 +1,15 @@
 ---
-title: 'OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0'
+title: 'Synergix E1 Sales & Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution918
 ---
 
-## OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0
+## Synergix E1 Sales & Accounting
 
 ## Overview
 
 **Description**
 
-OPS Sales Order Management Solution is a user-friendly B2C and B2B order management tool to optimise productivity. The solution helps businesses centrally manage all their order channels efficiently. It allows their customers to order online and let their sales team easily manage these orders from the back-end. This will reduce duplicate and manual tasks, resolving errors during orders, easily re-order and more.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ OPS Sales Order Management Solution is a user-friendly B2C and B2B order managem
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro Pack</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'>$16,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,770.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Pro with Go International Pack</td>
-<td style='padding: 10px;'>$35,200.00</td>
-<td style='padding: 10px;'>$33,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Multi-Store Pack</td>
-<td style='padding: 10px;'>$25,351.00</td>
-<td style='padding: 10px;'>$24,351.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite Pack</td>
-<td style='padding: 10px;'>$16,245.00</td>
-<td style='padding: 10px;'>$15,245.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OPS SALES ORDER MANAGEMENT SOLUTION Version v9.0 - OPS Lite with Go International Pack</td>
-<td style='padding: 10px;'>$34,345.00</td>
-<td style='padding: 10px;'>$32,445.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHS_Asia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,770.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ OPS Sales Order Management Solution is a user-friendly B2C and B2B order managem
 
 ## Vendor Information
 
- Company Name: RHS Asia Pte Ltd<br>Web URL: http://www.rhsasia.com/onprintshop-web-to-print/ <br><br>Contact Hotline: 62804321 <br><br>Contact Email: info@rhsasia.com <br><br>
+ Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'EQuip Orders Version 1'
+title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1547
 ---
 
-## EQuip Orders Version 1
+## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-Edgeworks EQuip Orders is a solution that transforms the digital ordering experience in the F&B segment. It provides an Omnichannel ordering experience where customers order via online app for pickup or delivery, dine in QR ordering with digital payment processing. Sales are seamlessly consolidated into a single backend system. Cloud based reports and mobile applications are available to analyse business performance. Professional service and training are included to ensure business readiness.
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Edgeworks EQuip Orders is a solution that transforms the digital ordering experi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Solutions_Equip_Orders_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Lite + Rewards</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Solutions_Equip_Orders_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
-<td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'>$4,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Solutions_Equip_Orders_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic + Rewards</td>
-<td style='padding: 10px;'>$7,950.00</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Solutions_Equip_Orders_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic - Add Outlet</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Solutions_Equip_Orders_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg 
+ Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

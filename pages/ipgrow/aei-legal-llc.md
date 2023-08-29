@@ -24,7 +24,7 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 
 <b>Offer:</b> Users of GoBusiness IP Grow will be offered a 5% discount on professional fees, capped at S$5,000, if they cite GoBusiness IP Grow in the free introductory call.
 
-<a class='btn' href='https://form.gov.sg/642d0129355de1001111ad18' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642d0129355de1001111ad18' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -111,4 +111,7 @@ We believe in long-term relationships, and pride ourselves on our reputation for
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/dana-lim" target="_blank" rel="noopener">https://www.linkedin.com/in/dana-lim</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/642d0129355de1001111ad18' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

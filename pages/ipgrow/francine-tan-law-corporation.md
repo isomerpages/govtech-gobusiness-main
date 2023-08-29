@@ -21,7 +21,7 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 
 <b>Offer:</b> Free initial half-hour consultation.
 
-<a class='btn' href='https://form.gov.sg/64583d45250873001236748b' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64583d45250873001236748b' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -114,4 +114,7 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/francinetan" target="_blank" rel="noopener">https://www.linkedin.com/in/francinetan</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/64583d45250873001236748b' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

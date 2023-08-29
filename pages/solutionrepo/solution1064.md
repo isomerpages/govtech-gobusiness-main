@@ -1,15 +1,15 @@
 ---
-title: 'DM TheAsiaMedia Digital Marketing Packages'
+title: 'WhyzeHR Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1064
 ---
 
-## DM TheAsiaMedia Digital Marketing Packages
+## WhyzeHR Version 12
 
 ## Overview
 
 **Description**
 
-Established since 2005, TheAsiaMedia provides decades of digital marketing experience to help businesses increase brand and product awareness, generate leads, and drive sales. TheAsiaMedia's digital marketing solutions encompass research and planning to target-setting and creating and implementing effective online marketing campaigns. Depending on the companies' objectives, TheAsiaMedia's Digital Marketing solutions are aimed at maximizing ROIs through continuous optimization and insights.
+Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Established since 2005, TheAsiaMedia provides decades of digital marketing exper
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 1 - SMM + Google Ads  [2 Months]</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 25</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 2 - SMM + Google Ads with Google Street View [2 Months]</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 50</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 3 - SMM + Google Ads [3 Months]</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 100</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 4 - SMM + Google Ads with WeChat Marketing [2 Months]</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 200</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 5 - SMM + Google Ads with Google Street View [3 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD PLUS 150</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Established since 2005, TheAsiaMedia provides decades of digital marketing exper
 
 ## Vendor Information
 
- Company Name: TheAsiaMedia Pte Ltd<br>Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
+ Company Name: Whyze Solutions Pte Ltd<br>Web URL: https://whyze.com.sg/escheduling/ <br><br>Contact Hotline: 68380161 <br><br>Contact Email: enquiry@whyze.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

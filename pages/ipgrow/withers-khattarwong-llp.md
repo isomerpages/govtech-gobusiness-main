@@ -21,7 +21,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 
 <b>Website:</b> <a href='https://www.withersworldwide.com/'>https://www.withersworldwide.com/</a>
 
-<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -200,4 +200,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

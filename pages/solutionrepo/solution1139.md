@@ -1,50 +1,38 @@
 ---
-title: 'Fleet Management Solutions'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1139
 ---
 
-## Fleet Management Solutions
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$2,310.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Unit height: min. 2.5m<br>Carrier tray width: min. 1.3m<br>Load capacity per tray: min. 150kg<br>With operator Interface (Console)<br>With software linked to Inventory Management System<br><br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

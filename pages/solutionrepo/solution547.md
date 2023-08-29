@@ -1,15 +1,15 @@
 ---
-title: 'DM Identity Counsel Digital Marketing Packages'
+title: 'Freight Master Version 8.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution547
 ---
 
-## DM Identity Counsel Digital Marketing Packages
+## Freight Master Version 8.2
 
 ## Overview
 
 **Description**
 
-Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
+The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of five core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low-cost solution, thereby providing a more level playing field for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets l
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 7 User Package</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 18 User Package</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 24 User Package</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'>$37,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets l
 
 ## Vendor Information
 
- Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
+ Company Name:Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

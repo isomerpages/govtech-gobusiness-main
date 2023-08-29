@@ -64,7 +64,7 @@ Abundant Accounting Pte Ltd is a leading digital sales and accounting solution p
 
 ## Vendor Information
 
- Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg 
+ Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 97762954 <br>Contact Email: sales@aba.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
