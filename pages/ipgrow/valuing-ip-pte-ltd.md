@@ -189,4 +189,4 @@ At Valuing IP, we make your intangibles, tangible!
 <p>
 <a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
