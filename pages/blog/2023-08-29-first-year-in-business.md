@@ -8,9 +8,8 @@ crumbs: business-tips-and-tricks
 description: A month-by-month guide to all the regulatory requirements of running a business in Singapore.
 ---
 
-![regulatory requirements for businesses](/images/blog/content/Regulatory Cover Image.png)
+![Regulatory requirements for businesses](/images/blog/content/Regulatory Cover Image.png)
 <figcaption>Through the lens of an aspiring retail shop owner, discover the regulatory requirements new business owners will need to tackle in their first year of business and beyond (Image: Canva)</figcaption>
-[Alt tag: <img src="Feature image.jpg" alt="regulatory requirements for businesses">]
 
 Aha! You have come up with a brilliant idea for a new product or service that will revolutionise the market and are eager to bring your vision to reality. But as you begin doing your research on where to begin, you soon find yourself chest-deep in regulations, administrative processes and operational matters that you scarcely understand. 
 
