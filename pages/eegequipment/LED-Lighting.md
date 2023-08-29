@@ -1165,7 +1165,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 929001142507 LED 5.5-40W E14 2700K 230V B35 CL ND_AP
 - Philips - 929001150802
 - Philips - 929001150802 MAS LEDbulb DT 6-40W E27 A60 CL
-- Philips - 929001150802 MAS LEDbulb DT 6-40W E27  A60 CL
 - Philips - 9290011508B
 - Philips - 929001150932
 - Philips - 929001150932 MAS LEDbulb DT 8.5-60W E27 A60 CL
