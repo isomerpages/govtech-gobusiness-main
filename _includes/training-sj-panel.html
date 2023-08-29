@@ -1,0 +1,148 @@
+<style>
+  [class*="mailer"] {
+    font-family: hknova-regular;
+  }
+
+  .mailer__container {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 16px 64px 16px;
+    background-color: #ffffff;
+  }
+
+
+  .mailer__header {
+    line-height: 45px;
+    color: #037e8a;
+  }
+
+  .mailer_url {
+    text-decoration-line: underline;
+  }
+
+  .mailer__title {
+    text-align: center;
+  }
+
+  .mailer__contents {
+    display: grid;
+    grid-template-areas:
+      "content-3"
+      "content-4";
+    grid-gap: 0px;
+    border-bottom: 1px solid #dbdfe4;
+    border-top: 1px solid #dbdfe4;
+    border-left: 1px solid #dbdfe4;
+    border-right: 1px solid #dbdfe4;
+    border-radius: 5px;
+    row-gap: 8px;
+    height: auto;
+    width: fit-content;
+    padding: 16px 8px 32px 8px;
+  }
+
+  .mailer__left-bottom {
+    grid-area: content-3;
+    display: flex;
+    flex-wrap: nowrap;
+    border-radius: 5px;
+    row-gap: 8px;
+    height: auto;
+  }
+
+  .mailer__title {
+    font-family: hknova-semibold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #037E8A;
+    text-align: left;
+  }
+
+  .mailer__right-bottom {
+    grid-area: content-4;
+    display: flex;
+    flex-wrap: nowrap;
+    background: #ffffff;
+
+  }
+
+  .mailer__logoWrapper {
+    padding: 24px;
+    margin-top: 10px;
+  }
+
+  .mailer__logo {
+    width: 130px;
+    height: auto;
+  }
+
+  .mailer__Rcard--body {
+    font-size: 16px;
+    line-height: 24px;
+    color: #313840;
+    padding: 0 0 0 0px;
+    margin: 16px 0;
+    
+  }
+
+  .mailer__Lcard--body {
+    font-size: 16px;
+    line-height: 24px;
+    color: #313840;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+  }
+
+  @media screen and (min-width: 768px) {
+    .mailer__contents {
+      display: grid;
+      grid-template-areas:
+        "content-3 content-4";
+      margin: 0 auto;
+      grid-template-columns: 1.33fr 1fr;
+      justify-items: center;
+      justify-content: center;
+      padding: 16px 0;
+
+    }
+
+    .mailer__left-bottom {
+      height: 100%;
+      width: auto;
+      max-width: 638px;
+    }
+    .mailer__right-bottom {
+      height: 100%;
+      width: auto;
+      max-width: 438px;
+    }
+    .mailer__logoWrapper {
+      padding: 0 24px;
+    }
+    .mailer__logo {
+      width: auto;
+    }
+  }
+</style>
+<div class="mailer__container">
+  <div class="mailer__header">
+    <div class="mailer__contents">
+      <div class="mailer__left-bottom">
+        <div class="mailer__logoWrapper">
+          <img class="mailer__logo" src="/images/Subscribe.png" alt="subscribe to gobusiness mailer"/>
+        </div>
+        <div class="mailer__Rcard--body">
+          <div class="mailer__title">{{include.title}}</div>
+          <div class="mailer__body">{{include.body}}</div>
+        </div>
+      </div>
+      <div class="mailer__right-bottom">
+        <div class="mailer__Lcard--body">
+          {% include primary-btn.html href=include.url text="Login to Sign Up" target="_blank" %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
