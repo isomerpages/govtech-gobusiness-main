@@ -8,7 +8,7 @@ crumbs: business-tips-and-tricks
 description: A month-by-month guide to all the regulatory requirements of running a business in Singapore.
 ---
 
-![Cybersecurity practices for small and medium enterprises](/images/blog/content/Cybersecurity Feature.jpg)
+![regulatory requirements for businesses](/images/blog/content/Regulatory Cover Image.png)
 <figcaption>Through the lens of an aspiring retail shop owner, discover the regulatory requirements new business owners will need to tackle in their first year of business and beyond (Image: Canva)</figcaption>
 [Alt tag: <img src="Feature image.jpg" alt="regulatory requirements for businesses">]
 
