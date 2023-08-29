@@ -23,7 +23,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 
 <b>Offer:</b> Our first consultation (up to 30 minutes) is free.
 
-<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -95,4 +95,7 @@ We liken our robust team of experienced lawyers working on your matter almost ro
 - URL of LinkedIn/Company Profile: <a href="https://ferventchambers.com/lawyer/lim-zheng-feng-immanuel" target="_blank" rel="noopener">https://ferventchambers.com/lawyer/lim-zheng-feng-immanuel</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/6458bba9d9d70b00124d907e' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

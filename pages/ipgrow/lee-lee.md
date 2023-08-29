@@ -25,7 +25,7 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 
 <b>Offer:</b> Free first consultation (<30 minutes), if the firm is engaged.
 
-<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1b-ipgrow-company-profile %}
 
@@ -221,14 +221,9 @@ Chambers 2023 describes Lee & Lee as having "strong reputation in litigation and
 - URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lee-basil" target="_blank" rel="noopener">https://www.leenlee.com.sg/lee-basil</a>
 
 
-**Eugene, Lau**
-
-- Job Title: Partner, Intellectual Property
-- Years of Experience: 6 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Audit, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: B.Eng. National University of Singapore 2006, LL.B. University of Southampton 2015, Admitted to the Singapore Bar 2017
-- URL of LinkedIn/Company Profile: <a href="https://www.leenlee.com.sg/lau-eugene" target="_blank" rel="noopener">https://www.leenlee.com.sg/lau-eugene</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/643f93073b2d450011b0ab79' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023
