@@ -129,12 +129,12 @@
 <div class="panel__container">
   <div class="panel__header">
     <div class="panel__contents">
-      <p id="status-border" class="teal">Early Access</p>
       <div class="panel__left-bottom">
         <div class="panel__logoWrapper">
           <img class="panel__logo" src="/images/epjs/panel-icon.png" alt="panel icon"/>
         </div>
         <div class="panel__Rcard--body">
+          <p id="status-border" class="teal">Early Access</p>
           <div class="panel__title">{{include.title}}</div>
           <div class="panel__body">{{include.body}}</div>
         </div>
@@ -147,3 +147,5 @@
     </div>
   </div>
 </div>
+
+{% include status-border.html %}
