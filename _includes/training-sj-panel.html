@@ -1,30 +1,29 @@
 <style>
-  [class*="mailer"] {
+  [class*="panel"] {
     font-family: hknova-regular;
   }
 
-  .mailer__container {
+  .panel__container {
     display: flex;
     flex-direction: column;
     padding: 0px 16px 64px 16px;
     background-color: #ffffff;
   }
 
-
-  .mailer__header {
+  .panel__header {
     line-height: 30px;
     color: #037e8a;
   }
 
-  .mailer_url {
+  .panel_url {
     text-decoration-line: underline;
   }
 
-  .mailer__title {
+  .panel__title {
     text-align: center;
   }
 
-  .mailer__contents {
+  .panel__contents {
     display: grid;
     grid-template-areas:
       "content-3"
@@ -41,7 +40,7 @@
     padding: 16px 8px 32px 8px;
   }
 
-  .mailer__left-bottom {
+  .panel__left-bottom {
     grid-area: content-3;
     display: flex;
     flex-wrap: nowrap;
@@ -50,7 +49,7 @@
     height: auto;
   }
 
-  .mailer__title {
+  .panel__title {
     font-family: hknova-bold;
     font-size: 24px;
     line-height: 30px;
@@ -58,7 +57,7 @@
     text-align: left;
   }
 
-  .mailer__right-bottom {
+  .panel__right-bottom {
     grid-area: content-4;
     display: flex;
     flex-wrap: nowrap;
@@ -66,17 +65,17 @@
 
   }
 
-  .mailer__logoWrapper {
+  .panel__logoWrapper {
     padding: 24px;
     margin-top: 10px;
   }
 
-  .mailer__logo {
+  .panel__logo {
     width: 130px;
     height: auto;
   }
 
-  .mailer__Rcard--body {
+  .panel__Rcard--body {
     font-size: 16px;
     line-height: 24px;
     color: #313840;
@@ -85,18 +84,18 @@
     
   }
 
-  .mailer__Lcard--body {
+  .panel__Lcard--body {
     font-size: 16px;
     line-height: 24px;
     color: #313840;
     text-align: center;
     justify-content: center;
     margin: auto;
-    width: 50%;
+    width: 100%;
   }
 
   @media screen and (min-width: 768px) {
-    .mailer__contents {
+    .panel__contents {
       display: grid;
       grid-template-areas:
         "content-3 content-4";
@@ -108,39 +107,39 @@
 
     }
 
-    .mailer__left-bottom {
+    .panel__left-bottom {
       height: 100%;
       width: auto;
       max-width: 638px;
     }
-    .mailer__right-bottom {
+    .panel__right-bottom {
       height: 100%;
       width: auto;
       max-width: 438px;
     }
-    .mailer__logoWrapper {
+    .panel__logoWrapper {
       padding: 0 24px;
     }
-    .mailer__logo {
-      width: auto;
+    .panel__logo {
+      width: 130px;
     }
   }
-
+  
 </style>
-<div class="mailer__container">
-  <div class="mailer__header">
-    <div class="mailer__contents">
-      <div class="mailer__left-bottom">
-        <div class="mailer__logoWrapper">
-          <img class="mailer__logo" src="/images/epjs/panel-icon.png" alt="panel icon"/>
+<div class="panel__container">
+  <div class="panel__header">
+    <div class="panel__contents">
+      <div class="panel__left-bottom">
+        <div class="panel__logoWrapper">
+          <img class="panel__logo" src="/images/epjs/panel-icon.png" alt="panel icon"/>
         </div>
-        <div class="mailer__Rcard--body">
-          <div class="mailer__title">{{include.title}}</div>
-          <div class="mailer__body">{{include.body}}</div>
+        <div class="panel__Rcard--body">
+          <div class="panel__title">{{include.title}}</div>
+          <div class="panel__body">{{include.body}}</div>
         </div>
       </div>
-      <div class="mailer__right-bottom">
-        <div class="mailer__Lcard--body">
+      <div class="panel__right-bottom">
+        <div class="panel__Lcard--body">
           {% include primary-btn.html href=include.url text="Login to Sign Up" target="_blank" %}
         </div>
       </div>
