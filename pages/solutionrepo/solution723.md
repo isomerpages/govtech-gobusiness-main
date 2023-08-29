@@ -1,15 +1,15 @@
 ---
-title: 'Simplify Version 1'
+title: 'OCi Sales & Accounting Management System (SAM)'
 permalink: /productivity-solutions-grant/solutionrepo/solution723
 ---
 
-## Simplify Version 1
+## OCi Sales & Accounting Management System (SAM)
 
 ## Overview
 
 **Description**
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+OCi Sales and Accounting Management System (SAM) is a straight-forward and comprehensive system in serving the needs in the following. Pre-Sales Management, Post-Sales Fulfilment Management, Accounts Receivable Management, Accounts Payable Management, Inventory Management, Multi-Currency Management, Project Management, Reporting, Accounting & Compliance Management.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Concurrent User)</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
-<td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Concurrent Users)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Concurrent Users)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
-<td style='padding: 10px;'>$33,500.00</td>
-<td style='padding: 10px;'>$30,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Concurrent Users)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,500.00</td>
-<td style='padding: 10px;'>$32,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (8 Concurrent Users)</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
+ Company name:OCi System Pte Ltd<br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

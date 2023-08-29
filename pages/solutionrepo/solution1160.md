@@ -1,64 +1,30 @@
 ---
-title: 'Zoho Workplace PSG Edition'
+title: 'Bristle Blaster / Cup Brush / Power Brush'
 permalink: /productivity-solutions-grant/solutionrepo/solution1160
 ---
 
-## Zoho Workplace PSG Edition
+## Bristle Blaster / Cup Brush / Power Brush
 
 ## Overview
 
 **Description**
 
-Zoho Workplace by Zoho Corporation.
+The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
 
-Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
-
-Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
+Cost of equipment capped at $3,000 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
-<td style='padding: 10px;'>$958.00</td>
-<td style='padding: 10px;'>$958.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 15 users</td>
-<td style='padding: 10px;'>$1,436.00</td>
-<td style='padding: 10px;'>$1,436.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 20 users</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
-<td style='padding: 10px;'>$2,394.00</td>
-<td style='padding: 10px;'>$2,394.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 30 users</td>
-<td style='padding: 10px;'>$2,873.00</td>
-<td style='padding: 10px;'>$2,873.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 
@@ -66,10 +32,6 @@ Transform the way your team works together - give them a secure, shared workspac
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br><br>Contact Hotline: 67231040 <br><br>Contact Email: sales@zohocorp.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

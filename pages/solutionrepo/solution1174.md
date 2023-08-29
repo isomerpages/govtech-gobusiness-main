@@ -1,18 +1,17 @@
 ---
-title: 'Portable Automatic Pipe Gas Cutter'
+title: 'Battery-operated Torque Wrench'
 permalink: /productivity-solutions-grant/solutionrepo/solution1174
 ---
 
-## Portable Automatic Pipe Gas Cutter
+## Battery-operated Torque Wrench
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
+Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
 
-Cost of equipment capped at $12,500 per unit
-
+Cost of equipment capped at $11,250 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Pipe Gas Cutter</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Automatic travelling gas cutting operations<br>Cutting speed: minimum 50 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
+<td style='padding: 10px;'>$11,250.00</td>
+<td style='padding: 10px;'>- Produce at least 1,000 N.m torquing force <br>- Battery pack and charger can be supported<br>- Maintenance costs not supported<br><br>Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed</td>
 </tr>
 </table>
 

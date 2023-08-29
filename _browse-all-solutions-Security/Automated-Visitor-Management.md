@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution704' target='_blank'>Nett VMS Version 4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution679' target='_blank'>Nett VMS Version 4</a><br></td>
 <td>NettBox Pte Ltd</td>
 </tr>
 </table>

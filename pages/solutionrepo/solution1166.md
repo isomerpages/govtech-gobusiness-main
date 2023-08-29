@@ -1,19 +1,17 @@
 ---
-title: 'Autonomous Material Transportation Robot'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1166
 ---
 
-## Autonomous Material Transportation Robot
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
-Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
-
-Cost of equipment capped at $37,500 per unit. 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $37,500 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 

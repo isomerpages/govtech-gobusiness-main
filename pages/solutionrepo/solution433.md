@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd'
+title: 'Flavor Customer Relationship Management System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution433
 ---
 
-## Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+## Flavor Customer Relationship Management System Version 1
 
 ## Overview
 
 **Description**
 
-COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
+Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Basic Mode</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 1</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 2</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Advanced Mode 3</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flavor Customer Relationship Management System Version 1 - Expert Mode 1</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/FLAVOR_20210268_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 
 ## Vendor Information
 
- Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
+ Company Name: FLAVOR PTE. LTD.<br>Web URL: www.flavorcrm.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@flavorcrm.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

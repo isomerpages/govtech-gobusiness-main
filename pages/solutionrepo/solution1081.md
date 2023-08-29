@@ -1,15 +1,17 @@
 ---
-title: 'Fleet Management Solutions'
+title: 'Xintesys Sales and Inventory Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1081
 ---
 
-## Fleet Management Solutions
+## Xintesys Sales and Inventory Management Solution
 
 ## Overview
 
 **Description**
 
-WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +25,17 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$2,310.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Pack (10 users)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$19,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +45,7 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
+ Company name:Xintesys Consultancy Pte Ltd<br>Web URL: https://xintesys.com/xintesys-demo/ <br>Contact Hotline: 62721237 <br>Contact Email: solutions@xintesys.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

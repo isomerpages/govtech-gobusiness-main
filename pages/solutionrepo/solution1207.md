@@ -1,17 +1,15 @@
 ---
-title: 'Torque Multiplier'
+title: 'Recirculating Aquaculture System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1207
 ---
 
-## Torque Multiplier
+## Recirculating Aquaculture System
 
 ## Overview
 
 **Description**
 
-The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
-
-Cost of equipment capped at $20,000 per unit 
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Produce at least 2,000N.m torquing force <br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

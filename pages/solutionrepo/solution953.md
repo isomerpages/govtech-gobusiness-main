@@ -1,15 +1,15 @@
 ---
-title: 'Swipetask PRO'
+title: 'DM TAM Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution953
 ---
 
-## Swipetask PRO
+## DM TAM Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] TAM helps business owners double triple their ROI by navigating the challenging digital world. Having worked with over 120 brands and digitalised over 60 businesses across a variety of industries - TAM helps SMEs get their business and brand seen by the right audiences online, improve brand's social engagement, and double triple their ROI and sales through quality social content, trendy graphic designs, engaging content writing and more.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA + SMA (3 months)</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
-<td style='padding: 10px;'>$17,196.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 months)</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMM + SMA (3 months)</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM + SMA (4 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Assets_Annex_3_CR_wef_29_Sept_22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM + SMA (4 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Assets_Annex_3_CR_wef_29_Sept_22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+ Company name:The Assets Management Pte Ltd<br>Web URL: digitalsociety.sg <br>Contact Hotline: 88345516<br>Contact Email: hello@digitalsociety.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

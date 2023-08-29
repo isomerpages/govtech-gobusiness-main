@@ -1,17 +1,15 @@
 ---
-title: 'e-Forms for Preschool Version 1.0'
+title: 'DNS - Xero Cloud Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution333
 ---
 
-## e-Forms for Preschool Version 1.0
+## DNS - Xero Cloud Accounting Software
 
 ## Overview
 
 **Description**
 
-Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
-BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
-BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
+XERO is a cloud based accounting software that enables small businesses to automate everyday administrative tasks, work from anywhere and anytime. With over 3 Million + subscribers worldwide, XERO helps to transform the way business is done. Get a full picture of your financials in real time and collaborate anywhere across the world.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,34 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
+<td style='padding: 10px;'>$1,500.00</td>
+<td style='padding: 10px;'>$1,158.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Everyday</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'>$1,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Upsize</td>
+<td style='padding: 10px;'>$4,224.00</td>
+<td style='padding: 10px;'>$3,059.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company name:D Next Stop Pte Ltd<br>Web URL: www.dnextstop.com <br>Contact Hotline: 83415321 <br>Contact Email: enquiry@dnextstop.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

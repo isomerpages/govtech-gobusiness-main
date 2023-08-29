@@ -1,32 +1,39 @@
 ---
-title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.'
+title: 'Automated Tools Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1117
 ---
 
-## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd.
+## Automated Tools Management System
 
 ## Overview
 
 **Description**
 
-WTW (Willis Towers Watson) is a leading global company with expertise in HR consulting and people solutions. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others. We advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc.
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system. 
+ 
+Cost of equipment capped at $28,000 per unit
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte. Ltd. </td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>- Support only hardware and software.<br></td>
 </tr>
 </table>
 
@@ -34,10 +41,6 @@ WTW (Willis Towers Watson) is a leading global company with expertise in HR cons
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.  <br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers <br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

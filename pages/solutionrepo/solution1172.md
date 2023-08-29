@@ -1,19 +1,17 @@
 ---
-title: 'Encrusting Machine'
+title: 'High pressure industrial vacuum cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution1172
 ---
 
-## Encrusting Machine
+## High pressure industrial vacuum cleaner
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. 
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $12,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High pressure industrial vacuum cleaner</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>- Must be certified intrinsically safe (e.g. ATEX certified)<br>- Contains an immersion separator as a filter <br>- Training costs can be supported<br><br></td>
 </tr>
 </table>
 

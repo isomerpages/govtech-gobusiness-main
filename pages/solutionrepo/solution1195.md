@@ -1,20 +1,15 @@
 ---
-title: 'Dough Sheeter'
+title: 'Farm Washing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1195
 ---
 
-## Dough Sheeter
+## Farm Washing System
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
-
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
-
-Cost of equipment capped at $20,000 per unit
-
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ## Solution Packages Option(s)
 
@@ -25,9 +20,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

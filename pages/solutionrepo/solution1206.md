@@ -1,16 +1,15 @@
 ---
-title: 'Flange Facer'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1206
 ---
 
-## Flange Facer
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered.
-Cost of equipment capped at $37,500 per unit 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -21,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Flange Facer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Facing diameter must be >1m<br>- 1 battery pack or power unit per equipment can be supported <br>- Training costs can be supported<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

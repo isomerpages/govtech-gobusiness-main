@@ -1,15 +1,15 @@
 ---
-title: 'Synergix E1 Sales & Accounting'
+title: 'Sage 300 Advance Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution961
 ---
 
-## Synergix E1 Sales & Accounting
+## Sage 300 Advance Edition
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$48,770.00</td>
-<td style='padding: 10px;'>$37,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud (3 users)</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$69,770.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (3 users)</td>
+<td style='padding: 10px;'>$29,309.00</td>
+<td style='padding: 10px;'>$26,983.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (5 Users)</td>
+<td style='padding: 10px;'>$32,788.00</td>
+<td style='padding: 10px;'>$30,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (7 Users)</td>
+<td style='padding: 10px;'>$36,267.00</td>
+<td style='padding: 10px;'>$33,095.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (10 Users)</td>
+<td style='padding: 10px;'>$41,484.00</td>
+<td style='padding: 10px;'>$37,679.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company name:The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations'
+title: 'EISOL F&B (Eats365) Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1319
 ---
 
-## Taidii Smart Data Analytics for Centre Operations
+## EISOL F&B (Eats365) Version 1.0
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-based restaurant management system designed to aggregate customer orders from online, in-store, food delivery or digital self-ordering platform. It is designed to achieve better operational efficiency. Eats365 continues to upgrade and integrate with other apps or payment systems to expand its usability and allow businesses to scale and adapt to business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start-up</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'>$3,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growth</td>
+<td style='padding: 10px;'>$5,236.00</td>
+<td style='padding: 10px;'>$4,736.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large</td>
+<td style='padding: 10px;'>$5,587.00</td>
+<td style='padding: 10px;'>$5,087.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk</td>
+<td style='padding: 10px;'>$6,276.00</td>
+<td style='padding: 10px;'>$5,776.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$8,575.00</td>
+<td style='padding: 10px;'>$7,475.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company Name: EISOL Pte Ltd<br>Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

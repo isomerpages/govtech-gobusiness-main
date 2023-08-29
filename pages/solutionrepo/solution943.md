@@ -1,15 +1,15 @@
 ---
-title: 'Sugati Travel CRM Version 1.1037'
+title: 'TessaCloud DMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution943
 ---
 
-## Sugati Travel CRM Version 1.1037
+## TessaCloud DMS
 
 ## Overview
 
 **Description**
 
-Sugati is a Customer Relationship Management (CRM) solution based on the Salesforce.com CRM platform. The solution helps travel businesses manage their end-to-end business processes, from handling enquiries and building travel itineraries to taking payments and managing commissions with suppliers.
+TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 1 - Sugati Travel CRM (upto 5 users)</td>
-<td style='padding: 10px;'>$10,260.00</td>
-<td style='padding: 10px;'>$10,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 2 - Sugati Travel CRM (upto 10 users)</td>
-<td style='padding: 10px;'>$20,520.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'>$19,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sugati Travel CRM Version 1.1037 - Package 3 - Sugati Travel CRM (upto 20 users)</td>
-<td style='padding: 10px;'>$41,040.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sugati_Travel_20200841_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'>$27,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'>$42,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Sugati is a Customer Relationship Management (CRM) solution based on the Salesfo
 
 ## Vendor Information
 
- Company Name: Sugati Travel CRM Pte Ltd<br>Web URL: https://sugatitravel.com/ <br><br>Contact Hotline: 91273257 <br><br>Contact Email: hello@sugatitravel.com <br><br>
+ Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

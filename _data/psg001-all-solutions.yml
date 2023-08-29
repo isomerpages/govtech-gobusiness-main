@@ -43,11 +43,6 @@
     - title: Engineering Services
       content: |
         
-        **IT Solution**
-        - <a href='/browse-all-solutions-Engineering-Services/Workforce-Management'>Workforce Management</a>
-        - <a href='/browse-all-solutions-Engineering-Services/Project-Management-System'>Project Management System</a>
-        - <a href='/browse-all-solutions-Engineering-Services/3-in-1-ERP-solution'>3-in-1 ERP solution</a>
-        
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
 
@@ -179,7 +174,6 @@
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
         <br>
-        Please note that each business entity may only be supported for one application under the Enterprise Resource Planning (ERP) System solution category.  For example, a company who purchased an 'Accounting, CRM and Sales' solution will not be supported again if they apply for an 'Accounting and Sales' solution.<br>
         <table>
         <tr>
         <th><b>Accounting Management</b></th>
@@ -233,8 +227,7 @@
         </tr>
         </table>
         <br>
-        <b>Note:</b><br>
-        Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an 'Accounting, CRM and Sales' solution can be supported if they apply for a standalone 'Inventory Management' solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
+        <br>
     - title: Fleet Safety and Fleet Management System
       content: |
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>

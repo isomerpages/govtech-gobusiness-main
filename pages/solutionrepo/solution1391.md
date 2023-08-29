@@ -1,17 +1,15 @@
 ---
-title: 'Harvest Accounting - Xero'
+title: 'Sapaad Version 601'
 permalink: /productivity-solutions-grant/solutionrepo/solution1391
 ---
 
-## Harvest Accounting - Xero
+## Sapaad Version 601
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
-
-Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
+Sapaad is a global SaaS product company focused on crafting world class software experiences. Its flagship product, Sapaad has thousands of users with all concepts of the F&B business. With a team of passionate developers and designers, Sapaad grows, innovates, and develops products that revolutionise the F&B industry. Headquartered in Singapore, with offices planted globally, Sapaad's key stakeholders are technology veterans with years of experience in the web and e-commerce world.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$3,445.67</td>
+<td style='padding: 10px;'>$3,445.67</td>
+<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
+<td style='padding: 10px;'>$4,086.67</td>
+<td style='padding: 10px;'>$4,086.67</td>
+<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
+<td style='padding: 10px;'>$3,757.87</td>
+<td style='padding: 10px;'>$3,757.87</td>
+<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4</td>
+<td style='padding: 10px;'>$4,398.87</td>
+<td style='padding: 10px;'>$4,398.87</td>
+<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5</td>
+<td style='padding: 10px;'>$4,711.07</td>
+<td style='padding: 10px;'>$4,711.07</td>
+<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Subscription/Leasing
 
 ## Vendor Information
 
- Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+ Company name:Sapaad Pte. Ltd.<br>Web URL: https://www.sapaad.com/sg/ <br>Contact Hotline: 62240777 <br>Contact Email: presales.support@sapaad.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
