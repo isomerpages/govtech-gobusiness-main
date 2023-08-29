@@ -7,11 +7,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -123,6 +123,8 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Midea - MDVC-V170W/DN1
 - Midea - MDVC-V72W/DN1
 - Midea - MDVC-V92W/DN1
+- Midea - MKC-3M22E
+- Midea - MKC-4M27E
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
@@ -135,6 +137,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - MXY-5H48VG
 - Mitsubishi Electric - MXY-6C140VA
 - Mitsubishi Electric - MXY-6C53VAM
+- Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-P200YKD.TH
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH
