@@ -7,7 +7,7 @@ permalink: /enterprisejobskills/
 
 ![EPJS](/images/epjs/hero-img.png)
 
-{% include banner-training2-sj.html title="Stay up to date on your team's training progress with our Enterprise Training Insights " body="Sign up for this upcoming feature and help us understand what data you want to see about your team's training. Available until 27 Sep." %}
+{% include banner-training-sj.html title="Stay up to date on your team's training progress with our Enterprise Training Insights " body="Sign up for this upcoming feature and help us understand what data you want to see about your team's training. Available until 27 Sep." %}
 
 ---
 
