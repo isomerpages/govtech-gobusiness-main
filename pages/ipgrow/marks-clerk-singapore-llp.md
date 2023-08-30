@@ -10,7 +10,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 
 We are one of the most reputable patent attorney firms in Singapore, having been in practice since the establishment of the Singapore Patents Act in 1995 and have had our finger on the pulse of Intellectual Property matters in Singapore ever since.
 
-<b>Year established in Singapore:</b> 2009
+<b>Year established in Singapore:</b> 1995
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Audit, IP Strategy Consulting
 

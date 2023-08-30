@@ -243,4 +243,4 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 <p>
 <a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

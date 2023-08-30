@@ -7,13 +7,13 @@ permalink: /intellectual-property/ip-grow/alpha-omega-law-corporation/
 
 Alpha & Omega sets itself apart by being a Singapore law firm with a complete focus on IP law. A brand established in Singapore in 2003. We are strategists, idealists, analysts and business-minded. Beyond the registration and protection of IP, our goal is to work hard hand in hand with our clients to tailor powerful intellectual property strategies that will help their business reap exponential growth and profits. We provide invaluable support to businesses, Singapore and international alike, in building, enforcing and commercialising their IA in Singapore and around the world. Our clientele range from individuals to  start-ups, charities, small and medium sized enterprises, multinationals based in Singapore and globally.
 
-<b>Year established in Singapore:</b> 2009
+<b>Year established in Singapore:</b> 2003
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 22 Yio Chu Kang Road, #22-05, Highland Centre, Singapore 545535
+<b>Address in Singapore:</b> 51 Goldhill Plaza, #16-10/11, Singapore 308900
 
 <b>Website:</b> <a href='https://www.alphaandomega.com.sg'>https://www.alphaandomega.com.sg</a>
 
@@ -205,4 +205,4 @@ Alpha & Omega sets itself apart by being a Singapore law firm with a complete fo
 <p>
 <a class='btn' href='https://form.gov.sg/643f4c8bd1a2d80012eef672' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

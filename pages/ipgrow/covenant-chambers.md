@@ -150,4 +150,4 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 <p>
 <a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
