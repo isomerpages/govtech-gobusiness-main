@@ -16,12 +16,14 @@ IP tax advisory services are typically provided by experienced professionals suc
 
 By working with an experienced tax advisor, businesses can identify tax-saving opportunities they may have overlooked. This can help companies take full advantage of the range of IP-related tax schemes available in Singapore, freeing up more resources for growth and expansion.
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Tax Advisory (with IA_IP considerations).png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Singapore offers tax deductions or reliefs for investments in research and development (R&D) under the Enterprise Innovation Scheme. Using or commercialising IP rights from the R&D may qualify you for reduced tax rates under the IP Development Incentive.</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs tax advisory services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)
-
 **6 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.

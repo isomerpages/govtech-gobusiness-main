@@ -300,4 +300,4 @@ With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwid
 <p>
 <a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
