@@ -54,17 +54,20 @@
   alt: Explore More
   title: Explore More
   id: 4
-  href_1: '/regulatory-requirements-guides/?src=home_quicklinks'
-  text_1: Regulatory requirements guides
-  is_new_1: true
-  href_2: '/enterprisejobskills/?src=home_quicklinks'
-  text_2: Enterprise Portal for Jobs and Skills (EPJS)
-  is_new_2: false
-  href_3: '/accreditation/?src=home_quicklinks'
-  text_3: Accreditation
-  href_4: '/gebiz-alerts/?src=home_quicklinks'
-  text_4: GeBIZ Alerts
-  href_5: '/Haze/?src=home_quicklinks'
-  text_5: Haze
+  href_1: '/intellectual-property/ip-grow/?src=home_quicklinks'
+  text_1: Intellectual Property
+  is_new_1: true 
+  href_2: '/regulatory-requirements-guides/?src=home_quicklinks'
+  text_2: Regulatory requirements guides
+  is_new_2: true
+  href_3: '/enterprisejobskills/?src=home_quicklinks'
+  text_3: Enterprise Portal for Jobs and Skills (EPJS)
+  is_new_3: false
+  href_4: '/accreditation/?src=home_quicklinks'
+  text_4: Accreditation
+  href_5: '/gebiz-alerts/?src=home_quicklinks'
+  text_5: GeBIZ Alerts
+  href_6: '/Haze/?src=home_quicklinks'
+  text_6: Haze
   is_new_5: true
 
