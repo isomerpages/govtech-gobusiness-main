@@ -155,4 +155,4 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 <p>
 <a class='btn' href='https://form.gov.sg/63feb158148e560012a595a6' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

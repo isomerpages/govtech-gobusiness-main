@@ -22,13 +22,16 @@ By employing an IP watch service, your business can proactively protect its inte
 
 An IP watch service helps you spot potential infringements before they become major problems, allowing you to take swift and decisive action to protect your commercial interests. By keeping a close eye on the activities of your competitors, you can also gain valuable insights to inform your business strategies.
 
+<img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Watch.png' aria-hidden='true'>
+<figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know?
+IP watch services are particularly useful when, 1. your competitors are very active. 2. You suspect copying is taking place. 3. Your brand is valuable and well-known. 4. You are concerned about new entrants.</figcaption>
+
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP watch services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
 ---
 
 ### Connect with relevant service providers for IP watch services
-
-**25 service providers listed.**
+**27 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -46,6 +49,21 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 </ul>
 
 <a class='btn' href='https://form.gov.sg/648a7891d94807001192ec08' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/marks-clerk-singapore-llp/){:target='_blank'}
+
+---
+
+#### CSC
+
+Trusted provider for domain name and DNS management, as well as brand and fraud protection solutions.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> Request for quotation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64e30056ffdaa6001331f510' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/csc/){:target='_blank'}
 
 ---
 
@@ -244,6 +262,22 @@ A well-reputed multi-disciplinary law firm in Singapore.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/harry-elias-partnership-llp/){:target='_blank'}
+
+---
+
+#### Schweiger & Partners 
+
+A patent law agency offering certified services with fast turnaround times, at fixed prices.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Exclusive to IP Grow visitors: Sprint Patents patent drafting and FTO analysis at S$4888+GST, done in 10 days (U:P: S$5000). All Sprint Patents packages come with a free 45-minute IP consultation.</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/schweiger-partners/){:target='_blank'}
 
 ---
 

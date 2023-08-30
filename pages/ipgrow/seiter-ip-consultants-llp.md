@@ -185,4 +185,4 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 <p>
 <a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

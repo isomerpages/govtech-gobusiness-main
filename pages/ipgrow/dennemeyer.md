@@ -9,13 +9,13 @@ The Dennemeyer Group offers high-quality services for the protection and managem
 
 With more than 60 years of experience in the industry and 20+ offices worldwide, Dennemeyer manages over three million IP rights of around 8,000 customers. Organizations with even the largest, most diverse IP portfolios turn to the Dennemeyer Group for reliable protection, administration and management of their most valuable assets. 
 
-In addition to a full spectrum of IP-related legal services, Dennemeyer offers IP strategy consulting, comprehensive IP management software, IP payment services and cutting-edge patent search and analysis tools. For more information, visit dennemeyer.com or follow the company on LinkedIn..
+In addition to a full spectrum of IP-related legal services, Dennemeyer offers IP strategy consulting, comprehensive IP management software, IP payment services and cutting-edge patent search and analysis tools.
 
 <b>Year established in Singapore:</b> 2016
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Intelligence and Search, IP Portfolio Management, IP Strategy Consulting, Valuation
 
-<b>Intellectual property awards received:</b> 2022 , Dennemeyer Group cited as a premier provider of Intellectual Property law and management services in WTR1000 ; 2021 , Dennemeyer & Associates ranks among top European IP law firms in WTR1000 ; 2020 , Dennemeyer & Associates ranked as one of the world's top IP law firms in WTR1000 ; 2019 , Dennemeyer Group selected as the "Recommended Trademark Service Provider" in WTR1000 ; 2018 , Dennemeyer & Associates winner of the "Intellectual Property - Law Firm of the Year - Luxembourg" at Lawyer Monthly Legal Awards 2018
+<b>Intellectual property awards received:</b> [2022] Dennemeyer Group cited as a premier provider of Intellectual Property law and management services in WTR1000 ; [2021] Dennemeyer & Associates ranks among top European IP law firms in WTR1000 ; [2020] Dennemeyer & Associates ranked as one of the world's top IP law firms in WTR1000 ; [2019] Dennemeyer Group selected as the "Recommended Trademark Service Provider" in WTR1000 ; [2018] Dennemeyer & Associates winner of the "Intellectual Property - Law Firm of the Year - Luxembourg" at Lawyer Monthly Legal Awards 2018
 
 <b>Type of organization:</b> Non-SME
 
@@ -230,15 +230,14 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Certifications/Qualifications: Chairman of the IP Strategy Committee at the International Institute for IP Management, Licensed Attorney-at-law in Spain, PhD in Law, Master of Business Administration (MBA), IP-Management Business Administration Diploma CEIPI (University of Strasbourg), Member of the International Honor Society Beta Gamma Sigma for Outstanding Academic Achievements, Doctoral and Student Scholarship of the Foundation of the German Economy (Stiftung der deutschen Wirtschaft SDW)
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/christ" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/christ</a>
 
-**Dr Cornelia Peuser**
+**Burkhard Josuhn-Kadner**
 
-- Job Title: Manager IP Consulting
-- Years of Experience: 5+ years
+- Job Title: Senior Manager, Dennemeyer Consulting
+- Years of Experience: 30+ years
 - Location: Munich, Germany
-- IA/IP-Related Expertise: Innovation Consultancy, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
-- Certifications/Qualifications: PhD Innovation Economics, Abertay University, Scotland, UK
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/cornelia-peuser" target="_blank" rel="noopener">https://www.linkedin.com/in/cornelia-peuser</a>
-
+- IA/IP-Related Expertise: Innovation Consultancy, IP Due Diligence, IP Portfolio Management, IP Intelligence & Search, IP Strategy Consulting
+- Certifications/Qualifications: Master of Mechanical Engineering, University of Bochum, Germany, Patent Engineer, Forum Institute Heidelberg, Germany, Member of the Advisory Board of the IP Service World Conference, Munich, Germany
+- URL of LinkedIn/Company Profile: <a href="https://go.dennemeyer.com/consulting/experts/burkhard-josuhn-kadner" target="_blank" rel="noopener">https://go.dennemeyer.com/consulting/experts/burkhard-josuhn-kadner</a>
 
 **Peter Erd&ouml;dy**
 
@@ -257,14 +256,13 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 - Certifications/Qualifications: CEIPI Diplom in Trademark and Design Law, LL.M in European and International Business Law, WTR Global Leaders: Private Practice (2022), Trade Mark Star 2022, Luxembourg (IP Stars)
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/lombardo" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/lombardo</a>
 
-
 **Geordie Oldfield**
 
 - Job Title: Patent and Trade Marks Attorney and Lawyer
 - Years of Experience: 20+ years
 - Location: Melbourne, Australia
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search
-- Certifications/Qualifications: Registered Patent and Trade Marks Attorney in Australia and New Zealand and Australian Lawyer, Fellow of the Institute of Patent and Trade Mark Attorneys of Australia, Member of the Australian Institute of Company Directors, Master of Laws (IP), Bachelor of Science (Honours H1), 
+- Certifications/Qualifications: Registered Patent and Trade Marks Attorney in Australia and New Zealand and Australian Lawyer, Fellow of the Institute of Patent and Trade Mark Attorneys of Australia, Member of the Australian Institute of Company Directors, Master of Laws (IP), Member of the International Trademark Association (INTA), serving on the Famous and Well-Known Marks Committee, Serving on the Institute of Patent and Trade Mark Attorneys of Australia's Patent Practice and IP Australia Business Relations Committee 
 - URL of LinkedIn/Company Profile: <a href="https://www.dennemeyer.com/about/team/oldfield" target="_blank" rel="noopener">https://www.dennemeyer.com/about/team/oldfield</a>
 
 **Kazuya Sekiguchi**
@@ -289,4 +287,4 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 <p>
 <a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
