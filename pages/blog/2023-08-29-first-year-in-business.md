@@ -87,6 +87,6 @@ Finally, businesses will have to file the annual returns with ACRA. This involve
 ![Key regulatory requirements for local companies in Singapore](/images/blog/content/First year 4.jpg)
 <figcaption>The GoBusiness Regulatory Requirement Guides lay out all the requirements different types of companies will need to follow when starting a business in Singapore </figcaption>
 
-Starting and running a business is no easy feat. Entrepreneurs will have their hands full with trying to ensure healthy margins, managing staff, and managing daily operations, and navigating the numerous regulations surrounding administrative and financial matters. 
+Starting and running a business is no easy feat. Entrepreneurs will have their hands full with trying to ensure healthy margins, managing staff, daily operations, and navigating the numerous regulations surrounding administrative and financial matters. 
 
 If this journey resonates with you, check out [GoBusiness’ Regulatory Requirements Guides](https://www.gobusiness.gov.sg/regulatory-requirements-guides/){:target="_blank"}{:rel="noopener"}. Organised according to business structures and by timeline, these guides provide a comprehensive overview of the essential tax and compliance rules that every business owners in Singapore need to undertake when running a business.
