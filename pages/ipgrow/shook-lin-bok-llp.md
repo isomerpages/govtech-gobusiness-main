@@ -203,4 +203,4 @@ Shook Lin & Bok LLP is a leading full service Singapore law Firm with an Asian p
 <p>
 <a class='btn' href='https://form.gov.sg/642b82aad11e700013de2c97' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

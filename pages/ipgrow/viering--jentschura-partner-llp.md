@@ -240,4 +240,4 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 <p>
 <a class='btn' href='https://form.gov.sg/643f4dbebce917001147346b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

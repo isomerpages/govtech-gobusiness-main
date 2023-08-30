@@ -117,4 +117,4 @@ Francine Tan established her eponymous law firm in 2010. Francine has been in IP
 <p>
 <a class='btn' href='https://form.gov.sg/64583d45250873001236748b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

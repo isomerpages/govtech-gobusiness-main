@@ -121,4 +121,4 @@ We take a highly analytical approach to solving our clients' problems, taking th
 <p>
 <a class='btn' href='https://form.gov.sg/645d80cdf8f6650012eccda2' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

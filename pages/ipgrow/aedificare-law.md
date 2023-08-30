@@ -97,4 +97,4 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 <p>
 <a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
