@@ -17,7 +17,7 @@ To qualify for course fee and absentee payroll funding, your employees must meet
 
 Find out more about the subsidies and funding opportunities below.  
 
-{% include banner-training-sj2.html title="Wondering how much you've saved with training grants in 2023?" body="Find out with Enterprise Training Insights. Sign up for this upcoming feature and help us understand what data you want to see about your team's training." %}
+{% include banner-training2-sj.html title="Wondering how much you've saved with training grants in 2023?" body="Find out with Enterprise Training Insights. Sign up for this upcoming feature and help us understand what data you want to see about your team's training." %}
 
 ---
 
