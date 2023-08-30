@@ -7,7 +7,7 @@ permalink: /enterprisejobskills/
 
 ![EPJS](/images/epjs/hero-img.png)
 
-{% include training-sj-panel.html title="Enterprise Training Insights" body="Sign up for this upcoming feature and help us understand what data you want to see about your team's training. Available until 27 Sep." url="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner"%}
+{% include training-sj-panel.html title="Stay up to date on your team's training progress with our Enterprise Training Insights " body="Sign up for this upcoming feature and help us understand what data you want to see about your team's training. Available until 27 Sep." url="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner"%}
 
 ---
 
