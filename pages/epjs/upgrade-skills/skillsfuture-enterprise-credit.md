@@ -9,6 +9,8 @@ The SkillsFuture Enterprise Credit (SFEC) is a $10,000 credit provided by the go
 
 {% include training-sj-panel2.html title="Not sure how much SkillsFuture Enterprise Credit (SFEC) you have left?" body="Find out with Enterprise Training Insights. Sign up for this upcoming feature and help us understand what data you want to see about your team's training." url="https://dashboard.gobusiness.gov.sg/login?redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner"%}
 
+{% include banner-trainingsj.html %}
+
 ---
 
 ### How it works:
