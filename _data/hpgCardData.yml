@@ -63,11 +63,9 @@
   href_3: '/enterprisejobskills/?src=home_quicklinks'
   text_3: Enterprise Portal for Jobs and Skills (EPJS)
   is_new_3: false
-  href_4: '/accreditation/?src=home_quicklinks'
-  text_4: Accreditation
-  href_5: '/gebiz-alerts/?src=home_quicklinks'
-  text_5: GeBIZ Alerts
-  href_6: '/Haze/?src=home_quicklinks'
-  text_6: Haze
+  href_4: '/gebiz-alerts/?src=home_quicklinks'
+  text_4: GeBIZ Alerts
+  href_5: '/Haze/?src=home_quicklinks'
+  text_5: Haze
   is_new_5: true
 
