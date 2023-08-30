@@ -7,7 +7,7 @@ const custom_notifications = [
   
   //multiple services
   "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
-
+  "Please note that GoBusiness Helpdesk will not be working on Fri, 1 Sep 2023, public holiday for Presidential Election polling day.  For urgent assistance, try Ask GoBiz (our online bot).  Else please email to us at <a href="mailto:AskGoBiz@crimsonlogic.com.sg">AskGoBiz@crimsonlogic.com.sg</a>, and we will respond the following day."
 ];
 
 // Do not edit the following code
