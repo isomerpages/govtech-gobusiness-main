@@ -11,7 +11,6 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------|  
-| 3 Sep, 12am - 2am | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. Some services may not be available during this period. |  
 | 6 Sep, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 6 Sep, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 
