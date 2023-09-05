@@ -69,8 +69,44 @@
   margin: 0 0 0 0;
 }
 
+#main-content a.epjs-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12.5px 24px;
+    border: 1px solid #037e8a;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #037e8a;
+    font-size: 18px;
+    line-height: 27px;
+    height: 73px;
+    width: fit-content;
+    width: -moz-fit-content;
+    cursor: pointer;
+  }
+
+  #main-content a.epjs-btn:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  #main-content a.epjs-btn:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  #main-content a.epjs-btn:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
 
 </style>
+
 <div class="campaigncard__container">
   <div class="campaigncard__contents">
     <div class="campaigncard__img">
@@ -84,7 +120,7 @@
     </div>
   </div>
   <div class="campaigncard__CTA">
-    {% include epjs-btn.html href="{{include.url}}" text="Login to Sign Up" target="_blank" %}
+    a href="{{include.url}}" class="epjs-btn">Login to Sign Up</a>
   </div>
 </div>
 
