@@ -5,9 +5,9 @@ permalink: /intellectual-property/ip-grow/gateway-law-corporation/
 
 ## Gateway Law Corporation
 
-Gateway law is a regional legal practice with particular strengths in the areas of intellectual property advisory and enforcement, franchising, technology and communications, and media and entertainment law. In addition, Gateway also provides services in the traditional areas of general litigation and dispute resolution, real estate advisory, corporate and commercial law, employment law, medical law, and family and matrimonial law. 
+Gateway Law Corporation is a Singapore-based IP law practice with an Asia-wide focus. It has an extensive team of IP specialists which includes patent, design and trade mark agents.  It focuses on trade marks, copyrights and patents, among other areas. It represents an impressive clientele comprising of local, regional and international businesses. It is noted for its expertise in commercialisation strategies, IP protection and portfolio management.
 
-We serve a varied clientele in a wide range of industries and businesses. We work with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies and regulatory bodies.
+Gateway works with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies, and regulatory bodies.
 
 <b>Year established in Singapore:</b> 2006
 
@@ -209,4 +209,4 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <p>
 <a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

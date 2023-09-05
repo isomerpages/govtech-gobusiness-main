@@ -94,4 +94,4 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 <p>
 <a class='btn' href='https://form.gov.sg/64474f4686f6760012553eda' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

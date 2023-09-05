@@ -51,6 +51,6 @@ panels:
     links:
       - text: Haze
         href: /haze/?src=eservices
-        is_new: true
+        is_new: false
       - text: Covid-19
         href: /covid/?src=eservices

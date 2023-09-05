@@ -140,4 +140,4 @@ We are a specialist intellectual property law firm formed in 1993 and based in S
 <p>
 <a class='btn' href='https://form.gov.sg/642b843bda710f00125ae2d3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
