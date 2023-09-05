@@ -10,6 +10,9 @@ third_nav_title: SkillsFuture for Enterprise
 
 SkillsFuture is a national movement to empower individuals and enterprises in developing skills to achieve their fullest potential, regardless of the starting point. For enterprises, there is a suite of SkillsFuture initiatives to support the skills development of the workforce to keep up and advance with the business as it transforms and grows.
 
+{% include banner-training-sj.html title="Stay up to date on your team's training progress" body="Sign up for our upcoming feature, Enterprise Training Insights, and help us understand what data you want to see about your team's training." url = "https://dashboard.gobusiness.gov.sg/login?&utm_source=SFEhome&utm_medium=button&redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner" %}
+
+
 {% include overview.html anchorlinks=site.data.ov006-skillsfuture-overview %}
 ----
 <a name="skills_training_benefits"></a>
