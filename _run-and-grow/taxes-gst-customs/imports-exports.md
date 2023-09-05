@@ -12,7 +12,7 @@ If your business entity wishes to engage in import, export and/or transhipment a
 
 ---
 
-### Step 1: Activate your Custom Account via TradeNet
+<h3>Step 1: Activate your Custom Account via TradeNet</h3>
 
 <table>
     <tr>
@@ -21,12 +21,12 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </tr>
     <tr>
     <td><a href='https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/activate-customs-account/' target='_blank'>Activate Customs Account</a></td>
-    <td>A registered business entity that intents to engage in import or export activities in Singapore, or obtain import, export and transhipment permits or certificates will need to activate its Customs Account
+    <td>A registered business entity that intents to engage in import or export activities in Singapore, or obtain import, export and transhipment permits or certificates will need to activate its Customs Account.
     </td>
     </tr>
 </table>
 
-### Step 2: Determine if your goods are controlled
+<h3>Step 2: Determine if your goods are controlled</h3>
 
 <table>
     <tr>
@@ -35,7 +35,7 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </tr>
     <tr>
     <td><a href='https://www.customs.gov.sg/businesses/harmonised-system-classification-of-goods/understanding-hs-classification/' target='_blank'>Understanding HS Classification</a></td>
-    <td>All goods for import, export, and transhipment require a Harmonised System (HS) code, which is used by Customs Authorities for international trade. Find out more about HS and its classification
+    <td>All goods for import, export, and transhipment require a Harmonised System (HS) code, which is used by Customs Authorities for international trade. Find out more about HS and its classification.
     </td>
     </tr>
     <tr>
@@ -55,13 +55,13 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </tr>
 </table>
 
-### Step 3: Use the GoBusiness e-Advisers to determine and apply for the licences you need 
+<h3>Step 3: Use the GoBusiness e-Advisers to determine and apply for the licences you need</h3>
 
 The import, export, or transhipment of goods may require licences or approvals. Use the GoBusiness Logistics e-Advisers to determine the licences you may need.
 
 {% include accordion.html accordions=site.data.acc113-taxes-and-customs.accordion %}
 
-### Step 4: Apply to be a Declaring Agent (DA) or appoint a DA to apply for your consignment-based licences/permits
+<h3>Step 4: Apply to be a Declaring Agent (DA) or appoint a DA to apply for your consignment-based licences/permits</h3>
 
 <table>
     <tr>
