@@ -80,5 +80,7 @@ The import, export, or transhipment of goods may require licences or approvals. 
     </tr>
 </table>
 
+{% include banner-taxes-survey.html %}
+
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
