@@ -39,17 +39,17 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </td>
     </tr>
     <tr>
-    <td><a href='https://form.gov.sg/5cac414bd5e3800010c7ac68' target='_blank'>Understanding HS Classification</a></td>
+    <td><a href='https://form.gov.sg/5cac414bd5e3800010c7ac68' target='_blank'>Application for Customs Ruling on HS Classification of Goods</a></td>
     <td>If you are unsure about your HS classification of goods and would like to seek advice from Customs, you can submit an application for a fee of S$75.
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>Understanding HS Classification</a></td>
+    <td><a href='https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchInitHSCA.do' target='_blank'>HS/CA Product Code Search Engine</a></td>
     <td>Certain goods are controlled and require additional authorisation from Competent Authorities (CAs). Search your HS code and find out if your goods are controlled.
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-e-ca-helpdesk-list.pdf' target='_blank'>Understanding HS Classification</a></td>
+    <td><a href='https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-e-ca-helpdesk-list.pdf' target='_blank'>Contact List for Competent Authorities</a></td>
     <td>If your goods are controlled, contact the relevant CAs to learn more.
     </td>
     </tr>
@@ -69,12 +69,12 @@ The import, export, or transhipment of goods may require licences or approvals. 
     <th style='width: auto;'><b>Description</b></th>
     </tr>
     <tr>
-    <td><a href='https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account/' target='_blank'>Activate Customs Account</a></td>
+    <td><a href='https://www.customs.gov.sg/businesses/new-traders-and-registration-services/registration-services/apply-update-renew-terminate-declaring-agent-account-and-declarant/declaring-agent-account/' target='_blank'>Requirements for applying to be a Declaring Agent (DA)</a></td>
     <td>Information on how to apply for or renew a Declaring Agent Account.
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.tradenet.gov.sg/tradenet/login.jsp' target='_blank'>Activate Customs Account</a></td>
+    <td><a href='https://www.tradenet.gov.sg/tradenet/login.jsp' target='_blank'>TradeNet</a></td>
     <td>Register as a Declaring Agent or Appoint a Declaring Agent to apply for Customs Permit, licences or certificates on TradeNet.
     </td>
     </tr>
