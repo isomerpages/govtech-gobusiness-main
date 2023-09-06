@@ -1,15 +1,15 @@
 ---
-title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
+title: 'Job Redesign Consultancy - CET Global Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution239
 ---
 
-## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
+## Job Redesign Consultancy - CET Global Pte Ltd
 
 ## Overview
 
 **Description**
 
-Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,20 @@ Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full v
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
-<td style='padding: 10px;'>$16,300.00</td>
-<td style='padding: 10px;'>$14,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$27,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

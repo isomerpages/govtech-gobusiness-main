@@ -1,15 +1,15 @@
 ---
-title: 'OS Store E-Commerce'
+title: 'eCommerce Masterplan Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1542
 ---
 
-## OS Store E-Commerce
+## eCommerce Masterplan Version 2.0
 
 ## Overview
 
 **Description**
 
-OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
+Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 
 ## Vendor Information
 
- Company name:Orfeostory Pte Ltd <br>Web URL: https://www.orfeostory.com/psg/<br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com
+ Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

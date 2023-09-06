@@ -1,46 +1,32 @@
 ---
-title: 'ZETTAPPS Finance & Order Processing Version 4.5'
+title: 'Planetary or Spiral Mixer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1109
 ---
 
-## ZETTAPPS Finance & Order Processing Version 4.5
+## Planetary or Spiral Mixer
 
 ## Overview
 
 **Description**
 
-ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
+
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
+
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
-<td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'>$18,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>- Minimum bowl capacity of 20 liters<br>- Minimally 3 speed options for Planetary Mixer<br>- Minimally 2 speed options for Spiral Mixer <br>- Speeds range from 100 to 500 rpm<br>- Comes with bowl and minimum of 2 out of 3 tools (Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable)<br><br><br></td>
 </tr>
 </table>
 
@@ -48,10 +34,6 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
