@@ -213,4 +213,4 @@ Allen & Gledhill is a regional law firm which has been providing legal services 
 <p>
 <a class='btn' href='https://form.gov.sg/642b86d1d88e0800129def29' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
