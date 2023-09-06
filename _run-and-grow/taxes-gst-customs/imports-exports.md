@@ -49,7 +49,7 @@ If your business entity wishes to engage in import, export and/or transhipment a
     </td>
     </tr>
     <tr>
-    <td><a href='https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-e-ca-helpdesk-list.pdf' target='_blank'>Contact List for Competent Authorities</a></td>
+    <td><a href='https://www.customs.gov.sg/files/businesses/PSB/TN%20Team/annex-e-ca-helpdesk-list.pdf' target='_blank'>Contact List for Competent Authorities (PDF, 142 KB)</a></td>
     <td>If your goods are controlled, contact the relevant CAs to learn more.
     </td>
     </tr>
