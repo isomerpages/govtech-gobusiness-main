@@ -9,7 +9,7 @@ Trusted since 1861, Dentons Rodyk is one of Singapore's largest and oldest law f
 
 Our presence in Southeast Asia is growing. Building on our regional expertise and service offerings, we launched our office in Myanmar, Dentons Myanmar Limited, in 2017, which makes us the largest international law firm to set up in Yangon. Despite being the fastest growing economy in Southeast Asia in the last two years, Myanmar is currently still underserved by global law firms. Our entry is timely and an important part of our regional strategy. Our team in Yangon comprises both highly experienced international and local lawyers, who have a deep understanding of the country's regulatory and business environment.
 
-<b>Year established in Singapore:</b> 2007
+<b>Year established in Singapore:</b> 1861
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
 
@@ -237,4 +237,4 @@ Our presence in Southeast Asia is growing. Building on our regional expertise an
 <p>
 <a class='btn' href='https://form.gov.sg/643f4f02f643c40012dae38b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

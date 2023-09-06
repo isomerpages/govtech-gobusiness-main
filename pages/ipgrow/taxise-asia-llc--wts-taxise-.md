@@ -17,7 +17,7 @@ We are the sole Singapore member firm of WTS Global, an international tax networ
 
 <b>Address in Singapore:</b> 61 Robinson Road #17-01A, Singapore 068893
 
-<b>Website:</b> <a href='https://www.taxiseAsia.com'>https://www.taxiseAsia.com</a>
+<b>Website:</b> <a href='https://TaxiseAsia.com/'>https://TaxiseAsia.com/</a>
 
 <a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>
 

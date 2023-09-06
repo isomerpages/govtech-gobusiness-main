@@ -228,4 +228,4 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 <p>
 <a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

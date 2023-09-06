@@ -131,4 +131,4 @@ permalink: /intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-l
 <p>
 <a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

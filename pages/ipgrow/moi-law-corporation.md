@@ -150,4 +150,4 @@ Read more about our services and expertise at: https://www.moi.legal
 <p>
 <a class='btn' href='https://form.gov.sg/64052e6d72c1ed0012f3609a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
