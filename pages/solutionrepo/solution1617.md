@@ -1,15 +1,15 @@
 ---
-title: 'ABSS(MYOB) Premier'
+title: 'Bitdefender GravityZone Business Security Premium'
 permalink: /productivity-solutions-grant/solutionrepo/solution1617
 ---
 
-## ABSS(MYOB) Premier
+## Bitdefender GravityZone Business Security Premium
 
 ## Overview
 
 **Description**
 
-E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,39 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Software (1 User)</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Licenses</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part1.pdf
+                                                                                 ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Software & Training (1 User)</td>
-<td style='padding: 10px;'>$2,623.00</td>
-<td style='padding: 10px;'>$2,303.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Licenses</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Software (3 Users)</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Licenses</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Software & Training (3 Users)</td>
-<td style='padding: 10px;'>$3,937.00</td>
-<td style='padding: 10px;'>$3,617.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Licenses</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Software, Remote Access & Training (3 Users)</td>
-<td style='padding: 10px;'>$4,956.00</td>
-<td style='padding: 10px;'>$4,636.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 Licenses</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 
 ## Vendor Information
 
- Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
+ Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
