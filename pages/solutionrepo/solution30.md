@@ -1,15 +1,16 @@
 ---
-title: 'ABA - Quickbooks Online'
+title: 'BricsCAD A.I Design Technologies'
 permalink: /productivity-solutions-grant/solutionrepo/solution30
 ---
 
-## ABA - Quickbooks Online
+## BricsCAD A.I Design Technologies
 
 ## Overview
 
 **Description**
 
-Abundant Accounting Pte Ltd is a leading Pro-Adviser for Quickbooks Online in Singapore and the Company has helped more than 400 businesses to train, migrate and implement Quickbooks Online Accounting solution successfully. Many businesses have reaped the high-quality professional skills provided thus far. Abundant Accounting is a technology, accounting and auditing company which helps clients to enhance their sales and financial reporting using Quickbooks cloud accounting system by Intuit.
+BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
+BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,41 @@ Abundant Accounting Pte Ltd is a leading Pro-Adviser for Quickbooks Online in Si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription </td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Single User License</td>
+<td style='padding: 10px;'>$3,530.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales and Accounting Module Set Up </td>
-<td style='padding: 10px;'>$3,260.00</td>
-<td style='padding: 10px;'>$3,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
+<td style='padding: 10px;'>$4,410.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales, Accounting and Inventory Module</td>
-<td style='padding: 10px;'>$4,660.00</td>
-<td style='padding: 10px;'>$4,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Network License</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup with detailed migration</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup and full data conversion</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
+<td style='padding: 10px;'>$6,650.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 97762954 <br>Contact Email: sales@aba.com.sg 
+ Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

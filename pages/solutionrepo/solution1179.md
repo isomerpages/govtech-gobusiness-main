@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation & Dosing System'
+title: 'Pest/ Disease Monitoring and Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1179
 ---
 
-## Automated Irrigation & Dosing System
+## Pest/ Disease Monitoring and Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

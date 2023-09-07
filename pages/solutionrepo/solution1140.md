@@ -1,17 +1,15 @@
 ---
-title: 'Augmented Reality Welding Training Solution'
+title: 'Automated Sorter/ Grader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1140
 ---
 
-## Augmented Reality Welding Training Solution
+## Automated Sorter/ Grader
 
 ## Overview
 
 **Description**
 
-This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
-
-Cost of equipment capped at $37,500 per unit
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

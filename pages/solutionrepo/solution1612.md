@@ -1,15 +1,15 @@
 ---
-title: 'CFOsg XERO Cloud Accounting'
+title: 'SAGE 300'
 permalink: /productivity-solutions-grant/solutionrepo/solution1612
 ---
 
-## CFOsg XERO Cloud Accounting
+## SAGE 300
 
 ## Overview
 
 **Description**
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Xero is an universal accounting software that provides a complete list of accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 2 Users)</td>
+<td style='padding: 10px;'>$12,319.00</td>
+<td style='padding: 10px;'>$11,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Advanced Edition - 3 Users)</td>
+<td style='padding: 10px;'>$15,892.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
-<td style='padding: 10px;'>$3,964.00</td>
-<td style='padding: 10px;'>$3,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Advanced Edition - 5 Users)</td>
+<td style='padding: 10px;'>$25,411.00</td>
+<td style='padding: 10px;'>$21,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,664.00</td>
-<td style='padding: 10px;'>$4,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 10 Users)</td>
+<td style='padding: 10px;'>$34,343.50</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,984.00</td>
-<td style='padding: 10px;'>$5,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cloud_Accounting_CFOsg_XERO_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 15 Users)</td>
+<td style='padding: 10px;'>$42,476.00</td>
+<td style='padding: 10px;'>$22,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
+ Company Name: SEG IT Services Pte Ltd<br>Web URL: http:// www.segit.com.sg <br>Contact Hotline: 64830950 <br>Contact Email: sales@segit.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
