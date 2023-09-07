@@ -1,15 +1,16 @@
 ---
-title: 'Really Platform for PMs and FMs Version 2.4'
+title: 'Fleet Safety Management System Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution892
 ---
 
-## Really Platform for PMs and FMs Version 2.4
+## Fleet Safety Management System Version 7
 
 ## Overview
 
 **Description**
 
-Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
+SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
+ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,10 @@ Really provides the state-of-the-art platform that helps property & facilities m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Individual Property or Project Packaged Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</td>
-<td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</td>
-<td style='padding: 10px;'>$24,800.00</td>
-<td style='padding: 10px;'>$24,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</td>
-<td style='padding: 10px;'>$34,600.00</td>
-<td style='padding: 10px;'>$34,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</td>
-<td style='padding: 10px;'>$49,200.00</td>
-<td style='padding: 10px;'>$49,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +37,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ## Vendor Information
 
- Web URL: https://www.really.sg/project-management-features/ <br><br>Contact Hotline: 69507563 <br><br>Contact Email: info@really.sg <br><br>
+ Company Name: SmartComm Electronics Pte Ltd<br>Web URL: www.smartcomm.biz <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,15 @@
 ---
-title: 'Autonomous Material Transportation Robot'
+title: 'Fish fry quarantine tank system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 
-## Autonomous Material Transportation Robot
+## Fish fry quarantine tank system
 
 ## Overview
 
 **Description**
 
-The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
-
-Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
-
-Cost of equipment capped at $37,500 per unit. 
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ## Solution Packages Option(s)
 
@@ -24,9 +20,9 @@ Cost of equipment capped at $37,500 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -1,15 +1,16 @@
 ---
-title: 'Legal Tech Platform (LTP) Pro'
+title: 'Cloudable Data Protection Suite-Powered by Acronis'
 permalink: /productivity-solutions-grant/solutionrepo/solution257
 ---
 
-## Legal Tech Platform (LTP) Pro
+## Cloudable Data Protection Suite-Powered by Acronis
 
 ## Overview
 
 **Description**
 
-The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's technology partner, that provides an easier way for legal teams to share documents, communicate securely, manage teams, and put knowledge to work. Connect with other tools and systems used by lawyers in Singapore on an encrypted platform that is sector-secure, and SOC 2 compliant. Get and keep your team on the same page with an intuitive and enjoyable to use interface that runs on phones and browsers.
+Cloudable Data Protection Suite-Advanced Security and Advanced Management is an all-in-one cyber protection solution that integrates, malware prevention, security controls, remote assistance, monitoring, and reporting.
+It protects your entire business through a layered protection approach, an innovative combination of proactive and active data protection technologies such as patch management, vulnerability assessment, behavior-based detection, and self-protection
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 3 Users</td>
-<td style='padding: 10px;'>$2,484.00</td>
-<td style='padding: 10px;'>$2,484.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package A- Advanced Security + Advanced Management 10 Licences</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 6 Users</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package B- Advanced Security + Advanced Management 25 Licences</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'>$2,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 10 Users</td>
-<td style='padding: 10px;'>$8,280.00</td>
-<td style='padding: 10px;'>$8,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package C- Advanced Security + Advanced Management 50 Licences</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 15 Users</td>
-<td style='padding: 10px;'>$12,420.00</td>
-<td style='padding: 10px;'>$12,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package D- Advanced Security + Advanced Management 100 Licences</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 20 Users</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloudable Data Protection Suite-Powered by Acronis - Package E- Advanced Security + Advanced Management 200 Licences</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cloudable_20220050_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 
 ## Vendor Information
 
- Company name:C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: 658001207076 <br>Contact Email: singapore@lupl.com 
+ Company Name: Cloudable Solutions Pte Ltd<br>Web URL: www.cloudable.com.sg <br><br>Contact Hotline: 83888759 <br><br>Contact Email: info@cloudable.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

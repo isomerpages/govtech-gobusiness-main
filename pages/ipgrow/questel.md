@@ -21,7 +21,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 
 <b>Website:</b> <a href='https://www.questel.com/'>https://www.questel.com/</a>
 
-<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -192,7 +192,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 14+ years
 - Location: Geneva, Switzerland
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
-- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
+- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters - IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/philippe-vigand-9708391" target="_blank" rel="noopener">https://www.linkedin.com/in/philippe-vigand-9708391</a>
 
 **Benoit Chevalier**
@@ -204,7 +204,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chevalierbenoit" target="_blank" rel="noopener">https://www.linkedin.com/in/chevalierbenoit</a>
 
-**Cyril Mavr&eacute;**
+**Cyril Mavr&eacute;;**
 
 - Job Title: Director of Engineering Sciences Business Unit
 - Years of Experience: 10+ years
@@ -228,7 +228,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 7+ years
 - Location: Greater Lyon, France
 - IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
+- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&uuml;nchen University of Applied Sciences- Masters in Business Administration 
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vivianechilton" target="_blank" rel="noopener">https://www.linkedin.com/in/vivianechilton</a>
 
 **Jeferson Staelens**
@@ -239,6 +239,8 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, Innovation consultancy, IP Portfolio Management, IP Strategy Consulting
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/jeferson-staelens" target="_blank" rel="noopener">https://sg.linkedin.com/in/jeferson-staelens</a>
 
-
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

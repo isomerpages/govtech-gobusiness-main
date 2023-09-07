@@ -23,7 +23,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. 
 
-<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -161,7 +161,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Australia</li><li style='line-height: 27px; margin: 0px 0px !important'>Partner Office(s): North Carolina</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): New Zealand, Australia, North Carolina</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -291,4 +291,7 @@ CEO & Tech Missionary, OTSAW.
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/joel-hanrahan" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/joel-hanrahan</a>
 
 ---
+<p>
+<a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>
+</p>
 Profile last updated on 12 June 2023

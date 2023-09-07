@@ -80,10 +80,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Angels Business Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution145' target='_blank'>Applivon - Odoo</a><br></td>
-<td>Applivon Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution149' target='_blank'>SQL Account Version 5</a><br></td>
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
@@ -100,172 +96,176 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Beaufort Tax Consultants Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution222' target='_blank'>Xero by Book&Entries</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution218' target='_blank'>Xero by Book&Entries</a><br></td>
 <td>Book&Entries Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution232' target='_blank'>Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution228' target='_blank'>Xero</a><br></td>
 <td>Budget Accounts Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution266' target='_blank'>XERO</a><br></td>
-<td>Clooud Consulting LLP</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution352' target='_blank'>DNS - Xero Cloud Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution333' target='_blank'>DNS - Xero Cloud Accounting Software</a><br></td>
 <td>D Next Stop Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution387' target='_blank'>Xero Accounting System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution366' target='_blank'>Xero Accounting System</a><br></td>
 <td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution441' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution418' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
 <td>Everyday Corporate Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution449' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution426' target='_blank'>FidCorp Xero Accounting Software</a><br></td>
 <td>FidCorp Services Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution539' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution506' target='_blank'>AUTOCOUNT ACCOUNTING SOFTWARE Version 2</a><br></td>
 <td>I SOFT BUSINESS SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution566' target='_blank'>INFO-TECH Cloud Accounting Software Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution530' target='_blank'>INFO-TECH Cloud Accounting Software Version 1.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution637' target='_blank'>Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution597' target='_blank'>Xero</a><br></td>
 <td>KloudEx Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution695' target='_blank'>MMS - Xero Accounting Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution647' target='_blank'>MMS - Xero Accounting Solution</a><br></td>
 <td>METROPOLITAN MANAGEMENT SERVICES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution713' target='_blank'>ASURIX</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution660' target='_blank'>ASURIX</a><br></td>
 <td>NET SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution760' target='_blank'>North Trust Xero Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution698' target='_blank'>North Trust Xero Solution</a><br></td>
 <td>NORTH TRUST PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution839' target='_blank'>Profectant Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution773' target='_blank'>Profectant Xero</a><br></td>
 <td>PROFECTANT CORPORATE SERVICES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution847' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution781' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
 <td>Psoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution875' target='_blank'>Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution802' target='_blank'>Xero</a><br></td>
 <td>RDC CORPORATE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution897' target='_blank'>Realtimme Cloud Version 3.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution819' target='_blank'>Realtimme Cloud Version 3.0.0</a><br></td>
 <td>Realtimme IT Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution941' target='_blank'>Royal Management Services XERO ACCOUNTING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution853' target='_blank'>Royal Management Services XERO ACCOUNTING</a><br></td>
 <td>ROYAL MANAGEMENT SERVICES (S) PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1016' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution918' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1069' target='_blank'>XERO Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution971' target='_blank'>XERO Accounting Software</a><br></td>
 <td>TIMCOLE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1089' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution991' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1094' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution996' target='_blank'>TNB Intuit Quickbooks Online</a><br></td>
 <td>TNB GLOBAL OUTSOURCE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1107' target='_blank'>U Ventures XERO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>U Ventures XERO</a><br></td>
 <td>U Ventures Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1108' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1010' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
 <td>USER BASIC SOFTWARE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1109' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1011' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
 <td>User Basic Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1115' target='_blank'>QuickBooks Online Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1017' target='_blank'>QuickBooks Online Version 1</a><br></td>
 <td>Value Consultancy (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1141' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1035' target='_blank'>XERO CLOUD ACCOUNTING SOFTWARE</a><br></td>
 <td>W.L.P PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1189' target='_blank'>Counto DIY Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1083' target='_blank'>Counto DIY Version 1</a><br></td>
 <td>Xion.AI Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1209' target='_blank'>Quickbooks Online Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1100' target='_blank'>Quickbooks Online Accounting Software</a><br></td>
 <td>Zenit Accountancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1346' target='_blank'>Quickbook Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1235' target='_blank'>Quickbook Online</a><br></td>
 <td>IRIS CORPORATE SERVICES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1352' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1241' target='_blank'>Xero Cloud Accounting Solutions</a><br></td>
 <td>Singapore Corporate Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1393' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1277' target='_blank'>ASHOKATREE: Xero Cloud Accounting</a><br></td>
 <td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1454' target='_blank'>Harvest Accounting - Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1338' target='_blank'>Harvest Accounting - Xero</a><br></td>
 <td>Harvest Accounting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1459' target='_blank'>AutoCount Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1343' target='_blank'>AutoCount Accounting Software</a><br></td>
 <td>Ingenious Business Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1486' target='_blank'>Autocount Accounting System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1370' target='_blank'>Autocount Accounting System</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1493' target='_blank'>Daisy XERO Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1377' target='_blank'>Daisy XERO Accounting Software</a><br></td>
 <td>Daisy Consultants Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1566' target='_blank'>NMTODOO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1450' target='_blank'>NMTODOO</a><br></td>
 <td>Neu Media Technology LLP</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1730' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1597' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1739' target='_blank'>AutoCount Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1602' target='_blank'>AutoCount Accounting</a><br></td>
 <td>Autocount (S) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1749' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1612' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
 <td>Cloud Accounting & Consultancy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>ABSS(MYOB) Premier</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1617' target='_blank'>ABSS(MYOB) Premier</a><br></td>
 <td>E-Click Solutions</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1767' target='_blank'>Moneyworks Version 9</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1627' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1733' target='_blank'>Bamboo Sea: Xero</a><br></td>
+<td>Bamboo Sea Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1772' target='_blank'>Xero</a><br></td>
+<td>Clooud Consulting LLP</td>
 </tr>
 </table>
 

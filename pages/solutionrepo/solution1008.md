@@ -1,15 +1,15 @@
 ---
-title: 'Swipetask PRO'
+title: 'Automotive Tracking System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1008
 ---
 
-## Swipetask PRO
+## Automotive Tracking System Version 1
 
 ## Overview
 
 **Description**
 
-Swipetask is a Workforce & Task-management solution for optimization, productivity-enhancement and advanced reporting for Distributed workforces. The solutions offers clear, fast, real-time Notifications, Attendance taking, Quality monitoring, micro-learning & ability to act on input from IoT sensors - all in one system. Reports from the system are 'instant' and allow for analysis. Swipetask is designed for many Use-cases incl. Professional Cleaning-Services & Integrated Facility-Management. 
+Track 365 Automotive Tracking System is a cloud based telematics solution.  The solution allows businesses to monitor the location of a single vehicle or a group of vehicles in real-time, with their positions automatically updating onto a map. The solution is totally web-based, users can access their information wherever and whenever they choose. Whether it's on their phone whilst out and about, or on their PC in the office.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Swipetask is a Workforce & Task-management solution for optimization, productivi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Standard Workforce & Task-Management solution</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'>$9,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Workforce & Task-Management solution incl. SensorTOILET</td>
-<td style='padding: 10px;'>$17,196.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'>$36,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask Facility-OPS Plus</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'>$42,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Swipetask_20210229_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swipetask PRO - Swipetask Plus ERP</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'>$15,068.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Swipetask_Annex_3_CR_wef_19_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per Vehicle</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Track365_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Swipetask Pte Ltd<br>Web URL: www.swipetask.com <br>Contact Hotline: +6596391259 <br>Contact Email: info@swipetask.com <br>
+ Company name:Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

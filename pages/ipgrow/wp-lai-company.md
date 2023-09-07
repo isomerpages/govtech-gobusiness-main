@@ -13,11 +13,11 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 165 BUKIT MERAH CENTRAL #04-3681, SINGAPORE 150165
+<b>Address in Singapore:</b> 165 Bukit Merah Central #04-3681, Singapore 150165
 
 <b>Website:</b> <a href='https://www.wenpingsingapore.com'>https://www.wenpingsingapore.com</a>
 
-<a class='btn' href='https://form.gov.sg/642b74c9f5467b001273aa78' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642b74c9f5467b001273aa78' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -120,4 +120,7 @@ The Firm is associated with the Wenping Group of Intellectual Property Firms, wi
 
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/642b74c9f5467b001273aa78' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

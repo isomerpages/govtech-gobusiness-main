@@ -1,22 +1,15 @@
 ---
-title: 'EPOS Enhanced POS Version 2.0'
+title: 'DM Firstcom Digital Marketing Programme'
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
-## EPOS Enhanced POS Version 2.0
+## DM Firstcom Digital Marketing Programme
 
 ## Overview
 
 **Description**
 
-EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-- Simple and easy to use for cashiers. 
-- Full-featured CRM
-- Powerful Promotions engine
-- Inventory management
-- Ecommerce integration 
-- Accounting integration 
-- E-payments, QR payment, credit card, NETS
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! 
 
 ## Solution Packages Option(s)
 
@@ -30,38 +23,10 @@ EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_23.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_45.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 - Tablet)</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_6.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -71,7 +36,7 @@ EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the
 
 ## Vendor Information
 
- Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br><br>Contact Hotline: 68718833 <br><br>Contact Email: sales@epos.com.sg <br><br>
+ Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

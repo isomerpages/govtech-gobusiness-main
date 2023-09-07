@@ -10,15 +10,15 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/bd56a06c-eb24-4849-b364-a6ce76a0f536" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/1b638a62-da92-4c2d-bae5-59c90a3398fd" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>For receiving, collecting, sending, dispatching and delivering local express letters or international express letters or both.</p>
+<p>For providing services such as conveying, receiving, collecting, sending, dispatching or delivering local or international of express letter weighing up to 500 grams.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: $200.00</p>
+<p><strong>Fee</strong><br />Licence Fee: One-time payment of $200.00. GST is not applicable.</p>
 
 <H3>Documents Needed</H3>
 

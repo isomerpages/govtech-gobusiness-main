@@ -5,9 +5,9 @@ permalink: /intellectual-property/ip-grow/gateway-law-corporation/
 
 ## Gateway Law Corporation
 
-Gateway law is a regional legal practice with particular strengths in the areas of intellectual property advisory and enforcement, franchising, technology and communications, and media and entertainment law. In addition, Gateway also provides services in the traditional areas of general litigation and dispute resolution, real estate advisory, corporate and commercial law, employment law, medical law, and family and matrimonial law. 
+Gateway Law Corporation is a Singapore-based IP law practice with an Asia-wide focus. It has an extensive team of IP specialists which includes patent, design and trade mark agents.  It focuses on trade marks, copyrights and patents, among other areas. It represents an impressive clientele comprising of local, regional and international businesses. It is noted for its expertise in commercialisation strategies, IP protection and portfolio management.
 
-We serve a varied clientele in a wide range of industries and businesses. We work with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies and regulatory bodies.
+Gateway works with individuals, entrepreneurs, small and medium enterprises, multinational corporations, institutions of higher learning, financial institutions, social enterprise organisations, government agencies, and regulatory bodies.
 
 <b>Year established in Singapore:</b> 2006
 
@@ -19,7 +19,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 
 <b>Website:</b> <a href='https://gateway-law.com/'>https://gateway-law.com/</a>
 
-<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -74,7 +74,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  3,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -206,4 +206,7 @@ We serve a varied clientele in a wide range of industries and businesses. We wor
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/geneva-k" target="_blank" rel="noopener">https://www.linkedin.com/in/geneva-k</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6422622f4422e900124f2b0a' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

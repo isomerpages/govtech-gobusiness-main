@@ -25,7 +25,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 <b>Offer:</b> We can provide 30 minutes of a complimentary first consultation at no charge, exclusive to users of GoBusiness IP Grow.
 
-<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -139,7 +139,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 
 **James Tan**
 
-- Job Title: Associate
+- Job Title: Senior Associate
 - Years of Experience: 2 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, Dispute Resolution
@@ -147,4 +147,7 @@ Our firm has been recognised in The Legal 500 2022 for its Technology, Media and
 - URL of LinkedIn/Company Profile: <a href="https://www.covenantchambers.com/james-tan" target="_blank" rel="noopener">https://www.covenantchambers.com/james-tan</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6433d5e371de0a0011808971' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

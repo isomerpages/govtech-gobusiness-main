@@ -19,7 +19,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <b>Website:</b> <a href='https://www.maxlewis.com.sg'>https://www.maxlewis.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -104,9 +104,12 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 - Years of Experience: 27 years
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Certified Patent Valuation Analyst, Certified Valuation Analyst from National Association of Certified Valuators Analysts (NACVA), Chartered Valuer and Appraiser from Institute of Valuers and Appraisers, Singapore (IVAS), International Certified Valuation Specialist from International Association of Certified Valuation Specialists (IACVS), Accredited Tax Advisor (Income tax and GST) from SCTP 
+- Certifications/Qualifications: Certified Patent Valuation Analyst, Certified Valuation Analyst from National Association of Certified Valuators Analysts (NACVA), Chartered Valuer and Appraiser from Institute of Valuers and Appraisers, Singapore (IVAS), International Certified Valuation Specialist from International Association of Certified Valuation Specialists (IACVS), Certified Business Valuer of the Australian Valuers Institute (AVI), Fellow of the Society of Share and Business Valuers (UK), Accredited Member (AM) of the American Society of Appraisers (ASA), Chartered Tax Adviser (Australia),  Accredited Tax Advisor (Income tax and GST) from SCTP
 - Awards/Accolades: Best Business Valuation firm, Best Business Valuation Consultancy, Best Intellectual Property Valuer
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/albert-tan-Tiong-Heng" target="_blank" rel="noopener">https://linkedin.com/in/albert-tan-Tiong-Heng</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023
