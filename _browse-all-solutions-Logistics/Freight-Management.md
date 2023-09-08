@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution584' target='_blank'>Freight Master Version 8.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution530' target='_blank'>Freight Master Version 8.2</a><br></td>
 <td>Innosys Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution632' target='_blank'>iLOGON (iFMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution578' target='_blank'>iLOGON (iFMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1010' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution898' target='_blank'>SYSFREIGHT Version 10.01</a><br></td>
 <td>SYSMAGIC SOFTWARE SOLUTION PTE LTD</td>
 </tr>
 </table>

@@ -1,39 +1,33 @@
 ---
-title: 'T-GUARD'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1096
 ---
 
-## T-GUARD
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-T-Guard is an enhanced safe driving management system that encompasses a collision avoidance system. It has the capability to prevent accidents due to potential causes of abnormal driver behaviour such as fatigue, smoking, distraction, yawning, and provides closed loop interventions to prevent accidents. The solution provides SMEs with greater fleet insights to improve business productivity and safety by analyzing driver behavior with score card to instill safe driving culture.
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard (Per vehicle)</td>
-<td style='padding: 10px;'>$5,538.00</td>
-<td style='padding: 10px;'>$4,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard Enhance (Per vehicle)</td>
-<td style='padding: 10px;'>$5,657.00</td>
-<td style='padding: 10px;'>$4,390.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
 </tr>
 </table>
 
@@ -41,10 +35,6 @@ T-Guard is an enhanced safe driving management system that encompasses a collisi
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 94798687 <br>Contact Email: customerservice@tnts.com.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

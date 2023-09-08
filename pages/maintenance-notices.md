@@ -11,7 +11,10 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 | ------  |------------------| 
-| 01 Aug, 8pm - 02 Aug, 12am | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance from 1 Aug 2023 8pm to 2 Aug 2023 12 am. Users will not be able to login during this period. We apologise for any inconvenience caused. |
+| 7 Sep, 8pm - 8 Sep, 1am<br>8 Sep, 8pm - 9 Sep, 8am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. | 
+| 8 Sep, 10pm - 3am | **Bizfile+** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period | 
+| 8 Sep, 10pm - 9 Sep, 8am<br>9 Sep, 10pm - 10 Sep, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
+

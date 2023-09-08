@@ -1,15 +1,15 @@
 ---
-title: 'Xero - Full Transformation Packages for SMEs Version 2021'
+title: 'Accounts101 - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution49
 ---
 
-## Xero - Full Transformation Packages for SMEs Version 2021
+## Accounts101 - Xero
 
 ## Overview
 
 **Description**
 
-Xero is a highly popular cloud-based accounting software platform for small businesses with over 2.7 million subscribers globally. Through Xero, small business owners and their advisors have access to real-time financial data anytime, anywhere, and on any device. Acc Pro (Singapore) is committed to helping SMEs to become more efficient, productive through cloud solutions so that they do not have to worry about hassles of business processing such as accounting, HR, and training.	
+Xero is a cloud-based online accounting software that is simple to use and and be access anywhere & anytime. It allows unlimited users, invoice creation,  track cashflow, billing, bank reconciliation, expenses, inventory etc.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Xero is a highly popular cloud-based accounting software platform for small busi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - Basic</td>
-<td style='padding: 10px;'>$3,507.00</td>
-<td style='padding: 10px;'>$3,507.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$3,064.00</td>
+<td style='padding: 10px;'>$3,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - Essential</td>
-<td style='padding: 10px;'>$4,707.00</td>
-<td style='padding: 10px;'>$4,707.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset</td>
+<td style='padding: 10px;'>$3,764.00</td>
+<td style='padding: 10px;'>$3,707.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Micro Business - With Customised Training</td>
-<td style='padding: 10px;'>$6,907.00</td>
-<td style='padding: 10px;'>$6,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset & Inventory</td>
+<td style='padding: 10px;'>$5,264.00</td>
+<td style='padding: 10px;'>$5,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Small Business</td>
-<td style='padding: 10px;'>$5,907.00</td>
-<td style='padding: 10px;'>$5,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium - Full Digital Transformation Package - for Small Business - With Customised Training</td>
-<td style='padding: 10px;'>$7,507.00</td>
-<td style='padding: 10px;'>$7,507.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef12Jan23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset, Inventory & Reporting</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Xero is a highly popular cloud-based accounting software platform for small busi
 
 ## Vendor Information
 
- Company Name: Acc Pro (Singapore) Pte. Ltd.<br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
+ Company name:Accounts101 Pte Ltd<br>Web URL: https://www.accounts101.com.sg/ <br>Contact Hotline: 90844008 <br>Contact Email: admin@accounts101.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

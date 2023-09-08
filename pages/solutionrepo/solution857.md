@@ -1,15 +1,15 @@
 ---
-title: 'Firewall Security Protection'
+title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
 permalink: /productivity-solutions-grant/solutionrepo/solution857
 ---
 
-## Firewall Security Protection
+## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
 
 ## Overview
 
 **Description**
 
-Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
+Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 40F with Managed Services - P1</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 80F - P2</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection -  Rah Tech Fortinet 80F with Managed Services - P3</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F - P4</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 
 ## Vendor Information
 
- Company Name: Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
+ Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

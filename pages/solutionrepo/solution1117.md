@@ -1,57 +1,37 @@
 ---
-title: 'Digital Fund Manager Compliance powered by Palmyra'
+title: 'Laser Geometric Alignment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1117
 ---
 
-## Digital Fund Manager Compliance powered by Palmyra
+## Laser Geometric Alignment System
 
 ## Overview
 
 **Description**
 
-Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'>$85,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
-<td style='padding: 10px;'>$180,000.00</td>
-<td style='padding: 10px;'>$105,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
-<td style='padding: 10px;'>$220,000.00</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:Vermeg International Singapore Pte. Limited<br>Web URL: www.vermeg.com <br>Contact Hotline: 67201012 <br>Contact Email: nmohankumar@vermeg.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

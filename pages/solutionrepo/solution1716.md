@@ -1,15 +1,15 @@
 ---
-title: 'A2000ERP SOLUTION Version 12.X'
+title: 'DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1716
 ---
 
-## A2000ERP SOLUTION Version 12.X
+## DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2
 
 ## Overview
 
 **Description**
 
-A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
+MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM. Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ A2000ERP is a business management tool, integrated with components necessary for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP LITE System for 2 Users (Cloud Based-1yr SAAS) </td>
-<td style='padding: 10px;'>$13,040.00</td>
-<td style='padding: 10px;'>$13,040.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (6 months)</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (6 months)</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP System for 3 Users (Cloud Based-1 Yr SAAS)</td>
-<td style='padding: 10px;'>$15,560.00</td>
-<td style='padding: 10px;'>$15,546.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (6 months)</td>
+<td style='padding: 10px;'>$11,888.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP MOBILE System for 5 Users, Mobile Suite for 5-Devices (Cloud Based-1 Yr SAAS)</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$26,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP WAREHOUSE System for 5 Users, Mobile Sales/Warehouse for 10 Devices (Cloud Based-1 Yr SAAS)</td>
-<td style='padding: 10px;'>$32,200.00</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
+ Web URL: mediaone.co <br>Contact Hotline: 69657008<br>Contact Email: contact@mediaone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

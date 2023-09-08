@@ -1,15 +1,15 @@
 ---
-title: 'Autodesk AEC Collection'
+title: 'iLOGON (iTMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution577
 ---
 
-## Autodesk AEC Collection
+## iLOGON (iTMS)
 
 ## Overview
 
 **Description**
 
-Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product , AEC Collection . It consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
+KEYfields' iLOGON iTMS is an operational centric and easy to implement transport management solution, with scalable design that allow flexibility to add or enhance functionalities to meet business growing needs. The solution enhances transportation logistics to boost on-time deliveries and customer service levels. It provides real time updates, listen to jobs and manages all fleet and driver resources to ensure the right supplies is picked up and delivered on time.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to va
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 3 Years</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iTMS) -  SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/<br>Contact Hotline: 68427886<br>Contact Email: info@keyfields.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

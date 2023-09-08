@@ -1,6 +1,14 @@
 - accordion:
   letter: a
   data:
+    - title: Accountancy
+      content: |
+        
+        **IT Solution**
+        - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
+        - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Advanced Manufacturing
       content: |
         
@@ -10,13 +18,6 @@
         
         **Equipment**
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Banks
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Banks/Regulatory-Reporting-for-Banks'>Regulatory Reporting for Banks</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Building & Construction
@@ -49,11 +50,6 @@
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
       content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Engineering-Services/Workforce-Management'>Workforce Management</a>
-        - <a href='/browse-all-solutions-Engineering-Services/Project-Management-System'>Project Management System</a>
-        - <a href='/browse-all-solutions-Engineering-Services/3-in-1-ERP-solution'>3-in-1 ERP solution</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
@@ -162,31 +158,18 @@
         - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--Operations-'>Travel Management System (Operations)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Wholesale Trade
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
-        - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
-        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Wholesale-Trade/General-Wholesale-Trade-Equipment'>General Wholesale Trade Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 - accordion:
   letter: b
   data:
     - title: Human Resource Solutions
       content: |
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
     - title: ERP and Standalone solutions
       content: |
         <b>Enterprise Resource Planning (ERP) System</b><br>
         <br>
-        Please note that each business entity may only be supported for one application under the Enterprise Resource Planning (ERP) System solution category.  For example, a company who purchased an 'Accounting, CRM and Sales' solution will not be supported again if they apply for an 'Accounting and Sales' solution.<br>
         <table>
         <tr>
         <th><b>Accounting Management</b></th>
@@ -240,8 +223,7 @@
         </tr>
         </table>
         <br>
-        <b>Note:</b><br>
-        Standalone solutions may be supported on top of any ERP solution category that does not contain similar features.  For example, a company who purchased an 'Accounting, CRM and Sales' solution can be supported if they apply for a standalone 'Inventory Management' solution. However, they will not be supported if they apply for a standalone CRM solution.<br>
+        <br>
     - title: Fleet Safety and Fleet Management System
       content: |
         - <a href='/browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-Safety-Management-System'>Fleet Safety Management System</a>

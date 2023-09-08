@@ -1,15 +1,15 @@
 ---
-title: 'TessaCloud DMS'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1033
 ---
 
-## TessaCloud DMS
+## EzySalesOrder Version 3.0
 
 ## Overview
 
 **Description**
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
+Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
+<td style='padding: 10px;'>$19,780.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

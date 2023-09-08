@@ -1,15 +1,17 @@
 ---
-title: 'SAP Business One Version 10.0'
+title: 'DST E-Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1646
 ---
 
-## SAP Business One Version 10.0
+## DST E-Commerce
 
 ## Overview
 
 **Description**
 
-SAP Business One is used by small and midsize businesses worldwide. The solution is affordable to manage an entire business from sales and customer relationships to financials and operations. The solution facilitates companies to streamline processes, act on timely information and drive profitable growth. SAP Business One is designed with flexibility in mind and can be deployed on-premises or in the cloud, accessible at any time and from any place using our mobile app.
+The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
+
+WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,17 @@ SAP Business One is used by small and midsize businesses worldwide. The solution
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Cloud Subscription Users on SQL) - (Starter Package)</td>
-<td style='padding: 10px;'>$17,120.00</td>
-<td style='padding: 10px;'>$17,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Cloud Subscription Users on SQL)</td>
-<td style='padding: 10px;'>$28,260.00</td>
-<td style='padding: 10px;'>$23,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (5 Cloud Subscription Users on HANA)</td>
-<td style='padding: 10px;'>$34,060.00</td>
-<td style='padding: 10px;'>$25,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (10 Cloud Subscription Users on HANA)</td>
-<td style='padding: 10px;'>$46,840.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (7 Perpetual Licenses on HANA)</td>
-<td style='padding: 10px;'>$61,904.70</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simple Package</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +45,7 @@ SAP Business One is used by small and midsize businesses worldwide. The solution
 
 ## Vendor Information
 
- Company Name: Axxis Consulting (S) Pte Ltd<br>Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
+ Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

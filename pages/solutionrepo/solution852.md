@@ -1,15 +1,15 @@
 ---
-title: 'QuickDesk Marketing'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution852
 ---
 
-## QuickDesk Marketing
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
+EzyProcure is a one stop B2B Procure-to-Pay cloud-based platform that connects both buyers and suppliers seamlessly (2000+ buyers and suppliers). EzyProcure specialises in: 1) Procurement automation, 2) Accounts payable automation and 3) Payment automation, which benefits both buyers and suppliers by streamlining their current manual ordering to supply processes. This significantly improves the organization's productivity, profitability and cashflows.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
-<td style='padding: 10px;'>$2,133.41</td>
-<td style='padding: 10px;'>$2,013.41</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 Outlet)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
-<td style='padding: 10px;'>$4,649.30</td>
-<td style='padding: 10px;'>$4,249.30</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (up to 3 Outlets)</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
-<td style='padding: 10px;'>$7,713.91</td>
-<td style='padding: 10px;'>$7,053.91</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (up to 5 Outlets)</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
-<td style='padding: 10px;'>$9,395.19</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (up to 10 Outlets)</td>
+<td style='padding: 10px;'>$26,600.00</td>
+<td style='padding: 10px;'>$26,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
-<td style='padding: 10px;'>$14,374.74</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (up to 15 Outlets)</td>
+<td style='padding: 10px;'>$37,100.00</td>
+<td style='padding: 10px;'>$37,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 
 ## Vendor Information
 
- Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
+ Company name:Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

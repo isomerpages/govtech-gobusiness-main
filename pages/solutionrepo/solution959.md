@@ -1,16 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
+title: 'TIME ACCESS HRMS Version V2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution959
 ---
 
-## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
+## TIME ACCESS HRMS Version V2.0
 
 ## Overview
 
 **Description**
 
-SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
-Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
+TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 years of market experience. The Integrated Cloud Solution combines HR modules and Security Hardware in a single solution. The solution allows SMEs and their employees to manage Attendance, Payroll, Leave, Claims, Benefits and Appraisal matters using Mobile App with Employee Self Service Portal on the go for access to all modules. The solution can be further integrated to any other Business Software Solution.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,48 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (20 Users)</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (45 Users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (75 Users)</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (120 Users)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (200 Users)</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
+ Company name:TIME ACCESS INTERNATIONAL<br>Web URL: https://www.timeaccess.sg/hr-software/time-access-hris-hrms <br>Contact Hotline: +6591729133 <br>Contact Email: info@timeaccess.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

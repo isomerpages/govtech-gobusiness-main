@@ -1,15 +1,15 @@
 ---
-title: 'DM SEOciety Digital Marketing'
+title: 'iMakan'
 permalink: /productivity-solutions-grant/solutionrepo/solution1461
 ---
 
-## DM SEOciety Digital Marketing
+## iMakan
 
 ## Overview
 
 **Description**
 
-SEOciety, a Google partner company, is one of the few integrated bilingual digital marketing agency in Singapore. SEOciety offers English and Chinese SEO and SEM packages to help SMEs open new markets and generate effective and concrete leads.  Having a presence in both the Google English and Chinese market will increase visibility and differentiate businesses to a new audience while increasing market share for the long term.
+iMakan Self Ordering is best known to help F&B achieve high efficiency in the entire order-to-kitchen process. From iMakan Self Ordering Kiosks, iMakan QR Table Ordering to iMakan Online Ordering for self-pickup and delivery, the solution features a clean and intuitive user interface for quick, fuss free ordering. Together with its automated upselling feature, iMakan helps F&B owners realize potential revenue sooner.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Ordering (Subscription)</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital & QR Ordering Standard with Analytics</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'>$7,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>F&B Full Digitalisation with Analytics</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'>$13,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Analytics</td>
+<td style='padding: 10px;'>$5,780.00</td>
+<td style='padding: 10px;'>$5,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 x Kiosks + KDS & Number Display with Analytics</td>
+<td style='padding: 10px;'>$13,980.00</td>
+<td style='padding: 10px;'>$12,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Technology_iMakan_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 
 ## Vendor Information
 
- Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

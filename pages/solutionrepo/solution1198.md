@@ -1,15 +1,15 @@
 ---
-title: 'Zeemart Supplier Hub'
+title: 'Quickbook Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution1198
 ---
 
-## Zeemart Supplier Hub
+## Quickbook Online
 
 ## Overview
 
 **Description**
 
-Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
+Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, invoicing, payroll, and more.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,10 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
-<td style='padding: 10px;'>$29,500.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbook Online- QBO</td>
+<td style='padding: 10px;'>$820.00</td>
+<td style='padding: 10px;'>$820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IRIS_CORPORATE_Quickbook_Online_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +36,7 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 
 ## Vendor Information
 
- Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
+ Company name:IRIS CORPORATE SERVICES PTE. LTD.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?region=SG&location=singapore <br>Contact Hotline: 81001936 <br>Contact Email: iriscorporateservices@yahoo.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
