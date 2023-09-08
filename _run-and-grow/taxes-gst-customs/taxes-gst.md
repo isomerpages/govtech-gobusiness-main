@@ -1,12 +1,20 @@
 ---
-title: Income Taxes and GST
+title: Income Taxes, Levy, and GST
 permalink: /run-and-grow/taxes-and-gst/
 third_nav_title: Taxes, GST and Customs
 ---
 
-## File income tax return with Inland Revenue Authority of Singapore (IRAS)
+### Income Taxes, Levy, and GST\
 
 ![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
+
+{% include overview.html anchorlinks=site.data.ov003-taxes-gst %}
+
+----
+
+<a name="income-tax"></a>
+
+## File income tax return with Inland Revenue Authority of Singapore (IRAS)
 
 Unsure about the tax filing obligations for your business/company?
 
@@ -32,6 +40,8 @@ After incorporating your company, access the Start-Up Kit for customised informa
 - [New Company Start-Up Kit](https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/new-company-start-up-kit ){:target="_blank"}{:rel="noopener"}
 
 Learn more about your company's Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}{:rel="noopener"}.
+
+<a name="reg-for-gst"></a>
 
 ### Register for GST
 
@@ -82,6 +92,17 @@ Check out the following webpages and video to learn more.
 - [Do I Need to Register for GST?](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/do-i-need-to-register-for-gst){:target="_blank"}{:rel="noopener"}
 - [Factors to Consider Before Registering Voluntarily](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/factors-to-consider-before-registering-voluntarily-for-gst){:target="_blank"}{:rel="noopener"}
 - [Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/){:target="_blank"}{:rel="noopener"}
+
+
+<a name="pay-sdl"></a>
+
+### Pay Skills Development Levy (SDL)
+
+The SDL is a compulsory monthly levy that businesses have to pay on <b>all employees</b>, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).
+
+Learn more about SDL and how to calculate and make payment at the links below.
+
+{% include panels-featurelink.html panels=site.data.rgp005_skillsfuture-overview %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
