@@ -1,15 +1,15 @@
 ---
-title: 'RavenPOS Enterprise Retail Business Suite Version 12'
+title: 'QuickDesk Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution770
 ---
 
-## RavenPOS Enterprise Retail Business Suite Version 12
+## QuickDesk Marketing
 
 ## Overview
 
 **Description**
 
-RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company's financial health
+Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ RavenPOS offers enhanced retail management solution for the retail sector with f
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Basic</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
+<td style='padding: 10px;'>$2,133.41</td>
+<td style='padding: 10px;'>$2,013.41</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Advanced</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$7,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
+<td style='padding: 10px;'>$4,649.30</td>
+<td style='padding: 10px;'>$4,249.30</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Professional</td>
-<td style='padding: 10px;'>$11,900.00</td>
-<td style='padding: 10px;'>$11,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
+<td style='padding: 10px;'>$7,713.91</td>
+<td style='padding: 10px;'>$7,053.91</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Enterprise</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'>$14,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
+<td style='padding: 10px;'>$9,395.19</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
+<td style='padding: 10px;'>$14,374.74</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
+ Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

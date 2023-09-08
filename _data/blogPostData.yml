@@ -236,3 +236,24 @@
   image: /images/blog/ACE Thumbnail.png
   alt: ACE.SG gathering with the startup community
   date: 2023-06-22
+- tag: GoBusiness How-To
+  title: 'GoBusiness: A Helping Hand for Singapore Businesses'
+  body: GoBusiness Product Lead Simon Ang lends insights on how GoBusiness supports businesses in their journey.
+  link: /gobusiness-blog/GoBusiness-for-singapore-businesses
+  image: /images/blog/OpedMay2023 Thumbnail.png
+  alt: GoBusiness Product Lead Simon Ang
+  date: 2023-07-19
+- tag: Business Tips & Tricks
+  title: 'The SME guide to cybersecurity'
+  body: Tips on how to start your cybersecurity journey to better safeguard your business.
+  link: /gobusiness-blog/cybersecurity-for-smes
+  image: /images/blog/Cybersecurity Thumbnail.jpg
+  alt: The SME Guide to cybersecurity
+  date: 2023-08-18
+- tag: Business Tips & Tricks
+  title: 'First year in business: What are the regulatory requirements?'
+  body: A month-by-month guide to all the regulatory requirements of running a business in Singapore.
+  link: /gobusiness-blog/regulatory-requirements-business
+  image: /images/blog/content/Regulatory Cover Image.png
+  alt: First year regulatory requirements
+  date: 2023-08-18

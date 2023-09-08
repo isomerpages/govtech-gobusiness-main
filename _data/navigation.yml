@@ -43,15 +43,6 @@ links:
         url: /run-and-grow/taxes-and-gst/?src=topnav
       - title: GeBIZ Alerts
         url: /gebiz-alerts/?src=topnav
-  - title: Covid-19
-    url: /covid/?src=topnav
-    sublinks:
-      - title: Overview
-        url: /covid/?src=topnav
-      - title: Contact tracing
-        url: /safemanagement/safeentry/?src=topnav
-      - title: Sector-Specific Requirements
-        url: /safemanagement/sector/?src=topnav
   - title: e-Services
     url: /e-services/?src=topnav
   - title: Resources

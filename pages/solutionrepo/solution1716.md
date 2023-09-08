@@ -1,15 +1,15 @@
 ---
-title: 'Shopcada Ecommerce'
+title: 'DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1716
 ---
 
-## Shopcada Ecommerce
+## DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2
 
 ## Overview
 
 **Description**
 
-Shopcada is an Omni Channel ecommerce platform and its Key features include payment integration, order fulfillment automation and integration with delivery companies, SEO friendly & SEM Integration, CRM & loyalty tools, advance reporting, social commerce and integration with online marketplaces such as Shopee, Lazada and Zalora.
+MediaOne brings the power of almost a decade's worth of experience servicing thousands of companies from large enterprises like Canon, Guardian, SingTel, to SMEs like Noel Gifts, Sakae Sushi, Nation, into distilled DM packages for SEO and SEM. Gain visibility, branding, and market share with SEO. Increase web traffic, leads, and sales with SEM. Benefit from MediaOne's digital marketing solutions that bring results to clients and set the standards in the industry.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Shopcada is an Omni Channel ecommerce platform and its Key features include paym
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (6 months)</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (6 months)</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (6 months)</td>
+<td style='padding: 10px;'>$11,888.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Webcada_Shopcada_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_DM_MediaOne_100823_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Shopcada is an Omni Channel ecommerce platform and its Key features include paym
 
 ## Vendor Information
 
- Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
+ Web URL: mediaone.co <br>Contact Hotline: 69657008<br>Contact Email: contact@mediaone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

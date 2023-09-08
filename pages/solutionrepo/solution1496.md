@@ -1,15 +1,15 @@
 ---
-title: 'AIO CRM'
+title: 'DM NBT Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1496
 ---
 
-## AIO CRM
+## DM NBT Digital Performance Marketing Package
 
 ## Overview
 
 **Description**
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate business processes. The software provides in-depth features such as leads management, campaign module and ticketing module to enable a comprehensive customer management coverage. AIO CRM is designed to enable SMEs to operate seamlessly to increase productivity.
+NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that specialises in providing search engine marketing and social media marketing solutions for SMEs. NBT Digital works closely with clients to identify specific business needs and tailor a business strategy that best works for them.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_AIO_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM [6 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NBT_DIGITAL_DM_NBT_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ## Vendor Information
 
- Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br>Contact Hotline: 92706043 <br>Contact Email: sales@aio-interactive.com <br>
+ Company Name: NBT DIGITAL PTE LTD<br>Web URL: nbtdigital.com.sg <br>Contact Hotline: 81894766 <br>Contact Email: jay@nbtdigital.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/donaldson-burkinshaw-llp/
 
 ## Donaldson & Burkinshaw LLP
 
-DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest established, largest and leading Intellectual Property (IP) practices in Singapore. Our IP team comprises highly qualified patent and trademark specialists, technical experts and professionals. Our staff includes qualified patent agents who are Ph.D. holders, engineers and scientists, and professionals well-experienced in trademarks prosecution. Our patents team has the technical know-how and expertise to provide specialised patent advisory services. Our patents team specialises in drafting patent applications and pursuing patent protection in technical areas (such as biomedical devices, tissue engineering, medicine, pharmaceutical sciences, biotechnology, chemistry, materials engineering, semiconductor technology, telecommunications, wireless communications and civil engineering), and provides services for patent validity and infringement analysis, freedom to operate advice and patent litigation.
+Donaldson & Burkinshaw LLP is a full-service law firm with one of Singapore's longest-established, largest, and leading Intellectual Property (IP) practices. Our IP team comprises highly qualified patent and trademark specialists, technical experts and professionals. Our staff includes qualified patent agents who are Ph.D. holders, engineers and scientists, and professionals well-experienced in trademark prosecution. Our patents team has the technical know-how and expertise to provide specialised patent advisory services. Our patents team specialises in drafting patent applications and pursuing patent protection in technical areas (such as biomedical devices, tissue engineering, medicine, pharmaceutical sciences, biotechnology, chemistry, materials engineering, semiconductor technology, telecommunications, wireless communications and civil engineering), and provides services for patent validity and infringement analysis, freedom to operate advice and patent litigation.
 
 <b>Year established in Singapore:</b> 2014
 
@@ -21,7 +21,7 @@ DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest
 
 <b>Offer:</b> First consultation is free upon formal engagement of our firm.
 
-<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -255,4 +255,7 @@ DONALDSON & BURKINSHAW LLP is a full-service law firm and has one of the longest
 - URL of LinkedIn/Company Profile: <a href="https://www.donburk.asia/chua-shang-li.html" target="_blank" rel="noopener">https://www.donburk.asia/chua-shang-li.html</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6450a7ce45da250012ca6ec3' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

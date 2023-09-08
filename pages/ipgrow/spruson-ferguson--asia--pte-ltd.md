@@ -19,7 +19,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 
 <b>Website:</b> <a href='https://www.spruson.com/'>https://www.spruson.com/</a>
 
-<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -210,4 +210,7 @@ Established in 1887, Spruson & Ferguson is one of the largest intellectual prope
 - URL of LinkedIn/Company Profile: <a href="https://www.spruson.com/our-people/grace-wong" target="_blank" rel="noopener">https://www.spruson.com/our-people/grace-wong</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643f8a5cf643c40012e42c64' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

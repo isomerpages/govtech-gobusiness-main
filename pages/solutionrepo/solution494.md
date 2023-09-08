@@ -1,15 +1,15 @@
 ---
-title: 'DM GSK Group Digital Marketing Packages'
+title: 'DM Identity Counsel Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution494
 ---
 
-## DM GSK Group Digital Marketing Packages
+## DM Identity Counsel Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-With more than 17 years of experience providing clients with digital marketing solutions, GSK Group offers comprehensive SEO, SEM and SMM packages. Solutions are customised to meet every business's unique needs and wants. GSK Group aims to help every business achieve brand awareness, increase social media profile visibility, lead enquiries and higher sales revenue.
+Identity Counsel offers a unique SMM & SMA Digital Marketing Package that gets long-term tangible results through the full implementation of a clear digital marketing funnel. Bring in leads, nurture them & turn them into loyal customers. The package offers 2 campaigns which include, digital assets content & activation,  landing pages, and email marketing. Select this package and make lead generation an essential part of your business strategy, turning a potential customer into an actual sale.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ With more than 17 years of experience providing clients with digital marketing s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 1 - SEM-Search + SEM-Display - (3 months)</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 2 - SEM-Search + SEM-Display - (6 months)	</td>
-<td style='padding: 10px;'>$8,760.00</td>
-<td style='padding: 10px;'>$8,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 3 - SEM + SEO - (6 months) </td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 4 - SEM + SMM - (6 months)</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'>$8,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM GSK Digital Marketing Package 5 - SMM-Facebook + SMM-Instagram - (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GSK_Group8_Digital_Marketing_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Identity Counsel Digital Marketing Packages - Package 1 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IDENTITY_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ With more than 17 years of experience providing clients with digital marketing s
 
 ## Vendor Information
 
- Company name:GSK Group Pte Ltd<br>Web URL: www.gskcreative.com.sg <br>Contact Hotline: 65364019 <br>Contact Email: info@gsk-group.com.sg 
+ Company Name: IDENTITY COUNSEL PTE LTD<br>Web URL: www.identitycounsel.com <br>Contact Hotline: 94758993 <br>Contact Email: info@identitycounsel.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

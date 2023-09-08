@@ -1,15 +1,18 @@
 ---
-title: 'MMS - Xero Accounting Solution'
+title: 'aiCARE Shield Managed Security Version Ver1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution695
 ---
 
-## MMS - Xero Accounting Solution
+## aiCARE Shield Managed Security Version Ver1.0
 
 ## Overview
 
 **Description**
 
-At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
+NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
+aiCARE Shield Managed Security comes with 8x5 Hotline Support.
+Support Day : Monday - Friday
+Support Time : 9am-6pm
 
 ## Solution Packages Option(s)
 
@@ -23,48 +26,48 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - A - Xero subscription only</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - B - Xero Premium Training Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - C - Xero Premium Setup Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - D - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: METROPOLITAN MANAGEMENT SERVICES PTE. LTD.<br>Web URL: https://www.xero.com/sg/?escape=true <br><br>Contact Hotline: 63093800 <br><br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br><br>
+ Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

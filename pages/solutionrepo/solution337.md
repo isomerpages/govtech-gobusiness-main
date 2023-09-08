@@ -1,17 +1,15 @@
 ---
-title: 'e-Forms for Preschool Version 1.0'
+title: 'MyRetailer Plus Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution337
 ---
 
-## e-Forms for Preschool Version 1.0
+## MyRetailer Plus Version 4
 
 ## Overview
 
 **Description**
 
-Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
-BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
-BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
+MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,48 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
+<td style='padding: 10px;'>$4,190.00</td>
+<td style='padding: 10px;'>$3,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Second Monitor</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Web Store</td>
+<td style='padding: 10px;'>$5,390.00</td>
+<td style='padding: 10px;'>$4,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Cloud Dashboard</td>
+<td style='padding: 10px;'>$7,390.00</td>
+<td style='padding: 10px;'>$6,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments</td>
+<td style='padding: 10px;'>$4,926.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company name:DCS Synthesis Pte. Ltd.<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

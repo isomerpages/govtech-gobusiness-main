@@ -21,7 +21,7 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 
 <b>Offer:</b> Free 45 to 1 hour consultation, special discount for startups in trademark registration.
 
-<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -182,4 +182,7 @@ As a small firm, our work ethics revolve around transparency, honesty, and integ
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/marni-haji-afandi-72427838" target="_blank" rel="noopener">https://www.linkedin.com/in/marni-haji-afandi-72427838</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6422470187c43200127ec2d7' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

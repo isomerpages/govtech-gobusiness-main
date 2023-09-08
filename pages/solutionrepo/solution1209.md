@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online Accounting Software'
+title: 'NX CAD/CAM Software Version NX2212'
 permalink: /productivity-solutions-grant/solutionrepo/solution1209
 ---
 
-## Quickbooks Online Accounting Software
+## NX CAD/CAM Software Version NX2212
 
 ## Overview
 
 **Description**
 
-Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
+NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provides a complete CAD/CAM focused on milling any geometry with up to 5 axes of simultaneous motion. All of the supporting functions for NC programming are provided, from translators to tool path visualization to postprocessing. Program CNC machine tools, control robotic cells, & monitor quality using one software system. Digitally transform part manufacturing business to gain productivity & increase profitability
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$803.48</td>
-<td style='padding: 10px;'>$764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAM-Only 3-Axis Machining(Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$3,003.48</td>
-<td style='padding: 10px;'>$2,964.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation(Annual Locked License)</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,803.48</td>
-<td style='padding: 10px;'>$3,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation (Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,603.48</td>
-<td style='padding: 10px;'>$4,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation with 5-Axis Add-On(Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,803.48</td>
-<td style='padding: 10px;'>$7,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Value-Based Tokens for NX CAD/CAM (Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$44,809.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
+ Company name:DreamTechnology System Pte. Ltd.<br>Web URL: https://dts-asia.com/ <br>Contact Hotline: 66357748 <br>Contact Email: sales.dts@dts-asia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
