@@ -80,7 +80,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://go.gov.sg/sdl-declaration-form">How to Update Company Contact Person(s)</a>
+        <a href="https://go.gov.sg/sdl-declaration-form">Declaration Form for Payroll Records (.xlxs, 202 KB)</a>
     </td>
     <td> 
         Include this Declaration Form in your <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment">SDL Payment & Declaration</a> application if:
