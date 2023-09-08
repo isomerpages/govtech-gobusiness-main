@@ -4,7 +4,7 @@ permalink: /run-and-grow/taxes-and-gst/
 third_nav_title: Taxes, GST and Customs
 ---
 
-### Income Taxes, Levy, and GST\
+### Income Taxes, Levy, and GST
 
 ![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
 
@@ -102,7 +102,7 @@ The SDL is a compulsory monthly levy that businesses have to pay on <b>all emplo
 
 Learn more about SDL and how to calculate and make payment at the links below.
 
-{% include panels-featurelink.html panels=site.data.rgp005_skillsfuture-overview %}
+{% include panels-featurelink.html panels=site.data.rgp009_taxes-gst %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
