@@ -50,7 +50,7 @@ Watch the video below to learn more about getting started managing your business
 
 <p>
 <div class="bp-youtube">
-  <iframe title="GoBusiness IP Grow: Strengthen your business through your IA/IP" src="https://www.youtube.com/embed/qMYQbdvpOvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="GoBusiness IP Grow: Strengthen your business through your IA/IP" src="https://www.youtube.com/embed/asGOPbQL9X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
