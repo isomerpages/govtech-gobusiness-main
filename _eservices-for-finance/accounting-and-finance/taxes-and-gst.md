@@ -10,7 +10,7 @@ third_nav_title: Accounting and Finance
 
 Filing tax returns with Inland Revenue Authority of Singapore (IRAS) come with different requirements, depending on your business structure. You will also need to register for GST if you meet certain criteria.
 
-Businesses must also pay [Skills Development Levy (SDL)](/sdl/about-skills-development-levy/) on all their employees.
+Businesses must also pay [Skills Development Levy (SDL)](/about-skills-development-levy/) on all their employees.
 
 Learn more at our [Run and Grow guide for taxes, levy, and GST](/run-and-grow/).
 

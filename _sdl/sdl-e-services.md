@@ -80,6 +80,18 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
+        <a href="https://go.gov.sg/sdl-declaration-form">How to Update Company Contact Person(s)</a>
+    </td>
+    <td> 
+        Include this Declaration Form in your <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment">SDL Payment & Declaration</a> application if:
+        <ul>
+        <li>Your computation based on your payroll records differs from SSG records for any of the relevant months; or</li>
+        <li>Your most recent months' wage data from Government’s records are still unavailable for SSG to derive your SDL payable.</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td> 
         <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 197 KB)</a>
     </td>
     <td>
