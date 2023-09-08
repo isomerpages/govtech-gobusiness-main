@@ -19,9 +19,9 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 
 <b>Website:</b> <a href='https://gohpc.com/'>https://gohpc.com/</a>
 
-<b>Offer:</b> FREE FIRST CONSULTATION.
+<b>Offer:</b> Free first consultation.
 
-<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -83,9 +83,9 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <a name='testimonials'></a>
 ### Testimonials
 
-*"Hi Constance! Thank you so much for your help this past month, I couldn't have asked for a better first experience working with a lawyer. Your responses to my queries were always prompt and clear, and the turnaround time for the agreement was impressive.   6 months later... It's amazing how much has happened as a result of starting Canary, and I can't thank you enough for being a part of it."* - Mr. Ben Ng, President, Founder, Canary.
+*"Hi Constance! Thank you so much for your help this past month, I couldn't have asked for a better first experience working with a lawyer. Your responses to my queries were always prompt and clear, and the turnaround time for the agreement was impressive.   6 months later... It's amazing how much has happened as a result of starting Canary, and I can't thank you enough for being a part of it."* - Mr. Ben Ng, President, Founder, Canary, a U.S. start-up that has since been acquired.
 
-*"With Constance, it's never just about business. As a start-up, there are a lot of legal matters that are unfamiliar to us. Constance advises us from a perspective that allows us to weigh our options carefully, and at the same time learn from her experience. I would say that we have gotten crash courses in a few legal areas from her. And we met with A/Prof Daniel Fung and the whole team of doctors at the IMH yesterday. Very good meeting I must say. Thank you very much for introducing us."* - Dr James Teh, PhD, CEO, Founder, T. Ware Pte Ltd.
+*"With Constance, it's never just about business. As a start-up, there are a lot of legal matters that are unfamiliar to us. Constance advises us from a perspective that allows us to weigh our options carefully, and at the same time learn from her experience. I would say that we have gotten crash courses in a few legal areas from her. And we met with A/Prof Daniel Fung and the whole team of doctors at the IMH yesterday. Very good meeting I must say. Thank you very much for introducing us."* - Dr James Teh, PhD, CEO, Founder, TWare Pte Ltd.
 
 *"About Constance's article titled - Upcoming Changes in Singapore's Patents Law and What They Mean for Businesses and Patent Applicants, re-published in the official publication of the Law Society of Singapore, Law Gazette, March 2017 Issue:  Your article is well prepared and very easy to understand - good job."* - Mr James M. Slattery, U.S. Patent Attorney, formerly a Patent Examiner at the U.S. Patent and Trademark Office, Birch Stewart Kolasch & Birch, LLP.
 
@@ -95,7 +95,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.lawyerservices.in/Gatekeeper-Inc-Versus-Wang-Wensheng-Trading-As-Hawkeye-Technologies-2011-11-04" target="_blank" rel="noopener">case study 1</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.elitigation.sg/gdviewer/s/2011_SGHC_239" target="_blank" rel="noopener">case study 1</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -112,4 +112,7 @@ Goh Phai Cheng LLC was founded in 2006, by Mr Goh Phai Cheng SC, a Senior Counse
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/constance-leong-???-a61b362a" target="_blank" rel="noopener">https://linkedin.com/in/constance-leong-???-a61b362a</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6410357afaf4420013a3ef70' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

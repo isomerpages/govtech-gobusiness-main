@@ -23,7 +23,7 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 
 <b>Website:</b> <a href='https://www.ghowsllc.com'>https://www.ghowsllc.com</a>
 
-<a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -78,7 +78,7 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -165,4 +165,7 @@ The lawyers at Ghows LLC have extensive experience in brand enforcement for well
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/wai-yeng-chan" target="_blank" rel="noopener">https://www.linkedin.com/in/wai-yeng-chan</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6433d8fb3e8d6600113150b3' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

@@ -21,7 +21,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 
 <b>Website:</b> <a href='https://www.intelleigen.com'>https://www.intelleigen.com</a>
 
-<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -116,7 +116,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **Trade Mark Agent Services**
@@ -163,4 +163,7 @@ The firm also provides backend IP support to Magic Circle Firm.
 - URL of LinkedIn/Company Profile: <a href="https://www.intelleigen.com/our-lawyers" target="_blank" rel="noopener">https://www.intelleigen.com/our-lawyers</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/642b7d3369125a00118a58aa' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

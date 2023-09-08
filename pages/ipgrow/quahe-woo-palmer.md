@@ -15,9 +15,9 @@ We are a full service law firm comprising a team of experienced legal practition
 
 <b>Address in Singapore:</b> 180 Clemenceau Avenue #02-02 Haw Par Centre, Singapore 239922
 
-<b>Website:</b> <a href='https://www.quahewoo.com/'>https://www.quahewoo.com/</a>
+<b>Website:</b> <a href='https://www.qwp.sg/'>https://www.qwp.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -92,7 +92,7 @@ We are a full service law firm comprising a team of experienced legal practition
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Registered Design Agent Services**
@@ -150,11 +150,11 @@ We are a full service law firm comprising a team of experienced legal practition
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service, IP Intelligence and Search, IP Due Diligence, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Barrister-at-Law (Inner Temple)
-- URL of LinkedIn/Company Profile: <a href="https://www.quahewoo.com/our-lawyers/christopher-woo" target="_blank" rel="noopener">https://www.quahewoo.com/our-lawyers/christopher-woo</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.qwp.sg/our-lawyers/christopher-woo/" target="_blank" rel="noopener">https://www.qwp.sg/our-lawyers/christopher-woo/</a>
 
 **Emma Qing**
 
-- Job Title: Associate
+- Job Title: Senior Associate
 - Years of Experience: 8 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
@@ -162,4 +162,7 @@ We are a full service law firm comprising a team of experienced legal practition
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/emma-qing" target="_blank" rel="noopener">https://sg.linkedin.com/in/emma-qing</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6422655fb69f640012fe00e5' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

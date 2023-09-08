@@ -23,7 +23,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 
 <b>Website:</b> <a href='https://www.harryelias.com'>https://www.harryelias.com</a>
 
-<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -225,4 +225,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 - URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/associates/daniel-yap" target="_blank" rel="noopener">https://www.harryelias.com/associates/daniel-yap</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

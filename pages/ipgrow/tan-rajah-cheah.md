@@ -23,7 +23,7 @@ We are a member of the international law practice group, PLG International Lawye
 
 <b>Website:</b> <a href='https://trc.com.sg/'>https://trc.com.sg/</a>
 
-<a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -132,4 +132,7 @@ We are a member of the international law practice group, PLG International Lawye
 - URL of LinkedIn/Company Profile: <a href="https://trc.com.sg/sayana-baratham" target="_blank" rel="noopener">https://trc.com.sg/sayana-baratham</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/645a0c2d02527d0013e622ed' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023
