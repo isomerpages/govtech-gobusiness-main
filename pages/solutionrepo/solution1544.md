@@ -1,15 +1,15 @@
 ---
-title: 'NPOS Version 2.1'
+title: 'Websentials Ecommerce Web Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1544
 ---
 
-## NPOS Version 2.1
+## Websentials Ecommerce Web Development
 
 ## Overview
 
 **Description**
 
-NPOS Digital Ordering solution enables F&B customers to directly order from a digital menu on a tablet; or via scanning a QR Code to view the digital menu on their mobile devices and make orders; and/or place order online directly over a website.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
+<td style='padding: 10px;'>$9,040.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 
 ## Vendor Information
 
- Company name:NSTORY PTE. LTD.<br>Web URL: https://nstory.me <br>Contact Hotline: 62463207 <br>Contact Email: ecare@nstory.me
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,15 @@
 ---
-title: 'F&B Solutions Version 5.0'
+title: 'WarelyEcom Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
-## F&B Solutions Version 5.0
+## WarelyEcom Version 1.3
 
 ## Overview
 
 **Description**
 
-The Essential F&B Management Solutions 
-Major Problem Solutions:
-1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
-2.	Effective audit to prevent loopholes and lock profits.
-3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
+Warely Ecommerce Solution assist SME to power their online business website, which includes a professionally designed website, inventory management, Loyalty program, payment gateway, social media and CRM integration.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +23,24 @@ Major Problem Solutions:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR Ordering</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR Ordering and CRM</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +50,7 @@ Major Problem Solutions:
 
 ## Vendor Information
 
- Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
+ Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

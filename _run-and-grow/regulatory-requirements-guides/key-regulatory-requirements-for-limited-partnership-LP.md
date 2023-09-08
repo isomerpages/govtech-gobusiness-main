@@ -13,6 +13,7 @@ This guide provides an overview of the key regulatory requirements that limited 
 {% include accordion.html accordions=site.data.acc207-regulatoryguide-lp.accordion %}
 
 *Information on this page is accurate as of 7 Jul 2023.
+
 The content made available or accessible through this page may not be correct, complete, current or accurate and you should perform your own checks or obtain professional advice relevant to your particular circumstances.
 
 {% include banner-yes-no.html %}

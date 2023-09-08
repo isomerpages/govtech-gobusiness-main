@@ -1,15 +1,15 @@
 ---
-title: 'V3Nity-FMS Fleet Management System Version 3.0'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1033
 ---
 
-## V3Nity-FMS Fleet Management System Version 3.0
+## EzySalesOrder Version 3.0
 
 ## Overview
 
 **Description**
 
-The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
+Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
+<td style='padding: 10px;'>$19,780.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 
 ## Vendor Information
 
- Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

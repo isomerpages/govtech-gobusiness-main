@@ -1,17 +1,15 @@
 ---
-title: 'Power Jack for Steel Plates Adjustment (Perpendicular)'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1146
 ---
 
-## Power Jack for Steel Plates Adjustment (Perpendicular)
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
-
-Cost of equipment capped at $18,750 per unit
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Power Jack for Steel Plates Adjustment (Perpendicular)</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Hydraulic capacity: Min. 5 tonnes<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. pump, hydraulic hose</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

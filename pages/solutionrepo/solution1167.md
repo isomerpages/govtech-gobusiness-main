@@ -1,17 +1,15 @@
 ---
-title: 'Combi Oven'
+title: 'Multi-tier Cultivation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1167
 ---
 
-## Combi Oven
+## Multi-tier Cultivation System
 
 ## Overview
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
-
-Cost of equipment capped at $37,500 per unit
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity: 5 trays (GN 1/1)<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

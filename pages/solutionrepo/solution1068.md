@@ -1,15 +1,16 @@
 ---
-title: 'DM WECOFA Digital Marketing Packages'
+title: 'ZETTAPPS Inventory & Order Processing'
 permalink: /productivity-solutions-grant/solutionrepo/solution1068
 ---
 
-## DM WECOFA Digital Marketing Packages
+## ZETTAPPS Inventory & Order Processing
 
 ## Overview
 
 **Description**
 
-Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
+ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
+For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,41 @@ Wecofa's Digital Marketing Package is designed to help SMEs to establish a compr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
+ Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

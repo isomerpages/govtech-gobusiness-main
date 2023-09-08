@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution888
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## Iorderla Digital Ordering BYOD Solution Version 1.0
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
+ Company Name: SUNTOYO TECHNOLOGY PTE LTD<br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
