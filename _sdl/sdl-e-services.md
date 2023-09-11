@@ -80,7 +80,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://go.gov.sg/sdl-declaration-form">Declaration Form for Payroll Records (.xlxs, 202 KB)</a>
+        <a href="https://go.gov.sg/sdl-declaration-form">Declaration Form for Payroll Records (.xlxs, 429 KB)</a>
     </td>
     <td> 
         Include this Declaration Form in your <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment">SDL Payment & Declaration</a> application if:
@@ -92,7 +92,7 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 197 KB)</a>
+        <a href="https://go.gov.sg/sdl-notice-of-objection-form" target="_blank" rel="noopener">Notice of Objection (NOO) Template (.xlsx, 428 KB)</a>
     </td>
     <td>
         Include this template in your <a href="https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object" target="_blank" rel="noopener">Notice of Objection (NOO) for SDL</a> application if:
