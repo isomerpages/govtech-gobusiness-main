@@ -46,7 +46,7 @@ Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP ser
 
 {% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
 
-Watch the video below to learn more about getting started managing your business's IA/IP. 
+Watch the video below to learn how to manage your business's IA/IP with our platform.
 
 <p>
 <div class="bp-youtube">
