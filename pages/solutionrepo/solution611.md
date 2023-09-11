@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (PMS + e-form)'
+title: 'HR administration with payroll processing via SaaS solutions Version 21-3.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution611
 ---
 
-## LittleLives School Management System (PMS + e-form)
+## HR administration with payroll processing via SaaS solutions Version 21-3.1
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. The system includes all features to support schools to manage their operation with existing students such as attendance, student portfolio, incident and fee management and parent communication. E-form module is added in to fully support the whole student life cycle administrative process.
+Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize in HR & Payroll management combining with (SaaS) Cloud HR software for SMEs in the Asia-Pacific region. In our HR shared services ecosystem, we use an entire suite of (SaaS) cloud HR software such as Employee Information System, Leave system, Expense (claims), Time Attendance (with facial recognition & geofencing features) and Payroll which combines our HR expertise such as payroll processing services to SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form only</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3</td>
+<td style='padding: 10px;'>$7,020.00</td>
+<td style='padding: 10px;'>$7,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form + Cashless payment</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form & Thermal Scanner</td>
-<td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 3 (26-50 employee) Version 21-3</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Thermal Scanner & Cashless Payment</td>
-<td style='padding: 10px;'>$16,140.00</td>
-<td style='padding: 10px;'>$15,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Facial Recognition & Cashless Payment </td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions -Package 5(101-200 employee) Version 21-3</td>
+<td style='padding: 10px;'>$63,000.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
+ Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

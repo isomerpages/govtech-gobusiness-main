@@ -1,15 +1,15 @@
 ---
-title: 'Smartweb Version V3'
+title: 'Corsiva Lab E-Commerce Website Development(WordPress / Shopify)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
-## Smartweb Version V3
+## Corsiva Lab E-Commerce Website Development(WordPress / Shopify)
 
 ## Overview
 
 **Description**
 
-Drive higher sales, streamline operations, and provide a better customer experience through a data-driven approach to restaurant management and customer engagement; with fast, error-free ordering, quicker table turns and reduced reliance on staff. Address customer pain points by reducing wait time and eliminating errors on the orders whilst improving the overall dining experience through AI that personalise recommendations based on the spending habits and palette profile every dinner.
+Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Drive higher sales, streamline operations, and provide a better customer experie
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with Training, Installation and Configuration</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express </td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering without Training, Installation and Configuration</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 1 x Kiosk Ordering Solution Software License</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk Ordering Solution Software License for 2 x Kiosk</td>
-<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 2 x Kiosk Ordering Software License</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$10,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:TabSquare Pte Ltd<br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com 
+ Company name:Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

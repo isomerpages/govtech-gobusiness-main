@@ -1,19 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
+title: 'Cartrack Fleet Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution238
 ---
 
-## Job Redesign Consultancy - Cadence Group Pte Ltd
+## Cartrack Fleet Management
 
 ## Overview
 
 **Description**
 
-Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
-
-Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
-
-Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
+Cartrack's all-in-one Fleet Management solution increases the safety, efficiency, compliance and sustainability of any business with on-the-ground operations. Cartrack's solution harnesses the data from advanced telematics devices and 3rd party APIs with analytics, computer vision and proprietary AI to empower businesses with the real-time actionable insights needed to improve their operations and make their lives easier.
 
 ## Solution Packages Option(s)
 
@@ -27,20 +23,20 @@ Our consultants are qualified senior HR professionals in various industries. We 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet (per Vehicle)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cartrack_Cartrack_Fleet_Management_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
+ Company name:Cartrack Technologies South East Asia Pte Ltd<br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

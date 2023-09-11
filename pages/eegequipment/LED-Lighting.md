@@ -1026,7 +1026,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - Vintage 1906 LED Globe 6.5W/824
 - Osram - VINTAGE 1906 LED GLOBE 7W
 - OSRAM - WRCB136 (4ft)
-- Philips -  8718696753668
 - Philips - 11W E27 3000K 8718696762462
 - Philips - 11W E27 6500K 8718696762486
 - Philips - 29001161707
@@ -1334,6 +1333,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 929001338608 CorePro LEDtube 600mm 8W840 T8 AP I
 - Philips - 929001338708 CorePro LEDtube 600mm 8W865 T8 AP I
 - Philips - 929001338808 CorePro LEDtube 1200mm 14.5W840 T8AP I
+- Philips - 929001338908 CorePro LEDtube 1200mm 14.5W865 T8AP I
 - Philips - 929001350708 LED PLC 4.5W 830 2P G24d-1
 - Philips - 929001350808 LED PLC 4.5W 840 2P G24d-1
 - Philips - 929001350908 LED PLC 4.5W 865 2P G24d-1
