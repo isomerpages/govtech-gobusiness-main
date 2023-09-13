@@ -1,15 +1,15 @@
 ---
-title: 'Climate & Environment Monitoring Control Equipment/ System'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
-## Climate & Environment Monitoring Control Equipment/ System
+## HVAC system
 
 ## Overview
 
 **Description**
 
-Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Climate control system (smart roof ventilator/ vents, smart misting, sustainable
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
