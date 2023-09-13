@@ -1,15 +1,15 @@
 ---
-title: 'Automated Mixer/ Compacter for Growing Media'
+title: 'Climate & Environment Monitoring Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1180
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Climate & Environment Monitoring Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+Climate control system (smart roof ventilator/ vents, smart misting, sustainable shade netting e.g. Polycarbonate sheeting with UV coating, heat pump, cooling system, thermostat controller etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Climate & Environment Monitoring Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

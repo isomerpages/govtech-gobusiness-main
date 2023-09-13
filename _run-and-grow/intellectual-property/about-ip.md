@@ -46,6 +46,14 @@ Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP ser
 
 {% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
 
+Watch the video below to learn how to manage your business's IA/IP with our platform.
+
+<p>
+<div class="bp-youtube">
+  <iframe title="GoBusiness IP Grow: Strengthen your business through your IA/IP" src="https://www.youtube.com/embed/asGOPbQL9X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+</div>
+</p>
+
 ---
 <a name='list-as-ia-ip-service-provider'></a>
 

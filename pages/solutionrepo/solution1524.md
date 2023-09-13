@@ -1,17 +1,15 @@
 ---
-title: 'Armfort Security Workforce'
+title: 'ePSProfessional Version 1.7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1524
 ---
 
-## Armfort Security Workforce
+## ePSProfessional Version 1.7
 
 ## Overview
 
 **Description**
 
-Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
-
-Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,17 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential (Leasing Model)</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (Leasing Model)</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Essential (One time)</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (One time)</td>
-<td style='padding: 10px;'>$31,000.00</td>
-<td style='padding: 10px;'>$28,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +43,7 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 
 ## Vendor Information
 
- Company Name: ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd<br>Web URL:www.armfort.com<br>Contact Hotline: 96497552<br>Contact Email: support@armfort.com
+ Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Ascent iSPOT Fleet Management System'
+title: 'CIRCL F&B Omnichannel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1275
 ---
 
-## Ascent iSPOT Fleet Management System
+## CIRCL F&B Omnichannel
 
 ## Overview
 
 **Description**
 
-iSPOT Fleet Management System helps businesses maintain optimal use of their work vehicles from a central platform. It involves the use of a telematic unit such as a GPS Tracking device. iSPOT FMS allows businesses to collect data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. They will be able to track all their vehicles in real time, determine when they'll get to the destination, and how well the vehicles are handled by the drivers.
+CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ iSPOT Fleet Management System helps businesses maintain optimal use of their wor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'>$5,998.88</td>
+<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ iSPOT Fleet Management System helps businesses maintain optimal use of their wor
 
 ## Vendor Information
 
- Company name:Ascent Solutions Pte Ltd<br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com 
+ Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

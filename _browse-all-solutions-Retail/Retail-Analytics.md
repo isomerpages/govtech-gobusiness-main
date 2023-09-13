@@ -20,7 +20,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1335' target='_blank'>Intelli-Signage</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1297' target='_blank'>Intelli-Signage</a><br></td>
 <td>Anewtech Systems Pte Ltd</td>
 </tr>
 </table>
