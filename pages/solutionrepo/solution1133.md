@@ -1,20 +1,17 @@
 ---
-title: 'Robotic arms'
+title: 'Automated Labelling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1133
 ---
 
-## Robotic arms
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -25,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Robotic arms of various axis (e.g., 2-axis, 4-axis, 6-axis, 8-axis etc.) <br>- Robotic arms of various payload i.e. weight that a robot arm can lift, including weight of the end of arm tooling (EOAT) <br><br>Support excludes end-effectors, sensors, programming and integration cost<br></td>
+<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
 </tr>
 </table>
 

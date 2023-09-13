@@ -1,15 +1,15 @@
 ---
-title: 'Automated Sorter/ Grader'
+title: 'Water Filtration System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1177
 ---
 
-## Automated Sorter/ Grader
+## Water Filtration System
 
 ## Overview
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic graders to sort produce by species/ sizes/ weight while minimizing the
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water Filtration System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

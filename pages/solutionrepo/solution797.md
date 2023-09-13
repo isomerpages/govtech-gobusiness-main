@@ -1,16 +1,17 @@
 ---
-title: 'Rah Tech Sophos Endpoint Protection'
+title: 'Redoc - Document Management & Transaction Records Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution797
 ---
 
-## Rah Tech Sophos Endpoint Protection
+## Redoc - Document Management & Transaction Records Version 1.0
 
 ## Overview
 
 **Description**
 
-Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
-Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
+
+The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +25,38 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
-<td style='padding: 10px;'>$29,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +66,7 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 
 ## Vendor Information
 
- Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
+ Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br><br>Contact Hotline: 91801197 <br><br>Contact Email: admin@realestatedoc.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -133,7 +133,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Regional Office(s): Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Offices: [Asia Pacific Region] Australia, China, Hong Kong, Taiwan, South Korea, Japan, Thailand, Vietnam, Indonesia, Malaysia, Philippines, Singapore,  Myanmar </li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [Europe, Middle East and Africa Region] Austria, Bahrain, Belgium, Czech Republic, Egypt, France, Germany, Hungary, Italy, Kazakhstan, Luxembourg, Morocco, Netherlands, Poland, Qatar, Saudi Arabia, South Africa, Spain, Sweden, Switzerland, Turkey, Ukraine, United Arab Emirates, United Kingdom</li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [Latin America Region] Argentina, Brazil, Chile, Colombia, Mexico, Peru, Venezuela</li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [North America Region] Canada, United States</li></ul>
 
 ---
 <a name='client-segments'></a>

@@ -1,15 +1,15 @@
 ---
-title: 'QuickBooks Online'
+title: 'Trueblu CRM Version 3.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution67
 ---
 
-## QuickBooks Online
+## Trueblu CRM Version 3.8
 
 ## Overview
 
 **Description**
 
-QuickBooks Online is an IRAS-registered cloud accounting software which helps small business owners to access their accounting data, send invoice & record expenses anytime & anywhere when they are online.
+TRUEBLU CRM is a unique Customer Relationship Management (CRM) tool that is integrated with social media platforms . Trueblu is a unique Cloud-based system that empowers SMEs to manage both new & loyal customers while automating the overall business processes like SEO and social media marketing. This business intelligence tool is an all-in-one solution that streamlines business processes such as customer management to social media marketing enabling businesses to freely automate their processes.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ QuickBooks Online is an IRAS-registered cloud accounting software which helps sm
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set A</td>
-<td style='padding: 10px;'>$499.00</td>
-<td style='padding: 10px;'>$471.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/active_interactions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set B</td>
-<td style='padding: 10px;'>$699.00</td>
-<td style='padding: 10px;'>$671.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set C</td>
-<td style='padding: 10px;'>$999.00</td>
-<td style='padding: 10px;'>$961.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set D</td>
-<td style='padding: 10px;'>$2,999.00</td>
-<td style='padding: 10px;'>$2,961.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online - Acloud - QBO Quick Start - Set E</td>
-<td style='padding: 10px;'>$3,999.00</td>
-<td style='padding: 10px;'>$3,961.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACloud_Bookkeeping_20200565_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package</td>
+<td style='padding: 10px;'>$9,080.00</td>
+<td style='padding: 10px;'>$9,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/active_interactions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: ACloud Bookkeeping Pte Ltd<br>Web URL: https://www.acloud-b.com/our-price--services.html <br><br>Contact Hotline: 97942119 <br><br>Contact Email: ACloud.Sales@gmail.com <br><br>
+ Company name:Active Interactions Pte Ltd<br>Web URL: https://trueblu.co/ <br>Contact Hotline: 91697979 <br>Contact Email: joel@activeinteractions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

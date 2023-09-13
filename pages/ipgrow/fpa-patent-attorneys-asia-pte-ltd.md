@@ -11,7 +11,7 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 
-<b>Intellectual property awards received:</b> Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ; Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ; Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ; Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property  2019 and 2021 ; Tier 1 Firm, Patent Prosecution, Managing Intellectual Property IP Stars Handbook
+<b>Intellectual property awards received:</b> Intellectual property awards received: Best IP Firm - Asia Pacific, APAC Legal Insider, 2022 ; Most Trusted Patent Law Firm, APAC Legal Awards, 2022 ; Leading Specialists in Patent Prosecution for South East Asia, APAC Legal Insider, 2021 ; Firm of the Year, Australian Patent Prosecution, Managing Intellectual Property 2019 and 2021 ; Tier 1 Firm, Patent Prosecution, Australia, Managing Intellectual Property IP Stars Handbook; Gold Tier Firm, Patent Prosecution, Australia, IAM
 
 <b>Type of organization:</b> SME
 
@@ -132,17 +132,17 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Intelligence and Search, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Engineering (Mechanical) (Second Class Honours) National University of Singapore, Graduate Certificate in Intellectual Property Law from National University of Singapore, Registered Patent Attorney in Singapore 
-- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2022), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022)
+- Awards/Accolades: Recognised as a 'Global Leader' by IAM Strategy 300 (2021-2023), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2020-2023), Recognised as a 'Top 50 IP Expert in Singapore' by Asia IP (2022), Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2023)
 - URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/desmond-tan" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/desmond-tan</a>
 
-**Karen, Bentlely**
+**Karen, Bentley**
 
 - Job Title: Principal
 - Years of Experience: 19 years
 - Location: Melbourne and Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Intelligence and Search, IP Audit, IP Due Diligence, IP Portfolio Management
 - Certifications/Qualifications: Bachelor of Applied Science (Medical Laboratory Science) (Hons) RMIT University, PhD (Faculty of Medicine) University of Melbourne, Masters (Intellectual Property Law) University of Melbourne, Registered Trans-Tasman Patent Attorney, Graduate of the AsiaLink Leaders Program 2021 
-- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2022), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2022), Longlisted for 2023 edition of IAM Strategy 300, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms) 
+- Awards/Accolades: Named as a 'Patent Star' by IP Star of Managing Intellectual Property (2019-2023), Ranked as a 'Recommended Individual' by IAM Patent 1000 (2016-2023), Recognised as a 'Global Leader' by IAM Strategy 300 2023, Shortlisted for 2023 Managing Intellectual Property Practitioner of the Year (Patent & Trademark Attorney Firms)
 - URL of LinkedIn/Company Profile: <a href="https://www.fpapatents.com/attorneys/karen-bentley" target="_blank" rel="noopener">https://www.fpapatents.com/attorneys/karen-bentley</a>
 
 **Danny Gelman**
@@ -159,4 +159,4 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 <p>
 <a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

@@ -117,11 +117,11 @@ Our name says it all; we are an Asian Intellectual Property hub - providing trad
 <a name='testimonials'></a>
 ### Testimonials
 
-*"IPHub has been our efficient one-stop service provider for the trademark filings in several jurisdictions in Asia. Doroth&eacute;e and team are well equipped with extensive experiences, knowledge and support network. They understand our specific needs, highly responsive and effective in providing us with the recommendations and solutions. Highly recommended to work with!"* - Director, UCC
+*"IPHub has been our efficient one-stop service provider for the trademark filings in several jurisdictions in Asia. Dorothee Frey and team are well equipped with extensive experiences, knowledge and support network. They understand our specific needs, highly responsive and effective in providing us with the recommendations and solutions. Highly recommended to work with!"* - Director, UCC
 
-*"Highly recommended. Doroth&eacute;e and her team are dedicated to simplify Intellectual Property. We greatly appreciate their practical approach, their responsiveness and the effectiveness of their one-stop solution in Asia. There are very few companies that offer such high-quality services. Nobody will answer your emails/requests quicker than IPHub, this is so exceptional!"* - Director, Gyeon
+*"Highly recommended. Dorothee Frey and her team are dedicated to simplify Intellectual Property. We greatly appreciate their practical approach, their responsiveness and the effectiveness of their one-stop solution in Asia. There are very few companies that offer such high-quality services. Nobody will answer your emails/requests quicker than IPHub, this is so exceptional!"* - Director, Gyeon
 
-*"Doroth&eacute;e and her team at IPHub Asia have been invaluable in our filing process. Doroth&eacute;e especially has expert knowledge in this field and for the region, which was exactly what we required. The promptness in her responses wherever she is had been helpful; and you know you are in good hands when the recommendations offered are tailored to your business needs. It's been a pleasure working with them."* - Director, Preqin
+*"Dorothee Frey and her team at IPHub Asia have been invaluable in our filing process. Dorothee Frey especially has expert knowledge in this field and for the region, which was exactly what we required. The promptness in her responses wherever she is had been helpful; and you know you are in good hands when the recommendations offered are tailored to your business needs. It's been a pleasure working with them."* - Director, Preqin
 
 
 

@@ -168,7 +168,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 **Ooi Yeong Boon**
 
 - Job Title: Managing Director 
-- Years of Experience: 10 years
+- Years of Experience: 15 years
 - Location: Malaysia
 - IA/IP-Related Expertise: Trade Mark Agent Service, Innovation Consultancy, IP Strategy Consulting, IP Brokerage and Licensing, IP Training
 - Certifications/Qualifications: LL.B Law(Hons) University of Liverpool, Dip. In International Arbitration

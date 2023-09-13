@@ -1,15 +1,17 @@
 ---
-title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
+title: 'Armfort Security Workforce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## SKYFY VTS FLEET MANAGEMENT SYSTEM
+## Armfort Security Workforce
 
 ## Overview
 
 **Description**
 
-Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
+Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
+
+Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +25,31 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,175.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential (Leasing Model)</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (Leasing Model)</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Essential (One time)</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (One time)</td>
+<td style='padding: 10px;'>$31,000.00</td>
+<td style='padding: 10px;'>$28,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +59,7 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 
 ## Vendor Information
 
- Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
+ Company Name: ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd<br>Web URL:www.armfort.com<br>Contact Hotline: 96497552<br>Contact Email: support@armfort.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

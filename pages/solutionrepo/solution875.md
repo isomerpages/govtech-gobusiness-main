@@ -1,16 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
+title: 'Fleet Safety Management System Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution875
 ---
 
-## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
+## Fleet Safety Management System Version 7
 
 ## Overview
 
 **Description**
 
-SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
-Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
+SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
+ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +24,10 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +37,7 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 
 ## Vendor Information
 
- Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
+ Company Name: SmartComm Electronics Pte Ltd<br>Web URL: www.smartcomm.biz <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -178,4 +178,4 @@ We work together with our clients every step of the way, providing elegant and c
 <p>
 <a class='btn' href='https://form.gov.sg/640806f397130b0011b96163' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023
