@@ -1,17 +1,15 @@
 ---
-title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
+title: 'BIZ POS VER 3.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution274
 ---
 
-## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80
+## BIZ POS VER 3.5
 
 ## Overview
 
 **Description**
 
-BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
-
-BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
+Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
 
 ## Solution Packages Option(s)
 
@@ -25,41 +23,48 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 50</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$19,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
+<td style='padding: 10px;'>$4,750.00</td>
+<td style='padding: 10px;'>$4,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 100</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
+<td style='padding: 10px;'>$4,050.00</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 -  LITE 150</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
+<td style='padding: 10px;'>$5,750.00</td>
+<td style='padding: 10px;'>$5,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 200</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
+<td style='padding: 10px;'>$6,750.00</td>
+<td style='padding: 10px;'>$6,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
+<td style='padding: 10px;'>$7,750.00</td>
+<td style='padding: 10px;'>$7,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
+ Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

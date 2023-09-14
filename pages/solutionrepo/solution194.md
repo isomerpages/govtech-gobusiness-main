@@ -1,15 +1,17 @@
 ---
-title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
+title: 'CLIO'
 permalink: /productivity-solutions-grant/solutionrepo/solution194
 ---
 
-## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0
+## CLIO
 
 ## Overview
 
 **Description**
 
-AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders and Delivery. The end-to-end solutions include integration with POS, Self-Ordering Kiosk, Kitchen Management/Display Systems, Rewards (points system, e-vouchers, e-gift cards), Online Payment with multiple payment gateways, Pay at Table, Real Time Menu controls, Data Analytics, amongst others.   AppsPOS also provides e-waiter solution for dine in restaurants to assist customers in ordering.
+Clio Manage is a cloud-based practice management system that helps law firms automate billing, financial administration and legal case management. Its comprehensive features (including integration with Xero), coupled with its unlimited storage, ease of use, and affordable pricing, makes it ideal for small law firms looking to modernise their practice and increase profitability..  
+
+As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law firms in Singapore and Hong Kong.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Basic)</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A: 1 User Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
+<td style='padding: 10px;'>$2,738.00</td>
+<td style='padding: 10px;'>$2,218.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - e-Waiter (Advanced)</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: 2 Users Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
+<td style='padding: 10px;'>$4,156.00</td>
+<td style='padding: 10px;'>$3,476.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - Self Ordering Kiosk</td>
-<td style='padding: 10px;'>$9,240.00</td>
-<td style='padding: 10px;'>$9,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C:3 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
+<td style='padding: 10px;'>$5,934.00</td>
+<td style='padding: 10px;'>$4,934.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR ordering (Standard)</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D:4 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
+<td style='padding: 10px;'>$7,352.00</td>
+<td style='padding: 10px;'>$6,192.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0 - QR Ordering (Premium)</td>
-<td style='padding: 10px;'>$11,530.00</td>
-<td style='padding: 10px;'>$11,510.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AppsPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E:5 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
+<td style='padding: 10px;'>$8,590.00</td>
+<td style='padding: 10px;'>$7,350.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ AppsPOS provides QR code ordering solutions for Dine in, Takeaway, Pre-Orders an
 
 ## Vendor Information
 
- Company Name: AppsPOS Pte Ltd<br>Web URL: www.appspos.com <br><br>Contact Hotline: 90288123 <br><br>Contact Email: admin@appspos.com <br><br>
+ Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

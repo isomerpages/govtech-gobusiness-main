@@ -1,15 +1,15 @@
 ---
-title: 'MMS - Xero Accounting Solution'
+title: 'TWCSS - teamWork CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution910
 ---
 
-## MMS - Xero Accounting Solution
+## TWCSS - teamWork CRM
 
 ## Overview
 
 **Description**
 
-At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
+Digital transformation is key to strive in today's competitive market. teamWork CRM is a fully cloud-based solution tailormade to heighten the levels of efficiency, control & clarity for any businesses. Facilitated with an ensuite of key modules & functions (sales, internal processes, document control, mass communications etc.), it ensures that all aspects of the business is captured & deeply integrated within to exercise and take control of.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - A - Xero subscription only</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - B - Xero Premium Training Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - C - Xero Premium Setup Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - D - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWCSS - teamWork CRM</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: METROPOLITAN MANAGEMENT SERVICES PTE. LTD.<br>Web URL: https://www.xero.com/sg/?escape=true <br><br>Contact Hotline: 63093800 <br><br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br><br>
+ Company name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

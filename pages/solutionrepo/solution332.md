@@ -1,15 +1,15 @@
 ---
-title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
+title: 'MyRetailer Android POS'
 permalink: /productivity-solutions-grant/solutionrepo/solution332
 ---
 
-## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
+## MyRetailer Android POS
 
 ## Overview
 
 **Description**
 
-Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full v
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
-<td style='padding: 10px;'>$16,300.00</td>
-<td style='padding: 10px;'>$14,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$27,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
+ Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

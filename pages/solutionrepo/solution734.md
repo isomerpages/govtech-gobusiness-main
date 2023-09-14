@@ -1,20 +1,15 @@
 ---
-title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
+title: 'TimeCentral Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution734
 ---
 
-## (A.I.) INFO-TECH Cloud HRMS Version 8.0
+## TimeCentral Version 11
 
 ## Overview
 
 **Description**
 
-INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
-
-1. Transforming HR Software to Cloud
-2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-3. Help HR handle company's compliance challenges and better manage resources.
-4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ## Solution Packages Option(s)
 
@@ -28,38 +23,38 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
-<td style='padding: 10px;'>$25,300.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
-<td style='padding: 10px;'>$32,700.00</td>
-<td style='padding: 10px;'>$30,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -69,7 +64,7 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 
 ## Vendor Information
 
- Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+ Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,73 +1,35 @@
 ---
-title: 'HR Shared Services by RecruitSG'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1169
 ---
 
-## HR Shared Services by RecruitSG
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
-
-Companies can simplify their HR processes with recruitSG's end-to-end service - supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 30 Employees</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 50 Employees</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 100 Employees</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 150 Employees</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 200 Employees</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name: RECRUIT.COM.SG PTE. LTD.<br>Web URL: WWW.RECRUIT.COM.SG <br>Contact Hotline: 68767936 <br>Contact Email: HELLO@RECRUIT.COM.SG 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

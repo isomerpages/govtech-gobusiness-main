@@ -1,16 +1,15 @@
 ---
-title: 'ABSS Premier Version 30'
+title: 'Highnix ERP Plus2 Version 4-3-35'
 permalink: /productivity-solutions-grant/solutionrepo/solution468
 ---
 
-## ABSS Premier Version 30
+## Highnix ERP Plus2 Version 4-3-35
 
 ## Overview
 
 **Description**
 
-Dandelion Consulting is a ABSS Certified Partner for 10 years and has been fully trained and certified to provide a range of services including sales, installation and training.
-ABSS Premier is a leading SME business integrated simple and easy to use accounting solution. A digital ready accounting software that helps SME to manage and process sales and purchases, track receivable, payable, inventory and GST. Simplify desktop & cloud accounting management, ePayments, eInvoices and more.
+Highnix ERP solution is powered by Linux and cloud-based ERP engine which was developed by Highnix with tremendous amount of professional and software experience.  It simplifies and standardizes business processes, integrate business transactions and eliminate unproductive, human errors and maintain data continuity. No more worries about staff turnover. It can be customized, scaled, upgraded and can integrate with third-party applications.  It helps saving significant amount of operating cost.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1U+Setup+Training</td>
-<td style='padding: 10px;'>$3,280.00</td>
-<td style='padding: 10px;'>$3,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard System for up to 3 concurrent users</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Setup+Training</td>
-<td style='padding: 10px;'>$4,230.00</td>
-<td style='padding: 10px;'>$4,230.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$5,780.00</td>
-<td style='padding: 10px;'>$5,780.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Enhanced System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 1U+Setup+Training</td>
-<td style='padding: 10px;'>$6,090.00</td>
-<td style='padding: 10px;'>$6,090.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus 3U+Remote+Setup+Training</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Dandelion_Annex3_CR_09feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Enhanced System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ ABSS Premier is a leading SME business integrated simple and easy to use account
 
 ## Vendor Information
 
- Web URL: www.dandelion.com.sg <br><br>Contact Hotline: 89275811 <br><br>Contact Email: info@dandelion.com.sg <br><br>
+ Company Name: Highnix Pte Ltd<br>Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

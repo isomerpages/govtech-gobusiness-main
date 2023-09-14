@@ -1,15 +1,15 @@
 ---
-title: 'Ecommerce Online Shop with Custom Design'
+title: 'SAP Business One Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1488
 ---
 
-## Ecommerce Online Shop with Custom Design
+## SAP Business One Version 10.0
 
 ## Overview
 
 **Description**
 
-Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
+SAP Business One is used by small and midsize businesses worldwide. The solution is affordable to manage an entire business from sales and customer relationships to financials and operations. The solution facilitates companies to streamline processes, act on timely information and drive profitable growth. SAP Business One is designed with flexibility in mind and can be deployed on-premises or in the cloud, accessible at any time and from any place using our mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Basic)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Cloud Subscription Users on SQL) - (Starter Package)</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Ecommerce (Premium)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VueTech_EcommerceOnline Shop_with_CustomDesign_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Cloud Subscription Users on SQL)</td>
+<td style='padding: 10px;'>$28,260.00</td>
+<td style='padding: 10px;'>$23,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (5 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$34,060.00</td>
+<td style='padding: 10px;'>$25,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (10 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$46,840.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (7 Perpetual Licenses on HANA)</td>
+<td style='padding: 10px;'>$61,904.70</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
+ Company Name: Axxis Consulting (S) Pte Ltd<br>Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

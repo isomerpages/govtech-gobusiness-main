@@ -1,15 +1,15 @@
 ---
-title: 'DM Ice Cube Predictable Leads Generation Program'
+title: 'DM OOm Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution711
 ---
 
-## DM Ice Cube Predictable Leads Generation Program
+## DM OOm Digital Performance Marketing Package
 
 ## Overview
 
 **Description**
 
-Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
+OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 1 - SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Ice_Cube_Annex_3_CR_wef_24Nov22_Part_1' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 2 - Ecommerce SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Ice Cube Predictable Leads Generation Program - Package 3 - SEM+SMA+video (3months)</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'><a href='/images/psg/IceCube_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/Content Marketing Combo</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex3_CR_wef02Feb23_package5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 
 ## Vendor Information
 
- Company Name: Ice Cube Marketing Pte Ltd<br>Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
+ Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

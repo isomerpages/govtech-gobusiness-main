@@ -44,6 +44,10 @@ const customTables = [
     columns: ["50%", "auto"]
   },
   {
+    path: "/maintenance-notices/",
+    columns: ["30%", "auto"]
+  },
+  {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/",
     columns: ["30%", "auto"]
   },
@@ -61,6 +65,10 @@ const customTables = [
   },
   {
     path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/hiring-incentive-enhanced-hiring-incentive/",
+    columns: ["50%","50%"]
+  },
+  {
+    path: "/haze/",
     columns: ["50%","50%"]
   }
 ];

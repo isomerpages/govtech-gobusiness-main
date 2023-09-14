@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
+title: 'iLOGON (iTMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution577
 ---
 
-## EPOS Integrated Digital Solution for F&B Version 2.0
+## iLOGON (iTMS)
 
 ## Overview
 
 **Description**
 
-EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, place orders and make payment. Orders are automatically sent to the kitchen. This streamlined process enables an F&B to (i) improve manpower and efficiency and (ii) increase customer satisfaction. Built-in CRM and Rewards Program drive increased customer spend and retention, increasing sales and profitability. Integrations to Grab, FoodPanda, Xero, Quickkbooks, Shopify and Ecommerce further increase productivity.
+KEYfields' iLOGON iTMS is an operational centric and easy to implement transport management solution, with scalable design that allow flexibility to add or enhance functionalities to meet business growing needs. The solution enhances transportation logistics to boost on-time deliveries and customer service levels. It provides real time updates, listen to jobs and manages all fleet and driver resources to ensure the right supplies is picked up and delivered on time.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering</td>
-<td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'>$12,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iTMS) -  SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/<br>Contact Hotline: 68427886<br>Contact Email: info@keyfields.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'SQL Account Version 5'
+title: 'Xero by Book&Entries'
 permalink: /productivity-solutions-grant/solutionrepo/solution204
 ---
 
-## SQL Account Version 5
+## Xero by Book&Entries
 
 ## Overview
 
 **Description**
 
-SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ SQL Account includes full range of business Accounting features including AR, AP
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Advance - 1 User)</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package B (Premium Package - Software + Training)</td>
+<td style='padding: 10px;'>$1,720.00</td>
+<td style='padding: 10px;'>$1,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Advance - 3 Users) </td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package C (Premium Package - Software + Setup)</td>
+<td style='padding: 10px;'>$2,220.00</td>
+<td style='padding: 10px;'>$2,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Advance - 5 Users)</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package D (Premium Full Package)</td>
+<td style='padding: 10px;'>$3,220.00</td>
+<td style='padding: 10px;'>$3,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Advance - 8 Users)</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package E (Premium Full Package with Add-on)</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ SQL Account includes full range of business Accounting features including AR, AP
 
 ## Vendor Information
 
- Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
+ Company Name: Book&Entries Pte Ltd<br>Web URL: www.bookentries.com.sg <br><br>Contact Hotline: 62214246 <br><br>Contact Email: support@bookentries.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

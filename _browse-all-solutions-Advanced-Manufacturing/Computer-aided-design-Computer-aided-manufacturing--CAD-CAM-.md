@@ -20,12 +20,12 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1369' target='_blank'>Mastercam Software Version 2023</a><br></td>
-<td>Techtown Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1209' target='_blank'>NX CAD/CAM Software Version NX2212</a><br></td>
+<td>DreamTechnology System Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1740' target='_blank'>NX CAD/CAM Software Version NX2212</a><br></td>
-<td>DreamTechnology System Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1322' target='_blank'>Mastercam Software Version 2023</a><br></td>
+<td>Techtown Pte Ltd</td>
 </tr>
 </table>
 

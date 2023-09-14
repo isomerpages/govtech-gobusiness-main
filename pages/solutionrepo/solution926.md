@@ -1,15 +1,15 @@
 ---
-title: 'ITAPS'
+title: 'Tessaract Practice Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution926
 ---
 
-## ITAPS
+## Tessaract Practice Management Solution
 
 ## Overview
 
 **Description**
 
-iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) that automates payroll, leave, claims and time attendance tracking for companies.
+Tessaract's PMS is a practice management software that powers and accelerates the growth of law firms. A one-stop-shop software solution, law firms can automate daily tasks, streamline efficiency, and improve services with Tessaract's PMS.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS - iTaps HRMS Version 1.0 - Package 1 (20 employees)					</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package A</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 2 (45 employees)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package B</td>
+<td style='padding: 10px;'>$13,680.00</td>
+<td style='padding: 10px;'>$13,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 3 (75 employees)					</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'>$13,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package C</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 4 (120 employees)					</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'>$19,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package D</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ITAPS -iTaps HRMS Version 1.0 - Package 5 (200 employees)					</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mind_Master_20200586_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package E</td>
+<td style='padding: 10px;'>$42,200.00</td>
+<td style='padding: 10px;'>$42,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ iTaps is a comprehensive and intuitive Human Resource Management System (HRMS) t
 
 ## Vendor Information
 
- Company Name: Mind Master Solutions Pte Ltd<br>Web URL: www.mindmaster.com.sg <br><br>Contact Hotline: 62505623 <br><br>Contact Email: info@mindmastersg.com <br><br>
+ Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

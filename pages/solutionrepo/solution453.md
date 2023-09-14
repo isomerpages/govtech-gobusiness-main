@@ -1,15 +1,18 @@
 ---
-title: 'Artemis'
+title: 'DM Hashmeta Digital Enablement Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution453
 ---
 
-## Artemis
+## DM Hashmeta Digital Enablement Packages
 
 ## Overview
 
 **Description**
 
-Artemis is a comprehensive and user-friendly automation tool, which helps clients meet complex KYC/AML/CTF regulatory requirements. Leveraging on Machine Learning and Artificial Intelligence, Artemis is built specifically to address the challenges of the ever-changing regulatory landscape, it also helps regulated businesses to stay ahead of the regulatory curve by assisting them in fulfilling their KYC, risk assessment, record-keeping, screening, and ongoing due diligence obligations.
+Founded in 2012, Hashmeta is a full suite Martech company, assisting brands and advertisers in achieving their digital marketing objectives by fusing creative content strategy with intelligent targeting, and integrating it through Hashmeta's own proprietary technologies. 
+
+The solutions offered to increase client's marketing effectiveness and efficiencies include the following:
+Content & Influencer Marketing, Marketing Automation, Ecommerce & Leads Generation (SEO/SEM).
 
 ## Solution Packages Option(s)
 
@@ -23,31 +26,38 @@ Artemis is a comprehensive and user-friendly automation tool, which helps client
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Searches</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'>$2,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Paid Advertising + Content Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>500 Searches</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Paid Advertising + Tik Tok Live Streaming [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1000 Searches</td>
-<td style='padding: 10px;'>$3,788.00</td>
-<td style='padding: 10px;'>$3,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Paid Advertising + Influencer Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3000 Searches</td>
-<td style='padding: 10px;'>$4,588.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cynopsis_Solutions_Artemis_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Paid Advertising + Ecommerce Marketing [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Lead Generation (SEO+SEM) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hashmeta_DM_Hashmeta_Digital_Enablement_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +67,7 @@ Artemis is a comprehensive and user-friendly automation tool, which helps client
 
 ## Vendor Information
 
- Company name:Cynopsis Solutions Pte Ltd<br>Web URL: https://cynopsis-solutions.com/artemis-kyc-solution/ <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co 
+ Company name:Hashmeta Pte Ltd<br>Web URL: www.hashmeta.com<br>Contact Hotline:62055931<br>Contact email:hello@hashmeta.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

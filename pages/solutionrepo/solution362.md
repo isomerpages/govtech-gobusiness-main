@@ -1,15 +1,15 @@
 ---
-title: 'CFOsg XERO Cloud Accounting'
+title: 'EQuipPOS Beauty Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution362
 ---
 
-## CFOsg XERO Cloud Accounting
+## EQuipPOS Beauty Solutions Version 3
 
 ## Overview
 
 **Description**
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Xero is an universal accounting software that provides a complete list of accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution A (Software only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Lite)</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution B (Software + Setup)</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic)</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution C (Software + Setup + Training)</td>
-<td style='padding: 10px;'>$3,964.00</td>
-<td style='padding: 10px;'>$3,907.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + GuestBook App)</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'>$7,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution D (Software + Setup + Training Plus)</td>
-<td style='padding: 10px;'>$4,664.00</td>
-<td style='padding: 10px;'>$4,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic + Digital Rewards & Orders App)</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Solution E (Software + Setup Plus + Training Plus)</td>
-<td style='padding: 10px;'>$5,984.00</td>
-<td style='padding: 10px;'>$5,927.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Cloud_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EQuipPOS Beauty Solutions Version 3 - Package (Basic without hardware)</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Beauty_20220079_Desensitised_Annex_3_Part_6.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Cloud Accounting & Consultancy Pte Ltd<br>Web URL: cfosg.sg <br>Contact Hotline: 89491427 <br>Contact Email: xero@cfosg.sg 
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br><br>Contact Hotline: 67504498 <br><br>Contact Email: sales@edgeworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

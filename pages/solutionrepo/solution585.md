@@ -1,15 +1,26 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'Job Redesign Consultancy - KPMG Services Pte Ltd.'
 permalink: /productivity-solutions-grant/solutionrepo/solution585
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## Job Redesign Consultancy - KPMG Services Pte Ltd.
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+KPMG People and Change team in Singapore offers a range of services that enables organisation to unlock competitive advantage in today's environment.
+
+KPMG provides customized support in below core areas:
+-	Organisation Design
+-	Job Redesign
+-	Talent Management
+-	HR Transformation
+-	Strategic Workforce Transformation and Workforce Shaping and Optimisation
+-	Behavioural Change Management
+-	Employee Experience
+-	Rewards Advisory
+-	Learning and Development
 
 ## Solution Packages Option(s)
 
@@ -23,10 +34,10 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KPMG Services Pte Ltd.</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/KPMG_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +47,7 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company name: KPMG Services Pte. Ltd.<br>UEN No: 200003956G<br>Web URL: https://home.kpmg/sg/en/<br>Contact Name: Ms Emily Fok, Assistant Director <br>Contact Email: emilyfok@kpmg.com.sg <br>Contact Number: 9619 6236
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

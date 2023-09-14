@@ -1,17 +1,15 @@
 ---
-title: 'cuteOffice ERP for PCM Version 2.0'
+title: 'Microsoft Dynamics 365 Business Central (NAV) On Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 
-## cuteOffice ERP for PCM Version 2.0
+## Microsoft Dynamics 365 Business Central (NAV) On Cloud
 
 ## Overview
 
 **Description**
 
-cuteOffice ERP software helps to streamline the entire company operations starting from human resource data management, electronic leave forms, time attendance (including geo-punch using Mobile Apps), work planning and scheduling and one click payroll processing.
-
-The procurement control, inventory management, sales, enquiry and quotation management, all the way to accounting are also available in the ERP but not included in this workforce optimiser package.
+Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick-to-implement, simple-to-use business solution with the power to support all the business ambitions.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,27 @@ The procurement control, inventory management, sales, enquiry and quotation mana
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite >150 Users</td>
-<td style='padding: 10px;'>$29,400.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package A (5 Essential Users with Peppol)</td>
+<td style='padding: 10px;'>$22,905.00</td>
+<td style='padding: 10px;'>$20,155.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 150 Users</td>
-<td style='padding: 10px;'>$23,200.00</td>
-<td style='padding: 10px;'>$22,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 100 Users</td>
-<td style='padding: 10px;'>$17,600.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 50 Users</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>cuteOffice ERP for PCM Version 2.0 - HRM Suite up to 20 Users</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cutech20210212_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package B (10 Essential Users with Peppol)</td>
+<td style='padding: 10px;'>$37,335.00</td>
+<td style='padding: 10px;'>$29,235.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Cutech Infocomm Solutions Pte Ltd<br>Web URL: www.cutechgroup.com/it <br><br>Contact Hotline: 69042340 <br><br>Contact Email: jnaveen@cutechgroup.com <br><br>
+ Company name:Globalsoft Solutions Pte Ltd<br>Web URL: http://mng-solutions.com/dynamics-365-business/ <br>Contact Hotline: 65705012 <br>Contact Email: enquiries@mng-solutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

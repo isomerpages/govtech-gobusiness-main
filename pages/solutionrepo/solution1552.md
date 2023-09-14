@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'Intuit Quickbooks Online Full Transformation Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
-## Microsoft Dynamics 365 Business Central
+## Intuit Quickbooks Online Full Transformation Packages
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps Distribution companies integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM), Add-on for promotions and end to end delivery management. Some packages include integration with Lazada / Shopee.
+Quickbooks Online is a user-friendly accounting solution and is able to track sales, expenses and profit or by classes, projects, and locations. The solution can generate digital sales quotations and sales invoices and can track and manage Goods and Services Tax (GST) with customized IRAS Form F5.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package A - Subscription 6 Essential + 1 Team user, 1 Marketplace Connector</td>
-<td style='padding: 10px;'>$39,347.20</td>
-<td style='padding: 10px;'>$33,847.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Plan</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package B - Subscription 6 Essential + 1 Team user</td>
-<td style='padding: 10px;'>$33,647.20</td>
-<td style='padding: 10px;'>$30,847.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plan </td>
+<td style='padding: 10px;'>$3,564.00</td>
+<td style='padding: 10px;'>$3,564.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package C - Subscription 8 Essential + 2 Team user, 1 Marketplace Connector</td>
-<td style='padding: 10px;'>$41,922.40</td>
-<td style='padding: 10px;'>$36,422.40</td>
-<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business</td>
+<td style='padding: 10px;'>$5,664.00</td>
+<td style='padding: 10px;'>$5,664.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package D - Perpetual 8 Essential + 2 Team user, 1 Marketplace Connector</td>
-<td style='padding: 10px;'>$48,952.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business - With Customised Training</td>
+<td style='padding: 10px;'>$6,864.00</td>
+<td style='padding: 10px;'>$6,864.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Wholesale Package E - Perpetual 9 Essential + 2 Team user</td>
-<td style='padding: 10px;'>$45,282.00</td>
-<td style='padding: 10px;'>$42,482.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winspire_Wholesale_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Small Business - With Customised Training</td>
+<td style='padding: 10px;'>$9,264.00</td>
+<td style='padding: 10px;'>$9,264.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-pr
 
 ## Vendor Information
 
- Company name:Winspire Solutions Pte Ltd<br>Web URL: https://winspiresolutions.com/microsoft-dynamics-365-business-central/ <br>Contact Hotline: 98357900 <br>Contact Email: jkulkarni@winspiresolutions.com
+ Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

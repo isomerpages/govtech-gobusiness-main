@@ -352,6 +352,26 @@ $desktop: 960px + (2 * $gap) !default;
     border-color: $secondary;
   }
 }
+//Yunkai Panel Test
+.mobilepanel {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 1fr;
+  margin: 24px 0;
+}
+
+.mobilepanel {
+  display: grid;
+  row-gap: 16px;
+  background-color: #F9FAFA;
+  border: 1px solid #EEF0F2;
+  box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+  border-radius: 5px;
+  padding: 24px;
+  word-break: break-word;
+  grid-auto-rows: auto;
+}
+
 
 // Homepage
 #key-highlights {

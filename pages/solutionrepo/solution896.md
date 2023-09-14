@@ -1,15 +1,15 @@
 ---
-title: 'iMakan'
+title: 'Synergix E1 Sales & Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution896
 ---
 
-## iMakan
+## Synergix E1 Sales & Accounting
 
 ## Overview
 
 **Description**
 
-iMakan Self Ordering is best known to help F&B achieve high efficiency in the entire order-to-kitchen process. From iMakan Self Ordering Kiosks, iMakan QR Table Ordering to iMakan Online Ordering for self-pickup and delivery, the solution features a clean and intuitive user interface for quick, fuss free ordering. Together with its automated upselling feature, iMakan helps F&B owners realize potential revenue sooner.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ iMakan Self Ordering is best known to help F&B achieve high efficiency in the en
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Ordering (Direct Purchase)</td>
-<td style='padding: 10px;'>$6,980.00</td>
-<td style='padding: 10px;'>$6,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,770.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital & QR Ordering Standard with Analytics</td>
-<td style='padding: 10px;'>$7,980.00</td>
-<td style='padding: 10px;'>$7,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>F&B Full Digitalisation with Analytics</td>
-<td style='padding: 10px;'>$13,480.00</td>
-<td style='padding: 10px;'>$13,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 x Kiosk with Analytics</td>
-<td style='padding: 10px;'>$9,280.00</td>
-<td style='padding: 10px;'>$8,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 x Kiosks + KDS & Number Display with Analytics</td>
-<td style='padding: 10px;'>$18,380.00</td>
-<td style='padding: 10px;'>$16,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_iMakan_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,770.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Synergi_Annex_3_CR_wef_25_Aug__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

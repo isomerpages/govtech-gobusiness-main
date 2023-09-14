@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Cyber Security Solutions'
+title: 'DM Bizsquare Digital Marketing Suite Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1483
 ---
 
-## Microsoft Cyber Security Solutions
+## DM Bizsquare Digital Marketing Suite Packages
 
 ## Overview
 
 **Description**
 
-Leveraging on Microsoft Security, VGC Microsoft Cybersecurity solution delivers a 360-degree approach that reduces costs and effectively secures your cloud environment. This solution aims to protect your users, devices, and emails against attacks, along with user and device management to secure access to organization resources. With our team of Microsoft-certified professionals, VGC will provide a one-stop solution from setup to maintaining the security and integrity of systems and data.
+Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands' competitiveness and bring more leads and sales to their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Leveraging on Microsoft Security, VGC Microsoft Cybersecurity solution delivers 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 users</td>
-<td style='padding: 10px;'>$3,830.00</td>
-<td style='padding: 10px;'>$3,830.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VGC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand Awareness (FB + IG) 3 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 users</td>
-<td style='padding: 10px;'>$6,880.00</td>
-<td style='padding: 10px;'>$6,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VGC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
-<td style='padding: 10px;'>$9,810.00</td>
-<td style='padding: 10px;'>$9,810.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VGC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA for Lead Generation (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
-<td style='padding: 10px;'>$15,790.00</td>
-<td style='padding: 10px;'>$15,790.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VGC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (FB + IG) 5 months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
-<td style='padding: 10px;'>$30,220.00</td>
-<td style='padding: 10px;'>$30,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/VGC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM for Brand Awareness (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Leveraging on Microsoft Security, VGC Microsoft Cybersecurity solution delivers 
 
 ## Vendor Information
 
- Company name:VGC TECHNOLOGY PTE LTD<br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 92761296 <br>Contact Email: vinc@vgctechnology.com 
+ Company Name: Bizsquare Management Consultants Pte Ltd<br>Web URL: https://bizsquare.com.sg/branding-marketing/ <br>Contact Hotline: 91834413 <br>Contact Email: admin@bizsquare.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

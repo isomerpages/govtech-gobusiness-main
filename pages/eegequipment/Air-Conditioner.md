@@ -73,6 +73,8 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Fujitsu - AOAH36CBTA
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
+- GREE - GULD18W/NhB1-K(P)
+- GREE - GULD24W/NhB-K(P)
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -121,6 +123,8 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Midea - MDVC-V170W/DN1
 - Midea - MDVC-V72W/DN1
 - Midea - MDVC-V92W/DN1
+- Midea - MKC-3M22E
+- Midea - MKC-4M27E
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
@@ -133,6 +137,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - MXY-5H48VG
 - Mitsubishi Electric - MXY-6C140VA
 - Mitsubishi Electric - MXY-6C53VAM
+- Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-P200YKD.TH
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH

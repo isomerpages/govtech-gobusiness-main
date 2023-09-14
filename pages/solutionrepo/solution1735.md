@@ -1,15 +1,15 @@
 ---
-title: 'Smartweb Version V3'
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1735
 ---
 
-## Smartweb Version V3
+## DM APEC Solutions Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Drive higher sales, streamline operations, and provide a better customer experience through a data-driven approach to restaurant management and customer engagement; with fast, error-free ordering, quicker table turns and reduced reliance on staff. Address customer pain points by reducing wait time and eliminating errors on the orders whilst improving the overall dining experience through AI that personalise recommendations based on the spending habits and palette profile every dinner.
+APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Drive higher sales, streamline operations, and provide a better customer experie
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with Training, Installation and Configuration</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_Version_V3_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering without Training, Installation and Configuration</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_Version_V3_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 21.5" Kiosk Ordering</td>
-<td style='padding: 10px;'>$13,200.00</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_Version_V3_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 32" Kiosk Ordering</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'>$13,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_Version_V3_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 2 X 21.5" Kiosk</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_Version_V3_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:TabSquare Pte Ltd<br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com 
+ Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'ZoneSafe Proximity Warning Systems Version V03'
+title: 'Job Redesign Consultancy - CET Global Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution239
 ---
 
-## ZoneSafe Proximity Warning Systems Version V03
+## Job Redesign Consultancy - CET Global Pte Ltd
 
 ## Overview
 
 **Description**
 
-The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/operators, and personnel with warnings that they are in close proximity of each other. The purpose of the system is to prevent collisions between vehicles and personnel in the workplace.
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/op
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Pedestrian - (Per Vehicle)</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Vehicle - (Per Vehicle)</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/op
 
 ## Vendor Information
 
- Company Name: Automation Support Services Pte Ltd<br>Web URL: www.assmsb.com <br>Contact Hotline: 68446223 <br>Contact Email: david@assmsb.com <br>
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
