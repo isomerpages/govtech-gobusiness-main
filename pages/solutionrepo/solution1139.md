@@ -1,15 +1,15 @@
 ---
-title: 'Automated Counter/ Biomass Estimation System'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1139
 ---
 
-## Automated Counter/ Biomass Estimation System
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-Automatic devices for measuring or estimating the number of produce in a period.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automatic devices for measuring or estimating the number of produce in a period.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Counter/ Biomass Estimation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
