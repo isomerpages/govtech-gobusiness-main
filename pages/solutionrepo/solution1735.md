@@ -1,15 +1,15 @@
 ---
-title: 'DM APEC Solutions Digital Marketing Packages'
+title: 'Fairmart Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1735
 ---
 
-## DM APEC Solutions Digital Marketing Packages
+## Fairmart Version 3.0
 
 ## Overview
 
 **Description**
 
-APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
+Fairmart is an automated multi-channel e-commerce solution designed for SME retailers. By using Fairmart, retailers are able to automatically digitise their inventory and connect to relevant sales channels such as Google to drive sales.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,27 @@ APEC Solutions is a full-stack digital marketing agency dedicated to helping bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Subscription</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fairmart_Technologies_Ver_3_0_07092023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Subscription</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fairmart_Technologies_Ver_3_0_07092023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
+ Company Name: Fairmart Technologies Pte Ltd<br>Web URL: https://www.fairmart.app/ <br>Contact Hotline: 91767874 <br>Contact Email: contact@fairmart.app <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

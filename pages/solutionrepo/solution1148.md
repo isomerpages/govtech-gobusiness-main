@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Conveyor System for transporting materials'
 permalink: /productivity-solutions-grant/solutionrepo/solution1148
 ---
 
-## Automatic Seed Plug Transplanter
+## Conveyor System for transporting materials
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

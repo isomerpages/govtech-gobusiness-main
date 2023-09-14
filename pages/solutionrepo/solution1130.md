@@ -1,19 +1,17 @@
 ---
-title: 'Mobile Computer (Warehouse application)'
+title: 'Automated Labelling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1130
 ---
 
-## Mobile Computer (Warehouse application)
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
-
-Cost of equipment capped at $30,000 per unit
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
 </tr>
 </table>
 

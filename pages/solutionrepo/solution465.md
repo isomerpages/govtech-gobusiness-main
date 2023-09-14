@@ -1,20 +1,15 @@
 ---
-title: 'Q-DAS - Smart Quality Software'
+title: 'Highnix ERP Plus2 Version 4-3-35'
 permalink: /productivity-solutions-grant/solutionrepo/solution465
 ---
 
-## Q-DAS - Smart Quality Software
+## Highnix ERP Plus2 Version 4-3-35
 
 ## Overview
 
 **Description**
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+Highnix ERP solution is powered by Linux and cloud-based ERP engine which was developed by Highnix with tremendous amount of professional and software experience.  It simplifies and standardizes business processes, integrate business transactions and eliminate unproductive, human errors and maintain data continuity. No more worries about staff turnover. It can be customized, scaled, upgraded and can integrate with third-party applications.  It helps saving significant amount of operating cost.
 
 ## Solution Packages Option(s)
 
@@ -28,24 +23,38 @@ Key features:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'>$28,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard System for up to 3 concurrent users</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
-<td style='padding: 10px;'>$40,400.00</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Enhanced System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Enhanced System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -55,7 +64,7 @@ Key features:
 
 ## Vendor Information
 
- Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
+ Company Name: Highnix Pte Ltd<br>Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

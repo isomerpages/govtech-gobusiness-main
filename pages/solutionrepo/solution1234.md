@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution1234
 ---
 
-## Taidii Smart Data Analytics for Centre Operations
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

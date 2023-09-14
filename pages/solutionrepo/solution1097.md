@@ -1,16 +1,15 @@
 ---
-title: 'Rotary Wok Fryer'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1097
 ---
 
-## Rotary Wok Fryer
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
 
 Cost of equipment capped at $37,500 per unit 
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
+<td style='padding: 10px;'>Unit height: min. 2.5m<br>Carrier tray width: min. 1.3m<br>Load capacity per tray: min. 150kg<br>With operator Interface (Console)<br>With software linked to Inventory Management System</td>
 </tr>
 </table>
 

@@ -1,15 +1,19 @@
 ---
-title: 'ZETTAPPS Finance & Order Processing Version 4.5'
+title: 'Zoho Workplace PSG Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution1072
 ---
 
-## ZETTAPPS Finance & Order Processing Version 4.5
+## Zoho Workplace PSG Edition
 
 ## Overview
 
 **Description**
 
-ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
+Zoho Workplace by Zoho Corporation.
+
+Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
+
+Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +27,38 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 15 users</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
-<td style='padding: 10px;'>$19,800.00</td>
-<td style='padding: 10px;'>$18,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 20 users</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 30 users</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +68,7 @@ ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP
 
 ## Vendor Information
 
- Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+ Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br><br>Contact Hotline: 67231040 <br><br>Contact Email: sales@zohocorp.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
