@@ -4,3 +4,5 @@
   anchor_text: Renew or amend licence
 - anchor: '#submit-returns'
   anchor_text: Submit returns
+- anchor: '#verify-licence-or-accreditation'
+  anchor_text: Verify an entity's licence or accreditation
