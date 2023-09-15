@@ -1,18 +1,20 @@
 ---
-title: 'Vacuum Packing and Sealing Machine'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 
-## Vacuum Packing and Sealing Machine
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
-Cost of equipment capped at $35,000 per unit 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
@@ -23,9 +25,9 @@ Cost of equipment capped at $35,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
 </tr>
 </table>
 
