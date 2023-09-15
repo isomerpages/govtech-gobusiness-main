@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'Eurostop Omni-Channel Retail Management System Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution397
 ---
 
-## EPOS Marketing AI Version 1.0
+## Eurostop Omni-Channel Retail Management System Version 10
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

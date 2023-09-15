@@ -1,17 +1,17 @@
 ---
-title: 'Bristle Blaster / Cup Brush / Power Brush'
+title: 'Auto Welding Carriage'
 permalink: /productivity-solutions-grant/solutionrepo/solution1123
 ---
 
-## Bristle Blaster / Cup Brush / Power Brush
+## Auto Welding Carriage
 
 ## Overview
 
 **Description**
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120 microns. 
+Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
 
-Cost of equipment capped at $3,000 per unit 
+Cost of equipment capped at $18,750 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $3,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bristle Blaster / Cup Brush / Power Brush</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>- Idle speed of at least 2,700 rpm<br>- Belt diameter of at least 110 mm<br>- Additional bristle brushes (carbon steel or stainless steel) can be supported<br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
+<td style='padding: 10px;'>$18,750.00</td>
+<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
 </tr>
 </table>
 

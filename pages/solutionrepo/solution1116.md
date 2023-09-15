@@ -1,19 +1,22 @@
 ---
-title: 'Battery-Powered Rope Ascender'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1116
 ---
 
-## Battery-Powered Rope Ascender
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
-The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
-
-Cost of equipment capped at $18,750 per unit
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +27,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-Powered Rope Ascender</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Ascent speed: minimum 1 ft/s<br>Maintenance cost not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
 </tr>
 </table>
 

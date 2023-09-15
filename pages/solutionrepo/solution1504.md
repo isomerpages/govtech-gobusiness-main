@@ -1,15 +1,15 @@
 ---
-title: 'RAVEPIXEL WEB SUITE Version 8.0'
+title: 'Fooyo Commerce Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1504
 ---
 
-## RAVEPIXEL WEB SUITE Version 8.0
+## Fooyo Commerce Version 2.0
 
 ## Overview
 
 **Description**
 
-RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
+Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ RavePixel Web Suite allows SMEs to manage and automate crucial business operatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
-<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,488.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_RAVEPIXEL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
+<td style='padding: 10px;'>$9,588.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+ Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

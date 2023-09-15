@@ -1,17 +1,15 @@
 ---
-title: 'Crystal Dash CRM'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution297
 ---
 
-## Crystal Dash CRM
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-Crystal Dash CRM enables SMEs and MNCs to easily configure process work flows for sales, customer service to operational teams. It can be scaled effectively to meet the needs of every unique industry, with multi-country expansion support and remote working capabilities. Integrate with omni-channel communication from calls, emails, WhatsApp.
-
-Crystal Dash is built for the modern day CRM with less clicks and more automation to make staff happier and increase revenue.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,41 @@ Crystal Dash is built for the modern day CRM with less clicks and more automatio
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (3 Users)</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (6 Users)</td>
-<td style='padding: 10px;'>$8,920.00</td>
-<td style='padding: 10px;'>$8,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional Edition (3 Users)</td>
-<td style='padding: 10px;'>$9,460.00</td>
-<td style='padding: 10px;'>$9,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Crystal Net Pte Ltd<br>Web URL: https://www.crystaldash.com/ <br>Contact Hotline: 67278111 <br>Contact Email: info@crystaldash.com 
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
