@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Harvester'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1147
 ---
 
-## Automatic Harvester
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To harvest produce automatically to reduce manual tasks and improve manpower pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
