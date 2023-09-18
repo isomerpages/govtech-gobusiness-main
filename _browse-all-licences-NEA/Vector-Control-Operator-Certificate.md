@@ -55,8 +55,8 @@ National Environment Agency (NEA)
 
 <H3>Documents Needed</H3>
 
-<ul> 
-<li><strong>Supporting Documents</strong><br>Supporting documents to prove that at least one full Vector Control Technician has at least 3 years of experience in vector control works. E.g. testimonial/employment letter states the period of employment (at least 3 consecutive years) in the field of work related to vector control, and the last date of employment in the field of vector control should be within the 3 years preceding the date of application.</li> 
+<ul>
+<li><strong>Supporting Documents</strong><br>Supporting documents to prove that at least one full Vector Control Technician has at least 3 years of experience in vector control works. E.g. testimonial/employment letter which states the period of employment (at least 3 consecutive years) in the field of work related to vector control, and the last date of employment in the field of vector control should be within the 3 years preceding the date of application.</li>
 </ul>
 
 <H3>Requirements</H3>
