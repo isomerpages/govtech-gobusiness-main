@@ -1,41 +1,57 @@
 ---
-title: 'Automated Dishwasher'
+title: 'DM Fier Capital Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1335
 ---
 
-## Automated Dishwasher
+## DM Fier Capital Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
-- A hood-type machine come with a vertical lift hood 
-- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
-
-Support capped at $5,000 per unit 
-
-
+Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Minimum water tank capacity of 15 litres</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

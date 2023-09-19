@@ -1,15 +1,15 @@
 ---
-title: 'BIZ POS VER 3.5'
+title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
-## BIZ POS VER 3.5
+## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
 
 ## Overview
 
 **Description**
 
-Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
+Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
+<td style='padding: 10px;'>$7,720.00</td>
+<td style='padding: 10px;'>$7,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 75/20</td>
+<td style='padding: 10px;'>$9,010.00</td>
+<td style='padding: 10px;'>$9,010.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
-<td style='padding: 10px;'>$5,750.00</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25</td>
+<td style='padding: 10px;'>$10,300.00</td>
+<td style='padding: 10px;'>$10,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$6,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30</td>
+<td style='padding: 10px;'>$11,590.00</td>
+<td style='padding: 10px;'>$11,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35</td>
+<td style='padding: 10px;'>$12,880.00</td>
+<td style='padding: 10px;'>$12,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 
 ## Vendor Information
 
- Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
+ Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,18 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'QuickBooks Online Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution987
 ---
 
-## DM SBC Digital Marketing Packages
+## QuickBooks Online Version 1
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+1) Quick setup & onboarding with in accordance to clients' specific workflows.
+2) Innovative training platform to monitor learners progress & assignments completion to ensure learners apply what they have learned.
+3) Elimination or minimization of data entry with OCR data extraction for expenses & sales receipts / invoices management and automated accounts code categorization. 
+4) Efficient processing & recording of expenses claims into QuickBooks Online.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +26,48 @@ permalink: /productivity-solutions-grant/solutionrepo/solution987
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO subscription only</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Basic</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,168.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_23.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Starter Advance</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'>$4,468.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_45.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Basic</td>
+<td style='padding: 10px;'>$5,580.00</td>
+<td style='padding: 10px;'>$4,768.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_67.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QuickBooks Online Version 1 - VCSG QBO Existing Advance</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'>$5,568.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Value_Consultancy_20200541_Desensitised_Annex_3_Part_89.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company Name: Value Consultancy (Singapore) Pte. Ltd.<br>Web URL: https://value.com.sg/grants<br>Contact Hotline: +65 3165 9568<br>Contact Email: info@vmcsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

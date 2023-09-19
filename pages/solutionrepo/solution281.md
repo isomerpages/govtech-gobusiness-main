@@ -1,23 +1,15 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'DM Craft Creative Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 
-## Qoqolo School Management System Version 4.3
+## DM Craft Creative Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses and help them generate effective and concrete leads. As a finalist for social media marketing agency of the year and with vast experience from running over 500 creative campaigns every year, Craft helps our clients identify and be seen by their target audiences online, increase their investment returns, and their sales through creative social marketing strategies, quality content writing and innovative media designs.
 
 ## Solution Packages Option(s)
 
@@ -31,38 +23,24 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'>$13,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMA+ SEM) - [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'>$12,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMA + YouTube Advertising) - [2 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'>$11,588.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'>$10,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'>$7,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (SMM + SMA) [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -72,7 +50,7 @@ Key Benefits:
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Company name:Craft Creative Pte Ltd<br>Web URL: https://craft.com.sg/digital-marketing-services/ <br>Contact Hotline: 91880739 <br>Contact Email: admin@craft.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

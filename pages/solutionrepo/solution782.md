@@ -1,15 +1,15 @@
 ---
-title: 'DM OOm Digital Performance Marketing Package'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution782
 ---
 
-## DM OOm Digital Performance Marketing Package
+## Xero
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
+Xero is a cloud-based accounting software which allow multiple users to log into the system at the same time, anytime, anywhere and on any device to view and perform transactions. Bank transactions can be fed directly into Xero daily so that cash position, receivables and payables can be kept accurate and updated. OCR technology enables bills and receipts to be pulled into Xero automatically.  Xero simplify accounting and free up time for the more important task of doing beautiful business.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Lite</td>
+<td style='padding: 10px;'>$2,464.00</td>
+<td style='padding: 10px;'>$2,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Basic</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Standard</td>
+<td style='padding: 10px;'>$4,064.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/Content Marketing Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex3_CR_wef02Feb23_package5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premium</td>
+<td style='padding: 10px;'>$6,464.00</td>
+<td style='padding: 10px;'>$6,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company name:RDC CORPORATE PTE LTD<br>Web URL: www.xero.com/sg/ <br>Contact Hotline: 62235466 <br>Contact Email: support@rdccorporate.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution297
 ---
 
-## Fortigate Firewall for IT Security or VPN - CARE IT
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 
 ## Vendor Information
 
- Company Name: Computer Analysts and Recovery Experts Pte Ltd<br>Web URL: www.care.biz <br><br>Contact Hotline: 67448022 <br><br>Contact Email: sales@sg.care.biz <br><br>
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

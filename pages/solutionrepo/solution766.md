@@ -1,18 +1,15 @@
 ---
-title: 'aiCARE Shield Managed Security Version Ver1.0'
+title: 'WEB360 Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution766
 ---
 
-## aiCARE Shield Managed Security Version Ver1.0
+## WEB360 Version 2.0.0
 
 ## Overview
 
 **Description**
 
-NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
-aiCARE Shield Managed Security comes with 8x5 Hotline Support.
-Support Day : Monday - Friday
-Support Time : 9am-6pm
+The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
 
 ## Solution Packages Option(s)
 
@@ -26,38 +23,10 @@ Support Time : 9am-6pm
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -67,7 +36,7 @@ Support Time : 9am-6pm
 
 ## Vendor Information
 
- Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
+ Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

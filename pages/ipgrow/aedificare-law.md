@@ -17,7 +17,7 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 
 <b>Website:</b> <a href='https://aedificarelaw.wordpress.com'>https://aedificarelaw.wordpress.com</a>
 
-<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -94,4 +94,7 @@ At Aedificare Law Corporation, we specialize in the field of Intellectual Proper
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/daniel-chan-6039b92b" target="_blank" rel="noopener">https://sg.linkedin.com/in/daniel-chan-6039b92b</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643c91c32c363600127058ea' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

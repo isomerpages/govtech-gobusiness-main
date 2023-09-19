@@ -1,16 +1,15 @@
 ---
-title: 'ZETTAPPS Inventory & Order Processing'
+title: 'NX CAD/CAM Software Version NX2212'
 permalink: /productivity-solutions-grant/solutionrepo/solution1206
 ---
 
-## ZETTAPPS Inventory & Order Processing
+## NX CAD/CAM Software Version NX2212
 
 ## Overview
 
 **Description**
 
-ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
-For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
+NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provides a complete CAD/CAM focused on milling any geometry with up to 5 axes of simultaneous motion. All of the supporting functions for NC programming are provided, from translators to tool path visualization to postprocessing. Program CNC machine tools, control robotic cells, & monitor quality using one software system. Digitally transform part manufacturing business to gain productivity & increase profitability
 
 ## Solution Packages Option(s)
 
@@ -24,31 +23,38 @@ For Distributors or Retailers, there are functions that enable them to track the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAM-Only 3-Axis Machining(Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation(Annual Locked License)</td>
 <td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation (Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation with 5-Axis Add-On(Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Value-Based Tokens for NX CAD/CAM (Annual Floating/Server License)</td>
+<td style='padding: 10px;'>$44,809.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -58,7 +64,7 @@ For Distributors or Retailers, there are functions that enable them to track the
 
 ## Vendor Information
 
- Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
+ Company name:DreamTechnology System Pte. Ltd.<br>Web URL: https://dts-asia.com/ <br>Contact Hotline: 66357748 <br>Contact Email: sales.dts@dts-asia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

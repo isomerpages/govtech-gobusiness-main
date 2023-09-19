@@ -1,19 +1,15 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'Eset Protect Entry'
 permalink: /productivity-solutions-grant/solutionrepo/solution810
 ---
 
-## Pepper Cloud CRM Version 14.0
+## Eset Protect Entry
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
-
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
-
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
+Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
 
 ## Solution Packages Option(s)
 
@@ -27,31 +23,38 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
+<td style='padding: 10px;'>$300.00</td>
+<td style='padding: 10px;'>$300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
+<td style='padding: 10px;'>$450.00</td>
+<td style='padding: 10px;'>$450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Standard_10Users</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
+<td style='padding: 10px;'>$1,088.00</td>
+<td style='padding: 10px;'>$1,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pepper Cloud CRM Version 14.0-Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
+<td style='padding: 10px;'>$2,025.00</td>
+<td style='padding: 10px;'>$2,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
+<td style='padding: 10px;'>$3,750.00</td>
+<td style='padding: 10px;'>$3,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -61,7 +64,7 @@ We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We al
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte Ltd<br>Web URL: https://peppercloud.com/ <br><br>Contact Hotline: 97510475 <br><br>Contact Email: sales@peppercloud.com <br><br>
+ Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

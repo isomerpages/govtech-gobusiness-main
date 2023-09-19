@@ -1,15 +1,17 @@
 ---
-title: 'TimeCentral Version 11'
+title: 'WESS - Wellness Management Software Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution805
 ---
 
-## TimeCentral Version 11
+## WESS - Wellness Management Software Version 2.0
 
 ## Overview
 
 **Description**
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
+A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
+From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,48 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Lite</td>
 <td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Payment</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
+ Company Name: Refine Solutions Pte Ltd<br>Web URL: www.wessconnect.com <br><br>Contact Hotline: 66028212 <br><br>Contact Email: contactus@wessconnect.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

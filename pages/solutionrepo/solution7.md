@@ -1,15 +1,15 @@
 ---
-title: 'DM 1103 Studios Digital Marketing Packages'
+title: 'DM 33 Degrees Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution7
 ---
 
-## DM 1103 Studios Digital Marketing Packages
+## DM 33 Degrees Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-1103 Studios helps SMEs increase their business growth by getting results, connecting to customers and drive measurable business outcomes. With their proven Digital Marketing solutions, relevant certifications and experience across industries - these packages are uniquely built that consists of Digital Marketing Strategy Development, various Social Media Platforms, Strategic Content Production (Video/Photography, Creative Design), Analytics and Training to help SMEs succeed in the digital world.
+33 Degrees Digital Marketing Package is designed to aid businesses drive real results, real presence in Google with proven, effective strategies that transform the brand's online visibility, credibility and authority. Since 2014, 33 Degrees has been working with local and international brands in causing an exponential growth in web traffic, enquiries and sales revenue with SEO and content marketing.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution7
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA(FB) + SMA(IG) Campaigns [2 Months]</td>
-<td style='padding: 10px;'>$9,811.00</td>
-<td style='padding: 10px;'>$9,811.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA(TikTok) + SMA(TikTok) Campaigns [2 Months]</td>
-<td style='padding: 10px;'>$12,217.72</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEO+Content Marketing] Organic Growth Starter - 6 Months</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA(Facebook) + SMA(Instagram) + Viral Video Marketing Campaigns [3 Months]</td>
-<td style='padding: 10px;'>$13,356.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMA (FB) + SMA(IG) Campaigns [3 Months]</td>
-<td style='padding: 10px;'>$15,054.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/33Degrees_DM_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +36,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution7
 
 ## Vendor Information
 
- Company name:1103 STUDIOS PTE LTD<br>Web URL: www.1103studios.com <br>Contact Hotline: 97297686 <br>Contact Email: hello@1103studios.com 
+ Company name: 33 Degrees Pte Ltd<br>Web URL: https://nightowl.sg/<br>Contact Hotline: 92357110<br>Contact Email: hello@nightowl.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

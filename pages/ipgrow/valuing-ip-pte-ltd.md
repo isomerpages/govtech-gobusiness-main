@@ -22,7 +22,7 @@ At Valuing IP, we make your intangibles, tangible!
 
 <b>Offer:</b> Early Bird Promotion for our IP Valuation Software Subscription starting from USD 1,500 only! Limited to first 10 subscribers for each package. Savings up to 30% off!
 
-<a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -186,4 +186,7 @@ At Valuing IP, we make your intangibles, tangible!
 - URL of LinkedIn/Company Profile: <a href="https://sincathay.com/web/professionals" target="_blank" rel="noopener">https://sincathay.com/web/professionals</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643f4792662b62001209296b' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

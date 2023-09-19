@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart E-Form Solution'
+title: 'DM Supermom Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1020
 ---
 
-## Taidii Smart E-Form Solution
+## DM Supermom Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
+Supermom provides effective digital marketing solutions for SME clients that are in trend with best practices of digital marketing efforts to reach target customers. These services range from lead generation campaigns to build first party data CRM, curated survey insights to better understand customers, influencer marketing to tap on the power of word of mouth marketing as well as email marketing. All packages include social media advertising services to enable maximum reach to target audience.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ Taidii is a company providing integrated solution to all the educational institu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SI + SMA [3 Months]</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - EM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - IM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$10,540.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - LG + SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ## Vendor Information
 
- Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
+ Company name:welovesupermom pte ltd<br>Web URL: WWW.WELOVESUPERMOM.COM <br>Contact Hotline: 91071849<br>Contact Email: INFO@WELOVESUPERMOM.COM
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

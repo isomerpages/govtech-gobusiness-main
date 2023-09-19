@@ -24,15 +24,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution77' target='_blank'>Trueblu CRM Version 3.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution67' target='_blank'>Trueblu CRM Version 3.8</a><br></td>
 <td>Active Interactions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution437' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution394' target='_blank'>EPOS Marketing AI Version 1.0</a><br></td>
 <td>EPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1726' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1724' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br></td>
 <td>Advocado Pte Ltd</td>
 </tr>
 </table>

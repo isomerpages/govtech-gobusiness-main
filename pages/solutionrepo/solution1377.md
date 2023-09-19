@@ -1,15 +1,15 @@
 ---
-title: 'DM Get Customers Digital Marketing Packages Version v1.02'
+title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1377
 ---
 
-## DM Get Customers Digital Marketing Packages Version v1.02
+## Weebo Digital Ordering Solution Version 3.2.9.0
 
 ## Overview
 
 **Description**
 
-DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
+Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ DM Get Customers offers a Social Media Advertising and Content Marketing package
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
+ Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

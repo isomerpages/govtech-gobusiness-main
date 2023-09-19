@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online Accounting Software'
+title: 'Xero Cloud Accounting Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1201
 ---
 
-## Quickbooks Online Accounting Software
+## Xero Cloud Accounting Solutions
 
 ## Overview
 
 **Description**
 
-Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
+Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations, for each transformation solutions deployment, SCS provides transformation consultation, integration, recommendations, project management, implementation as well as onsite training and technical support.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$803.48</td>
-<td style='padding: 10px;'>$764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - System Only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$3,003.48</td>
-<td style='padding: 10px;'>$2,964.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Lite</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,803.48</td>
-<td style='padding: 10px;'>$3,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Basic</td>
+<td style='padding: 10px;'>$4,864.00</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,603.48</td>
-<td style='padding: 10px;'>$4,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Standard</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,803.48</td>
-<td style='padding: 10px;'>$7,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Premium</td>
+<td style='padding: 10px;'>$10,464.00</td>
+<td style='padding: 10px;'>$10,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 
 ## Vendor Information
 
- Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
+ Company name:Singapore Corporate Services Pte. Ltd.<br>Web URL: https://scs-cpa.com/xero-psg-grant <br>Contact Hotline: 69141113 <br>Contact Email: enquiry@scs-cpa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

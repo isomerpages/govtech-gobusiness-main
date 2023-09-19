@@ -21,7 +21,7 @@ We offer a comprehensive range of services, including patent, registered design 
 
 <b>Website:</b> <a href='https://www.aurigaip.com'>https://www.aurigaip.com</a>
 
-<a class='btn' href='https://form.gov.sg/64583ea79d94740011a92042' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/64583ea79d94740011a92042' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -117,4 +117,7 @@ We offer a comprehensive range of services, including patent, registered design 
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/lionelser" target="_blank" rel="noopener">https://www.linkedin.com/in/lionelser</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/64583ea79d94740011a92042' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

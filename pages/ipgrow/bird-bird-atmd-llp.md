@@ -23,7 +23,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwid
 
 <b>Website:</b> <a href='https://www.twobirds.com/en/reach/asia-pacific/singapore'>https://www.twobirds.com/en/reach/asia-pacific/singapore</a>
 
-<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -297,4 +297,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwid
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/y/yi-xin-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/y/yi-xin-tan</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

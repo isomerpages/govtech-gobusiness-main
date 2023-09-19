@@ -1,15 +1,15 @@
 ---
-title: 'Sapaad Version 601'
+title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1499
 ---
 
-## Sapaad Version 601
+## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-Sapaad is a global SaaS product company focused on crafting world class software experiences. Its flagship product, Sapaad has thousands of users with all concepts of the F&B business. With a team of passionate developers and designers, Sapaad grows, innovates, and develops products that revolutionise the F&B industry. Headquartered in Singapore, with offices planted globally, Sapaad's key stakeholders are technology veterans with years of experience in the web and e-commerce world.
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Sapaad is a global SaaS product company focused on crafting world class software
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$3,445.67</td>
-<td style='padding: 10px;'>$3,445.67</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$4,086.67</td>
-<td style='padding: 10px;'>$4,086.67</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Annex3_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
-<td style='padding: 10px;'>$3,757.87</td>
-<td style='padding: 10px;'>$3,757.87</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4</td>
-<td style='padding: 10px;'>$4,398.87</td>
-<td style='padding: 10px;'>$4,398.87</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5</td>
-<td style='padding: 10px;'>$4,711.07</td>
-<td style='padding: 10px;'>$4,711.07</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription/Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Sapaad Pte. Ltd.<br>Web URL: https://www.sapaad.com/sg/ <br>Contact Hotline: 62240777 <br>Contact Email: presales.support@sapaad.com
+ Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
