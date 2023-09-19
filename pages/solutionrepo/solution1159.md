@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced disinfection system'
+title: 'Humidifier Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1159
 ---
 
-## Enhanced disinfection system
+## Humidifier Equipment
 
 ## Overview
 
 **Description**
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+A device that increases humidity in farm premises for more optimal plant growth. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
