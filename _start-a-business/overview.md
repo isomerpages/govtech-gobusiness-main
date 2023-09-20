@@ -18,10 +18,10 @@ GoBusiness Start-up Guide will walk you through the questions above and more.
 {% include overview.html anchorlinks=site.data.ov001-start %}
 
 <hr>
-<a name="getting_started"></a>
-### Getting started
+<a name="register-business"></a>
+### Register your business
 
-![Getting Started](/images/start/StartSJ_Overview_Main.jpg)
+![Register your business](/images/start/StartSJ_Overview_Main.jpg)
 
 If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
@@ -31,6 +31,10 @@ Anybody who intends to carry out any activity for profit on an ongoing basis <b>
 - You and your partner(s) use your full names, as per your NRIC, as your business name
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions from registration and the full list can be found in the [Business Names Registration Act](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}{:rel="noopener"}.
+
+<b>Ready to start your business registration?</b>
+
+{% include panels-featurelink.html panels=site.data.rgp010_start-up-overview %}
 
 <hr>
 <a name="business-reg-benefits"></a>

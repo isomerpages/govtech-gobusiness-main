@@ -1,0 +1,18 @@
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to register a Sole Proprietorship/Partnership
+  description: I want to register a Sole Proprietorship/Partnership
+Reserve your business name and register your business entity on GoBusiness with guidance from the e-Adviser. If you do this, you do not need to apply on ACRA's BizFile+.
+  url: /licences/find-licence-by-sector/?src=run&grow_licences_fs
+  text: Log in to apply via e-Adviser for Starting a Business
+
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to register a Limited Partnership (LP), Limited Liability Partnership (LLP) or Local Company
+  description: Use this e-Adviser to find out next steps based on your business requirements. Registration can be done on ACRA’s BizFile+.
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: Go to e-Adviser for Starting a Business
+
+- image: <img src="/images/start/questionmark-icon.png" aria-hidden="true">
+  title: I’m not sure which business structure to choose
+  description: Use this e-Adviser to get recommendations for a suitable business structure, based on your business requirements.
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: Go to e-Adviser for Business Structure
