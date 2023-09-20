@@ -1,0 +1,11 @@
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to reserve a business name for my Sole Proprietorship/Partnership
+  description: Reserve your business name on GoBusiness with guidance from the e-Adviser. If you do this, you do not need to apply on ACRA's BizFile+.
+  url: https://dashboard.gobusiness.gov.sg/login?&src=start_reserve_bizname?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
+  text: Log in to apply via e-Adviser for Starting a Business
+
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to reserve a business name for another type of business structure
+  description: You may reserve your business name for any business structure directly on ACRA’s BizFile+.
+  url: http://www.bizfile.gov.sg/
+  text: Apply on BizFile+
