@@ -9,7 +9,7 @@ Founded in 2003, our academy has established itself as a center of excellence in
 
 Our academy has also built a global network of partnerships with institutes of higher learning and professional associations to augment our programmes, seminars and roundtables. Our students and institutional clients are from all over the world, facilitating the sharing of best practices and knowledge. Whether you are a business or public agency looking to build capabilities in IA/IP management, or an individual seeking a career in this exciting area of IA/IP, we have a suitable programme for your specific needs.
 
-<b>Year established in Singapore:</b> 2014
+<b>Year established in Singapore:</b> 2003
 
 <b>Top focus areas for IA/IP services:</b> IP Training
 
@@ -30,11 +30,11 @@ Our academy has also built a global network of partnerships with institutes of h
 **IP Training Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $6,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 ---
