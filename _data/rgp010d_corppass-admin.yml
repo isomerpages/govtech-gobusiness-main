@@ -1,6 +1,6 @@
 - image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
   title: Register via GoBusiness
-  description: This step will be available as part of the Guided Journey after completing your business name reservation and business registration.<br>If you do this, you do not need to apply on the Corppass portal.
+  description: This step will be available as part of the Guided Journey after completing your business name reservation and business registration.<br><br>If you do this, you do not need to apply on the Corppass portal.
   url: https://dashboard.gobusiness.gov.sg/login?&src=startbiz_reg?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
   text: Log in to apply via e-Adviser for Starting a Business
 
