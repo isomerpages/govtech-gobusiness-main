@@ -1,38 +1,43 @@
 ---
-title: 'Automated Deep Fryer'
+title: 'DM NBT Digital Performance Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
-## Automated Deep Fryer
+## DM NBT Digital Performance Marketing Package
 
 ## Overview
 
 **Description**
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
-
-Cost of equipment capped at $4,000 per unit 
-
+NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that specialises in providing search engine marketing and social media marketing solutions for SMEs. NBT Digital works closely with clients to identify specific business needs and tailor a business strategy that best works for them.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>Minimum Specifications <br>- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br>- Well capacity to be at least 5L<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM [6 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NBT_DIGITAL_DM_NBT_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: NBT DIGITAL PTE LTD<br>Web URL: nbtdigital.com.sg <br>Contact Hotline: 81894766 <br>Contact Email: jay@nbtdigital.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

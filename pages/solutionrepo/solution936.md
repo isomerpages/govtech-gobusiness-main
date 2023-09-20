@@ -1,15 +1,15 @@
 ---
-title: 'JumpCloud Platform'
+title: 'Sage 300 Advance Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution936
 ---
 
-## JumpCloud Platform
+## Sage 300 Advance Edition
 
 ## Overview
 
 **Description**
 
-Perennial Flexiwork is a holistic endpoint management solution for companies that take remote work seriously by integrating JumpCloud Platform with Trend Micro Worry-Free. On top of its proven and tested anti-virus capability, Flexiwork comes with much needed features to make remote work both productive and secure e.g. Remote Assist ( similar to TeamViewer), patch management, application deployment etc, in today's post-pandemic environment. Flexiwork will provide a strong security foundation for companies seeking to embark on their ISO27001 journeys. 
+A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Perennial Flexiwork is a holistic endpoint management solution for companies tha
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 30 devices</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud (3 users)</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'>$15,521.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 50 devices</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (3 users)</td>
+<td style='padding: 10px;'>$29,309.00</td>
+<td style='padding: 10px;'>$26,983.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 100 devices</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (5 Users)</td>
+<td style='padding: 10px;'>$32,788.00</td>
+<td style='padding: 10px;'>$30,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 150 devices</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (7 Users)</td>
+<td style='padding: 10px;'>$36,267.00</td>
+<td style='padding: 10px;'>$33,095.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 200 devices</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>License (10 Users)</td>
+<td style='padding: 10px;'>$41,484.00</td>
+<td style='padding: 10px;'>$37,679.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_The_World_Management_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Perennial Consultancy Pte Ltd<br>Web URL: jumpcloud.perennialconsultancy.com <br>Contact Hotline: 96623516 <br>Contact Email: sales@perennialconsultancy.com
+ Company name:The World Management Pte Ltd<br>Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

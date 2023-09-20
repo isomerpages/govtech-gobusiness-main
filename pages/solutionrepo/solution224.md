@@ -1,16 +1,19 @@
 ---
-title: 'Xplore - Booking System'
+title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution224
 ---
 
-## Xplore - Booking System
+## Job Redesign Consultancy - Cadence Group Pte Ltd
 
 ## Overview
 
 **Description**
 
-The BeMyGuest Booking System, Xplore, is a modular based Software as a Service designed specifically for operators of attractions, tours and activities. The Xplore modules (E-commerce, Point-of-Sale and B2B Portal) support the management of all sales channels in one system.
-In addition, Xplore is completely integrated with BeMyGuest Distribution Network and Google Things to do, which provides Operators full consolidation of all their direct and indirect sales channels on a real time basis.
+Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
+
+Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
+
+Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
 
 ## Solution Packages Option(s)
 
@@ -24,34 +27,20 @@ In addition, Xplore is completely integrated with BeMyGuest Distribution Network
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BeMyGuest_20220099_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BeMyGuest_20220099_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BeMyGuest_20220099_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: BEMYGUEST PTE LTD<br>Web URL: https://bemyguest.com.sg/ <br>Contact Hotline: 67439810 <br>Contact Email: xplore@bemyguest.com.sg <br>
+ Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

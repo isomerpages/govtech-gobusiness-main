@@ -1,60 +1,31 @@
 ---
-title: 'Singtel-Fortinet Unified Threat Management Version 1'
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1105
 ---
 
-## Singtel-Fortinet Unified Threat Management Version 1
+## Form Fill Seal Machine
 
 ## Overview
 
 **Description**
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+
+Cost of equipment  capped at $20,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
 </tr>
 </table>
 
@@ -62,10 +33,6 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

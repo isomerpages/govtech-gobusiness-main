@@ -9,7 +9,7 @@ Bird & Bird ATMD is a leading Singapore law firm with a strong local presence, c
 
 We are uniquely placed to offer the whole range of services being a law firm with a strong intellectual property practice, as well as an experienced team of in-house patent attorneys. Our detailed understanding of technology and innovation and its challenges enables us to help domestic and multinational businesses manage, protect, exploit and litigate their IP rights even as businesses embrace digitisation and e-commerce.
 
-With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
+With more than 1,400 lawyers across Bird & Bird's network of 32 offices worldwide, we are strategically well-placed to offer local IP expertise within a global context to help companies achieve their business goals both domestically and internationally.
 
 <b>Year established in Singapore:</b> 1994
 
@@ -23,7 +23,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 
 <b>Website:</b> <a href='https://www.twobirds.com/en/reach/asia-pacific/singapore'>https://www.twobirds.com/en/reach/asia-pacific/singapore</a>
 
-<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -34,141 +34,141 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 **Branding Strategy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 21 to 25</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $900</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $700</li>
 </ul>
 
 **Freedom-to-Operate Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **IP Audit Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,500</li>
 </ul>
 
 **IP Database Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 21 to 25</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $400</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 251 to 300</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Case by case</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Training Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depending on the scope of work needed</li>
 </ul>
 
 **IP Watch Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 36 to 40</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 301 to 400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 61 to 75</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1251 to 1500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 ---
@@ -273,7 +273,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 - Years of Experience: 10+ years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Intelligence and Search, IP Due Diligence, Contract Drafting
-- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified by F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
+- Certifications/Qualifications: Bachelor of Science (major in Biochemistry and minor in Computer Programming and Applications) National University of Singapore, Graduate Certificate in Intellectual Property (IP) National University of Singapore, Masters of Science in IP Management from National University of Singapore, Certified F&eacute;d&eacute;ration Internationale des Conseils en Propri&eacute;t&eacute; Industrielle (FICPI) under the South East Asian Drafting Course
 - Awards/Accolades: IAM Patent 1000 - Bronze Band (Patent Prosecution), Listed in Who's Who Legal: Patents
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/h/hui-leng-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/h/hui-leng-tan</a>
 
@@ -297,4 +297,7 @@ With more than 1,400 lawyers across Bird & Bird's network of 31 offices worldwid
 - URL of LinkedIn/Company Profile: <a href="https://www.twobirds.com/en/people/y/yi-xin-tan" target="_blank" rel="noopener">https://www.twobirds.com/en/people/y/yi-xin-tan</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643f4b88cdf7590012384891' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

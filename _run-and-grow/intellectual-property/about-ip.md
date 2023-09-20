@@ -4,7 +4,7 @@ permalink: /intellectual-property/ip-grow/
 third_nav_title: Intellectual Property
 ---
 
-## Strengthen your Business with GoBusiness IP Grow
+## Strengthen your business with GoBusiness IP Grow
 
 ![Protect your ideas](/images/ipgrow/IP.jpg)
 
@@ -34,17 +34,25 @@ By protecting your business' IP, you can prevent others from profiting from your
 As a business, ignoring IP management can lead to legal liabilities, including the risk of being sued for infringement or for using someone else’s IP without permission. Legal disputes can be costly and time-consuming. They can result in significant damage to your finances and reputation, or even your business’ ability to operate.
 
 ----
-<a name='recommendations-for-ia-ip'></a>
+<a name='browse-comprehensive-ia-ip'></a>
 
-### Get recommendations for your IA/IP needs
+### Browse comprehensive IA/IP service directories
 
-GoBusiness IP Grow features a comprehensive suite of 20 IA/IP services to meet the needs of a business as it transforms and grows. These services are grouped into 4 key categories:
+GoBusiness IP Grow features a [comprehensive suite of 20 IA/IP service directories](/intellectual-property/ip-grow/types-of-ia-ip-services) to meet the needs of a business as it transforms and grows. These services are grouped into 4 key categories:
 
 ![IA/IP Services](/images/ipgrow/iaip-services.png)
 
 Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP services and service providers: 
 
 {% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
+
+Watch the video below to learn how to manage your business's IA/IP with our platform.
+
+<p>
+<div class="bp-youtube">
+  <iframe title="GoBusiness IP Grow: Strengthen your business through your IA/IP" src="https://www.youtube.com/embed/asGOPbQL9X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+</div>
+</p>
 
 ---
 <a name='list-as-ia-ip-service-provider'></a>

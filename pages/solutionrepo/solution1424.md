@@ -1,30 +1,43 @@
 ---
-title: 'Torque Multiplier'
+title: 'F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1424
 ---
 
-## Torque Multiplier
+## F&B Solutions Version 5.0
 
 ## Overview
 
 **Description**
 
-The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
-
-Cost of equipment capped at $20,000 per unit 
+The Essential F&B Management Solutions 
+Major Problem Solutions:
+1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Produce at least 2,000N.m torquing force <br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR Ordering</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR Ordering and CRM</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +45,10 @@ Cost of equipment capped at $20,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

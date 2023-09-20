@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution685' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution542' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br></td>
 <td>Integrated Software Engineering Pte Ltd</td>
 </tr>
 </table>

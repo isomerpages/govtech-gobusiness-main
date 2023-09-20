@@ -32,16 +32,7 @@ Learn more about them in our [Start-up Guide](/start-a-business/protect-your-ide
   <br>Book an appointment with IPOS for questions about your application or available options.
 
 - [IPOS Digital Hub](https://digitalhub.ipos.gov.sg/FAMN/process/IP4SG/MN_Index){:target="_blank"}{:rel="noopener"}
-  <br>Use the IP registration system to file for trade mark protection, patents, or registered designs, among other features for IP management
-
-- [File your trade mark](https://digitalhub.ipos.gov.sg/FAMN/eservice/IP4SG/MN_Home){:target="_blank"}{:rel="noopener"}
-  <br>File an application to register a trade mark with IPOS.
-
-- [File your patent](https://digitalhub.ipos.gov.sg/FAMN/eservice/IP4SG/MN_Home){:target="_blank"}{:rel="noopener"}
-  <br>File an application for a patent directly with IPOS.
-
-- [File your design](https://digitalhub.ipos.gov.sg/FAMN/eservice/IP4SG/MN_Home){:target="_blank"}{:rel="noopener"}
-  <br>File an application for a design in Singapore.
+  <br>Use the IP registration system to file for trade mark protection, patents, or registered designs, among other features for IP management.
 
 - IPOS Go Mobile App on [Google Play](https://play.google.com/store/apps/details?id=sg.ipos.mobile){:target="_blank"}{:rel="noopener"} and the [App Store](https://apps.apple.com/us/app/ipos-go/id1475896971){:target="_blank"}{:rel="noopener"}
   <br>Download the IPOS mobile app to apply for and renew IP registrations, and use other e-services. Available on Google Play and the App Store.

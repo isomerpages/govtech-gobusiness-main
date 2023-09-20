@@ -1,38 +1,32 @@
 ---
-title: 'Automated tools management system'
+title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1433
 ---
 
-## Automated tools management system
+## SKYFY VTS FLEET MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Cost of equipment capped at $28,000 per unit
+Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated tools management system</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,175.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -40,6 +34,10 @@ Cost of equipment capped at $28,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,17 +1,15 @@
 ---
-title: 'NetDocuments'
+title: 'DM AII DEVELOP Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1263
 ---
 
-## NetDocuments
+## DM AII DEVELOP Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
-
-Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
+As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Verlata is a NetDocuments Platinum Partner, providing implementation services fo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
+<td style='padding: 10px;'>$6,360.00</td>
+<td style='padding: 10px;'>$6,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
-<td style='padding: 10px;'>$10,520.00</td>
-<td style='padding: 10px;'>$10,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
+<td style='padding: 10px;'>$10,650.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
-<td style='padding: 10px;'>$18,740.00</td>
-<td style='padding: 10px;'>$17,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
+<td style='padding: 10px;'>$10,750.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
-<td style='padding: 10px;'>$26,860.00</td>
-<td style='padding: 10px;'>$24,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
+<td style='padding: 10px;'>$11,620.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
-<td style='padding: 10px;'>$45,600.00</td>
-<td style='padding: 10px;'>$36,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
+<td style='padding: 10px;'>$11,910.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
+ Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

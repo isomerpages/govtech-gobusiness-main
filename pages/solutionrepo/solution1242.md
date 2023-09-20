@@ -1,15 +1,17 @@
 ---
-title: 'Globe3 ERP V5.6'
+title: 'Deskera ERP Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
-## Globe3 ERP V5.6
+## Deskera ERP Version 10
 
 ## Overview
 
 **Description**
 
-Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
+SF Technologies Pte Ltd is a Platinum Channel Partner of Deskera providing expertise in digitalizing business and support in digital transformation.
+
+Deskera is an integrated platform that enables SMEs to scale faster with fewer tools. From convenience stores to manufacturing plants, hundreds of thousands of small and medium enterprises use Deskera to manage accounting, inventory, sales pipeline, and marketing automation.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,34 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$32,800.00</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (3 Licenses - up to 18 Users)</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$39,400.00</td>
-<td style='padding: 10px;'>$37,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_152Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (5 Licenses - up to 30 Users)</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$49,300.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$55,900.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'>$21,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (10 Licenses - up to 60 Users)</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
+ Company name:SF TECHNOLOGIES PTE. LTD.<br>Web URL: https://sftechnologies.co/deskera <br>Contact Hotline: 81334739 <br>Contact Email: info@sftechnologies.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

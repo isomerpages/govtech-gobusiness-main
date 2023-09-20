@@ -27,7 +27,7 @@ We are able to assist to estimate the value of the following intellectual proper
 
 <b>Website:</b> <a href='https://www.rsm.global/singapore/'>https://www.rsm.global/singapore/</a>
 
-<a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -38,11 +38,11 @@ We are able to assist to estimate the value of the following intellectual proper
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 46 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $15,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  We charge based on the work required rather than strictly based on a minimum project fee.</li>
 </ul>
 
 ---
@@ -88,4 +88,7 @@ We are able to assist to estimate the value of the following intellectual proper
 - URL of LinkedIn/Company Profile: <a href="https://www.rsm.global/singapore/people/daniel-low" target="_blank" rel="noopener">https://www.rsm.global/singapore/people/daniel-low</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/643c8ea40423fa0011283fac' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

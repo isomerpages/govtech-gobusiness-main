@@ -1,15 +1,15 @@
 ---
-title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
+title: 'Digital Retail Ecommerce Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1502
 ---
 
-## WLP Digital Ecommerce Web Development (WooCommerce)
+## Digital Retail Ecommerce Solutions
 
 ## Overview
 
 **Description**
 
-Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
+The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Development of an Ecommerce online website complete with integrated functionalit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Consultants_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Development of an Ecommerce online website complete with integrated functionalit
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
+ Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

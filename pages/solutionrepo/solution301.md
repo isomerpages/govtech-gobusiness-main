@@ -1,15 +1,17 @@
 ---
-title: 'Job Redesign Consultancy - CET Global Pte Ltd'
+title: 'e-Forms for Preschool Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution301
 ---
 
-## Job Redesign Consultancy - CET Global Pte Ltd
+## e-Forms for Preschool Version 1.0
 
 ## Overview
 
 **Description**
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
+BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
+BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,20 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
+ Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

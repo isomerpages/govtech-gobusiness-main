@@ -1,16 +1,15 @@
 ---
-title: 'AGHRM'
+title: 'BOTG'
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
-## AGHRM
+## BOTG
 
 ## Overview
 
 **Description**
 
-AGHRMS is an All-in-One Cloud Payroll & HR Software for today's HR: Easy Payroll for 100% compliance, eAttendance, Appraisal, Leave, Claims etc on a Single, Secure Portal.
-Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repetitive, tedious processes for 80% increase in HR efficiency. The company serves SMEs, MNCs & NPOs with presence in countries mainly in Singapore, Malaysia, Indonesia, Myanmar and Thailand.
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,34 @@ Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repet
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 30</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 50</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 100</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 200</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ANTSCOLONY_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AG NET PTE. LTD.<br>Web URL: https://www.aghrms.com/hrms-payroll-software-singapore/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com 
+ Company name:ANTSCOLONY PTE LTD<br>Web URL: http://botg.com.sg/ <br>Contact Hotline: 89077790 <br>Contact Email: info@botg.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

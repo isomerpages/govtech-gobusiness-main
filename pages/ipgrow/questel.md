@@ -21,7 +21,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 
 <b>Website:</b> <a href='https://www.questel.com/'>https://www.questel.com/</a>
 
-<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -32,111 +32,111 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 **Freedom-to-Operate Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 76 to 80</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 801 to 900</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $4,500</li>
 </ul>
 
 **Innovation Consultancy Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 66 to 70</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 401 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $6,000</li>
 </ul>
 
 **IP Audit Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 51 to 55</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 401 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 **IP Database Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: Above 10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 401 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 66 to 70</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 301 to 400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **IP Intelligence and Search Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: Above 1000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 201 to 300</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $4,500</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 66 to 70</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 201 to 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **IP Training Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 11 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,450</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **IP Watch Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 81 to 85</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 101 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $401</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 286 to 300</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 101 to 200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1,000</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 101 to 200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 ---
@@ -192,7 +192,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 14+ years
 - Location: Geneva, Switzerland
 - IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Strategy Consulting
-- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters- IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
+- Certifications/Qualifications: CEIPI -- Centre d'Etudes Internationales de la Propri&eacute;t&eacute; Industrielle- Masters - IP Law. Patent Litigation, Center for International Intellectual Property Studies - CEIPI. ISEP - &eacute;cole d'ing&eacute;nieurs du num&eacute;rique- Engineer Degree
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/philippe-vigand-9708391" target="_blank" rel="noopener">https://www.linkedin.com/in/philippe-vigand-9708391</a>
 
 **Benoit Chevalier**
@@ -204,7 +204,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Certifications/Qualifications: Engineer's degree: T&eacute;l&eacute;com Saint-Etienne. TBS Education- Innovation Management
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/chevalierbenoit" target="_blank" rel="noopener">https://www.linkedin.com/in/chevalierbenoit</a>
 
-**Cyril Mavr&eacute;**
+**Cyril Mavr&eacute;;**
 
 - Job Title: Director of Engineering Sciences Business Unit
 - Years of Experience: 10+ years
@@ -228,7 +228,7 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - Years of Experience: 7+ years
 - Location: Greater Lyon, France
 - IA/IP-Related Expertise: IP Strategy Consulting
-- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&Uuml;nchen University of Applied Sciences- Masters in Business Administration 
+- Certifications/Qualifications: Grenoble Ecole de Management- Masters in Science Management, Hochschule M&uuml;nchen University of Applied Sciences- Masters in Business Administration 
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vivianechilton" target="_blank" rel="noopener">https://www.linkedin.com/in/vivianechilton</a>
 
 **Jeferson Staelens**
@@ -239,6 +239,8 @@ Beyond IP, Questel's mission is to facilitate the development of innovation in a
 - IA/IP-Related Expertise: IP Database, IP Intelligence and Search, Innovation consultancy, IP Portfolio Management, IP Strategy Consulting
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/jeferson-staelens" target="_blank" rel="noopener">https://sg.linkedin.com/in/jeferson-staelens</a>
 
-
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/640e6f1f571b1800123bae5f' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

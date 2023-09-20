@@ -1,71 +1,39 @@
 ---
-title: 'StaffAny'
+title: 'Liquid Filling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1131
 ---
 
-## StaffAny
+## Liquid Filling Machine
 
 ## Overview
 
 **Description**
 
-StaffAny helps businesses in the blue collar workforce optimize their scheduling and HR administration through the integrated scheduling and time tracking mobile and web application. In addition to managing hourly workers, StaffAny tracks staff performance and automates end-of-month timesheet consolidations. With StaffAny, businesses can better performances, cut operating costs, and make time to do what matters to them the most.
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (25 Users)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (50 Users)	</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (100 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (150 Users)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (200 Users)</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$18,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Minimally semi-automated<br>- Volumetric or weight based filling<br>- Touchscreen display can be supported<br>- Explosion proof can be supported <br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported <br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:Staffany Private Limited<br>Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

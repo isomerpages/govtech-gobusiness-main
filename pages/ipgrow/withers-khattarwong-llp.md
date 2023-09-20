@@ -21,7 +21,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 
 <b>Website:</b> <a href='https://www.withersworldwide.com/'>https://www.withersworldwide.com/</a>
 
-<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_0-ipgrow-company-profile %}
 
@@ -32,81 +32,81 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 **Contract Drafting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 56 to 60</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1500 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
 </ul>
 
 **Dispute Resolution Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1500 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600 hourly rate</li>
 </ul>
 
 **IP Due Diligence Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8000 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **IP Portfolio Management Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 46 to 50</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500 per mark</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $2,000</li>
 </ul>
 
 **IP Training Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1000 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,000</li>
 </ul>
 
 **Patent Agent Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5000 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $500</li>
 </ul>
 
 **Registered Design Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $550 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Depends on the project</li>
 </ul>
 
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $550 and upwards</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $1,500</li>
 </ul>
 
 ---
@@ -143,15 +143,6 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Awards/Accolades: Chambers Asia Pacific 2023 - Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright - Expert, Doyle's Guide 2020 - TMT
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/jonathan-kok" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/jonathan-kok</a>
 
-**Gretchen Su**
-
-- Job Title: Partner
-- Years of Experience: 16 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E), Accredited Mediator Singapore International Mediation Institute (SIMI)
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/gretchen-su" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/gretchen-su</a>
-
 **Alvin Lim**
 
 - Job Title: Special Counsel
@@ -180,7 +171,7 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E)
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/lee-in-hae" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/lee-in-hae</a>
 
-**Melaine Yun**
+**Melanie Yun**
 
 - Job Title: Senior Patent Associate
 - Years of Experience: 8 years
@@ -188,16 +179,6 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
 - Certifications/Qualifications: Patent Attorney Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/melanie-yun" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/melanie-yun</a>
-
-
-**Valen Lim**
-
-- Job Title: Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/valen-lim" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/valen-lim</a>
 
 **Bernetta Foong**
 
@@ -208,15 +189,18 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/bernetta-foong" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/bernetta-foong</a>
 
-**Jim Lim**
+**Valen Lim**
 
-- Job Title: Consultant
-- Years of Experience: 38 years
+- Job Title: Associate
+- Years of Experience: 2 years
 - Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
+- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
-- Awards/Accolades: The Legal 500 Asia-Pacific 2023 - Intellectual Property - Leading Individual, Chambers Asia-Pacific 2022 - Ranked, Asia IP Experts - Intellectual Property - IP Experts
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/jim-lim" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/jim-lim</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/valen-lim" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/valen-lim</a>
+
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

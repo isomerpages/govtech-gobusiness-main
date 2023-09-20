@@ -1,15 +1,15 @@
 ---
-title: 'Managed Firewall Solution'
+title: 'Fooyo Commerce Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1504
 ---
 
-## Managed Firewall Solution
+## Fooyo Commerce Version 2.0
 
 ## Overview
 
 **Description**
 
-LGA's Managed Firewall Solution provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance thanks to LGA's fully managed service.
+Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ LGA's Managed Firewall Solution provides robust next-generation firewall protect
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 40F</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,488.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 60F</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 80F</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 100F</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 200F</td>
-<td style='padding: 10px;'>$8,860.00</td>
-<td style='padding: 10px;'>$7,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
+<td style='padding: 10px;'>$9,588.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ LGA's Managed Firewall Solution provides robust next-generation firewall protect
 
 ## Vendor Information
 
- Company name:LGA Telecom Pte Ltd<br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+ Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

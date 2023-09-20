@@ -1,15 +1,16 @@
 ---
-title: 'DM Accelerated Digital Marketing For SMEs'
+title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution855
 ---
 
-## DM Accelerated Digital Marketing For SMEs
+## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  This package by Next Level SG is designed to help SMEs with increasing and accelerating their digital marketing presence. It is geared for companies that want expert help to grow and scale their online branding and sales.
+SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
+Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
 
 ## Solution Packages Option(s)
 
@@ -23,31 +24,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution855
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Paid Advertising</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Lead Generation</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Live Streaming</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Accelerated Digital Marketing For SMEs - Accelerated Digital Marketing For SMEs - Creative Video Campaign</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Next_Level_SG_20210331_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +37,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution855
 
 ## Vendor Information
 
- Company Name: Next Level SG Pte Ltd<br>Web URL: www.Nextlevel.sg <br><br>Contact Hotline: 83765715 <br><br>Contact Email: info@nextlevel.sg <br><br>
+ Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,19 @@
 ---
-title: 'MEGAPOS'
+title: 'Redoc - Document Management Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
-## MEGAPOS
+## Redoc - Document Management Version 1.0
 
 ## Overview
 
 **Description**
 
-MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart document management and transaction records platform. 
+
+Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights and transaction records on the performance of your business. 
+
+Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc!
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,38 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
-<td style='padding: 10px;'>$5,180.00</td>
-<td style='padding: 10px;'>$4,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
-<td style='padding: 10px;'>$6,730.00</td>
-<td style='padding: 10px;'>$6,430.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
-<td style='padding: 10px;'>$7,230.00</td>
-<td style='padding: 10px;'>$6,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
-<td style='padding: 10px;'>$6,190.00</td>
-<td style='padding: 10px;'>$5,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (Up to 60 users)</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +68,7 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company name:Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

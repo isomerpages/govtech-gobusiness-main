@@ -5,22 +5,22 @@ permalink: /intellectual-property/ip-grow/vallaris/
 
 ## VALLARIS
 
-VALLARIS helps entrepreneurs and CEOs with their mergers and acquisitions ("M&A") deals and disputes.
+Vallaris helps entrepreneurs and CEOs with their mergers and acquisitions ("M&A") deals and disputes.
 
 Only 1% of entrepreneurs and CEOs fund raise successfully.
 
 Businesses often fail to raise the right type of funding at the right valuation at the right time.
 
-BUSINESS PLAN MISTAKES
+Business Plan Mistakes 
 Many fail without a clear What's in It For Me? ("WIIFM") for investors.
 
-BAD VALUATION
+Bad Valuation 
 Too low, you won't attract investors. Too high, you'll distance investors.
 
-CAN'T SEAL THE DEAL
+Can't Seal The Deal
 Most entrepreneurs are not trained to attract, pitch and close accredited investors.
 
-VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing Them.
+Vallaris' mission is to get investors & capital coming to you instead of chasing them.
 
 <b>Year established in Singapore:</b> 2018
 
@@ -34,7 +34,7 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 
 <b>Offer:</b> N.A.
 
-<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_2-ipgrow-company-profile %}
 
@@ -45,11 +45,11 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $300</li>
 </ul>
 
 ---
@@ -108,4 +108,7 @@ VALLARIS' mission is to Get Investors & Capital Coming To You Instead of Chasing
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/munsiongyoong" target="_blank" rel="noopener">https://www.linkedin.com/in/munsiongyoong</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/642b8054d88e0800129c6474' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

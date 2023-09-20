@@ -1,15 +1,15 @@
 ---
-title: 'Qashier Digital Ordering Version 2022.01'
+title: 'SINGTAX CORPORATE'
 permalink: /productivity-solutions-grant/solutionrepo/solution1782
 ---
 
-## Qashier Digital Ordering Version 2022.01
+## SINGTAX CORPORATE
 
 ## Overview
 
 **Description**
 
-Qashier provides a full suite of affordable and easy-to-use digital ordering solutions for all types of F&B businesses including food kiosks, cafes, restaurants and bars. Qashier's integrated solution includes QR and online ordering, integrated payment processing, inventory and ingredient management, CRM and customer loyalty, and kitchen management systems.
+Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Qashier provides a full suite of affordable and easy-to-use digital ordering sol
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Basic</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'>$2,359.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Pro</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'>$3,159.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for QSR</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Kit Growth for Restaurants</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'>$4,259.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering Starter Kit</td>
-<td style='padding: 10px;'>$4,839.00</td>
-<td style='padding: 10px;'>$4,839.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qashier_Digital_Ordering_Version2022_01_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Qashier Pte Ltd<br>Web URL: qashier.com <br>Contact Hotline: 31650155 <br>Contact Email: hello@qashier.com <br>
+ Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,16 @@
 ---
-title: '3D Omni Commerce'
+title: 'BricsCAD A.I Design Technologies'
 permalink: /productivity-solutions-grant/solutionrepo/solution30
 ---
 
-## 3D Omni Commerce
+## BricsCAD A.I Design Technologies
 
 ## Overview
 
 **Description**
 
-3D Omni Commerce is an integrated "all-channel" online store, to empower SMEs to streamline business processes and designed to optimize conversions. The solution comprises a professionally designed E-commerce website, with On-Page SEO, Inventory Management, Promotion Management, E-payment gateway integration, CRM, and synchronisation of prices, orders, and inventories to popular Online Marketplaces, such as Shopee and Lazada.
+BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
+BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +24,31 @@ permalink: /productivity-solutions-grant/solutionrepo/solution30
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Single User License</td>
+<td style='padding: 10px;'>$3,530.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PRO</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3DBrandAgency_3D_Omni_Commerce_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
+<td style='padding: 10px;'>$4,410.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Network License</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
+<td style='padding: 10px;'>$6,650.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +58,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution30
 
 ## Vendor Information
 
- Company name:3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com 
+ Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

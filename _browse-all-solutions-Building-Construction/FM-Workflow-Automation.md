@@ -28,35 +28,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution159' target='_blank'>APM Smart Access System Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution130' target='_blank'>APM Smart Access System Version 1.0</a><br></td>
 <td>APM Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution514' target='_blank'>FacilityBot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>FacilityBot</a><br></td>
 <td>FacilityBot Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution549' target='_blank'>KEGMIL FSM</a><br></td>
-<td>FTV LABS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution859' target='_blank'>Simplify Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution673' target='_blank'>Simplify Version 1</a><br></td>
 <td>Noid Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1011' target='_blank'>Really Platform for PMs and FMs Version 2.4</a><br></td>
-<td>Really Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1151' target='_blank'>Swipetask PRO</a><br></td>
-<td>Swipetask Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1612' target='_blank'>SmartFM Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1289' target='_blank'>SmartFM Version 2.0</a><br></td>
 <td>CHIMERIC TECHNOLOGIES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1637' target='_blank'>VisionMan</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1309' target='_blank'>VisionMan</a><br></td>
 <td>ECS Techno_Sys (Asia Pacific) Pte Ltd</td>
 </tr>
 </table>

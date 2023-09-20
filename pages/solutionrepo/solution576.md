@@ -1,15 +1,15 @@
 ---
-title: 'GuideToEcom Premium'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution576
 ---
 
-## GuideToEcom Premium
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-Guidesify offers well-designed and optimized e-commerce website solutions that can handle significant traffic with its lean tech stack, making it an excellent tool for businesses aiming to expand. Regardless of traffic scale, Guidesify's e-commerce solutions can help businesses reach the next level. Start business right with a fast and affordable e-commerce development package from Guidesify.
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Guidesify offers well-designed and optimized e-commerce website solutions that c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GuideToEcom Premium</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Guidesify_GuideToEcom_Premium_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Guidesify offers well-designed and optimized e-commerce website solutions that c
 
 ## Vendor Information
 
- Company Name:Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/ecommerce/ <br>Contact Hotline: 87755483 <br>Contact Email: hello@guidesify.com 
+ Company name: KLC International Institute Pte Ltd <br>Web URL: https://klc.edu.sg/ <br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

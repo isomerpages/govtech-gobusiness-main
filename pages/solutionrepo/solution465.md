@@ -1,15 +1,15 @@
 ---
-title: 'EQuip Wholesales & Inventory System Version 3'
+title: 'Highnix ERP Plus2 Version 4-3-35'
 permalink: /productivity-solutions-grant/solutionrepo/solution465
 ---
 
-## EQuip Wholesales & Inventory System Version 3
+## Highnix ERP Plus2 Version 4-3-35
 
 ## Overview
 
 **Description**
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+Highnix ERP solution is powered by Linux and cloud-based ERP engine which was developed by Highnix with tremendous amount of professional and software experience.  It simplifies and standardizes business processes, integrate business transactions and eliminate unproductive, human errors and maintain data continuity. No more worries about staff turnover. It can be customized, scaled, upgraded and can integrate with third-party applications.  It helps saving significant amount of operating cost.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic)</td>
-<td style='padding: 10px;'>$7,010.00</td>
-<td style='padding: 10px;'>$6,328.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard System for up to 3 concurrent users</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'>$12,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module)</td>
-<td style='padding: 10px;'>$8,910.00</td>
-<td style='padding: 10px;'>$8,478.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'>$15,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - Accounting Integration</td>
-<td style='padding: 10px;'>$12,410.00</td>
-<td style='padding: 10px;'>$11,978.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Enhanced System for up to 5 concurrent users</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'>$17,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - eCommerce Integration</td>
-<td style='padding: 10px;'>$12,410.00</td>
-<td style='padding: 10px;'>$11,978.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Sales Order Module) - 2 License Bundle</td>
-<td style='padding: 10px;'>$13,490.00</td>
-<td style='padding: 10px;'>$12,776.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Edgeworks_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Enhanced System for up to 8 concurrent users</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale e
 
 ## Vendor Information
 
- Company name:Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg 
+ Company Name: Highnix Pte Ltd<br>Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

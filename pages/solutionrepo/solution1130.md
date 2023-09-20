@@ -1,32 +1,30 @@
 ---
-title: 'School Bus Management System Version SBMS.V2'
+title: 'Automated Labelling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1130
 ---
 
-## School Bus Management System Version SBMS.V2
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
 </tr>
 </table>
 
@@ -34,10 +32,6 @@ SSTA Technology Development Pte Ltd is a Singapore-based company since January 2
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

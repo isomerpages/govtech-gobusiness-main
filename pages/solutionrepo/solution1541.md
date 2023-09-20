@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
+title: 'Websentials Ecommerce Web Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 
-## Taidii Smart Data Analytics for Centre Operations and Child Development
+## Websentials Ecommerce Web Development
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
+<td style='padding: 10px;'>$9,040.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

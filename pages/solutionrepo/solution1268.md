@@ -1,15 +1,17 @@
 ---
-title: 'Digital Fund Manager Compliance powered by Palmyra'
+title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1268
 ---
 
-## Digital Fund Manager Compliance powered by Palmyra
+## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
 
 ## Overview
 
 **Description**
 
-Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for fund management companies. DFMC helps automate, organize, manage and keep up with regulatory requirements for efficient and comprehensive compliance.
+Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
+ 
+Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +25,31 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Lite</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'>$85,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Standard </td>
-<td style='padding: 10px;'>$180,000.00</td>
-<td style='padding: 10px;'>$105,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Fund Manager Compliance powered by Palmyra - DFMC Enterprise </td>
-<td style='padding: 10px;'>$220,000.00</td>
-<td style='padding: 10px;'>$130,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vermeg_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +59,7 @@ Digital Fund Manager Compliance (DFMC) is a cloud-based compliance solution for 
 
 ## Vendor Information
 
- Company name:Vermeg International Singapore Pte. Limited<br>Web URL: www.vermeg.com <br>Contact Hotline: 67201012 <br>Contact Email: nmohankumar@vermeg.com 
+ Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

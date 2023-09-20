@@ -1,31 +1,39 @@
 ---
-title: 'Industrial/Commercial Slicer'
+title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1499
 ---
 
-## Industrial/Commercial Slicer
+## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
-
-Cost of equipment capped at $37,500 per unit 
-
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Must meet the following:<br>- Adjustable slicing width <br>- Feature an electrically powered pusher that is an integral part of the slicer machine (i.e. must be built in to the slicer machine)  <br><br>Optional component: Conveyor*<br>*Open for support if the combined cost of the slicer and conveyor falls within the cost cap of $37,500.00 </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -33,6 +41,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

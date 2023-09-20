@@ -19,7 +19,7 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <b>Website:</b> <a href='https://www.maxlewis.com.sg'>https://www.maxlewis.com.sg</a>
 
-<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Connect</a>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 
 {% include overview.html anchorlinks=site.data.ov013_1a-ipgrow-company-profile %}
 
@@ -30,11 +30,11 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 **IP Database Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of users on database in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 **Tax Advisory (with IA/IP considerations) Services**
@@ -42,19 +42,19 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
 ---
@@ -104,9 +104,12 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 - Years of Experience: 27 years
 - Location: Singapore
 - IA/IP-Related Expertise: Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
-- Certifications/Qualifications: Certified Patent Valuation Analyst, Certified Valuation Analyst from National Association of Certified Valuators Analysts (NACVA), Chartered Valuer and Appraiser from Institute of Valuers and Appraisers, Singapore (IVAS), International Certified Valuation Specialist from International Association of Certified Valuation Specialists (IACVS), Accredited Tax Advisor (Income tax and GST) from SCTP 
+- Certifications/Qualifications: Certified Patent Valuation Analyst, Certified Valuation Analyst from National Association of Certified Valuators Analysts (NACVA), Chartered Valuer and Appraiser from Institute of Valuers and Appraisers, Singapore (IVAS), International Certified Valuation Specialist from International Association of Certified Valuation Specialists (IACVS), Certified Business Valuer of the Australian Valuers Institute (AVI), Fellow of the Society of Share and Business Valuers (UK), Accredited Member (AM) of the American Society of Appraisers (ASA), Chartered Tax Adviser (Australia),  Accredited Tax Advisor (Income tax and GST) from SCTP
 - Awards/Accolades: Best Business Valuation firm, Best Business Valuation Consultancy, Best Intellectual Property Valuer
 - URL of LinkedIn/Company Profile: <a href="https://linkedin.com/in/albert-tan-Tiong-Heng" target="_blank" rel="noopener">https://linkedin.com/in/albert-tan-Tiong-Heng</a>
 
 ---
-Profile last updated on 12 June 2023
+<p>
+<a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
+</p>
+Profile last updated on 23 August 2023

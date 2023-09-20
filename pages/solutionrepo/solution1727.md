@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1727
 ---
 
-## Microsoft Dynamics 365 Business Central
+## DM APEC Solutions Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate the majority of SME's transactions from CRM to quote, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventory on the supply side. Assembly function are also available to cater to SME's mini-manufacturing needs. This would eliminate redundant processes and tasks. With more accurate information, SME's can make better informed decisions.
+APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Basic</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$23,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Basic</td>
-<td style='padding: 10px;'>$31,400.00</td>
-<td style='padding: 10px;'>$26,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Intermediate</td>
-<td style='padding: 10px;'>$35,200.00</td>
-<td style='padding: 10px;'>$28,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Advance</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Intermediate</td>
-<td style='padding: 10px;'>$43,800.00</td>
-<td style='padding: 10px;'>$31,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Microlabs Pte Ltd<br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg 
+ Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

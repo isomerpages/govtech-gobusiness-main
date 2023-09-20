@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations'
+title: 'eCommerce Masterplan Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1539
 ---
 
-## Taidii Smart Data Analytics for Centre Operations
+## eCommerce Masterplan Version 2.0
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
