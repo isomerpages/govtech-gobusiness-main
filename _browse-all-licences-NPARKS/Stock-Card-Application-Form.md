@@ -8,8 +8,6 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ec7a1c8b-6482-4c9e-9668-d97158bd5eb0" type="primary" %}
-
 <H3>Application Details</H3>
 
 <p>This stock card will be needed for exporter and re-exporters to facilitate their Export or Re-Export CITES permit application. For expired CITES export/re-port CITES permit, please apply for manual increment to credit the stock back to the respectively stock card.</p>
