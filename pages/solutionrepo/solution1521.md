@@ -1,15 +1,15 @@
 ---
-title: 'NPOS Version 2.1'
+title: 'ePSProfessional Version 1.7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1521
 ---
 
-## NPOS Version 2.1
+## ePSProfessional Version 1.7
 
 ## Overview
 
 **Description**
 
-NPOS Digital Ordering solution enables F&B customers to directly order from a digital menu on a tablet; or via scanning a QR Code to view the digital menu on their mobile devices and make orders; and/or place order online directly over a website.
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 
 ## Vendor Information
 
- Company name:NSTORY PTE. LTD.<br>Web URL: https://nstory.me <br>Contact Hotline: 62463207 <br>Contact Email: ecare@nstory.me
+ Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

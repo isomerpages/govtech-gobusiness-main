@@ -1,15 +1,15 @@
 ---
-title: 'iTrack Vehicle Fleet Tracking'
+title: 'Psoft Accounting Systems Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution761
 ---
 
-## iTrack Vehicle Fleet Tracking
+## Psoft Accounting Systems Version 7
 
 ## Overview
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+Psoft Accounting software help SMEs keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Psoft Accounting software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Single User - Peppol Ready)</td>
+<td style='padding: 10px;'>$1,520.00</td>
+<td style='padding: 10px;'>$1,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Three Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'>$3,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Five Users - Peppol Ready)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Single User with PEPPOL)</td>
+<td style='padding: 10px;'>$2,460.00</td>
+<td style='padding: 10px;'>$2,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Three Users with PEPPOL)</td>
+<td style='padding: 10px;'>$6,660.00</td>
+<td style='padding: 10px;'>$5,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

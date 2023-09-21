@@ -28,11 +28,11 @@ This solution is supported by BCA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution403' target='_blank'>NovaVision Remote Assist Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution383' target='_blank'>NovaVision Remote Assist Version 1.0</a><br></td>
 <td>Engage Nova Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution552' target='_blank'>Smart Glasses - InnoGlas</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution532' target='_blank'>Smart Glasses - InnoGlas</a><br></td>
 <td>Innowave Tech Pte. Ltd.</td>
 </tr>
 </table>

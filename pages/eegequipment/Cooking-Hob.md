@@ -111,6 +111,10 @@ Induction technology
 - Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
 - OZTI - 7865.N1.80903.IS
+- RATIONAL - iVario 2-XS
+- RATIONAL - iVario Pro 2-S
+- RATIONAL - iVario Pro L
+- RATIONAL - iVario Pro XL 
 - ROLLER GRILL Sia-Huat - (238SD-PIC25)
 - ROLLER GRILL Sia-Huat - (238SD-PID30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)

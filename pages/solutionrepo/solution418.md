@@ -1,15 +1,16 @@
 ---
-title: 'Everyday Corporate Xero Cloud Accounting Software'
+title: 'FocusGuard FMS Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution418
 ---
 
-## Everyday Corporate Xero Cloud Accounting Software
+## FocusGuard FMS Version 2.0
 
 ## Overview
 
 **Description**
 
-Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
+FocusGuard Fleet Management System is designed to control, monitor, and track all vehicles. Locate vehicles using detailed maps round the clock. Access the Web-based Fleet Management portal or Mobile App to view real-time location and information of the vehicles and generate up-to-date reports.
+FocusGuard FMS generates a complete suite of commonly desired Reports.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +24,10 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard with Data Migration</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Premium (Multicurrency)</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4- Premium (Multicurrency) with Data Migration</td>
-<td style='padding: 10px;'>$3,980.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Per Vehicle)</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_FocusGuard_Annex_3_CR_wef_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +37,7 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 
 ## Vendor Information
 
- Company Name: Everyday Corporate Pte. Ltd.<br>Web URL: www.everydaycorporate.com <br>Contact Hotline: 93202657 <br>Contact Email: hello@everydaycorporate.com <br>
+ Company Name: FocusGuard Pte Ltd<br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

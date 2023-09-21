@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Pl
 ## EndPoint Protection Platform
 ## Overview
 
+**Description**
+
+Endpoint Protection Platform (EPP) is deployed on endpoint devices to prevent file-based malware, to detect and block malicious activity from trusted and untrusted applications, and to provide the investigation and remediation capabilities needed to dynamically respond to security incidents and alerts.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,35 +32,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution257' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution240' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
 <td>Cloudable Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution712' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution692' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution756' target='_blank'>JumpCloud Platform</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution736' target='_blank'>JumpCloud Platform</a><br></td>
 <td>Perennial Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution797' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution777' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
 <td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution830' target='_blank'>Eset Protect Entry</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution810' target='_blank'>Eset Protect Entry</a><br></td>
 <td>Rentalworks (SG) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution881' target='_blank'>Singtel Endpoint Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution861' target='_blank'>Singtel Endpoint Security</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution933' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution908' target='_blank'>Kaspersky Endpoint Security Version 11.6.0</a><br></td>
 <td>Techfount Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1662' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1614' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>
