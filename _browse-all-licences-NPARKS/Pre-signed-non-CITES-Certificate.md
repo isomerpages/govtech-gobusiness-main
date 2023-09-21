@@ -8,7 +8,7 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 800hrs.</p>
+<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
