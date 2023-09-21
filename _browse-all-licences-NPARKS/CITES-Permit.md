@@ -8,6 +8,8 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
+<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 800hrs.</p>
+
 <H3>Application Details</H3>
 
 <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>

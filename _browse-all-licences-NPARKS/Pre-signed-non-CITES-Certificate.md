@@ -8,6 +8,8 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
+<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 800hrs.</p>
+
 <H3>Application Details</H3>
 
 <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products etc.</p>

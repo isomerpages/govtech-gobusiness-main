@@ -8,6 +8,8 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
+<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 800hrs.</p>
+
 <H3>Application Details</H3>
 
 <p>A pre-signed CITES permit is issued for tourist manufactured products made from CITES reptilian/non-reptilian species, like handbags, wallets/purses, belts, key holder/chains etc. A retailer of such products may apply for pre-signed CITES permits. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the pre-signed CITES permit, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase. The customer may be required to produce the permit when clearing customs inspections at the country/region of destination.</p>
