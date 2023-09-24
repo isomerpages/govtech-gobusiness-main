@@ -20,7 +20,7 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1769' target='_blank'>SMART AUDIT</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1761' target='_blank'>SMART AUDIT</a><br></td>
 <td>Smart Audit Pte. Ltd.</td>
 </tr>
 </table>
