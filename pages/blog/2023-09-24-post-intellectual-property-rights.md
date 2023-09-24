@@ -8,7 +8,7 @@ crumbs: gobusiness-how-to
 description: Discover how GoBusiness IP Grow empowers you to protect, navigate and commercialise your intangible assets for sustained success.
 ---
 
-![GoBusiness Product Lead Simon Ang](/images/blog/content/ipgrow-cover.png)
+![Business Intellectual Property](/images/blog/content/ipgrow-cover.png)
 <figcaption>Understanding how to navigate, protect and commercialise your intangible assets is key to safeguarding your business’s intellectual property (Image: Shutterstock)</figcaption>
 
 Innovation and technology are at the backbone of many successful businesses. However, achieving success requires more than just a great product or service and a way to sell it. With increasing competition, finding ways to commercialise inventions while keeping them safe from copycats can be challenging. This is where Intellectual Property (IP) protection comes in.
