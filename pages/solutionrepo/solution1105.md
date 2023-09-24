@@ -1,17 +1,18 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1105
 ---
 
-## Automated Tray Sealer
+## Form Fill Seal Machine
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
 
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment  capped at $20,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'> - Minimum 400 units per hour<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'>- Temperature and speed control<br><br></td>
 </tr>
 </table>
 

@@ -1,0 +1,6 @@
+- anchor: '#income-tax'
+  anchor_text: File income tax returns
+- anchor: '#reg-for-gst'
+  anchor_text: Register for GST
+- anchor: '#pay-sdl'
+  anchor_text: Pay Skills Development Levy

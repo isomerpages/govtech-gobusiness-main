@@ -1,15 +1,15 @@
 ---
-title: 'SYNERGIX Version TH6'
+title: 'SYSFREIGHT Version 10.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution895
 ---
 
-## SYNERGIX Version TH6
+## SYSFREIGHT Version 10.01
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences).
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
-<td style='padding: 10px;'>$39,420.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 3 User</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$15,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 6 User</td>
+<td style='padding: 10px;'>$24,480.00</td>
 <td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 9 User</td>
+<td style='padding: 10px;'>$31,140.00</td>
+<td style='padding: 10px;'>$29,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User</td>
+<td style='padding: 10px;'>$37,080.00</td>
+<td style='padding: 10px;'>$35,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 15 User</td>
+<td style='padding: 10px;'>$42,300.00</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
+ Company Name: SYSMAGIC SOFTWARE SOLUTION PTE LTD<br>Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
