@@ -25,9 +25,8 @@ While it is not the most glamourous part of running a business, IP protection is
 However, with a lack of understanding of IP, filing for the right IP protection credentials can be overwhelming for a lot of business owners. Not to worry though as [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services) is here to guide you on how you can protect your IP rights.
 
 Here are four common IP challenges local businesses face and how you can leverage GoBusiness IP Grow to overcome them:
-I have no idea where to start with IP protection
 
-### I have no idea where to start with IP protection
+### 1. I have no idea where to start with IP protection
 
 The main IP challenge that businesses encounter is often a lack of awareness of IP protection. According to the [Singapore IP Survey 2023](https://www.ipos.gov.sg/resources/singapore-ip-survey) conducted by the Intellectual Property Office of Singapore, four out of five enterprises in Singapore would like more opportunities to use their IA/IP to obtain financing. However, 92 per cent of companies did not optimise the subsidies or grants available for their IP activities, and more than half cited a lack of awareness of available IP resources as the key factor.
 
@@ -37,15 +36,14 @@ To help businesses discover the wealth of IP resources available, GoBusiness IP 
 <figcaption>Gobusiness IP Grow provides a comprehensive list of IA/IP services and service providers categorised into four key categories to give users a high-level understanding of the IA/IP services that may be necessary for their business
 </figcaption>
 
-To ensure that you get the help you need to protect your IP, GoBusiness IP Grow also has a comprehensive list of [20 IA/IP directories](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services), categorised into four key types of IA/IP services to give you a concrete understanding of the various IP services available to help you better identify your needs. The categories are IP search and registration, IP strategy and management, IP commercialisation and financing, and more. 
+To ensure that you get the help you need to protect your IP, GoBusiness IP Grow also has a [comprehensive list of 20 IA/IP directories](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services), categorised into four key types of IA/IP services to give you a concrete understanding of the various IP services available to help you better identify your needs. The categories are IP search and registration, IP strategy and management, IP commercialisation and financing, and more. 
 
 ![GoBusinesse-Adviser for IP Service](/images/blog/content/ipgrow-4.png)
 <figcaption>The e-Adviser for IP service curates recommendations for the type of IA and IP services your business needs based on the short questionnaire</figcaption>
 
-### I have difficulty navigating the IP registration process
+If you’re still not sure which IA/IP services your business needs, simply tap into the [GoBusiness e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice) for personalised recommendations.
 
-If you’re still not sure which IA/IP services your business needs, simply tap into the GoBusiness e-Adviser for IP Service for personalised recommendations.
-I have difficulty navigating the IP registration process
+### 2. I have difficulty navigating the IP registration process
 
 According to the latest Singapore IP survey, one of the top three IP-related challenges in Singapore is navigating the individual requirements of IP offices.
 
