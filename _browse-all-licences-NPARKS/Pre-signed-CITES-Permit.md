@@ -8,7 +8,7 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/0b26fcfb-7f2d-4367-b557-3813dd285350" type="primary" %}
+<p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 25 Sep 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
