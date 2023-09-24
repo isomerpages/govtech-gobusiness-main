@@ -96,4 +96,3 @@ Remember: Late filing of the CIT return is an offence and you may be subjected t
 **Learn more through this [GoBusiness page](https://www.gobusiness.gov.sg/run-and-grow/taxes-and-gst/){:target="_blank"}{:rel="noopener"} that contains a list of resources and guides on tax filing across different business structures.**
 
 <em> This article is accurate as at 25 Sep 2023</em>
-
