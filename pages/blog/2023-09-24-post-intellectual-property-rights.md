@@ -9,7 +9,7 @@ description: Discover how GoBusiness IP Grow empowers you to protect, navigate a
 ---
 
 ![Business Intellectual Property](/images/blog/content/ipgrow-cover.png)
-<figcaption>Understanding how to navigate, protect and commercialise your intangible assets is key to safeguarding your business’s intellectual property (Image: Shutterstock)</figcaption>
+<figcaption>Understanding how to navigate, protect and commercialise your intangible assets is key to safeguarding your business’s intellectual property (Image: Canva)</figcaption>
 
 Innovation and technology are at the backbone of many successful businesses. However, achieving success requires more than just a great product or service and a way to sell it. With increasing competition, finding ways to commercialise inventions while keeping them safe from copycats can be challenging. This is where Intellectual Property (IP) protection comes in.
 
@@ -20,7 +20,7 @@ IP rights provide the owner with exclusive rights to control the use and distrib
 While it is not the most glamourous part of running a business, IP protection is crucial to securing every business’s intangible assets. When it comes to protecting your IP, implementing suitable best practices and arming yourself with the right legal credentials could prevent competitors from copying or imitating your products or services. It gives you legal protection over your business, and permits you to sue for infringement and the right to defend against claims of infringement, securing your business’s competitive advantage in the market. 
 
 ![IP Survey 2023 findings](/images/blog/content/ipgrow-2.png)
-<figcaption>Key findings from the IP Survey 2023 conducted by the Intellectual Property Office of Singapore</figcaption>
+<figcaption>Key findings from the IP Survey 2023 conducted by the Intellectual Property Office of Singapore (Image: [IPOS website](https://www.ipos.gov.sg/resources/singapore-ip-survey))</figcaption>
 
 However, with a lack of understanding of IP, filing for the right IP protection credentials can be overwhelming for a lot of business owners. Not to worry though as [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services) is here to guide you on how you can protect your IP rights.
 
@@ -54,7 +54,7 @@ Depending on the kind of intangible assets business owners are looking to secure
 For comprehensive IA/IP protection, consider seeking advice from professional service providers to help you navigate the world of IP protection. By leveraging their proficiency, you enhance your chances of acquiring the right protection for your business.
 
 ![GoBusiness IP Grow IA/IP Service types](/images/blog/content/ipgrow-5.png)
-<figcaption>GoBusiness IP Grow for a consolidated list of IA/IP Services that your business may require</figcaption>
+<figcaption>GoBusiness IP Grow provides a consolidated list of IA/IP Services that your business may require</figcaption>
 
 On GoBusiness IP Grow, you can find [a list of reliable IA/IP service providers](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services) for each type of IA/IP service you are looking for, get an overview of each service provider’s charges at a glance, and connect with the service providers of your choice.
 
@@ -67,7 +67,7 @@ There is no one way to go about securing your IP rights. You will need to look a
 That also means that your business could require all kinds of IA/IP services, but often businesses may not know how to source for suitable IA/IP service providers.
 
 ![GoBusiness e-Adviser for IP Service Provider](/images/blog/content/ipgrow-6.png)
-<figcaption>Take five minutes to complete the e-Adviser questionnaire, and get recommendations on the most suitable IA/IP service providers you can connect with"</figcaption>
+<figcaption>Take five minutes to complete the e-Adviser questionnaire, and get recommendations on the most suitable IA/IP service providers you can connect with</figcaption>
 
 Need recommendations on an IA/IP service provider? Well look no further, as GoBusiness IP Grow has consolidated a list of IA/IP service providers that offer any of the 20 listed IA/IP services. Use the [GoBusiness e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about) to match with the most suitable provider, based on your IP needs and preferences. 
 
@@ -75,7 +75,7 @@ Simply select the services you require, your industry, your countries of interes
 
 ### 4. I’m concerned about affording IP protection
 
-IP protection is a crucial part of safeguarding your business growth. But the costs of IP protection and management can add up, forming a major hurdle for smaller businesses. 
+IP protection is a crucial part of safeguarding your business growth, but the costs of IP protection and management can add up, forming a major hurdle for smaller businesses. 
 
 ![GoBusiness IP Grow IA/IP Resources](/images/blog/content/ipgrow-7.png)
 <figcaption>GoBusiness links you to available grants and funding support available for your business</figcaption>
@@ -92,7 +92,6 @@ However, marketing your own IP, identifying and engaging suitable licensees and 
 Through the GoBusiness IP Grow, you can identify [IP Marketplace](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Marketplace/) service providers to list your IP assets for licensing and sale. You can also gain access to [IP Brokerage and Licensing](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/Commercialisation-and-Financing/IP-Brokerage-and-Licensing/) companies that facilitate connections between IP buyers and sellers while overseeing all deal activities, encompassing the purchase, sale, licensing and franchising packages, as well as the marketing of IP assets.
 
 With the help of an IP broker, you can develop a licensing structure that will protect your IP assets, while maximising long-term returns. When that happens, spending on IP protection will not just be an expense, but a worthy investment that funds itself.
-Check out GoBusiness IP Grow for an extensive list of resources on protecting your IA and IP. These include the GoBusiness e-Adviser for IP Service and e-Adviser for IP Service Provider to access a personalised list of recommendations for IA/IP services and service providers tailored to your business needs!
 
 **Check out [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services){:target="_blank"}{:rel="noopener"} for an extensive list of resources on protecting your IA and IP. These include the GoBusiness [e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice){:target="_blank"}{:rel="noopener"} and [e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider){:target="_blank"}{:rel="noopener"} to access a personalised list of recommendations for IA/IP services and service providers tailored to your business needs!**
 
