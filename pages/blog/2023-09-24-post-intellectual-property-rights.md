@@ -20,7 +20,7 @@ IP rights provide the owner with exclusive rights to control the use and distrib
 While it is not the most glamourous part of running a business, IP protection is crucial to securing every business’s intangible assets. When it comes to protecting your IP, implementing suitable best practices and arming yourself with the right legal credentials could prevent competitors from copying or imitating your products or services. It gives you legal protection over your business, and permits you to sue for infringement and the right to defend against claims of infringement, securing your business’s competitive advantage in the market. 
 
 ![IP Survey 2023 findings](/images/blog/content/ipgrow-2.png)
-<figcaption>Key findings from the IP Survey 2023 conducted by the Intellectual Property Office of Singapore (Image: [IPOS website](https://www.ipos.gov.sg/resources/singapore-ip-survey))</figcaption>
+<figcaption>Key findings from the IP Survey 2023 conducted by the Intellectual Property Office of Singapore (Image: <a href='https://www.ipos.gov.sg/resources/singapore-ip-survey' target='_blank' rel='noopener'>IPOS website</a>)</figcaption>
 
 However, with a lack of understanding of IP, filing for the right IP protection credentials can be overwhelming for a lot of business owners. Not to worry though as [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow/types-of-ia-ip-services) is here to guide you on how you can protect your IP rights.
 
