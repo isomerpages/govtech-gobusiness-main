@@ -36,7 +36,7 @@ To help businesses discover the wealth of IP resources available, GoBusiness IP 
 <figcaption>Gobusiness IP Grow provides a comprehensive list of IA/IP services and service providers categorised into four key categories to give users a high-level understanding of the IA/IP services that may be necessary for their business
 </figcaption>
 
-To ensure that you get the help you need to protect your IP, GoBusiness IP Grow also has a [comprehensive list of 20 IA/IP directories](/intellectual-property/ip-grow/types-of-ia-ip-services){:target="_blank"}{:rel="noopener"}, categorised into four key types of IA/IP services to give you a concrete understanding of the various IP services available to help you better identify your needs. The categories are IP Search and Registration, IP strategy and Management, IP Commercialisation and Financing, and Others. 
+To ensure that you get the help you need to protect your IP, GoBusiness IP Grow also has a [comprehensive list of 20 IA/IP directories](/intellectual-property/ip-grow/types-of-ia-ip-services){:target="_blank"}{:rel="noopener"}, categorised into four key types of IA/IP services to give you a concrete understanding of the various IP services available to help you better identify your needs. The categories are IP Search and Registration, IP Strategy and Management, IP Commercialisation and Financing, and Others. 
 
 ![GoBusinesse-Adviser for IP Service](/images/blog/content/ipgrow-4.png)
 <figcaption>The e-Adviser for IP service curates recommendations for the type of IA and IP services your business needs based on the short questionnaire</figcaption>
@@ -69,7 +69,7 @@ That also means that your business could require all kinds of IA/IP services, bu
 ![GoBusiness e-Adviser for IP Service Provider](/images/blog/content/ipgrow-6.png)
 <figcaption>Take five minutes to complete the e-Adviser questionnaire, and get recommendations on the most suitable IA/IP service providers you can connect with</figcaption>
 
-Need recommendations for IA/IP service provider? Well look no further, as GoBusiness IP Grow has consolidated a list of service providers that offer any of the 20 listed IA/IP services. Use the [GoBusiness e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about){:target="_blank"}{:rel="noopener"} to match with the most suitable provider, based on your IP needs and preferences. 
+Need recommendations for IA/IP service providers? Well look no further, as GoBusiness IP Grow has consolidated a list of service providers that offer any of the 20 listed IA/IP services. Use the [GoBusiness e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about){:target="_blank"}{:rel="noopener"} to match with the most suitable provider, based on your IP needs and preferences. 
 
 Simply select the services you require, your industry, your countries of interest, and provider preferences. You will get a list of suitable providers based on your answers. 
 
