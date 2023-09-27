@@ -8,17 +8,14 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/1f4be059-7506-438f-9ced-e70c5c220331" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f69415b6-6df3-4e26-acd5-f5c4c47a5c35" type="primary" %}
 
 <H3>Application Details</H3>
 
 <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
 <h3>FAQs</h3>
 <ol>
-<li>
-<div><strong>How to apply for this?<br /></strong>Apply via internet, via counter, using filer</div>
-</li>
-<li><strong>Where can I get the FAQ for Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
+<li><strong>Where can I get more information on trade in non-CITES wildlife parts and product? </strong><br />YYou can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
 </ol>
 
 <strong>Additional Information</strong>

@@ -8,14 +8,14 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/8a4b6c6c-d74a-4d94-a72d-11197b830222" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/985967e6-bcfb-4f61-a8fb-cf3bd94297a0" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>The Non-CITES Certificate allows commercial re-exporters to get National Parks Board approval for commercial re-export of non-CITES wildlife such as non-CITES ostrich skins and its manufactured products and non-CITES rep</p>
+<p>The Non-CITES Certificate allows individual or commercial exporters/re-exporters to get National Parks Board approval for commercial export/re-export of non-CITES specimens such as non-CITES ostrich skins and its manufactured products.</p>
 <h3>FAQs</h3>
 <ol>
-<li><strong>Where can I get the FAQ for Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
+<li><strong>Where can I get more information on trade in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
 </ol>
 
 <strong>Additional Information</strong>
