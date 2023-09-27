@@ -1,12 +1,14 @@
 - image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
   title: Register via GoBusiness
   description: This step will be available as part of the Guided Journey after completing your business name reservation and business registration.<br><br>If you do this, you do not need to apply on the Corppass portal.
-  url: https://dashboard.gobusiness.gov.sg/login?&src=startbiz_reg?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
+  url: https://dashboard.gobusiness.gov.sg/login?&src=start_corppass?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
+  url-new-tab: true
   text: Log in to apply via e-Adviser for Starting a Business
 
 - image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
   title: Register via Corppass portal
   description: You may register for a Corppass Administrator Account directly on the Corppass portal.
   url: https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2FCorppass%2Fcommon%2Ffindoutmore&TAM_OP=login
+  url-new-tab: true
   text: Apply on Corppass portal
 

@@ -32,7 +32,7 @@ Anybody who intends to carry out any activity for profit on an ongoing basis <b>
 
 Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei Ling), you must register the business. There are other exemptions from registration and the full list can be found in the [Business Names Registration Act](https://sso.agc.gov.sg/Act/BNRA2014?ProvIds=pr4-#pr4-){:target="_blank"}{:rel="noopener"}.
 
-<b>Ready to start your business registration?</b>
+<h4>Ready to start your business registration?</h4>
 
 {% include panels-featurelink.html panels=site.data.rgp010_start-up-overview %}
 

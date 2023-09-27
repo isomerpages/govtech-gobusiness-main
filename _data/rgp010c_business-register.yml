@@ -2,12 +2,14 @@
   title: I want guidance for registering a Sole Proprietorship/Partnership
   description: Log in with your Singpass and use Guided Journey to register your Sole Proprietorship/Partnership through step-by-step guidance.<br><br>If you do this, you do not need to apply on ACRA's BizFile+.
   url: https://dashboard.gobusiness.gov.sg/login?&src=startbiz_reg?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
+  url-new-tab: true
   text: Log in to apply via e-Adviser for Starting a Business
 
 - image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
   title: I want to register another type of business structure
   description: You may register any business structure directly on ACRA’s BizFile+.
   url: http://www.bizfile.gov.sg/
+  url-new-tab: true
   text: Apply on BizFile+
 
 - image: <img src="/images/start/agent-icon.png" aria-hidden="true">

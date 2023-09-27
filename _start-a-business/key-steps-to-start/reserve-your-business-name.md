@@ -15,10 +15,6 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 
 You can also check if there are similar trade marks [on the IP2SG portal](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
 
-### Ready to register your business name?
-
-{% include panels-featurelink.html panels=site.data.rgp010b_business-name %}
-
 Avoid names which are:
 
 - Identical to another business' name
@@ -47,23 +43,11 @@ When reserving your business name, you will need to provide the SSIC code(s) tha
 
 You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
 
+<h4>Ready to register your business name?</h4>
+
+{% include panels-featurelink.html panels=site.data.rgp010b_business-name %}
+
 There are three ways to reserve your business name:
-
-**For Sole Proprietorship/Partnership:**
-
-1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reserve){:target="_blank"}{:rel="noopener"};
-
-    i. Log in using your Singpass
-
-    ii. Use the e-Adviser for Starting a Business to create a Guided Journey
-
-    iii. Apply for business name online
-
-**For all types of business structures:**
-
-1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} , or
-
-2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
 
 The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
 
