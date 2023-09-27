@@ -15,6 +15,10 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 
 You can also check if there are similar trade marks [on the IP2SG portal](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
 
+### How to reserve your business name
+
+You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
+
 Avoid names which are:
 
 - Identical to another business' name
@@ -25,11 +29,13 @@ You may submit an appeal if your name application has been rejected and/or you h
 
 To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"}{:rel="noopener"} for more details.
 
-### Review of applications by Referral Authorities
+<h4>There are three ways to reserve your business name:</h4>
 
-Certain names or business activities require approval from the relevant government agencies (Referral Authorities). For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
+{% include panels-featurelink.html panels=site.data.rgp010b_business-name %}
 
-You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}{:rel="noopener"}.
+The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
+
+{% include accordion.html accordions=site.data.acc085-reserve-your-business-name.accordion %}
 
 ### Singapore Standard Industrial Classification (SSIC)
 
@@ -39,16 +45,8 @@ The Singapore Standard Industrial Classification (SSIC) is the national standard
 
 When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}{:rel="noopener"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020report.pdf){:target="_blank"}{:rel="noopener"}.
 
-### How to reserve your business name
+### Review of applications by Referral Authorities
 
-You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
+Certain names or business activities require approval from the relevant government agencies (Referral Authorities). For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
 
-<h4>Ready to register your business name?</h4>
-
-{% include panels-featurelink.html panels=site.data.rgp010b_business-name %}
-
-There are three ways to reserve your business name:
-
-The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
-
-{% include accordion.html accordions=site.data.acc085-reserve-your-business-name.accordion %}
+You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}{:rel="noopener"}.
