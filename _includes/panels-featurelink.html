@@ -149,22 +149,21 @@
             <div class="panel-links-group">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
-                {% if panel.url-new-tab %}
-                    {%if url.endsWith(".pdf") %}
-                        <a class="panel-pdf-link"
-                            href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                            target="_blank" rel="noopenner">
-                    {% else %}
-                        <a class="panel-link"
-                            href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                            target="_blank" rel="noopenner">
+                    {% if panel.url-new-tab %}
+                        {%if url.endsWith(".pdf") %}
+                            <a class="panel-pdf-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
+                        {% else %}
+                            <a class="panel-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
                     {% endif %}
-                {% else %}
-                    <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
-                {% endif %}
-                    {% if panel.text %}{{panel.text}}{% if panel.pdf-icon %}<div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>{% endif %}
-                    {% else %}{{url}}{% endif %}</a>
+                    {% else %}
+                        <a class="panel-link" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                    {% endif %}
+                        {% if panel.text %}{{panel.text}}{% if panel.pdf-icon %}<div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>{% endif %}
+                        {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
             {% else %}
