@@ -156,19 +156,17 @@
                         <a class="panel-pdf-link"
                             href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
                             target="_blank" rel="noopenner">
-                            <p>Hello line 158</p>
                     {% else %}
                         <a class="panel-link"
                             href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
                             target="_blank" rel="noopenner">
-                            <p>Hello line 163</p>
                     {% endif %}
                 {% else %}
                     <a class="panel-link"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
                     <p>Hello line 167</p>
                 {% endif %}
-                    {% if panel.text %}{{panel.text}}
+                    {% if panel.text %}{{panel.text}} <div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
@@ -177,7 +175,6 @@
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
                     {{panel.text}}
-                        <div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>
                 </div>
                 {% endif %}
             {% endif %}
