@@ -81,16 +81,6 @@
             grid-template-columns: 1fr;
         }
     }
-    .icon {
-    display: inline-block;
-    width: 21px;
-    height: 28px;
-    background-image: url('/pdficon.png');
-    background-size: cover; 
-    margin-left: 10px; 
-    vertical-align: middle; 
-    }
-
 
 </style>
 <div class="panels">
@@ -150,7 +140,7 @@
                 {% if includetext %}
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
-                    {{include.text}}<span class="icon"></span>
+                    {{include.text}}
                 </div>
                 {% endif %}
             {% endif %}

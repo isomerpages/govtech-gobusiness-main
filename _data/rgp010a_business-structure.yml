@@ -9,5 +9,5 @@
   title: I want to compare business structures
   description: Understand the different business structures at a glance with a side-by-side comparison.
   url: https://www.gobusiness.gov.sg/images/start/Types%20of%20Business%20Structures%20SG%2025Nov2021.pdf
-  url-new-tab: true 
-  text: Download Business Structure Comparison Table
+  url-new-tab: false 
+  text: Download Business Structure Comparison Table <img style="width:21px; height:28px;" src="/images/pdficon.png">
