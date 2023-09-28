@@ -88,9 +88,16 @@
         text-decoration: none;
     }
 
+    .panel-text-container {
+        display: flex;
+        align-items: center;
+        margin-left: 10px; 
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
     .pdficon {
-        display: flex; 
-        align-items: center; 
         width: 21px;
         height: 28px;
         margin-left: 10px;
@@ -165,9 +172,14 @@
                     <a class="panel-link"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
                 {% endif %}
-                    {% if panel.text %}{{panel.text}} 
-                    {% if panel.pdf-icon %}<div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>{% endif %}
-                    {% else %}{{url}}{% endif %}</a>
+                    {% if panel.text %}
+                        <div class="panel-text-container">
+                            {{panel.text}}
+                            {% if panel.pdf-icon %}
+                                <div class="pdficon" aria-hidden="true"><img src="/images/pdficon.png"></div>
+                                {% endif %}
+                            {% else %}{{url}}{% endif %}</a>
+                         </div>
                 {% endfor %}
             </div>
             {% else %}
