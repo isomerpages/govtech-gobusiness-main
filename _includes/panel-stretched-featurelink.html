@@ -81,6 +81,17 @@
             grid-template-columns: 1fr;
         }
     }
+    .icon {
+    display: inline-block;
+    width: 21px;
+    height: 28px;
+    background-image: url('/pdficon.png');
+    background-size: cover; 
+    margin-left: 10px; 
+    vertical-align: middle; 
+    }
+
+
 </style>
 <div class="panels">
     <div class="panel">
@@ -103,7 +114,6 @@
             {% if include.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-
                 {% assign tels = include.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
@@ -140,7 +150,7 @@
                 {% if includetext %}
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
-                    {{include.text}}
+                    {{include.text}}<span class="icon"></span>
                 </div>
                 {% endif %}
             {% endif %}
