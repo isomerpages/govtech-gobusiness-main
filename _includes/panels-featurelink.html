@@ -139,7 +139,7 @@
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
                 {% if panel.url-new-tab %}
-                    {%if panel.url.endsWith('.pdf') %}
+                    {%if panel.url.endsWith(".pdf") %}
                         <a class="panel-pdf-link"
                             href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
                             target="_blank" rel="noopenner">
