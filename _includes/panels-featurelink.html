@@ -75,6 +75,11 @@
         display: block;
         margin: 10px 20px 5px 0;
     }
+
+    .content .panel .panel-pdf-link::before{
+        display:none;
+    }
+    
     .content .panel .panel-info {
         font-family: hknova-regular;
         font-size: 18px;
@@ -117,7 +122,6 @@
             {% if panel.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-
                 {% assign tels = panel.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
