@@ -69,6 +69,12 @@
         display: block;
         margin: 10px 0 5px 0;
     }
+    .content .panel .panel-pdf-link {
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 10px 20px 5px 0;
+    }
     .content .panel .panel-info {
         font-family: hknova-regular;
         font-size: 18px;
@@ -134,8 +140,9 @@
                 {% for url in urls %}
                 {% if panel.url-new-tab %}
                     {%if panel.url.endsWith('.pdf') %}
-                        <a href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                        target="_blank" rel="noopenner">
+                        <a class="panel-pdf-link"
+                            href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                            target="_blank" rel="noopenner">
                     {% else %}
                         <a class="panel-link"
                             href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
