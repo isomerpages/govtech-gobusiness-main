@@ -88,12 +88,21 @@
         text-decoration: none;
     }
 
+    .pdficon {
+        display: flex; 
+        align-items: center; 
+        width: 21px;
+        height: 28px;
+        margin-left: 10px;
+        vertical-align: middle;
+    }
 
     @media (max-width: 600px) {
         .content .panels {
             grid-template-columns: 1fr;
         }
     }
+
 </style>
 <div class="panels">
     {% for panel in include.panels %}
@@ -165,9 +174,11 @@
                 <hr style="width:100%;text-align:left;margin:0">
                 <div class="panel-info">
                     {{panel.text}}
-                    <img 
-                    style="width: 21px; height:28px; "
-                    src="/images/pdficon.png" alt="PDF Icon" />
+                    {% if panel.pdf-icon %}
+                    {{panel.pdficon}}
+                    <div class = "pdficon">
+                        <img src="/images/pdficon.png">
+                    </div>
                 </div>
                 {% endif %}
             {% endif %}

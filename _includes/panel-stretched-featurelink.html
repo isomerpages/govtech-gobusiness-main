@@ -81,7 +81,6 @@
             grid-template-columns: 1fr;
         }
     }
-
 </style>
 <div class="panels">
     <div class="panel">
@@ -104,6 +103,7 @@
             {% if include.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
+
                 {% assign tels = include.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
