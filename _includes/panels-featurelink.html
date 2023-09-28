@@ -133,9 +133,14 @@
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
                 {% if panel.url-new-tab %}
-                <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="_blank" rel="noopenner">
+                    {if panel.protocol.endsWith(".pdf")}
+                        <a href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                        target="_blank" rel="noopenner">
+                    {% else %}
+                        <a class="panel-link"
+                            href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                            target="_blank" rel="noopenner">
+                    {% endif %}
                 {% else %}
                     <a class="panel-link"
                     href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
