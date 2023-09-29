@@ -161,9 +161,10 @@
                     {% endif %}
                     {% else %}
                         <a class="panel-link" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
-                    {% endif %}
-                        {% if panel.text %}{{panel.text}}{% if panel.pdf-icon %}<img style='width:21px; height:auto; float:left;' src="/images/pdficon.png">{% endif %}
-                        {% else %}{{url}}{% endif %}</a>
+                    {% endif %}<div>
+                        {% if panel.text %}{{panel.text}}{% if panel.pdf-icon %}
+                        <img style='width:21px; height:auto; float:left;' src="/images/pdficon.png">{% endif %}
+                        {% else %}{{url}}{% endif %}</a></div>
                 {% endfor %}
             </div>
             {% else %}
