@@ -15,10 +15,6 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 
 You can also check if there are similar trade marks [on the IP2SG portal](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
 
-### How to reserve your business name
-
-You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
-
 Avoid names which are:
 
 - Identical to another business' name
@@ -28,6 +24,10 @@ Avoid names which are:
 You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is identical or prohibited. You will need to upload the supporting documents to support your name appeal.
 
 To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"}{:rel="noopener"} for more details.
+
+### How to reserve your business name
+
+You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
 
 <h4>There are three ways to reserve your business name:</h4>
 
