@@ -1,0 +1,20 @@
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to register a Sole Proprietorship/Partnership
+  description: Reserve your business name and register your business entity on GoBusiness with guidance from the e-Adviser. If you do this, you do not need to apply on ACRA's BizFile+.
+  url: https://dashboard.gobusiness.gov.sg/login?&src=startup_guide?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness
+  url-new-tab: true
+  text: Log in to apply via e-Adviser for Starting a Business
+
+- image: <img src="/images/start/submitreturns-icon.png" aria-hidden="true">
+  title: I want to register a Limited Partnership (LP), Limited Liability Partnership (LLP) or Local Company
+  description: Use this e-Adviser to find out next steps based on your business requirements. Registration can be done on ACRA’s BizFile+.
+  url: https://eadviser.gobusiness.gov.sg/startabusiness/?src=startup_guide
+  url-new-tab: true
+  text: Go to e-Adviser for Starting a Business
+
+- image: <img src="/images/start/questionmark-icon.png" aria-hidden="true">
+  title: I’m not sure which business structure to choose
+  description: Use this e-Adviser to get recommendations for a suitable business structure, based on your business requirements.
+  url: https://eadviser.gobusiness.gov.sg/businessstructure/?src=startup_guide
+  url-new-tab: true
+  text: Go to e-Adviser for Business Structure

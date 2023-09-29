@@ -1,6 +1,15 @@
 - accordion:
   letter: a
   data:
+    - title: Accountancy
+      content: |
+        
+        **IT Solution**
+        - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
+        - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
+        - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Advanced Manufacturing
       content: |
         
@@ -150,25 +159,13 @@
         - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--Operations-'>Travel Management System (Operations)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Wholesale Trade
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
-        - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
-        - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Wholesale-Trade/General-Wholesale-Trade-Equipment'>General Wholesale Trade Equipment</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 - accordion:
   letter: b
   data:
     - title: Human Resource Solutions
       content: |
-        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-Services--HRSS--Needs-Analysis--HR-Administrative-Support-Payroll-Processing-via-a-HRMS'>Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS</a>
+        - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-Management-System--HRMS-'>Human Resource Management System (HRMS)</a>
         - <a href='/browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-scheduling-System'>Human Resource E-scheduling System</a>
     - title: ERP and Standalone solutions
       content: |

@@ -1,15 +1,15 @@
 ---
-title: 'Intelli-Signage'
+title: 'DM Fier Capital Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1335
 ---
 
-## Intelli-Signage
+## DM Fier Capital Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics. Intelli-Signage is a revolutionary digital marketing platform that allowed retail business owner to deploy their new product, promotion campaign and services real-time to attract new customers, as the content design is based on a cloud-based platform and can be directly deployed to any store outlet at any time and any location.
+Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage 1 unit</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$4,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anewtech_Systems_Intelli_Signage_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
+ Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

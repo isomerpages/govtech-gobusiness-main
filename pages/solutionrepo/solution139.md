@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
+title: 'SQL Account Version 5'
 permalink: /productivity-solutions-grant/solutionrepo/solution139
 ---
 
-## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+## SQL Account Version 5
 
 ## Overview
 
 **Description**
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
+<td style='padding: 10px;'>$3,700.00</td>
+<td style='padding: 10px;'>$3,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Advance - 1 User)</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Advance - 3 Users) </td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Advance - 5 Users)</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Advance - 8 Users)</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 
 ## Vendor Information
 
- Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
+ Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

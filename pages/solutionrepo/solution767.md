@@ -1,15 +1,15 @@
 ---
-title: 'Odoo Enterprise Version 16'
+title: 'QuickDesk Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
-## Odoo Enterprise Version 16
+## QuickDesk Marketing
 
 ## Overview
 
 **Description**
 
-Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
+Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
-<td style='padding: 10px;'>$8,675.00</td>
-<td style='padding: 10px;'>$7,275.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
+<td style='padding: 10px;'>$2,133.41</td>
+<td style='padding: 10px;'>$2,013.41</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$9,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
+<td style='padding: 10px;'>$4,649.30</td>
+<td style='padding: 10px;'>$4,249.30</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
-<td style='padding: 10px;'>$16,025.00</td>
-<td style='padding: 10px;'>$13,825.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
+<td style='padding: 10px;'>$7,713.91</td>
+<td style='padding: 10px;'>$7,053.91</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$18,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Port_Cities_OdooEnterprise_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
+<td style='padding: 10px;'>$9,395.19</td>
+<td style='padding: 10px;'>$7,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
+<td style='padding: 10px;'>$14,374.74</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
+ Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

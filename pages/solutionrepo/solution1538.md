@@ -1,15 +1,15 @@
 ---
-title: 'WarelyEcom Version 1.3'
+title: 'Shopmatic'
 permalink: /productivity-solutions-grant/solutionrepo/solution1538
 ---
 
-## WarelyEcom Version 1.3
+## Shopmatic
 
 ## Overview
 
 **Description**
 
-Warely Ecommerce Solution assist SME to power their online business website, which includes a professionally designed website, inventory management, Loyalty program, payment gateway, social media and CRM integration.
+Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Warely Ecommerce Solution assist SME to power their online business website, whi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
+<td style='padding: 10px;'>$3,535.00</td>
+<td style='padding: 10px;'>$3,535.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Shopmatic_Shopmatic_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 88898758<br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

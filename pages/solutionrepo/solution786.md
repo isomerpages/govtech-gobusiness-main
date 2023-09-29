@@ -1,15 +1,15 @@
 ---
-title: 'WEB360 Version 2.0.0'
+title: 'REACH MOIBOO Version 2.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution786
 ---
 
-## WEB360 Version 2.0.0
+## REACH MOIBOO Version 2.6
 
 ## Overview
 
 **Description**
 
-The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
+Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key function from Sales, Billing, Inventory and Accounting - enable businesses to grow faster with increase in productivity. The solution is ideal for Retailers, Restaurants, Workshops, Auto Dealers, Auto Rental Companies, Wholesalers and Service Providers.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WEB360 Version 2.0.0 - Centralised CRM - KickStarter Package (Up to 5 Users)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Quality_Zone_20210354_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ The solutions offered by Q-Zone Tech are carefully designed for users to access 
 
 ## Vendor Information
 
- Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br><br>Contact Hotline: 93958688 <br><br>Contact Email: info@qzonetech.com <br><br>
+ Company Name: Reach Process Outsourcing Pte Ltd<br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: helpdesk@moiboo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

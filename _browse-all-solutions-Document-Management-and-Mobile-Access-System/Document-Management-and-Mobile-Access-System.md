@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Document-Management-and-Mobile-Access-System/Do
 ## Document Management and Mobile Access System
 ## Overview
 
+**Description**
+
+Ability to synchronize digital documents across multiple sites, create user permissions, provide search, audit trail and data backup capabilities.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,48 +32,52 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution44' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution34' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
 <td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution231' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution217' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution575' target='_blank'>M365 SharePoint Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution555' target='_blank'>M365 SharePoint Package</a><br></td>
 <td>JK Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution589' target='_blank'>Evolvecloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution569' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution887' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution867' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution943' target='_blank'>TessaCloud DMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution918' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1044' target='_blank'>Dropbox Business</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>Dropbox Business</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1087' target='_blank'>Stendard Solution Version 1.7.12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1047' target='_blank'>Stendard Solution Version 1.7.12</a><br></td>
 <td>YNL 360 Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1112' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1072' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1314' target='_blank'>Therefore Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1273' target='_blank'>Therefore Online</a><br></td>
 <td>CANON SINGAPORE PTE. LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1474' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1428' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
 <td>PROMINDS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1751' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
+<td>Tisch Global Private Limited</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Dropbox Business Standard for SMEs'
+title: 'HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)'
 permalink: /productivity-solutions-grant/solutionrepo/solution44
 ---
 
-## Dropbox Business Standard for SMEs
+## HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero)
 
 ## Overview
 
 **Description**
 
-Dropbox is a file hosting service operated by Dropbox, Inc., headquartered in San Francisco, California, USA. that offers cloud storage, file synchronization, personal cloud, and client software. The contents of these folders are synchronized to Dropbox's servers and to other computers and devices where the user has installed Dropbox, keeping the same files up-to-date on all devices. Dropbox offers computer apps for Windows and Apple macOS computers and iOS, and Android smartphones.
+Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Dropbox is a file hosting service operated by Dropbox, Inc., headquartered in Sa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
-<td style='padding: 10px;'>$1,334.40</td>
-<td style='padding: 10px;'>$1,334.40</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (50 Pax)</td>
+<td style='padding: 10px;'>$24,900.00</td>
+<td style='padding: 10px;'>$24,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_Annex3_CR_wef13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 Users</td>
-<td style='padding: 10px;'>$2,068.80</td>
-<td style='padding: 10px;'>$2,068.80</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (8 Pax)</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'>$4,992.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 Users</td>
-<td style='padding: 10px;'>$3,537.60</td>
-<td style='padding: 10px;'>$3,537.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission for SMEs (20 Pax)</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'>$10,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users</td>
-<td style='padding: 10px;'>$4,272.00</td>
-<td style='padding: 10px;'>$4,272.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (30 Pax)</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'>$15,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 Users</td>
-<td style='padding: 10px;'>$5,006.40</td>
-<td style='padding: 10px;'>$5,006.40</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AccPro_Annex3_CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Payroll Processing and Year-end Payroll Submission Services (40 Pax)</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'>$20,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Acc_Pro_HRSS_Annex_3_wef_2_Dec_2021_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Acc Pro (Singapore) Pte. Ltd.<br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com 
+ Company Name: Acc Pro (Singapore) Pte. Ltd.<br>Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
