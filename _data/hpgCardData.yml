@@ -7,12 +7,12 @@
   href_2: '/home-based-businesses/determine-your-home-business-scheme/?src=home_quicklinks'
   text_2: How to start a home-based business
   is_new_2: false
-  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness?src=home_quicklinks'
+  href_3: 'https://dashboard.gobusiness.gov.sg/login?&src=home_quicklinks?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness'
   target_3: _blank
-  text_3: 'e-Adviser: Register new business'
+  text_3: 'Register a Sole Proprietorship/Partnership via e-Adviser'
   is_new_4: false
   href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=home_quicklinks'
-  text_4: 'e-Adviser: Pick a business structure'
+  text_4: 'Get help choosing a business structure via e-Adviser'
   target_4: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
   cta_text: View Start-up Guide
