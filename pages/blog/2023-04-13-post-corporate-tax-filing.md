@@ -89,7 +89,7 @@ Congratulations! You’ve gotten past the most difficult part of Corporate Tax I
 
 To file the CIT return, you have to first be authorised by your company to act for its CIT matters via Corppass. Thereafter, all you have to do is to log into the [MyTax Portal](https://mytax.iras.gov.sg/ESVWeb/default.aspx){:target="_blank"}{:rel="noopener"} and select the ‘Business Tax’ section. You can then log in via Singpass, select whether you’re filing the ECI or Form C-S/C-S (Lite)/C and follow the instructions on the site.
 
-If you have filed the ECI, you can expect to receive the Notice of Assessment (NOA) within seven days after filing. No NOA will be issued when a nil ECI is filed. If you have filed the Form C-S/C-S (Lite)/C, you can expect to receive the NOA from IRAS by 31 May of the following year. In other words, if you file the Form C-S/C-S (Lite)/C in November 2023, you’ll receive the NOA by May 2024. You are required to pay the tax within one month from the date of the NOA. amount.
+If you have filed the ECI, you can expect to receive the Notice of Assessment (NOA) within seven days after filing. No NOA will be issued when a nil ECI is filed. If you have filed the Form C-S/C-S (Lite)/C, you can expect to receive the NOA from IRAS by 31 May of the following year. In other words, if you file the Form C-S/C-S (Lite)/C in November 2023, you’ll receive the NOA by May 2024. You are required to pay the tax within one month from the date of the NOA. 
 
 Remember: Late filing of the CIT return is an offence and you may be subjected to penalties and/ or summons. So do ensure you file your company’s taxes on time!
 
