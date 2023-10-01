@@ -98,6 +98,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Hitachi - RAS-5.0HNBRKQ
 - Hitachi - RAS-6.0HNBRKQ
 - LG - ARUN080LTE5
+- LG - ARUN082LTE6
 - LG - ARUN100LTE5
 - LG - ARUN120LTE5
 - LG - ARUN140LTE5
@@ -114,15 +115,18 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
 - LG - ZUUQ36GH0
+- Midea - MAE-2M18E
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MCE-2M16E
 - Midea - MCE-4M28E
 - Midea - MDVC-V110W/DN1
 - Midea - MDVC-V145W/DN1
 - Midea - MDVC-V170W/DN1
 - Midea - MDVC-V72W/DN1
 - Midea - MDVC-V92W/DN1
+- Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Mitsubishi Electric - MUY-GP10VF
@@ -169,6 +173,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
+- Natflow - NRV-308
 - Panasonic - CU-2XU20YBZ
 - Panasonic - CU-2XU20YBZ-H
 - Panasonic - CU-3XU28YBZ
