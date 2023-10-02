@@ -80,7 +80,7 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 - Years of Experience: 18 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Training
-- Certifications/Qualifications: SAC-Accredited TR 43 Certified Management Consultant (T�V S�D), ACTA-Certified Trainer
+- Certifications/Qualifications: SAC-Accredited TR 43 Certified Management Consultant (T&Uuml;V S&Uuml;D), ACTA-Certified Trainer
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/arnoldwee/" target="_blank" rel="noopener">https://www.linkedin.com/in/arnoldwee/</a>
 
 **Huifen, Zhou**
@@ -89,7 +89,7 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 - Years of Experience: 15 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting
-- Certifications/Qualifications: SAC-Accredited TR 43 Certified Management Consultant (T�V S�D)
+- Certifications/Qualifications: SAC-Accredited TR 43 Certified Management Consultant (T&Uuml;V S&Uuml;D)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jesslin-zhou-63168a32/" target="_blank" rel="noopener">https://www.linkedin.com/in/jesslin-zhou-63168a32/</a>
 
 ---

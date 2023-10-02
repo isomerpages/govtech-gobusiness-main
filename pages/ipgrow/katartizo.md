@@ -5,11 +5,11 @@ permalink: /intellectual-property/ip-grow/katartizo/
 
 ## Katartizo  
 
-Katartizo is Singapore's premier digital marketing and creative agency designed for digital disruption and uncommon innovation. Comprising an elite team of marketing strategists and content specialists, we aim to help traditional and digital brands find their unique voice and thrive in today's world.
+Katartizo is Singapore�s premier digital marketing and creative agency designed for digital disruption and uncommon innovation. Comprising an elite team of marketing strategists and content specialists, we aim to help traditional and digital brands find their unique voice and thrive in today's world.
 
 We understand that every brand and product requires its own brush of creative strategy to build a good following. Hence, at Katartizo, we specialise in customising marketing and creative solutions according to the needs of our clients.
  
-Whether in the B2B or B2C sector, Katartizo offer a full stack suite of digital solution according to the client�s needs, budget, and objectives for the best outcome. Our stakeholders come from MNCs, SMEs, and government agencies.
+Whether in the B2B or B2C sector, Katartizo offer a full stack suite of digital solution according to the client's needs, budget, and objectives for the best outcome. Our stakeholders come from MNCs, SMEs, and government agencies.
 
 Having served over 30 industries and hundreds of brands, Katartizo's specialists are equipped with trans-industry experience and strategic insight to deliver creative campaigns across Asia, Australia, Europe, and North America.
 

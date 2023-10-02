@@ -141,7 +141,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Asia Pacific and Oceania (including Singapore) - 39.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>Europe, Middle East and Africa - 25.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>North and South America - 34.4% </li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Asia Pacific and Oceania (including Singapore) – 39.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>Europe, Middle East and Africa – 25.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>North and South America – 34.4% </li></ul>
 
 ---
 <a name='key-practice-experts'></a>

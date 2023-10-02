@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/nexia-solutions-pte-ltd/
 
 ## Nexia Solutions Pte Ltd
 
-Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singapore is a public accounting (PAC) firm with a single purpose - we create long term value for our clients by meeting their needs at any point of their growth journey, regardless of the nature or size of the engagement, anywhere around the world.
+Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singapore is a public accounting (PAC) firm with a single purpose – we create long term value for our clients by meeting their needs at any point of their growth journey, regardless of the nature or size of the engagement, anywhere around the world.
 
 <b>Year established in Singapore:</b> 2023
 
