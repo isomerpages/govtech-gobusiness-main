@@ -30,7 +30,7 @@ For businesses needing help sourcing or selling their IP, head to [IP Brokerage 
 
 Select a service provider below to view their profile and connect with them.
 
-<p><span style="color: red; font-weight: bold;">If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/64eda0d9d8368600129d4d02" target="_blank" rel="noopener">multi-provider form</a></span></p>
+<p><span style="color: red; font-weight: bold;">If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/64eda0d9d8368600129d4d02" target="_blank" rel="noopener">multi-provider form</a></span></p>.
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP marketplace service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
 
@@ -40,9 +40,9 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of listings in previous calendar year:</b> Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of listings in previous calendar year:</b> 251 to 300</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,500</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/ipi/){:target='_blank'}
