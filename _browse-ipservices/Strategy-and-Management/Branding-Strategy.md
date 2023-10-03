@@ -299,7 +299,7 @@ IPI is an innovation catalyst that creates opportunities for enterprises to grow
 
 #### Katartizo  
 
-Katartizo, Singapore’s premier digital marketing and creative agency, has served over 30 industries.
+Katartizo, Singapore's premier digital marketing and creative agency, has served over 30 industries.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
