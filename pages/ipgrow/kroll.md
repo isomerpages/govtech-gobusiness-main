@@ -27,6 +27,16 @@ Kroll Valuation Advisory Services helps clients satisfy regulatory reporting req
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+**Valuation (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 11 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+</ul>
+
 ---
 <a name='industry-focus'></a>
 ### Industry focus
