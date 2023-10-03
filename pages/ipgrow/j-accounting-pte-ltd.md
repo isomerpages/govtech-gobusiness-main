@@ -26,6 +26,16 @@ We just happen to be a likeable small boutique firm.
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
+**Tax Advisory (with IA/IP considerations) Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $300</li>
+</ul>
+
 ---
 <a name='industry-focus'></a>
 ### Industry focus
@@ -48,7 +58,7 @@ We just happen to be a likeable small boutique firm.
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-'- Small and medium-sized enterprises - 100%
+- Small and medium-sized enterprises - 100%
 
 ---
 <a name='key-practice-experts'></a>
