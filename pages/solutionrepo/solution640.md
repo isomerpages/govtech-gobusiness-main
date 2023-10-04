@@ -1,15 +1,15 @@
 ---
-title: 'ASURIX'
+title: 'RavenPOS Enterprise Retail Business Suite Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution640
 ---
 
-## ASURIX
+## RavenPOS Enterprise Retail Business Suite Version 12
 
 ## Overview
 
 **Description**
 
-Asurix Accounting Software is a comprehensive and fully customisable cloud based solution which listed in IRAS Accounting Software Register. It has the full suite of accounting features such as bank reconciliation, e-invoicing, accounts payable, account receivable, inventory and assets manager.
+RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company's financial health
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,31 @@ Asurix Accounting Software is a comprehensive and fully customisable cloud based
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Basic</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Advanced</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
-<td style='padding: 10px;'>$7,050.00</td>
-<td style='padding: 10px;'>$7,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Professional</td>
+<td style='padding: 10px;'>$11,900.00</td>
+<td style='padding: 10px;'>$11,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$9,650.00</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Enterprise</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'>$14,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ Asurix Accounting Software is a comprehensive and fully customisable cloud based
 
 ## Vendor Information
 
- Company Name: NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg 
+ Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
