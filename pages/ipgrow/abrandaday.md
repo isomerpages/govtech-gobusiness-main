@@ -11,7 +11,7 @@ ABrandADay is a creative consulting agency versed in Strategy, Creative and Digi
 
 <b>Top focus areas for IA/IP services:</b> Branding Strategy
 
-<b>Intellectual property awards received:</b> Silver - Most Creative Launch / Re-launch (The MARKies Awards 2023) ; Finalist - Excellence in Brand Strategy (Marketing Excellence Awards 2022) ; Bronze - Best Integrated Event Campaign (Marketing Events Awards 2022) ; Silver - Best Event Branding (Marketing Events Awards 2022)
+<b>Intellectual property awards received:</b> SILVER - New Kid on the Block: Agency of the Year Awards 2023 (Marketing Interactive) ; Silver - Most Creative Launch / Re-launch (The MARKies Awards 2023) ; Finalist - Excellence in Brand Strategy (Marketing Excellence Awards 2022) ; Bronze - Best Integrated Event Campaign (Marketing Events Awards 2022) ; Silver - Best Event Branding (Marketing Events Awards 2022)
 
 <b>Type of organization:</b> SME
 
@@ -86,8 +86,8 @@ ABrandADay is a creative consulting agency versed in Strategy, Creative and Digi
 - Years of Experience: 18 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy
-- Certifications/Qualifications: SAC accredited TR43 - Practising Management Consultant
-- Awards/Accolades: ESG Essentials for SMEs: Kickstart Your ESG Journey, Finalist: Creative Agency Head of the Year (Marketing Talent Awards 2019), Finalist: Independent Agency Head of the Year (Marketing Talent Awards 2019), GOLD: Best in Food & Beverages (Appies Asia-Pacific Marketing Awards 2022), SILVER: Excellence in Response to COVID-19 (Marketing Excellence Awards 2022)
+- Certifications/Qualifications: SAC accredited TR43 - Practising Management Consultant, ESG Essentials for SMEs: Kickstart Your ESG Journey
+- Awards/Accolades: Finalist: Creative Agency Head of the Year (Marketing Talent Awards 2019), Finalist: Independent Agency Head of the Year (Marketing Talent Awards 2019), GOLD: Best in Food & Beverages (Appies Asia-Pacific Marketing Awards 2022), SILVER: Excellence in Response to COVID-19 (Marketing Excellence Awards 2022)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/nafetong/" target="_blank" rel="noopener">https://www.linkedin.com/in/nafetong/</a>
 
 **Jas Seow**

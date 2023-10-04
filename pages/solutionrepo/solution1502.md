@@ -1,15 +1,15 @@
 ---
-title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
+title: 'Digital Retail Ecommerce Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1502
 ---
 
-## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
+## Digital Retail Ecommerce Solutions
 
 ## Overview
 
 **Description**
 
-Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
+The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ Sunpro provides excellent web application development solutions for companies in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
-<td style='padding: 10px;'>$8,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
-<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
+<td style='padding: 10px;'>$6,100.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Sunpro provides excellent web application development solutions for companies in
 
 ## Vendor Information
 
- Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
+ Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

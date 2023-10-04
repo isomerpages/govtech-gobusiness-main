@@ -19,7 +19,7 @@ Soroker Agmon Nordman is a foreign law firm founded by Jonathan Agmon in Singapo
 
 <b>Website:</b> <a href='https://sanlaw.legal/'>https://sanlaw.legal/</a>
 
-<b>Offer:</b> We offer 1.5 hour free consultation to newly established technological star-ups.
+<b>Offer:</b> We offer 1.5 hour free consultation to newly established technological start-ups.
 
 <a class='btn' href='https://form.gov.sg/64211b0687c432001261c163' target='_blank' rel='noopener'>Get in touch</a>
 

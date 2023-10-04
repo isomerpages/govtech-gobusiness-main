@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
 permalink: /productivity-solutions-grant/solutionrepo/solution495
 ---
 
-## Microsoft Dynamics 365 Business Central
+## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics family, and intended to assist with finance, manufacturing, customer relationship management, supply chains, analytics and electronic commerce for small and medium-sized companies and local subsidiaries of large international groups
+Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics fami
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$21,850.00</td>
-<td style='padding: 10px;'>$20,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
-<td style='padding: 10px;'>$25,810.00</td>
-<td style='padding: 10px;'>$21,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'>$9,999.99</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
-<td style='padding: 10px;'>$34,510.00</td>
-<td style='padding: 10px;'>$24,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
+<td style='padding: 10px;'>$10,359.99</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com 
+ Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
