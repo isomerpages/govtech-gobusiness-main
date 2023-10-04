@@ -1,17 +1,15 @@
 ---
-title: 'DM Best SEO Digital Marketing Packages Version 1'
+title: 'Xero by Book&Entries'
 permalink: /productivity-solutions-grant/solutionrepo/solution188
 ---
 
-## DM Best SEO Digital Marketing Packages Version 1
+## Xero by Book&Entries
 
 ## Overview
 
 **Description**
 
-Best SEO Marketing Pte Ltd offers SEO services, Google Ads, Social Media Marketing that brings businesses more leads, customers and sales than one's team can possibly handle.
-
-Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "click-through rate", they focus on how much their marketing efforts have generated their clients in terms of their return on investment.
+Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,48 @@ Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING - 3 MONTHS</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'>$720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM/SMA - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package B (Premium Package - Software + Training)</td>
+<td style='padding: 10px;'>$1,720.00</td>
+<td style='padding: 10px;'>$1,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/SEM - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package C (Premium Package - Software + Setup)</td>
+<td style='padding: 10px;'>$2,220.00</td>
+<td style='padding: 10px;'>$2,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package D (Premium Full Package)</td>
+<td style='padding: 10px;'>$3,220.00</td>
+<td style='padding: 10px;'>$3,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package E (Premium Full Package with Add-on)</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'>$3,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: BEST MARKETING AGENCY PTE LTD<br>Web URL: https://www.bestmarketing.com.sg<br>Contact Hotline: 9231 3757<br>Contact Email: contact@bestmarketing.com.sg
+ Company Name: Book&Entries Pte Ltd<br>Web URL: www.bookentries.com.sg <br><br>Contact Hotline: 62214246 <br><br>Contact Email: support@bookentries.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
