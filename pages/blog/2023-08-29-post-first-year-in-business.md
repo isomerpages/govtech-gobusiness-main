@@ -28,7 +28,7 @@ New business owners can also turn to GoBusiness’ [e-Adviser for Business Struc
 ![e-Adviser for Business Structure](/images/blog/content/First year 1.jpg)
 <figcaption>The GoBusiness e-Adviser for Business Structure provides recommendations for business structures entrepreneurs can adopt based on their requirements (Image: Screengrab from GoBusiness)</figcaption>
 
-Upon finding a perfect location for the bookstore, the entrepreneur now has a [business address](https://www.gobusiness.gov.sg/start-a-business/submit-a-business-address/){:target="_blank"}{:rel="noopener"} and can register the business with the Accounting and Corporate Regulatory Authority (ACRA). The entrepreneur then applies for a [company name](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=C){:target="_blank"}{:rel="noopener"} and officially incorporates the business. 
+Upon finding a perfect location for the bookstore, the entrepreneur now has a [business address](/`start-a-business/submit-a-business-address/){:target="_blank"}{:rel="noopener"} and can register the business with the Accounting and Corporate Regulatory Authority (ACRA). The entrepreneur then applies for a [company name](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=C){:target="_blank"}{:rel="noopener"} and officially incorporates the business. 
 
 This involves providing key information like when the financial year will end and personal information about appointed business officers, including the entrepreneur as the director and the business partner as the secretary. 
 
@@ -36,7 +36,7 @@ With the incorporation completed, the entrepreneur is officially a business owne
 
 ### Month 1: Licences, bank accounts and more admin matters
 
-With the basics covered, the bookstore owner can start looking into the next steps. This includes discovering which [licences](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"} are required, opening a [corporate bank account](https://www.gobusiness.gov.sg/start-a-business/open-a-corporate-bank-account/){:target="_blank"}{:rel="noopener"}, and registering for a CPF Submission Number in preparation for [hiring their first employee](https://www.gobusiness.gov.sg/gobusiness-blog/hiring-first-employee-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}.
+With the basics covered, the bookstore owner can start looking into the next steps. This includes discovering which [licences](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"} are required, opening a [corporate bank account](/start-a-business/open-a-corporate-bank-account/){:target="_blank"}{:rel="noopener"}, and registering for a CPF Submission Number in preparation for [hiring their first employee](/gobusiness-blog/hiring-first-employee-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}.
 
 Besides the above, business owners also need to set up a [Register of Registrable Controllers (RORC)](https://www.acra.gov.sg/compliance/register-of-registrable-controllers){:target="_blank"}{:rel="noopener"} and file the required information with ACRA. 
 
@@ -89,4 +89,4 @@ Finally, businesses will have to file the annual returns with ACRA. This involve
 
 Starting and running a business is no easy feat. Entrepreneurs will have their hands full with trying to ensure healthy margins, managing staff, daily operations, and navigating the numerous regulations surrounding administrative and financial matters. 
 
-If this journey resonates with you, check out [GoBusiness’ Regulatory Requirements Guides](https://www.gobusiness.gov.sg/regulatory-requirements-guides/){:target="_blank"}{:rel="noopener"}. Organised according to business structures and by timeline, these guides provide a comprehensive overview of the essential tax and compliance rules that every business owners in Singapore need to undertake when running a business.
+If this journey resonates with you, check out [GoBusiness’ Regulatory Requirements Guides](/regulatory-requirements-guides/){:target="_blank"}{:rel="noopener"}. Organised according to business structures and by timeline, these guides provide a comprehensive overview of the essential tax and compliance rules that every business owners in Singapore need to undertake when running a business.

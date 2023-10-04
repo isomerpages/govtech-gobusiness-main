@@ -11,7 +11,7 @@ description: Cybersecurity is a challenge when a lack of expertise, manpower, fu
 ![Cybersecurity practices for small and medium enterprises](/images/blog/content/Cybersecurity Feature.jpg)
 <figcaption>Cybersecurity may seem daunting for SMEs but there are several programmes to make such measures more easily implementable and affordable (Image: Canva)</figcaption>
 
-The Covid-19 pandemic saw unprecedented digitalisation for small and medium enterprises (SMEs). While this saw SMEs enjoying perks like [improved efficiency](https://www.gobusiness.gov.sg/gobusiness-blog/psg?src=home_blog){:target="_blank"}{:rel="noopener"}, [greater customer reach](https://www.gobusiness.gov.sg/gobusiness-blog/three-steps-to-digital-presence?src=home_blog){:target="_blank"}{:rel="noopener"} or even [simpler bookkeeping](https://www.gobusiness.gov.sg/gobusiness-blog/corporate-tax-filing-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}, the risks of going digital cannot be understated. 
+The Covid-19 pandemic saw unprecedented digitalisation for small and medium enterprises (SMEs). While this saw SMEs enjoying perks like [improved efficiency](/gobusiness-blog/psg?src=home_blog){:target="_blank"}{:rel="noopener"}, [greater customer reach](/gobusiness-blog/three-steps-to-digital-presence?src=home_blog){:target="_blank"}{:rel="noopener"} or even [simpler bookkeeping](/gobusiness-blog/corporate-tax-filing-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}, the risks of going digital cannot be understated. 
 
 ### Common cybersecurity risks for SMEs
 
@@ -59,7 +59,7 @@ To achieve the mark, organisations will first need to introduce measures across 
 
 SMEs looking to attain the Cyber Essentials mark can consider looking into pre-approved cyber solutions under the [SMEs Go Digital programme](https://www.imda.gov.sg/how-we-can-help/smes-go-digital){:target="_blank"}{:rel="noopener"}. Under this programme, CSA has worked with the Infocomm Media Development Authority and Enterprise Singapore to curate [a list of pre-approved cybersecurity solutions](https://services2.imda.gov.sg/CTOaaS/Solutions){:target="_blank"}{:rel="noopener"} that are market-proven, cost-effective and provided by reliable vendors.
 
-Those who wish to adopt these solutions can also get funding support through the [Productivity Solutions Grant](https://www.gobusiness.gov.sg/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} for Endpoint Protection, Managed Detection and Response, and Unified Threat Management solutions. 
+Those who wish to adopt these solutions can also get funding support through the [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} for Endpoint Protection, Managed Detection and Response, and Unified Threat Management solutions. 
 
 <em> This article is accurate as at 28 Aug 2023</em>
 

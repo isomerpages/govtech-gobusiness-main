@@ -49,8 +49,9 @@ Commercial refrigerator: Inverter technology
 - Bosch - KGN56LB40O
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
+- BRANDT - BFA1791NA
 - BRANDT - BFD8072NX
-- Carrier - 2GDB-IVTH
+- Carrier - 2DGB-IVTH
 - CUBE+ - C+1DC
 - CUBE+ - C+1DF
 - CUBE+ - C+2DC
@@ -225,6 +226,7 @@ Commercial refrigerator: Inverter technology
 - Daiwa - ROP-301FCB-EC
 - Daiwa - ROP-401FCB-EC
 - Daiwa - ROP-603FCB-EC
+- De Dietrich - DFA179NXA
 - Electrolux - EBE4500B-A
 - Electrolux - EBE4500B-G
 - Electrolux - EBE4500B-H
@@ -290,6 +292,7 @@ Commercial refrigerator: Inverter technology
 - Flomatic - FC-RF1800L(E)
 - Flomatic - FDR-R1076(E)
 - Flomatic - FDR-R376(E)
+- Flomatic - FDR-R500(E)
 - Flomatic - FUR-F1210(E)
 - Flomatic - FUR-F1480(E)
 - Flomatic - FUR-F610(E)
@@ -523,7 +526,9 @@ Commercial refrigerator: Inverter technology
 - Miele - KS 4783 ED edt/cs
 - Miele - KS 7743 E
 - Mitsubishi Electric - MR-B46F-F-P
+- Mitsubishi Electric - MR-B46F-F-P1
 - Mitsubishi Electric - MR-B46F-W-P
+- Mitsubishi Electric - MR-B46F-W-P1
 - Mitsubishi Electric - MR-CGX41ES-GBR-P
 - Mitsubishi Electric - MR-CGX41ES-GWH-P
 - Mitsubishi Electric - MR-CGX46ES-GBR-P
@@ -552,14 +557,19 @@ Commercial refrigerator: Inverter technology
 - Mitsubishi Electric - MR-FX47EN-GBK-P
 - Mitsubishi Electric - MR-FX47EN-GWH-P
 - Mitsubishi Electric - MR-WX47LF-BR-P
+- Mitsubishi Electric - MR-WX47LF-BR-P1
 - Mitsubishi Electric - MR-WX47LF-F-P
+- Mitsubishi Electric - MR-WX47LF-F-P1
 - Mitsubishi Electric - MR-WX52F-BR-P
 - Mitsubishi Electric - MR-WX52F-BR-P1
 - Mitsubishi Electric - MR-WX52F-F-P
 - Mitsubishi Electric - MR-WX52F-F-P1
 - Mitsubishi Electric - MR-WX60F-BR-P
+- Mitsubishi Electric - MR-WX60F-BR-P1
 - Mitsubishi Electric - MR-WX60F-F-P
+- Mitsubishi Electric - MR-WX60F-F-P1
 - Mitsubishi Electric - MR-WX60F-W-P
+- Mitsubishi Electric - MR-WX60F-W-P1
 - Mitsubishi Electric - MR-WX70C-BR-P
 - Mitsubishi Electric - MR-WX70C-BR-P1
 - Mitsubishi Electric - MR-WX70C-F-P1
@@ -1071,6 +1081,21 @@ Commercial refrigerator: Inverter technology
 - SOLID - SURF-1280
 - SOLID - SURF-1880
 - SOLID - SURF-680
+- SOLID COOL - SC- 2DBB
+- SOLID COOL - SC-260
+- SOLID COOL - SC-2DB
+- SOLID COOL - SC-2DT
+- SOLID COOL - SC-2DTF
+- SOLID COOL - SC-2DTT
+- SOLID COOL - SC-2SDBB
+- SOLID COOL - SC-370
+- SOLID COOL - SC-3DB
+- SOLID COOL - SC-3DBB
+- SOLID COOL - SC-3DT
+- SOLID COOL - SC-3DTF
+- SOLID COOL - SC-4DT
+- SOLID COOL - SC-4DTF
+- SOLID COOL - SC-530
 - SOLID COOL - SCX1200C2
 - SOLID COOL - SCX1200F2
 - SOLID COOL - SCX1500C2
@@ -1083,6 +1108,8 @@ Commercial refrigerator: Inverter technology
 - SOLID COOL - SCX4DF
 - SOLID COOL - SCX6DC
 - SOLID COOL - SCX6DF
+- SOLID COOL - SXS-500Y
+- SOLID COOL - SXS-700Y
 - SOLID-COOL - SCX4DCF
 - Sub-Zero - ICBBI-36R/S/PH-LH
 - Sub-Zero - ICBBI-36R/S/PH-RH
@@ -1155,11 +1182,19 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-0217CS-IVTH
 - YUDA - YD-0217FS-IVTH
 - YUDA - YD-021CS-IVTH
+- YUDA - YD-021CS-IVTH-BK
+- YUDA - YD-021CS-IVTH-BK-FD
 - YUDA - YD-021FS-IVTH
+- YUDA - YD-021FS-IVTH-BK
+- YUDA - YD-021FS-IVTH-BK-FD
 - YUDA - YD-0224CS-IVTH
 - YUDA - YD-0224FS-IVTH
 - YUDA - YD-022CS-IVTH
+- YUDA - YD-022CS-IVTH-BK
+- YUDA - YD-022CS-IVTH-BK-FD
 - YUDA - YD-022FS-IVTH
+- YUDA - YD-022FS-IVTH-BK
+- YUDA - YD-022FS-IVTH-BK-FD
 - YUDA - YD-2GDC-IVT
 - YUDA - YD-2GDF-IVT
 - YUDA - YD-315UC-IVTH
