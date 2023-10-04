@@ -1,15 +1,15 @@
 ---
-title: 'Live Pump'
+title: 'Grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution1161
 ---
 
-## Live Pump
+## Grow lights
 
 ## Overview
 
 **Description**
 
-An equipment that ensure safe, gentle, fast way to transfer produce.
+Lightings of special wavelength for culturing or growing of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ An equipment that ensure safe, gentle, fast way to transfer produce.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Live Pump</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Grow lights</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

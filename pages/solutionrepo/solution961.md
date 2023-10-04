@@ -1,15 +1,15 @@
 ---
-title: 'Tisch Global - Xero Accounting'
+title: 'WhyzeHR Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution961
 ---
 
-## Tisch Global - Xero Accounting
+## WhyzeHR Version 12
 
 ## Overview
 
 **Description**
 
-Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
+Whyze Solutions is a HR & Payroll solution provider based in Singapore since 2008. Supporting over 2000 companies in Singapore ranging from different industries, Whyze Solutions have since received many awards for the WhyzeHR solution and have consistently achieved extremely high customer satisfaction rating. With WhyzeHR, companies have a secured cloud-based HR management system that combines payroll, leave, claim, attendance, appraisal, training and employee self service mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accoun
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
-<td style='padding: 10px;'>$779.00</td>
-<td style='padding: 10px;'>$717.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 25</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
-<td style='padding: 10px;'>$1,804.00</td>
-<td style='padding: 10px;'>$1,742.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 50</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'>$5,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
-<td style='padding: 10px;'>$2,929.00</td>
-<td style='padding: 10px;'>$2,867.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 100</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
-<td style='padding: 10px;'>$6,138.00</td>
-<td style='padding: 10px;'>$6,057.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD 200</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
-<td style='padding: 10px;'>$7,388.00</td>
-<td style='padding: 10px;'>$7,307.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WhyzeHR Version 12 - STANDARD PLUS 150</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WhyzeHR_20210277_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: matthew@tischglobal.com <br>
+ Company Name: Whyze Solutions Pte Ltd<br>Web URL: https://whyze.com.sg/escheduling/ <br><br>Contact Hotline: 68380161 <br><br>Contact Email: enquiry@whyze.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

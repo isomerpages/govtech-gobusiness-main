@@ -1,17 +1,15 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'ASFA Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1756
 ---
 
-## Pepper Cloud CRM Version 14.0
+## ASFA Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based cloud CRM Company, which offers CRM software designed for SMEs to help in areas such as sales & lead management, customer relationship, marketing automation & business analytics
-A highly customizable and scalable CRM solution, it offers a range of features that help businesses manage sales pipeline, track opportunities, capture customer interactions, and forecast sales
-They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar & Indonesia
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -25,41 +23,41 @@ They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 1 (Software Only)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 2 (Software Only)</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_10Users</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 3 (Software + Training)</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 4 (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$2,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte. Ltd.<br>Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
+ Company name:ASFA MANAGEMENT PTE. LTD.<br>Web URL: www.asfamgt.com <br>Contact Hotline: 96370039 <br>Contact Email: amilu@asfamgt.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
