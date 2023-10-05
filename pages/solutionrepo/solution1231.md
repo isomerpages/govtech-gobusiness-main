@@ -1,15 +1,17 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations'
+title: 'Harvest Accounting - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution1231
 ---
 
-## Taidii Smart Data Analytics for Centre Operations
+## Harvest Accounting - Xero
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
+
+Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +25,38 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
+<td style='padding: 10px;'>$610.00</td>
+<td style='padding: 10px;'>$610.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
+<td style='padding: 10px;'>$2,210.00</td>
+<td style='padding: 10px;'>$2,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'>$3,010.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
+<td style='padding: 10px;'>$3,410.00</td>
+<td style='padding: 10px;'>$3,410.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
+<td style='padding: 10px;'>$4,210.00</td>
+<td style='padding: 10px;'>$4,210.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +66,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

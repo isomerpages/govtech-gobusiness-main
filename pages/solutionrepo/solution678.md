@@ -1,15 +1,16 @@
 ---
-title: 'North Trust Xero Solution'
+title: 'PEOPLECENTRAL HRMS Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution678
 ---
 
-## North Trust Xero Solution
+## PEOPLECENTRAL HRMS Version 11
 
 ## Overview
 
 **Description**
 
-Xero is global Cloud Accounting Software that has a plethora of features to assist businesses to automate and run their businesses digitally. These include e-invoicing, digital bank feeds, advanced bank reconciliation, project management including costing, expense management, accepting payment online directly, and connected to over 800+ integrations. It is also IRAS compliant and optimized for tax returns.
+PeopleCentral HRMS is a complete all-in-one cloud-based solution to automate processes for HR, payroll, leave, claims, attendance, scheduling, training, and performance management.
+To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Workflow management, Alerts/Reminders, Announcements, Employee Self-service, and Mobile app functions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Xero Subscription Only</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 50</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Xero Basic Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$2,380.00</td>
-<td style='padding: 10px;'>$2,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 100</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Xero Basic Package With Historical Transactions</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$2,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 150</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Xero Premium Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$3,580.00</td>
-<td style='padding: 10px;'>$3,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 200</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 75</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 
 ## Vendor Information
 
- Company name:NORTH TRUST PTE. LTD.<br>Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62223800 <br>Contact Email: ybk@e-management.com.sg
+ Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

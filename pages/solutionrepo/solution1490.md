@@ -1,15 +1,15 @@
 ---
-title: 'WarelyEcom Version 1.3'
+title: 'ABSS(MYOB) Premier'
 permalink: /productivity-solutions-grant/solutionrepo/solution1490
 ---
 
-## WarelyEcom Version 1.3
+## ABSS(MYOB) Premier
 
 ## Overview
 
 **Description**
 
-Warely Ecommerce Solution assist SME to power their online business website, which includes a professionally designed website, inventory management, Loyalty program, payment gateway, social media and CRM integration.
+E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Warely Ecommerce Solution assist SME to power their online business website, whi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Software (1 User)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Software & Training (1 User)</td>
+<td style='padding: 10px;'>$2,623.00</td>
+<td style='padding: 10px;'>$2,303.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Software (3 Users)</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Software & Training (3 Users)</td>
+<td style='padding: 10px;'>$3,937.00</td>
+<td style='padding: 10px;'>$3,617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Software, Remote Access & Training (3 Users)</td>
+<td style='padding: 10px;'>$4,956.00</td>
+<td style='padding: 10px;'>$4,636.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Warely Ecommerce Solution assist SME to power their online business website, whi
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
