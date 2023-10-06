@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Landscape:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - General-Landscaping-Equipment.md
