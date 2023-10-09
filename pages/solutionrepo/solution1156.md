@@ -1,22 +1,15 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.'
 permalink: /productivity-solutions-grant/solutionrepo/solution1156
 ---
 
-## Digital Welding Equipment
+## Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
-
-Cost of equipment capped at $37,500 per unit
+Equipment used in cleaning so as to destroy bacterial. Also include high pressure washer or other cleaning machines that provide better efficiency as compared to manual cleaning and lightings of special wavelength for culturing of produce.
 
 ## Solution Packages Option(s)
 
@@ -27,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Consists of digital welding machines (hardware) and management software<br>Current adjusting range: minimally +/- 150A<br>Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

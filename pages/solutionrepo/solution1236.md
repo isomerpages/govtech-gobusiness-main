@@ -1,15 +1,15 @@
 ---
-title: 'Managed Firewall Solution'
+title: 'AutoCount Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1236
 ---
 
-## Managed Firewall Solution
+## AutoCount Accounting Software
 
 ## Overview
 
 **Description**
 
-LGA's Managed Firewall Solution provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance thanks to LGA's fully managed service.
+Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ LGA's Managed Firewall Solution provides robust next-generation firewall protect
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 40F</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
+<td style='padding: 10px;'>$4,599.00</td>
+<td style='padding: 10px;'>$4,599.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 60F</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
+<td style='padding: 10px;'>$5,799.00</td>
+<td style='padding: 10px;'>$5,799.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 80F</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
+<td style='padding: 10px;'>$10,999.00</td>
+<td style='padding: 10px;'>$10,999.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 100F</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'>$13,599.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 200F</td>
-<td style='padding: 10px;'>$8,860.00</td>
-<td style='padding: 10px;'>$7,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:LGA Telecom Pte Ltd<br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+ Company Name: Ingenious Business Software Pte Ltd<br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'DNS - Xero Cloud Accounting Software'
+title: 'QuickHR'
 permalink: /productivity-solutions-grant/solutionrepo/solution333
 ---
 
-## DNS - Xero Cloud Accounting Software
+## QuickHR
 
 ## Overview
 
 **Description**
 
-XERO is a cloud based accounting software that enables small businesses to automate everyday administrative tasks, work from anywhere and anytime. With over 3 Million + subscribers worldwide, XERO helps to transform the way business is done. Get a full picture of your financials in real time and collaborate anywhere across the world.
+QuickHR is a holistic cloud based HRMS built to eliminate problems that plague traditional HR platforms. Designed with security, stability and scalability in mind, QuickHR enables businesses to efficiently manage employees, onboarding, payroll, leave, claim and appraisals through an automated experience. QuickHR is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based HRMS provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ XERO is a cloud based accounting software that enables small businesses to autom
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'>$1,158.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START HRMS (10 Headcounts)</td>
+<td style='padding: 10px;'>$2,700.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Everyday</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT HRMS (50 Headcounts)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Upsize</td>
-<td style='padding: 10px;'>$4,224.00</td>
-<td style='padding: 10px;'>$3,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING HRMS (100 Headcounts)</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE HRMS (150 Headcounts)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR HRMS (200 Headcounts)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:D Next Stop Pte Ltd<br>Web URL: www.dnextstop.com <br>Contact Hotline: 83415321 <br>Contact Email: enquiry@dnextstop.com
+ Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

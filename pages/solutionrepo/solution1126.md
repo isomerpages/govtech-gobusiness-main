@@ -1,17 +1,20 @@
 ---
-title: 'Portable Automatic Pipe Gas Cutter'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1126
 ---
 
-## Portable Automatic Pipe Gas Cutter
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for parallel, upright and upward pipe cutting arrangements in workshop or shipyard, especially in tight or awkward spaces. With a permanent magnet wheel attached onto the pipe to crawl and cut the pipe at the same time, this equipment only requires 1 headcount to operate. Time and manpower is saved throughout preparation, cutting and touch-up work.
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
 
-Cost of equipment capped at $12,500 per unit
+Support capped at $5,000 per unit 
+
 
 
 ## Solution Packages Option(s)
@@ -23,9 +26,9 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Pipe Gas Cutter</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Automatic travelling gas cutting operations<br>Cutting speed: minimum 50 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Minimum water tank capacity of 15 litres</td>
 </tr>
 </table>
 

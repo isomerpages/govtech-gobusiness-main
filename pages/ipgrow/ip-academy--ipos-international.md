@@ -9,7 +9,7 @@ Founded in 2003, our academy has established itself as a center of excellence in
 
 Our academy has also built a global network of partnerships with institutes of higher learning and professional associations to augment our programmes, seminars and roundtables. Our students and institutional clients are from all over the world, facilitating the sharing of best practices and knowledge. Whether you are a business or public agency looking to build capabilities in IA/IP management, or an individual seeking a career in this exciting area of IA/IP, we have a suitable programme for your specific needs.
 
-<b>Year established in Singapore:</b> 2014
+<b>Year established in Singapore:</b> 2003
 
 <b>Top focus areas for IA/IP services:</b> IP Training
 

@@ -12,6 +12,9 @@ Induction technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Angelo Po (Italy) - 1S1VT1IB
+- ATA (Italy) - K7ECI05TT
+- ATA (Italy) - K7ECI10TT
 - Bertazzoni - P302IB2NE
 - Bertazzoni - P603I30NV
 - Bertazzoni - P885IC2G5NE
@@ -83,6 +86,7 @@ Induction technology
 - Hatco - IWRM-C1-1317-06
 - Hatco - IWRM-CD1-03
 - Hatco - IWRM-CD1-05
+- Lincat (UK) - SLI42
 - Mantru.e - ZC2-C366A
 - Mantru.e - ZC2-C366A-Q
 - Mantru.e - ZC2-C366B-Q
@@ -111,6 +115,10 @@ Induction technology
 - Mayer - MMIH603FZ
 - MISTRAL Sia-Huat - (1112-MIC88TSI)
 - OZTI - 7865.N1.80903.IS
+- RATIONAL - iVario 2-XS
+- RATIONAL - iVario Pro 2-S
+- RATIONAL - iVario Pro L
+- RATIONAL - iVario Pro XL 
 - ROLLER GRILL Sia-Huat - (238SD-PIC25)
 - ROLLER GRILL Sia-Huat - (238SD-PID30)
 - ROLLER GRILL Sia-Huat - (238SD-PID700)

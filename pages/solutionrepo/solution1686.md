@@ -1,17 +1,20 @@
 ---
-title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
+title: 'Microsoft Cybersecurity Managed Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution1686
 ---
 
-## AZ DIGITAL ORDERING SOLUTION Version 1.0
+## Microsoft Cybersecurity Managed Service
 
 ## Overview
 
 **Description**
 
-AZ Digital Ordering Solution provides an up scaling process in engaging customer's dining experience with.........
-1) Customer Self-Ordering Kiosk providing a less face to face interaction and to ease the queue 
-2) Mobility device via QR / App Ordering to enhance their ordering process.
+Incorporated in 1994, NTC is a well established organization helping clients with their Digital transformation needs.  
+The Microsoft Cybersecurity Managed Service is a Managed Detection & Response solution to help SME mitigate the challenges faced to secure their organization against constant threat of cybersecurity threats. The Product & Service included in the solution include :
+Microsoft Defender for Business
+Microsoft Defender for Office365(Plan 1)
+Microsoft Intune
+Managed Service
 
 ## Solution Packages Option(s)
 
@@ -25,48 +28,48 @@ AZ Digital Ordering Solution provides an up scaling process in engaging customer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 ( Self Ordering License )</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 user pack</td>
+<td style='padding: 10px;'>$7,033.00</td>
+<td style='padding: 10px;'>$7,033.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 ( Self Ordering License x 2 )</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>35 user pack</td>
+<td style='padding: 10px;'>$15,877.00</td>
+<td style='padding: 10px;'>$15,877.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 ( Self Ordering License + Kitchen Display License )</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>45 user pack</td>
+<td style='padding: 10px;'>$20,299.00</td>
+<td style='padding: 10px;'>$20,299.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 ( Self Ordering License + Mobile QR Ordering License + Kitchen Display License )</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>55 user pack</td>
+<td style='padding: 10px;'>$24,721.00</td>
+<td style='padding: 10px;'>$24,721.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 ( Mobile QR Ordering License )</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>75 user pack</td>
+<td style='padding: 10px;'>$33,565.00</td>
+<td style='padding: 10px;'>$33,565.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net 
+ Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

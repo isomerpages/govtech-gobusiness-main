@@ -1,15 +1,15 @@
 ---
-title: 'Creative eShop'
+title: 'Zippy eCommerce Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1543
 ---
 
-## Creative eShop
+## Zippy eCommerce Version 1.0
 
 ## Overview
 
 **Description**
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Zippy eCommerce is designed to help SMES bring their B2C business online seamlessly. Zippy is user-friendly, intuitive, and packed with features that make building and operating an online store fast, easy and efficient. With the Zippy solution, SMEs can create, maintain and operate a professional-looking B2C ecommerce website without any in-house technical staff.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Standard</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Lite</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zippy eCommerce Enterprise</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ZIPPY_SG_Zippy_eCommerce_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company Name: ZIPPY SG PTE. LTD.<br>Web URL: https://zippybytes.com/ <br>Contact Hotline: 63147885 <br>Contact Email: sales@zippy.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

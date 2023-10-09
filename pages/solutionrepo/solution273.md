@@ -1,23 +1,15 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution273
 ---
 
-## Qoqolo School Management System Version 4.3
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -31,38 +23,31 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -72,7 +57,7 @@ Key Benefits:
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
+title: 'Digital Retail Ecommerce Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1423
 ---
 
-## Weebo Digital Ordering Solution Version 3.2.9.0
+## Digital Retail Ecommerce Solutions
 
 ## Overview
 
 **Description**
 
-Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
+The Digital Retail ecommerce solution entails end-to-end solution for SMEs. It covers professional advice on ecommerce strategy, deployment of the ecommerce platform based on the ecommerce strategy advice, to implementing google analytics to allow SME owners to track their traffic, their audiences for sound business advice, and training of the solution for SMEs to be able to maintain their own ecommerce store.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACCSS_Digital_Retail_Ecommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 
 ## Vendor Information
 
- Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
+ Company Name: ACCSS Digital Pte Ltd<br>Web URL: www.accss.asia <br>Contact Hotline: 97806890 <br>Contact Email: geraldine.png@accss.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

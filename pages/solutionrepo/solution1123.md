@@ -1,17 +1,18 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Blast Chiller'
 permalink: /productivity-solutions-grant/solutionrepo/solution1123
 ---
 
-## Circular Gas Cutter
+## Blast Chiller
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Cost of equipment capped at $18,750 per unit 
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Minimum Specifications<br><br>Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>Minimum capacity of 5 GN 1/1<br><br></td>
 </tr>
 </table>
 

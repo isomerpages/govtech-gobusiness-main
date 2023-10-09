@@ -1,15 +1,15 @@
 ---
-title: 'SentroWeb Version 3.0.0'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 
-## SentroWeb Version 3.0.0
+## Xero
 
 ## Overview
 
 **Description**
 
-Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that businesses can take the complexities out of AML/CFT compliance, and get straight to business.
+Xero is a beautiful and easy-to-use online accounting software for small businesses and their advisor, with subscribers in more than 180 countries. Xero also offer over 800 third party integration. The software is accessible from web browsers as well as from mobile devices. Xero is used by small businesses and includes services for invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite 50</td>
-<td style='padding: 10px;'>$500.00</td>
-<td style='padding: 10px;'>$500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Full Package with Consultation</td>
+<td style='padding: 10px;'>$6,327.48</td>
+<td style='padding: 10px;'>$6,277.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 100</td>
-<td style='padding: 10px;'>$1,000.00</td>
-<td style='padding: 10px;'>$1,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premier Pro with 2 Days Training</td>
+<td style='padding: 10px;'>$5,607.48</td>
+<td style='padding: 10px;'>$5,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular 500</td>
-<td style='padding: 10px;'>$1,300.00</td>
-<td style='padding: 10px;'>$1,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Premier Pro with 1 Day Training</td>
+<td style='padding: 10px;'>$4,807.48</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Regular DJ 1000</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Basic</td>
+<td style='padding: 10px;'>$3,207.48</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium DJ 8K</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IngeniqueDesensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription Only</td>
+<td style='padding: 10px;'>$807.48</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ## Vendor Information
 
- Company name:Ingenique Solutions Pte Ltd<br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net 
+ Company name:KloudEx Pte Ltd<br>Web URL: www.xero.com <br>Contact Hotline: 96461160 <br>Contact Email: ken@kloudex.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

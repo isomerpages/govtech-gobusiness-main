@@ -1,15 +1,15 @@
 ---
-title: 'AdeptForms Security Operational Management Version 2'
+title: 'AirGo 360- Virtual Sites platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution89
 ---
 
-## AdeptForms Security Operational Management Version 2
+## AirGo 360- Virtual Sites platform
 
 ## Overview
 
 **Description**
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360- street view" simply and quickly. Our platform has helped extend progress supervision, enable faster site documentation & progress claims, and provide evidence to reduce costly variation orders & disputes. In this pandemic, we help teams overcome communication gaps caused by restricted physical site access.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ AdeptForms help our clients to improve and grow by automating their business pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package A (Up to 5 Sites)</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=5,000sqm)</td>
+<td style='padding: 10px;'>$11,700.00</td>
+<td style='padding: 10px;'>$11,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=15,000sqm)</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=50,000sqm)</td>
+<td style='padding: 10px;'>$17,700.00</td>
+<td style='padding: 10px;'>$17,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package D (Up to 5 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=100,000sqm)</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'>$20,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=200,000sqm)</td>
+<td style='padding: 10px;'>$27,300.00</td>
+<td style='padding: 10px;'>$20,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ AdeptForms help our clients to improve and grow by automating their business pro
 
 ## Vendor Information
 
- Company Name: Adept Ventures Pte Ltd<br>Web URL: https://www.adeptforms.com/ <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@adeptforms.com <br><br>
+ Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

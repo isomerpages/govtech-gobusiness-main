@@ -1,17 +1,15 @@
 ---
-title: 'Combi Oven'
+title: 'Mobile Elevating Work Platform/ Boom Lift/ Spider Lift'
 permalink: /productivity-solutions-grant/solutionrepo/solution1149
 ---
 
-## Combi Oven
+## Mobile Elevating Work Platform/ Boom Lift/ Spider Lift
 
 ## Overview
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
-
-Cost of equipment capped at $37,500 per unit
+A mobile mechanical device used to provide temporary access for people or equipment to perform tasks which are at inaccessible areas and heights.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmable for convection, steam, and combination cooking. <br>- Minimum capacity: 5 trays (GN 1/1)<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

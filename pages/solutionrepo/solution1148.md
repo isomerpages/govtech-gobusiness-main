@@ -1,17 +1,15 @@
 ---
-title: 'Blast Freezer'
+title: 'Fleet Management System i.e. hardware'
 permalink: /productivity-solutions-grant/solutionrepo/solution1148
 ---
 
-## Blast Freezer
+## Fleet Management System i.e. hardware
 
 ## Overview
 
 **Description**
 
-Blast Freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. It prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. The rapid freezing function prevents large ice crystals which reduce shelf life, quality and flavour of frozen. Blast freezers should be able to be loaded with a trolley for ease of operation. 
-
-Cost of equipment capped at $30,000 per unit
+Fleet management system consists of GPS tracking devices, cameras and other sensors installed in the vehicles to record and transmit data or provide constant, real-time updates into the exact location of fleet assets.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $30,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Freezer</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>- Minimum of 10 trays (GN 1/1)<br>- Freezer must be able to reach -18?C<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Management System i.e. hardware</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

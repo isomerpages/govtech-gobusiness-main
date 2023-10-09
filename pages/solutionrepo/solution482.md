@@ -1,20 +1,15 @@
 ---
-title: 'Q-DAS - Smart Quality Software'
+title: 'Freight Master Version 8.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution482
 ---
 
-## Q-DAS - Smart Quality Software
+## Freight Master Version 8.2
 
 ## Overview
 
 **Description**
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of five core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low-cost solution, thereby providing a more level playing field for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -28,34 +23,48 @@ Key features:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'>$28,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 4 User Package</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 7 User Package</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'>$20,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
-<td style='padding: 10px;'>$40,400.00</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User Package</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 18 User Package</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'>$36,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 24 User Package</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'>$37,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innosys_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
+ Company Name:Innosys Pte Ltd<br>Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

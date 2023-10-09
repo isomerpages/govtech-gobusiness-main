@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (Data Mining & Analytics)'
+title: 'Network Box Next Generation Managed Security Version 5.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution616
 ---
 
-## LittleLives School Management System (Data Mining & Analytics)
+## Network Box Next Generation Managed Security Version 5.5
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
+Network Box UTM is a Managed Security Service Provider, protecting its clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's Unified Threat Management, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
-<td style='padding: 10px;'>$6,537.00</td>
-<td style='padding: 10px;'>$5,301.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package III - Higher Workload</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
+ Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -7,8 +7,6 @@ permalink: /enterprisejobskills/
 
 ![EPJS](/images/epjs/hero-img.png)
 
-{% include notice.html notice=site.data.notice_epjs%}
-
 ---
 
 

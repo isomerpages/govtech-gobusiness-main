@@ -1,17 +1,18 @@
 ---
-title: 'Power Jack for Steel Plates Adjustment (Perpendicular)'
+title: 'Industrial/Commercial Slicer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1128
 ---
 
-## Power Jack for Steel Plates Adjustment (Perpendicular)
+## Industrial/Commercial Slicer
 
 ## Overview
 
 **Description**
 
-The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
+The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
 
-Cost of equipment capped at $18,750 per unit
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Power Jack for Steel Plates Adjustment (Perpendicular)</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Hydraulic capacity: Min. 5 tonnes<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. pump, hydraulic hose</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Must meet the following:<br>- Adjustable slicing width <br>- Feature an electrically powered pusher that is an integral part of the slicer machine (i.e. must be built in to the slicer machine)  <br><br>Optional component: Conveyor*<br>*Open for support if the combined cost of the slicer and conveyor falls within the cost cap of $37,500.00 </td>
 </tr>
 </table>
 

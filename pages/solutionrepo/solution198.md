@@ -1,17 +1,15 @@
 ---
-title: 'DM Best SEO Digital Marketing Packages Version 1'
+title: 'GenicDocs - Document Management Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution198
 ---
 
-## DM Best SEO Digital Marketing Packages Version 1
+## GenicDocs - Document Management Software
 
 ## Overview
 
 **Description**
 
-Best SEO Marketing Pte Ltd offers SEO services, Google Ads, Social Media Marketing that brings businesses more leads, customers and sales than one's team can possibly handle.
-
-Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "click-through rate", they focus on how much their marketing efforts have generated their clients in terms of their return on investment.
+GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly interface
 
 ## Solution Packages Option(s)
 
@@ -25,24 +23,38 @@ Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING - 3 MONTHS</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (up to 5 users)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM/SMA - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (up to 7 users)</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/SEM - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (up to 10 users)</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (up to 15 users)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (up to 25 users)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -52,7 +64,7 @@ Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "
 
 ## Vendor Information
 
- Company name: BEST MARKETING AGENCY PTE LTD<br>Web URL: https://www.bestmarketing.com.sg<br>Contact Hotline: 9231 3757<br>Contact Email: contact@bestmarketing.com.sg
+ Company name:Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'SAP Business One'
+title: 'DM Bizsquare Digital Marketing Suite Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1401
 ---
 
-## SAP Business One
+## DM Bizsquare Digital Marketing Suite Packages
 
 ## Overview
 
 **Description**
 
-AFON is the award-winning (Top SAP Partner in Singapore, Enterprise E50 Award by KPMG etc.) ERP consultancy in Singapore, that helps fast-growing businesses improve financial and operational efficiencies through ERP, analytics, and industry-centric solutions.
-
-SAP Business One is an enterprise resource planning software designed for SMEs, by world No. 1 ERP brand leader SAP. It automates and streamlines key business functions in financials, operations, sales, and human resources together.
+Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands' competitiveness and bring more leads and sales to their businesses.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ SAP Business One is an enterprise resource planning software designed for SMEs, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$27,216.00</td>
-<td style='padding: 10px;'>$22,716.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand Awareness (FB + IG) 3 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 3 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$29,853.00</td>
-<td style='padding: 10px;'>$25,353.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$54,336.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA for Lead Generation (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 5 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$56,985.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (FB + IG) 5 months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
-<td style='padding: 10px;'>$65,998.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM for Brand Awareness (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:AFON Technologies Pte Ltd<br>Web URL: https://www.afon.com.sg/erp/sap-business-one <br>Contact Hotline: 63230901 <br>Contact Email: sales-enquiry@afon.com.sg 
+ Company Name: Bizsquare Management Consultants Pte Ltd<br>Web URL: https://bizsquare.com.sg/branding-marketing/ <br>Contact Hotline: 91834413 <br>Contact Email: admin@bizsquare.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

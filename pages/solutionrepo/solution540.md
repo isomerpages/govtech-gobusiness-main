@@ -1,15 +1,15 @@
 ---
-title: 'Autodesk AEC Collection'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution540
 ---
 
-## Autodesk AEC Collection
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product , AEC Collection . It consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to va
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 3 Years</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$1,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to va
 
 ## Vendor Information
 
- Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

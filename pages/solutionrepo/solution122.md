@@ -1,15 +1,15 @@
 ---
-title: 'ABSS Premier Version 30'
+title: 'Applivon - Odoo'
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
-## ABSS Premier Version 30
+## Applivon - Odoo
 
 ## Overview
 
 **Description**
 
-Andre Corporate is a software company specializing in accounting software providing sales, training and after sales support. Andre Corporate's competitive advantage is that all provided services can all be done remotely. Integrated accounting solution with modules Statement of financial position, comprehensive income, and cash flow), Account Receivable/Payable, Billing and Invoicing, Inventory, Multiple Currencies, General Ledger, Purchase Order and Sales Order and Data Analytics capabilities.
+Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Andre Corporate is a software company specializing in accounting software provid
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Single User Licence product only)</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App5</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Three User Licence product only)</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App10</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Single User Licence Full Package)</td>
-<td style='padding: 10px;'>$2,750.00</td>
-<td style='padding: 10px;'>$2,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App15</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Three User Licence Full Package)</td>
-<td style='padding: 10px;'>$3,550.00</td>
-<td style='padding: 10px;'>$3,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Three User Licence Full package with remote access)</td>
-<td style='padding: 10px;'>$4,250.00</td>
-<td style='padding: 10px;'>$4,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Andre_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App-Unlimited</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Andre Corporate Pte Ltd<br>Web URL: https://www.andrecorpl.com/abss-accounting-software/ <br>Contact Hotline: 92258858 <br>Contact Email: consultants@andre.com.sg <br>
+ Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

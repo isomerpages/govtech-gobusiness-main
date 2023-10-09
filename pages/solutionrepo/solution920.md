@@ -1,15 +1,15 @@
 ---
-title: 'SYSFREIGHT Version 10.01'
+title: 'Automotive Tracking System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution920
 ---
 
-## SYSFREIGHT Version 10.01
+## Automotive Tracking System Version 1
 
 ## Overview
 
 **Description**
 
-SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences).
+Track 365 Automotive Tracking System is a cloud based telematics solution.  The solution allows businesses to monitor the location of a single vehicle or a group of vehicles in real-time, with their positions automatically updating onto a map. The solution is totally web-based, users can access their information wherever and whenever they choose. Whether it's on their phone whilst out and about, or on their PC in the office.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive fu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 3 User</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'>$15,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 6 User</td>
-<td style='padding: 10px;'>$24,480.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 9 User</td>
-<td style='padding: 10px;'>$31,140.00</td>
-<td style='padding: 10px;'>$29,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User</td>
-<td style='padding: 10px;'>$37,080.00</td>
-<td style='padding: 10px;'>$35,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 15 User</td>
-<td style='padding: 10px;'>$42,300.00</td>
-<td style='padding: 10px;'>$40,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per Vehicle</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Track365_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: SYSMAGIC SOFTWARE SOLUTION PTE LTD<br>Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
+ Company name:Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

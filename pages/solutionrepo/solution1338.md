@@ -1,17 +1,15 @@
 ---
-title: 'Harvest Accounting - Xero'
+title: 'AM8ZE ERP - VISTA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1338
 ---
 
-## Harvest Accounting - Xero
+## AM8ZE ERP - VISTA
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
-
-Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
+AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Unlimited Users)</td>
+<td style='padding: 10px;'>$16,750.00</td>
+<td style='padding: 10px;'>$16,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (Unlimited Users)</td>
+<td style='padding: 10px;'>$20,850.00</td>
+<td style='padding: 10px;'>$20,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (Unlimited Users)</td>
+<td style='padding: 10px;'>$30,150.00</td>
+<td style='padding: 10px;'>$26,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Basic (Unlimited Users)</td>
+<td style='padding: 10px;'>$34,850.00</td>
+<td style='padding: 10px;'>$27,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Advanced (Unlimited Users)</td>
+<td style='padding: 10px;'>$38,350.00</td>
+<td style='padding: 10px;'>$27,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+ Company Name: AM8ZE PTE LTD<br>Web URL: https://am8ze.com/erp/ <br>Contact Hotline: 96222206 <br>Contact Email: sales@am8ze.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

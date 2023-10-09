@@ -1,17 +1,15 @@
 ---
-title: 'Xero Accounting System'
+title: 'FidCorp Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution366
 ---
 
-## Xero Accounting System
+## FidCorp Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
-
-Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
+FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is committed to providing quality products and services to business owners. As the winner of the Xero Singapore Emerging Accounting Partner of the Year Award for FY2022, FidCorp present FidCorp Xero Accounting Software to business owners so that they have more ME time with Xero simplifying their everyday business tasks! As always, FidCorp believe in retaining a personal touch while leveraging technology to deliver cost-eff
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
-<td style='padding: 10px;'>$3,164.00</td>
-<td style='padding: 10px;'>$3,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
+<td style='padding: 10px;'>$2,164.00</td>
+<td style='padding: 10px;'>$2,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
-<td style='padding: 10px;'>$5,064.00</td>
-<td style='padding: 10px;'>$5,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
+<td style='padding: 10px;'>$2,564.00</td>
+<td style='padding: 10px;'>$2,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
-<td style='padding: 10px;'>$6,264.00</td>
-<td style='padding: 10px;'>$6,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
+<td style='padding: 10px;'>$4,264.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
+ Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

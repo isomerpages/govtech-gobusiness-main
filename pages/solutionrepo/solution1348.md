@@ -1,15 +1,19 @@
 ---
-title: 'DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2'
+title: 'F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1348
 ---
 
-## DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2
+## F&B Solutions Version 5.0
 
 ## Overview
 
 **Description**
 
-Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of SMEs in their digital growth. These solutions are customized for SMEs at different stages of digital maturity to enhance their online brand presence, digital marketing strategy, communication with target audiences, and increase sales. Bluehive's services cater to businesses that operate through ecommerce websites, brick-and-mortar stores, or both.
+The Essential F&B Management Solutions 
+Major Problem Solutions:
+1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +27,27 @@ Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR Ordering</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SMA (3 Months Package)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR Ordering and CRM</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Bluehive Consulting Asia Pte Ltd<br>Web URL: https://www.bluehiveasia.com/psg-digital-marketing/<br>Contact Hotline: 91919682<br>Contact Email: projects@bluehiveasia.com
+ Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
