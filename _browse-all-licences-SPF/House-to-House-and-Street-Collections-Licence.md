@@ -28,13 +28,14 @@ Singapore Police Force (SPF)
 <ol>
 <li>
 <strong>Do I need to apply for a House to House and Street Collections licence if I need to raise funds from members of public?</strong><br>
-Under the House to House and Street Collections Act, a licence is required from Police if a person appeals to the public, made by means of visits from house to house or of soliciting in streets or other places or by both such means, for money or other property.
+A HHSC licence is not required if the beneficiary is a registered charity, exempt charity, or the fund-raising appeal for foreign charitable purpose is by a person who has been approved by the Commissioner of Charities. However, you would need to comply with the Charities Act 1994.<br>
+Please refer to <a href="http://www.charities.gov.sg">www.charities.gov.sg</a> for more details.
 </li>
 
 <li>
 <strong>When will I be granted a House to House and Street Collections licence?
 </strong><br>
-A House to House and Street Collections licence will only be granted if the purpose of collection is to raise funds for a charitable cause; and the beneficiary is either a member of National Council of Social Service (NCSS) or a registered charity with the Charities Unit of the Ministry of Culture, Community and Youth (MCCY). Activities such as building a place of worship, raising funds to help an individual to overcome his difficulties or raising funds for a non-charitable organisation will not be considered. No licence will be granted.
+A House to House and Street Collections licence will only be granted if the purpose of collections is to raise funds for a charitable cause. Activities such as raising funds to help an individual to overcome his difficulties or raising funds for a non-charitable organisation will not be considered as a charitable cause.
 </li>
 
 
@@ -66,7 +67,7 @@ A House to House and Street Collections licence shall be required for the sale o
 <li>
 <strong>I want to raise funds for a foreign beneficiary, do I need to apply for a House to House and Street Collections licence?
 </strong><br>
-For any applications to raise funds for a foreign beneficiary, the applicant is required to apply for a Foreign Appeal Permit from the Charities Unit of the Ministry of Culture, Community and Youth (MCCY) and also apply for a House to House and Street Collections licence.
+For any applications to raise funds for a foreign beneficiary, the applicant is only required to apply for a Foreign Appeal Permit from the Charities Unit of the Ministry of Culture, Community and Youth (MCCY).
 </li>
 
 <li>
@@ -78,7 +79,7 @@ To conduct a door-to-door collection of recyclable items such as old newspapers,
 <li>
 <strong>I am raising funds indoor within my own company premises, do I still need to apply for a House to House and Street Collections licence?
 </strong><br>
-Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of "house" includes a place of business.
+Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of �house� includes a place of business.
 </li>
 
 <li>
@@ -131,7 +132,7 @@ An applicant is required to submit an online application via GoBusiness Licensin
 <li>
 <strong>What other documents do I need to submit for my House to House and Street Collections application?
 </strong><br>
-The applicant needs to furnish a 'Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
+The applicant needs to furnish a �Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
 <br><br>
 Failure to submit all the required documents will result in the rejection of the submitted application.
 </li>
@@ -141,7 +142,7 @@ Failure to submit all the required documents will result in the rejection of the
 </strong><br>
 For funds raising or collections events in shopping centre premises, the applicant is also required to obtain prior approvals from the premises management.
 <br><br>
-The prior approval from the shopping centre management is required to be submitted to Police Licensing and Regulatory Department (PLRD) before the application can be processed. Thereafter, the application will take at least ten working days to process upon the receipt of the approval from the premises management and all other required supporting documents.
+The prior approval from the shopping centre management is required to be submitted to Police Licensing and Regulatory Department (PLRD) before the application can be processed. Thereafter, the application will take at least 14 working days to process upon the receipt of the approval from the premises management and all other required supporting documents.
 </li>
 
 
@@ -208,23 +209,23 @@ A police report is only required if the donation card is suspected to be stolen.
 
 <H3>Documents Needed</H3>
 
-<ul>
-<li><strong>Memorandum of Agreement (MOA)</strong><br>
-File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>APPROVAL FROM THE MANAGEMENT OWNER PREMISE WHERE THE EVENT/FUNDRAISING IS HELD</strong><br>
-File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>NEA/STB/SLA/Foreign Appeal Permit Approval from student affairs office for tertiary instituition</strong><br>
-File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-</li>
-<li><strong>Police permit or permit from CID to conduct donation/lucky draw</strong><br>
-File format: pdf,jpg,gif,doc,docx<br>
-Maximum upload per application: 2 MB
-</li>
+<ul> 
+<li><strong>Memorandum of Agreement (MOA)</strong><br> 
+File format: pdf,jpg,gif,doc,docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>APPROVAL FROM THE MANAGEMENT OWNER PREMISE WHERE THE EVENT/FUNDRAISING IS HELD</strong><br> 
+File format: pdf,jpg,gif,doc,docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>NEA/STB/SLA/Foreign Appeal Permit Approval from student affairs office for tertiary instituition</strong><br> 
+File format: pdf,jpg,gif,doc,docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
+<li><strong>Police permit or permit from CID to conduct donation/lucky draw</strong><br> 
+File format: pdf,jpg,gif,doc,docx<br> 
+Maximum upload per application: 2 MB 
+</li> 
 </ul>
 
 <H3>Requirements</H3>
