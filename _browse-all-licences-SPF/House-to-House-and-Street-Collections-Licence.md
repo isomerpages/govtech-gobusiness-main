@@ -29,6 +29,7 @@ Singapore Police Force (SPF)
 <li>
 <strong>Do I need to apply for a House to House and Street Collections licence if I need to raise funds from members of public?</strong><br>
 A HHSC licence is not required if the beneficiary is a registered charity, exempt charity, or the fund-raising appeal for foreign charitable purpose is by a person who has been approved by the Commissioner of Charities. However, you would need to comply with the Charities Act 1994.<br>
+<br>
 Please refer to <a href="http://www.charities.gov.sg">www.charities.gov.sg</a> for more details.
 </li>
 
@@ -79,7 +80,7 @@ To conduct a door-to-door collection of recyclable items such as old newspapers,
 <li>
 <strong>I am raising funds indoor within my own company premises, do I still need to apply for a House to House and Street Collections licence?
 </strong><br>
-Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of �house� includes a place of business.
+Even within the premises of your company, indoor funds-raising or collections activities, you are required to apply for a House to House and Street Collections licence. Under the House to House and Street Collections Act, the definition of "house" includes a place of business.
 </li>
 
 <li>
@@ -132,7 +133,7 @@ An applicant is required to submit an online application via GoBusiness Licensin
 <li>
 <strong>What other documents do I need to submit for my House to House and Street Collections application?
 </strong><br>
-The applicant needs to furnish a �Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
+The applicant needs to furnish a Memorandum of Agreement (MOA) between the main organiser of the fund raising event and the beneficiary (to be signed by both parties) before the application can be processed. The application will take at least ten working days to process upon the receipt of the MOA and all other required supporting documents.
 <br><br>
 Failure to submit all the required documents will result in the rejection of the submitted application.
 </li>
