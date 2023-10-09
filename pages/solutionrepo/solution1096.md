@@ -1,18 +1,15 @@
 ---
-title: 'Vertical Carousel'
+title: 'Manure Treatment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1096
 ---
 
-## Vertical Carousel
+## Manure Treatment System
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
-
-Cost of equipment capped at $37,500 per unit 
-
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ## Solution Packages Option(s)
 
@@ -23,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit height: min. 2.5m<br>- Carrier tray width: min. 1.3m<br>- Load capacity per tray: min. 150kg<br>- With operator Interface (Console)<br>- With software linked to Inventory Management System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
