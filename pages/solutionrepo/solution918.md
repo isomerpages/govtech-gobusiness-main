@@ -1,15 +1,15 @@
 ---
-title: 'TessaCloud DMS'
+title: 'T-GUARD'
 permalink: /productivity-solutions-grant/solutionrepo/solution918
 ---
 
-## TessaCloud DMS
+## T-GUARD
 
 ## Overview
 
 **Description**
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
+T-Guard is an enhanced safe driving management system that encompasses a collision avoidance system. It has the capability to prevent accidents due to potential causes of abnormal driver behaviour such as fatigue, smoking, distraction, yawning, and provides closed loop interventions to prevent accidents. The solution provides SMEs with greater fleet insights to improve business productivity and safety by analyzing driver behavior with score card to instill safe driving culture.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard (Per vehicle)</td>
+<td style='padding: 10px;'>$5,538.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard Enhance (Per vehicle)</td>
+<td style='padding: 10px;'>$5,657.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
+ Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 94798687 <br>Contact Email: customerservice@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

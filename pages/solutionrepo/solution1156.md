@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced disinfection system'
+title: 'Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.'
 permalink: /productivity-solutions-grant/solutionrepo/solution1156
 ---
 
-## Enhanced disinfection system
+## Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.
 
 ## Overview
 
 **Description**
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+Equipment used in cleaning so as to destroy bacterial. Also include high pressure washer or other cleaning machines that provide better efficiency as compared to manual cleaning and lightings of special wavelength for culturing of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

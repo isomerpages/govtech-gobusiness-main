@@ -1,0 +1,9 @@
+collections:
+  browse-all-solutions-Wholesale-Trade:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Sales-Management.md
+      - Inventory-Management-System.md
+      - Enterprise-Resource-Planning--ERP--Software-for-Wholesale.md
+      - General-Wholesale-Trade-Equipment.md
