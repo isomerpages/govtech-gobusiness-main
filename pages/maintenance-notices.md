@@ -11,10 +11,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** | 
 |  -----------   |------------------| 
-| 27 Sep, 11am - 6 Oct, 11:59pm | **GoBusiness services** will be intermittently unavailable due to scheduled maintenance. We apologise for the inconvenience caused. | 
-| 7 Oct, 12am - 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
-| 8 Oct, 12am - 7am | **EDH** will be undergoing scheduled maintenance. ACRA company details will be unavailable during this period. |
-| 8 Oct, 12am - 8am |  **GoBusiness Dashboard for FIN holders** will be unavailable due to scheduled maintenance. | 
+| 11 Oct, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 11 Oct, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 11 Oct, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 
 
 <script src="/jquery/jquery.min.js"></script>
