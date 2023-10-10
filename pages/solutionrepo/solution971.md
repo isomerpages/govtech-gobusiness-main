@@ -1,15 +1,15 @@
 ---
-title: 'Globe3 ERP V5.6'
+title: 'EZYSALES RETAIL POS Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution971
 ---
 
-## Globe3 ERP V5.6
+## EZYSALES RETAIL POS Version 1.0
 
 ## Overview
 
 **Description**
 
-Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
+EzySales Retail POS accord Integrated Retail businesses. The solution is designed to enhance retail stores day-to-day operations in a more efficient way. The solution helps businesses to generate consistent and customizable reports in an instant. EzySales Retail POS support multi-store management with utmost ease. The solution is flexible to use and provides reliable, secure, accurate and fast payment methods. The solution offers seamless integrations and add-ons.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$32,800.00</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LIMITED VERSION</td>
+<td style='padding: 10px;'>$6,850.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$39,400.00</td>
-<td style='padding: 10px;'>$37,800.00</td>
-<td style='padding: 10px;'><a href=' /images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$49,300.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
-<td style='padding: 10px;'>$55,900.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
-<td style='padding: 10px;'>$22,900.00</td>
-<td style='padding: 10px;'>$21,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PROFESSIONAL VERSION</td>
+<td style='padding: 10px;'>$11,650.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 
 ## Vendor Information
 
- Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'PayAdvisorMobile HRMS'
+title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1559
 ---
 
-## PayAdvisorMobile HRMS
+## AZ DIGITAL ORDERING SOLUTION Version 1.0
 
 ## Overview
 
 **Description**
 
-PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
+AZ Digital Ordering Solution provides an up scaling process in engaging customer's dining experience with.........
+1) Customer Self-Ordering Kiosk providing a less face to face interaction and to ease the queue 
+2) Mobility device via QR / App Ordering to enhance their ordering process.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,48 @@ PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 1 (up to 25 users)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 ( Self Ordering License )</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 2 (up to 50 users)</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 ( Self Ordering License x 2 )</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 3 (up to 100 users)</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 ( Self Ordering License + Kitchen Display License )</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 4 (up to 150 users)</td>
-<td style='padding: 10px;'>$16,450.00</td>
-<td style='padding: 10px;'>$16,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 ( Self Ordering License + Mobile QR Ordering License + Kitchen Display License )</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 5 (up to 200 users)</td>
-<td style='padding: 10px;'>$20,550.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 ( Mobile QR Ordering License )</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
+ Company name:AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

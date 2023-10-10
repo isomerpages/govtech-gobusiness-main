@@ -1,17 +1,18 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1122
 ---
 
-## Automatic Nut Splitter
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
 
-Cost of equipment capped at $7,500 per unit 
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>- Minimum nut size: 12.7mm<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>Minimum Specifications <br>- Unit must be able to fully automate the basket lifting process, based on pre-set control functions on temperature and adjustable control functions on timing<br>- Well capacity to be at least 5L<br></td>
 </tr>
 </table>
 
