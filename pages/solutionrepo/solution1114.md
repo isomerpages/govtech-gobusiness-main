@@ -1,17 +1,15 @@
 ---
-title: 'Laser Geometric Alignment System'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1114
 ---
 
-## Laser Geometric Alignment System
+## HVAC system
 
 ## Overview
 
 **Description**
 
-Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
-
-Cost of equipment capped at $37,500 per unit
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.<br>Measuring errors: minimum +/- 1%<br>Maintenance cost not supported<br>Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

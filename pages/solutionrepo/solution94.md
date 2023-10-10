@@ -1,16 +1,15 @@
 ---
-title: 'AGHRM'
+title: 'ALIGN HRSS - PAYROLL OUTSOURCING'
 permalink: /productivity-solutions-grant/solutionrepo/solution94
 ---
 
-## AGHRM
+## ALIGN HRSS - PAYROLL OUTSOURCING
 
 ## Overview
 
 **Description**
 
-AGHRMS is an All-in-One Cloud Payroll & HR Software for today's HR: Easy Payroll for 100% compliance, eAttendance, Appraisal, Leave, Claims etc on a Single, Secure Portal.
-Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repetitive, tedious processes for 80% increase in HR efficiency. The company serves SMEs, MNCs & NPOs with presence in countries mainly in Singapore, Malaysia, Indonesia, Myanmar and Thailand.
+Align Group's payroll outsourcing simplifies payroll work for SME owners. SMEs can entrust their payroll needs to our dedicated accounts manager who would deliver on monthly payroll processing, employee data management, benefits & claims, and more. With payroll outsourcing, they can contain cost, manage employer-related risk, reduce administrative burdens, and maintain information confidentially.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,48 @@ Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repet
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 30</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 20 Employees</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 50</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 30 Employees</td>
+<td style='padding: 10px;'>$12,200.00</td>
+<td style='padding: 10px;'>$12,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 100</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'>$7,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 50 Employees</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'>$17,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 200</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 100 Employees</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ALIGN HRSS - PAYROLL OUTSOURCING - 1 to 200 Employees</td>
+<td style='padding: 10px;'>$53,000.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Align_Group_20210067_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AG NET PTE. LTD.<br>Web URL: https://www.aghrms.com/hrms-payroll-software-singapore/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com 
+ Company Name: Align Group of Companies Pte Ltd<br>Web URL: https://www.aligngroup.asia/hr-business-partnering/ <br><br>Contact Hotline: 62225224 <br><br>Contact Email: service@aligngroup.asia <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

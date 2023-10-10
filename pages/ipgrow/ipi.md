@@ -49,7 +49,7 @@ With a strong belief that innovation is key to enterprise growth, IPI provides e
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
-**IP Marketplace  Services**
+**IP Marketplace Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to Above $1200</li>

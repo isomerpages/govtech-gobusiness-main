@@ -1,15 +1,17 @@
 ---
-title: 'DM PIXEL MECHANICS Digital Marketing Packages'
+title: 'Redoc - Document Management & Transaction Records Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution742
 ---
 
-## DM PIXEL MECHANICS Digital Marketing Packages
+## Redoc - Document Management & Transaction Records Version 1.0
 
 ## Overview
 
 **Description**
 
-Pixel Mechanics offers digital marketing services that are tailored to assist small and medium-sized enterprises (SMEs) in Singapore in improving their conversions and return on investment (ROI). The packages aim to drive targeted traffic to the clients' digital channels, engage with the target audience, and convert them into loyal customers. With a data-driven approach, the investment in digital marketing is optimized for maximum ROI.
+Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management and transaction records platform. 
+
+The platform enables estate agents and salespersons to automate sales process and close deals faster with a complete digital workflow. The platform manages documents and inventory, and provides real-time data insights and transaction records on business performance.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +25,48 @@ Pixel Mechanics offers digital marketing services that are tailored to assist sm
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO (3 Months) & SEM (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Mechanics_DM_PIXEL_MECHANICS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 1 (Up to 5 users)</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM (3 Months) & SEM (3 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Mechanics_DM_PIXEL_MECHANICS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 2 (Up to 10 users)</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMM FB (3 Months) & SMM IG (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Mechanics_DM_PIXEL_MECHANICS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 3 (Up to 20 users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEM Search Ads (3 Months) & SEM Display Ads (3 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Mechanics_DM_PIXEL_MECHANICS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 4 (Up to 30 users)</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO & Content Marketing (6 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Mechanics_DM_PIXEL_MECHANICS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Redoc - Document Management & Transaction Records Version 1.0 - Package 5 (Up to 40 users)</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'>$17,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Real_Estate_Doc_Transaction_20210439_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
+ Company Name: Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br><br>Contact Hotline: 91801197 <br><br>Contact Email: admin@realestatedoc.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

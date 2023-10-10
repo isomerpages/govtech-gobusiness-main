@@ -1,71 +1,37 @@
 ---
-title: 'Quickbooks Online Accounting Software'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1060
 ---
 
-## Quickbooks Online Accounting Software
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$803.48</td>
-<td style='padding: 10px;'>$764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$3,003.48</td>
-<td style='padding: 10px;'>$2,964.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,803.48</td>
-<td style='padding: 10px;'>$3,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,603.48</td>
-<td style='padding: 10px;'>$4,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,803.48</td>
-<td style='padding: 10px;'>$7,764.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_20210137_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

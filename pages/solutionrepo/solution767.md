@@ -1,15 +1,15 @@
 ---
-title: 'QuickDesk Marketing'
+title: 'MTWO Version 5.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
-## QuickDesk Marketing
+## MTWO Version 5.1
 
 ## Overview
 
 **Description**
 
-Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
+MTWO Construction Cloud is an enterprise level platform aiming to help companies in the build environment sector increase efficiency, drive sustainability and ultimately achieve digital transformation. The platform connects all project stakeholders in one platform to enable real-time project control. The platform connects 3D BIM model with 4D project time and 5D project cost to enable time-cost optimization, and execute BIM based tendering and procurement.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
-<td style='padding: 10px;'>$2,133.41</td>
-<td style='padding: 10px;'>$2,013.41</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 10-User Package</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
-<td style='padding: 10px;'>$4,649.30</td>
-<td style='padding: 10px;'>$4,249.30</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO Perpetual 5-User Package</td>
+<td style='padding: 10px;'>$36,750.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
-<td style='padding: 10px;'>$7,713.91</td>
-<td style='padding: 10px;'>$7,053.91</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
-<td style='padding: 10px;'>$9,395.19</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
-<td style='padding: 10px;'>$14,374.74</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 15-User Package</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 
 ## Vendor Information
 
- Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
+ Web URL: www.mtwocloud.com/demo-request <br>Contact Hotline: 81239954 <br>Contact Email: mtwocloud@rib-software.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

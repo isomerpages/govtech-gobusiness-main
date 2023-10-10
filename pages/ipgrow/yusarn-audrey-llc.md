@@ -9,7 +9,7 @@ Yusarn Audrey LLC is an intellectual property and corporate commercial law firm 
 Our firm consists of corporate and intellectual property lawyers, in-house patent agents, and technical specialists who work together for seamless delivery of intellectual property and legal services around a singular objective - to create, protect, and realize value from our clients' IP assets. 
 In addition to this, we have developed new intellectual property strategic advisory services to ensure that our clients' IP activities support and enhance their business strategies and objectives. By helping them to begin managing their IP in alignment with their business and mission, our clients have changed the way they look at IP. They now see IP as an asset and an investment for the future growth of their organizations.
 
-<b>Year established in Singapore:</b> 2022
+<b>Year established in Singapore:</b> 1999
 
 <b>Top focus areas for IA/IP services:</b> Patent Agent Service, Trade Mark Agent Service, IP Strategy Consulting, Valuation (with IA/IP considerations), Contract Drafting
 
@@ -185,7 +185,7 @@ In addition to this, we have developed new intellectual property strategic advis
 
 **Audrey, Yap**
 
-- Job Title: Managing Director
+- Job Title: Regional Managing Director
 - Years of Experience: 31 years
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, IP Due Diligence, IP Portfolio Management, IP Strategy Consulting, Valuation (with IA/IP considerations)
