@@ -23,7 +23,7 @@ Jason’s bold move those years back has since paid off, although the journey ha
 
 ### Investing in upskilling for increased wages
 
-![scent by six team upskilling and training](/images/blog/content/scent 2.jpg)
+![scent by six team upskilling and training](/images/blog/content/scent 4.jpg)
 <figcaption>Investing in upskilling has not just helped Jason’s team gain new skills during the pandemic, but also helped to bridge generational gaps (Image: Scent by Six)</figcaption>
 
 In his numerous years of being a business owner, Jason has had to take on many hats - as a salesman, marketeer, manager and more. But it is in his managerial and leadership functions that he found the most fulfilment. 
@@ -38,7 +38,7 @@ Besides upskilling, Jason is also a firm believer in reskilling. During the pand
 
 These upskilling and reskilling initiatives, together with the firm’s emphasis on paying fair wages, form a key components of being a [Progressive Wage Mark](https://www.gobusiness.gov.sg/accreditation/pwmark){:target="_blank"}{:rel="noopener"} employer, which Jason sees as a crucial part of ensuring that Singapore continues to thrive as a business hub. Scent by Six had received its Progressive Wage Mark accreditation earlier this year. 
 
-![progressive wage mark accreditation gobusiness](/images/blog/content/scent 3.jpg)
+![progressive wage mark accreditation gobusiness](/images/blog/content/scent 2.jpg)
 <figcaption>Administered by the Singapore Business Federation (SBF) on behalf of tripartite partners, the Progressive Wage Mark recognises eligible firms that pay progressive wages to lower-wage workers (Image: GoBusiness)</figcaption>
 
 “In 20 to 30 years’ time…our country will be a high wage, high tech, and labour non-intensive society,” he explains. “There has to be a way [for] wages to go up.” 
@@ -51,7 +51,7 @@ While some business owners may see the progressive wage model as an additional c
 
 ### Navigating stormy seas
 
-![scent by six shopfront](/images/blog/content/scent 4.jpg)
+![scent by six shopfront](/images/blog/content/scent 3.jpg)
 <figcaption>Scent by Six’s retail shopfront located at 313@Somerset (Image: Michael Chan)</figcaption>
 
 Jason describes his entrepreneurship journey as swimming in the sea during a storm. “You see nothing but big waves… There’s uncertainty, there’s no shore to be seen, and you do not know when the end is near.” 
