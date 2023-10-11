@@ -72,6 +72,6 @@ Now in his seventh year of business, Jason is looking to remodel the business in
 
 Through it all, Jason hopes to maintain his vision that when people come to Scent by Six, they “smell good, feel good, and do good as well”.
 
-Join Jason in being a [Progressive Wage Mark](https://www.gobusiness.gov.sg/accreditation/pwmark/){:target="_blank"}{:rel="noopener"} employer by applying through the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}. Find out how you can upskill your employees through the [SkillsFuture for Enterprise](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise){:target="_blank"}{:rel="noopener"} employee training guide as part of this journey. 
+<b>Join Jason in being a [Progressive Wage Mark](https://www.gobusiness.gov.sg/accreditation/pwmark/){:target="_blank"}{:rel="noopener"} employer by applying through the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}. Find out how you can upskill your employees through the [SkillsFuture for Enterprise](https://www.gobusiness.gov.sg/skillsfuture-for-enterprise){:target="_blank"}{:rel="noopener"} employee training guide as part of this journey.</b>
 
 <em> This article is accurate as at 11 Oct 2023</em>
