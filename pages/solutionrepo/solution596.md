@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (Data Mining & Analytics)'
+title: 'ASURIX HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution596
 ---
 
-## LittleLives School Management System (Data Mining & Analytics)
+## ASURIX HRMS
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. Data Analytics is the newest module using all the operational data to analyse customer's behaviors. Schools can have a wider perspective of where the possible areas to work on increasing revenue and efficiency as well as reducing cost. LittleLives is a proven platform used by more than 1400 schools  in over 12 countries to increase sales, efficiency and eliminate unnecessary costs.
+Asurix Human Resource Software is a fully customisable cloud based Human Resource Management system and trusted by customer across the region. It simplify the HR administration for organisation and reduce total cost of ownership.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Basic Plan</td>
-<td style='padding: 10px;'>$6,537.00</td>
-<td style='padding: 10px;'>$5,301.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (10 users) </td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (Data Mining & Analytics) - Data Analytics Lite Plan (Standalone center)</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'>$4,797.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_Data_Mining_20210389_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (25 users) </td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (50 users)</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (100 users)</td>
+<td style='padding: 10px;'>$19,600.00</td>
+<td style='padding: 10px;'>$17,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ASURIX HRMS - Package (150 users)</td>
+<td style='padding: 10px;'>$26,850.00</td>
+<td style='padding: 10px;'>$23,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Net_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ LittleLives is a holistic school management system built to simplify complex sch
 
 ## Vendor Information
 
- Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
+ Company name:NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

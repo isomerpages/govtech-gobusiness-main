@@ -11,7 +11,7 @@ We are a business-centric commercial law practice that provides the full range o
 
 Our industry-focused approach enables us to combine in-depth industry experience with sophisticated legal skills to provide our clients with a unique and informed perspective. The practice has earned a solid reputation for thorough and insightful legal representation.
 
-<b>Year established in Singapore:</b> 2015
+<b>Year established in Singapore:</b> 1998
 
 <b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, Dispute Resolution
 

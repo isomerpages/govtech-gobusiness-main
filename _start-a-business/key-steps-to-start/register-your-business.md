@@ -13,22 +13,9 @@ third_nav_title: Key Steps to Start
 Registering a business involves two transactions: applying for a business name followed by business registration. Go to [Step 3](/start-a-business/reserve-your-business-name/) (Reserve your business name) to find out how to apply for a business name.
 Once the name has been approved, you can proceed with business registration.
 
+### There are three ways to register your business
 
-There are three ways to register your business:
-
-**For Sole Proprietorship/Partnership:**
-
-1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"};
-
-    i. Log in using your Singpass
-
-    ii. Use Guided Journey to continue with the next step to register your Sole Proprietorship/Partnership
-
-**For all types of business structures:**
-
-1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
-
-2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+{% include panels-featurelink.html panels=site.data.rgp010c_business-register %}
 
 The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type. Click on the respective business structure to find out more.
 

@@ -11,7 +11,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 
 <b>Year established in Singapore:</b> 2021
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training
+<b>Top focus areas for IA/IP services:</b> Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training, IP Watch
 
 <b>Type of organization:</b> Non-SME
 
