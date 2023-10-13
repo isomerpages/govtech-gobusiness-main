@@ -1,15 +1,15 @@
 ---
-title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
+title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1514
 ---
 
-## Verz Design Magento, WooCommerce & Shopify Solutions
+## Advanced Human Hazard Avoidance & Alert Systems Version 01
 
 ## Overview
 
 **Description**
 
-Verz Design is one of the key and leading players when it comes to providing Shopify/Magento/WooCommerce solutions. Shopify/Magento/WooCommerce offers a comprehensive backend with customizable plug-ins for SME's businesses. Highly suitable for companies with complex operations, Shopify/Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
+Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Aquamarine)</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Verz_Design_Magento_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Shopify Ecommerce (Turquoise)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Verz_Design_Magento_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Pearl)</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Verz_Design_Magento_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced WooCommerce Ecommerce (Ruby)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Verz_Design_Magento_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adobe Magento 2 Ecommerce (Topaz)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Verz_Design_Magento_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Verz Design is one of the key and leading players when it comes to providing Sho
 
 ## Vendor Information
 
- Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Tessaract Practice Management Solution'
+title: 'EZ Accounting and Inventory Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
-## Tessaract Practice Management Solution
+## EZ Accounting and Inventory Software
 
 ## Overview
 
 **Description**
 
-Tessaract's PMS is a practice management software that powers and accelerates the growth of law firms. A one-stop-shop software solution, law firms can automate daily tasks, streamline efficiency, and improve services with Tessaract's PMS.
+EZ Accounting is a Singapore based, integrated Accounting solution with numerous man-years of accumulated professional and software experience. It is an integrated Accounting, Order Processing and Multi Currencies Management Solution.  EZ Accounting systems are listed on both IRAS and IMDA websites for its compliant with PEPPOL's E-Invoicing (InvoiceNow) capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package A</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (3 Users)</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'>$5,853.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package B</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Premier (5 Users)</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'>$7,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package C</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'>$12,473.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package D</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package E</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SAAS Enterprise Plus (Unlimited Users)</td>
+<td style='padding: 10px;'>$12,873.00</td>
+<td style='padding: 10px;'>$12,598.00</td>
+<td style='padding: 10px;'><a href='/images/psg/User_Basic_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 
 ## Vendor Information
 
- Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
+ Company Name: User Basic Software Pte Ltd<br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
