@@ -18,7 +18,7 @@ Singapore Police Force (SPF)
 <h3>FAQ</h3>
 <ol>
 <li><strong>Where may I get more information for Debt Collector Approval?</strong><br>More information can be found <a href="&rdquo;https:/www.police.gov.sg/e-Services/Police-Licences/Debt-Collection-Licence&rdquo;" target="&rdquo;_blank&rdquo;" rel="&rdquo;noopener&rdquo;">HERE</a></li>
-<li><strong>Who may apply?</strong><br>Any person who wishes to work as a debt collector must apply through a Debt Collection Business licensee.  Applications shall be submitted via the GoBusiness portal and the applicant must possess a valid Debt Collection Business licence.</li>
-<li><strong>What are the supporting documents needed?</strong><br>You will need the following supporting documents:<br>a) Scanned copy of your NRIC (front and back).  Please be assured that your personal data is protected.  If you are not a Singapore Citizen or Singapore Permanent Resident, please attach a scanned copy of your Ministry of Manpower work pass.<br></li>
+<li><strong>Who may apply?</strong><br>Any person who wishes to work as a debt collector must apply through a Debt Collection Business licensee.  Applications shall be submitted via the GoBusiness portal and the applicant must possess a valid Debt Collection Business licence.</li>
+<li><strong>What are the supporting documents needed?</strong><br>You will need the following supporting documents:<br>a) Scanned copy of your NRIC (front and back).  Please be assured that your personal data is protected.  If you are not a Singapore Citizen or Singapore Permanent Resident, please attach a scanned copy of your Ministry of Manpower work pass.<br></li>
 </ol>
 
