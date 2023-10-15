@@ -1,16 +1,15 @@
 ---
-title: 'FocusGuard FMS Version 2.0'
+title: 'Simplify Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution625
 ---
 
-## FocusGuard FMS Version 2.0
+## Simplify Version 1
 
 ## Overview
 
 **Description**
 
-FocusGuard Fleet Management System is designed to control, monitor, and track all vehicles. Locate vehicles using detailed maps round the clock. Access the Web-based Fleet Management portal or Mobile App to view real-time location and information of the vehicles and generate up-to-date reports.
-FocusGuard FMS generates a complete suite of commonly desired Reports.
+Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,38 @@ FocusGuard FMS generates a complete suite of commonly desired Reports.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Per Vehicle)</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_FocusGuard_Annex_3_CR_wef_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
+<td style='padding: 10px;'>$17,300.00</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
+<td style='padding: 10px;'>$27,500.00</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
+<td style='padding: 10px;'>$33,500.00</td>
+<td style='padding: 10px;'>$30,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
+<td style='padding: 10px;'>$36,500.00</td>
+<td style='padding: 10px;'>$32,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +64,7 @@ FocusGuard FMS generates a complete suite of commonly desired Reports.
 
 ## Vendor Information
 
- Company Name: FocusGuard Pte Ltd<br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
+ Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

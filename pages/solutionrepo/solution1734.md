@@ -1,31 +1,34 @@
 ---
-title: 'Blast Chiller'
+title: 'CCH ProSystem fx Engagement'
 permalink: /productivity-solutions-grant/solutionrepo/solution1734
 ---
 
-## Blast Chiller
+## CCH ProSystem fx Engagement
 
 ## Overview
 
 **Description**
 
-By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
+Drive quality and efficiency for your firm's engagements with our award-winning audit solutions. Integrated with Audit Data Analytics and other modules support all engagements of Small and Medium Accounting Practices. 
 
-Cost of equipment capped at $37,500 per unit 
-
+Teammate Analytics help SMPs to ensure governance, risk mitigation, and compliance with standards from ISCA while also keeping the focus on auditor judgment and delivering deep insights through ADA. Flexible enough for both simple and complex audits, or engagements of any type.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Minimum Specifications<br><br>Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>Minimum capacity of 5 GN 1/1<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
+<td style='padding: 10px;'>$12,537.20</td>
+<td style='padding: 10px;'>$9,516.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_CCH_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -33,6 +36,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Wolters Kluwer Singapore Pte Ltd<br>Web URL: https://www.wolterskluwer.com/en-sg/solutions/cch-prosystem-fx-engagement <br>Contact Hotline: 62113920 <br>Contact Email: sg-prosystemfx@wolterskluwer.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

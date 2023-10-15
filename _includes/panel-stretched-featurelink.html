@@ -1,0 +1,150 @@
+
+<style>
+    .content .panels {
+        display: grid;
+        margin: 24px 0;
+    }
+
+    .content .panel {
+        display: grid;
+        row-gap: 16px;
+        border: 1px solid #dbdfe4;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        word-break: break-word;
+        grid-auto-rows: auto;
+    }
+
+    .content .panel .panel-image {
+        font-family: hknova-semibold;
+        font-size: 24px;
+        font-weight: 600;
+        width: auto;
+        height: 60px;
+    }
+
+    .content .panel .panel-banner>img {
+        width: 498px;
+        height: 200px;
+        margin: 0;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-image>img {
+        width: auto;
+        height: 100%;
+        margin: 29px 0 0 29px;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
+        width: 150px;
+        object-fit: cover;
+        object-position: 90% 10%;
+    }
+
+    .content .panel .panel-title {
+        font-family: hknova-semibold;
+        margin: 32px 29px 20px 29px;
+    }
+
+    .content .panel .panel-description,
+    .content [class*="panel-"]>div {
+        font-family: hknova-regular;
+        margin: 0 29px 20px 29px;
+    }
+
+    .content .panel .panel-links-container {
+        display: grid;
+        row-gap: 8px;
+        height: fit-content;
+        align-self: end;
+    }
+
+    .content .panel .panel-link {
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 10px 0 5px 0;
+    }
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
+
+
+    @media (max-width: 600px) {
+        .content .panels {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+<div class="panels">
+    <div class="panel">
+
+        {% if include.image %}
+        <div class="panel-image" aria-hidden="true">{{ include.image }}</div>
+        {% endif %}
+        <h4 class="panel-title">{{ include.title }}
+        {% if include.is_new %}
+        <span style="margin-left: 8px;">
+          {% include new-tag.html %}
+        </span>
+        {% endif %}
+        </h4>
+        {% if include.description %}
+        <p class="panel-description">{{ include.description }}</p>
+        {% endif %}
+        {% if include.tel or include.email or include.url or include.text %}
+        <div class="panel-links-container">
+            {% if include.tel %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+
+                {% assign tels = include.tel | split: ',' %}
+                {% for tel in tels %}
+                <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if include.email %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+                {% assign emails = include.email | split: ',' %}
+                {% for email in emails %}
+                <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            {% if include.url %}
+            <hr style="width:100%;text-align:left;margin:0">
+            <div class="panel-links-group">
+                {% assign urls = include.url | split: ',' %}
+                {% for url in urls %}
+                {% if include.url-new-tab %}
+                <a class="panel-link"
+                    href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}"
+                    target="_blank" rel="noopenner">
+                {% else %}
+                    <a class="panel-link"
+                    href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}">
+                {% endif %}
+                    {% if include.text %}{{include.text}}
+                    {% else %}{{url}}{% endif %}</a>
+                {% endfor %}
+            </div>
+            {% else %}
+                {% if includetext %}
+                <hr style="width:100%;text-align:left;margin:0">
+                <div class="panel-info">
+                    {{include.text}}
+                </div>
+                {% endif %}
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+</div>

@@ -7,10 +7,28 @@ permalink: /contact-us/
 
 ![Helpdesk](/images/Helpdesk.jpg)
 
-|--|--|
-|![Contact Ask GoBiz](/images/contact Ask GoBiz.png)|**Can't find what you're looking for?** <br> Our chatbot can help provide information, or set up a live chat with a customer service officer. Operating hours for the live chat are:<br><br>**Live chat operating hours:**<br>Monday - Friday: 8:00am - 6:00pm<br>Saturdays: 8:00am - 12:00pm<br>Closed on Sundays and public holidays<br><br>Click on the icon on the bottom right hand corner to start. Alternatively, you can click on your area of interest below and find out the relevant hotline to call.|
+<h3>Chat with us online</h3>
 
-{% include accordion.html accordions=site.data.acc013-helpdesk.accordion %}
+|--|--|
+|![Contact Ask GoBiz](/images/contact Ask GoBiz.png)| Use the Ask GoBiz chatbot to find information, or request a live chat with a customer service officer. <br><br>**Live Chat Operating Hours:**<br>Monday - Friday: 8:00am - 6:00pm<br>Saturdays: 8:00am - 12:00pm<br>Closed on Sundays and public holidays<br><br>**Click the icon on the bottom right hand corner of the page to start.** |
+
+----
+
+<h3>Contact a helpdesk</h3>
+
+{% include panels-aboutus.html panels=site.data.acc013-helpdesk %}
+
+----
+
+<h3>Other directories</h3>
+
+<b>SME Centres</b><br>
+
+* View our list of [SME Centres](/contact-us/sme-centres) to make an appointment or get contact details.
+
+<b>Other government agencies</b><br>
+
+* View our [list of government agencies](/contact-us/agencies) to get relevant contact details.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

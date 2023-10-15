@@ -7,16 +7,14 @@ permalink: /enterprisejobskills/
 
 ![EPJS](/images/epjs/hero-img.png)
 
-{% include notice.html notice=site.data.notice_epjs%}
-
 ---
 
 
 ### Highlights
 
+- [Sustainability Playbook For Enterprises](https://go.gov.sg/sustainability-playbook-ssg){:target="_blank"}{:rel="noopener"}
 - [Skills Profiling for SMEs](/enterprisejobskills/programmes-and-initiatives/develop-human-capital/skills-profiling-for-smes/?src=epjs_whatsnew)
 - [Workplace Skills Recognition programme](/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/workplace-skills-recognition-programme/?src=epjs_whatsnew)
-- [Skills Demand For Future Economy Report](/images/epjs/whats-new/SSG Skills_Demand_for_the_Future_Economy_2022_Final_.pdf?src=epjs_whatsnew){:target="_blank"}{:rel="noopener"}
 
 ---
 

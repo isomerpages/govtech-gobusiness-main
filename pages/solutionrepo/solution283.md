@@ -1,19 +1,15 @@
 ---
-title: '1ERP - Singapore ERP'
+title: 'Cybots AMDR'
 permalink: /productivity-solutions-grant/solutionrepo/solution283
 ---
 
-## 1ERP - Singapore ERP
+## Cybots AMDR
 
 ## Overview
 
 **Description**
 
-1ERP is the GoDigital solution for Singapore SMEs.
-A totally Singapore-centric software, 1ERP empowers SMEs to upgrade and GoDigital by staying lean and dynamic.
-Equipped with powerful reporting & integrated to popular software i.e Wordpress, Xero, POS etc, 1ERP aims to empower SMEs to "Increase sales channels, minimize workload + make more money!"
-Customizable & always upgrading, 1ERP aims to cater to each SME's unique requirements.
-1ERP is the Singapore Software developed by SMEs for SMEs.
+Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
 
 ## Solution Packages Option(s)
 
@@ -27,41 +23,48 @@ Customizable & always upgrading, 1ERP aims to cater to each SME's unique require
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 1 - Startups</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-1</td>
+<td style='padding: 10px;'>$11,900.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 2 - Production</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-2</td>
+<td style='padding: 10px;'>$21,000.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 3 - SME</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-3</td>
+<td style='padding: 10px;'>$26,250.00</td>
+<td style='padding: 10px;'>$25,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1ERP - Singapore ERP - Package 4 - SME PLUS</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_BONA_Annex_3_CR_wef_29_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-5</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$38,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+ Company Name: Cybots Pte. Ltd<br>Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br><br>Contact Hotline: 69835690 <br><br>Contact Email: contactus@cybotsai.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

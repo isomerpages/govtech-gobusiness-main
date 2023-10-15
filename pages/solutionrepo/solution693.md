@@ -1,15 +1,15 @@
 ---
-title: 'Highnix ERP Plus2 Version 4-3-35'
+title: 'iTrack Vehicle Fleet Tracking'
 permalink: /productivity-solutions-grant/solutionrepo/solution693
 ---
 
-## Highnix ERP Plus2 Version 4-3-35
+## iTrack Vehicle Fleet Tracking
 
 ## Overview
 
 **Description**
 
-Highnix ERP solution is powered by Linux and cloud-based ERP engine which was developed by Highnix with tremendous amount of professional and software experience.  It simplifies and standardizes business processes, integrate business transactions and eliminate unproductive, human errors and maintain data continuity. No more worries about staff turnover. It can be customized, scaled, upgraded and can integrate with third-party applications.  It helps saving significant amount of operating cost.
+Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Highnix ERP solution is powered by Linux and cloud-based ERP engine which was de
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard System for up to 3 concurrent users</td>
-<td style='padding: 10px;'>$12,950.00</td>
-<td style='padding: 10px;'>$12,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard System for up to 5 concurrent users</td>
-<td style='padding: 10px;'>$15,450.00</td>
-<td style='padding: 10px;'>$15,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Enhanced System for up to 5 concurrent users</td>
-<td style='padding: 10px;'>$17,750.00</td>
-<td style='padding: 10px;'>$17,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Standard System for up to 8 concurrent users</td>
-<td style='padding: 10px;'>$19,600.00</td>
-<td style='padding: 10px;'>$19,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Enhanced System for up to 8 concurrent users</td>
-<td style='padding: 10px;'>$21,900.00</td>
-<td style='padding: 10px;'>$21,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Highnix_20220401_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Highnix ERP solution is powered by Linux and cloud-based ERP engine which was de
 
 ## Vendor Information
 
- Company Name: Highnix Pte Ltd<br>Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
+ Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

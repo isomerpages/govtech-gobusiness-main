@@ -9,7 +9,11 @@ permalink: /e-services/guides-for-biz/
 
 Navigate the process of starting, running and growing a business with our handy e-Advisers and online guides. Simply answer a few questions about your business and get personalised recommendations for your next steps.
 
+{% include overview.html anchorlinks=site.data.ov016-guide-for-businesses %}
+
 ### e-Services
+
+<a name="start-business"></a>
 
 ### For starting a business
 - [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices_guidesforbiz){:target="_blank"}
@@ -21,9 +25,19 @@ Navigate the process of starting, running and growing a business with our handy 
 - [e-Adviser for Home-Based Business](https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=eservices_guidesforbiz){:target="_blank"}
   <br>For aspiring business owners to find out the next steps to run a small-scale business from home.
 
+<a name="business-regulations"></a>
+
+### For business regulations
+- [Regulatory requirements guides](/regulatory-requirements-guides/){:target="_blank"}
+  <br>A guide with the various regulatory deadlines to comply with.
+
+<a name="gov-assistance"></a>
+
 ### For government assistance
-- [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_guidesforbiz){:target="_blank"}
+- [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to identify relevant assistance schemes, such as tax incentives, loans, grants, toolkits and programmes.
+
+<a name="skills-training"></a>
 
 ### For skills training
 
@@ -31,6 +45,8 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 
 - [e-Adviser for Skills Training](https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices_guidesforbiz){:target="_blank"}
   <br>For business owners to get personalised recommendations on skills training courses and SkillsFuture initiatives relevant to your business as part of the SkillsFuture Movement.
+
+<a name="licence-recommendations"></a>
 
 ### For licence recommendations
 
@@ -43,13 +59,27 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 - [More Licence e-Advisers](/licences/find-licence-by-sector/?src=eservices_guidesforbiz)
   <br>Browse the full directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 
+### For verifying a licence 
+
+- [Licence Verifier](https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>Find out if a company or person has a licence by doing a search.
+
+<a name="verifying-licence-or-accreditation"></a>
+
+### For verifying an accreditation
+
+- [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>Find out if a company or person has a Progressive Wage (PW) Mark by doing a search.
+
+<a name="organising-events"></a>
+
 ### For organising events
 
 The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbiz'>Guide for Organising Events</a> provides event organisers with tools to navigate the process of organising events in Singapore such as e-Adviser for Events and Events Proposal Box.
 
 The Events Proposal Box allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for Sporting and MICE events are accepted.
 
-- <a href='https://eadviser.gobusiness.gov.sg/events/?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>For event organisers to find out the licences and permits needed to organise a physical event.
+- <a href='https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>For event organisers to find out the licences and permits needed to organise a physical event.
 
 - <a href='https://go.gov.sg/z6he6v' target='_blank' rel='noopener'>Proposal Box for MICE Event</a><br>Submit a proposal for an innovative MICE event that positions Singapore as the choice destination for business tourism. For proposals that include a request for government funding, please find out more about <a href='https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/assistance-and-licensing.html' target='_blank' rel='noopener'>STB's various assistance schemes</a>.
 

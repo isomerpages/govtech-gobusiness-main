@@ -1,15 +1,16 @@
 ---
-title: 'MEVO DMS 8.3'
+title: 'U Ventures XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution921
 ---
 
-## MEVO DMS 8.3
+## U Ventures XERO
 
 ## Overview
 
 **Description**
 
-Since 2004, MEVO is a solution that specializes in helping wholesalers optimize their sales operation. With MEVO, wholesalers are able to sell more and capture orders more effectively with leaner manpower.
+XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
+is doing at any given time.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,10 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (1 User Bundle)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Standard (3 Users Bundle)</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (5 Users Bundle)</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO B2B Enterprise (8 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEVO DMS 8.3 - MEVO Sales Enterprise (10 Users Bundle)</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Mevo_20220020_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +37,7 @@ Since 2004, MEVO is a solution that specializes in helping wholesalers optimize 
 
 ## Vendor Information
 
- Company Name: MEVO Pte Ltd<br>Web URL: www.mevo.com.sg <br><br>Contact Hotline: 67739048 <br><br>Contact Email: enquiries@mevo.com.sg <br><br>
+ Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

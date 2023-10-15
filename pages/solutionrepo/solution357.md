@@ -1,15 +1,15 @@
 ---
-title: 'XERO'
+title: 'Eurostop Omni-Channel Retail Management System Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution357
 ---
 
-## XERO
+## Eurostop Omni-Channel Retail Management System Version 10
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Xero is a cloud-based accounting software that connects people with the right nu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO - Cloud Accounting Software- Aspire Starter Plan A</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Basic Plan B</td>
-<td style='padding: 10px;'>$1,820.00</td>
-<td style='padding: 10px;'>$1,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Advance Plan C</td>
-<td style='padding: 10px;'>$2,460.00</td>
-<td style='padding: 10px;'>$2,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Super Plan D</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO -Cloud Accounting Software- Aspire Wonderful Plan E</td>
-<td style='padding: 10px;'>$4,385.00</td>
-<td style='padding: 10px;'>$4,385.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Clooud_Consulting_20200791_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Vendor Information
 
- Company Name: Clooud Consulting LLP<br>Web URL: www.xero.com <br><br>Contact Hotline: 97592364 <br><br>Contact Email: info@clooudconsulting.com <br><br>
+ Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

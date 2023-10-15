@@ -1,15 +1,15 @@
 ---
-title: 'Detrack'
+title: 'DM IPRO Dezign Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution502
 ---
 
-## Detrack
+## DM IPRO Dezign Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Detrack is a cloud-based real-time vehicle tracking and electronic proof of delivery (e-POD) solution with the use of just an Android or iPhone. Detrack not only offers full visibility of your delivery fleet, but it also lets you keep track of the status of every delivery job and helps you notify your customers of the progress in real-time, so they won't have to keep calling your customer hotline. Our solution has proven to help companies cut manpower and operations costs by up to 90%.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] The digital marketing solutions could help SMEs to achieve 50-80% improvement in brand exposure, lead generation and sales conversion on digital channels, including Social Media (Facebook & Instagram) and Search Engine (Google organic search & Ads). The solutions cover objective definition to market research, strategy development & execution, as well as review & improvement. To ensure sustainability, training will be provided to equip SMEs with the right mindset and skills in digital marketing.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 1 - (SEM + SMA) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles</td>
-<td style='padding: 10px;'>$6,375.00</td>
-<td style='padding: 10px;'>$6,375.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 2 - (SEO + SMA) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 20 Vehicles</td>
-<td style='padding: 10px;'>$10,125.00</td>
-<td style='padding: 10px;'>$10,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 10 Vehicles</td>
-<td style='padding: 10px;'>$9,125.00</td>
-<td style='padding: 10px;'>$9,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 20 Vehicles</td>
-<td style='padding: 10px;'>$15,250.00</td>
-<td style='padding: 10px;'>$15,250.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM IPRO Dezign Digital Marketing Packages - Package 3 - (SEO + SEM) - [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Detrack Systems Pte. Ltd.<br>Web URL: https://www.detrack.com <br><br>Contact Hotline: 68440509 <br><br>Contact Email: sales@detrack.com <br><br>
+ Company Name: IPRO DEZIGN PTE LTD<br>Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br><br>Contact Hotline: 69147727 <br><br>Contact Email: admin@iprodezign.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

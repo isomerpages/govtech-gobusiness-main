@@ -1,15 +1,15 @@
 ---
-title: 'Evolvecloud'
+title: 'DM SBC Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution826
 ---
 
-## Evolvecloud
+## DM SBC Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, collaborating & organizing work, allowing flexi-work arrangement deployment effectively. With audit trails and access control, information security is enhanced. Evolvecloud's user-centric interface provides the tools for remote and off-premises real-time collaboration within the organization. Evolvecloud supports full compliance with USA HIPAA, EU GDPR, EU Cybersecurity Act, Clause 14 of ISO27001 & SG PDPA.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package I</td>
-<td style='padding: 10px;'>$7,180.00</td>
-<td style='padding: 10px;'>$6,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package II</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'>$8,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package III</td>
-<td style='padding: 10px;'>$13,760.00</td>
-<td style='padding: 10px;'>$11,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package IV</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'>$13,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package V</td>
-<td style='padding: 10px;'>$20,540.00</td>
-<td style='padding: 10px;'>$15,860.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
+<td style='padding: 10px;'>$10,900.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/StoryBox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, 
 
 ## Vendor Information
 
- Company name:K&K IT Private Limited<br>Web URL: https://knkit.sg/evolvecloud/ <br>Contact Hotline: 68020447 <br>Contact Email: admin@knkit.sg 
+ Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

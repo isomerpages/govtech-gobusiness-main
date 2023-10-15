@@ -1,15 +1,15 @@
 ---
-title: '(SaaS) JustLogin HR Cloud'
+title: 'StaffAny'
 permalink: /productivity-solutions-grant/solutionrepo/solution821
 ---
 
-## (SaaS) JustLogin HR Cloud
+## StaffAny
 
 ## Overview
 
 **Description**
 
-JustLogin is a cloud-based Human Resource Management solution that comes with a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Employees can also utilize the JustLogin mobile application to access the HR services from anywhere.
+StaffAny helps businesses in the blue collar workforce optimize their scheduling and HR administration through the integrated scheduling and time tracking mobile and web application. In addition to managing hourly workers, StaffAny tracks staff performance and automates end-of-month timesheet consolidations. With StaffAny, businesses can better performances, cut operating costs, and make time to do what matters to them the most.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (25 Users)</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - B (Up to 50 pax)</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (50 Users)	</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'>$19,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (100 Users)</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - D (Up to 150 pax)</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (150 Users)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/JustLogin_Desensitised_Annex_3_wef_7_July_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (200 Users)</td>
+<td style='padding: 10px;'>$19,000.00</td>
+<td style='padding: 10px;'>$18,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Staffany_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ JustLogin is a cloud-based Human Resource Management solution that comes with a 
 
 ## Vendor Information
 
- Company Name: JustLogin Pte Ltd<br>Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
+ Company name:Staffany Private Limited<br>Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
