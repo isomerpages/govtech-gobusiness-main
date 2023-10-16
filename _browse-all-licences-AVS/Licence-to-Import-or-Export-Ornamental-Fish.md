@@ -8,23 +8,15 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-{% include spcp-text.html type="cp" %}
+<p>Due to system maintenance, this application will not be available from 18 Oct 2023 1600hrs to 23 Oct 2023 0800hrs.</p>
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000140" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000140" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
 <H3>Application Details</H3>
 
 <p>The Licence to Import or Export Ornamental Fish is issued by Animal and Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
- <h3>FAQs</h3>
- <ol>
- <li><strong>Where can I get the FAQ for Licence for Import & Export of Ornamental Fish?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish</a></li>
- </ol>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get the FAQ for Licence for Import & Export of Ornamental Fish?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/import-export-and-transhipment-of-other-animals/ornamental-fish</a></li>
+</ol>
 
 <strong>Additional Information</strong>
 
@@ -33,12 +25,12 @@ Animal & Veterinary Service (AVS)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Floor Plan</strong><br />Floor plan of the packing premise designated for import or export activity of ornamental fish<br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Others</strong><br />Additional Supporting Documents<br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
- </ul>
+<li><strong>Floor Plan</strong><br />Floor plan of the packing premise designated for import or export activity of ornamental fish<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Others</strong><br />Additional Supporting Documents<br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+</ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 
