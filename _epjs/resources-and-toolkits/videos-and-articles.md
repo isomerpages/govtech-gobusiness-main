@@ -46,7 +46,7 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/watch?v=EYuo6F6YbhA" title="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/EYuo6F6YbhA" title="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
 [Find more videos at our SkillsFuture Youtube page](https://www.youtube.com/c/skillsfuturesg){:target="_blank"}{:rel="noopener"}
