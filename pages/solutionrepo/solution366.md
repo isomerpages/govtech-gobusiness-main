@@ -1,15 +1,15 @@
 ---
-title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
+title: 'FidCorp Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution366
 ---
 
-## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
+## FidCorp Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
+FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is committed to providing quality products and services to business owners. As the winner of the Xero Singapore Emerging Accounting Partner of the Year Award for FY2022, FidCorp present FidCorp Xero Accounting Software to business owners so that they have more ME time with Xero simplifying their everyday business tasks! As always, FidCorp believe in retaining a personal touch while leveraging technology to deliver cost-eff
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full v
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
-<td style='padding: 10px;'>$16,300.00</td>
-<td style='padding: 10px;'>$14,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'>$27,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
+<td style='padding: 10px;'>$2,164.00</td>
+<td style='padding: 10px;'>$2,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
+<td style='padding: 10px;'>$2,564.00</td>
+<td style='padding: 10px;'>$2,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
+<td style='padding: 10px;'>$4,264.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
+ Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

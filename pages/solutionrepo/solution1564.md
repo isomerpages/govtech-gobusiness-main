@@ -1,15 +1,17 @@
 ---
-title: 'AIMS'
+title: 'DST E-Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1564
 ---
 
-## AIMS
+## DST E-Commerce
 
 ## Overview
 
 **Description**
 
-Tunity Asset Inventory Management is an established and stable solution for SMEs embarking on their Digitalization Journey. Leveraging on RFID technology, robust hardware and a "tried and tested" Management Software, the solution was curated to help SMEs of various industries to effectively manage their assets/inventories. RFID allows for bulk reading of tagged assets/inventories within seconds at a meaningful distance. Increase productivity, accountability, visibility & control.
+The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
+
+WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +25,17 @@ Tunity Asset Inventory Management is an established and stable solution for SMEs
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tunity Asset Inventory Management System (Interface)</td>
-<td style='padding: 10px;'>$16,050.00</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tunity_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simple Package</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +45,7 @@ Tunity Asset Inventory Management is an established and stable solution for SMEs
 
 ## Vendor Information
 
- Company name:TUNITY TECHNOLOGIES PTE. LTD.<br>Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com 
+ Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

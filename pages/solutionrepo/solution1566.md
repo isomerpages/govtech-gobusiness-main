@@ -1,16 +1,15 @@
 ---
-title: 'U Ventures XERO'
+title: 'Athena E-Store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1566
 ---
 
-## U Ventures XERO
+## Athena E-Store Solution
 
 ## Overview
 
 **Description**
 
-XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
-is doing at any given time.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,17 @@ is doing at any given time.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
 <td style='padding: 10px;'>$3,000.00</td>
 <td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +43,7 @@ is doing at any given time.
 
 ## Vendor Information
 
- Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/ <br>Contact Hotline: 88663438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'MEGAPOS'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution967
 ---
 
-## MEGAPOS
+## EzySalesOrder Version 3.0
 
 ## Overview
 
 **Description**
 
-MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
+Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
-<td style='padding: 10px;'>$5,180.00</td>
-<td style='padding: 10px;'>$4,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
-<td style='padding: 10px;'>$6,730.00</td>
-<td style='padding: 10px;'>$6,430.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
-<td style='padding: 10px;'>$7,230.00</td>
-<td style='padding: 10px;'>$6,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
-<td style='padding: 10px;'>$6,190.00</td>
-<td style='padding: 10px;'>$5,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
+<td style='padding: 10px;'>$19,780.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

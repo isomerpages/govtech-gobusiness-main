@@ -185,7 +185,7 @@
           color: #02737D;
           display: inline-block;
           vertical-align: middle;
-          margin-left: 8px;">
+          margin-left: 2px;">
           NEW!
           </span>{% endif %}
         </a>
@@ -226,6 +226,25 @@
         {% if {{hpgCard.href_4}} %}
         <a href="{{hpgCard.href_4}}" class="hpgCard__link" target="{% if {{hpgCard.target_4}} %}{{hpgCard.target_4}}{% else %}_self{% endif %}" rel="noopener">{{hpgCard.text_4}}
           {% if {{hpgCard.is_new_4}} %}
+          <span style="background: #E6F2F3;
+          border-radius: 3px;
+          width: 53px;
+          height: 22px;
+          padding: 2px 8px;
+          font-family: hknova-bold;
+          font-size: 12px;
+          line-height: 18px;
+          color: #02737D;
+          display: inline-block;
+          vertical-align: middle;
+          margin-left: 8px;">
+          NEW!
+          </span>{% endif %}
+        </a>
+        {% endif %}
+        {% if {{hpgCard.href_5}} %}
+        <a href="{{hpgCard.href_5}}" class="hpgCard__link" target="{% if {{hpgCard.target_5}} %}{{hpgCard.target_5}}{% else %}_self{% endif %}" rel="noopener">{{hpgCard.text_5}}
+          {% if {{hpgCard.is_new_5}} %}
           <span style="background: #E6F2F3;
           border-radius: 3px;
           width: 53px;

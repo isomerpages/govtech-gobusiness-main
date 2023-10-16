@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'RavenPOS Personal Wellness Management System Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution635
 ---
 
-## EPOS Marketing AI Version 1.0
+## RavenPOS Personal Wellness Management System Version 12
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+RAVENPOS wellness management system helps to manage and automate crucial business operation in the beauty and wellness industry. From session and credit packages, commission, inventory, appointment to customer management; the solution frees up resources, boosts revenue and increases productivity to scale the business
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Basic</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Standard</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Advance</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Professional</td>
+<td style='padding: 10px;'>$12,500.00</td>
+<td style='padding: 10px;'>$12,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Enterprise</td>
+<td style='padding: 10px;'>$13,250.00</td>
+<td style='padding: 10px;'>$13,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,23 +1,15 @@
 ---
-title: 'Eminet Sophos XGS Firewall'
+title: 'MuRho Inventory Management & Sales Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution589
 ---
 
-## Eminet Sophos XGS Firewall
+## MuRho Inventory Management & Sales Management System
 
 ## Overview
 
 **Description**
 
-Sophos XGS Cybersecurity Solution that provides :
-(i) Network Firewall
-(ii) Intrusion Detection/Prevention System
-(iii) Virtual Private Network (VPN)
-(iv) Secure Web Gateway (e.g. URL filtering, content filtering)
-(v) Secure Email Gareway (e.g. anti-spam, content filtering)
-(vi) Anti-Virus/Anti-Malware
-(vii) Application Control
-(viii) Sandboxing
+MuRho is a leading home-grown provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Order N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -31,31 +23,24 @@ Sophos XGS Cybersecurity Solution that provides :
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 116</td>
-<td style='padding: 10px;'>$1,670.00</td>
-<td style='padding: 10px;'>$1,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack A  (SaaS with hardware)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 136</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack B  (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2100</td>
-<td style='padding: 10px;'>$3,862.00</td>
-<td style='padding: 10px;'>$3,862.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eminet Sophos XGS Firewall - XGS 2300</td>
-<td style='padding: 10px;'>$5,168.00</td>
-<td style='padding: 10px;'>$5,168.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Eminet_Annex_3_CR_wef_6_Jan_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MuRho Inventory Management & Sales Management System - Starter Pack C (Perpetual license on cloud with hardware)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Murho_Invt_and_sales_20210525_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +50,7 @@ Sophos XGS Cybersecurity Solution that provides :
 
 ## Vendor Information
 
- Company Name: EMINET PTE LTD<br>Web URL: www.eminet.com.sg <br><br>Contact Hotline: 66019898 <br><br>Contact Email: charles@eminet.com.sg <br><br>
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br><br>Contact Hotline: 62893802 <br><br>Contact Email: sales@murho.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

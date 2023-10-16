@@ -1,15 +1,17 @@
 ---
-title: 'MTWO Version 5.1'
+title: 'SAP Business One'
 permalink: /productivity-solutions-grant/solutionrepo/solution1284
 ---
 
-## MTWO Version 5.1
+## SAP Business One
 
 ## Overview
 
 **Description**
 
-MTWO Construction Cloud is an enterprise level platform aiming to help companies in the build environment sector increase efficiency, drive sustainability and ultimately achieve digital transformation. The platform connects all project stakeholders in one platform to enable real-time project control. The platform connects 3D BIM model with 4D project time and 5D project cost to enable time-cost optimization, and execute BIM based tendering and procurement.
+AFON is the award-winning (Top SAP Partner in Singapore, Enterprise E50 Award by KPMG etc.) ERP consultancy in Singapore, that helps fast-growing businesses improve financial and operational efficiencies through ERP, analytics, and industry-centric solutions.
+
+SAP Business One is an enterprise resource planning software designed for SMEs, by world No. 1 ERP brand leader SAP. It automates and streamlines key business functions in financials, operations, sales, and human resources together.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,48 @@ MTWO Construction Cloud is an enterprise level platform aiming to help companies
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 10-User Package</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 3 Subscription Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$27,216.00</td>
+<td style='padding: 10px;'>$22,716.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO Perpetual 5-User Package</td>
-<td style='padding: 10px;'>$36,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 3 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$29,853.00</td>
+<td style='padding: 10px;'>$25,353.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MTWO 15-User Package</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RIB_International_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 5 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$54,336.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>On-Premise - 5 Perpetual Users with Remote Access and PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$56,985.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HANA Cloud - 7 Perpetual Users with PEPPOL (Unlimited Invoices)</td>
+<td style='padding: 10px;'>$65,998.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AFON_Technologies_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Web URL: www.mtwocloud.com/demo-request <br>Contact Hotline: 81239954 <br>Contact Email: mtwocloud@rib-software.com<br>
+ Company name:AFON Technologies Pte Ltd<br>Web URL: https://www.afon.com.sg/erp/sap-business-one <br>Contact Hotline: 63230901 <br>Contact Email: sales-enquiry@afon.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

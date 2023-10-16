@@ -8,6 +8,8 @@ third_nav_title: Licences and Permits
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
+{% include banner-improve-eadviser.html %}
+
 {% include overview.html anchorlinks=site.data.ov002-licence %}
 
 ----
@@ -45,6 +47,17 @@ Returns are additional information you may need to submit for certain licences. 
 After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
 
 {% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
+
+----
+
+<a name="verify-licence-or-accreditation"></a>
+
+### Verify an entity’s licence or accreditation
+
+Find out if a company or person has a specific licence or accreditation by doing a search with our tools below.
+
+{% include panels-featurelink.html panels=site.data.rgp004a_licences-verify %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

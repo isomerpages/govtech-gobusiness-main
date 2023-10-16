@@ -1,17 +1,17 @@
 ---
-title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
+title: 'DM Duo Studio Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution308
 ---
 
-## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80
+## DM Duo Studio Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
+Duo Studio is a local independent creative agency established in 2015 by founder and creative director, Stephanie Phua. Today, Duo is made up of 20+ young and nimble members in Singapore and Malaysia.
 
-BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
+Duo Studio provides SMEs with end-to-end social media marketing and advertising services which includes digital assets creation for campaigns based on the right strategy aimed at improving the business's revenue so as to provide a high ROI and ROAS.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +25,17 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 50</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$19,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 1 - SMA Facebook and SMA Instagram Static Package [3 months]</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'>$8,424.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 100</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 -  LITE 150</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80 - LITE 200</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Duo Studio Digital Marketing Packages - Package 2 - SMA Facebook and SMA Instagram Video package [3 months]</td>
+<td style='padding: 10px;'>$12,642.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Duo_studio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +45,7 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 
 ## Vendor Information
 
- Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
+ Company Name: Duo Studio Pte. Ltd.<br>Web URL: www.duo.social <br>Contact Hotline: +65 91714770<br>Contact Email: hello@duo.social <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

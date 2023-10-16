@@ -28,12 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution159' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution89' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
 <td>Airsquire Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1056' target='_blank'>eBIS Version V1.0</a><br></td>
-<td>NEWGENE TECHNOLOGIES PTE LTD</td>
 </tr>
 </table>
 

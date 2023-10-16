@@ -1,15 +1,15 @@
 ---
-title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
+title: 'Smart Glasses - InnoGlas'
 permalink: /productivity-solutions-grant/solutionrepo/solution487
 ---
 
-## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
+## Smart Glasses - InnoGlas
 
 ## Overview
 
 **Description**
 
-Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
+InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
+<td style='padding: 10px;'>$8,420.00</td>
+<td style='padding: 10px;'>$7,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 75/20</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
+<td style='padding: 10px;'>$14,740.00</td>
+<td style='padding: 10px;'>$12,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
+<td style='padding: 10px;'>$21,060.00</td>
+<td style='padding: 10px;'>$18,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
+<td style='padding: 10px;'>$15,240.00</td>
+<td style='padding: 10px;'>$13,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
+<td style='padding: 10px;'>$35,560.00</td>
+<td style='padding: 10px;'>$20,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

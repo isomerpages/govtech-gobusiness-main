@@ -1,15 +1,15 @@
 ---
-title: 'AIO CRM'
+title: 'AZ Digital POS solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution158
 ---
 
-## AIO CRM
+## AZ Digital POS solution
 
 ## Overview
 
 **Description**
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate your business process. The software provides in-depth customer management features which are integrated seamlessly with the sales functions to improve overall productivity for your daily business operations. It also includes expense features to capture your spending to provide an overview of your entire business operations in terms of income and expense.
+AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM - AIO CRM </td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_20210289_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Basic)</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Standard)</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (POSWORKS Standard)</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Premium)</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (POSWORKS Premium Plus)</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$7,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ## Vendor Information
 
- Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br><br>Contact Hotline: 96796966 <br><br>Contact Email: sales@aio-interactive.com <br><br>
+ Company Name: AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br><br>Contact Hotline: 67451147 <br><br>Contact Email: sales@azdigital.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-E-sched
 ## Human Resource E-scheduling System
 ## Overview
 
+**Description**
+
+Track overall scheduling of employees, generate attendance and overtime reports and push notifications to employees on their work shifts.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,28 +32,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution598' target='_blank'>QuickHR (eScheduling)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution338' target='_blank'>QuickHR (eScheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution877' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution520' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1147' target='_blank'>TimeCentral Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution683' target='_blank'>TimeCentral Version 11</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1418' target='_blank'>StaffAny</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution821' target='_blank'>StaffAny</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1526' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution893' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1645' target='_blank'>WhyzeHR eScheduling</a><br></td>
-<td>Whyze Solutions Pte Ltd</td>
 </tr>
 </table>
 

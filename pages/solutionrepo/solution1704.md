@@ -1,15 +1,15 @@
 ---
-title: 'Zeemart Supplier Hub'
+title: 'BlueMeg Console Version NA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1704
 ---
 
-## Zeemart Supplier Hub
+## BlueMeg Console Version NA
 
 ## Overview
 
 **Description**
 
-Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their B2B customers by streamlining activities such as ordering, invoicing, and online payment efficiently. Available on both the web and mobile, wholesalers can easily automate tedious daily tasks, reduce errors and increase their customer service levels to modernise and grow their business.
+The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Zeemart Supplier Hub provides wholesalers an all-in-one platform to manage their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Lite</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'>$8,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Pro</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zeemart Supplier Hub - Enterprise</td>
-<td style='padding: 10px;'>$29,500.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zeemart_Desensitised_Annex_3_21_July_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Zeemart Pte Ltd<br>Web URL: www.zeemart.asia <br>Contact Hotline: +6565198064 <br>Contact Email: enquiry@zeemart.asia 
+ Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

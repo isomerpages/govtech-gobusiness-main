@@ -1,15 +1,17 @@
 ---
-title: 'Microsoft Cybersecurity Package'
+title: 'Crystal Dash CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution270
 ---
 
-## Microsoft Cybersecurity Package
+## Crystal Dash CRM
 
 ## Overview
 
 **Description**
 
-This managed security service leverages the power of Microsoft's integrated threat protection solution that protect your devices and office 365 email against advanced threats such as credential phishing, ransomware and malware. With an "assume breach" mindset and AI-driven adaptive protection, behavioral cyber telemetry is continuously collected so as to prevent, detect, respond and recover automatically against advanced threats near real-time. Axiom will deploy the solution and support you.
+Crystal Dash CRM enables SMEs and MNCs to easily configure process work flows for sales, customer service to operational teams. It can be scaled effectively to meet the needs of every unique industry, with multi-country expansion support and remote working capabilities. Integrate with omni-channel communication from calls, emails, WhatsApp.
+
+Crystal Dash is built for the modern day CRM with less clicks and more automation to make staff happier and increase revenue.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,24 @@ This managed security service leverages the power of Microsoft's integrated thre
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
-<td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (3 Users)</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
-<td style='padding: 10px;'>$4,650.00</td>
-<td style='padding: 10px;'>$4,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (6 Users)</td>
+<td style='padding: 10px;'>$8,920.00</td>
+<td style='padding: 10px;'>$8,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
-<td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
-<td style='padding: 10px;'>$20,750.00</td>
-<td style='padding: 10px;'>$20,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
-<td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional Edition (3 Users)</td>
+<td style='padding: 10px;'>$9,460.00</td>
+<td style='padding: 10px;'>$9,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Crystal_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +52,7 @@ This managed security service leverages the power of Microsoft's integrated thre
 
 ## Vendor Information
 
- Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
+ Company name:Crystal Net Pte Ltd<br>Web URL: https://www.crystaldash.com/ <br>Contact Hotline: 67278111 <br>Contact Email: info@crystaldash.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

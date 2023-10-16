@@ -1,15 +1,15 @@
 ---
-title: 'iTrack Vehicle Fleet Tracking'
+title: 'Taidii Smart Data Analytics for Child Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1166
 ---
 
-## iTrack Vehicle Fleet Tracking
+## Taidii Smart Data Analytics for Child Development
 
 ## Overview
 
 **Description**
 
-Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,20 @@ Solution is powered by CalAmp with more than 20 million products globally, award
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'>$680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

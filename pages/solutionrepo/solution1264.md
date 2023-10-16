@@ -1,15 +1,15 @@
 ---
-title: 'Eset Protect Entry'
+title: 'DM Fier Capital Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1264
 ---
 
-## Eset Protect Entry
+## DM Fier Capital Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
+ Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

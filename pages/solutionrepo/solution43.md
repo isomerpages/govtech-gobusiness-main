@@ -1,15 +1,15 @@
 ---
-title: 'ABA - Xero Accounting Software'
+title: 'Accounts101 - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution43
 ---
 
-## ABA - Xero Accounting Software
+## Accounts101 - Xero
 
 ## Overview
 
 **Description**
 
-Abundant Accounting Pte Ltd is a leading digital sales and accounting solution provider for 9 years. the Company is a Xero Gold Partner and Advisor and it has helped more than 400 businesses to implement Xero solutions successfully where the operational processes ranging from purchase order, sales quotation, invoices, inventory tracking to financial accounting and GST reporting has been automated and streamlined. Many businesses have benefited from the digitalisation by Abundant Accounting.
+Xero is a cloud-based online accounting software that is simple to use and and be access anywhere & anytime. It allows unlimited users, invoice creation,  track cashflow, billing, bank reconciliation, expenses, inventory etc.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Abundant Accounting Pte Ltd is a leading digital sales and accounting solution p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription </td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$3,064.00</td>
+<td style='padding: 10px;'>$3,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales and Accounting Module Set up </td>
-<td style='padding: 10px;'>$3,420.00</td>
-<td style='padding: 10px;'>$3,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset</td>
+<td style='padding: 10px;'>$3,764.00</td>
+<td style='padding: 10px;'>$3,707.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales, Accounting and Inventory Module</td>
-<td style='padding: 10px;'>$4,820.00</td>
-<td style='padding: 10px;'>$4,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset & Inventory</td>
+<td style='padding: 10px;'>$5,264.00</td>
+<td style='padding: 10px;'>$5,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup with detailed migration</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup and full data conversion</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'>$10,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Abundant_Accounting_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset, Inventory & Reporting</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Abundant Accounting Pte Ltd is a leading digital sales and accounting solution p
 
 ## Vendor Information
 
- Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg 
+ Company name:Accounts101 Pte Ltd<br>Web URL: https://www.accounts101.com.sg/ <br>Contact Hotline: 90844008 <br>Contact Email: admin@accounts101.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

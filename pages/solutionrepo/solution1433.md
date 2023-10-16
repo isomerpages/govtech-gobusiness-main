@@ -1,15 +1,15 @@
 ---
-title: 'SUNTOYO POS SOLUTION Version 8.1'
+title: 'PixelCommerce Version 5.9.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1433
 ---
 
-## SUNTOYO POS SOLUTION Version 8.1
+## PixelCommerce Version 5.9.3
 
 ## Overview
 
 **Description**
 
-Suntoyo POS solution is an all-in-one platform that runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides straightforward cloud-based backend management software with functions specially designed for quick adaptation to end-users. Discover new ways to automate customer orders, transform transaction processing method, gather business insights, manage inventory, and create loyalty memberships campaigns.
+PixelCommerce is a tailored eCommerce website solution for SMEs to go online and thrive in the digital economy. Enabling businesses to sell directly to customers anytime, anywhere - effortlessly, PixelCommerce is a proven solution that has been implemented for hundreds of SMEs over the years.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - Software Only</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fast</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Tablet</td>
-<td style='padding: 10px;'>$4,760.00</td>
-<td style='padding: 10px;'>$4,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management and barcode label Module</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lego</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Suntoyo POS solution is an all-in-one platform that runs on a professional-grade
 
 ## Vendor Information
 
- Additional criteria: <br>Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

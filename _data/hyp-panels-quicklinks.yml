@@ -5,7 +5,7 @@ panels:
     links:
       - text: Guide for Organising Events
         href: /gobiz-guides/guide-for-organising-events/?src=eservices
-        is_new: true
+        is_new: false
       - text: "e-Adviser for Skills Training"
         href: https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices
         target: _blank
@@ -20,7 +20,7 @@ panels:
         href: https://eadviser.gobusiness.gov.sg/startabusiness?src=eservices
         target: _blank
       - text: e-Adviser for Government Assistance
-        href: https://eadviser.gobusiness.gov.sg/govassist/?src=eservices
+        href: https://eadviser.gobusiness.gov.sg/govassist?src=eservices
         target: _blank
     info-text: <a class="panel-content-links underline" href="/e-services/guides-for-biz/?src=eservices">View all guides for businesses</a>
   - title: For Licences
@@ -45,7 +45,16 @@ panels:
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices
         target: _blank
-  - title: For Covid-19
+      - text: Verify an entity's licence
+        href: https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices
+        target: _blank
+        is_new: true
+  - title: Emergency Preparedness
     image: /images/Covid.svg
     alt: ""
-    text-only: Onsite manpower declaration is no longer required.<br><br>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
+    links:
+      - text: Haze
+        href: /haze/?src=eservices
+        is_new: false
+      - text: Covid-19
+        href: /covid/?src=eservices

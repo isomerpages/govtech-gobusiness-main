@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution48' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution29' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution472' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution273' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution824' target='_blank'>Autodesk AEC Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution475' target='_blank'>Autodesk AEC Collection</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 </table>

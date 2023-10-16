@@ -1,46 +1,34 @@
 ---
-title: 'OS Store E-Commerce'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1126
 ---
 
-## OS Store E-Commerce
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Standard</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Pro</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Premium</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>Mandatory Specification:<br>- Minimum water tank capacity of 15 litres</td>
 </tr>
 </table>
 
@@ -48,10 +36,6 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Orfeostory Pte Ltd <br>Web URL: https://www.orfeostory.com/psg/<br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,60 +1,30 @@
 ---
-title: 'Netpluz Managed Firewall'
+title: 'Portable Automatic Gas Cutting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1021
 ---
 
-## Netpluz Managed Firewall
+## Portable Automatic Gas Cutting Machine
 
 ## Overview
 
 **Description**
 
-Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
+Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+
+Cost of equipment capped at $6,250 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 126 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 136 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'>$2,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sophos XGS - Sophos XGS 2300 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Sophos XGS - Sophos XGS 3100 Sophos Standard Protection - 12 Months</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Netpluz_Annex3_CR_wef_13_Oct22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
 </tr>
 </table>
 
@@ -62,10 +32,6 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Netpluz Asia Pte Ltd<br>Web URL: www.netpluz.asia <br><br>Contact Hotline: 68058998 <br><br>Contact Email: contact@netpluz.asia <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

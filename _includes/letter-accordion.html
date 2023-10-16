@@ -85,6 +85,69 @@
   ul.jekyllcodex_accordion li:hover label {
       color: #037E8A;
   }
+
+  /*****************Codes below are for Mobile Notice Panel*****************/
+
+  #main-content a.primary-btn {
+    font-family: hknova-regular;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding: 12.5px 24px;
+    border: 1px solid #037e8a;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #037e8a;
+    font-size: 18px;
+    line-height: 27px;
+    height: fit-content;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-bottom: 0px;
+    cursor: pointer;
+  }
+
+  #main-content a.primary-btn:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  #main-content a.primary-btn:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  #main-content a.primary-btn:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
+
+  /* Mobile View, Hide Green Button and show Grey Notice */
+  @media only screen and (max-width: 768px) {
+    #main-content #desktopNotice {
+      display: none;  
+      width: 0px;
+      height: 0px;
+      margin: 0;
+      overflow: 0;
+      border: 0;
+      padding: 0;
+    }
+  }
+
+  /* Desktop View, Show Green panel and hide Grey Notice*/
+  @media (min-width: 768px) {
+    #main-content #mobileNotice {
+        display: none;
+        height: 0px;
+        width: 0px;
+    }
+  }
+
 </style>
 
 <ul class="jekyllcodex_accordion">

@@ -1,15 +1,15 @@
 ---
-title: 'SHOPLINE e-Commerce Solution'
+title: 'Synergix Sales, Accounting, Inventory'
 permalink: /productivity-solutions-grant/solutionrepo/solution1350
 ---
 
-## SHOPLINE e-Commerce Solution
+## Synergix Sales, Accounting, Inventory
 
 ## Overview
 
 **Description**
 
-SHOPLINE provides extensive e-commerce support: inventory management, payment and logistics services, and marketing and CRM tools. We also provide analytics and reports and connect to a variety of digital marketing tools and platforms so that merchants can visualize their performance. Apart from online services, SHOPLINE offers an effective omni-channel retail solution for merchants to build a digital customer experience on top of their physical business.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ SHOPLINE provides extensive e-commerce support: inventory management, payment an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce (SCALE) + Digital Marketing (Basic)</td>
-<td style='padding: 10px;'>$3,649.00</td>
-<td style='padding: 10px;'>$3,369.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopline20200902_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (5 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$53,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce (PRO) + Digital Marketing (Basic)</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,319.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopline20200902_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce & O2O + Digital Marketing (Basic)</td>
-<td style='padding: 10px;'>$3,998.00</td>
-<td style='padding: 10px;'>$3,718.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopline20200902_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Advanced Ecommerce & O2O (ALL IN ONE) + Digital Marketing (Basic) </td>
-<td style='padding: 10px;'>$4,958.00</td>
-<td style='padding: 10px;'>$4,678.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopline20200902_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SHOPLINE e-Commerce Solution - Customized eCommerce Website Development Package + Digital Marketing (Advanced)</td>
-<td style='padding: 10px;'>$11,558.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopline20200902_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (10 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$74,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ SHOPLINE provides extensive e-commerce support: inventory management, payment an
 
 ## Vendor Information
 
- Company Name: Shopline Commerce Pte Ltd<br>Web URL: www.shoplineapp.sg <br><br>Contact Hotline: 93855186 <br><br>Contact Email: support.sg@shoplineapp.com <br><br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

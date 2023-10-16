@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'Aptsys - Digital Ordering Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution1378
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## Aptsys - Digital Ordering Solutions
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+Aptsys Customer Mobile Self Ordering with online payment and Delivery is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Customer Relation Management System Version 2.0</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment Version 2.0 Package A</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery Version 2.0 Package B</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Self Ordering with Payment and Delivery with CRM Version 2.0</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aptsys_Digital_Ordering_Sol_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
+ Company name:Aptsys Technology Solutions Pte Ltd<br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 94574484<br>Contact Email: sales.demo@aptsys.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

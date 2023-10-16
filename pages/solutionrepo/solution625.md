@@ -1,22 +1,15 @@
 ---
-title: 'EPOS Enhanced POS Version 2.0'
+title: 'Simplify Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution625
 ---
 
-## EPOS Enhanced POS Version 2.0
+## Simplify Version 1
 
 ## Overview
 
 **Description**
 
-EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-- Simple and easy to use for cashiers. 
-- Full-featured CRM
-- Powerful Promotions engine
-- Inventory management
-- Ecommerce integration 
-- Accounting integration 
-- E-payments, QR payment, credit card, NETS
+Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
 
 ## Solution Packages Option(s)
 
@@ -30,48 +23,48 @@ EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_23.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
+<td style='padding: 10px;'>$17,300.00</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_45.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
+<td style='padding: 10px;'>$27,500.00</td>
+<td style='padding: 10px;'>$24,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 - Tablet)</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_6.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
+<td style='padding: 10px;'>$33,500.00</td>
+<td style='padding: 10px;'>$30,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
+<td style='padding: 10px;'>$36,500.00</td>
+<td style='padding: 10px;'>$32,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br><br>Contact Hotline: 68718833 <br><br>Contact Email: sales@epos.com.sg <br><br>
+ Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

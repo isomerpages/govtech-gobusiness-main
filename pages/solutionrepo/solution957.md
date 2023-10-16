@@ -1,16 +1,15 @@
 ---
-title: 'MEGAPOS Beauty & Wellness'
+title: 'DM Supermom Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution957
 ---
 
-## MEGAPOS Beauty & Wellness
+## DM Supermom Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
-Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
+Supermom provides effective digital marketing solutions for SME clients that are in trend with best practices of digital marketing efforts to reach target customers. These services range from lead generation campaigns to build first party data CRM, curated survey insights to better understand customers, influencer marketing to tap on the power of word of mouth marketing as well as email marketing. All packages include social media advertising services to enable maximum reach to target audience.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,41 @@ Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SI + SMA [3 Months]</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'>$8,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'>$6,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - EM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'>$9,470.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'>$7,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - IM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$10,540.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'>$10,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'>$14,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - LG + SMA [3 Months]</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company name:welovesupermom pte ltd<br>Web URL: WWW.WELOVESUPERMOM.COM <br>Contact Hotline: 91071849<br>Contact Email: INFO@WELOVESUPERMOM.COM
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

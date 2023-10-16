@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'Microsoft Cybersecurity Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution153
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## Microsoft Cybersecurity Package
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+This managed security service leverages the power of Microsoft's integrated threat protection solution that protect your devices and office 365 email against advanced threats such as credential phishing, ransomware and malware. With an "assume breach" mindset and AI-driven adaptive protection, behavioral cyber telemetry is continuously collected so as to prevent, detect, respond and recover automatically against advanced threats near real-time. Axiom will deploy the solution and support you.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_Desensitised_Annex_3_part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://www.aiidevelop.com.sg/psg-digital-marketing-grant/ <br>Contact Hotline: 88968305<br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

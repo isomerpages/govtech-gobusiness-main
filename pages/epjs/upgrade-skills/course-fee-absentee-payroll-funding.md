@@ -5,33 +5,41 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/course
 
 ### Lower the cost of skills training with funding support from the Government
 
-All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen and Permanent Resident employees for training courses funded by SSG.
+All locally registered or incorporated organisations in Singapore are eligible for course fee and absentee payroll funding when you sponsor your Singapore Citizen, Permanent Resident or [Long Term Visitor Pass Plus (LTVP+)](www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
+
+To qualify for course fee and absentee payroll funding, your employees must meet the following criteria:
+
+- Be Singapore Citizens, Singapore Permanent Residents or LTVP+ holders 
+
+- Trainee is not a full-time national serviceman
+
+- Courses have to be fully paid for by the employer
+
+Find out more about the subsidies and funding opportunities below.  
 
 ---
 
 ### A. Course Fee Funding
 
-Baseline course fee funding are available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and <a href="https://www.ssg.gov.sg/content/terms-and-conditions-for-individuals/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf" target="_blank" rel="noopener">Long Term Visitor Pass Plus (LTVP+)</a> employees for training courses funded by SSG.
+Baseline course fee funding is available to lower the cost when you sponsor your Singapore Citizen, Permanent Resident, and [Long Term Visitor Pass Plus (LTVP+)](www.skillsfuture.gov.sg/docs/default-source/resources/terms-conditions/enterprises-ssg-circular_rpd_2021_2_extension-of-funding-support-to-long-term-visit-pass-plus_ltvp-_holders.pdf) employees for training courses funded by SSG.
 
----
+As an employer, you can enjoy up to 70% subsidy of course fees for courses offered by SSG-appointed CET Centres, and up to 50% subsidy of course fees for certifiable courses approved by SSG.
 
-### Eligibility criteria:
+**Eligibility criteria:**
 
 - Your organisation must be registered or incorporated in Singapore
 
 - Non-business entities not registered with ACRA, such as Voluntary Welfare Organisations (VWOs) and societies are eligible
 
-- Sole proprietorships which meet all of the above criteria are also eligible
+- Sole proprietorships which meet all the above criteria are also eligible
 
 ---
 
 ### B. Enhanced Training Support for Small and Medium Enterprises (ETSS)
 
-If your organisation is a Small and Medium Enterprise (SME), you will receive up to 90% course fee funding.
+If your organisation is a Small and Medium Enterprise (SME), you will receive an enhanced subsidy of up to 20%-points above the baseline course fee subsidies. This means you can enjoy up to 90% in total course fee subsidies (inclusive of the enhanced funding), for courses with the strongest manpower outcomes.
 
----
-
-### Eligibility criteria:
+**Eligibility criteria:**
 
 - Your organisation must be registered or incorporated in Singapore
 
@@ -41,23 +49,23 @@ If your organisation is a Small and Medium Enterprise (SME), you will receive up
 
 - Non-business entities not registered with ACRA, such as VWOs and societies are eligible
 
-{% include secondary-btn.html href="https://www.ssg.gov.sg/programmes-and-initiatives/training/enhanced-training-support-for-smes.html" text="Read More" target="_blank" rel="noopener" %}
+{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/funding-employers" text="Read More" target="_blank" rel="noopener" %}
 
 ---
 
 ### C. SkillsFuture Mid-Career Enhanced Subsidy (MCES)
 
-Recognising that mid-career individuals may face greater challenges in undertaking training, the MCES is provided for Singaporeans aged 40 years old and above to upskill and reskill. As an employer, you will be eligible for up to 90% course fee funding when you sponsor your mid-career Singaporean employees for SSG-funded certifiable courses.
+Recognising that mid-career individuals may face greater challenges in undertaking training, the MCES is provided for Singaporeans aged 40 years old and above to upskill and reskill. As an employer, you will receive an enhanced subsidy of up to 20%-points above the baseline course fee subsidies. This means you can enjoy up to 90% in total course fee subsidies (inclusive of the enhanced funding), when you sponsor your mid-career Singaporean employees for SSG-funded certifiable courses.
 
-{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/enhancedsubsidy" text="Read More" target="_blank" rel="noopener" %}
+{% include secondary-btn.html href="https://www.skillsfuture.gov.sg/initiatives/mid-career/enhancedsubsidy" text="Read More" target="_blank" rel="noopener" %}
 
 ---
 
 ### D. Absentee Payroll (AP) Funding
 
----
+Absentee Payroll (AP) funding is a grant to help defray some manpower costs incurred when you send your Singaporean, Permanent Resident and LTVP+ employees for SSG-funded training. This is fixed at S$4.50 per hour, with a cap of S$100,000 for each organisation per calendar year.
 
-### Eligibility criteria:
+**Eligibility criteria:**
 
 - Your organisation must be registered or incorporated in Singapore
 
@@ -67,49 +75,11 @@ Recognising that mid-career individuals may face greater challenges in undertaki
 
 ---
 
-### To qualify for course fee and absentee payroll funding, your employees must meet the following criteria:
-
-- Must be Singapore Citizens or Singapore Permanent Residents
-
-- Trainee is not a full-time national serviceman
-
-- Courses have to be fully paid for by the employer
-
----
-
 ### How to apply:
 
 - There is no need to apply for course fee funding as it is automatically computed and deducted from the course fee
 
 - Please declare your employees' hourly salary information <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx" target="_blank" rel="noopener">here</a> to claim for absentee payroll funding
-
----
-
-### Changes to SkillsFuture Course Fee and Absentee Payroll Funding
-
-SSG continually reviews our schemes to ensure the effective use of funding resources and provides the best training outcomes for our local workforce. As part of the review, we would like to inform you that the following revisions will be implemented for all SSG-funded courses **commencing on or after 1 January 2022**, regardless of when enrolment takes place:
-
----
-
-### 1. SkillsFuture Course Fee Funding
-
-The revisions to course fee funding, applicable to all SSG-funded courses commencing on or after 1 Jan 2022, are as follows:
-
-i. Baseline course fee subsides will be simplified and streamlined across Professional, Manager, Executive and Technician (PMET) and non-PMET courses, at up to 70% of course fees for courses offered by SSG-appointed CET Centres, and up to 50% of course fees for certifiable courses approved by SSG.
-
-ii. Enterprises that qualify for SSG's enhanced subsidy schemes (SkillsFuture Mid-career Enhanced Subsidy and Enhanced Training Support for Small and Medium Enterprises (SMEs)) will receive an enhanced subsidy of up to 20%-points above the baseline course fee subsidies. This means up to 90% course fee subsidies in total, inclusive of enhanced funding for courses with the strongest manpower outcomes
-
----
-
-### 2. Absentee Payroll Funding
-
-With effect from 1 Jan 2022, SSG will introduce a fixed Absentee Payroll (AP) rate at $4.50 per hour. We will also set a $100,000 cap on the maximum AP funding each organisation can claim each calendar year to ensure that the benefits are more evenly distributed across companies.
-
-The revisions are summarised below. Please refer to Annexes A and B under "Resources" for more details.
-
----
-
-<img src="/images/epjs/programmes-and-initiatives/upgrade-skills/SSG_Funding Measures Infographics_Final_Cropped.jpg" aria-hidden="true"/>
 
 ---
 
@@ -122,6 +92,8 @@ The revisions are summarised below. Please refer to Annexes A and B under "Resou
 ### Related Digital Services
 
 - <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet/" target="_blank" rel="noopener">View the full library of Courses</a>
+
+- <a href="https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx" target="_blank" rel="noopener">Absentee Payroll (AP) Funding and SME Declaration System</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

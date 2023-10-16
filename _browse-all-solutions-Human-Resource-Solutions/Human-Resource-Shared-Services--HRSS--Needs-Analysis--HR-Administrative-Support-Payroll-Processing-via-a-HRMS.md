@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-
 ## Human Resource Shared Services (HRSS) Needs Analysis, HR Administrative Support & Payroll Processing via a HRMS
 ## Overview
 
+**Description**
+
+Review a company's internal HR process, offer a HRMS system and provide HR administrative and payroll processing support such as issuing payslips, ePayment of salaries, leave, attendance and claims.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,36 +32,32 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution62' target='_blank'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) </a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution166' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution94' target='_blank'>ALIGN HRSS - PAYROLL OUTSOURCING</a><br></td>
 <td>Align Group of Companies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution308' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
-<td>BIPO Service Singapore Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution603' target='_blank'>BIPO HRMS</a><br></td>
-<td>Enable Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution680' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution384' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution745' target='_blank'>HRM Labs Shared Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution430' target='_blank'>HRM Labs Shared Service</a><br></td>
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution941' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution563' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1254' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution747' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
 <td>RECRUIT.COM.SG PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1392' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
+<td>Enable Consulting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1725' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 </table>
 

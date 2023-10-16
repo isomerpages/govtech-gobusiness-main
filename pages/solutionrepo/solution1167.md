@@ -1,15 +1,15 @@
 ---
-title: 'PixelCommerce Version 5.9.3'
+title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1167
 ---
 
-## PixelCommerce Version 5.9.3
+## Taidii Smart Data Analytics for Centre Operations and Child Development
 
 ## Overview
 
 **Description**
 
-PixelCommerce is a tailored eCommerce website solution for SMEs to go online and thrive in the digital economy. Enabling businesses to sell directly to customers anytime, anywhere - effortlessly, PixelCommerce is a proven solution that has been implemented for hundreds of SMEs over the years.
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ PixelCommerce is a tailored eCommerce website solution for SMEs to go online and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Fast</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Essentials</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Product Focused</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - Service Focused</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PixelCommerce Version 5.9.3 - B2B / B2C Hybrid</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pixel_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

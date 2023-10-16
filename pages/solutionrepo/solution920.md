@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (PMS + e-form)'
+title: 'Automotive Tracking System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution920
 ---
 
-## LittleLives School Management System (PMS + e-form)
+## Automotive Tracking System Version 1
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. The system includes all features to support schools to manage their operation with existing students such as attendance, student portfolio, incident and fee management and parent communication. E-form module is added in to fully support the whole student life cycle administrative process.
+Track 365 Automotive Tracking System is a cloud based telematics solution.  The solution allows businesses to monitor the location of a single vehicle or a group of vehicles in real-time, with their positions automatically updating onto a map. The solution is totally web-based, users can access their information wherever and whenever they choose. Whether it's on their phone whilst out and about, or on their PC in the office.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form only</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form + Cashless payment</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'>$11,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form & Thermal Scanner</td>
-<td style='padding: 10px;'>$15,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Thermal Scanner & Cashless Payment</td>
-<td style='padding: 10px;'>$16,140.00</td>
-<td style='padding: 10px;'>$15,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Facial Recognition & Cashless Payment </td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'>$12,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per Vehicle</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'>$699.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Track365_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
+ Company name:Track 365 Pte Ltd<br>Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

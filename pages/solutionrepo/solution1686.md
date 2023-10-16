@@ -1,15 +1,20 @@
 ---
-title: 'Stendard Solution Version 1.7.12'
+title: 'Microsoft Cybersecurity Managed Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution1686
 ---
 
-## Stendard Solution Version 1.7.12
+## Microsoft Cybersecurity Managed Service
 
 ## Overview
 
 **Description**
 
-Stendard Solution is a cloud-based document management system allowing businesses of all sizes to implement business processes, in line with international standards. Users can easily collaborate, store, maintain, review, and sign-off documents electronically with digitised business workflows, version controls and track them on the platform. Stendard's vision is to put quality at the centre of all businesses.
+Incorporated in 1994, NTC is a well established organization helping clients with their Digital transformation needs.  
+The Microsoft Cybersecurity Managed Service is a Managed Detection & Response solution to help SME mitigate the challenges faced to secure their organization against constant threat of cybersecurity threats. The Product & Service included in the solution include :
+Microsoft Defender for Business
+Microsoft Defender for Office365(Plan 1)
+Microsoft Intune
+Managed Service
 
 ## Solution Packages Option(s)
 
@@ -23,24 +28,38 @@ Stendard Solution is a cloud-based document management system allowing businesse
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (5 concurrent users)</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$6,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 user pack</td>
+<td style='padding: 10px;'>$7,033.00</td>
+<td style='padding: 10px;'>$7,033.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (10 concurrent users)</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>35 user pack</td>
+<td style='padding: 10px;'>$15,877.00</td>
+<td style='padding: 10px;'>$15,877.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (30 concurrent users)</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$25,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/YNL360_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>45 user pack</td>
+<td style='padding: 10px;'>$20,299.00</td>
+<td style='padding: 10px;'>$20,299.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>55 user pack</td>
+<td style='padding: 10px;'>$24,721.00</td>
+<td style='padding: 10px;'>$24,721.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>75 user pack</td>
+<td style='padding: 10px;'>$33,565.00</td>
+<td style='padding: 10px;'>$33,565.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +69,7 @@ Stendard Solution is a cloud-based document management system allowing businesse
 
 ## Vendor Information
 
- Company name: YNL 360 Pte Ltd<br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io
+ Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

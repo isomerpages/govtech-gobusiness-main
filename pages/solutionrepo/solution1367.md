@@ -1,15 +1,15 @@
 ---
-title: 'Dining Butler Version 1.3'
+title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1367
 ---
 
-## Dining Butler Version 1.3
+## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1
 
 ## Overview
 
 **Description**
 
-Dining Butler provides an end to end solution for F&B that covers the following modules 1) mobile ordering 2) POS operations 3) kitchen management 4) waiter management 5) backend item management 6) CRM 7) inventory 8) reports
+Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Dining Butler provides an end to end solution for F&B that covers the following 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 1</td>
-<td style='padding: 10px;'>$2,388.00</td>
-<td style='padding: 10px;'>$2,388.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 2</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'>$2,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Extended</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 3</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'>$4,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 4</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dining Butler Version 1.3 - Package 5</td>
-<td style='padding: 10px;'>$7,288.00</td>
-<td style='padding: 10px;'>$7,288.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Dining_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Extended</td>
+<td style='padding: 10px;'>$6,950.00</td>
+<td style='padding: 10px;'>$6,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Dining Butler provides an end to end solution for F&B that covers the following 
 
 ## Vendor Information
 
- Company name:Singapore Dining Butler Pte Ltd<br>Web URL: diningbutler.com <br>Contact Hotline: 83687413 <br>Contact Email: enquiry@diningbutler.com 
+ Web URL: https://wecome.sg <br><br>Contact Hotline: 96824965 <br><br>Contact Email: wuhong@wecome.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

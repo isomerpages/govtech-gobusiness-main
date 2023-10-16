@@ -1,15 +1,15 @@
 ---
-title: 'Really Platform for PMs and FMs Version 2.4'
+title: 'BridgED Version 4.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1248
 ---
 
-## Really Platform for PMs and FMs Version 2.4
+## BridgED Version 4.0
 
 ## Overview
 
 **Description**
 
-Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
+BridgED 4.0 is an end to end Pre-school management platform that digitalizes information and records, enhances the management of day to day activities and streamline communication between staff and parents.  BridgED has a wide range of modules that enables operators to run their centres efficiently and free up time to focus on growing their business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Really provides the state-of-the-art platform that helps property & facilities m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Individual Property or Project Packaged Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
+<td style='padding: 10px;'>$3,440.00</td>
+<td style='padding: 10px;'>$3,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</td>
-<td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter </td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</td>
-<td style='padding: 10px;'>$24,800.00</td>
-<td style='padding: 10px;'>$24,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</td>
-<td style='padding: 10px;'>$34,600.00</td>
-<td style='padding: 10px;'>$34,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</td>
-<td style='padding: 10px;'>$49,200.00</td>
-<td style='padding: 10px;'>$49,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$10,100.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ## Vendor Information
 
- Web URL: https://www.really.sg/project-management-features/ <br><br>Contact Hotline: 69507563 <br><br>Contact Email: info@really.sg <br><br>
+ Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -11,6 +11,8 @@ Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Sing
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
+- Download the [Budget 2023 Business Booklet](/images/budget2023/MTI Business Budget Booklet 2023_11Mar_LR.pdf){:target="_blank"}{:rel="noopener"} 
+
 - Download the [Budget 2023 - Budget Navigator (for Businesses)](/images/budget2023/Budget Navigators for Business 2023 (14 Feb 2023) - Final (for website).pdf){:target="_blank"}{:rel="noopener"} 
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2023.
@@ -29,10 +31,15 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include letter-accordion.html accordions=site.data.acc074-budget letter="c" %}
 
+### Find relevant schemes for your businesses
 
-{% include subscribe-mailer.html title="Want to get the latest updates?" url="https://www.gobusiness.gov.sg/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2023 support schemes and programmes.
 
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
 
+<br>
+
+{% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 ---
 
 ### Budget 2023 for citizens
