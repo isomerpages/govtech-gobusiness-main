@@ -8,14 +8,6 @@ third_nav_title: Resources and Toolkits
 
 ![Article](/images/epjs/resources-and-toolkits/videos-and-articles/New scheme offers funding and professional help for service companies to transform and boost productivity.png)
 
-#### New scheme offers funding and professional help for service companies to transform and boost productivity
-
-Service sector companies can tap on government subsidies and professional guidance under the new Service Industry Transformation Programme (SITP) for Lifestyle Sectors to transform their businesses. SITP aims to help businesses improve the way they serve customers, streamline and digitalise operations, and redesign jobs to attract workers.
-
-[Read more](https://www.straitstimes.com/business/new-scheme-offers-funding-and-professional-help-for-services-companies-to-transform-and){:target="_blank"}{:rel="noopener"}
-
----
-
 #### Skills Demand For The Future Economy Report
 
 The 2nd edition of the report offers deeper analysis into the priority skills and jobs in demand within the Green, Digital and Care economies. The report also comes with a special focus on Industry 4.0 implementation, Critical Core Skills, and the support for our mid-career workers. Companies can tap on these insights guide their workforce skills investment.
@@ -32,7 +24,7 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
 
 ---
 
-#### Watch Video: Do You Know the Real Cost of Not Investing in Upskilling?
+#### Watch: Do You Know the Real Cost of Not Investing in Upskilling?
 
 <p>
 <div class="bp-youtube">
@@ -42,18 +34,18 @@ A study by MTI and SSG found that employer-sponsored training leads to better bu
 
 ---
 
-#### Watch Video: Here's How SMEs Can Upskill Your Employees
+#### Watch: Here's How SMEs Can Upskill Your Employees
 
 <p>
 <div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/EYuo6F6YbhA" title="" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/EYuo6F6YbhA" title="No Time/ Money/ Idea How? No Problem!" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 </p>
 [Find more videos at our SkillsFuture Youtube page](https://www.youtube.com/c/skillsfuturesg){:target="_blank"}{:rel="noopener"}
 
 ---
 
-#### Watch Video: Speed up the Transfer of Global Capabilities
+#### Watch: Speed up the Transfer of Global Capabilities
 
 <p>
 <div class="bp-youtube">
