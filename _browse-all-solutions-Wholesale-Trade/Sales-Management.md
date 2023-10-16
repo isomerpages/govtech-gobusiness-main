@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1524' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1521' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
 <td>Keep Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1529' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1526' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte Ltd</td>
 </tr>
 </table>

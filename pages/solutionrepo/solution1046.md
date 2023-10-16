@@ -24,7 +24,7 @@ Cost of equipment apped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Able to deliver at least 1000NM of torque<br>- 1 battery pack or power unit per  equipment can be supported<br>- Training costs to be supported<br><br></td>
+<td style='padding: 10px;'>1. Min torque range: 1,000 Nm<br><br>2. Equipment can include 1 battery pack or power unit per equipment</td>
 </tr>
 </table>
 
