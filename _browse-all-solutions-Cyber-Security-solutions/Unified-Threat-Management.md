@@ -81,15 +81,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1505' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1502' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1568' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1565' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1668' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1665' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 </table>

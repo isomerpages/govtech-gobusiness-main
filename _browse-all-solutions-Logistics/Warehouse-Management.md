@@ -32,7 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Gurusoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1523' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1520' target='_blank'>iLOGON (iWMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 </table>

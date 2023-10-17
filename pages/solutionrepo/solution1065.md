@@ -25,8 +25,8 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Minimally semi-automated<br>- Volumetric or weight based filling<br>- Touchscreen display can be supported<br>- Explosion proof can be supported <br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported <br></td>
+<td style='padding: 10px;'>$60,000.00</td>
+<td style='padding: 10px;'>1. Minimally semi-automated<br><br>2. Volumetric or weight indicator with parameter setting function</td>
 </tr>
 </table>
 

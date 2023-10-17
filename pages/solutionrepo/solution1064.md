@@ -23,8 +23,8 @@ Cost of equipment capped at $37,500 per unit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Auto self-adhesive labelling function<br>- Parameter setting for different label sizes<br><br>- Touchscreen display can be supported<br>- Explosion proof can be supported<br>- Installation/simple training costs can be supported<br>- Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported</td>
+<td style='padding: 10px;'>$60,000.00</td>
+<td style='padding: 10px;'>1. Perform automatic labelling function <br><br>2. Adjustable labelling speed</td>
 </tr>
 </table>
 
