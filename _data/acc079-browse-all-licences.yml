@@ -2411,8 +2411,7 @@
 
         Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. "Liquor" is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=47" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/184e5c59-e6ba-4916-b2d2-a9ef91770885" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
 
         -----
         **Massage Establishment Licence**

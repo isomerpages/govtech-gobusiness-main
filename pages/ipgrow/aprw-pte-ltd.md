@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/aprw-pte-ltd/
 
 Founded in 1996 and headquartered in Singapore, we are uniquely led by a team of owners-directors who combine keen business acumen with a wealth of experience to deliver transformational communications solutions and marketing campaigns for our clients across Asia Pacific.
 
-<b>Year established in Singapore:</b> 2005
+<b>Year established in Singapore:</b> 1996
 
 <b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy, IP Strategy Consulting
 

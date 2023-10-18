@@ -21,7 +21,7 @@ A direct link to the e-Adviser can now be found on the GoBusiness homepage, allo
 
 **Start-up Guide**
 
-The [Start-up Guide](https://govtech-gobusiness-main-staging.netlify.app/start-a-business/?src=topnav) also provides users with a quick overview of what needs to be done when registering a business in Singapore. Written in layman terms for easy understanding, the Start-up Guide also highlights links that are specific to registering a sole proprietorship/partnership.
+The [Start-up Guide](/start-a-business/?src=topnav) also provides users with a quick overview of what needs to be done when registering a business in Singapore. Written in layman terms for easy understanding, the Start-up Guide also highlights links that are specific to registering a sole proprietorship/partnership.
 
 Users can also now add Guided Journey to their GoBusiness Dashboard to start the application immediately after completing the e-Adviser. Previously, even when users have already completed the e-Adviser, they would be required to log in and complete it again before they can add Guided Journey. This new improvement will help save time and make the process more seamless.
 
