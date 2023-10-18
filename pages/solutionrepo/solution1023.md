@@ -29,7 +29,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px;'>1. Work piece and tool setting probe has approach directions +/-x, +/-y, and -z, and a repeatability of <=1um 2 sigma<br><br>2. Unit includes a software to program probe measurement pathway, provide reports, and generate QC issue alerts</td>
 </tr>
 </table>
 

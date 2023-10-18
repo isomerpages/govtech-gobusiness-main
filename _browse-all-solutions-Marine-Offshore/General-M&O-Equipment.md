@@ -84,7 +84,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1062' target='_blank'>Automated tools management system</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1062' target='_blank'>Automated Tools Management System</a><br></td>
 <td></td>
 </tr>
 <tr>
