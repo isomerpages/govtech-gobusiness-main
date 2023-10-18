@@ -25,7 +25,7 @@ Cost of equipment capped at $10,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>Mandatory Specification:<br>- Unit is programmed to combine different cooking technologies to achieve rapid cooking.<br>- Minimum wattage/voltage: 2,200W/170V<br><br></td>
+<td style='padding: 10px;'>1. Unit is programmed to combine different cooking technologies (e.g. convection, microwave, impingement technology) to achieve rapid cooking.<br><br>2. Minimum wattage/voltage: 2,200W/170V</td>
 </tr>
 </table>
 
