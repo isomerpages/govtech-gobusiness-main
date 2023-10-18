@@ -136,47 +136,43 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1462' target='_blank'>Websentials Ecommerce Web Development</a><br></td>
-<td>Websentials Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1543' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1540' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
 <td>ZIPPY SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1549' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1546' target='_blank'>Web Imp Express E-Commerce Website Development Version v1</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>DST E-Commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1561' target='_blank'>DST E-Commerce</a><br></td>
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1566' target='_blank'>Athena E-Store Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1563' target='_blank'>Athena E-Store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1586' target='_blank'>Cub3commerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1583' target='_blank'>Cub3commerce</a><br></td>
 <td>DCUB3 PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1587' target='_blank'>Shopify</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1584' target='_blank'>Shopify</a><br></td>
 <td>Shopify Commerce Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1635' target='_blank'>1ECommerce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1632' target='_blank'>1ECommerce</a><br></td>
 <td>Bona Technologies Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1656' target='_blank'>Fairmart Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1653' target='_blank'>Fairmart Version 3.0</a><br></td>
 <td>Fairmart Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1691' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1688' target='_blank'>E-Commerce Portal Development (WooCommerce)</a><br></td>
 <td>IPRO DEZIGN PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1746' target='_blank'>SFT Ecommerce Advance Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1743' target='_blank'>SFT Ecommerce Advance Package</a><br></td>
 <td>Superfastech Pte. Ltd.</td>
 </tr>
 </table>
