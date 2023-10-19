@@ -8,6 +8,8 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
+<p>Due to system maintenance, this application will not be available from 19 Oct 2023 1200hrs to 23 Oct 2023 0800hrs.</p>
+
 {% include spcp-text.html type="cp" %}
 
 {% include licence-apply-button.html %}
@@ -19,14 +21,13 @@ Animal & Veterinary Service (AVS)
 <a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000158" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
 </div>
 
-
 <H3>Application Details</H3>
 
 <p>The Licence for Pet Shop is issued by Animal & Veterinary Service to use a premise to keep or display pets for sale.</p>
- <h3>FAQs</h3>
- <ol>
- <li><strong>Where can I get the FAQ for Licence for Pet Shop?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop/faq</a></li>
- </ol>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get the FAQ for Licence for Pet Shop?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-related-businesses/pet-shops/starting-a-pet-shop/faq</a></li>
+</ol>
 
 <strong>Additional Information</strong>
 
@@ -35,16 +36,16 @@ Animal & Veterinary Service (AVS)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>NRIC</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Approval from URA/HDB</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Layout plan</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Lease / Tenancy agreement</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Medisave Statement</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
- </ul>
+<li><strong>NRIC</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Approval from URA/HDB</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Layout plan</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Lease / Tenancy agreement</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Medisave Statement</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+</ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

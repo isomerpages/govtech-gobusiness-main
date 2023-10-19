@@ -1,15 +1,15 @@
 ---
-title: 'Farm Processing Machine'
+title: 'Tree management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1154
 ---
 
-## Farm Processing Machine
+## Tree management systems
 
 ## Overview
 
 **Description**
 
-Integrated processing system to process produce into value-added products
+Tree management systems or softwares such as the Remote Tree Measurement System (RTMS) that can interpret the data from scans produced during tree inspections.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Integrated processing system to process produce into value-added products
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Processing Machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree management systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
