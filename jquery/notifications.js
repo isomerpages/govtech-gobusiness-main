@@ -7,7 +7,7 @@ const custom_notifications = [
   //multiple services
   "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused.", 
 "<b>[Attention: System Maintenance]</b> The Early Childhood Development Centres licence is unavailable for application from 25 to 29 Oct 2023. We apologise for the inconvenience caused.",
-  
+ "<b>[Attention: System Maintenance]</b> Some National Parks Board (NPARKS) licences is unavailable. Please view the upcoming maintenance for details of the affected licences. We apologise for the inconvenience caused.",
 ];
 
 // Do not edit the following code
