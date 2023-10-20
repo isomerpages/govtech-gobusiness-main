@@ -8,7 +8,7 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/252dbe01-df08-41c0-9460-e0810b4ef3f0" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/e19059a0-3e1c-44b8-8ffc-6601b5a662fd" type="primary" %}
 
 <H3>Application Details</H3>
 
