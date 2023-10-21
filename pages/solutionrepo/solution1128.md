@@ -25,7 +25,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Must meet the following:<br>- Adjustable slicing width <br>- Feature an electrically powered pusher that is an integral part of the slicer machine (i.e. must be built in to the slicer machine)  <br><br>Optional component: Conveyor*<br>*Open for support if the combined cost of the slicer and conveyor falls within the cost cap of $37,500.00 </td>
+<td style='padding: 10px;'>1. Machine is able to slice food products at various widths<br><br>2. Slicing process should be fully automated without a need for to manually reposition the food product</td>
 </tr>
 </table>
 

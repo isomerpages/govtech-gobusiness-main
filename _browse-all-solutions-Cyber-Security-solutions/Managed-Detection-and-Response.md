@@ -60,11 +60,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1686' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1683' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1737' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1734' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
 <td>GKO Consultancy</td>
 </tr>
 </table>
