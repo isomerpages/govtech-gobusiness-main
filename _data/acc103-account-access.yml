@@ -11,8 +11,8 @@
 
     - title: Can I use GoBusiness Dashboard if I do not have a Singpass account?
       content: |
-              No, you need a Singpass account to log in to your GoBusiness Dashboard. You can apply for a Singpass account on [Singpass' website](https://www.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}.
-              
+        No, you need a Singpass account to log in to your GoBusiness Dashboard. You can apply for a Singpass account on [Singpass' website](https://www.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
     - title: Should I log in as an Individual User or Business User?
       content: |
         Log in as an Individual User if you are:

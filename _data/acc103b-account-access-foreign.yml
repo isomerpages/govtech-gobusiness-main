@@ -3,11 +3,11 @@
   data:
     - title: How do I log in to GoBusiness Dashboard?
       content: |
-        "For Singpass Foreign Account (Business) users:
+        For Singpass Foreign Account (Business) users:
         
         Step 1: Click on the Log In button at the top right hand corner of the screen.
         Step 2: Log in as an Individual User or Business User.
-        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard."
+        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
 
     - title: How do I log out?
       content: |
@@ -32,6 +32,7 @@
     - title: I'm still having trouble signing in. What can I do?
       content: |
         Please ensure you are logging in as a Business User. You can refer to [this page on the Corppass website for more info](https://www.corppass.gov.sg/corppass/common/findoutmore){:target="_blank"}{:rel="noopener"} or contact our help desk if you face other issues.
+
 - accordion:
   letter: b
   data:
