@@ -11,7 +11,7 @@
 
     - title: How do I log out?
       content: |
-      Click on the icon at the top right corner of your screen and select Log Out. Do note that you will be automatically logged out after 20 minutes of inactivity.
+        Click on the icon at the top right corner of your screen and select Log Out. Do note that you will be automatically logged out after 20 minutes of inactivity.
 
     - title: Why did I get logged out of GoBusiness?
       content: |
@@ -19,7 +19,7 @@
 
     - title: What is a Singpass Foreign Account? How can I sign up?
       content: |
-        "If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign User account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
+        If you are a foreign user representing a company with no presence in Singapore, please apply for a Singpass Foreign User account on the [Corppass Website](https://www.corppass.gov.sg/corppass/registration/nonuen/nonsingpass/registrationdetails){:target="_blank"}{:rel="noopener"}.
 
         Step 1: Click on Services at the left hand corner of the top banner.
         Step 2: Select Register for Corppass.
