@@ -2,6 +2,10 @@
   url: /dashboard-faqs/about/
   text: View questions
 
+- title: Account access
+  url: /dashboard-faqs/account-access/
+  text: View questions
+
 - title: Contact Helpdesk
   url: /dashboard-faqs/contact-helpdesk/?src=faqdb_hub
   text: View Contact Us page
