@@ -7,23 +7,21 @@ permalink: /dashboard-faqs/
 
 {% include notice.html notice=site.data.dbfaq_notice%} 
 
-{% include panels-featurelink.html panels=site.data.faqdb000-localforeign %}
-
 ### Licences
 
-{% include panels-featurelink.html panels=site.data.faqdb001-licences %}
+{% include panels-featurelink.html panels=site.data.faqdb000-licences %}
 
 ----
 ### Applications
 
-{% include panels-featurelink.html panels=site.data.faqdb002-applications %}
+{% include panels-featurelink.html panels=site.data.faqdb001-applications %}
 
 ----
 
 ### Accreditations
 
-{% include panels-featurelink.html panels=site.data.faqdb003-accreditations %}
+{% include panels-featurelink.html panels=site.data.faqdb002-accreditations %}
 
 ----
 
-{% include panels-featurelink.html panels=site.data.faqdb004-about %}
+{% include panels-featurelink.html panels=site.data.faqdb003-about %}
