@@ -8,7 +8,9 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-<p>Due to system maintenance, this application will not be available from 19 Oct 2023 1200hrs to 23 Oct 2023 0800hrs.</p>
+{% include spcp-text.html type="cp" %}
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/b854c84a-b576-4cd1-802f-94ce501c696d" type="primary" %}
 
 <H3>Application Details</H3>
 
