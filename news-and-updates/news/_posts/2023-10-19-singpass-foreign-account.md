@@ -8,6 +8,8 @@ preview: |
 image: /images/news/News_SFA_login.jpg
 ---
 
+![Foreign companies registered outside of Singapore can now transact on GoBusiness](/images/news/News_SFA_login.jpg)
+
 Foreign companies registered outside of Singapore who have a Corppass account can now transact on GoBusiness. Services include applying for licences that are applicable and managing applications on one dashboard.and you can use our dashboard to manage these applications.
 
 Foreign companies registered outside of Singapore can now transact on GoBusiness using a Corppass account to apply for applicable licences on GoBusiness and use our dashboard to track these applications and licences.
