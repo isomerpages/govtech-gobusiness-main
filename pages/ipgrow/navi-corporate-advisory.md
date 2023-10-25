@@ -42,7 +42,7 @@ The services provided the following:
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 ---
@@ -70,6 +70,8 @@ The services provided the following:
 ### Testimonials
 
 *"We found Mr Yap to be very professional, responsive & and reliable. Overall, we found Mr Yap to constantly exceed our expectations and would recommend Mr Yap for valuation and advisory services."* - Dr M, Group Director, Company O.
+
+*"We found that Mr Yap to be very professional, responsive & reliable. Overall, we found Mr Yap to constantly exceed our expectations and would recommend Mr Yap for any valuation and advisory services."* - Mr T, Executive Director, Company K.
 
 *"Mr Yap has consistently exceeded our expectations and I would strongly recommend Mr Yap for any valuation and advisory services."* - Mr P, CFO, Company A.
 

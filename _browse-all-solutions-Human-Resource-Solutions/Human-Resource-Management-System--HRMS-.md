@@ -96,23 +96,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>YUVO PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1480' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1477' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1495' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1492' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1658' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1655' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
 <td>Times Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1695' target='_blank'>SMARTHRMS Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1692' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1741' target='_blank'>Swingvy Version 1.233.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1738' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
 </tr>
 </table>

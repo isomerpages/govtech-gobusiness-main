@@ -24,7 +24,7 @@ Cost of equipment capped at $20,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
 <td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Produce at least 2,000N.m torquing force <br>- 1 battery pack or power unit per equipment can be supported<br>- Training costs can be supported<br><br></td>
+<td style='padding: 10px;'>1. Min Torque Range: 2,000 Nm<br><br>2. Multiplication accuracy or Multiplier output accuracy: +/- 5%<br><br>3. Equipment can include 1 battery pack or power unit per equipment </td>
 </tr>
 </table>
 

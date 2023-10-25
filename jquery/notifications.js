@@ -3,11 +3,11 @@
 const custom_notifications = [
 
   //1 system downtime only
-  "<b>[Attention: System Maintenance]</b> GoBusiness services will be intermittently unavailable due to scheduled maintenance from 27 Sep 2023 11am to 6 Oct 2023 11:59pm. We apologise for the inconvenience caused.",
   
   //multiple services
   "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused.", 
-
+  "<b>[Attention: System Maintenance]</b> The Early Childhood Development Centres licence is unavailable for application from 25 to 29 Oct 2023. We apologise for the inconvenience caused.",
+ 
 ];
 
 // Do not edit the following code
