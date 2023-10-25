@@ -7,7 +7,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Refrigerator
 
 ### Technical Requirements
 
-Household refrigerator: Minimum 3-ticks and using refrigerant with GWP <= 15
+Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
 
 Commercial refrigerator: Inverter technology
 
@@ -30,7 +30,12 @@ Commercial refrigerator: Inverter technology
 - A-COOL - 4DT
 - A-COOL - 4DTF
 - A-COOL - 530
+- A-COOL - SCPI-1220CH20
+- A-COOL - SCPI-1830CH20
+- A-COOL - SCPI-915CH20
 - A-COOL - SDW-200
+- A-COOL - SIVMC-6
+- A-COOL - SIVMC-8
 - A-COOL - SXS-500Y
 - A-COOL - SXS-700Y
 - ARCTICOOL - ED0.5F-2M
@@ -46,12 +51,14 @@ Commercial refrigerator: Inverter technology
 - Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
 - Bosch - KGN36XI46
+- Bosch - KGN56CI41J
 - Bosch - KGN56LB40O
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
 - BRANDT - BFA1791NA
 - BRANDT - BFD8072NX
 - Carrier - 2DGB-IVTH
+- Carrier - 3DGB-IVTH
 - CUBE+ - C+1DC
 - CUBE+ - C+1DF
 - CUBE+ - C+2DC
@@ -475,6 +482,7 @@ Commercial refrigerator: Inverter technology
 - LG - GT-B4387PZ
 - LG - GT-B4783BL
 - LG - GT-B4783PZ
+- LG - GT-F3953EP
 - LG - GT-F4781BL
 - LG - GT-M5093BL
 - LG - GT-M5097PZ
@@ -494,7 +502,9 @@ Commercial refrigerator: Inverter technology
 - Liebherr - ICNh 5173
 - Liebherr - IRBh 5170
 - Liebherr - IRBPh 5170
+- Liebherr - SBNbsh5264
 - Liebherr - SBNes 4265
+- Liebherr - SBNsdh5264
 - Liebherr - SCNsdh 5253
 - Liebherr - SIKB 3550
 - Liebherr - SKBbs 4350
@@ -1083,12 +1093,15 @@ Commercial refrigerator: Inverter technology
 - SOLID - SURF-680
 - SOLID COOL - SC- 2DBB
 - SOLID COOL - SC-260
+- SOLID COOL - SC-260L
 - SOLID COOL - SC-2DB
+- SOLID COOL - SC-2DBB
 - SOLID COOL - SC-2DT
 - SOLID COOL - SC-2DTF
 - SOLID COOL - SC-2DTT
 - SOLID COOL - SC-2SDBB
 - SOLID COOL - SC-370
+- SOLID COOL - SC-370L
 - SOLID COOL - SC-3DB
 - SOLID COOL - SC-3DBB
 - SOLID COOL - SC-3DT
@@ -1096,6 +1109,7 @@ Commercial refrigerator: Inverter technology
 - SOLID COOL - SC-4DT
 - SOLID COOL - SC-4DTF
 - SOLID COOL - SC-530
+- SOLID COOL - SC-530L
 - SOLID COOL - SCX1200C2
 - SOLID COOL - SCX1200F2
 - SOLID COOL - SCX1500C2
@@ -1155,6 +1169,8 @@ Commercial refrigerator: Inverter technology
 - Toshiba - GR-RB410WE-PMX(22)
 - Toshiba - GR-RB410WE-PMX(30)
 - Toshiba - GR-RB410WE-PMX(37)
+- Toshiba - GR-RM631WE-PGX(A6)
+- Toshiba - GR-RM631WE-PGX(B1)
 - Toshiba - GR-RT559WE-PMX(06S)
 - Toshiba - GR-RT559WE-PMX(21S)
 - Toshiba - GR-RT559WE-PMX(22S)
@@ -1173,6 +1189,7 @@ Commercial refrigerator: Inverter technology
 - Ty Brand - RTGD-2DC-IVTH-W
 - Ty Brand - RTGD-3DC-IVTH-B
 - Ty Brand - RTGD-3DC-IVTH-W
+- UNICOOL - LK-1000CC-IV
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
 - V-ZUG - CO6T-51098
