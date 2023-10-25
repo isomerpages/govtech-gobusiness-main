@@ -3,7 +3,7 @@
   url: /dashboard-faqs/account-access/local-users?src=faqdb_hub
   text: View questions
 
-- title: Foreign users (SFA)
-  description: For users who log into GoBusiness with a "Singpass Foreign Account (SFA)".
+- title: Foreign users 
+  description: For users who log into GoBusiness with a "Singpass Foreign Account".
   url: /dashboard-faqs/account-access/foreign-users?src=faqdb_hub
   text: View questions

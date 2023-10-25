@@ -1,5 +1,5 @@
 ---
-title: Foreign users (SFA)
+title: Foreign users
 permalink: /dashboard-faqs/account-access/foreign-users
 third_nav_title: Account access
 ---
@@ -18,6 +18,6 @@ third_nav_title: Account access
 
 {% include letter-accordion.html accordions=site.data.acc103b-account-access-foreign letter="c" %}
 
-### My SFA Profile on GoBusiness
+### My Profile on GoBusiness
 
 {% include letter-accordion.html accordions=site.data.acc103b-account-access-foreign letter="d" %}

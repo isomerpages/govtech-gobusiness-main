@@ -2,4 +2,4 @@ show: true
 button: false
 title: "Problems accessing Dashboard as a Singpass Foreign Account Business user?"
 content: |
-  For Singpass Foreign Account (SFA) users, please ensure that you have access to MTI 'GoBusiness Portal' e-service for your Corppass account.
+  For Singpass Foreign Account users, please ensure that you have access to MTI 'GoBusiness Portal' e-service for your Corppass account.

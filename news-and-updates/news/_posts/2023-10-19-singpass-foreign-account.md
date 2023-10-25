@@ -5,7 +5,7 @@ permalink: /news-and-updates/news/the-sg-business-show-2023
 published: true
 preview: |
   Foreign companies registered outside of Singapore can now transact on GoBusiness
-image: /images/news/Keynote at The Singapore Business Show 2023.jpg
+image: /images/news/News_SFA_login.jpg
 ---
 
 Foreign companies registered outside of Singapore who have a Corppass account can now transact on GoBusiness. Services include applying for licences that are applicable and managing applications on one dashboard.and you can use our dashboard to manage these applications.
