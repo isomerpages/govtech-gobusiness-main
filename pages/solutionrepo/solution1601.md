@@ -1,17 +1,15 @@
 ---
-title: 'Bamboo Sea - Xero'
+title: 'WarelyPOS Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1601
 ---
 
-## Bamboo Sea - Xero
+## WarelyPOS Version 1.3
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software with over 3.5 million subscribers and Bamboo Sea is committed to assisting SMEs become more efficient and productive at record keeping so that business owners can focus on the customers. 
-
-Together, we will have access to information anywhere and so that we can make business decisions promptly.
+WarelyPOS is a digital ordering solution for F&B businesses. Key features of the solution include Food Delivery, Takeaway, Pick-up, Dine-in & Reservation, CRM and Inventory Management.
 
 ## Solution Packages Option(s)
 
@@ -25,24 +23,59 @@ Together, we will have access to information anywhere and so that we can make bu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software and Setup</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software, Setup, and Training</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Application Integration</td>
-<td style='padding: 10px;'>$6,064.00</td>
-<td style='padding: 10px;'>$5,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise + Kiosk + Queue</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$12,100.00</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -52,7 +85,7 @@ Together, we will have access to information anywhere and so that we can make bu
 
 ## Vendor Information
 
- Company Name: Bamboo Sea Pte Ltd<br>Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: wenyun@bamboosea.sg <br>
+ Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

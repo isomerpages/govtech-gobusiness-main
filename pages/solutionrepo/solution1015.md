@@ -25,7 +25,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Payload modules to lift trolleys Minimum  150kg load<br>- Min. load surface: 720x600mm<br>- 1-1.2m/s driving with spot turning<br>- Battery: Min. 4h, ~8h standby, ~4h charging<br>- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg <br><br>2. Robot has a minimum load surface of 650MM x 550MM. <br><br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
 </tr>
 </table>
 

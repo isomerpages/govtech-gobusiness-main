@@ -24,7 +24,7 @@ Cost of equipment capped at $16,000 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
 <td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px;'>1. Machine has a touchscreen interface<br><br>2. Dates, including expiry, can be manually updated into Machine<br><br>3. Machine can automatically print unique barcode(s) for each product from production line</td>
 </tr>
 </table>
 
