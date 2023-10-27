@@ -1,15 +1,17 @@
 ---
-title: 'DM W360 Digital Power Pack Version 1.0'
+title: 'Counto DIY Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution942
 ---
 
-## DM W360 Digital Power Pack Version 1.0
+## Counto DIY Version 1
 
 ## Overview
 
 **Description**
 
-W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
+CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
+
+Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +25,41 @@ W360 Group is one of the leading digital agencies in Singapore with a proven tra
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA & Facebook Marketing (3 Months)</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Facebook & Google Advertising (3 Months)</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA + SEO (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SEM (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
+ Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

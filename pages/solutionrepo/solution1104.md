@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'Electric powered/hybrid landscape equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1104
 ---
 
-## Sterilizer Equipment
+## Electric powered/hybrid landscape equipment
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+Electric powered/hybrid landscape equipment e.g. electric excavator, electric wood chipper, but excluding electric buggy and handheld tools.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric powered/hybrid landscape equipment</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

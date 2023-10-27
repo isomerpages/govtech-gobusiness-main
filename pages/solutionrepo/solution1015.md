@@ -1,18 +1,17 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'Automatic Flow Wrap Packaging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1015
 ---
 
-## Autonomous Mobile Robot
+## Automatic Flow Wrap Packaging Machine
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
-Cost of equipment capped at $37,500 per unit 
-
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg <br><br>2. Robot has a minimum load surface of 650MM x 550MM. <br><br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
+<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
 </tr>
 </table>
 

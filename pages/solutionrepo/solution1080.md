@@ -1,15 +1,18 @@
 ---
-title: 'Automatic Seed Sowing Machine'
+title: 'Blast Chiller'
 permalink: /productivity-solutions-grant/solutionrepo/solution1080
 ---
 
-## Automatic Seed Sowing Machine
+## Blast Chiller
 
 ## Overview
 
 **Description**
 
-A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +23,9 @@ A machine that sow seeds at a specified depth and position and ensures uniform a
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>2. Minimum capacity of 5 GN 1/1</td>
 </tr>
 </table>
 
