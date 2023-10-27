@@ -1,17 +1,18 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'Blast Chiller'
 permalink: /productivity-solutions-grant/solutionrepo/solution1123
 ---
 
-## Auto Welding Carriage
+## Blast Chiller
 
 ## Overview
 
 **Description**
 
-Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Cost of equipment capped at $18,750 per unit
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>2. Minimum capacity of 5 GN 1/1</td>
 </tr>
 </table>
 

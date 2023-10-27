@@ -7,11 +7,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -98,11 +98,21 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Hitachi - RAS-5.0HNBRKQ
 - Hitachi - RAS-6.0HNBRKQ
 - LG - ARUN080LTE5
+- LG - ARUN082LTE6
 - LG - ARUN100LTE5
+- LG - ARUN102LTE6
 - LG - ARUN120LTE5
+- LG - ARUN122LTE6
 - LG - ARUN140LTE5
+- LG - ARUN142LTE6
 - LG - ARUN160LTE5
+- LG - ARUN162LTE6
 - LG - ARUN180LTE5
+- LG - ARUN182LTE6
+- LG - ARUN202LTE6
+- LG - ARUN222LTE6
+- LG - ARUN242LTE6
+- LG - ARUN262LTE6
 - LG - ARUV030GSD0
 - LG - ARUV030GSD5
 - LG - ARUV040GSD0
@@ -114,15 +124,18 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
 - LG - ZUUQ36GH0
+- Midea - MAE-2M18E
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MCE-2M16E
 - Midea - MCE-4M28E
 - Midea - MDVC-V110W/DN1
 - Midea - MDVC-V145W/DN1
 - Midea - MDVC-V170W/DN1
 - Midea - MDVC-V72W/DN1
 - Midea - MDVC-V92W/DN1
+- Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Mitsubishi Electric - MUY-GP10VF
@@ -169,6 +182,9 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
+- Natflow - NRV-308
+- Natflow - NRV-310
+- Natflow - NRV-312
 - Panasonic - CU-2XU20YBZ
 - Panasonic - CU-2XU20YBZ-H
 - Panasonic - CU-3XU28YBZ

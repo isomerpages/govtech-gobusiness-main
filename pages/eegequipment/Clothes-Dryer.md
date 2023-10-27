@@ -22,6 +22,7 @@ Heat pump technology
 - Electrolux - EDH804H3WB
 - Electrolux - EDH804H5WB
 - Electrolux - EDH903R9WB
+- Midea - MDK888HP
 
 ### Mode and Schedule of Payment 
 

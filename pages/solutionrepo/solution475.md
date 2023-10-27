@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Solution'
+title: 'Autodesk AEC Collection'
 permalink: /productivity-solutions-grant/solutionrepo/solution475
 ---
 
-## HRM Labs Solution
+## Autodesk AEC Collection
 
 ## Overview
 
 **Description**
 
-HRMLabs helps the company by handling the human resources administrative and payroll processing work. Saving the company's time and money so they can focus more on business development success. With our HR Outsource service, the company no longer needs to manage manual and complicated HR tasks. Our service automates the process from managing attendance taking, leave and payroll calculation to payslip release. We address the problem faced by companies and ease the employees to be more productive.
+Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product , AEC Collection . It consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ HRMLabs helps the company by handling the human resources administrative and pay
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (30)</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'>$5,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (50)</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System Package (80)</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'>$12,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (150)</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Human Resources Management System (200)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/hrm_labs_hrms_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 3 Years</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br>Contact Hotline: 90255587 <br>Contact Email: contact@hrmlabs.com 
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

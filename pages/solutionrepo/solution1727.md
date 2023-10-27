@@ -1,15 +1,15 @@
 ---
-title: 'DM APEC Solutions Digital Marketing Packages'
+title: 'NPOS Version 2.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1727
 ---
 
-## DM APEC Solutions Digital Marketing Packages
+## NPOS Version 2.1
 
 ## Overview
 
 **Description**
 
-APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
+NPOS Digital Ordering solution enables F&B customers to directly order from a digital menu on a tablet; or via scanning a QR Code to view the digital menu on their mobile devices and make orders; and/or place order online directly over a website.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,31 @@ APEC Solutions is a full-stack digital marketing agency dedicated to helping bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant QR Ordering Solution</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'>$9,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant Digital Ordering Solution</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant QR Ordering Solution</td>
+<td style='padding: 10px;'>$11,150.00</td>
+<td style='padding: 10px;'>$10,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant Digital Ordering Solution</td>
+<td style='padding: 10px;'>$11,150.00</td>
+<td style='padding: 10px;'>$10,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nstory_Npos_Ver2_1_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +57,7 @@ APEC Solutions is a full-stack digital marketing agency dedicated to helping bus
 
 ## Vendor Information
 
- Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
+ Company name:NSTORY PTE. LTD.<br>Web URL: https://nstory.me <br>Contact Hotline: 62463207 <br>Contact Email: ecare@nstory.me
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

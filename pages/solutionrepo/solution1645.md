@@ -1,15 +1,15 @@
 ---
-title: 'Athena E-Store Solution'
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1645
 ---
 
-## Athena E-Store Solution
+## DM APEC Solutions Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,24 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +50,7 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/ <br>Contact Hotline: 88663438 <br>Contact Email: hello@cleverly.sg <br>
+ Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
