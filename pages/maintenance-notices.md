@@ -11,9 +11,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 |  -----------   |------------------| 
-| 25 Oct, 7pm - 29 Oct, 11:59pm | **Submission of application for Early Childhood Development Centres licence** is unavailable during this period due to system upgrade. In the interim, applicants may still create application and save form as draft. |      
-| 27 Oct, 10pm - 28 Oct, 8am<br>28 Oct, 10pm - 29 Oct, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |     
-| 29 Oct, 12am - 8am | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 01 Nov, 6pm - 10pm | **ALL GoBusiness Dashboard Licences** will not be available. |      
+| 01 Nov, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |     
+| 01 Nov, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |     
    
 
 <script src="/jquery/jquery.min.js"></script>
