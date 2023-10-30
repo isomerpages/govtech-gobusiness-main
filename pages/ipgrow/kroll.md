@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/kroll/
 
 ## Kroll 
 
-As the leading independent provider of risk and financial advisory solutions, Kroll leverages our unique insights, data and technology to help clients stay ahead of complex demands. Kroll’s team of more than 6,500 professionals worldwide continues the firm’s nearly 100-year history of trusted expertise spanning risk, governance, transactions and valuation. Our advanced solutions and intelligence provide clients the foresight they need to create an enduring competitive advantage. 
+As the leading independent provider of risk and financial advisory solutions, Kroll leverages our unique insights, data and technology to help clients stay ahead of complex demands. Kroll's team of more than 6,500 professionals worldwide continues the firm's nearly 100-year history of trusted expertise spanning risk, governance, transactions and valuation. Our advanced solutions and intelligence provide clients the foresight they need to create an enduring competitive advantage. 
 
 Kroll Valuation Advisory Services helps clients satisfy regulatory reporting requirements, manage risk, make confident investment decisions and maximize value. Our valuations support financial reporting, tax and transfer pricing, investment portfolio valuation, insurance appraisal, transactions and more. We have valued all types of businesses, assets, and alternative investments in every industry, and have the global scale to support our clients needs wherever they may be.
 
