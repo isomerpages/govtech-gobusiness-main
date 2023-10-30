@@ -1,40 +1,43 @@
 ---
-title: 'Robotic arms'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution1125
 ---
 
-## Robotic arms
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
-
-Cost of equipment capped at $37,500 per unit
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

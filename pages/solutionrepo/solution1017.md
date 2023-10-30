@@ -1,17 +1,17 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Ethylene Removal System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1017
 ---
 
-## Circular Gas Cutter
+## Ethylene Removal System
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
-Cost of equipment capped at $18,750 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
 </tr>
 </table>
 

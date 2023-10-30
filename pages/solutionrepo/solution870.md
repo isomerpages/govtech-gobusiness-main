@@ -1,15 +1,15 @@
 ---
-title: 'Tessaract Practice Management Solution'
+title: 'TNB Intuit Quickbooks Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution870
 ---
 
-## Tessaract Practice Management Solution
+## TNB Intuit Quickbooks Online
 
 ## Overview
 
 **Description**
 
-Tessaract's PMS is a practice management software that powers and accelerates the growth of law firms. A one-stop-shop software solution, law firms can automate daily tasks, streamline efficiency, and improve services with Tessaract's PMS.
+TNB supports Quickbooks online software and users can access QuickBooks from PC, Mac, smartphone and tablet. Now, users can access their account, manage your business, and stay organized on the go. QuickBooks Online is now sync with over 400 popular business apps including CRM, ePOS, ERP, HCM, E-commerce, payment gateways and more.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package A</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Simple Start</td>
+<td style='padding: 10px;'>$965.00</td>
+<td style='padding: 10px;'>$965.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package B</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'>$13,680.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Basic Level</td>
+<td style='padding: 10px;'>$2,465.00</td>
+<td style='padding: 10px;'>$2,465.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package C</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Advance Level</td>
+<td style='padding: 10px;'>$3,965.00</td>
+<td style='padding: 10px;'>$3,965.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package D</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Premium Level</td>
+<td style='padding: 10px;'>$4,815.00</td>
+<td style='padding: 10px;'>$4,815.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package E</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'>$42,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Full Transformation (large)</td>
+<td style='padding: 10px;'>$7,965.00</td>
+<td style='padding: 10px;'>$7,965.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Tessaract's PMS is a practice management software that powers and accelerates th
 
 ## Vendor Information
 
- Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
+ Company Name: TNB GLOBAL OUTSOURCE PTE LTD<br>Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

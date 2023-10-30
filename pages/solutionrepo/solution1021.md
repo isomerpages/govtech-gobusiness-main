@@ -1,17 +1,17 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: 'Automated Labelling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1021
 ---
 
-## Portable Automatic Gas Cutting Machine
+## Automated Labelling Machine
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-Cost of equipment capped at $6,250 per unit
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +22,9 @@ Cost of equipment capped at $6,250 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
+<td style='padding: 10px;'>$60,000.00</td>
+<td style='padding: 10px;'>1. Perform automatic labelling function <br><br>2. Adjustable labelling speed</td>
 </tr>
 </table>
 

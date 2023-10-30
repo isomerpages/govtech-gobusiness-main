@@ -1,15 +1,18 @@
 ---
-title: 'Nett VMS Version 4'
+title: 'aiCARE Shield Managed Security Version Ver1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution611
 ---
 
-## Nett VMS Version 4
+## aiCARE Shield Managed Security Version Ver1.0
 
 ## Overview
 
 **Description**
 
-Nett VMS is an integration of visitor management system + license plate recognition + pre invitation registration APP. It allows resident to pre invite their guest by whitelist the vehicle and barricade will auto open. Visitor registration will send a phone SMS QR code and this will allow phone authentication. It allows security guard to eliminate the manual writing, compliance with PDPA and auto record of all vehicle. Enhance support remote access and QR code door access
+NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
+aiCARE Shield Managed Security comes with 8x5 Hotline Support.
+Support Day : Monday - Friday
+Support Time : 9am-6pm
 
 ## Solution Packages Option(s)
 
@@ -23,48 +26,48 @@ Nett VMS is an integration of visitor management system + license plate recognit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Basic  </td>
-<td style='padding: 10px;'>$32,140.00</td>
-<td style='padding: 10px;'>$22,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'>$1,220.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Advance </td>
-<td style='padding: 10px;'>$33,340.00</td>
-<td style='padding: 10px;'>$23,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'>$3,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Intermediate </td>
-<td style='padding: 10px;'>$36,940.00</td>
-<td style='padding: 10px;'>$27,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'>$6,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Expert</td>
-<td style='padding: 10px;'>$40,100.00</td>
-<td style='padding: 10px;'>$29,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'>$10,130.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Revolution </td>
-<td style='padding: 10px;'>$46,300.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'>$13,670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
+ Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
