@@ -1,15 +1,15 @@
 ---
-title: 'Roycemedia Cybersecurity-Firewall'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution785
 ---
 
-## Roycemedia Cybersecurity-Firewall
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 
 **Description**
 
-FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
-<td style='padding: 10px;'>$4,865.00</td>
-<td style='padding: 10px;'>$4,865.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
-<td style='padding: 10px;'>$6,373.00</td>
-<td style='padding: 10px;'>$6,373.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 4 - Fortigate 101F</td>
-<td style='padding: 10px;'>$11,363.00</td>
-<td style='padding: 10px;'>$11,363.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F</td>
-<td style='padding: 10px;'>$14,765.00</td>
-<td style='padding: 10px;'>$14,765.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$3,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ FortiGate next-generation firewalls provide high performance, multilayered secur
 
 ## Vendor Information
 
- Company Name: Roycemedia Technologies Pte Ltd<br>Web URL: www.roycemedia.com/products.html <br><br>Contact Hotline: 63232139 <br><br>Contact Email: sales@roycemedia.com <br><br>
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

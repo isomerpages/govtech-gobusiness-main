@@ -1,19 +1,17 @@
 ---
-title: 'Autonomous Material Transportation Robot'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1012
 ---
 
-## Autonomous Material Transportation Robot
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
-
-Cost of equipment capped at $37,500 per unit. 
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $37,500 per unit.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Material Transportation Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Mandatory specifications: <br>- Transport materials between points<br>- Manoeuvre safely around obstacles<br>- Min. payload of 100kg<br>- Equipped with a rechargeable battery<br>- Accessories e.g. towing arm, mountable shelf are supportable<br>- Installation and maintenance cost are not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>1. Min. spreading force: 140 KN <br><br>2. ATEX certified or IECEX certified<br><br>3. Equipment can include 1 battery pack or power unit per equipment</td>
 </tr>
 </table>
 

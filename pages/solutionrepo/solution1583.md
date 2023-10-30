@@ -1,15 +1,15 @@
 ---
-title: 'Cub3commerce'
+title: 'DM APEC Solutions Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1583
 ---
 
-## Cub3commerce
+## DM APEC Solutions Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-CUB3COMMERCE covers the development of an online shopping website with comprehensive functionality to automate and perform sales transactions, manage orders, track statistics on product performance in a way that is both insightful as well as easy. The solution will assist in marketing products more effectively by taking advantage of a wide range of data tracking capabilities which enables a better insight into customers' behaviour.
+APEC Solutions is a full-stack digital marketing agency dedicated to helping businesses, innovate and grow through digital marketing solutions. APEC Solutions offers digital marketing packages that include SEO, SEM, Social Media Marketing & Advertising - to help businesses raise brand awareness, build social currency, drive web traffic and boost value proposition in this digital age. With vast experience, APEC Solutions aims to help businesses supercharge online presence across digital channels.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ CUB3COMMERCE covers the development of an online shopping website with comprehen
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All In One Ecommerce</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCUB3_Cub3commerce_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Starter - SEM & SEO (3 Months)</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Brand Booster - SEO & SMM & SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'>$9,630.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Lead Generation - SMM & SEM (3 Months)</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apec_Solutions_Digital_Marketing_Packages_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ CUB3COMMERCE covers the development of an online shopping website with comprehen
 
 ## Vendor Information
 
- Company Name: DUCB3 PTE LTD<br>Web URL: www.dcub3.com.sg <br>Contact Hotline: 97346544 <br>Contact Email: armstrong@dcub3.com.sg <br>
+ Company Name: APEC SOLUTIONS PTE. LTD.<br>Web URL: https://www.apecsolutions.com/ <br>Contact Hotline: 88187777 <br>Contact Email: general@apecsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
