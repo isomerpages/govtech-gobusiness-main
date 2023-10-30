@@ -77,6 +77,16 @@ Our Intellectual Property Practice Group comprises of highly regarded IP profess
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
 </ul>
 
+**IP Due Diligence Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $3,000</li>
+</ul>
+
 **IP Strategy Consulting Services**
 
 <ul>
@@ -107,16 +117,6 @@ Our Intellectual Property Practice Group comprises of highly regarded IP profess
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $200 or more</li>
 </ul>
 
-**Registered Design Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 16 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): $1500 - $2500</li>
-</ul>
-
 **Trade Mark Agent Services**
 
 <ul>
@@ -131,7 +131,7 @@ Our Intellectual Property Practice Group comprises of highly regarded IP profess
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education,</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics,</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare,</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media,</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services,</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate,</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>

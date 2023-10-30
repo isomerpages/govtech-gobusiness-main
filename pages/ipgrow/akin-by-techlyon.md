@@ -51,7 +51,7 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Financial Services,</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing,</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services,</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare,</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel,</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media,</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services,</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail,</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li></ul>
 
 ---
 <a name='office-locations'></a>

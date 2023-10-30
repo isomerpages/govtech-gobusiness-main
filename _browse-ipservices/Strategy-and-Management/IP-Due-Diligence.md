@@ -26,7 +26,7 @@ Conducting IP due diligence empowers your business with valuable information to 
 ---
 
 ### Connect with relevant service providers for IP due diligence services
-**34 service providers listed.**
+**35 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -553,6 +553,21 @@ MTIP specializes in strategizing and providing solutions to each life cycle of a
 </ul>
 
 <a class='btn' href='https://form.gov.sg/651116b54fec5f001271017e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/mary-thomas-ip--mtip-/){:target='_blank'}
+
+---
+
+#### Gateway IP Services
+
+Gateway IP Services is a regional IP boutique which specialises in patents, trademarks, and designs.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65112062020dec00122360e7' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/gateway-ip-services/){:target='_blank'}
 
 ---
 
