@@ -1,18 +1,15 @@
 ---
-title: 'Vacuum Packing and Sealing Machine'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1038
 ---
 
-## Vacuum Packing and Sealing Machine
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
-
-Cost of equipment capped at $35,000 per unit 
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -23,9 +20,9 @@ Cost of equipment capped at $35,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -1,15 +1,18 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1079
 ---
 
-## Automatic Seed Plug Transplanter
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -20,9 +23,9 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>1. Fully automated basket lifting process with adjustable temperature and timing controls<br>2. Well capacity to be at least 5L</td>
 </tr>
 </table>
 

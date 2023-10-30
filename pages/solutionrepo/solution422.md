@@ -1,20 +1,16 @@
 ---
-title: 'Q-DAS - Smart Quality Software'
+title: 'AUTOCOUNT ACCOUNTING SOFTWARE Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution422
 ---
 
-## Q-DAS - Smart Quality Software
+## AUTOCOUNT ACCOUNTING SOFTWARE Version 2
 
 ## Overview
 
 **Description**
 
-Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
-Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
-Key features:
-1) Realtime data collection from all brands of measurement equipment
-2) Fast inspection program created from CAD
-3) Full SPC analysis
+I Soft Business Solutions provides business solutions to SMEs through accounting software and consultation services by experienced consultants.
+AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. The features include: flexibility, expandability and ease-to-use to help business grow and sustain development needs.
 
 ## Solution Packages Option(s)
 
@@ -28,24 +24,38 @@ Key features:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
-<td style='padding: 10px;'>$28,400.00</td>
-<td style='padding: 10px;'>$28,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
-<td style='padding: 10px;'>$34,000.00</td>
-<td style='padding: 10px;'>$29,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
-<td style='padding: 10px;'>$40,400.00</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (5 Users)</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'>$8,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'>$14,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (15 Users)</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -55,7 +65,7 @@ Key features:
 
 ## Vendor Information
 
- Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
+ Company name:I SOFT BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://autocountsoft.sg/autocount-accounting-singapore.html <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

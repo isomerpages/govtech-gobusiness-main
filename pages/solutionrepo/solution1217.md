@@ -1,15 +1,15 @@
 ---
-title: 'DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0'
+title: 'AIO CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1217
 ---
 
-## DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0
+## AIO CRM
 
 ## Overview
 
 **Description**
 
-Aks Tech provides Digital Marketing Solution that are designed to help SMEs to enhance their social online presence, improving brand recognition and exposure. Solutions come with Digital Marketing Strategy Development, Social Media Platforms, Strategic Content Production (Video/Photography, Creative Design), Analytics and Training to help SMEs succeed in their digital marketing strategies as well as running effective Ads Campaigns to capture & retain audience's attention.
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate business processes. The software provides in-depth features such as leads management, campaign module and ticketing module to enable a comprehensive customer management coverage. AIO CRM is designed to enable SMEs to operate seamlessly to increase productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Aks Tech provides Digital Marketing Solution that are designed to help SMEs to e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 1 (SMM+SMA - FB & IG) 2 months -Brand Awareness + Leads</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'>$5,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 2 (SMM+SMA - FB & IG) 3 months</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_AIO_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Aks Tech provides Digital Marketing Solution that are designed to help SMEs to e
 
 ## Vendor Information
 
- Companu Name: Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br>Contact Hotline: 92706043 <br>Contact Email: sales@aio-interactive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
