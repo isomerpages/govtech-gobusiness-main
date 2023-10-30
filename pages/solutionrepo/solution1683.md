@@ -1,20 +1,17 @@
 ---
-title: 'Microsoft Cybersecurity Managed Service'
+title: 'DM Rogue Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1683
 ---
 
-## Microsoft Cybersecurity Managed Service
+## DM Rogue Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Incorporated in 1994, NTC is a well established organization helping clients with their Digital transformation needs.  
-The Microsoft Cybersecurity Managed Service is a Managed Detection & Response solution to help SME mitigate the challenges faced to secure their organization against constant threat of cybersecurity threats. The Product & Service included in the solution include :
-Microsoft Defender for Business
-Microsoft Defender for Office365(Plan 1)
-Microsoft Intune
-Managed Service
+Rogue Digital is a performance-driven digital marketing agency with a track record in maximising their clients' digital marketing return on investment while reducing cost-inefficiencies.
+
+Their team of experienced digital strategists have worked on campaigns across various industries, increasing sales and inquiries through effective digital marketing. Some of the brands they have worked with include Union Power, Carousell, Violet Oon, Brother International, Far East Organisation, SUSS and NTU.
 
 ## Solution Packages Option(s)
 
@@ -28,38 +25,38 @@ Managed Service
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 user pack</td>
-<td style='padding: 10px;'>$7,033.00</td>
-<td style='padding: 10px;'>$7,033.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + Social Media Ads + Social Media Management [5 Months]</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rogue_Digital_DM_Packages_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>35 user pack</td>
-<td style='padding: 10px;'>$15,877.00</td>
-<td style='padding: 10px;'>$15,877.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM + Content Marketing [6 months]</td>
+<td style='padding: 10px;'>$9,950.00</td>
+<td style='padding: 10px;'>$9,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rogue_Digital_DM_Packages_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>45 user pack</td>
-<td style='padding: 10px;'>$20,299.00</td>
-<td style='padding: 10px;'>$20,299.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Social Media Management + Social Media Advertising + Content Marketing [6 months]</td>
+<td style='padding: 10px;'>$9,950.00</td>
+<td style='padding: 10px;'>$9,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rogue_Digital_DM_Packages_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>55 user pack</td>
-<td style='padding: 10px;'>$24,721.00</td>
-<td style='padding: 10px;'>$24,721.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO + Content Marketing [6 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rogue_Digital_DM_Packages_05102023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>75 user pack</td>
-<td style='padding: 10px;'>$33,565.00</td>
-<td style='padding: 10px;'>$33,565.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_Integration_Microsoft_Cybersecurity_ManagedService_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEM + Social Media Ads [8 Months] </td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rogue_Digital_DM_Packages_05102023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -69,7 +66,7 @@ Managed Service
 
 ## Vendor Information
 
- Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br>Contact Hotline: 97805234 <br>Contact Email: keith@ntc.com.sg <br>
+ Company Name: ROGUE DIGITAL PTE. LTD.<br>Web URL: roguedigital.sg/psg-digital-marketing-grant-singapore <br>Contact Hotline: 97872242 <br>Contact Email: inquiry@roguedigital.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
