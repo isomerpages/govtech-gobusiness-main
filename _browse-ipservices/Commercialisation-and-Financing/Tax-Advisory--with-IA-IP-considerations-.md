@@ -32,6 +32,21 @@ If you wish to connect with multiple IA/IP service providers, please use the <a 
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for tax advisory (with IA/IP considerations) service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
 
+#### PricewaterhouseCoopers Singapore Pte. Ltd.
+
+Community of solvers combining innovative technologies to build trust and deliver sustained outcomes
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to Above $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
+
+---
+
 #### Baker McKenzie Wong & Leow
 
 Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
@@ -44,6 +59,21 @@ Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/646ff4ec3017a20011b004d1' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/baker-mckenzie-wong-leow/){:target='_blank'}
+
+---
+
+#### Taxise Asia LLC (WTS Taxise)
+
+Boutique law firm specialising in international tax, transfer pricing and international trade law.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
 
 ---
 
@@ -77,21 +107,6 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 
 ---
 
-#### J Accounting Pte. Ltd.
-
-Helping small businesses live their dreams through tax advisory
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $300</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/64eec2ef962d320012d72419' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/j-accounting-pte-ltd/){:target='_blank'}
-
----
-
 #### Max Lewis Consultants Pte Ltd
 
 Fair valuation of businesses, financial instruments, ESOS options, and intellectual property rights.
@@ -107,6 +122,21 @@ Fair valuation of businesses, financial instruments, ESOS options, and intellect
 
 ---
 
+#### J Accounting Pte. Ltd.
+
+Helping small businesses live their dreams through tax advisory
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $300</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64eec2ef962d320012d72419' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/j-accounting-pte-ltd/){:target='_blank'}
+
+---
+
 #### Nexia Solutions Pte Ltd
 
 Audit, assurance, tax, valuation, risk and governance, corporate recovery, IT infrastructure.
@@ -119,36 +149,6 @@ Audit, assurance, tax, valuation, risk and governance, corporate recovery, IT in
 </ul>
 
 <a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/nexia-solutions-pte-ltd/){:target='_blank'}
-
----
-
-#### PricewaterhouseCoopers Singapore Pte. Ltd.
-
-Community of solvers combining innovative technologies to build trust and deliver sustained outcomes
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> Above 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to Above $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/643f515ccac01400112be325' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/pricewaterhousecoopers-singapore-pte-ltd/){:target='_blank'}
-
----
-
-#### Taxise Asia LLC (WTS Taxise)
-
-Boutique law firm specialising in international tax, transfer pricing and international trade law.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 16 to 20</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,000</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/taxise-asia-llc--wts-taxise-/){:target='_blank'}
 
 ---
 
