@@ -10,9 +10,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** |  
-|  -----------   |------------------| 
-| 01 Nov, 3pm - 6pm | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. | 
-| 01 Nov, 6pm - 10pm | **ALL GoBusiness Dashboard Licences** will not be available. |      
+|  -----------   |----------
+<<<<<<maintenance
 | 01 Nov, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |    
 | 01 Nov, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 01 Nov, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |     
