@@ -1,21 +1,14 @@
 ---
-title: Apply for Public Entertainment Licence
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Apply-for-Public-Entertainment-Licence
+title: Public Entertainment Licence
+permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence
 third_nav_title: Singapore Police Force (SPF)
 ---
 
-## Apply for Public Entertainment Licence
+## Public Entertainment Licence
 
 Singapore Police Force (SPF)
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=50" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=50" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/dea91876-29a3-4ead-8787-d360ad10319a" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -25,20 +18,20 @@ Singapore Police Force (SPF)
 <h3>FAQ</h3>
 
 <ol>
-  <li>
-    <strong>Where can I get more information for Public Entertainment Licence?</strong><br>        
+<li>
+<strong>Where can I get more information for Public Entertainment Licence?</strong><br> 
 More information can be found at the 
 <a href="https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank" rel="noopener">SPF website</a>
-  </li>
-  <li>
-    <strong>Who can be an applicant?</strong><br>
-If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
+</li>
+<li>
+<strong>Who can be an applicant?</strong><br>
+If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in GoBusiness Dashboard with relation to these changes. This waiting time is required to get the updates synced for GoBusiness Dashboard system verification.<br><br>
 
 <strong>Entity Type:</strong> <br>
 Limited Liability Partnership<br>
 <strong>Eligibility Criteria:</strong><br>
 Applicant must be having position:<br> 
-* PARTNER cum MANAGER<br>        
+* PARTNER cum MANAGER<br> 
 <br>
 
 <strong>Entity Type:</strong> <br>
@@ -49,7 +42,7 @@ Applicant must be having one of the following position:<br>
 * SECRETARY<br>
 * DIRECTOR<br>
 * CHIEF EXECUTIVE OFFICER<br>
-<br>        
+<br> 
 
 <strong>Entity Type:</strong> <br>
 Business (Sole Proprietor/Partnership)<br>
@@ -65,7 +58,7 @@ LP<br>
 Applicant must be having one of the following position:<br>
 * GENERAL PARTNER<br>
 * LIMITED PARTNER
-  </li>
+</li>
 
 </ol>
 
