@@ -1,16 +1,15 @@
 ---
-title: 'SAP Business One SQL & HANA Version 10.0'
+title: 'One-Stop Document Access Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1301
 ---
 
-## SAP Business One SQL & HANA Version 10.0
+## One-Stop Document Access Version 2.0
 
 ## Overview
 
 **Description**
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+Powered by M365 and other integrated apps, OSDAS is a cloud-based document management solution offering versioning, collaboration, file sharing, meta-data tagging, digitization, search, automated document processing, OCR content search, digital signatures, and PDF management. With cloud and mobile access, OSDAS ensures secure document management across multiple sites with customized user permissions and automated cloud backup. Ready for deployment, OSDAS is an all-rounded solution for SMEs.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,48 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 License)</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$6,381.00</td>
+<td style='padding: 10px;'>$6,381.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Licenses)</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus-Enhanced</td>
+<td style='padding: 10px;'>$7,812.00</td>
+<td style='padding: 10px;'>$7,780.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Licenses)</td>
-<td style='padding: 10px;'>$37,350.00</td>
-<td style='padding: 10px;'>$30,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro</td>
+<td style='padding: 10px;'>$10,152.00</td>
+<td style='padding: 10px;'>$10,152.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (4 Licenses)</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro-Enhanced</td>
+<td style='padding: 10px;'>$16,596.00</td>
+<td style='padding: 10px;'>$14,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Licenses)</td>
-<td style='padding: 10px;'>$54,250.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise-Enhanced</td>
+<td style='padding: 10px;'>$23,616.00</td>
+<td style='padding: 10px;'>$21,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROMINDS_One_Stop_Document_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
+ Company Name: PROMINDS PTE LTD<br>Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Swingvy Version 1.233.0'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1738
 ---
 
-## Swingvy Version 1.233.0
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
-<td style='padding: 10px;'>$1,640.00</td>
-<td style='padding: 10px;'>$1,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$3,226.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
-<td style='padding: 10px;'>$8,020.00</td>
-<td style='padding: 10px;'>$8,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
-<td style='padding: 10px;'>$11,445.00</td>
-<td style='padding: 10px;'>$11,445.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
-<td style='padding: 10px;'>$14,480.00</td>
-<td style='padding: 10px;'>$14,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,690.00</td>
+<td style='padding: 10px;'>$3,626.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

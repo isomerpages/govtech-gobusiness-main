@@ -1,17 +1,15 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Farm Washing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1046
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Farm Washing System
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
-
-Cost of equipment apped at $37,500 per unit 
+Washing system equipped with a combination of spray nozzles and brushes to wash produce.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment apped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Min torque range: 1,000 Nm<br><br>2. Equipment can include 1 battery pack or power unit per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Washing System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

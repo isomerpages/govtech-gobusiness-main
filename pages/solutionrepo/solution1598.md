@@ -1,17 +1,17 @@
 ---
-title: 'Bamboo Sea - Xero'
+title: 'DM Verz Design Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1598
 ---
 
-## Bamboo Sea - Xero
+## DM Verz Design Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software with over 3.5 million subscribers and Bamboo Sea is committed to assisting SMEs become more efficient and productive at record keeping so that business owners can focus on the customers. 
-
-Together, we will have access to information anywhere and so that we can make business decisions promptly.
+Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
+The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
+The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +25,48 @@ Together, we will have access to information anywhere and so that we can make bu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software and Setup</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software, Setup, and Training</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Application Integration</td>
-<td style='padding: 10px;'>$6,064.00</td>
-<td style='padding: 10px;'>$5,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Bamboo Sea Pte Ltd<br>Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: wenyun@bamboosea.sg <br>
+ Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

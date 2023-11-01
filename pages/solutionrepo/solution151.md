@@ -1,15 +1,15 @@
 ---
-title: 'ZoneSafe Proximity Warning Systems Version V03'
+title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution151
 ---
 
-## ZoneSafe Proximity Warning Systems Version V03
+## Job Redesign Consultancy - BDO Consultants Pte Ltd
 
 ## Overview
 
 **Description**
 
-The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/operators, and personnel with warnings that they are in close proximity of each other. The purpose of the system is to prevent collisions between vehicles and personnel in the workplace.
+BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/op
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Pedestrian - (Per Vehicle)</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Vehicle - (Per Vehicle)</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/op
 
 ## Vendor Information
 
- Company Name: Automation Support Services Pte Ltd<br>Web URL: www.assmsb.com <br>Contact Hotline: 68446223 <br>Contact Email: david@assmsb.com <br>
+ Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617 <br>Contact Email: chriskuang@bdo.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
