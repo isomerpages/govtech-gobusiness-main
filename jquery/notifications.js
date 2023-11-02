@@ -5,8 +5,7 @@ const custom_notifications = [
   //1 system downtime only
   
   //multiple services
-  "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused.", 
-   "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark Services will not be available from 01 Nov 2023 3pm to 02 Nov 2023 6pm. We apologise for the inconvenience caused."
+  "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
 ];
 
 
