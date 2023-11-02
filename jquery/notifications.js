@@ -9,6 +9,7 @@ const custom_notifications = [
    "<b>[Attention: System Maintenance]</b> Progressive Wage (PW) Mark Services will not be available from 01 Nov 2023 3pm to 02 Nov 2023 6pm. We apologise for the inconvenience caused."
 ];
 
+
 // Do not edit the following code
 
 const custom_notificationContainer = `<div class="notifications-container" role="complementary" aria-label="announcement"></div>`;
