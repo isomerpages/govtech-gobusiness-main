@@ -5,8 +5,6 @@ permalink: /enterprisejobskills/digital-services/
 
 ## All Digital Services
 
-![All Digital Services](/images/epjs/digital-services/All Digital Services.png)
-
 <table>
 <tr>
 <th style="width:30%;"><b>Service Name</b></th>

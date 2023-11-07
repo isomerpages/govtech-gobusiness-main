@@ -1,15 +1,15 @@
 ---
-title: 'Mastercam Software Version 2023'
+title: 'MetroERP Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1720
 ---
 
-## Mastercam Software Version 2023
+## MetroERP Version 1.0
 
 ## Overview
 
 **Description**
 
-Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to manufacturing workpieces with Computer-Aided Manufacturing (CAM) on CNC machines. Mastercam provides a complete solution from the start of design to the production lines, manufacturing parts with precision and efficiency.
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,27 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Lathe</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (1 User, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (5 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill (2 license)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Lathe</td>
-<td style='padding: 10px;'>$38,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Multiaxis</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (10 Users & PEPPOL-Included)</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +53,7 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 
 ## Vendor Information
 
- Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br>Contact Hotline: 87714911 <br>Contact Email: info@metrogroup.solutions <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

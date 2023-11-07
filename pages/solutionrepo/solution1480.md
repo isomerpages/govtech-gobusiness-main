@@ -1,15 +1,15 @@
 ---
-title: 'PayAdvisorMobile HRMS'
+title: 'Bitdefender GravityZone Business Security Premium'
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
-## PayAdvisorMobile HRMS
+## Bitdefender GravityZone Business Security Premium
 
 ## Overview
 
 **Description**
 
-PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
+GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,49 @@ PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 1 (up to 25 users)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Licenses</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part1.pdf
+                                                                                 ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 2 (up to 50 users)</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Licenses</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 3 (up to 100 users)</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Licenses</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 4 (up to 150 users)</td>
-<td style='padding: 10px;'>$16,450.00</td>
-<td style='padding: 10px;'>$16,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Licenses</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 5 (up to 200 users)</td>
-<td style='padding: 10px;'>$20,550.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 Licenses</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
+ Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -42,14 +42,14 @@ The services provided the following:
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
 
 ---
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals, </li><li style='line-height: 27px; margin: 0px 0px !important'>Environmental Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare, </li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media, </li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport, </li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore, </li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering, </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail, </li><li style='line-height: 27px; margin: 0px 0px !important'>Sea Transport, </li><li style='line-height: 27px; margin: 0px 0px !important'>Security, </li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Electronics</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Environmental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Land Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Sea Transport</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -70,6 +70,8 @@ The services provided the following:
 ### Testimonials
 
 *"We found Mr Yap to be very professional, responsive & and reliable. Overall, we found Mr Yap to constantly exceed our expectations and would recommend Mr Yap for valuation and advisory services."* - Dr M, Group Director, Company O.
+
+*"We found that Mr Yap to be very professional, responsive & reliable. Overall, we found Mr Yap to constantly exceed our expectations and would recommend Mr Yap for any valuation and advisory services."* - Mr T, Executive Director, Company K.
 
 *"Mr Yap has consistently exceeded our expectations and I would strongly recommend Mr Yap for any valuation and advisory services."* - Mr P, CFO, Company A.
 

@@ -1,17 +1,15 @@
 ---
-title: 'ABSS'
+title: 'Microsoft Cybersecurity Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
-## ABSS
+## Microsoft Cybersecurity Package
 
 ## Overview
 
 **Description**
 
-ABSS Premier / Premier Plus is perfect for SMEs that require integrated accounting, advanced inventory, payroll and leave management software to manage transactions and other business areas.  
-
-SMEs can process foreign currency transactions, track GST, analyze business performance accurately with its built-in reports & stay compliant effortlessly with the latest tax requirements. Payrolls are also quickly processed and comply with IRAS AIS (Auto-Inclusion Scheme).
+This managed security service leverages the power of Microsoft's integrated threat protection solution that protect your devices and office 365 email against advanced threats such as credential phishing, ransomware and malware. With an "assume breach" mindset and AI-driven adaptive protection, behavioral cyber telemetry is continuously collected so as to prevent, detect, respond and recover automatically against advanced threats near real-time. Axiom will deploy the solution and support you.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ SMEs can process foreign currency transactions, track GST, analyze business perf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$1,903.74</td>
-<td style='padding: 10px;'>$1,903.74</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'>$1,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$2,744.86</td>
-<td style='padding: 10px;'>$2,744.86</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'>$4,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Version 30 - 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$3,677.57</td>
-<td style='padding: 10px;'>$3,677.57</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'>$13,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - Single User with InvoiceNow</td>
-<td style='padding: 10px;'>$3,777.57</td>
-<td style='padding: 10px;'>$3,777.57</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'>$20,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premier Plus Version 30 - 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$4,534.58</td>
-<td style='padding: 10px;'>$4,534.58</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Asianbusiness_Annex3_CR_wef22dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'>$36,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Asian Business Software Solutions Pte Ltd<br>Web URL: sg.abssasia.com <br>Contact Hotline: +6565056582 <br>Contact Email: cs.sg@abssasia.com <br>
+ Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

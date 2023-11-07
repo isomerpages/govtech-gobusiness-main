@@ -1,15 +1,15 @@
 ---
-title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
+title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1306
 ---
 
-## Weebo Digital Ordering Solution Version 3.2.9.0
+## SKYFY VTS FLEET MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
+Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,10 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,175.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +36,7 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 
 ## Vendor Information
 
- Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
+ Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

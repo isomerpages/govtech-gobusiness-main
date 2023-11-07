@@ -1,15 +1,20 @@
 ---
-title: 'Conveyor System for transporting materials'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1082
 ---
 
-## Conveyor System for transporting materials
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-A conveyor system that automates farming processes such as production, feeding, post-harvesting, packing, etc.
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -20,9 +25,9 @@ A conveyor system that automates farming processes such as production, feeding, 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Conveyor System for transporting materials</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
 </tr>
 </table>
 

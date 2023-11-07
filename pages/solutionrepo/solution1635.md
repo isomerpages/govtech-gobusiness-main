@@ -1,17 +1,15 @@
 ---
-title: '1ECommerce'
+title: 'DM Cleverly Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1635
 ---
 
-## 1ECommerce
+## DM Cleverly Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-1ECommerce by Bona Technologies is a bespoke website solution specialising in WooCommerce powered by WordPress which will create a new business channel for SMEs to GoDigital and increase their sales revenue with minimal cost. 
-
-1ECommerce has powerful promotion capabilities to drive customer retention and can be integrated with 1ERP - Singapore ERP Software for efficient and streamlined business processes.
+Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,24 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1635
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$1,680.00</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SEM</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$2,240.00</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SM</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'>$4,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Deluxe</td>
-<td style='padding: 10px;'>$6,280.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEM SM</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +50,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1635
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
