@@ -47,5 +47,5 @@ Another scheme companies can look at is the [Zero-GST Warehouse Scheme (ZGS)](ht
 
 The GST rate hike is on its way, but it doesn’t have to spell immediate doom and gloom for businesses. Government support schemes like GST vouchers will continue to alleviate the pressure on lower-income households in Singapore, while some of the above tips may prove useful in helping businesses stay competitive!
 
-<em>This article is accurate as at 28 Dec 2022</em>
+<em>This article is accurate as at 10 Nov 2023</em>
 
