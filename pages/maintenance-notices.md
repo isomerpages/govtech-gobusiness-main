@@ -10,10 +10,14 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** |  
-|  -----------   |------------------| 
-| 01 Nov, 6pm - 10pm | **ALL GoBusiness Dashboard Licences** will not be available. |      
-| 01 Nov, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |     
-| 01 Nov, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |     
+|  -----------   |---------------- |  
+| 11 Nov, 12am - 6am<br> 11 Nov, 10pm - 12 Nov, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+| 11 Nov, 2am - 4am<br> 12 Nov, 2am - 4am | **Singpass Services** will be intermittently unavailable due to scheduled maintenance. |  
+| 12 Nov, 12am - 7pm | **GoBusiness Dashboard for FIN holders** will be unavailable due to scheduled maintenance. | 
+
+
+
+
    
 
 <script src="/jquery/jquery.min.js"></script>

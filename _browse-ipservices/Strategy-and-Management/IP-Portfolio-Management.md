@@ -28,7 +28,7 @@ IP portfolio management enables your business to identify cost-saving opportunit
 ---
 
 ### Connect with relevant service providers for IP portfolio management services
-**40 service providers listed.**
+**41 service providers listed.**
 
 Select a service provider below to view their profile and connect with them.
 
@@ -87,7 +87,7 @@ We are a law firm specialising in IP registration, enforcement, advisory, and di
 Bird & Bird ATMD is a leading full-service Singapore law firm in association with Bird & Bird.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to Above $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
@@ -102,7 +102,7 @@ Bird & Bird ATMD is a leading full-service Singapore law firm in association wit
 Dentons Rodyk offers clients a full suite of legal services to do business locally and globally.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -148,7 +148,7 @@ Donaldson & Burkinshaw LLP provides IP services and practises the full spectrum 
 Founded in 1962, we offer full-service IP solutions globally with local support from Singapore.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $3,400</li>
@@ -164,7 +164,7 @@ Founded in 1962, we offer full-service IP solutions globally with local support 
 We are a specialist IP law firm, established in 2001, providing expert legal advice.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
@@ -209,7 +209,7 @@ Founded in 1998 with a strong international outlook and has been active in cross
 A patent law agency offering certified services with fast turnaround times, at fixed prices.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $590</li>
@@ -240,7 +240,7 @@ Trusted provider for domain name and DNS management, as well as brand and fraud 
 Questel is a true end-to-end intellectual property solutions provider.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 66 to 70</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -255,7 +255,7 @@ Questel is a true end-to-end intellectual property solutions provider.
 Our name says it all - an IP hub providing Asia-wide coverage with a strong focus on Southeast Asia.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 2</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 66 to 70</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $250</li>
@@ -348,7 +348,7 @@ CMS is a global top-10 law firm with an active IP offering in the Asia-Pacific r
 We help our clients protect, manage, and commercialise their intellectual property assets.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 36 to 40</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
@@ -394,7 +394,7 @@ A boutique law firm specialising in IP, media, entertainment, technology, busine
 Our law firm provides a full range of IP services including contentious matters and advisory work.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
@@ -440,7 +440,7 @@ EverEdge provides specialist intangible asset advisory, valuation and corporate 
 We specialize in trademark, design and patent prosecution, and IP dispute and commercial work.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
@@ -471,7 +471,7 @@ A full-service law firm founded in 1947 and member of PLG International Lawyers.
 JurisAsia LLC provides legal services globally through our exclusive association with Gowling WLG.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 16 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
@@ -487,7 +487,7 @@ JurisAsia LLC provides legal services globally through our exclusive association
 CHP Law LLC provides elegant and creative legal solutions for its clients.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -502,7 +502,7 @@ CHP Law LLC provides elegant and creative legal solutions for its clients.
 VJP offers excellent support to innovations as its team covers a wide range of technology.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 3</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
@@ -518,7 +518,7 @@ VJP offers excellent support to innovations as its team covers a wide range of t
 IP/IA experts with vast experience advising on contentious and non-contentious IP-related matters.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -534,7 +534,7 @@ IP/IA experts with vast experience advising on contentious and non-contentious I
 Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Trade Mark Attorneys.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
@@ -549,7 +549,7 @@ Marks & Clerk Singapore LLP is an award-winning firm of Registered Patent and Tr
 Seiter IP Consultants LLP is a small IP boutique firm providing different types of IP services.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
@@ -580,7 +580,7 @@ Shook Lin & Bok LLP is a leading full service law firm with an Asian presence an
 We are law firm with focus on IP law. We serve individuals and businesses of all sizes.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $400</li>
@@ -595,7 +595,7 @@ We are law firm with focus on IP law. We serve individuals and businesses of all
 Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries.
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
@@ -648,6 +648,22 @@ A boutique corporate and corporate finance law firm.
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64474f4686f6760012553eda' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/jt-legal-llc/){:target='_blank'}
+
+---
+
+#### Mary Thomas IP (MTIP)
+
+MTIP specializes in strategizing and providing solutions to each life cycle of a brand/ trademark.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of clients served in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> For review and advice $550</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free Consultation for review of IP in the business and provide strategy advice</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/651116b54fec5f001271017e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/mary-thomas-ip--mtip-/){:target='_blank'}
 
 ---
 
