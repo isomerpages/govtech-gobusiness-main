@@ -9,9 +9,9 @@ description: 'GST rates in Singapore are set to increase from 7 per cent to 9 pe
 ---
 
 ![Navigating the upcoming GST hike](/images/blog/content/GSTHike Feature.jpg)
-<figcaption>With the GST rate hike on its own, these three quick and easy tips can help you alleviate potential cost increases to stay competitive (Source: Canva)</figcaption>
+<figcaption>These are three quick and easy tips to help you alleviate potential cost increases and stay competitive amid the GST rate hike (Source: Canva)</figcaption>
 
-Come 1 January 2023, Goods and Services Tax (GST) will increase from the current 7 per cent to 8 per cent, with another increase to 9 per cent in the subsequent year. This will inevitably spell greater cost pressures for business, especially small- and medium-sized enterprises (SMEs) who may already be struggling with the ongoing turmoil in the supply chain. 
+In January 2023, Goods and Services Tax (GST) has increased from 7 per cent to 8 per cent, with another increase to 9 per cent by 1 January 2024. This will inevitably spell greater cost pressures for business, especially small- and medium-sized enterprises (SMEs) who may already be struggling with the ongoing turmoil in the supply chain. 
 
 In light of the GST rise, how can small businesses continue to remain competitive without passing the costs down to their customers in the form of higher prices? If you are looking for ways to cope with the impact of the GST hike, here are three tips that may help your business preserve your bottom line, and remain competitive in a challenging business environment. 
 
@@ -47,5 +47,5 @@ Another scheme companies can look at is the [Zero-GST Warehouse Scheme (ZGS)](ht
 
 The GST rate hike is on its way, but it doesn’t have to spell immediate doom and gloom for businesses. Government support schemes like GST vouchers will continue to alleviate the pressure on lower-income households in Singapore, while some of the above tips may prove useful in helping businesses stay competitive!
 
-<em>This article is accurate as at 28 Dec 2022</em>
+<em>This article is accurate as at 10 Nov 2023</em>
 
