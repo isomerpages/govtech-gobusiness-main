@@ -8,7 +8,7 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-<p>Due to system maintenance, this application will not be available from 16 Nov 2023 0800hrs to 20 Sep 2023 0800hrs.</p>
+<p>Due to system maintenance, this application will not be available from 16 Nov 2023 0800hrs to 20 Nov 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
