@@ -1,17 +1,21 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Automated Dishwasher'
 permalink: /productivity-solutions-grant/solutionrepo/solution1013
 ---
 
-## Automatic Nut Splitter
+## Automated Dishwasher
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
+The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
+- A hood-type machine come with a vertical lift hood 
+- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
 
-Cost of equipment capped at $7,500 per unit 
+Support capped at $5,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +26,9 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>1. Minimum water tank capacity of 15 litres</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'SMARTHRMS Version 1'
+title: 'OS Store E-Commerce Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1630
 ---
 
-## SMARTHRMS Version 1
+## OS Store E-Commerce Version 3.0
 
 ## Overview
 
 **Description**
 
-SmartHRMS is a comprehensive HR management system designed to streamline and simplify human resources operations. SmartHRMS's range of features and functionalities greatly benefit organizations in managing their HR processes effectively. With SmartHRMS, companies can streamline their HR operations, minimize manual work, enhance accuracy, and ensure compliance. HR professionals and employees alike can focus on strategic initiatives, talent management, and fostering a productive work environment.
+Elevate one's business to new heights with OS Store, an all-in-one web-based e-commerce solution tailored for small and medium-sized enterprises. The platform boasts a custom user interface, intelligent features, and plugins that deliver seamless retail management and an unparalleled user experience. OS Store encompasses essential elements ranging from cybersecurity and order fulfillment to customer segmentation, marketing, engagement, loyalty, competition, pricing, and inventory management.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ SmartHRMS is a comprehensive HR management system designed to streamline and sim
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE A (50 Employees)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE B (100 Employees)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE C (50 Employees)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE D (100 Employees)</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE E (150 Employees)</td>
-<td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Orfeostory_ECommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: AVELOGIC PTE LTD<br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
+ Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,19 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
+title: 'CARDDIO Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution193
 ---
 
-## Job Redesign Consultancy - Cadence Group Pte Ltd
+## CARDDIO Version 1
 
 ## Overview
 
 **Description**
 
-Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
-
-Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
-
-Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
+Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
 
 ## Solution Packages Option(s)
 
@@ -27,20 +23,41 @@ Our consultants are qualified senior HR professionals in various industries. We 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
+ Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

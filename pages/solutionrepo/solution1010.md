@@ -1,17 +1,18 @@
 ---
-title: 'Torque Multiplier'
+title: 'Blast Chiller'
 permalink: /productivity-solutions-grant/solutionrepo/solution1010
 ---
 
-## Torque Multiplier
+## Blast Chiller
 
 ## Overview
 
 **Description**
 
-The  torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. 
+By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
 
-Cost of equipment capped at $20,000 per unit 
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Torque Multiplier</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>1. Min Torque Range: 2,000 Nm<br><br>2. Multiplication accuracy or Multiplier output accuracy: +/- 5%<br><br>3. Equipment can include 1 battery pack or power unit per equipment </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>2. Minimum capacity of 5 GN 1/1</td>
 </tr>
 </table>
 

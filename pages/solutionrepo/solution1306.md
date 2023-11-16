@@ -1,15 +1,15 @@
 ---
-title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
+title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1306
 ---
 
-## SKYFY VTS FLEET MANAGEMENT SYSTEM
+## Advanced Ecommerce Solution by I Concept Version 2.0
 
 ## Overview
 
 **Description**
 
-Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
+Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,175.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Skyfy Fleet Management System VTS helps companies manage their vehicles all from
 
 ## Vendor Information
 
- Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
+ Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
