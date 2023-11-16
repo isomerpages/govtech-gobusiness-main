@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/fe91f53c-7370-4a1a-9ea2-044ab8e69d1b" type="primary" %}
+<p>Due to system maintenance, this application will not be available from 16 Nov 2023 0800hrs to 20 Sep 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
