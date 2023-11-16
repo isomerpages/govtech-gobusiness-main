@@ -31,5 +31,5 @@ Layout plan of the premise<br/>
 Operation Workflow<br/>
 Labels of Products<br/>
 Standard Operating Procedures (SOPs)<br/>
-Lease/Tenancy Agreement></p>
+Lease/Tenancy Agreement</p>
 
