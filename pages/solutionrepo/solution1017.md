@@ -1,37 +1,71 @@
 ---
-title: 'Ethylene Removal System'
+title: 'Managed Firewall Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1017
 ---
 
-## Ethylene Removal System
+## Managed Firewall Solution
 
 ## Overview
 
 **Description**
 
-An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
-
-Cost of equipment capped at $37,500 per unit
+LGA's Managed Firewall Solution provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance thanks to LGA's fully managed service.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ethylene Removal System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Removes ethylene from the environment, resulting in longer shelf life and reduced spoilage in produce.<br>- No harmful substance must be released into the environment E.g. Ozone<br>- Can be used in storage and production facilities.<br>- Installation and maintenance costs are not supported.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 40F</td>
+<td style='padding: 10px;'>$2,440.00</td>
+<td style='padding: 10px;'>$2,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 60F</td>
+<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 80F</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'>$4,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 100F</td>
+<td style='padding: 10px;'>$5,980.00</td>
+<td style='padding: 10px;'>$5,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 200F</td>
+<td style='padding: 10px;'>$8,860.00</td>
+<td style='padding: 10px;'>$7,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:LGA Telecom Pte Ltd<br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

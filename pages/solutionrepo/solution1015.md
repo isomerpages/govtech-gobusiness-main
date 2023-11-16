@@ -1,17 +1,18 @@
 ---
-title: 'Automatic Flow Wrap Packaging Machine'
+title: 'Industrial/Commercial Slicer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1015
 ---
 
-## Automatic Flow Wrap Packaging Machine
+## Industrial/Commercial Slicer
 
 ## Overview
 
 **Description**
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
+The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +23,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px;'>1. Machine is able to slice food products at various widths<br><br>2. Slicing process should be fully automated without a need for to manually reposition the food product</td>
 </tr>
 </table>
 

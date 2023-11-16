@@ -1,15 +1,15 @@
 ---
-title: 'DM Business Thrust Digital Marketing Packages Version DM01'
+title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1186
 ---
 
-## DM Business Thrust Digital Marketing Packages Version DM01
+## Weebo Digital Ordering Solution Version 3.2.9.0
 
 ## Overview
 
 **Description**
 
-Business Thrust specialises in digital marketing and offers SEO and SEM services to help businesses improve their online visibility, drive traffic to their websites, and increase conversions through effective search engine optimization techniques. The key benefits of digital marketing services include enhanced brand recognition, higher search engine rankings, and increased website traffic, resulting in improved lead generation and sales for clients.
+Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Business Thrust specialises in digital marketing and offers SEO and SEM services
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO+SEM (6 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_DMBusinessThrust_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+ Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

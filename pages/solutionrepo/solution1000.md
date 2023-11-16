@@ -1,17 +1,15 @@
 ---
-title: 'Combi Oven'
+title: 'Automated Irrigation Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1000
 ---
 
-## Combi Oven
+## Automated Irrigation Equipment/ System
 
 ## Overview
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
-
-Cost of equipment capped at $37,500 per unit
+Water efficient irrigation system (e.g. sprinkler)
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Unit is programmable for convection, steam, and combination cooking.<br><br>2. Minimum capacity of 5GN</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Payboy HRMS'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution640
 ---
 
-## Payboy HRMS
+## Xero
 
 ## Overview
 
 **Description**
 
-Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
+Xero is a cloud-based accounting software which allow multiple users to log into the system at the same time, anytime, anywhere and on any device to view and perform transactions. Bank transactions can be fed directly into Xero daily so that cash position, receivables and payables can be kept accurate and updated. OCR technology enables bills and receipts to be pulled into Xero automatically.  Xero simplify accounting and free up time for the more important task of doing beautiful business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package A (20 Employees)</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Lite</td>
+<td style='padding: 10px;'>$2,464.00</td>
+<td style='padding: 10px;'>$2,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package B (45 Employees)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Basic</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package C (75 Employees)</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Standard</td>
+<td style='padding: 10px;'>$4,064.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package D (120 Employees)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package E (200 Employees)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premium</td>
+<td style='padding: 10px;'>$6,464.00</td>
+<td style='padding: 10px;'>$6,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 
 ## Vendor Information
 
- Company Name: Payboy Pte. Ltd.<br>Web URL: https://payboy.biz <br><br>Contact Hotline: 91876425 <br><br>Contact Email: nigel.lim@payboy.biz <br><br>
+ Company name:RDC CORPORATE PTE LTD<br>Web URL: www.xero.com/sg/ <br>Contact Hotline: 62235466 <br>Contact Email: support@rdccorporate.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

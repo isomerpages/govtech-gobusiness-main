@@ -1,15 +1,15 @@
 ---
-title: 'Advocado Cloud Loyalty CRM Software'
+title: 'Mastercam Software Version 2023'
 permalink: /productivity-solutions-grant/solutionrepo/solution1580
 ---
 
-## Advocado Cloud Loyalty CRM Software
+## Mastercam Software Version 2023
 
 ## Overview
 
 **Description**
 
-Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing and sales automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
+Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to manufacturing workpieces with Computer-Aided Manufacturing (CAM) on CNC machines. Mastercam provides a complete solution from the start of design to the production lines, manufacturing parts with precision and efficiency.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers S
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advocado_Cloud_Loyalty_CRM_240823_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Lathe</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$8,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advocado_Cloud_Loyalty_CRM_240823_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D</td>
+<td style='padding: 10px;'>$25,800.00</td>
+<td style='padding: 10px;'>$25,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'>$8,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advocado_Cloud_Loyalty_CRM_240823_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill (2 license)</td>
+<td style='padding: 10px;'>$31,600.00</td>
+<td style='padding: 10px;'>$31,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Lathe</td>
+<td style='padding: 10px;'>$38,600.00</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Multiaxis</td>
+<td style='padding: 10px;'>$49,800.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers S
 
 ## Vendor Information
 
- Company Name: Advocado Pte Ltd<br>Web URL: https://www.advocadoapp.com <br>Contact Hotline: 64449556 <br>Contact Email: hello@advocado.me <br>
+ Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
