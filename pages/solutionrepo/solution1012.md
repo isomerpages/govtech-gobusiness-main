@@ -1,17 +1,20 @@
 ---
-title: 'Automatic Flange Spreader'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1012
 ---
 
-## Automatic Flange Spreader
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Cost of equipment capped at $4,000 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +25,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>1. Min. spreading force: 140 KN <br><br>2. ATEX certified or IECEX certified<br><br>3. Equipment can include 1 battery pack or power unit per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
 </tr>
 </table>
 

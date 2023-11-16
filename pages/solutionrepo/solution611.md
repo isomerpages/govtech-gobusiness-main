@@ -1,18 +1,15 @@
 ---
-title: 'aiCARE Shield Managed Security Version Ver1.0'
+title: 'Profectant Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution611
 ---
 
-## aiCARE Shield Managed Security Version Ver1.0
+## Profectant Xero
 
 ## Overview
 
 **Description**
 
-NTC Integration Pte Ltd was established in 1994. We are a Solution Integrator, helping Businesses with their IT needs and Digital Transformation strategy. aiCARE Shield Managed Security was offered to customer since 2019. 
-aiCARE Shield Managed Security comes with 8x5 Hotline Support.
-Support Day : Monday - Friday
-Support Time : 9am-6pm
+Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
 
 ## Solution Packages Option(s)
 
@@ -26,38 +23,24 @@ Support Time : 9am-6pm
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle10</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'>$1,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'>$2,368.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle25</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'>$3,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle501</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'>$6,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle752</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'>$10,130.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>aiCARE Shield Managed Security Version Ver1.0 - aiCARE Shield Package Bundle1003</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'>$13,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NTC_INTEGRATION_20200849_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -67,7 +50,7 @@ Support Time : 9am-6pm
 
 ## Vendor Information
 
- Company Name: NTC INTEGRATION PTE LTD<br>Web URL: WWW.NTC.COM.SG <br><br>Contact Hotline: 97805234 <br><br>Contact Email: keith@ntc.com.sg <br><br>
+ Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

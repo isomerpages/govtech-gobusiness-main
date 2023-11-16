@@ -1,15 +1,15 @@
 ---
-title: 'Carbonate HR Version 1'
+title: 'Job Redesign Consultancy - CET Global Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution198
 ---
 
-## Carbonate HR Version 1
+## Job Redesign Consultancy - CET Global Pte Ltd
 
 ## Overview
 
 **Description**
 
-Carbonate HR is a web and mobile application based HR management system that focuses on helping SME manage leave, schedule their employees with work timings, track attendance and pay staff quickly. Carbonate is an all in one solution to solve all your HR needs.
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Carbonate HR is a web and mobile application based HR management system that foc
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 20</td>
-<td style='padding: 10px;'>$4,320.00</td>
-<td style='padding: 10px;'>$4,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 50</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 100</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 150</td>
-<td style='padding: 10px;'>$21,600.00</td>
-<td style='padding: 10px;'>$21,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 200</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'>$26,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Carbonate HR is a web and mobile application based HR management system that foc
 
 ## Vendor Information
 
- Company Name: Carbonate Pte Ltd<br>Web URL: www.carbonateapp.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@carbonateapp.com <br><br>
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'Farm Produce Washing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution994
 ---
 
-## Commercial Inkjet Printer
+## Farm Produce Washing Machine
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
-
-Cost of equipment capped at $16,000 per unit
+A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $16,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>1. Machine has a touchscreen interface<br><br>2. Dates, including expiry, can be manually updated into Machine<br><br>3. Machine can automatically print unique barcode(s) for each product from production line</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

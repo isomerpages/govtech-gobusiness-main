@@ -1,22 +1,15 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'Fish fry quarantine tank system'
 permalink: /productivity-solutions-grant/solutionrepo/solution1008
 ---
 
-## Digital Welding Equipment
+## Fish fry quarantine tank system
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
-
-Cost of equipment  capped at $37,500 per unit
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ## Solution Packages Option(s)
 
@@ -27,9 +20,9 @@ Cost of equipment  capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

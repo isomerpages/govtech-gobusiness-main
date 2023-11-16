@@ -1,15 +1,15 @@
 ---
-title: 'Netiquette Cloud Business Suite'
+title: 'OCi Sales & Accounting Management System (SAM)'
 permalink: /productivity-solutions-grant/solutionrepo/solution572
 ---
 
-## Netiquette Cloud Business Suite
+## OCi Sales & Accounting Management System (SAM)
 
 ## Overview
 
 **Description**
 
-Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
+OCi Sales and Accounting Management System (SAM) is a straight-forward and comprehensive system in serving the needs in the following. Pre-Sales Management, Post-Sales Fulfilment Management, Accounts Receivable Management, Accounts Payable Management, Inventory Management, Multi-Currency Management, Project Management, Reporting, Accounting & Compliance Management.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Concurrent User)</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Concurrent Users)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Concurrent Users)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Concurrent Users)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package E (Saas for 35 Users)</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (8 Concurrent Users)</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Netiquette Software Pte Ltd<br>Web URL: www.netiquette.com.sg <br><br>Contact Hotline: 94882285 <br><br>Contact Email: enquiry@netiquette.com.sg <br><br>
+ Company name:OCi System Pte Ltd<br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

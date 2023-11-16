@@ -32,63 +32,55 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution171' target='_blank'>1SME</a><br></td>
-<td>Bona Technologies Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution203' target='_blank'>CARDDIO Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution193' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution253' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution243' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution293' target='_blank'>Eber Smart Members Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution278' target='_blank'>Eber Smart Members Solution</a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution349' target='_blank'>FirstCRM</a><br></td>
-<td>Firstcom Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution351' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution330' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
 <td>FLAVOR PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution679' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution624' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution680' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution625' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution816' target='_blank'>TWCSS - teamWork CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution751' target='_blank'>TWCSS - teamWork CRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1187' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1117' target='_blank'>WarelyCRM Version 1.2</a><br></td>
 <td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1217' target='_blank'>AIO CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1148' target='_blank'>AIO CRM</a><br></td>
 <td>AIO Interactive Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1248' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1179' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1292' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
 <td>Alitec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1536' target='_blank'>Zoho CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1461' target='_blank'>Zoho CRM</a><br></td>
 <td>Zoho Corporation Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1612' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1537' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte. Ltd.</td>
 </tr>
 </table>

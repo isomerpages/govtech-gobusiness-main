@@ -1,15 +1,19 @@
 ---
-title: 'QuickDesk Marketing'
+title: 'Royal Management Services XERO ACCOUNTING'
 permalink: /productivity-solutions-grant/solutionrepo/solution680
 ---
 
-## QuickDesk Marketing
+## Royal Management Services XERO ACCOUNTING
 
 ## Overview
 
 **Description**
 
-Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a very well-established CRM, ActiveCampaign, that helps companies automate their sales and marketing processes, and allows team managers to have an overview of their leads engagement and insights to the potential revenue that can be generated from the sales pipeline. QuickDesk also offers integrations with other applications, software implementation and account management services as requested to ensure effective usage.
+Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
+
+We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
+
+The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,38 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Starter</td>
-<td style='padding: 10px;'>$2,133.41</td>
-<td style='padding: 10px;'>$2,013.41</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
+<td style='padding: 10px;'>$728.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Basic</td>
-<td style='padding: 10px;'>$4,649.30</td>
-<td style='padding: 10px;'>$4,249.30</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
+<td style='padding: 10px;'>$1,928.00</td>
+<td style='padding: 10px;'>$1,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Standard</td>
-<td style='padding: 10px;'>$7,713.91</td>
-<td style='padding: 10px;'>$7,053.91</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
+<td style='padding: 10px;'>$2,528.00</td>
+<td style='padding: 10px;'>$2,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Enterprise</td>
-<td style='padding: 10px;'>$9,395.19</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
+<td style='padding: 10px;'>$3,528.00</td>
+<td style='padding: 10px;'>$3,525.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Premium</td>
-<td style='padding: 10px;'>$14,374.74</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/QuickDesk_QuickDesk_Marketing_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
+<td style='padding: 10px;'>$4,128.00</td>
+<td style='padding: 10px;'>$4,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +68,7 @@ Utilise QuickDesk to achieve more in marketing and sales. QuickDesk offers a ver
 
 ## Vendor Information
 
- Company name:QuickDesk Pte. Ltd.<br>Web URL: https://quickdesk.io/ <br>Contact Hotline: 88179134 <br>Contact Email: contact@quickdesk.io 
+ Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

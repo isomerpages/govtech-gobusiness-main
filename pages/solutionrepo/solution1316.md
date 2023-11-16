@@ -1,15 +1,15 @@
 ---
-title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1'
+title: 'ePSProfessional Version 1.7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1316
 ---
 
-## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1
+## ePSProfessional Version 1.7
 
 ## Overview
 
 **Description**
 
-Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Extended</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Extended</td>
-<td style='padding: 10px;'>$6,950.00</td>
-<td style='padding: 10px;'>$6,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaur
 
 ## Vendor Information
 
- Web URL: https://wecome.sg <br><br>Contact Hotline: 96824965 <br><br>Contact Email: wuhong@wecome.sg <br><br>
+ Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
