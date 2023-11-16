@@ -11,10 +11,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 |  -----------   |---------------- |  
-| 18 Nov, 12am - 6am<br> 18 Nov, 10pm - 19 Nov, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
-
-
-
+| 17 Nov, 10pm - 18 Nov, 6am<br> 18 Nov, 10pm - 19 Nov, 10am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
    
 
 <script src="/jquery/jquery.min.js"></script>
