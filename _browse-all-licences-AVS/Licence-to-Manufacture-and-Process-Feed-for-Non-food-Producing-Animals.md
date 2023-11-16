@@ -25,7 +25,7 @@ Licence Fees: $240.00 p.a</p>
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
-<p>ACRA – Registration for Companies/Business<br/>
+<p>ACRA - Registration for Companies/Business<br/>
 Approval from URA/HDB/JTC/NEA<br/>
 Layout plan of the premise<br/>
 Operation Workflow<br/>
