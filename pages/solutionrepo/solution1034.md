@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Feeding/ Drinking System'
+title: 'Electric powered/hybrid landscape equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1034
 ---
 
-## Automatic Feeding/ Drinking System
+## Electric powered/hybrid landscape equipment
 
 ## Overview
 
 **Description**
 
-A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
+Electric powered/hybrid landscape equipment e.g. electric excavator, electric wood chipper, but excluding electric buggy and handheld tools.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A system that automates the feeding/ drinking process at a predetermined time an
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric powered/hybrid landscape equipment</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

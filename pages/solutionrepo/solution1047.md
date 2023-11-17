@@ -1,15 +1,15 @@
 ---
-title: 'Enhanced disinfection system'
+title: 'Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology'
 permalink: /productivity-solutions-grant/solutionrepo/solution1047
 ---
 
-## Enhanced disinfection system
+## Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology
 
 ## Overview
 
 **Description**
 
-A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
+Equipment (e.g. pumps, bio-filters) that will be incorporated into recirculating aquaculture systems or equipment that improves the quality of the water to make it more acceptable or better for a specific end-use.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A disinfection system for vehicles / personnel entering farm premises to prevent
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

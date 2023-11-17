@@ -1,15 +1,15 @@
 ---
-title: 'CSG - Matterport Pro2 3D Solution'
+title: 'Cybots AMDR'
 permalink: /productivity-solutions-grant/solutionrepo/solution256
 ---
 
-## CSG - Matterport Pro2 3D Solution
+## Cybots AMDR
 
 ## Overview
 
 **Description**
 
-The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
+Cybots ensures cyber resilience for all sectors, from SMEs to large multinational organisations. Our AI-driven security operations include managed detection and response (MDR), threat hunting, cyber threat intelligence (CTI), and incidence response (IR). Powered by deep learning, adversarial and reinforced learning, our company's proprietary artificial intelligence engines enables our customers and partners to rapidly perform security threat analysis on a scalable, user-friendly platform.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ The Matterport Pro2 Camera together with the Cloud platform is the gold standard
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
-<td style='padding: 10px;'>$7,788.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-1</td>
+<td style='padding: 10px;'>$11,900.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
-<td style='padding: 10px;'>$14,076.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-2</td>
+<td style='padding: 10px;'>$21,000.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
-<td style='padding: 10px;'>$30,652.00</td>
-<td style='padding: 10px;'>$15,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-3</td>
+<td style='padding: 10px;'>$26,250.00</td>
+<td style='padding: 10px;'>$25,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
-<td style='padding: 10px;'>$62,604.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-4</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'>$29,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cybots AMDR - Standard Package Solution-5</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$38,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cybots_AMDR_20210460_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
+ Company Name: Cybots Pte. Ltd<br>Web URL: https://cybotsai.com/cybersecurity-solutions/advanced-managed-detection-response/ <br><br>Contact Hotline: 69835690 <br><br>Contact Email: contactus@cybotsai.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

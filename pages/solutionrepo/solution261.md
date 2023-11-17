@@ -1,15 +1,15 @@
 ---
-title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
+title: 'MyRetailer Android POS'
 permalink: /productivity-solutions-grant/solutionrepo/solution261
 ---
 
-## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
+## MyRetailer Android POS
 
 ## Overview
 
 **Description**
 
-Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 50/15</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'>$7,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A Standalone</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 75/20</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'>$9,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Dashboard</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 100/25</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'>$10,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Unified Payments</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'>$2,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 125/30</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'>$11,590.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Dashboard & Unified Payments</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'>$2,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0 - 150/35</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'>$12,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_PMS_+_E-Forms_20210409_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments & Web Store</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'>$3,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of exp
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company name:DCS Synthesis Pte Ltd<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
