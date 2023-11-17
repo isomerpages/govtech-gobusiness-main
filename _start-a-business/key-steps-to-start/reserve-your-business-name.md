@@ -13,7 +13,7 @@ Decide on a name for your business and use our e-Adviser for Starting a Business
 - Check if there are similar business names, and if it's available as a domain name or a username on Facebook/Instagram/YouTube/Twitter.
 - Create a Guided Journey to get your business started, step by step, and find out if additional approvals are needed.
 
-You can also check if there are similar trade marks [on the IP2SG portal](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
+You can also check if there are similar trade marks [on IPOS Digital Hub](https://digitalhub.ipos.gov.sg/FAMN/eservice/IP4SG/MN_TmSimilarMarkSearch){:target="_blank"}{:rel="noopener"}.
 
 Avoid names which are:
 
