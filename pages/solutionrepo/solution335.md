@@ -1,15 +1,16 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'FocusGuard FMS Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution335
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## FocusGuard FMS Version 2.0
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+FocusGuard Fleet Management System is designed to control, monitor, and track all vehicles. Locate vehicles using detailed maps round the clock. Access the Web-based Fleet Management portal or Mobile App to view real-time location and information of the vehicles and generate up-to-date reports.
+FocusGuard FMS generates a complete suite of commonly desired Reports.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,20 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Per Vehicle)</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_FocusGuard_Annex_3_CR_wef_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name: FocusGuard Pte Ltd<br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

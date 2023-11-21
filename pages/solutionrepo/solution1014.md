@@ -1,17 +1,19 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'Automated Noodle Boiler'
 permalink: /productivity-solutions-grant/solutionrepo/solution1014
 ---
 
-## Auto Welding Carriage
+## Automated Noodle Boiler
 
 ## Overview
 
 **Description**
 
-Manual welding is manpower intensive and time-consuming, depending on skills and experience of the welder. Auto welding carriage can be mounted onto steel plates or structures, and only require an operator to control the equipment. Set up and process is less tedious, with higher and consistent weld quality. Multiple welding jobs can be done at the same time when connected.
+The automated noodle boiler automates the noodle cooking process. 
 
-Cost of equipment capped at $18,750 per unit
+Cost of equipment capped at $10,000 per unit 
+
+
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>1. Able to pre-set timings for noodle baskets to be automatically lifted out of the boiler.<br><br>2. Minimally capacity of 3 noodle baskets.</td>
 </tr>
 </table>
 

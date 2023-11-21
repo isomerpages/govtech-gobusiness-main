@@ -1,19 +1,15 @@
 ---
-title: 'F&B Solutions Version 5.0'
+title: 'RAVEPIXEL WEB SUITE Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1297
 ---
 
-## F&B Solutions Version 5.0
+## RAVEPIXEL WEB SUITE Version 8.0
 
 ## Overview
 
 **Description**
 
-The Essential F&B Management Solutions 
-Major Problem Solutions:
-1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
-2.	Effective audit to prevent loopholes and lock profits.
-3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
+RavePixel Web Suite allows SMEs to manage and automate crucial business operation in the cloud environment. From captivating content creation to comprehensive productivity automation ranging from sales order tracking, inventory management and customer profiling. The solution frees up precious resources thus boosting revenue and increase productivity to scale SMEs' business.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +23,10 @@ Major Problem Solutions:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR Ordering</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR Ordering and CRM</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-COMMERCE</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_RAVEPIXEL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +36,7 @@ Major Problem Solutions:
 
 ## Vendor Information
 
- Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
+ Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

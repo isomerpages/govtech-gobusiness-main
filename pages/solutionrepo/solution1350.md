@@ -1,15 +1,15 @@
 ---
-title: 'DM Bizsquare Digital Marketing Suite Packages'
+title: 'PayAdvisorMobile HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution1350
 ---
 
-## DM Bizsquare Digital Marketing Suite Packages
+## PayAdvisorMobile HRMS
 
 ## Overview
 
 **Description**
 
-Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands' competitiveness and bring more leads and sales to their businesses.
+PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Bizsquare Management Consultants is a business consultancy firm, specialized in 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand Awareness (FB + IG) 3 months</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 1 (up to 25 users)</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$4,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 2 (up to 50 users)</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'>$7,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA for Lead Generation (FB + IG + Video) 4months</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 3 (up to 100 users)</td>
+<td style='padding: 10px;'>$11,150.00</td>
+<td style='padding: 10px;'>$10,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (FB + IG) 5 months</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 4 (up to 150 users)</td>
+<td style='padding: 10px;'>$16,450.00</td>
+<td style='padding: 10px;'>$16,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM for Brand Awareness (FB + IG + Video) 4months</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 5 (up to 200 users)</td>
+<td style='padding: 10px;'>$20,550.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Bizsquare Management Consultants is a business consultancy firm, specialized in 
 
 ## Vendor Information
 
- Company Name: Bizsquare Management Consultants Pte Ltd<br>Web URL: https://bizsquare.com.sg/branding-marketing/ <br>Contact Hotline: 91834413 <br>Contact Email: admin@bizsquare.com.sg <br>
+ Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Vertical Carousel'
+title: 'Recirculating Aquaculture System'
 permalink: /productivity-solutions-grant/solutionrepo/solution988
 ---
 
-## Vertical Carousel
+## Recirculating Aquaculture System
 
 ## Overview
 
 **Description**
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
-
-Cost of equipment capped at $37,500 per unit 
+A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Machine has a minimum 7 trays/carriers<br><br>2. Each tray to have a minimum load capacity of 135kg<br><br>3. Each tray to have a minimum width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Recirculating Aquaculture System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

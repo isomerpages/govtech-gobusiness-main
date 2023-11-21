@@ -1,15 +1,15 @@
 ---
-title: 'Dehusking Machine/ Shaker'
+title: 'Tree Diagnostic equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1042
 ---
 
-## Dehusking Machine/ Shaker
+## Tree Diagnostic equipment
 
 ## Overview
 
 **Description**
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Tree Diagnostic equipment e.g. LiDAR scanner, tomograph, resistograph.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and co
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree Diagnostic equipment</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
