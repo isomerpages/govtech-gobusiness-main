@@ -26,14 +26,14 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Jumpstart 3 months Package (SEO+SEM)</td>
 <td style='padding: 10px;'>$9,300.00</td>
 <td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_DM_iFoundries_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/iFoundries_DM_iFoundries_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Jumpstart 3 months Package (SMA+SEM)</td>
 <td style='padding: 10px;'>$9,600.00</td>
 <td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_DM_iFoundries_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/iFoundries_DM_iFoundries_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
