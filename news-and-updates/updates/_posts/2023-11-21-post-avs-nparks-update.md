@@ -1,0 +1,35 @@
+---
+layout: post
+title: Updates on AVS and NPARKS licences
+permalink: /news-and-updates/updates/new-start-up-guide
+published: true
+preview: |
+  Location of some licences for AVS and NParks has changed with the new system update.
+image: /images/start/StartSJ_BusinessStructure.jpg
+---
+
+Moving forward, the following licences can now With the reshuffling of the licences locations the following licences can be found under Animal & Veterinary Service (AVS):
+- Certificate of Freedom From Disease Within Singapore
+- Free Sale Certificate (Vaccine)
+- Free Sale Certificate(Non Food Producing Animal Feed)
+- Health Certificate for Export of Ornamental Fish
+- Licence for Animal Exhibition
+- Licence for Animal Research Facility
+- Licence for Pet Shop
+- Licence for Veterinary Centre (NParks)
+- Licence to Import or Export Ornamental Fish
+- Licence to Import/ Export/ Tranship Non-food Producing Animals, Birds, Eggs and Biologics
+- Licence to Manufacture and Process Feed for Non-food Producing Animals
+- Licence to Possess Veterinary Biologics
+- Licence to Treat Animals and Birds
+- Registration to Import Feed for Non-food producing animals
+- Registration to Import Live Frogs for Ornamental Fish Feeding Only
+- Veterinary Certificate for Non-Food animals and animal products
+
+The following licences can be found under NParksNPARKS:
+- Application for Phytosanitary Certification
+- CITES Permit
+- Non-CITES Certificate
+- Pre-signed CITES Permit
+- Pre-signed non-CITES Certificate
+- Stock Card Application Form
