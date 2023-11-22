@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updates on AVS and NPARKS licences
-permalink: /news-and-updates/updates/new-start-up-guide
+permalink: /news-and-updates/updates/avs-nparks-licence-update
 published: true
 preview: |
   Location of some licences for AVS and NParks has changed with the new system update.
