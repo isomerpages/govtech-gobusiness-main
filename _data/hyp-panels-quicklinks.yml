@@ -60,5 +60,5 @@ panels:
         href: /covid/?src=eservices
         is_new: false
       - text: SGSecure @ Workplaces
-        href: /covid/?src=eservices
+        href: /sgsecure/?src=eservices
         is_new: true
