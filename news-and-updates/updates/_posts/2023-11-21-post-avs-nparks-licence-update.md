@@ -5,8 +5,10 @@ permalink: /news-and-updates/updates/avs-nparks-licence-update
 published: true
 preview: |
   Location of some licences for AVS and NParks has changed with the new system update.
-image: /images/start/StartSJ_BusinessStructure.jpg
+image: /images/news/Update_PSG_Changes_2023.jpg
 ---
+
+<img src="/images/news/Update_PSG_Changes_2023.jpg" aria-hidden="true">
 
 Moving forward, the following licences can now With the reshuffling of the licences locations the following licences can be found under Animal & Veterinary Service (AVS):
 - Certificate of Freedom From Disease Within Singapore
@@ -33,3 +35,6 @@ The following licences can be found under NParksNPARKS:
 - Pre-signed CITES Permit
 - Pre-signed non-CITES Certificate
 - Stock Card Application Form
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
