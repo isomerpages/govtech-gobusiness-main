@@ -1,15 +1,15 @@
 ---
-title: 'BIZ FNB DIGITAL ORDERING'
+title: 'ePSProfessional Version 1.7'
 permalink: /productivity-solutions-grant/solutionrepo/solution1390
 ---
 
-## BIZ FNB DIGITAL ORDERING
+## ePSProfessional Version 1.7
 
 ## Overview
 
 **Description**
 
-CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
+eFusion Technology are specialists in building ecommerce websites with 18 years' of experience. They focus on one thing and do it extremely well with a 100% local team, and a massive portfolio of over 800 web stores. The solution is a feature-rich ecommerce shop based on a open-source system with 14 years' track record. Increase productivity by eliminating paperwork with online ordering and payments. Search-engine-optimized system and training create a digital marketing advantage for merchants.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic FNB V3.52</td>
-<td style='padding: 10px;'>$4,960.00</td>
-<td style='padding: 10px;'>$3,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic QR FNB V3.52</td>
-<td style='padding: 10px;'>$8,960.00</td>
-<td style='padding: 10px;'>$6,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inventory QR FNB V3.52</td>
-<td style='padding: 10px;'>$10,960.00</td>
-<td style='padding: 10px;'>$7,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM QR FNB V3.52</td>
-<td style='padding: 10px;'>$12,960.00</td>
-<td style='padding: 10px;'>$8,460.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Efusion_Technology_ePSProfessional_Ver1_7_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store orderin
 
 ## Vendor Information
 
- Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
+ Web URL: https://www.efusiontech.com <br>Contact Hotline: 62923086 <br>Contact Email: contact@efusiontech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

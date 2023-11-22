@@ -1,15 +1,15 @@
 ---
-title: 'DNS - Xero Cloud Accounting Software'
+title: 'Everyday Corporate Xero Cloud Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution316
 ---
 
-## DNS - Xero Cloud Accounting Software
+## Everyday Corporate Xero Cloud Accounting Software
 
 ## Overview
 
 **Description**
 
-XERO is a cloud based accounting software that enables small businesses to automate everyday administrative tasks, work from anywhere and anytime. With over 3 Million + subscribers worldwide, XERO helps to transform the way business is done. Get a full picture of your financials in real time and collaborate anywhere across the world.
+Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ XERO is a cloud based accounting software that enables small businesses to autom
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'>$1,158.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Everyday</td>
-<td style='padding: 10px;'>$2,580.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard with Data Migration</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Upsize</td>
-<td style='padding: 10px;'>$4,224.00</td>
-<td style='padding: 10px;'>$3,059.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_D_Next_Stop_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Premium (Multicurrency)</td>
+<td style='padding: 10px;'>$3,180.00</td>
+<td style='padding: 10px;'>$3,125.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4- Premium (Multicurrency) with Data Migration</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'>$3,925.00</td>
+<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:D Next Stop Pte Ltd<br>Web URL: www.dnextstop.com <br>Contact Hotline: 83415321 <br>Contact Email: enquiry@dnextstop.com
+ Company Name: Everyday Corporate Pte. Ltd.<br>Web URL: www.everydaycorporate.com <br>Contact Hotline: 93202657 <br>Contact Email: hello@everydaycorporate.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Ascent iSPOT Fleet Management System'
+title: 'SKYFY VTS FLEET MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1235
 ---
 
-## Ascent iSPOT Fleet Management System
+## SKYFY VTS FLEET MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-iSPOT Fleet Management System helps businesses maintain optimal use of their work vehicles from a central platform. It involves the use of a telematic unit such as a GPS Tracking device. iSPOT FMS allows businesses to collect data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. They will be able to track all their vehicles in real time, determine when they'll get to the destination, and how well the vehicles are handled by the drivers.
+Skyfy Fleet Management System VTS helps companies manage their vehicles all from the convenience of their phone / laptop. Skyfy VTS Fleet Management System involves the use of a telematic GPS Tracking device which collects data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. Fleet managers / owners will be able to track all their vehicles in real time and have better control on how well the vehicles are handled by their drivers.
 
 ## Solution Packages Option(s)
 
@@ -24,26 +24,19 @@ iSPOT Fleet Management System helps businesses maintain optimal use of their wor
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,175.00</td>
+<td style='padding: 10px;'>$920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Skyfy_Tech_SKYFY_VTS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Ascent Solutions Pte Ltd<br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com 
+ Company Name: Skyfy Technology Pte Ltd<br>Web URL: skyfy.com.sg <br>Contact Hotline: 67277627 <br>Contact Email: support@skyfy.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

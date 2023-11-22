@@ -1,15 +1,15 @@
 ---
-title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
+title: 'DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution1499
 ---
 
-## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
+## DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION
 
 ## Overview
 
 **Description**
 
-Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
+QIAN YI is specialized in TikTok social media marketing service focuses on reaching customer desired audience, increasing follower base, and generating valuable conversions for client business. QIAN YI's specialised team creates engaging and imaginative TikTok videos that empower clients to achieve their social media marketing objectives.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ Sunpro provides excellent web application development solutions for companies in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
-<td style='padding: 10px;'>$8,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - TikTok Creative Video Packages SMM + SMA (3 MONTH)</td>
+<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Qianyi_Trading_Tiktok_DM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
+ Company Name: QIANYI TRADING PTE. LTD.<br>Web URL: NA <br>Contact Hotline: 96196791 <br>Contact Email: RICKY@BENCHMARKINGMEDIA.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

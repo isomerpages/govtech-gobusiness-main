@@ -1,17 +1,23 @@
 ---
-title: 'DM LiteBrew Digital Marketing Package'
+title: 'Qoqolo School Management System Version 4.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution209
 ---
 
-## DM LiteBrew Digital Marketing Package
+## Qoqolo School Management System Version 4.3
 
 ## Overview
 
 **Description**
 
-Brew Interactive is a full-suite, award winning digital marketing agency. Their solutions have been specially designed to help address the requirements of any growing SMEs; from an increase in awareness, to driving leads and sales.
-
-Brew Interactive's service packages range from 3 to 6 months long, and are flexible to accommodate any SME's growth plans.
+Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
+Key Benefits:
+-	Easy Deployment
+-	Paperless Storage
+-	Information On-The-Go
+-	Simplify Management
+-	Instant Updates
+-	Capture Learning Journey
+-	Effective Communications
 
 ## Solution Packages Option(s)
 
@@ -25,48 +31,48 @@ Brew Interactive's service packages range from 3 to 6 months long, and are flexi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEM + SMM] 5 months</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEM + SMM + Landing Page] 4 months</td>
-<td style='padding: 10px;'>$10,150.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEM + SEO] 6 months</td>
-<td style='padding: 10px;'>$10,250.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEM + SEO + Content Creation] 4 months</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEM + Full SEO] 6 months</td>
-<td style='padding: 10px;'>$15,100.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/digital-marketing-psg-packages/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
+ Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

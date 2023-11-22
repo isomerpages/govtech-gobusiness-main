@@ -1,25 +1,15 @@
 ---
-title: 'BIPO Human Resource Management System'
+title: 'DM C.O Enterprise Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution191
 ---
 
-## BIPO Human Resource Management System
+## DM C.O Enterprise Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Global HR and Payroll Solutions
- 
-Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
-
-(a) Employee master data management 
-(b) Time and attendance 
-(c) Payroll management
-(d) Expense claims and overtime 
-(e) Performance and training management
-
-BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With more than 8 years of experience, C.O Enterprise's 3 or 6 months Digital Marketing Packages help businesses gain mindshare, improve brand awareness and generate higher sales. All packages help clients with Facebook and Instagram marketing content generation, a 3-hour photoshoot, assessment of competitors, target audience and current state of digital presence and digital marketing strategy development including proposed brand positioning and campaign planning and development.
 
 ## Solution Packages Option(s)
 
@@ -33,34 +23,27 @@ BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 50</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMM Facebook + SMM Instagram) 3 months</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 100</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 150</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMM Facebook + SMM Instagram) 6 months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
+ Company Name: C.O Enterprise Pte Ltd<br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

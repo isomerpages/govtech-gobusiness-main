@@ -1,17 +1,15 @@
 ---
-title: 'DM Best SEO Digital Marketing Packages Version 1'
+title: 'Carbonate HR Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution188
 ---
 
-## DM Best SEO Digital Marketing Packages Version 1
+## Carbonate HR Version 1
 
 ## Overview
 
 **Description**
 
-Best SEO Marketing Pte Ltd offers SEO services, Google Ads, Social Media Marketing that brings businesses more leads, customers and sales than one's team can possibly handle.
-
-Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "click-through rate", they focus on how much their marketing efforts have generated their clients in terms of their return on investment.
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME manage leave, schedule their employees with work timings, track attendance and pay staff quickly. Carbonate is an all in one solution to solve all your HR needs.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,48 @@ Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING - 3 MONTHS</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 20</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM/SMA - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 50</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/SEM - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 100</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 150</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 200</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: BEST MARKETING AGENCY PTE LTD<br>Web URL: https://www.bestmarketing.com.sg<br>Contact Hotline: 9231 3757<br>Contact Email: contact@bestmarketing.com.sg
+ Company Name: Carbonate Pte Ltd<br>Web URL: www.carbonateapp.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@carbonateapp.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

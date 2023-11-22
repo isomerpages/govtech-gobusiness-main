@@ -1,20 +1,15 @@
 ---
-title: 'Dough Sheeter'
+title: 'Robotic/ Wireless/ Autonomous Mower'
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 
-## Dough Sheeter
+## Robotic/ Wireless/ Autonomous Mower
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
-
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
-
-Cost of equipment capped at $20,000 per unit
-
+A mobile grass/lawn cutting equipment , either automated or semi/fully controlled by a person, that trims, cuts grass or other vegetation that grows on the ground.
 
 ## Solution Packages Option(s)
 
@@ -25,15 +20,15 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>- Thickness of resulting dough should be adjustable<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

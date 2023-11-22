@@ -34,36 +34,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution69' target='_blank'>Adaptive BizApp Version 5</a><br></td>
-<td>Adaptive Cloud Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution135' target='_blank'>Applivon - Odoo</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution110' target='_blank'>Applivon - Odoo</a><br></td>
 <td>Applivon Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution624' target='_blank'>MetroERP Version 1.0</a><br></td>
-<td>METRO GROUP PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution637' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution515' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution747' target='_blank'>Odoo Enterprise Version 16</a><br></td>
-<td>PORT CITIES SINGAPORE PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1041' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution870' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1065' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution886' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1242' target='_blank'>Deskera ERP Version 10</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1063' target='_blank'>Deskera ERP Version 10</a><br></td>
 <td>SF TECHNOLOGIES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1634' target='_blank'>Odoo Enterprise Version 16</a><br></td>
+<td>PORT CITIES SINGAPORE PTE LTD</td>
 </tr>
 </table>
 

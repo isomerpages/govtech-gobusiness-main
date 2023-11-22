@@ -1,17 +1,15 @@
 ---
-title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
+title: 'BIZ FNB DIGITAL ORDERING'
 permalink: /productivity-solutions-grant/solutionrepo/solution1268
 ---
 
-## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
+## BIZ FNB DIGITAL ORDERING
 
 ## Overview
 
 **Description**
 
-Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
- 
-Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
+CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
 
 ## Solution Packages Option(s)
 
@@ -25,41 +23,41 @@ Wolfgang is a Facebook Official Marketing Partner, with an in-house local team o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic FNB V3.52</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'>$3,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic QR FNB V3.52</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$6,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inventory QR FNB V3.52</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$7,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM QR FNB V3.52</td>
+<td style='padding: 10px;'>$12,960.00</td>
+<td style='padding: 10px;'>$8,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
+ Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

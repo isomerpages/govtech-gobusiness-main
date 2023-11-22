@@ -1,15 +1,15 @@
 ---
-title: 'Simpliify''s E-commerce Version 1'
+title: 'Microsoft 365 SharePoint Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 
-## Simpliify''s E-commerce Version 1
+## Microsoft 365 SharePoint Online
 
 ## Overview
 
 **Description**
 
-Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
+Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling simple sharing and seamless collaboration. SharePoint empowers teamwork with dynamic and productive team sites for every project team, department, and division. Share files, data, news, and resources. Customize your site to streamline your team's work. Collaborate effortlessly and securely with team members inside and outside your organization, across PCs, Macs, and mobile devices.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Simpliify_Ecommerce_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$1,330.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$2,385.00</td>
+<td style='padding: 10px;'>$2,325.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$4,288.75</td>
+<td style='padding: 10px;'>$4,168.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$7,512.50</td>
+<td style='padding: 10px;'>$7,312.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$13,787.50</td>
+<td style='padding: 10px;'>$13,387.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: hello@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

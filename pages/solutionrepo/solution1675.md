@@ -1,15 +1,15 @@
 ---
-title: 'DM 2Stallions Complete Digital Marketing Packages'
+title: 'Cococart Storefront Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1675
 ---
 
-## DM 2Stallions Complete Digital Marketing Packages
+## Cococart Storefront Version 1.0
 
 ## Overview
 
 **Description**
 
-2Stallions is a digital marketing agency founded in 2012. They excel in customized digital marketing solutions, and implementing multi-channel marketing campaigns to help clients convert leads, drive sales and create brand awareness. Their full-funnel marketing strategies, including SEO, SEM, and Social Media Marketing, are data-driven and designed to convert the audience into paying customers. Over the past decade, 2Stallions has worked with startups, SMEs, and globally recognized brands.
+Cococart is empowering over 40,000 local entrepreneurs in more than 100 countries to make online business simple, easy, and delightful. Cococarts no-code, no-learning curve platform enables businesses to create beautiful storefronts, manage orders, and launch marketing promotions on their own or with Coco+, Cococarts signature managed marketing program.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1675
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Marketing + Social Media Advertising + Photography/Videography [3 Months]</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2Stallions_Digital_Marketing_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Business Package</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + Social Media Marketing + Content Marketing + Photography (B2C/B2B) [3 months]</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2Stallions_Digital_Marketing_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + Content Marketing with Blogpost / Infographics Creation (B2C/B2B) [6 months]</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2Stallions_Digital_Marketing_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Social Media Advertising + SEM with Landing Page Development (B2C/B2B) [6 months]</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2Stallions_Digital_Marketing_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Search Engine Optimization + SEM with Landing Page Development (B2C/B2B) [6 months]</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2Stallions_Digital_Marketing_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VIP Package</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1675
 
 ## Vendor Information
 
- Company Name: 2STALLIONS PTE LTD<br>Web URL: https://2stallions.com/ <br>Contact Hotline: 88433141 <br>Contact Email: razy@2stallions.com <br>
+ Company Name: Cococart Pte. Ltd.<br>Web URL: https://cococart.co <br>Contact Hotline: +18336202626 <br>Contact Email: business@cococart.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

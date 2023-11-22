@@ -1,15 +1,20 @@
 ---
-title: 'FidCorp Xero Accounting Software'
+title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution406
 ---
 
-## FidCorp Xero Accounting Software
+## (A.I.) INFO-TECH Cloud HRMS Version 8.0
 
 ## Overview
 
 **Description**
 
-FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is committed to providing quality products and services to business owners. As the winner of the Xero Singapore Emerging Accounting Partner of the Year Award for FY2022, FidCorp present FidCorp Xero Accounting Software to business owners so that they have more ME time with Xero simplifying their everyday business tasks! As always, FidCorp believe in retaining a personal touch while leveraging technology to deliver cost-eff
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
+
+1. Transforming HR Software to Cloud
+2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
+3. Help HR handle company's compliance challenges and better manage resources.
+4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +28,38 @@ FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is com
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$617.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
-<td style='padding: 10px;'>$2,164.00</td>
-<td style='padding: 10px;'>$2,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
-<td style='padding: 10px;'>$2,564.00</td>
-<td style='padding: 10px;'>$2,307.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
+<td style='padding: 10px;'>$25,300.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
-<td style='padding: 10px;'>$4,264.00</td>
-<td style='padding: 10px;'>$4,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
+<td style='padding: 10px;'>$32,700.00</td>
+<td style='padding: 10px;'>$30,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +69,7 @@ FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is com
 
 ## Vendor Information
 
- Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

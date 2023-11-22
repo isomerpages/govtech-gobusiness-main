@@ -1,26 +1,15 @@
 ---
-title: 'Automated Tools Management System'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution1077
 ---
 
-## Automated Tools Management System
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
-
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system. 
- 
-Cost of equipment capped at $28,000 per unit
-
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -31,9 +20,9 @@ Cost of equipment capped at $28,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tools Management System</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Unit is expandable, customizable to hold different types of tools, and fully secured. <br><br>- Support only hardware and software.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

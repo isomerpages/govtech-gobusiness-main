@@ -1,15 +1,15 @@
 ---
-title: 'Everyday Corporate Xero Cloud Accounting Software'
+title: 'Microsoft Dynamics 365 Business Central'
 permalink: /productivity-solutions-grant/solutionrepo/solution398
 ---
 
-## Everyday Corporate Xero Cloud Accounting Software
+## Microsoft Dynamics 365 Business Central
 
 ## Overview
 
 **Description**
 
-Everyday Corporate is experienced in using cloud accounting and app integration to help improve organisational process workflow to eliminate duplication of data input, allowing staff to spend time more efficiently on things that matter. Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. Xero has helped many subscribers worldwide transform the way that organisations do business.
+Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics family, and intended to assist with finance, manufacturing, customer relationship management, supply chains, analytics and electronic commerce for small and medium-sized companies and local subsidiaries of large international groups
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,24 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Standard</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$21,850.00</td>
+<td style='padding: 10px;'>$20,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Standard with Data Migration</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
+<td style='padding: 10px;'>$25,810.00</td>
+<td style='padding: 10px;'>$21,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Premium (Multicurrency)</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$3,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4- Premium (Multicurrency) with Data Migration</td>
-<td style='padding: 10px;'>$3,980.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/everyday_20210459_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
+<td style='padding: 10px;'>$34,510.00</td>
+<td style='padding: 10px;'>$24,550.00</td>
+<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +50,7 @@ Everyday Corporate is experienced in using cloud accounting and app integration 
 
 ## Vendor Information
 
- Company Name: Everyday Corporate Pte. Ltd.<br>Web URL: www.everydaycorporate.com <br>Contact Hotline: 93202657 <br>Contact Email: hello@everydaycorporate.com <br>
+ Company Name:Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

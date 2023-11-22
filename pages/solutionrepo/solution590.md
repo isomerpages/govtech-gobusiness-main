@@ -1,15 +1,15 @@
 ---
-title: 'LittleLives School Management System (e-form)'
+title: 'Payboy HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution590
 ---
 
-## LittleLives School Management System (e-form)
+## Payboy HRMS
 
 ## Overview
 
 **Description**
 
-LittleLives is a holistic school management system built to simplify complex school administrative processes. E-enrolment & E-form module is added in to support schools to manage their potential children effectively and create a seamless and efficient process for parents to enrol their children into the schools. It also helps to fully support the whole student life cycle administrative process.
+Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ LittleLives is a holistic school management system built to simplify complex sch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives School Management System (e-form) - LittleLives 4.5 - E-form only </td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'>$1,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LittleLives_(e-form)_20210381_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package A (20 Employees)</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package B (45 Employees)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package C (75 Employees)</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package D (120 Employees)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package E (200 Employees)</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ LittleLives is a holistic school management system built to simplify complex sch
 
 ## Vendor Information
 
- Company Name: LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br><br>Contact Hotline: 89296707 <br><br>Contact Email: sales@littlelives.com <br><br>
+ Company Name: Payboy Pte. Ltd.<br>Web URL: https://payboy.biz <br><br>Contact Hotline: 91876425 <br><br>Contact Email: nigel.lim@payboy.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

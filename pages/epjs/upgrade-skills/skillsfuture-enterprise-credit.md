@@ -7,8 +7,6 @@ permalink: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/skills
 
 The SkillsFuture Enterprise Credit (SFEC) is a $10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation. Eligible enterprises will benefit from an additional 90% funding support for their out-of-pocket expenses when they take up relevant initiatives for business and/or workforce transformation.
 
-{% include banner-training2-sj.html title="Not sure how much SkillsFuture Enterprise Credit (SFEC) you have left?" body="Find out with Enterprise Training Insights. Sign up for this upcoming feature and help us understand what data you want to see about your team's training." url = "https://dashboard.gobusiness.gov.sg/login?&utm_source=SFEC&utm_medium=button&redirect-uri=https://dashboard.gobusiness.gov.sg/#career-health-banner" %}
-
 ---
 
 ### How it works:

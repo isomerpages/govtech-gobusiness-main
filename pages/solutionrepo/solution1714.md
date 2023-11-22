@@ -1,17 +1,15 @@
 ---
-title: '1ECommerce'
+title: 'Odoo Enterprise Version 16'
 permalink: /productivity-solutions-grant/solutionrepo/solution1714
 ---
 
-## 1ECommerce
+## Odoo Enterprise Version 16
 
 ## Overview
 
 **Description**
 
-1ECommerce by Bona Technologies is a bespoke website solution specialising in WooCommerce powered by WordPress which will create a new business channel for SMEs to GoDigital and increase their sales revenue with minimal cost. 
-
-1ECommerce has powerful promotion capabilities to drive customer retention and can be integrated with 1ERP - Singapore ERP Software for efficient and streamlined business processes.
+Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,31 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1714
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$1,680.00</td>
-<td style='padding: 10px;'>$1,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
+<td style='padding: 10px;'>$8,675.00</td>
+<td style='padding: 10px;'>$7,275.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$2,240.00</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
+<td style='padding: 10px;'>$16,025.00</td>
+<td style='padding: 10px;'>$13,825.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'>$4,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Deluxe</td>
-<td style='padding: 10px;'>$6,280.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bona_Tech_1ECommerce_170823_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$18,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +57,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1714
 
 ## Vendor Information
 
- Company name:Bona Technologies Systems Pte Ltd<br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg 
+ Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

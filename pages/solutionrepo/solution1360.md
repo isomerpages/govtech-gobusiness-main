@@ -1,15 +1,15 @@
 ---
-title: 'SAP Business One, version for HANA'
+title: 'ABSS(MYOB) Premier'
 permalink: /productivity-solutions-grant/solutionrepo/solution1360
 ---
 
-## SAP Business One, version for HANA
+## ABSS(MYOB) Premier
 
 ## Overview
 
 **Description**
 
-SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries, service/repair and manufacturing companies.
+E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Cloud Subscription Users</td>
-<td style='padding: 10px;'>$28,170.00</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Software (1 User)</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'>$1,903.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 3 Perpetual Users</td>
-<td style='padding: 10px;'>$36,988.00</td>
-<td style='padding: 10px;'>$30,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Software & Training (1 User)</td>
+<td style='padding: 10px;'>$2,623.00</td>
+<td style='padding: 10px;'>$2,303.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - 5 Cloud Subscription Users</td>
-<td style='padding: 10px;'>$32,370.00</td>
-<td style='padding: 10px;'>$28,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Software (3 Users)</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'>$3,217.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - 5 Perpetual Users</td>
-<td style='padding: 10px;'>$44,764.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Software & Training (3 Users)</td>
+<td style='padding: 10px;'>$3,937.00</td>
+<td style='padding: 10px;'>$3,617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - 8 Perpetual Users for Project Industry</td>
-<td style='padding: 10px;'>$74,635.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Software, Remote Access & Training (3 Users)</td>
+<td style='padding: 10px;'>$4,956.00</td>
+<td style='padding: 10px;'>$4,636.00</td>
+<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 ## Vendor Information
 
- Company name:Inecom Pte Ltd<br>Web URL: https://www.inecom.com.sg/solution/sap-business-one/ <br>Contact Hotline: 62259255 <br>Contact Email: enquiries@inecomworld.com 
+ Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

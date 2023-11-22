@@ -1,15 +1,15 @@
 ---
-title: 'ZBD Total Fortified Cyber Security'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution1055
 ---
 
-## ZBD Total Fortified Cyber Security
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease. 
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Lt
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - FortiGate 60F</td>
-<td style='padding: 10px;'>$3,480.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 80F</td>
-<td style='padding: 10px;'>$4,080.00</td>
-<td style='padding: 10px;'>$3,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 100F</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 200F</td>
-<td style='padding: 10px;'>$8,670.00</td>
-<td style='padding: 10px;'>$7,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 40F</td>
-<td style='padding: 10px;'>$2,250.00</td>
-<td style='padding: 10px;'>$2,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Zebedee Solution Pte Ltd<br>Web URL: https://zebedee.sg/ <br>Contact Hotline: 82331490 <br>Contact Email: info@zebedee.sg 
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

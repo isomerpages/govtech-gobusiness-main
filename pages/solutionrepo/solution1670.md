@@ -1,15 +1,17 @@
 ---
-title: 'Zoho CRM'
+title: 'iFirm'
 permalink: /productivity-solutions-grant/solutionrepo/solution1670
 ---
 
-## Zoho CRM
+## iFirm
 
 ## Overview
 
 **Description**
 
-Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and customer support operations for business. It offers a centralised database to manage leads, deals, and customer interactions. With features like sales and marketing automation, analytics, customisations and integrations, Zoho CRM empowers businesses to increase sales efficiency, improve customer satisfaction, and drive business growth.
+CCH iFirm is an award-winning practice management software ecosystem, designed to empower accounting professionals in delivering exceptional client service and efficiently managing their practice.
+
+CCH iFirm is cloud-based software that equips accounting practitioners with the tools they need to integrate, monitor and streamline all the key facets of their business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,17 @@ Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard - 5 users</td>
-<td style='padding: 10px;'>$1,020.00</td>
-<td style='padding: 10px;'>$1,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential </td>
+<td style='padding: 10px;'>$10,560.00</td>
+<td style='padding: 10px;'>$7,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_iFirm_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional - 10 users</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional - 15 users</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise - 10 users</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise - 20 users</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plus </td>
+<td style='padding: 10px;'>$11,040.00</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_iFirm_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +45,7 @@ Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and 
 
 ## Vendor Information
 
- Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br>Contact Hotline: 67231040 <br>Contact Email: sales@zohocorp.com <br>
+ Company Name: Wolters Kluwer Singapore Pte Ltd<br>Web URL: https://www.wolterskluwer.com/en-sg/solutions/cch-prosystem-fx-engagement <br>Contact Hotline: 62113920 <br>Contact Email: sg-prosystemfx@wolterskluwer.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

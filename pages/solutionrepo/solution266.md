@@ -1,15 +1,15 @@
 ---
-title: 'Fortigate Firewall for IT Security or VPN - CARE IT'
+title: 'MyRetailer Plus Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution266
 ---
 
-## Fortigate Firewall for IT Security or VPN - CARE IT
+## MyRetailer Plus Version 4
 
 ## Overview
 
 **Description**
 
-FortiGate firewalls are purpose-built with security processers to enable the industry's best threat protection and performance for SSL-encrypted traffic. By providing granular visibility of applications, users, and IOT devices, these appliances are designed to identify issues quickly and intuitively.
+MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 40 F</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'>$4,475.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
+<td style='padding: 10px;'>$4,190.00</td>
+<td style='padding: 10px;'>$3,170.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 60 F</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'>$5,055.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Second Monitor</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 80 F</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'>$6,718.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Web Store</td>
+<td style='padding: 10px;'>$5,390.00</td>
+<td style='padding: 10px;'>$4,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 101 F</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'>$11,818.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Cloud Dashboard</td>
+<td style='padding: 10px;'>$7,390.00</td>
+<td style='padding: 10px;'>$6,370.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate Firewall for IT Security or VPN - CARE IT - FortiGate 200 F</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'>$13,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Computer_Analysts_20200819_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments</td>
+<td style='padding: 10px;'>$4,926.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ FortiGate firewalls are purpose-built with security processers to enable the ind
 
 ## Vendor Information
 
- Company Name: Computer Analysts and Recovery Experts Pte Ltd<br>Web URL: www.care.biz <br><br>Contact Hotline: 67448022 <br><br>Contact Email: sales@sg.care.biz <br><br>
+ Company name:DCS Synthesis Pte. Ltd.<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

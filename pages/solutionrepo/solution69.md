@@ -1,15 +1,16 @@
 ---
-title: 'Adaptive BizApp Version 5'
+title: 'AGHRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution69
 ---
 
-## Adaptive BizApp Version 5
+## AGHRM
 
 ## Overview
 
 **Description**
 
-Adaptive BizApp Inventory and Sales management software is a robust cloud-based system. It helps businesses easily capture all real-time data such as sales, purchases, inventory movements and AR and AP transactions. BizApp systems are cost-effective, easy to use, scalable and developed with Singapore businesses in mind. The system is flexible enough to configure it according to individual business needs and requirements.
+AGHRMS is an All-in-One Cloud Payroll & HR Software for today's HR: Easy Payroll for 100% compliance, eAttendance, Appraisal, Leave, Claims etc on a Single, Secure Portal.
+Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repetitive, tedious processes for 80% increase in HR efficiency. The company serves SMEs, MNCs & NPOs with presence in countries mainly in Singapore, Malaysia, Indonesia, Myanmar and Thailand.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,41 @@ Adaptive BizApp Inventory and Sales management software is a robust cloud-based 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_20220261_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 30</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_20220261_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 50</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_20220261_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 100</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_20220261_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'>$15,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_20220261_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 200</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
+ Company name:AG NET PTE. LTD.<br>Web URL: https://www.aghrms.com/hrms-payroll-software-singapore/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

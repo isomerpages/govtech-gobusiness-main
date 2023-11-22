@@ -1,15 +1,15 @@
 ---
-title: 'SQL Account Version 5'
+title: 'ZoneSafe Proximity Warning Systems Version V03'
 permalink: /productivity-solutions-grant/solutionrepo/solution139
 ---
 
-## SQL Account Version 5
+## ZoneSafe Proximity Warning Systems Version V03
 
 ## Overview
 
 **Description**
 
-SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+The ZoneSafe Vehicle to Person/Vehicle Safety System provides vehicle drivers/operators, and personnel with warnings that they are in close proximity of each other. The purpose of the system is to prevent collisions between vehicles and personnel in the workplace.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ SQL Account includes full range of business Accounting features including AR, AP
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'>$3,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Pedestrian - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Advance - 1 User)</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Advance - 3 Users) </td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Advance - 5 Users)</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Advance - 8 Users)</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle To Vehicle - (Per Vehicle)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$3,570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Automation_Support_ZoneSafe_Proximity_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ SQL Account includes full range of business Accounting features including AR, AP
 
 ## Vendor Information
 
- Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
+ Company Name: Automation Support Services Pte Ltd<br>Web URL: www.assmsb.com <br>Contact Hotline: 68446223 <br>Contact Email: david@assmsb.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

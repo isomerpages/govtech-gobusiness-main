@@ -1,17 +1,15 @@
 ---
-title: 'CLIO'
+title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
 permalink: /productivity-solutions-grant/solutionrepo/solution194
 ---
 
-## CLIO
+## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
 
 ## Overview
 
 **Description**
 
-Clio Manage is a cloud-based practice management system that helps law firms automate billing, financial administration and legal case management. Its comprehensive features (including integration with Xero), coupled with its unlimited storage, ease of use, and affordable pricing, makes it ideal for small law firms looking to modernise their practice and increase profitability..  
-
-As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law firms in Singapore and Hong Kong.
+Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,31 @@ As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law fi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A: 1 User Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
-<td style='padding: 10px;'>$2,738.00</td>
-<td style='padding: 10px;'>$2,218.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
+<td style='padding: 10px;'>$16,300.00</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B: 2 Users Clio Manage (Essentials) and Xero (Includes Setup and Training)</td>
-<td style='padding: 10px;'>$4,156.00</td>
-<td style='padding: 10px;'>$3,476.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C:3 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$5,934.00</td>
-<td style='padding: 10px;'>$4,934.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$27,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D:4 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$7,352.00</td>
-<td style='padding: 10px;'>$6,192.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E:5 Users Clio Manage (Essentials) and Xero (Includes Setup, Training and Migration)</td>
-<td style='padding: 10px;'>$8,590.00</td>
-<td style='padding: 10px;'>$7,350.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizi_20220181_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +57,7 @@ As a Certified Clio Consultant, Bizibody has implemented Clio in over 100 law fi
 
 ## Vendor Information
 
- Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
+ Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

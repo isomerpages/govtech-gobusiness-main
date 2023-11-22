@@ -1,14 +1,22 @@
 - accordion:
   letter: a
   data:
-    - title: Animal & Veterinary Service (AVS) 
+    - title: Animal & Veterinary Service (AVS)
       content: |
         **Certificate of Freedom From Disease Within Singapore**
 
         <p>A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ccf3cdfb-9f8f-4e6d-b3a2-909afe8786dd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore">View Licence Details</a>
+
+        -----
+        **Free Sale Certificate (Non Food Producing Animal Feed)**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>This certificate allows exporters to obtain an endorsement for their animal feed products meant for non-food producing animals intended for export.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Non-Food-Producing-Animal-Feed)">View Licence Details</a>
 
         -----
         **Free Sale Certificate (Vaccine)**
@@ -32,9 +40,8 @@
         **Licence for Animal Exhibition**
 
         <p>The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
-        
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000150" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/54e45a42-19af-4440-85a9-9ee82f18d336" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
 
         -----
         **Licence for Animal Research Facility**
@@ -53,8 +60,7 @@
 
         <p>The Licence for Pet Shop is issued by Animal & Veterinary Service to use a premise to keep or display pets for sale</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000158" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Pet-Shop" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Pet-Shop">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/55dffe64-eea5-44bb-a278-0c0a08bc70ea" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Pet-Shop">View Licence Details</a>
 
         -----
         **Licence for Veterinary Centre**
@@ -69,12 +75,9 @@
         -----
         **Licence to Import or Export Ornamental Fish**
 
-        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
-
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000140" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/62e873a8-7c33-45ec-9162-9d471a590043" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
 
         -----
         **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
@@ -83,6 +86,15 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-Export-Transship-Animals--Birds--Eggs-and-Biologics">View Licence Details</a>
+        
+        -----
+        **Licence to Manufacture and Process Feed for Non-food Producing Animals**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>This licence is issued for the manufacture and processing of animal feed for non-food producing animals in Singapore, including pet treats such as dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fe91f53c-7370-4a1a-9ea2-044ab8e69d1b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Manufacture-and-Process-Feed-for-Non-food-Producing-Animals">View Licence Details</a>
 
         -----
         **Licence to Possess Veterinary Biologics**
@@ -91,8 +103,7 @@
 
         <p>The Licence to Possess Veterinary Biologics is issued for possession and import of veterinary biologics intended for use in the diagnosis, treatment, or prevention of disease of animals and birds, or for purposes of research in animals or birds (veterinary vaccines and pathogens are on AVS's select list, you must first obtain a Licence to Possess Veterinary Biologics). In the case of AVS regulated biologics for other purposes, a written consent may apply.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000002" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Possess-Veterinary-Biologics" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Possess-Veterinary-Biologics">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/bfa36bf8-9d2b-4050-8d26-88548de23dd2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Possess-Veterinary-Biologics">View Licence Details</a>
 
         -----
         **Licence to Treat Animals and Birds**
@@ -128,9 +139,10 @@
         -----
         **Amusement Rides Permit**
 
-        The Amusement Rides Safety Act (Chapter 6A) defines an amusement ride as any mechanised or power-driven device that carries patrons on a fixed or restricted course, or within a defined area, designed for the primary purpose of giving them amusement, thrills, or excitment, and is available for use by members of the public. This definition will not cover devices that are meant primarily for transport purposes, such as monorails, trams, sky trains and amphibious vehicles.
+        <p>Permits from BCA are required if you are:<br>- Operating a new or existing amusement ride<br>- Installing works for an amusement ride<br>- Performing modification works for an amusement ride.</p> 
+        <p>Before application of permits, you are required to consult BCA. More information about pre-application consultation and the permit application process can be found <a href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/permit-application" target="_blank" rel="noopener">here</a>.</p>
 
-        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://www1.bca.gov.sg/regulatory-info/amusement-rides" target="_blank" rel="noopener">Apply on BCA</a>&emsp;<a href = "/browse-all-licences/Building-and-Construction-Authority-(BCA)/Amusement-Rides-Permit">View Licence Details</a>
 
         -----
         **Permit to Erect Temporary Building**
@@ -315,6 +327,34 @@
         <p>The Cybersecurity Labelling Scheme for IoT is launched by the Cyber Security Agency of Singapore (CSA) as part of efforts to improve Internet of Things (IoT) security, raise overall cyber hygiene levels and better secure Singapore's Cyberspace.</p><p>Under the scheme, smart consumer devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the smart device, enabling consumers to identify smart products with better cybersecurity provisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/0fb92cee-f840-49e6-82d4-5db1027e68db" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-IoT-(Level-4))
+        
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 1)**
+
+        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/67ae8f06-5962-44ad-8098-98bee4ae5c39" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-1))
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 2)**
+
+        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/9b9b00ef-ccbf-456b-9612-c9e7926e80b4" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-2))
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 3)**
+
+        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/24169ca8-1359-4dca-80be-295c0ac45c0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-3))
+
+        -----
+        **Cybersecurity Labelling Scheme for Medical Devices (Level 4)**
+
+        <p><b>Please note that this form is exclusively intended for the CLS(MD) sandbox phase applicants; any submissions received will be considered solely for the sandbox phase, and processing refunds could pose challenges. For more details on the CLS(MD) sandbox phase, please contact cls_md@csa.gov.sg.</b></p><p>The Cybersecurity Labelling Scheme for Medical Devices is a joint initiative by the Cyber Security Agency of Singapore (CSA), Ministry of Health (MOH), Health Sciences Authority (HSA), and Synapxe as part of efforts to improve the visibility of medical devices security, raise overall cyber hygiene levels.</p><p>Under the scheme, medical devices will be rated according to their levels of cybersecurity provisions, and a label will be issued to the medical device, enabling the general public and healthcare providers to identify medical devices with appropriate cybersecurity provisions and make informed purchasing decisions.</p><p>For more information, please visit https://www.csa.gov.sg/cls or kindly contact cls_iot@csa.gov.sg.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/8b0150f7-664c-41e2-8822-8cefe6ae3dd8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/Cyber-Security-Agency-(CSA)/Cybersecurity-Labelling-Scheme-for-Medical-Devices-(Level-4))
 
     - title: Cybersecurity Services Regulation Office (CSRO)
       content: |
@@ -458,7 +498,7 @@
 
         <p>HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property. Only the owner(s) or other authorised persons approved by HDB to stay in the flat or living quarters (i.e. authorised occupier / tenants) are allowed to apply for the Home Office Scheme (HOS).</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/8e48b279-ad32-4f90-8d74-f10eea62323b" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/hdbhomeofficescheme" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Housing-&-Development-Board-(HDB)/Home-Office-Scheme-(HDB)">View Licence Details</a>
 
     - title: Hotels Licensing Board (HLB)
       content: |
@@ -1570,7 +1610,7 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Businesses offering general cleaning services at premises or any public places will need to be licensed.
+        <p>Businesses offering general cleaning services at premises or any public places will need to be licensed. Applicants should not provide cleaning services until the licence is granted.</p>
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=192" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Cleaning-Business-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Cleaning-Business-Licence">View Licence Details</a>
@@ -1751,7 +1791,7 @@
 
         Licence to use laser
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/97711d34-74cf-49aa-a477-6055052224ee" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ff0864a0-72f9-4b2c-a60a-5aa1c06eb415" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/N3---Licence-to-use-laser">View Licence Details</a>
 
         -----
         **N4A/B - Licence to import or export a consignment of non-ionising radiation irradiating apparatus**
@@ -1769,7 +1809,7 @@
 
         This certificate is required for applicants intending to perform or carry out radiation work involving ionising radiation irradiating apparatus, radioactive materials or devices containing radioactive materials
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/3b38a7b3-beba-44aa-94ee-7fa2bcba0fc8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/R1--Registration-as-a-radiation-worker">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/e12b86e0-ac32-4658-ab6b-0651f912f185" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/R1--Registration-as-a-radiation-worker">View Licence Details</a>
 
         -----
         **Toxic Industrial Waste (TIW) Collector's Licence**
@@ -1834,18 +1874,16 @@
       content: |
         **CITES Permit**
 
-        <p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 26 Sep 2023 0800hrs.</p>
         <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
 
-        [View Licence Details](/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit)
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f974af78-db42-403d-8eac-48895a32deb6" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit">View Licence Details</a>
 
         -----
         **Non-CITES Certificate**
 
-        <p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 26 Sep 2023 0800hrs.</p>
-        <p>The Non-CITES Certificate allows commercial re-exporters to get National Parks Board approval for commercial re-export of non-CITES wildlife such as non-CITES ostrich skins and its manufactured products and non-CITES rep.</p>
+        <p>The Non-CITES Certificate allows individual or commercial exporters/re-exporters to get National Parks Board approval for commercial export/re-export of non-CITES specimens such as non-CITES ostrich skins and its manufactured products.</p>
 
-        <a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/b1bdb659-b527-498e-9997-3e21afc8ebf8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Phytosanitary Certification**
@@ -1854,30 +1892,27 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201212070000112" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Parks-Board-(NPARKS)/Phytosanitary-Certification">View Licence Details</a>
-
+        
         -----
         **Pre-signed CITES Permit**
 
-        <p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 26 Sep 2023 0800hrs.</p>
         <p>A pre-signed CITES permit is issued for tourist manufactured products made from CITES reptilian/non-reptilian species, like handbags, wallets/purses, belts, key holder/chains etc. A retailer of such products may apply for pre-signed CITES permits.</p>
 
-        <a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/55b175d7-5edf-49bd-ae87-cef088dc21e1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
 
         -----
         **Pre-signed non-CITES Certificate**
 
-        <p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 26 Sep 2023 0800hrs.</p>
-        <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products etc.</p>
-        
-        <a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
+        <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ccc723f1-c0ab-49c6-ad41-20fca2ba0a6c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Stock Card Application Form**
 
-        <p>Due to system maintenance, this application will not be available from 21 Sep 2023 1600hrs to 26 Sep 2023 0800hrs.</p>
         <p>This stock card will be needed for exporter and re-exporters to facilitate their Export or Re-Export CITES permit application. For expired CITES export/re-port CITES permit, please apply for manual increment to credit the stock back to the respectively stock card.</p>
 
-        <a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/313d4f49-06b3-4368-ac1b-ffaea83426cb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Stock-Card-Application-Form">View Licence Details</a>
 
         -----
         **Usage of Premises in Parks**
@@ -1956,7 +1991,7 @@
         
         For First Application and Renewal of Fire Certificate shall be made via the new application platform.
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/659ae823-a84d-408b-8ad7-ae196755b966" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/b8c7ab39-b25f-469c-82dc-37179902a28f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Fire-Certificate">View Licence Details</a>
 
         -----
         **Lodgement of Minor Addition / Alteration Works (Minor A&A)**
@@ -2270,12 +2305,11 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7d410f41-a932-4ba2-b81a-f0ec471f1b61" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Amendment-to-Existing-Employee-Record-(Update-Details-of-Registered-Employee)">View Licence Details</a>
 
         -----
-        **Apply for Public Entertainment Licence**
+        **Public Entertainment Licence**
 
         Unless exempted, a public entertainment or arts entertainment licence is required under the Public Entertainments (PEA) Act 1958, for any entertainment that is provided in any place to which the public or any class of public has access, whether gratuitously or otherwise. Any person who provides or assists in providing any public entertainment without a license shall be liable on conviction to a fine not exceeding $10,000.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=50" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Apply-for-Public-Entertainment-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Land-Authority-(SLA)/Apply-for-Public-Entertainment-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/dea91876-29a3-4ead-8787-d360ad10319a" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence">View Licence Details</a>
 
         -----
         **Approval for a Blasting Operation**
@@ -2399,8 +2433,7 @@
 
         Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. "Liquor" is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=47" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
+        <a class="btn" href="https://dashboard.gobusiness.gov.sg/task-details/184e5c59-e6ba-4916-b2d2-a9ef91770885" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a id = "desktopNotice" href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Liquor-Licence-(Class-1A--1B--2A--2B--3A--3B--4)">View Licence Details</a>
 
         -----
         **Massage Establishment Licence**
@@ -2506,8 +2539,7 @@
 
         Licence is not required for the listed public entertainments or arts entertainment activities provided that the organiser adheres to the exemption conditions. Otherwise, organiser is to apply for the appropriate public entertainment or arts entertainment licence.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=52" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/403ab19e-667f-46f1-bcf1-271f008b57ad" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainment-Licence---Notification-to-Police-of-Exempted-Public-Entertainments-or-Arts-Entertainment">View Licence Details</a>
 
         -----
         **Registration for In-House Employer (RIHE)**

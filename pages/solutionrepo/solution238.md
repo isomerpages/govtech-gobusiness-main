@@ -1,15 +1,15 @@
 ---
-title: 'Cartrack Fleet Management'
+title: 'Creative Sales and Order'
 permalink: /productivity-solutions-grant/solutionrepo/solution238
 ---
 
-## Cartrack Fleet Management
+## Creative Sales and Order
 
 ## Overview
 
 **Description**
 
-Cartrack's all-in-one Fleet Management solution increases the safety, efficiency, compliance and sustainability of any business with on-the-ground operations. Cartrack's solution harnesses the data from advanced telematics devices and 3rd party APIs with analytics, computer vision and proprietary AI to empower businesses with the real-time actionable insights needed to improve their operations and make their lives easier.
+Creative Sales and order management is an user friendly end-to end solution that enable companies to request for quote to confirmation of their products or services easily. This solution provide SMEs in Wholesales industry an opportunity to broaden their reach, stay competitive, increase the sales, streamline operation and optimize resources.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Cartrack's all-in-one Fleet Management solution increases the safety, efficiency
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet (per Vehicle)</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cartrack_Cartrack_Fleet_Management_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SME</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Lite</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Cartrack Technologies South East Asia Pte Ltd<br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg 
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

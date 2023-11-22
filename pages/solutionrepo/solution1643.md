@@ -1,17 +1,15 @@
 ---
-title: 'DST E-Commerce'
+title: 'Sage 300Cloud Version 2024'
 permalink: /productivity-solutions-grant/solutionrepo/solution1643
 ---
 
-## DST E-Commerce
+## Sage 300Cloud Version 2024
 
 ## Overview
 
 **Description**
 
-The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
-
-WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
+Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 ## Solution Packages Option(s)
 
@@ -25,17 +23,38 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package</td>
-<td style='padding: 10px;'>$7,100.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simple Package</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -45,7 +64,7 @@ WooCommerce is accommodating to new online merchants. It is adaptable when it co
 
 ## Vendor Information
 
- Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
+ Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

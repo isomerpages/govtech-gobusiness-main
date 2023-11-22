@@ -1,15 +1,15 @@
 ---
-title: 'InfoMaster ERP Software - Asset Monitoring and Management'
+title: 'Network Box Next Generation Managed Security Version 5.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution542
 ---
 
-## InfoMaster ERP Software - Asset Monitoring and Management
+## Network Box Next Generation Managed Security Version 5.5
 
 ## Overview
 
 **Description**
 
-InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
+Network Box UTM is a Managed Security Service Provider, protecting its clients through monitoring & 24/7 updating with real time latest threat intelligence. By outsourcing cybersecurity to Network Box's Unified Threat Management, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users</td>
-<td style='padding: 10px;'>$27,000.00</td>
-<td style='padding: 10px;'>$21,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package I - Low Workload</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'>$6,441.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package II - Medium Workload</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'>$7,606.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package III - Higher Workload</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'>$9,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package IV - S-80i</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'>$11,794.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Network Box Next Generation Managed Security Version 5.5 - Package V - M-295i</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'>$19,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Network_Box_Next_Gen_Sec__20210132_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ InfoMaster ERP's Asset Monitoring and Management system allows tracking and moni
 
 ## Vendor Information
 
- Company Name: Integrated Software Engineering Pte Ltd<br>Web URL: www.infomaster.com.sg <br><br>Contact Hotline: 67475665 <br><br>Contact Email: sales@ise.com.sg <br><br>
+ Company Name: Network Box (Sin) Pte Ltd<br>Web URL: www.network-box.sg <br><br>Contact Hotline: 63395900 <br><br>Contact Email: enquiry@network-box.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central Version Cloud'
+title: '(SaaS) JustLogin HR Cloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution1365
 ---
 
-## Microsoft Dynamics 365 Business Central Version Cloud
+## (SaaS) JustLogin HR Cloud
 
 ## Overview
 
 **Description**
 
-Dalstech is a Microsoft Partner comprising a team of Senior Consultants with over 10 years experience in the implementation of Dynamics 365 Business Central. The team truly understands the needs of the customers and has the necessary expertise in applying the best practices for various industries. 
-
-Microsoft Dynamics 365 Business Central is an ERP Solution that automates and streamlines business processes including Finance, Sales, Purchases, Inventory, Project, Services, Production and more.
+JustLogin is a cloud-based Human Resource Management solution that comes with a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Employees can also utilize the JustLogin mobile application to access the HR services from anywhere.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 3 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$24,100.00</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A (Up to 15 pax)</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'>$4,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 5 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B (Up to 50 pax)</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$41,100.00</td>
-<td style='padding: 10px;'>$26,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C (Up to 100 pax)</td>
+<td style='padding: 10px;'>$19,200.00</td>
+<td style='padding: 10px;'>$19,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Edition - SaaS 10 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$46,000.00</td>
-<td style='padding: 10px;'>$29,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D (Up to 150 pax)</td>
+<td style='padding: 10px;'>$25,800.00</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Edition - SaaS 8 Users with InvoiceNow</td>
-<td style='padding: 10px;'>$53,600.00</td>
-<td style='padding: 10px;'>$30,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Dalstech_Microsoft_Dynamics_365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E (Up to 200 pax)</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'>$29,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/JustLogin_SaaS_JustLogin_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ Microsoft Dynamics 365 Business Central is an ERP Solution that automates and st
 
 ## Vendor Information
 
- Company Name: Dalstech Pte Ltd<br>Web URL: https://www.dalstech.com/dynamics-365-business-central <br>Contact Hotline: 69092088 <br>Contact Email: sales@dalstech.com <br>
+ Web URL: https://justlogin.com <br><br>Contact Hotline: 69099217 <br><br>Contact Email: info@justlogin.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

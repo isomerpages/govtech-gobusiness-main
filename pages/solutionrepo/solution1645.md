@@ -1,15 +1,15 @@
 ---
-title: 'Athena E-Store Solution'
+title: 'Adaptive BizApp Version 5'
 permalink: /productivity-solutions-grant/solutionrepo/solution1645
 ---
 
-## Athena E-Store Solution
+## Adaptive BizApp Version 5
 
 ## Overview
 
 **Description**
 
-Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
+Adaptive BizApp Inventory and Sales management software is a robust cloud-based system. It helps businesses easily capture all real-time data such as sales, purchases, inventory movements and AR and AP transactions. BizApp systems are cost-effective, easy to use, scalable and developed with Singapore businesses in mind. The system is flexible enough to configure it according to individual business needs and requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/ <br>Contact Hotline: 88663438 <br>Contact Email: hello@cleverly.sg <br>
+ Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

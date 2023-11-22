@@ -1,17 +1,15 @@
 ---
-title: 'WESS - Wellness Management Software Version 2.0'
+title: 'Globe3 ERP V5.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution805
 ---
 
-## WESS - Wellness Management Software Version 2.0
+## Globe3 ERP V5.6
 
 ## Overview
 
 **Description**
 
-WESS Cloud Management Software boosts salon & spa performances and simplifies operations by focusing on Profitability & Usability for its users. 
-A full-featured all-in-one software system, WESS streamlines day-to-day tasks at ease. 
-From customer booking to sale and payment, marketing to customer loyalty, employee scheduling to salary and commission, WESS has been designed ground up using real feedback from experienced salon and spa professionals.
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ From customer booking to sale and payment, marketing to customer loyalty, employ
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Lite</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$32,800.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$39,400.00</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'><a href=' /images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Payment</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$49,300.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'>$8,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$55,900.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WESS - Wellness Management Software Version 2.0 - Professional with Online Booking and Payment</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Refine_Solutions_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'>$21,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Refine Solutions Pte Ltd<br>Web URL: www.wessconnect.com <br><br>Contact Hotline: 66028212 <br><br>Contact Email: contactus@wessconnect.com <br><br>
+ Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'DM OOm Digital Performance Marketing Package'
+title: 'Singtel Endpoint Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution708
 ---
 
-## DM OOm Digital Performance Marketing Package
+## Singtel Endpoint Security
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006. We are one of the few independent agencies that is accredited by both Google and Facebook as their premier partner and business partner respectively. Our digital marketing solutions consist of 5 packages to cater to different SMEs' needs, with the aim of helping them to leverage on Digital Marketing to grow their business. 
+Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 1 LeadGen SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 2 Ecommerce SEM/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 25 Licenses</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 3 LeadGen SEM/SEM Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 51 Licenses</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 4 Ecommerce SMA/SMA Starter Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex_3_CR_wef_25_Aug_22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 100 Licenses</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM OOm Digital Performance Marketing Package  - 5 SEO/Content Marketing Combo</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_OOm_Annex3_CR_wef02Feb23_package5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ OOm is a digital performance marketing agency founded in 2006. We are one of the
 
 ## Vendor Information
 
- Company Name: OOM PTE LTD<br>Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

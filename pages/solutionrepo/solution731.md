@@ -1,15 +1,15 @@
 ---
-title: 'TimeCentral Version 11'
+title: 'SUNTOYO POS SOLUTION Version 8.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution731
 ---
 
-## TimeCentral Version 11
+## SUNTOYO POS SOLUTION Version 8.1
 
 ## Overview
 
 **Description**
 
-TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
+Suntoyo POS solution is an all-in-one platform that runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides straightforward cloud-based backend management software with functions specially designed for quick adaptation to end-users. Discover new ways to automate customer orders, transform transaction processing method, gather business insights, manage inventory, and create loyalty memberships campaigns.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - Software Only</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Tablet</td>
+<td style='padding: 10px;'>$4,760.00</td>
+<td style='padding: 10px;'>$4,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
-<td style='padding: 10px;'>$14,500.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SUNTOYO POS SOLUTION Version 8.1 - All in 1 POS+Inventory Management and barcode label Module</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Suntoyo_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 
 ## Vendor Information
 
- Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
+ Additional criteria: <br>Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

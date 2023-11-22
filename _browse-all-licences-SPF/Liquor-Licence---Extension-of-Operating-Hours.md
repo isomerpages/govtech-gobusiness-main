@@ -27,7 +27,7 @@ More information can be found at the
 </li>
 <li>
 <strong>Who can be an applicant?</strong><br>
-If you have just updated ACRA for any changes related to your Company�s name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
+If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
 
 <strong>Entity Type:</strong> <br>
 Limited Liability Partnership<br>

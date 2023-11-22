@@ -1,15 +1,15 @@
 ---
-title: 'DM SEOciety Digital Marketing'
+title: 'PixelCommerce Version 5.9.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1307
 ---
 
-## DM SEOciety Digital Marketing
+## PixelCommerce Version 5.9.3
 
 ## Overview
 
 **Description**
 
-SEOciety, a Google partner company, is one of the few integrated bilingual digital marketing agency in Singapore. SEOciety offers English and Chinese SEO and SEM packages to help SMEs open new markets and generate effective and concrete leads.  Having a presence in both the Google English and Chinese market will increase visibility and differentiate businesses to a new audience while increasing market share for the long term.
+PixelCommerce is a tailored eCommerce website solution for SMEs to go online and thrive in the digital economy. Enabling businesses to sell directly to customers anytime, anywhere - effortlessly, PixelCommerce is a proven solution that has been implemented for hundreds of SMEs over the years.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,27 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fast</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lego</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PixelMechanics_PixelCommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com
+ Company name:PIXEL MECHANICS PTE LTD<br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

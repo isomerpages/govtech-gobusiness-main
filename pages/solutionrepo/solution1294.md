@@ -1,15 +1,15 @@
 ---
-title: 'Intelli-Signage'
+title: 'Alpha eCommerce Booster Premium Version 2.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution1294
 ---
 
-## Intelli-Signage
+## Alpha eCommerce Booster Premium Version 2.8
 
 ## Overview
 
 **Description**
 
-Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics. Intelli-Signage is a revolutionary digital marketing platform that allowed retail business owner to deploy their new product, promotion campaign and services real-time to attract new customers, as the content design is based on a cloud-based platform and can be directly deployed to any store outlet at any time and any location.
+Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage 1 unit</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$4,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Anewtech_Systems_Intelli_Signage_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Alphabet_Six_Marketing_Alpha_eCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 
 ## Vendor Information
 
- Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
+ Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

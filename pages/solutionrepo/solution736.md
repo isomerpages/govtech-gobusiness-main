@@ -1,15 +1,15 @@
 ---
-title: 'JumpCloud Platform'
+title: 'SYNERGIX Version TH6'
 permalink: /productivity-solutions-grant/solutionrepo/solution736
 ---
 
-## JumpCloud Platform
+## SYNERGIX Version TH6
 
 ## Overview
 
 **Description**
 
-Perennial Flexiwork is a holistic endpoint management solution for companies that take remote work seriously by integrating JumpCloud Platform with Trend Micro Worry-Free. On top of its proven and tested anti-virus capability, Flexiwork comes with much needed features to make remote work both productive and secure e.g. Remote Assist ( similar to TeamViewer), patch management, application deployment etc, in today's post-pandemic environment. Flexiwork will provide a strong security foundation for companies seeking to embark on their ISO27001 journeys. 
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Perennial Flexiwork is a holistic endpoint management solution for companies tha
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 30 devices</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'>$4,483.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 50 devices</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'>$7,471.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 100 devices</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'>$14,943.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 150 devices</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'>$22,414.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 200 devices</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'>$29,885.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
+<td style='padding: 10px;'>$39,420.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Perennial Consultancy Pte Ltd<br>Web URL: jumpcloud.perennialconsultancy.com <br>Contact Hotline: 96623516 <br>Contact Email: sales@perennialconsultancy.com
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

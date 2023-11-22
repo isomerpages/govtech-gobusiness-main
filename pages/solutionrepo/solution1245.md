@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft 365 Defender'
+title: 'Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1245
 ---
 
-## Microsoft 365 Defender
+## Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1
 
 ## Overview
 
 **Description**
 
-Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+Wecome ONE Wireless Digital Ordering and Online Payment is an integrated restaurant management system for food vendors (both restaurants and hawkers) who are eager to efficiently extend their business to an emerging digital F&B community that consists of diners, payment providers, advertisers, wholesalers, and other participants (e.g., government entity) in the F&B industry. Wecome ONE consists of ordering and payment management, cloud-connected services, and optional customizable accessories.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Extended</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Extended</td>
+<td style='padding: 10px;'>$6,950.00</td>
+<td style='padding: 10px;'>$6,950.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wecome_One_Wireless_Version1_1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 
 ## Vendor Information
 
- Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
+ Web URL: https://wecome.sg <br><br>Contact Hotline: 96824965 <br><br>Contact Email: wuhong@wecome.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
