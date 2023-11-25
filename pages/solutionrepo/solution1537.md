@@ -1,15 +1,17 @@
 ---
-title: 'Revel Systems Version 2'
+title: 'Pepper Cloud CRM Version 14.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1537
 ---
 
-## Revel Systems Version 2
+## Pepper Cloud CRM Version 14.0
 
 ## Overview
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+Pepper Cloud is a Singapore based cloud CRM Company, which offers CRM software designed for SMEs to help in areas such as sales & lead management, customer relationship, marketing automation & business analytics
+A highly customizable and scalable CRM solution, it offers a range of features that help businesses manage sales pipeline, track opportunities, capture customer interactions, and forecast sales
+They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar & Indonesia
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,41 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$5,492.00</td>
-<td style='padding: 10px;'>$4,892.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_3Users</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$7,904.00</td>
-<td style='padding: 10px;'>$6,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_5Users</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
-<td style='padding: 10px;'>$8,156.00</td>
-<td style='padding: 10px;'>$6,444.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_10Users</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
+ Company Name: Pepper Cloud Pte. Ltd.<br>Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

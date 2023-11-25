@@ -1,15 +1,15 @@
 ---
-title: 'SAP Business One, version for HANA'
+title: 'WarelyEcom Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1289
 ---
 
-## SAP Business One, version for HANA
+## WarelyEcom Version 1.3
 
 ## Overview
 
 **Description**
 
-SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries, service/repair and manufacturing companies.
+Warely Ecommerce Solution assist SME to power their online business website, which includes a professionally designed website, inventory management, Loyalty program, payment gateway, social media and CRM integration.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Cloud Subscription Users</td>
-<td style='padding: 10px;'>$28,170.00</td>
-<td style='padding: 10px;'>$24,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 3 Perpetual Users</td>
-<td style='padding: 10px;'>$36,988.00</td>
-<td style='padding: 10px;'>$30,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - 5 Cloud Subscription Users</td>
-<td style='padding: 10px;'>$32,370.00</td>
-<td style='padding: 10px;'>$28,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - 5 Perpetual Users</td>
-<td style='padding: 10px;'>$44,764.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - 8 Perpetual Users for Project Industry</td>
-<td style='padding: 10px;'>$74,635.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Inecom_SAP_Business_One_Version_For_HANA_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 ## Vendor Information
 
- Company name:Inecom Pte Ltd<br>Web URL: https://www.inecom.com.sg/solution/sap-business-one/ <br>Contact Hotline: 62259255 <br>Contact Email: enquiries@inecomworld.com 
+ Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

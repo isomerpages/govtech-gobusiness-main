@@ -1,15 +1,15 @@
 ---
-title: 'SINGTAX CORPORATE'
+title: 'Graphisoft Archicad'
 permalink: /productivity-solutions-grant/solutionrepo/solution1700
 ---
 
-## SINGTAX CORPORATE
+## Graphisoft Archicad
 
 ## Overview
 
 **Description**
 
-Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
+Graphisoft empowers teams to design great buildings through award-winning software solutions and learning programs for the AEC industry. Archicad, offers a complete end-to-end design & documentation workflow for architectural and integrated architecture & engineering practices. BIMx, the mobile & web BIM app extends BIM experience to stakeholders. BIMcloud, the industry's first & most advanced cloud-based solution for real-time collaboration. Graphisoft's solution also fully support OPEN BIM.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Archicad Collaborate (1 year subscription)</td>
+<td style='padding: 10px;'>$2,760.00</td>
+<td style='padding: 10px;'>$1,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Graphisoft_GraphisoftArchicad_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Archicad (Perpetual)</td>
+<td style='padding: 10px;'>$6,988.40</td>
+<td style='padding: 10px;'>$1,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Graphisoft_GraphisoftArchicad_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 
 ## Vendor Information
 
- Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
+ Company Name: Graphisoft Asia Limited<br>Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'WarelyPOS Version 1.3'
+title: 'Swingvy Version 1.233.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1601
 ---
 
-## WarelyPOS Version 1.3
+## Swingvy Version 1.233.0
 
 ## Overview
 
 **Description**
 
-WarelyPOS is a digital ordering solution for F&B businesses. Key features of the solution include Food Delivery, Takeaway, Pick-up, Dine-in & Reservation, CRM and Inventory Management.
+Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
 
 ## Solution Packages Option(s)
 
@@ -23,69 +23,48 @@ WarelyPOS is a digital ordering solution for F&B businesses. Key features of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise + Kiosk + Queue</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$12,100.00</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

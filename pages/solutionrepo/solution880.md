@@ -1,15 +1,15 @@
 ---
-title: 'DM GENIA SEMANTIC SEO'
+title: 'T-GUARD'
 permalink: /productivity-solutions-grant/solutionrepo/solution880
 ---
 
-## DM GENIA SEMANTIC SEO
+## T-GUARD
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Google's Algorithms have gotten significantly more advanced in recent years and the traditional ways of doing SEO do not work anymore. Methods like keyword stuffing and spammy link building do not work anymore. Semantic SEO is a scientific way to climb Google's search rankings in the shortest period by simply being the best option for Google.
+T-Guard is an enhanced safe driving management system that encompasses a collision avoidance system. It has the capability to prevent accidents due to potential causes of abnormal driver behaviour such as fatigue, smoking, distraction, yawning, and provides closed loop interventions to prevent accidents. The solution provides SMEs with greater fleet insights to improve business productivity and safety by analyzing driver behavior with score card to instill safe driving culture.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ permalink: /productivity-solutions-grant/solutionrepo/solution880
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + Content Marketing (3 Months)</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Genia_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard (Per vehicle)</td>
+<td style='padding: 10px;'>$5,538.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>T-Guard Enhance (Per vehicle)</td>
+<td style='padding: 10px;'>$5,657.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TNT_20220398_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:THE GENIA PTE LTD<br>Web URL: https://thegenia.com <br>Contact Hotline: 82286874 <br>Contact Email: caleb@thegenia.com 
+ Company Name: TNT Surveillance Pte Ltd<br>Web URL: www.tnts.com.sg <br>Contact Hotline: 94798687 <br>Contact Email: customerservice@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

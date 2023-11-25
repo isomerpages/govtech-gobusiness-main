@@ -1,17 +1,15 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Mobile Elevating Work Platform/ Boom Lift/ Spider Lift'
 permalink: /productivity-solutions-grant/solutionrepo/solution1036
 ---
 
-## Automated Tray Sealer
+## Mobile Elevating Work Platform/ Boom Lift/ Spider Lift
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
-
-Cost of equipment capped at $37,500 per unit 
+A mobile mechanical device used to provide temporary access for people or equipment to perform tasks which are at inaccessible areas and heights.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Machine can produce at least 400units/hour</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

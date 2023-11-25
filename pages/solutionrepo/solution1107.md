@@ -1,15 +1,15 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'Robotic/ Wireless/ Autonomous Mower'
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 
-## Farm Produce Washing Machine
+## Robotic/ Wireless/ Autonomous Mower
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+A mobile grass/lawn cutting equipment , either automated or semi/fully controlled by a person, that trims, cuts grass or other vegetation that grows on the ground.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

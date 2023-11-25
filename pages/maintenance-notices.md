@@ -10,11 +10,12 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** |  
-|  -----------   |------------------|
-| 25 Oct, 6pm - 7:30pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
-| 25 Oct, 6pm - 11:59pm | **GoBusiness Dashboard** will be unavailable during the upcoming scheduled maintenance. We apologise for any inconvenience caused. | 
-| 25 Oct, 7pm - 29 Oct, 11:59pm | **Submission of application for Early Childhood Development Centres licence** is unavailable during this period due to system upgrade. In the interim, applicants may still create application and save form as draft. |
-| 25 Oct, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
+|  -----------   | ---------------- | 
+| 24 Nov, 8pm - 25 Nov, 2am | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |
+| 24 Nov, 10pm - 25 Nov 8am<br> 25 Nov, 10pm - 26 Nov, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |
+| 26 Nov, 12pm - 8am | **Application, amendment, renewal & cancellation of  Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
+| 26 Nov, 8am - 12pm | **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will be unavailable during the upcoming scheduled maintenance. |
+| 27 Nov, 6pm - 28 Nov, 12am | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. Some services may not be available during this period. | 
    
 
 <script src="/jquery/jquery.min.js"></script>

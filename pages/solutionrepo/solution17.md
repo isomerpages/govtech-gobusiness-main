@@ -1,15 +1,15 @@
 ---
-title: 'DM 3D Digital Booster'
+title: 'ABA - Quickbooks Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution17
 ---
 
-## DM 3D Digital Booster
+## ABA - Quickbooks Online
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.  
+Abundant Accounting Pte Ltd is a leading Pro-Adviser for Quickbooks Online in Singapore and the Company has helped more than 400 businesses to train, migrate and implement Quickbooks Online Accounting solution successfully. Many businesses have reaped the high-quality professional skills provided thus far. Abundant Accounting is a technology, accounting and auditing company which helps clients to enhance their sales and financial reporting using Quickbooks cloud accounting system by Intuit.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,48 @@ permalink: /productivity-solutions-grant/solutionrepo/solution17
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM 3D Digital Booster - Package 1: Facebook / Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription </td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM 3D Digital Booster - Package 2: SEO / SEM (3 Months)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_3D_BRAND_AGENCY_20210423_Desensitised_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales and Accounting Module Set Up </td>
+<td style='padding: 10px;'>$3,260.00</td>
+<td style='padding: 10px;'>$3,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sales, Accounting and Inventory Module</td>
+<td style='padding: 10px;'>$4,660.00</td>
+<td style='padding: 10px;'>$4,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup with detailed migration</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Setup and full data conversion</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Abundant_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: 3D BRAND AGENCY PTE LTD<br>Web URL: www.3dbrandagency.com/ecommerce <br><br>Contact Hotline: 88812881 <br><br>Contact Email: hello@3dbrandagency.com <br><br>
+ Company name:Abundant Accounting Pte Ltd<br>Web URL: www.aba.com.sg <br>Contact Hotline: 97762954 <br>Contact Email: sales@aba.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

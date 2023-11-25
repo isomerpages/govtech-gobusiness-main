@@ -153,13 +153,6 @@
   alt: GoBusiness 99 Old Trees founders
   date: 2022-12-23
 - tag: Business Tips & Tricks
-  title: Three ways to navigate the GST hike
-  body: Here are three tips to help your business maintain your bottom line in spite of the GST hike!
-  link: /gobusiness-blog/navigating-GST-hike
-  image: /images/blog/GSTHike Thumbnail.jpg
-  alt: Navigating the upcoming GST hike
-  date: 2022-12-28
-- tag: Business Tips & Tricks
   title: 'What you need to know before starting your new F&B business'
   body: 'Starting a F&B business in Singapore? This overview of the sector will help you with your planning.'
   link: /gobusiness-blog/starting-fnb-biz
@@ -271,3 +264,10 @@
   image: /images/blog/content/scent 1.jpg
   alt: Scent by Six founder on the need for upskilling, progressive wages and purpose in work.
   date: 2023-10-11
+- tag: Business Tips & Tricks
+  title: Three ways to navigate the GST hike
+  body: Here are three tips to help your business maintain your bottom line in spite of the GST hike!
+  link: /gobusiness-blog/navigating-GST-hike
+  image: /images/blog/GSTHike Thumbnail.jpg
+  alt: Navigating the upcoming GST hike
+  date: 2023-11-10
