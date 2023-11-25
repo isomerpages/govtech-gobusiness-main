@@ -12,11 +12,11 @@ SGSecure@Workplaces is a national programme to help businesses to prepare and mi
  
 The threat of terrorism in Singapore continues to remain real and present. Workplaces, being an important part of our community, can take practical steps to better prepare their workplaces to stay resilient in the face of terror threats. Adopt the 3P approach at your workplace to build up organisational resilience against terrorism.
  
-- Prepare your workforce<br>Employees are businesses’ greatest assets. It is crucial to prepare them with the right knowledge and skills to prevent and deal with crises. If an attack happens, a prepared and cohesive workforce can minimise the downtime and return the business to normalcy quickly.
+- <u>Prepare your workforce</u><br>Employees are businesses’ greatest assets. It is crucial to prepare them with the right knowledge and skills to prevent and deal with crises. If an attack happens, a prepared and cohesive workforce can minimise the downtime and return the business to normalcy quickly.
  
-- Protect your workplace<br>Risk management plans and mitigation measures are critical to ensure that businesses can withstand crises. Taking these steps during peacetime will enable businesses to prevent and minimise potential losses, and resume operations quickly after crises.
+- <u>Protect your workplace</u><br>Risk management plans and mitigation measures are critical to ensure that businesses can withstand crises. Taking these steps during peacetime will enable businesses to prevent and minimise potential losses, and resume operations quickly after crises.
  
-- Partner your community<br>The impact of a terror attack extends beyond the point of attack. Operations may be disrupted if partners are affected. Build up a network with the community and along your value chain to solve problems collectively. Strong community networks strengthen vigilance and boost the ability to respond effectively and swiftly to crises.
+- <u>Partner your community</u><br>The impact of a terror attack extends beyond the point of attack. Operations may be disrupted if partners are affected. Build up a network with the community and along your value chain to solve problems collectively. Strong community networks strengthen vigilance and boost the ability to respond effectively and swiftly to crises.
  
 <h4>What should you do for your business?</h4>
  
