@@ -13,7 +13,7 @@ image: /images/news/Update_PSG_Changes_2023.jpg
 <img src="/images/news/Update_PSG_Changes_2023.jpg" aria-hidden="true">
 Location of some licences for AVS and NParks has changed with the new system update
 
-Moving forward, the following licences can now With the reshuffling of the licences locations the following licences can be found under Animal & Veterinary Service (AVS):
+Moving forward, the following licences can now be found under Animal & Veterinary Service (AVS):
 - Certificate of Freedom From Disease Within Singapore
 - Free Sale Certificate (Vaccine)
 - Free Sale Certificate(Non Food Producing Animal Feed)
