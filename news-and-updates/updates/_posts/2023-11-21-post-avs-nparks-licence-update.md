@@ -16,7 +16,7 @@ Location of some licences for AVS and NParks has changed with the new system upd
 Moving forward, the following licences can now be found under Animal & Veterinary Service (AVS):
 - Certificate of Freedom From Disease Within Singapore
 - Free Sale Certificate (Vaccine)
-- Free Sale Certificate(Non Food Producing Animal Feed)
+- Free Sale Certificate (Non Food Producing Animal Feed)
 - Health Certificate for Export of Ornamental Fish
 - Licence for Animal Exhibition
 - Licence for Animal Research Facility
