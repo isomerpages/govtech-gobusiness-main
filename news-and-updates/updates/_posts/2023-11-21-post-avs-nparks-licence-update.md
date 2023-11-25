@@ -31,7 +31,7 @@ Moving forward, the following licences can now With the reshuffling of the licen
 - Registration to Import Live Frogs for Ornamental Fish Feeding Only
 - Veterinary Certificate for Non-Food animals and animal products
 
-The following licences can be found under NParksNPARKS:
+The following licences can be found under NParks:
 - Application for Phytosanitary Certification
 - CITES Permit
 - Non-CITES Certificate
