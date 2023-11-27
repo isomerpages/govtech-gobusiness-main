@@ -1,15 +1,15 @@
 ---
-title: 'Adaptive BizApp Version 5'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution1710
 ---
 
-## Adaptive BizApp Version 5
+## Xero
 
 ## Overview
 
 **Description**
 
-Adaptive BizApp Inventory and Sales management software is a robust cloud-based system. It helps businesses easily capture all real-time data such as sales, purchases, inventory movements and AR and AP transactions. BizApp systems are cost-effective, easy to use, scalable and developed with Singapore businesses in mind. The system is flexible enough to configure it according to individual business needs and requirements.
+Xero is a beautiful and easy-to-use online accounting software for small businesses and their advisor, with subscribers in more than 180 countries. Xero also offer over 800 third party integration. The software is accessible from web browsers as well as from mobile devices. Xero is used by small businesses and includes services for invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Adaptive BizApp Inventory and Sales management software is a robust cloud-based 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Full Package with Consultation</td>
+<td style='padding: 10px;'>$6,420.00</td>
+<td style='padding: 10px;'>$6,351.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Xero_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premier Pro with 2 Days Training</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,681.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Xero_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Premier Pro with 1 Day Training</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Xero_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Basic</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'>$3,281.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Xero_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription Only</td>
+<td style='padding: 10px;'>$900.00</td>
+<td style='padding: 10px;'>$881.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KloudEx_Xero_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
+ Company name:KloudEx Pte Ltd<br>Web URL: www.xero.com <br>Contact Hotline: 96461160 <br>Contact Email: ken@kloudex.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

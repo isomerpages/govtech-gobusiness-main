@@ -1,15 +1,15 @@
 ---
-title: 'Firewall Security Protection'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution720
 ---
 
-## Firewall Security Protection
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 
 **Description**
 
-Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 40F with Managed Services - P1</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 80F - P2</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection -  Rah Tech Fortinet 80F with Managed Services - P3</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F - P4</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$3,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 
 ## Vendor Information
 
- Company Name: Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

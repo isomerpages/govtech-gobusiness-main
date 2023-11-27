@@ -20,11 +20,11 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1682' target='_blank'>SMART AUDIT</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1542' target='_blank'>SMART AUDIT</a><br></td>
 <td>Smart Audit Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1734' target='_blank'>CCH ProSystem fx Engagement</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1594' target='_blank'>CCH ProSystem fx Engagement</a><br></td>
 <td>Wolters Kluwer Singapore Pte Ltd</td>
 </tr>
 </table>

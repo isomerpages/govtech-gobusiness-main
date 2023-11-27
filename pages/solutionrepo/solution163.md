@@ -1,15 +1,17 @@
 ---
-title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
+title: 'DM Best SEO Digital Marketing Packages Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution163
 ---
 
-## Job Redesign Consultancy - BDO Consultants Pte Ltd
+## DM Best SEO Digital Marketing Packages Version 1
 
 ## Overview
 
 **Description**
 
-BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
+Best SEO Marketing Pte Ltd offers SEO services, Google Ads, Social Media Marketing that brings businesses more leads, customers and sales than one's team can possibly handle.
+
+Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "click-through rate", they focus on how much their marketing efforts have generated their clients in terms of their return on investment.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,34 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING - 3 MONTHS</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM/SMA - 3 MONTHS</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/SEM - 3 MONTHS</td>
+<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617 <br>Contact Email: chriskuang@bdo.com.sg
+ Company name: BEST MARKETING AGENCY PTE LTD<br>Web URL: https://www.bestmarketing.com.sg<br>Contact Hotline: 9231 3757<br>Contact Email: contact@bestmarketing.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

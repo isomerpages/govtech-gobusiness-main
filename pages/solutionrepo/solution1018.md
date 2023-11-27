@@ -1,19 +1,19 @@
 ---
-title: 'Encrusting Machine'
+title: 'Mobile Computer (Warehouse application)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
-## Encrusting Machine
+## Mobile Computer (Warehouse application)
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-Cost of equipment capped at $25,000 per unit 
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +24,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
 </tr>
 </table>
 
