@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1653
 
 **Description**
 
-Businesses benefit greatly from MediaOne’s more than a decade of success in digital marketing. The consultancy offers comprehensive solutions, including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With extensive experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively maximise their digital presence, achieve marketing goals and ROI, and effectively connect with their audience.
+Businesses benefit greatly from MediaOne's more than a decade of success in digital marketing. The consultancy offers comprehensive solutions, including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With extensive experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively maximise their digital presence, achieve marketing goals and ROI, and effectively connect with their audience.
 
 ## Solution Packages Option(s)
 

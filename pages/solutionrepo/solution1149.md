@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1149
 
 **Description**
 
-Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business’s brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
+Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
 
 ## Solution Packages Option(s)
 

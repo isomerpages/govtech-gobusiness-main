@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/E-loyalty-Marketin
 
 **Description**
 
-Offers ability to manage customers through membership and loyalty program. Companies may set up campaigns or event-based marketing, and promotions. The e-loyalty CRM solution offers loyalty rewards, discounts, and other special incentives designed to reward customer’s repeat business.
+Offers ability to manage customers through membership and loyalty program. Companies may set up campaigns or event-based marketing, and promotions. The e-loyalty CRM solution offers loyalty rewards, discounts, and other special incentives designed to reward customer's repeat business.
 
 **Support Level and Conditions**
 

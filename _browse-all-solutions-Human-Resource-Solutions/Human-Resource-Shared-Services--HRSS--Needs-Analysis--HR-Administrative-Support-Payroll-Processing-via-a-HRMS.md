@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Shared-
 
 **Description**
 
-Review a company’s internal HR process, offer a HRMS system and provide HR administrative and payroll processing support such as issuing payslips, ePayment of salaries, leave, attendance and claims.
+Review a company's internal HR process, offer a HRMS system and provide HR administrative and payroll processing support such as issuing payslips, ePayment of salaries, leave, attendance and claims.
 
 **Support Level and Conditions**
 
@@ -52,7 +52,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1270' target='_blank'>Enable Consulting HRSS – Payroll Outsourcing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1270' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 <tr>

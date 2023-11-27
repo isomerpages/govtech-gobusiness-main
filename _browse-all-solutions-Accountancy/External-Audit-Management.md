@@ -24,7 +24,7 @@ This solution is supported by ACRA.
 <td>Smart Audit Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1594' target='_blank'>CCH® ProSystem fx® Engagement</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1594' target='_blank'>CCH ProSystem fx Engagement</a><br></td>
 <td>Wolters Kluwer Singapore Pte Ltd</td>
 </tr>
 </table>

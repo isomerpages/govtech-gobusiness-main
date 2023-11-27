@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 
 **Description**
 
-Telematics and GPS tracking technology that provides the company a complete overview of its fleet’s real-time location and operating condition.
+Telematics and GPS tracking technology that provides the company a complete overview of its fleet's real-time location and operating condition.
 
 **Support Level and Conditions**
 

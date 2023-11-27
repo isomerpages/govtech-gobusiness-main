@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1658
 
 **Description**
 
-Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client’s branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 

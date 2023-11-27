@@ -29,7 +29,7 @@ Cost of equipment capped at $37,500 per unit
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
+<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
 </tr>
 </table>
 

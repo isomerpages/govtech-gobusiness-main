@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1410
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today—a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
 
 ## Solution Packages Option(s)
 

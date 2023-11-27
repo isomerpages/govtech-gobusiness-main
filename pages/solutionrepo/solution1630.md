@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1630
 
 **Description**
 
-Elevate one’s business to new heights with OS Store, an all-in-one web-based e-commerce solution tailored for small and medium-sized enterprises. The platform boasts a custom user interface, intelligent features, and plugins that deliver seamless retail management and an unparalleled user experience. OS Store encompasses essential elements ranging from cybersecurity and order fulfillment to customer segmentation, marketing, engagement, loyalty, competition, pricing, and inventory management.
+Elevate one's business to new heights with OS Store, an all-in-one web-based e-commerce solution tailored for small and medium-sized enterprises. The platform boasts a custom user interface, intelligent features, and plugins that deliver seamless retail management and an unparalleled user experience. OS Store encompasses essential elements ranging from cybersecurity and order fulfillment to customer segmentation, marketing, engagement, loyalty, competition, pricing, and inventory management.
 
 ## Solution Packages Option(s)
 
