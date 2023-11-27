@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Human-Resource-Solutions/Human-Resource-Managem
 
 **Description**
 
-Manage a company's employee records in all the key HR administrative areas such as personnel management, payroll, leave, employee benefits, employee claims and appraisal.
+Manage a company’s employee records in all the key HR administrative areas such as personnel management, payroll, leave, employee benefits, employee claims and appraisal.
 
 **Support Level and Conditions**
 

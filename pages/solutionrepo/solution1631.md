@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1631
 
 **Description**
 
-Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO foundation for their website, while looking to expand their reach into niche markets through Email Marketing. Guidesify believes that Digital Marketing is a continuous effort that requires commitment on both the part of client and Guidesify as a vendor. This will ensure clients' websites rank highly in search engines, and clients' target audiences are frequently engaged through email marketing.
+Guidesify’s Digital Marketing Package is for SMEs looking to build a strong SEO foundation for their website, while looking to expand their reach into niche markets through Email Marketing. Guidesify believes that Digital Marketing is a continuous effort that requires commitment on both the part of client and Guidesify as a vendor. This will ensure clients’ websites rank highly in search engines, and clients’ target audiences are frequently engaged through email marketing.
 
 ## Solution Packages Option(s)
 

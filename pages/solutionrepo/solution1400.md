@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1400
 
 **Description**
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management.
+Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies’ growing business, including financials, operations and inventory, project and vendor management.
 
 ## Solution Packages Option(s)
 

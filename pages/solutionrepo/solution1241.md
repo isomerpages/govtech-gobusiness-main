@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1241
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, ‘Incontact’ CRM, Kitchen Display System, ‘EatTogetherNow’ Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
 
 ## Solution Packages Option(s)
 

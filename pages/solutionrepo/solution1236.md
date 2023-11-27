@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1236
 
 **Description**
 
-Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps SMEs integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM, InvoiceNOW) and optionally one of the advanced modules (Essential license - Projects. Premium license -  After Sales Service or Manufacturing)
+Microsoft Dynamics Business Central is an easily adaptable, cloud-based or on-premise ERP. It helps SMEs integrate key business processes. The in-depth implementation by Winspire Solutions covers consulting on the best business practices based on the standard solution. Implementation includes the base modules (Sales, Purchase, Inventory, Accounting, CRM, InvoiceNOW) and optionally one of the advanced modules (Essential license – Projects. Premium license -  After Sales Service or Manufacturing)
 
 ## Solution Packages Option(s)
 

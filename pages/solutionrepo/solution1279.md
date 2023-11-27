@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1279
 
 **Description**
 
-Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands' competitiveness and bring more leads and sales to their businesses.
+Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands’ competitiveness and bring more leads and sales to their businesses.
 
 ## Solution Packages Option(s)
 
@@ -30,7 +30,7 @@ Bizsquare Management Consultants is a business consultancy firm, specialized in 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 – SMM for Brand Awareness (Video) 4 months</td>
 <td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>

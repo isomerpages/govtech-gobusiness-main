@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1700
 
 **Description**
 
-Graphisoft empowers teams to design great buildings through award-winning software solutions and learning programs for the AEC industry. Archicad, offers a complete end-to-end design & documentation workflow for architectural and integrated architecture & engineering practices. BIMx, the mobile & web BIM app extends BIM experience to stakeholders. BIMcloud, the industry's first & most advanced cloud-based solution for real-time collaboration. Graphisoft's solution also fully support OPEN BIM.
+Graphisoft empowers teams to design great buildings through award-winning software solutions and learning programs for the AEC industry. Archicad, offers a complete end-to-end design & documentation workflow for architectural and integrated architecture & engineering practices. BIMx, the mobile & web BIM app extends BIM experience to stakeholders. BIMcloud, the industry’s first & most advanced cloud-based solution for real-time collaboration. Graphisoft’s solution also fully support OPEN BIM.
 
 ## Solution Packages Option(s)
 

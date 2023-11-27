@@ -23,14 +23,14 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM+SMA (3months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 – SEM+SMA (3months)</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Ecommerce SEM+SMA (3months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 – Ecommerce SEM+SMA (3months)</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'>$7,009.33</td>
 <td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>

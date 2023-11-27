@@ -23,35 +23,35 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 – SEM + SMA (3 months)</td>
 <td style='padding: 10px;'>$6,360.00</td>
 <td style='padding: 10px;'>$6,360.00</td>
 <td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 – SEO (6 months) + SEM (3 months)</td>
 <td style='padding: 10px;'>$10,650.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 – SMA (3 months) + Social Media Content Marketing (6 months)</td>
 <td style='padding: 10px;'>$10,750.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 – SEO (6 months) + Social Media Content Marketing (3 months)</td>
 <td style='padding: 10px;'>$11,620.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 – SEO (6 months) + SMA (3 months)</td>
 <td style='padding: 10px;'>$11,910.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>

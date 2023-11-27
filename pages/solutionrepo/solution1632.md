@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1632
 
 **Description**
 
-Hatch Digital (HD) helps clients unlock their brand's potential through digital transformation. The HD Branding Framework identifies each client's unique edge, creating a brand identity reflecting their essence. Ensuring cohesive branding engages the target audience with curated content, setting them apart from competitors. This approach enhances influence, and credibility, and attracts like-minded individuals, leading to success in objectives like increasing transactions or expanding teams.
+Hatch Digital (HD) helps clients unlock their brand’s potential through digital transformation. The HD Branding Framework identifies each client’s unique edge, creating a brand identity reflecting their essence. Ensuring cohesive branding engages the target audience with curated content, setting them apart from competitors. This approach enhances influence, and credibility, and attracts like-minded individuals, leading to success in objectives like increasing transactions or expanding teams.
 
 ## Solution Packages Option(s)
 

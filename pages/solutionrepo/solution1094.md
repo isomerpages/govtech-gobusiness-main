@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1094
 
 **Description**
 
-Therefore Online is a Cloud Document Management Solution that provides a central document repository for companies. Users are able to save, organize and share content. It also enables an optimization of processes through automated workflows and provides reports for analysis.
+Therefore™ Online is a Cloud Document Management Solution that provides a central document repository for companies. Users are able to save, organize and share content. It also enables an optimization of processes through automated workflows and provides reports for analysis.
 
 ## Solution Packages Option(s)
 
