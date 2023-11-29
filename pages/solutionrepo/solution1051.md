@@ -1,22 +1,15 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'Smart irrigation systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1051
 ---
 
-## Digital Welding Equipment
+## Smart irrigation systems
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
-
-Cost of equipment  capped at $37,500 per unit
+A system and application of watering devices and instrumentation used to control the amount of water for plants or shrubs.
 
 ## Solution Packages Option(s)
 
@@ -27,15 +20,15 @@ Cost of equipment  capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart irrigation systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

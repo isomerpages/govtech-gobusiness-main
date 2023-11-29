@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - CET Global Pte Ltd'
+title: 'Sage 300 Advanced Edition Version 2022'
 permalink: /productivity-solutions-grant/solutionrepo/solution220
 ---
 
-## Job Redesign Consultancy - CET Global Pte Ltd
+## Sage 300 Advanced Edition Version 2022
 
 ## Overview
 
 **Description**
 
-CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
+Sage 300 is a globally known ERP solution suitable for small to medium sized companies. It helps to manage business finances, operations and inventory in multiple currencies and locations. Sage 300 is customizable, cost-efficient and scalable to suit various business needs. Sage 300 is also InvoiceNow ready, helping SMEs increase productivity by sending and receiving e-Invoices seamlessly. Sage 300 will greatly automate the accounting routine reducing time spend on admin and accounting tasks.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P1 (2 Users)</td>
+<td style='padding: 10px;'>$30,347.00</td>
+<td style='padding: 10px;'>$30,247.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P2 (5 Users)</td>
+<td style='padding: 10px;'>$35,825.00</td>
+<td style='padding: 10px;'>$35,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P3 (10 Users)</td>
+<td style='padding: 10px;'>$44,955.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Standard Package P4 (7 Users)</td>
+<td style='padding: 10px;'>$39,477.00</td>
+<td style='padding: 10px;'>$39,377.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cloud Enhanced Package S1 (5 Users)</td>
+<td style='padding: 10px;'>$26,287.00</td>
+<td style='padding: 10px;'>$26,187.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
+ Company Name: COMPTRAC SYSTEMS TECHNOLOGY PTE LTD<br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION'
+title: 'DM Guidesify Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1631
 ---
 
-## DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION
+## DM Guidesify Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-QIAN YI is specialized in TikTok social media marketing service focuses on reaching customer desired audience, increasing follower base, and generating valuable conversions for client business. QIAN YI's specialised team creates engaging and imaginative TikTok videos that empower clients to achieve their social media marketing objectives.
+Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO foundation for their website, while looking to expand their reach into niche markets through Email Marketing. Guidesify believes that Digital Marketing is a continuous effort that requires commitment on both the part of client and Guidesify as a vendor. This will ensure clients' websites rank highly in search engines, and clients' target audiences are frequently engaged through email marketing.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - TikTok Creative Video Packages SMM + SMA (3 MONTH)</td>
-<td style='padding: 10px;'>$11,500.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEO + Email marketing [3 months]</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qianyi_Trading_Tiktok_DM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Guidesify_Digital_Marketing_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 
 ## Vendor Information
 
- Company Name: QIANYI TRADING PTE. LTD.<br>Web URL: NA <br>Contact Hotline: 96196791 <br>Contact Email: RICKY@BENCHMARKINGMEDIA.COM <br>
+ Company Name: Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/psg-grant-singapore-ecommerce/ <br>Contact Hotline: 87755483 <br>Contact Email: hello@guidesify.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

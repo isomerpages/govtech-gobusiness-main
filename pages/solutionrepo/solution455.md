@@ -1,15 +1,15 @@
 ---
-title: 'DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing'
+title: 'Evolvecloud'
 permalink: /productivity-solutions-grant/solutionrepo/solution455
 ---
 
-## DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing
+## Evolvecloud
 
 ## Overview
 
 **Description**
 
-Impossible Marketing, a Google and Facebook partner company, is one of the leading digital marketing agency in Singapore. Till date, we have served more than 1000 clients and received more than 500 positive reviews. With our vast experience, our digital marketing solution packages are specially tailored to meet your business needs and help you get more traffic and sales online. Speak to us today!
+Evolvecloud is a one-stop enterprise-ready platform for sharing, communicating, collaborating & organizing work, allowing flexi-work arrangement deployment effectively. With audit trails and access control, information security is enhanced. Evolvecloud's user-centric interface provides the tools for remote and off-premises real-time collaboration within the organization. Evolvecloud supports full compliance with USA HIPAA, EU GDPR, EU Cybersecurity Act, Clause 14 of ISO27001 & SG PDPA.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Impossible Marketing, a Google and Facebook partner company, is one of the leadi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Search Accelerated - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package I</td>
+<td style='padding: 10px;'>$7,180.00</td>
+<td style='padding: 10px;'>$6,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Diversification - 3 Months</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'>$9,999.99</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package II</td>
+<td style='padding: 10px;'>$10,120.00</td>
+<td style='padding: 10px;'>$8,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Ads Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package III</td>
+<td style='padding: 10px;'>$13,760.00</td>
+<td style='padding: 10px;'>$11,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Social Focus - 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package IV</td>
+<td style='padding: 10px;'>$16,700.00</td>
+<td style='padding: 10px;'>$13,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing - Organic Growth - 3 Months</td>
-<td style='padding: 10px;'>$10,359.99</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Impossible_Annex3_wef28July2022_part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PSG Edition Package V</td>
+<td style='padding: 10px;'>$20,540.00</td>
+<td style='padding: 10px;'>$15,860.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KK_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Impossible Marketing Services Pte Ltd<br>Web URL: https://www.impossible.sg/ <br>Contact Hotline: 62088111 <br>Contact Email: hello@impossible.sg <br>
+ Company name:K&K IT Private Limited<br>Web URL: https://knkit.sg/evolvecloud/ <br>Contact Hotline: 68020447 <br>Contact Email: admin@knkit.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

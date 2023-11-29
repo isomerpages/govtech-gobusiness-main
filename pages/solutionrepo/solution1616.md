@@ -1,17 +1,15 @@
 ---
-title: 'NetDocuments'
+title: 'ASFA Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1616
 ---
 
-## NetDocuments
+## ASFA Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
-
-Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -25,83 +23,41 @@ Verlata is a NetDocuments Platinum Partner, providing implementation services fo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'>$6,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 1 (Software Only)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
-<td style='padding: 10px;'>$10,520.00</td>
-<td style='padding: 10px;'>$10,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 2 (Software Only)</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
-<td style='padding: 10px;'>$18,740.00</td>
-<td style='padding: 10px;'>$17,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 3 (Software + Training)</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
-<td style='padding: 10px;'>$26,860.00</td>
-<td style='padding: 10px;'>$24,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
-<td style='padding: 10px;'>$45,600.00</td>
-<td style='padding: 10px;'>$36,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users (2 years)</td>
-<td style='padding: 10px;'>$9,820.00</td>
-<td style='padding: 10px;'>$9,820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users (2 years)</td>
-<td style='padding: 10px;'>$16,640.00</td>
-<td style='padding: 10px;'>$16,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users (2 years)</td>
-<td style='padding: 10px;'>$30,980.00</td>
-<td style='padding: 10px;'>$30,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users (2 years)</td>
-<td style='padding: 10px;'>$45,220.00</td>
-<td style='padding: 10px;'>$42,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users (2 years)</td>
-<td style='padding: 10px;'>$76,200.00</td>
-<td style='padding: 10px;'>$66,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 4 (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$2,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
+ Company name:ASFA MANAGEMENT PTE. LTD.<br>Web URL: www.asfamgt.com <br>Contact Hotline: 96370039 <br>Contact Email: amilu@asfamgt.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

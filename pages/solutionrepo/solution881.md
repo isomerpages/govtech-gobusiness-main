@@ -1,15 +1,15 @@
 ---
-title: 'DM The Little Black Book Social Media Digital Marketing Package'
+title: 'ZBD Total Fortified Cyber Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution881
 ---
 
-## DM The Little Black Book Social Media Digital Marketing Package
+## ZBD Total Fortified Cyber Security
 
 ## Overview
 
 **Description**
 
-TLBB's solutions are designed to help SMEs enhance their client's social presence, improve brand recognition, as well as increase engagement rates and sales. They don't just do amazing creatives, TLBB taps into the power of social media to make sure the right people see their clients. TLBB gives brands the boost they need because they are the video experts. Optimised for social media, bite-sized videos will help capture & retain audience's attention through the power of immersive storytelling.
+To combat the current evolving cyber threats among SMEs, Zebedee Solution Pte Ltd in partnership with Fortinet, introduce Zebedee Total Fortified Cyber Security's NGFW (Next-Generation Firewall) Solution. It provides managed service for network perimeter security monitoring using the Fortigate F - Series Cyber Unified Threat Protection (UTP) Solution. Supported by a team of experienced engineers, Zebedee will be able to ensure round-the-clock coverage so that business owners can have their ease. 
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  SMM Facebook + SMM Instagram [3 Months]</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - FortiGate 60F</td>
+<td style='padding: 10px;'>$3,480.00</td>
+<td style='padding: 10px;'>$2,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook + SMM Instagram + Live Shoot [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 80F</td>
+<td style='padding: 10px;'>$4,080.00</td>
+<td style='padding: 10px;'>$3,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 100F</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$5,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 200F</td>
+<td style='padding: 10px;'>$8,670.00</td>
+<td style='padding: 10px;'>$7,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Fortinet Firewall - Fortigate 40F</td>
+<td style='padding: 10px;'>$2,250.00</td>
+<td style='padding: 10px;'>$2,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zebedee_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 
 ## Vendor Information
 
- Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact hotline: 87899028<br>Contact email: fong@tlbb.com.sg
+ Company name:Zebedee Solution Pte Ltd<br>Web URL: https://zebedee.sg/ <br>Contact Hotline: 82331490 <br>Contact Email: info@zebedee.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
