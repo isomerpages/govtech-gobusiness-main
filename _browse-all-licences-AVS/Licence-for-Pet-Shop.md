@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/55dffe64-eea5-44bb-a278-0c0a08bc70ea" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/petshop" type="primary" %}
 
 <H3>Application Details</H3>
 
