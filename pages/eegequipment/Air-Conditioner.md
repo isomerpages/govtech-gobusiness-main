@@ -151,14 +151,36 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - MXY-6C140VA
 - Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - MXY-6D53VFM
+- Mitsubishi Electric - PUCY-EP200YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP250YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP250YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP300YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP300YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP350YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP350YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP400YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP400YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP450YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP450YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP500YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP500YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P200YKD.TH
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
+- Mitsubishi Electric - PUCY-P200YKE.TH-SG
+- Mitsubishi Electric - PUCY-P200YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH
 - Mitsubishi Electric - PUCY-P250YKD.TH-BS
+- Mitsubishi Electric - PUCY-P250YKE.TH-SG
+- Mitsubishi Electric - PUCY-P250YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P300YKD.TH
 - Mitsubishi Electric - PUCY-P300YKD.TH-BS
+- Mitsubishi Electric - PUCY-P300YKE.TH-SG
+- Mitsubishi Electric - PUCY-P300YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P350YKD.TH
 - Mitsubishi Electric - PUCY-P350YKD.TH-BS
+- Mitsubishi Electric - PUCY-P350YKE.TH-SG
+- Mitsubishi Electric - PUCY-P350YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P500YKD.TH
 - Mitsubishi Electric - PUCY-P500YKD.TH-BS
 - Mitsubishi Electric - PUMY-CP175YKM2-PA
@@ -177,6 +199,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC100YNA-W
 - Mitsubishi Heavy Industries - FDC112KXEN6
+- Mitsubishi Heavy Industries - FDC280CKXZA2-S8
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - SCM60YS-W
@@ -185,6 +208,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Natflow - NRV-308
 - Natflow - NRV-310
 - Natflow - NRV-312
+- Natflow - NRV-314
 - Panasonic - CU-2XU20YBZ
 - Panasonic - CU-2XU20YBZ-H
 - Panasonic - CU-3XU28YBZ
