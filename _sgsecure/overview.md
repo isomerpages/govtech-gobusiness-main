@@ -8,11 +8,11 @@ third_nav_title: Overview
 
 ## What is SGSecure @ Workplaces?
 
-SGSecure@Workplaces is a national programme which helps businesses to prepare and mitigate the possible impact from terrorism. A terror attack can disrupt business operations. Employees may stop reporting to work, and lives may be lost. You may be affected even if the attack does not happen at your workplace. E.g. if your supply chain is affected by an attack.
+SGSecure@Workplaces is a national programme which helps businesses to prepare and mitigate the possible impact of terrorism. A terror attack can disrupt business operations. Employees may stop reporting to work, and lives may be lost. You may be affected even if the attack does not happen at your workplace. E.g. if your supply chain is affected by an attack.
  
 The threat of terrorism in Singapore continues to remain real and present. Workplaces need to be prepared and stay resilient in the event of an attack. Adopt the 3P approach at your workplace to build up organisational resilience against terrorism.
  
-- <u>Prepare your workforce</u><br>Employees are the greatest assets of businesses. It is crucial to prepare them with the right knowledge and skills to prevent and deal with crises. If an attack happens, a prepared and cohesive workforce can minimise the downtime and return the business to normalcy quickly.
+- <u>Prepare your workforce</u><br>Employees are the greatest assets of businesses. It is crucial to prepare them with the right knowledge and skills to prevent and deal with crises. If an attack happens, a prepared and cohesive workforce can minimise downtime and return the business to normalcy quickly.
  
 - <u>Protect your workplace</u><br>Risk management plans and mitigation measures are critical to ensure that businesses can withstand crises. Taking these steps during peacetime will enable businesses to prevent and minimise potential losses, and resume operations quickly after crises.
  
