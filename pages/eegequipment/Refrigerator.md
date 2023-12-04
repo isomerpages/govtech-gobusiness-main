@@ -7,7 +7,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Refrigerator
 
 ### Technical Requirements
 
-Household refrigerator: Minimum 3-ticks and using refrigerant with GWP <= 15
+Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
 
 Commercial refrigerator: Inverter technology
 
@@ -30,28 +30,42 @@ Commercial refrigerator: Inverter technology
 - A-COOL - 4DT
 - A-COOL - 4DTF
 - A-COOL - 530
+- A-COOL - SCPI-1220CH20
+- A-COOL - SCPI-1830CH20
+- A-COOL - SCPI-915CH20
 - A-COOL - SDW-200
+- A-COOL - SIVMC-6
+- A-COOL - SIVMC-8
 - A-COOL - SXS-500Y
 - A-COOL - SXS-700Y
 - ARCTICOOL - ED0.5F-2M
 - ARCTICOOL - ED1.0F-4M
 - ARCTICOOL - ED1200F
+- ARCTICOOL - ED1200F (600)
 - ARCTICOOL - ED1500F
+- ARCTICOOL - ED1500F (600)
 - ARCTICOOL - ED1800F
+- ARCTICOOL - ED1800F (600)
 - ARCTICOOL - EG0.5F-2M
 - ARCTICOOL - EG1.0F-4M
 - ARCTICOOL - EG1200F
+- ARCTICOOL - EG1200F (600)
 - ARCTICOOL - EG1500F
+- ARCTICOOL - EG1500F (600)
 - ARCTICOOL - EG1800F
+- ARCTICOOL - EG1800F (600)
 - Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
 - Bosch - KGN36XI46
+- Bosch - KGN56CI41J
 - Bosch - KGN56LB40O
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
 - BRANDT - BFA1791NA
+- BRANDT - BFC8633XC
 - BRANDT - BFD8072NX
 - Carrier - 2DGB-IVTH
+- Carrier - 3DGB-IVTH
 - CUBE+ - C+1DC
 - CUBE+ - C+1DF
 - CUBE+ - C+2DC
@@ -423,6 +437,10 @@ Commercial refrigerator: Inverter technology
 - Kadeka - KS140TR
 - Kadeka - KS194TL
 - Kadeka - KS194TR
+- Kerry - KR-190B-IVT
+- Kerry - KR-249B-IVT
+- Kerry - KR-2OPC-15-B
+- Kerry - KR-2OPC-15-W
 - KINCO - CK-CC120-60-EC
 - KINCO - CK-CC120-75-EC
 - KINCO - CK-CC150-60-EC
@@ -469,12 +487,16 @@ Commercial refrigerator: Inverter technology
 - LG - GT-B3127PZ
 - LG - GT-B3153BN
 - LG - GT-B3302PZ
+- LG - GT-B3303PY
 - LG - GT-B3722PZ
+- LG - GT-B3723PY
 - LG - GT-B3952BL
 - LG - GT-B3952BN
 - LG - GT-B4387PZ
 - LG - GT-B4783BL
+- LG - GT-B4783EP
 - LG - GT-B4783PZ
+- LG - GT-F3953EP
 - LG - GT-F4781BL
 - LG - GT-M5093BL
 - LG - GT-M5097PZ
@@ -494,12 +516,16 @@ Commercial refrigerator: Inverter technology
 - Liebherr - ICNh 5173
 - Liebherr - IRBh 5170
 - Liebherr - IRBPh 5170
+- Liebherr - SBNbsh5264
 - Liebherr - SBNes 4265
+- Liebherr - SBNsdh5264
 - Liebherr - SCNsdh 5253
 - Liebherr - SIKB 3550
 - Liebherr - SKBbs 4350
 - Liebherr - SKBes 4350
 - Liebherr - SKBes 4360
+- Liebherr - SRBbsh 5260
+- Liebherr - SRBsdh 5260
 - Liebherr - SUIK 1510
 - Liebherr - SUIKo1550
 - Midea - CE-BCD640WE-JT
@@ -525,6 +551,7 @@ Commercial refrigerator: Inverter technology
 - Miele - KS 37472 iD
 - Miele - KS 4783 ED edt/cs
 - Miele - KS 7743 E
+- Miele - KS 7793 D
 - Mitsubishi Electric - MR-B46F-F-P
 - Mitsubishi Electric - MR-B46F-F-P1
 - Mitsubishi Electric - MR-B46F-W-P
@@ -795,6 +822,9 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUR-K2161SB-R
 - Panasonic - SUR-K2171SB
 - Panasonic - SUR-K2171SB-R
+- Polariz - PGR-1000-TA-EC
+- Polariz - PGR-1600-TA-EC
+- Polariz - PGR-500-TA-EC
 - Ryker - TF24101
 - Samsung - RB34T6054B1
 - Samsung - RF59A70T3S9
@@ -843,6 +873,9 @@ Commercial refrigerator: Inverter technology
 - Sanden Intercool - SPE 0500
 - Sanden Intercool - SPE 0700
 - Sanden Intercool - SPE 1200
+- SHARP - SJ-FB32E-DS
+- SHARP - SJ-FB34E-DS
+- SHARP - SJ-FB34E-S
 - SHARP - SJ-PG51P2-BK
 - SHARP - SJ-PG51P2-DM
 - SHARP - SJ-PG51P2-DS
@@ -1083,12 +1116,15 @@ Commercial refrigerator: Inverter technology
 - SOLID - SURF-680
 - SOLID COOL - SC- 2DBB
 - SOLID COOL - SC-260
+- SOLID COOL - SC-260L
 - SOLID COOL - SC-2DB
+- SOLID COOL - SC-2DBB
 - SOLID COOL - SC-2DT
 - SOLID COOL - SC-2DTF
 - SOLID COOL - SC-2DTT
 - SOLID COOL - SC-2SDBB
 - SOLID COOL - SC-370
+- SOLID COOL - SC-370L
 - SOLID COOL - SC-3DB
 - SOLID COOL - SC-3DBB
 - SOLID COOL - SC-3DT
@@ -1096,6 +1132,7 @@ Commercial refrigerator: Inverter technology
 - SOLID COOL - SC-4DT
 - SOLID COOL - SC-4DTF
 - SOLID COOL - SC-530
+- SOLID COOL - SC-530L
 - SOLID COOL - SCX1200C2
 - SOLID COOL - SCX1200F2
 - SOLID COOL - SCX1500C2
@@ -1135,9 +1172,28 @@ Commercial refrigerator: Inverter technology
 - Superior - 15076FRNS
 - Superior - 18060FRNS
 - Superior - 18076FRNS
+- Superior - 1GDCRNS
+- Superior - 1GDCRNS-S
 - Superior - 1GDFRNS
+- Superior - 1GDFRNS-S
+- Superior - 2DCOMBI
 - Superior - 2DFRNS
+- Superior - 2GDCRNS
+- Superior - 2GDCRNS-SD
+- Superior - 2GDFRNS
+- Superior - 3GDCRNS
+- Superior - 3GDFRNS
+- Superior - 4DCOMBI
 - Superior - 4DFRNS
+- Superior - Flip-100
+- Superior - Flip-250
+- Superior - Flip-350
+- Superior - Flip-600
+- Superior - SGCF-156
+- Superior - SGCF-336
+- Superior - SGCF-396
+- Superior - SGCF-500
+- Superior - SGCF-700
 - Tecno - TFR 1288-V2
 - Tecno - TFR 330 Retro
 - Tecumseh - PAC66Z-3L
@@ -1155,6 +1211,8 @@ Commercial refrigerator: Inverter technology
 - Toshiba - GR-RB410WE-PMX(22)
 - Toshiba - GR-RB410WE-PMX(30)
 - Toshiba - GR-RB410WE-PMX(37)
+- Toshiba - GR-RM631WE-PGX(A6)
+- Toshiba - GR-RM631WE-PGX(B1)
 - Toshiba - GR-RT559WE-PMX(06S)
 - Toshiba - GR-RT559WE-PMX(21S)
 - Toshiba - GR-RT559WE-PMX(22S)
@@ -1173,6 +1231,15 @@ Commercial refrigerator: Inverter technology
 - Ty Brand - RTGD-2DC-IVTH-W
 - Ty Brand - RTGD-3DC-IVTH-B
 - Ty Brand - RTGD-3DC-IVTH-W
+- UNICOOL - LK-1000CC-IV
+- UNICOOL - LKC2FL4-IV
+- UNICOOL - LKC2FL5-IV
+- UNICOOL - LKC2FS4-IV
+- UNICOOL - LKC2FS5-IV
+- UNICOOL - LKC3FL6-IV
+- UNICOOL - LKC3FS6-IV
+- UNICOOL - LKU2FF-IV
+- UNICOOL - LKU4FF-IV
 - V-ZUG - CCO4T-51087
 - V-ZUG - CCO6T-51096
 - V-ZUG - CO6T-51098
@@ -1195,27 +1262,46 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-022FS-IVTH
 - YUDA - YD-022FS-IVTH-BK
 - YUDA - YD-022FS-IVTH-BK-FD
+- YUDA - YD-1GDF-UN-B
+- YUDA - YD-1GDF-UN-W
 - YUDA - YD-2GDC-IVT
+- YUDA - YD-2GDC-UN-B
+- YUDA - YD-2GDC-UN-W
 - YUDA - YD-2GDF-IVT
+- YUDA - YD-2GDF-UN-B
+- YUDA - YD-2GDF-UN-W
 - YUDA - YD-315UC-IVTH
 - YUDA - YD-315UF-IVTH
 - YUDA - YD-31UC-IVTH
 - YUDA - YD-31UF-IVTH
 - YUDA - YD-3GDC-IVT
+- YUDA - YD-3GDC-UN-B
+- YUDA - YD-3GDC-UN-W
 - YUDA - YD-3GDF-IVT
+- YUDA - YD-3GDF-UN-B
+- YUDA - YD-3GDF-UN-W
 - YUDA - YD-425UC-IVTH
 - YUDA - YD-425UF-IVTH
 - YUDA - YD-42UC-IVTH
 - YUDA - YD-42UF-IVTH
+- YUDA - YD-4DSCG
 - YUDA - YD-525UC-IVTH
 - YUDA - YD-525UF-IVTH
 - YUDA - YD-52UC-IVTH
 - YUDA - YD-52UF-IVTH
+- YUDA - YD-580CSL-IVT
 - YUDA - YD-625UC-IVTH
 - YUDA - YD-625UF-IVTH
 - YUDA - YD-62UC-IVTH
 - YUDA - YD-62UF-IVTH
+- YUDA - YD-6DSCG
 - YUDA - YD-6OPC-IVT
+- YUDA - YD-CF210-LT-IVT
+- YUDA - YD-CF250LT-CS-100
+- YUDA - YD-CF300-LT-IVT
+- YUDA - YD-CF330LT-CS-100
+- YUDA - YD-CF430LT-CS-100
+- YUDA - YD-CF500LT-CS-100
 - Yuda - YD-X50FIF-IVT
 - YUDA - YD-X63FIF-BG-IVT
 - Yuda - YD-X63FIF-IVT

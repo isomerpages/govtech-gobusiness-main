@@ -1,15 +1,23 @@
 ---
-title: 'Accounts101 - Xero'
+title: 'FLEETEYE'
 permalink: /productivity-solutions-grant/solutionrepo/solution43
 ---
 
-## Accounts101 - Xero
+## FLEETEYE
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based online accounting software that is simple to use and and be access anywhere & anytime. It allows unlimited users, invoice creation,  track cashflow, billing, bank reconciliation, expenses, inventory etc.
+FLEETEYE is used to monitor and operate remote assets.
+This is a module that operates 3 types of cameras, with GPS location.
+The solution is most suited for assets that are operated by humans in faraway locations.
+
+A (BIOMETRIC) - monitors humans and measure fatigue and behaviour.
+B (SAFETY) - visual limits will trigger warnings if breached
+C (SURVEILLANCE) - outdoor recording with night vision
+
+Suited for vehicles, containers, mobile equipment or remote sites.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +31,20 @@ Xero is a cloud-based online accounting software that is simple to use and and b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$3,064.00</td>
-<td style='padding: 10px;'>$3,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset</td>
-<td style='padding: 10px;'>$3,764.00</td>
-<td style='padding: 10px;'>$3,707.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset & Inventory</td>
-<td style='padding: 10px;'>$5,264.00</td>
-<td style='padding: 10px;'>$5,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset, Inventory & Reporting</td>
-<td style='padding: 10px;'>$8,064.00</td>
-<td style='padding: 10px;'>$8,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$4,542.00</td>
+<td style='padding: 10px;'>$3,510.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ace_20220359_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Accounts101 Pte Ltd<br>Web URL: https://www.accounts101.com.sg/ <br>Contact Hotline: 90844008 <br>Contact Email: admin@accounts101.com.sg 
+ Company Name: ACE PRIME ROBOTICS<br>Web URL: www.fleetdaemon.com <br>Contact Hotline: 67286028 <br>Contact Email: ACE88SG@YAHOO.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

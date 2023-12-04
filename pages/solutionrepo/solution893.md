@@ -1,15 +1,19 @@
 ---
-title: 'TIME ACCESS E-Scheduling System V1.8'
+title: 'Zoho Workplace PSG Edition'
 permalink: /productivity-solutions-grant/solutionrepo/solution893
 ---
 
-## TIME ACCESS E-Scheduling System V1.8
+## Zoho Workplace PSG Edition
 
 ## Overview
 
 **Description**
 
-TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software developed from 28 years of market experience. The Integrated Cloud Solution combines Web Application/Mobile application/Biometric Hardware. Manage staff with e-timesheet reports and duty rosters from any location. Track IN/OUT attendance from the Mobile App with GPS Geo-location and Geo-fencing features. The solution can be integrated to any existing Business Software, or further upgraded to a Payroll/HRMS software.
+Zoho Workplace by Zoho Corporation.
+
+Work is evolving, so are workspaces. Zoho Workplace unifies and centralizes your team's workspace, simplifies file storage and providing online file management for teams that work together.
+
+Transform the way your team works together - give them a secure, shared workspace, so their ideas have a home from conception to realization. Create, collaborate, and make teamwork happen.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +27,48 @@ TIME ACCESS E-Scheduling System is a Time Attendance and Rostering software deve
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 1 (10 Users)</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 10 users</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'>$958.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 2 (25 Users)</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 15 users</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'>$1,436.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 3 (50 Users)</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 20 users</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'>$1,915.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 4 (100 Users)</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 25 users</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'>$2,394.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TIME ACCESS E-Scheduling System V1.8 - Package 5 (200 Users)</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TimeAccess_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zoho Workplace PSG Edition - 30 users</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'>$2,873.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_20200674_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: TIME ACCESS INTERNATIONAL<br>Web URL: https://timeaccessworld.com/services?service=software<br>Contact Hotline: 62980012<br>Contact Email: info@timeaccessworld.com
+ Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br><br>Contact Hotline: 67231040 <br><br>Contact Email: sales@zohocorp.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

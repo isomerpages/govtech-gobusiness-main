@@ -7,11 +7,11 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
 
-- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
 
 
 ### Pre-Approved Equipment Brands and Models
@@ -100,10 +100,19 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - LG - ARUN080LTE5
 - LG - ARUN082LTE6
 - LG - ARUN100LTE5
+- LG - ARUN102LTE6
 - LG - ARUN120LTE5
+- LG - ARUN122LTE6
 - LG - ARUN140LTE5
+- LG - ARUN142LTE6
 - LG - ARUN160LTE5
+- LG - ARUN162LTE6
 - LG - ARUN180LTE5
+- LG - ARUN182LTE6
+- LG - ARUN202LTE6
+- LG - ARUN222LTE6
+- LG - ARUN242LTE6
+- LG - ARUN262LTE6
 - LG - ARUV030GSD0
 - LG - ARUV030GSD5
 - LG - ARUV040GSD0
@@ -142,14 +151,36 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - MXY-6C140VA
 - Mitsubishi Electric - MXY-6C53VAM
 - Mitsubishi Electric - MXY-6D53VFM
+- Mitsubishi Electric - PUCY-EP200YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP250YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP250YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP300YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP300YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP350YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP350YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP400YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP400YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP450YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP450YKE.TH-SG-BS
+- Mitsubishi Electric - PUCY-EP500YKE.TH-SG
+- Mitsubishi Electric - PUCY-EP500YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P200YKD.TH
 - Mitsubishi Electric - PUCY-P200YKD.TH-BS
+- Mitsubishi Electric - PUCY-P200YKE.TH-SG
+- Mitsubishi Electric - PUCY-P200YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P250YKD.TH
 - Mitsubishi Electric - PUCY-P250YKD.TH-BS
+- Mitsubishi Electric - PUCY-P250YKE.TH-SG
+- Mitsubishi Electric - PUCY-P250YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P300YKD.TH
 - Mitsubishi Electric - PUCY-P300YKD.TH-BS
+- Mitsubishi Electric - PUCY-P300YKE.TH-SG
+- Mitsubishi Electric - PUCY-P300YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P350YKD.TH
 - Mitsubishi Electric - PUCY-P350YKD.TH-BS
+- Mitsubishi Electric - PUCY-P350YKE.TH-SG
+- Mitsubishi Electric - PUCY-P350YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-P500YKD.TH
 - Mitsubishi Electric - PUCY-P500YKD.TH-BS
 - Mitsubishi Electric - PUMY-CP175YKM2-PA
@@ -168,12 +199,16 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC100YNA-W
 - Mitsubishi Heavy Industries - FDC112KXEN6
+- Mitsubishi Heavy Industries - FDC280CKXZA2-S8
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
 - Natflow - NRV-308
+- Natflow - NRV-310
+- Natflow - NRV-312
+- Natflow - NRV-314
 - Panasonic - CU-2XU20YBZ
 - Panasonic - CU-2XU20YBZ-H
 - Panasonic - CU-3XU28YBZ

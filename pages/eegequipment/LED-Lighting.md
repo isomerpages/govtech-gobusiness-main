@@ -158,6 +158,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Brite - BG23-018W/6KKT84FF
 - Brite - BG34-018W/4KKT84FH
 - Brite - BG34-018W/6KKT84FH
+- BRITZ - LEDT8-24W4F
+- BRITZ - LEDT8-30W4F
 - Dluces - DLS-LED-T8-1200-HB
 - Dluces - DLS-LED-T8-600-HB
 - DMS - A60-4W-LED-DIM-AMBER
@@ -208,9 +210,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
 - DYCORRA - DY-GT-12TE27S
+- DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-GT-9E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
+- DYCORRA - DY-LFCN-4E27
+- DYCORRA - DY-LFGA-4E14
 - DYCORRA - DY-LFGA-4E27
 - DYCORRA - DY-LFGB-6E27
 - DYCORRA - DY-LFGB-6E27CL
@@ -293,12 +298,19 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - FSL - C38-FSL-5W-E27-30
 - FSL - C38-FSL-5W-E27-65
 - FSL - T8-FSL-22W-180-265V-30
+- FSL - T8-FSL-22W-180-265V-30
+
 - FSL - T8-FSL-22W-180-265V-40
+- FSL - T8-FSL-22W-180-265V-40
+
 - FSL - T8-FSL-22W-180-265V-65
+- FSL - T8-FSL-22W-180-265V-65
+
 - FSL - T8-FSL-26W-180-265V-65
 - FSL - T8-FSL-30W-180-265V-30
 - FSL - T8-FSL-30W-180-265V-40
 - FSL - T8-FSL-30W-180-265V-65
+- FSL - T8-FSL-30W-180-265V-67
 - FSL - T8-FSL-9W-180-265V-30
 - FSL - T8-FSL-9W-180-265V-40
 - FSL - T8-FSL-9W-180-265V-65
@@ -322,6 +334,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Glos - Horizon - SPW21W4001ND-1200
 - GLOS - PINT-1 / 13W
 - Glos - PRO FIXED-2
+- Glowlit - YMB2835165-W30K3
+- Glowlit - YMB2835165-W30K4
+- Glowlit - YMB2835165-W30K6
 - IKEA - LED1545G12
 - IKEA - LED1714C3
 - IKEA - LED1835C6
@@ -417,7 +432,10 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LED ECO LIGHTING - JYQP-03D-2
 - LED ECO LIGHTING - JYQP-07D-2
 - LED ECO LIGHTING - JYQP-09D-02
+- LED LIGHTING - T100-LED-25W-65
+- LED LIGHTING - T130-LED-60W-65
 - LED LIGHTING - T8-LED-30W-65
+- LED-Lighting - T115-LED-35W-65
 - LEDVANCE - LED PERFORMANCE FILA CLA 7.5W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/840
@@ -432,6 +450,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LEDVANCE - SMART + WIFI B40 TW 5W
 - LEDVANCE - SMART + WIFI CLA60 TW
 - LEDVANCE - SMART + WIFI CLA70 14W TW
+- Lighting - T140-LED-45W-65
 - Lighting Hub - WA29-12-aak-F
 - Lighting Hub - WA29-15-aak-F
 - Lighting Hub - WA29-3-aak-F
@@ -535,7 +554,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - A60F7-CL-D-7.2W-E-E27-2700K
 - Megaman - A60F7-SCL-D-4.2W-F-E27
 - Megaman - A60F8-D-7.2W-E-E27
+- Megaman - A60F8-D-8.5W-E-E27
 - Megaman - A60S1-9.6W-F-E27-3000K
+- Megaman - A60S1-9.6W-F-E27-4000K
 - Megaman - A60S1-9.6W-F-E27-6500K
 - Megaman - A60S1-D-5.5W-F-E27-2800K
 - Megaman - A60S1-D-8.7W-E-E27-3000K
@@ -795,9 +816,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - MLS - WA2C48-38-F(3000K)
 - MLS - WA2C48-38-F(6500k 4000K)
 - MLS - WA2C48-48-F
+- MR.DIY Premium - A60-15-65/A12J/14/4
 - MR.DIY Premium - A60-5-65/A126/12
 - MR.DIY Premium - A60-8.5-30/A12J/14/7
 - MR.DIY Premium - A60-8.5-65/A12J/14/5
+- MR.DIY Premium - A60-9-30/A12J/14/5
+- MR.DIY Premium - A60-9-65/A12J/14/5
 - MR.DIY Premium - A70-13-65/A12J/14
 - NASONIK - LED JUMBO BULB 50W E27 DL
 - NASONIK - LED JUMBO BULB 50W E27 WW

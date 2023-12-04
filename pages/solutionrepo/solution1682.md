@@ -1,15 +1,15 @@
 ---
-title: 'SMART AUDIT'
+title: 'DM Semantic Client Acquisition Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1682
 ---
 
-## SMART AUDIT
+## DM Semantic Client Acquisition Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
+Semantic Client Acquisition helps local SMEs acquire clients predictably and at scale with 7 essential components - starting with in-depth competitor analysis and an irresistible marketing message for market differentiation. TRES offers video scripting/production and a finely tuned sales funnel to filter high-quality prospects from various ad platforms. Achieve the lowest cost per acquisition with unlimited ad copies and optimisation and propel sales to new heights with TRES' sales training.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM (YouTube)  + SMM (Facebook) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.02</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	 Package 2 - SMM (YouTube)  + SMM (Facebook) [3 Months] + Sales Training (& Webinar Slides)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 
 ## Vendor Information
 
- Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
+ Company Name: TRES Client Acquisition Pte Ltd<br>Web URL: https://tres.sg <br>Contact Hotline: +6596187419 <br>Contact Email: jiali@tres.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

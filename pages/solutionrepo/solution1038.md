@@ -1,18 +1,15 @@
 ---
-title: 'Vacuum Packing and Sealing Machine'
+title: 'Sensors for measurement'
 permalink: /productivity-solutions-grant/solutionrepo/solution1038
 ---
 
-## Vacuum Packing and Sealing Machine
+## Sensors for measurement
 
 ## Overview
 
 **Description**
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap are loaded into the vacuum chambers and the products will be vacuum sealed.
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. It is recommended for the equipment to have a digital interface for ease of use.
-
-Cost of equipment capped at $35,000 per unit 
+A device which detects or measures a physical property and records, indicates, or otherwise responds to it e.g. grass height sensors.
 
 ## Solution Packages Option(s)
 
@@ -23,15 +20,15 @@ Cost of equipment capped at $35,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Packing and Sealing Machine</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'> - Minimum internal chamber space (length x width) of 2,184 cm2 <br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sensors for measurement</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
