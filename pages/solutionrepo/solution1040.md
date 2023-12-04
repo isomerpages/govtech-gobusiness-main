@@ -1,15 +1,15 @@
 ---
-title: 'Crate/ Tray washing machine'
+title: 'Tractor Hedge Cutter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1040
 ---
 
-## Crate/ Tray washing machine
+## Tractor Hedge Cutter
 
 ## Overview
 
 **Description**
 
-A machine used to wash crates and trays used for farming.
+Hedge cutter mounted on a mobile machine/tractor (could be electrically powered, hybrid or diesel engine driven) used for cutting and trimming hedges.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A machine used to wash crates and trays used for farming.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Crate/ Tray washing machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tractor Hedge Cutter</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

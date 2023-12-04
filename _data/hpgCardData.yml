@@ -30,7 +30,7 @@
   text_4: Licence guides
   href_5: 'https://dashboard.gobusiness.gov.sg/verify-licence?src=home_quicklinks'
   text_5: Verify entity's licence
-  is_new_5: true
+  is_new_5: false
   target_5: _blank
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
@@ -63,7 +63,7 @@
   is_new_1: false 
   href_2: '/regulatory-requirements-guides/?src=home_quicklinks'
   text_2: Regulatory requirements guides
-  is_new_2: true
+  is_new_2: false
   href_3: '/enterprisejobskills/?src=home_quicklinks'
   text_3: Enterprise Portal for Jobs and Skills (EPJS)
   is_new_3: false
