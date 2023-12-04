@@ -32,31 +32,31 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution199' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution195' target='_blank'>Cloudable Data Protection Suite-Powered by Acronis</a><br></td>
 <td>Cloudable Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution566' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution554' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution600' target='_blank'>JumpCloud Platform</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution588' target='_blank'>JumpCloud Platform</a><br></td>
 <td>Perennial Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution635' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution617' target='_blank'>Rah Tech Sophos Endpoint Protection</a><br></td>
 <td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution667' target='_blank'>Eset Protect Entry</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution649' target='_blank'>Eset Protect Entry</a><br></td>
 <td>Rentalworks (SG) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution708' target='_blank'>Singtel Endpoint Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution690' target='_blank'>Singtel Endpoint Security</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1385' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>
