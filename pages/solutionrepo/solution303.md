@@ -1,15 +1,16 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'Gurusoft Logistics Management System Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution303
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## Gurusoft Logistics Management System Version 11
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
+Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,31 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
+<td style='padding: 10px;'>$20,260.00</td>
+<td style='padding: 10px;'>$20,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
+<td style='padding: 10px;'>$25,800.00</td>
+<td style='padding: 10px;'>$25,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
+<td style='padding: 10px;'>$35,900.00</td>
+<td style='padding: 10px;'>$33,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
+<td style='padding: 10px;'>$50,000.00</td>
+<td style='padding: 10px;'>$43,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +58,7 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name: Gurusoft Pte Ltd<br>Web URL: https://www.gurusofttech.com/WMS <br><br>Contact Hotline: 62708083 <br><br>Contact Email: sales@gurusoft.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

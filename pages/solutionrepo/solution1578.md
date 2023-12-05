@@ -1,15 +1,15 @@
 ---
-title: 'Swingvy Version 1.233.0'
+title: 'WEB360 Version 2.0.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1578
 ---
 
-## Swingvy Version 1.233.0
+## WEB360 Version 2.0.0
 
 ## Overview
 
 **Description**
 
-Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
+The solutions offered by Q-Zone Tech are carefully designed for users to access all functionalities intuitively. WEB360 CRM allows attribution of every offline sale and revenue generated from the respective digital marketing efforts. WEB360 CRM identifies which campaign has generated the leads and track the sales revenue generated from this lead with its leads and pipeline management capabilities. These functions work together to help businesses manage and trace customers as well as conversions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
-<td style='padding: 10px;'>$1,640.00</td>
-<td style='padding: 10px;'>$1,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
-<td style='padding: 10px;'>$8,020.00</td>
-<td style='padding: 10px;'>$8,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
-<td style='padding: 10px;'>$11,445.00</td>
-<td style='padding: 10px;'>$11,445.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
-<td style='padding: 10px;'>$14,480.00</td>
-<td style='padding: 10px;'>$14,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Centralised CRM - KickStarter Package (Up to 5 Users)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/QualityZoneTechnologies_WEB360_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendan
 
 ## Vendor Information
 
- Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
+ Company Name: Quality Zone Technologies Pte. Ltd.<br>Web URL: https://qzonetech.com/ <br>Contact Hotline: 93958688 <br>Contact Email: info@qzonetech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,23 +1,15 @@
 ---
-title: 'FLEETEYE'
+title: 'Adaptive Pay Version 2022'
 permalink: /productivity-solutions-grant/solutionrepo/solution43
 ---
 
-## FLEETEYE
+## Adaptive Pay Version 2022
 
 ## Overview
 
 **Description**
 
-FLEETEYE is used to monitor and operate remote assets.
-This is a module that operates 3 types of cameras, with GPS location.
-The solution is most suited for assets that are operated by humans in faraway locations.
-
-A (BIOMETRIC) - monitors humans and measure fatigue and behaviour.
-B (SAFETY) - visual limits will trigger warnings if breached
-C (SURVEILLANCE) - outdoor recording with night vision
-
-Suited for vehicles, containers, mobile equipment or remote sites.
+Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. It comes with a complete suite to cater HR needs of a company. Modules include comprehensive Personnel Management, Payroll Management, Leave Management, Claim Management, Attendance System and Appraisal System. The Adaptive Pay mobile app for employees to manage their attendance, leave, claim & payslips. The Adaptive Admin Mobile app helps the manager approve their employee request for leave & claims.
 
 ## Solution Packages Option(s)
 
@@ -31,10 +23,38 @@ Suited for vehicles, containers, mobile equipment or remote sites.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
-<td style='padding: 10px;'>$4,542.00</td>
-<td style='padding: 10px;'>$3,510.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ace_20220359_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 1</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$2,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 2</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 3</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 4</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'>$11,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 5</td>
+<td style='padding: 10px;'>$17,900.00</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -44,7 +64,7 @@ Suited for vehicles, containers, mobile equipment or remote sites.
 
 ## Vendor Information
 
- Company Name: ACE PRIME ROBOTICS<br>Web URL: www.fleetdaemon.com <br>Contact Hotline: 67286028 <br>Contact Email: ACE88SG@YAHOO.COM <br>
+ Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg<br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
