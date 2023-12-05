@@ -23,7 +23,7 @@ National Environment Agency (NEA)
 <p>Documents can be uploaded in the "Supporting Documents" section towards the end of the online application.</p>
 </li>
 <li>
-<p><strong>What are the payment modes for this certificate?<br></strong>Payment can be made via the following channels:<br>i. PayPal (Credit card and PayPal wallet) in the GoBusiness Licensing Portal<br>ii. AXS kiosks<br>iii. e-Stations<br>iv. m-Stations</p>
+<p><strong>What are the payment modes for this certificate?<br></strong>Payment can be made via the following channels:<br>(a) Card Payment Online in the GoBusiness Portal<br>(b) AXS kiosks, e-Stations and m-Stations</p>
 </li>
 <li>
 <p><strong>When can I make payment? </strong><br>Payment can be made upon approval.</p>
