@@ -1,37 +1,43 @@
 ---
-title: 'Augmented Reality Welding Training Solution'
+title: 'Taidii Smart Data Analytics for Centre Operations'
 permalink: /productivity-solutions-grant/solutionrepo/solution1034
 ---
 
-## Augmented Reality Welding Training Solution
+## Taidii Smart Data Analytics for Centre Operations
 
 ## Overview
 
 **Description**
 
-This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
-
-Cost of equipment capped at $37,500 per unit
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Augmented Reality Welding Training Solution</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>This solution uses AR technology to simulate welding processes on different test pieces<br>Optional components: accessories e.g. work stand to secure workpiece, cables, material license</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

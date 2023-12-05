@@ -1,19 +1,15 @@
 ---
-title: 'Encrusting Machine'
+title: 'Mobile Elevating Work Platform/ Boom Lift/ Spider Lift'
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
-## Encrusting Machine
+## Mobile Elevating Work Platform/ Boom Lift/ Spider Lift
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
-
-Cost of equipment capped at $25,000 per unit 
+A mobile mechanical device used to provide temporary access for people or equipment to perform tasks which are at inaccessible areas and heights.
 
 ## Solution Packages Option(s)
 
@@ -24,15 +20,15 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>1. Machine can produce at least 1000pieces/hour</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

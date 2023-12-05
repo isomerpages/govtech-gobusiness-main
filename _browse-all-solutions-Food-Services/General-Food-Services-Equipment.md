@@ -28,27 +28,27 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1019' target='_blank'>High Speed Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution888' target='_blank'>High Speed Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1044' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution913' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1122' target='_blank'>Automated Deep Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution991' target='_blank'>Automated Deep Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1123' target='_blank'>Blast Chiller</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution992' target='_blank'>Blast Chiller</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1126' target='_blank'>Automated Dishwasher</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution995' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1127' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution996' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 </table>

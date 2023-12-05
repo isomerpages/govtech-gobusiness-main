@@ -1,18 +1,15 @@
 ---
-title: 'Rotary Wok Fryer'
+title: 'Water monitoring e.g. probes, dosing systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1028
 ---
 
-## Rotary Wok Fryer
+## Water monitoring e.g. probes, dosing systems
 
 ## Overview
 
 **Description**
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
-
-Cost of equipment capped at $37,500 per unit 
+Systems that include data logger/sensors for measurement or monitoring  of water quality and water parameters.
 
 ## Solution Packages Option(s)
 
@@ -23,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Machine has ability to auto-clean<br><br>2. Machine has preset functions for cooking time and heating.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water monitoring e.g. probes, dosing systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

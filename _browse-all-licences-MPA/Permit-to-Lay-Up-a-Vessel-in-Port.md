@@ -10,7 +10,7 @@ Maritime and Port Authority (MPA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel/laying-up-of-a-vessel-in-port" type="primary" %}
 
 <H3>Application Details</H3>
 

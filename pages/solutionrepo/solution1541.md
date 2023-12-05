@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
+title: 'BlueMeg Console Version NA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 
-## EPOS Integrated Digital Solution for F&B Version 2.0
+## BlueMeg Console Version NA
 
 ## Overview
 
 **Description**
 
-EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, place orders and make payment. Orders are automatically sent to the kitchen. This streamlined process enables an F&B to (i) improve manpower and efficiency and (ii) increase customer satisfaction. Built-in CRM and Rewards Program drive increased customer spend and retention, increasing sales and profitability. Integrations to Grab, FoodPanda, Xero, Quickkbooks, Shopify and Ecommerce further increase productivity.
+The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering and Kiosk</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, 
 
 ## Vendor Information
 
- Company name:EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

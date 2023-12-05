@@ -1,19 +1,23 @@
 ---
-title: 'Job Redesign Consultancy - Cadence Group Pte Ltd'
+title: 'Qoqolo School Management System Version 4.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution205
 ---
 
-## Job Redesign Consultancy - Cadence Group Pte Ltd
+## Qoqolo School Management System Version 4.3
 
 ## Overview
 
 **Description**
 
-Cadence Group was founded in 2017 by Ms Zhao Li Joyce, the Managing Consultant and Director of Cadence Group.  
-
-Cadence HR Consultancy is dedicated to maximising the potential of organisations through methodological approaches and active engagements.  
-
-Our consultants are qualified senior HR professionals in various industries. We are passionate and committed to working closely with our clients to deliver projects and services of high quality and standards. 
+Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
+Key Benefits:
+-	Easy Deployment
+-	Paperless Storage
+-	Information On-The-Go
+-	Simplify Management
+-	Instant Updates
+-	Capture Learning Journey
+-	Effective Communications
 
 ## Solution Packages Option(s)
 
@@ -27,10 +31,38 @@ Our consultants are qualified senior HR professionals in various industries. We 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Cadence Group Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyCadence.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro + E-Form</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'>$13,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium + E-Form</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'>$12,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced + E-Form</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'>$11,588.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard + E-Form</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'>$10,388.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite + E-Form</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'>$7,188.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Commontown_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -40,7 +72,7 @@ Our consultants are qualified senior HR professionals in various industries. We 
 
 ## Vendor Information
 
- Company name: Cadence Group Pte Ltd<br>Web URL: https://cadencegroup.net/home/ <br>Contact Name: PSG JR Team<br>Contact Hotline: +65 6742 9388 / +65 9786 3643 (WhatsApp is welcomed)<br>Contact Email: psgjr-team@cadencegroup.net
+ Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

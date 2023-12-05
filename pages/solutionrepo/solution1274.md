@@ -1,15 +1,15 @@
 ---
-title: 'Sapaad Version 601'
+title: 'Alpha eCommerce Booster Premium Version 2.8'
 permalink: /productivity-solutions-grant/solutionrepo/solution1274
 ---
 
-## Sapaad Version 601
+## Alpha eCommerce Booster Premium Version 2.8
 
 ## Overview
 
 **Description**
 
-Sapaad is a global SaaS product company focused on crafting world class software experiences. Its flagship product, Sapaad has thousands of users with all concepts of the F&B business. With a team of passionate developers and designers, Sapaad grows, innovates, and develops products that revolutionise the F&B industry. Headquartered in Singapore, with offices planted globally, Sapaad's key stakeholders are technology veterans with years of experience in the web and e-commerce world.
+Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Sapaad is a global SaaS product company focused on crafting world class software
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$3,445.67</td>
-<td style='padding: 10px;'>$3,445.67</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$4,086.67</td>
-<td style='padding: 10px;'>$4,086.67</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
-<td style='padding: 10px;'>$3,757.87</td>
-<td style='padding: 10px;'>$3,757.87</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4</td>
-<td style='padding: 10px;'>$4,398.87</td>
-<td style='padding: 10px;'>$4,398.87</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5</td>
-<td style='padding: 10px;'>$4,711.07</td>
-<td style='padding: 10px;'>$4,711.07</td>
-<td style='padding: 10px;'><a href='/images/psg/Sapaad_Sapaad_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Alphabet_Six_Marketing_Alpha_eCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription/Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Sapaad Pte. Ltd.<br>Web URL: https://www.sapaad.com/sg/ <br>Contact Hotline: 62240777 <br>Contact Email: presales.support@sapaad.com
+ Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

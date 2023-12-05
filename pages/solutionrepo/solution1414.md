@@ -1,15 +1,17 @@
 ---
-title: 'DM NBT Digital Performance Marketing Package'
+title: 'DST E-Commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1414
 ---
 
-## DM NBT Digital Performance Marketing Package
+## DST E-Commerce
 
 ## Overview
 
 **Description**
 
-NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that specialises in providing search engine marketing and social media marketing solutions for SMEs. NBT Digital works closely with clients to identify specific business needs and tailor a business strategy that best works for them.
+The WooCommerce eCommerce platform was created using the Wordpress content management system and is totally open-source.
+
+WooCommerce is accommodating to new online merchants. It is adaptable when it comes to managing its main functions, such as reporting, shipping integration, product and inventory management, CRM, payments, and marketing tools. It enables merchants to sell digital goods, subscriptions, appointments, and much more in addition to tangible goods.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,27 @@ NBT Digital Pte Ltd is a boutique full funnel digital marketing agency that spec
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM [6 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NBT_DIGITAL_DM_NBT_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simple Package</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DST_Advertising_DST_ECommerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: NBT DIGITAL PTE LTD<br>Web URL: nbtdigital.com.sg <br>Contact Hotline: 81894766 <br>Contact Email: jay@nbtdigital.com.sg <br>
+ Company name:DST Advertising (Singapore) Pte Ltd<br>Web URL: www.dstadvertising.com <br>Contact Hotline: 86685292 <br>Contact Email: sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

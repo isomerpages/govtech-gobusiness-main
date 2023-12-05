@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'V3Nity-FMS Fleet Management System Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution801
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## V3Nity-FMS Fleet Management System Version 3.0
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
+ Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

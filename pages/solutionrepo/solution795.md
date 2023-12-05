@@ -1,16 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - SFIC Institute Pte Ltd'
+title: 'U Ventures XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution795
 ---
 
-## Job Redesign Consultancy - SFIC Institute Pte Ltd
+## U Ventures XERO
 
 ## Overview
 
 **Description**
 
-SFIC Institute is a human capital solutions provider established in response to the needs of a rapidly evolving workplace environment. 
-Our consultants have done Job and Process Redesign projects across various industries, including Education, Beauty and Retail companies. 
+XERO Accounting Software from U Ventures is a cloud-based accounting for small businesses that lets you automate bookkeeping, connect easily with your bank and advisors, and monitor how your business
+is doing at any given time.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +24,10 @@ Our consultants have done Job and Process Redesign projects across various indus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - SFIC Institute Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySFICInstitute.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>U Ventures XERO - Book Keeping Training</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/U_Ventures_20210152_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +37,7 @@ Our consultants have done Job and Process Redesign projects across various indus
 
 ## Vendor Information
 
- Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Name: Dominic Ng (CEO)<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
+ Company Name: U Ventures Pte Ltd<br>Web URL: www.uventures.com.sg <br><br>Contact Hotline: 67358135 <br><br>Contact Email: info@uventures.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

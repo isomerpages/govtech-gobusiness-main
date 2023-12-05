@@ -1,15 +1,15 @@
 ---
-title: 'Managed Firewall Solution'
+title: 'AIO CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1130
 ---
 
-## Managed Firewall Solution
+## AIO CRM
 
 ## Overview
 
 **Description**
 
-LGA's Managed Firewall Solution provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance thanks to LGA's fully managed service.
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate business processes. The software provides in-depth features such as leads management, campaign module and ticketing module to enable a comprehensive customer management coverage. AIO CRM is designed to enable SMEs to operate seamlessly to increase productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ LGA's Managed Firewall Solution provides robust next-generation firewall protect
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 40F</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'>$2,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 60F</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'>$2,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 80F</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 100F</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'>$5,980.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate 200F</td>
-<td style='padding: 10px;'>$8,860.00</td>
-<td style='padding: 10px;'>$7,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/LGA_Telecom_Managed_Firewall_Solution_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_AIO_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ LGA's Managed Firewall Solution provides robust next-generation firewall protect
 
 ## Vendor Information
 
- Company name:LGA Telecom Pte Ltd<br>Web URL: https://www.lgatelecom.net <br>Contact Hotline: 68922308 <br>Contact Email: sales@lgatelecom.net <br>
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com <br>Contact Hotline: 92706043 <br>Contact Email: sales@aio-interactive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

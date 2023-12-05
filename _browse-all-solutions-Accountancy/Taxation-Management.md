@@ -20,7 +20,7 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1700' target='_blank'>SINGTAX CORPORATE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1540' target='_blank'>SINGTAX CORPORATE</a><br></td>
 <td>TAX CONNECTION PTE. LTD.</td>
 </tr>
 </table>

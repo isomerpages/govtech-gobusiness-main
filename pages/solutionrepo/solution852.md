@@ -1,15 +1,17 @@
 ---
-title: 'Taidii Smart E-Form Solution'
+title: 'Xintesys Sales and Inventory Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution852
 ---
 
-## Taidii Smart E-Form Solution
+## Xintesys Sales and Inventory Management Solution
 
 ## Overview
 
 **Description**
 
-Taidii is a company providing integrated solution to all the educational institutions in Singapore and overseas.  Taidii Smart E-form solution has digitalized the whole enrollment procedure into different types of E-forms such as ECDA form 1, registration form and withdrawn form. The product will help the schools to reduce 70% of administrative time.
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +25,17 @@ Taidii is a company providing integrated solution to all the educational institu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Basic</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start Up Pack (5 Users)</td>
+<td style='padding: 10px;'>$13,200.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Taidii Smart E-Form Solution - Top-up</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'>$1,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_Smart_E-Form_20210403_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Pack (10 users)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$19,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Xintesys_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +45,7 @@ Taidii is a company providing integrated solution to all the educational institu
 
 ## Vendor Information
 
- Company Name: Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br><br>Contact Hotline: 66357641 <br><br>Contact Email: service@taidii.com <br><br>
+ Company name:Xintesys Consultancy Pte Ltd<br>Web URL: https://xintesys.com/xintesys-demo/ <br>Contact Hotline: 62721237 <br>Contact Email: solutions@xintesys.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
