@@ -23,7 +23,7 @@ Infocomm Media Development Authority (IMDA)
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: $100.00 for 5 years</p>
+<p><strong>Fee</strong><br />General Class Licence: $100.00 for 5 years<br />Restricted Class Licence: $50.00 for 5 years</p>
 
 <H3>Documents Needed</H3>
 
