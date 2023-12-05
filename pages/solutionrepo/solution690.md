@@ -1,15 +1,15 @@
 ---
-title: 'BeauteSoft V6.3.7.2'
+title: 'Singtel Endpoint Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution690
 ---
 
-## BeauteSoft V6.3.7.2
+## Singtel Endpoint Security
 
 ## Overview
 
 **Description**
 
-BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon streamline operations. BeauteSoft is a fully integrated software solution that covers customer management information, online appointment booking, sales of packages and products, rule-based staff commission, integrated inventory management, and business intelligence reports. It provides iPad-based registration, consultation, and image capturing for before and after comparison. It also provides QR code check-in for Spa.
+Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon strea
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'>$625.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard-M</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 25 Licenses</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'>$1,343.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$11,749.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 51 Licenses</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'>$3,233.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-M</td>
-<td style='padding: 10px;'>$12,949.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 100 Licenses</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'>$5,884.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-Plus</td>
-<td style='padding: 10px;'>$16,549.00</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'>$8,890.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:SEQUOIA PTE LTD<br>Web URL: http://www.beaute-soft.com <br>Contact Hotline: 96951383 <br>Contact Email: ang@sequoia-asia.com 
+ Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

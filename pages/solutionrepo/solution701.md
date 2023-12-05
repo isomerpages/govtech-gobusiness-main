@@ -1,15 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'Fleet Safety Management System Version 7'
 permalink: /productivity-solutions-grant/solutionrepo/solution701
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## Fleet Safety Management System Version 7
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
+ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +24,10 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'>$2,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +37,7 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 
 ## Vendor Information
 
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
+ Company Name: SmartComm Electronics Pte Ltd<br>Web URL: www.smartcomm.biz <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

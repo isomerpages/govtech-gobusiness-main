@@ -1,17 +1,19 @@
 ---
-title: 'Circular Gas Cutter'
+title: 'Automated Dough Filler/Depositor'
 permalink: /productivity-solutions-grant/solutionrepo/solution904
 ---
 
-## Circular Gas Cutter
+## Automated Dough Filler/Depositor
 
 ## Overview
 
 **Description**
 
-Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
 
-Cost of equipment capped at $18,750 per unit 
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $18,750 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Circular Gas Cutter</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Automatic rotating nozzle<br>Cutting speed: min 0.2 rpm<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g.gas hoses, cables</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>1. Equipment offers 2 or more options for hoppers with different volumes<br><br>2. Equipment allows for variable dough weight to be output </td>
 </tr>
 </table>
 

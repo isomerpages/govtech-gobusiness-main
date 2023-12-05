@@ -1,15 +1,15 @@
 ---
-title: 'Drones'
+title: 'Smart irrigation systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1033
 ---
 
-## Drones
+## Smart irrigation systems
 
 ## Overview
 
 **Description**
 
-A flying robot that can be remotely controlled or autonomous used for landscaping related works.
+A system and application of watering devices and instrumentation used to control the amount of water for plants or shrubs.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A flying robot that can be remotely controlled or autonomous used for landscapin
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Drones</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart irrigation systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
