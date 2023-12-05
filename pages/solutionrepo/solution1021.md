@@ -1,17 +1,15 @@
 ---
-title: 'Automated Labelling Machine'
+title: 'Stump Grinder'
 permalink: /productivity-solutions-grant/solutionrepo/solution1021
 ---
 
-## Automated Labelling Machine
+## Stump Grinder
 
 ## Overview
 
 **Description**
 
-The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
-
-Cost of equipment capped at $37,500 per unit 
+A mobile machine with power tool or as at attachment that removes tree stumps by means of a rotating cutting disc that chips away tree stump for easy removal.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Labelling Machine </td>
-<td style='padding: 10px;'>$60,000.00</td>
-<td style='padding: 10px;'>1. Perform automatic labelling function <br><br>2. Adjustable labelling speed</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stump Grinder</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

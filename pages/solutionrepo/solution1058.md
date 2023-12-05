@@ -1,15 +1,15 @@
 ---
-title: 'ASHOKATREE - Xero Cloud Accounting'
+title: 'MuRho Inventory Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1058
 ---
 
-## ASHOKATREE - Xero Cloud Accounting
+## MuRho Inventory Management System
 
 ## Overview
 
 **Description**
 
-Get ready for one of the best accounting solutions for small and medium size businesses (SME). Xero is one of the fastest-growing and popular cloud-based software solutions in the market. Thanks to its ease of use and versatility, Xero is packed with features and integrations that make it suitable for various businesses and sectors. SME currently exploring accounting solution may connect with Ashoka Tree Associates to learn more about Xero. Ashoka Tree Associates is a certified Xero advisor.
+MuRho is a leading local provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Connect N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Get ready for one of the best accounting solutions for small and medium size bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 1 (SaaS with hardware)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 2 (SaaS with hardware and API connector)</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'>$5,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Empower</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Excellence</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack 3 (Perpetual License on cloud with hardware) </td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:ASHOKA TREE ASSOCIATES PTE. LTD.<br>Web URL: www.ashokatree.com.sg <br>Contact Hotline: 69516732 <br>Contact Email: johnny@ashokatree.com.sg 
+ Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

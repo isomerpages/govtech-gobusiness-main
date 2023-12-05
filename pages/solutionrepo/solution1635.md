@@ -1,15 +1,15 @@
 ---
-title: 'DM Cleverly Digital Marketing Packages'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1635
 ---
 
-## DM Cleverly Digital Marketing Packages
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SEM</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$3,226.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SM</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEM SM</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,690.00</td>
+<td style='padding: 10px;'>$3,626.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 
 ## Vendor Information
 
- Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Smart Glasses - InnoGlas'
+title: 'Job Redesign Consultancy - LiT Strategy Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution458
 ---
 
-## Smart Glasses - InnoGlas
+## Job Redesign Consultancy - LiT Strategy Pte Ltd
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'>$7,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>$14,740.00</td>
-<td style='padding: 10px;'>$12,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>$21,060.00</td>
-<td style='padding: 10px;'>$18,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>$15,240.00</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>$35,560.00</td>
-<td style='padding: 10px;'>$20,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LiT Strategy Pte Ltd</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 
 ## Vendor Information
 
- Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
+ Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

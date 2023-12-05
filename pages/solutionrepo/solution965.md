@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Harvester'
+title: 'Manure Treatment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution965
 ---
 
-## Automatic Harvester
+## Manure Treatment System
 
 ## Overview
 
 **Description**
 
-To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
+A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To harvest produce automatically to reduce manual tasks and improve manpower pro
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manure Treatment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

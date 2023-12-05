@@ -1,17 +1,15 @@
 ---
-title: 'Armfort Security Workforce'
+title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1275
 ---
 
-## Armfort Security Workforce
+## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
 
 ## Overview
 
 **Description**
 
-Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
-
-Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
+Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,17 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential (Leasing Model)</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'>$3,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (Leasing Model)</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'>$4,970.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Essential (One time)</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'>$21,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (One time)</td>
-<td style='padding: 10px;'>$31,000.00</td>
-<td style='padding: 10px;'>$28,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +43,7 @@ Armfort helps SAs and buyers reduce the high security management cost by digital
 
 ## Vendor Information
 
- Company Name: ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd<br>Web URL:www.armfort.com<br>Contact Hotline: 96497552<br>Contact Email: support@armfort.com
+ Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

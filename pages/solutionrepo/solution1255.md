@@ -1,15 +1,17 @@
 ---
-title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
+title: 'Armfort Security Workforce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1255
 ---
 
-## Weebo Digital Ordering Solution Version 3.2.9.0
+## Armfort Security Workforce
 
 ## Overview
 
 **Description**
 
-Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
+Armfort Security Workforce Solutions (ASWS) is a Security Management Software Solutions for Security Manpower Agencies (SA) and Buyers of Security Services.
+
+Armfort helps SAs and buyers reduce the high security management cost by digitalizing and digitizing work duties & processes.  Reduction in operating cost is achieved through the reduction in resources required to perform various security duties and prompt response time.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +25,31 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'>$3,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential (Leasing Model)</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'>$3,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (Leasing Model)</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'>$4,970.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'>$5,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Essential (One time)</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'>$21,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E-occurrence (One time)</td>
+<td style='padding: 10px;'>$31,000.00</td>
+<td style='padding: 10px;'>$28,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ARMFORT_INTEGRATED_Armfort_Security_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +59,7 @@ Weebo DOS is designed for businesses to exploit new sales opportunities and grow
 
 ## Vendor Information
 
- Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
+ Company Name: ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd<br>Web URL:www.armfort.com<br>Contact Hotline: 96497552<br>Contact Email: support@armfort.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

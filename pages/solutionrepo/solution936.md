@@ -1,15 +1,17 @@
 ---
-title: 'Auto Welding Carriage'
+title: 'High Pressure Rotating Head'
 permalink: /productivity-solutions-grant/solutionrepo/solution936
 ---
 
-## Auto Welding Carriage
+## High Pressure Rotating Head
 
 ## Overview
 
 **Description**
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. 
+
+Cost of equipment capped at $8750 per unit 
 
 ## Solution Packages Option(s)
 
@@ -20,9 +22,9 @@ Welding is usually carried out manually by welders or operators of an auto weldi
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Auto Welding Carriage</td>
-<td style='padding: 10px;'>$18,750.00</td>
-<td style='padding: 10px;'>Adjustable arm torch angle<br>Maintenance not included<br>Communication to link multiple sets (optional)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Pressure Rotating Head</td>
+<td style='padding: 10px;'>$8,750.00</td>
+<td style='padding: 10px;'>- Should be able to service the chemical, petrochemical or pharmaceutical industry (e.g. ATEX certified or equivalent certification indicating it is explosion proof)<br>- Other components and extensions can be supported at the evaluator's discretion (e.g. nozzle extensions, rotation monitoring sensor)<br><br></td>
 </tr>
 </table>
 

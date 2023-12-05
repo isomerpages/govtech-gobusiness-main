@@ -1,17 +1,15 @@
 ---
-title: 'Automatic Shrink Wrap Packaging Machine'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
-## Automatic Shrink Wrap Packaging Machine
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
-
-Cost of equipment capped at $37,500 per unit
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Shrink Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes.<br>- Must be able to run shrinking polyolefin films.<br>- Min. output capacity of 15 metres per minute.<br>- Handles product dimensions of 80mm (L) x 60mm (W) x 20mm (H) and above.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
