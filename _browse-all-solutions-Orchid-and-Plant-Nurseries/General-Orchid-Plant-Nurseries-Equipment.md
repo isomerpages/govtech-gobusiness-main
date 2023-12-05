@@ -20,19 +20,19 @@ This solution is supported by National Parks Board (NParks).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1048' target='_blank'>Grow lights</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Grow-lights' target='_blank'>Grow lights</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1049' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Greenhouse-systems-climate-controlled-management-systems' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1050' target='_blank'>Packing, delivery, shipment management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Packing-delivery-shipment-management-systems' target='_blank'>Packing, delivery, shipment management systems</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1051' target='_blank'>Smart irrigation systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Smart-irrigation-systems' target='_blank'>Smart irrigation systems</a><br></td>
 <td></td>
 </tr>
 </table>
