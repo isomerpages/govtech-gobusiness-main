@@ -8,7 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylabresultsubmission" type="primary" %}
+{% include button.html text="Submit on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylabresultsubmission" type="primary" %}
 
 <H3>Application Details</H3>
 
