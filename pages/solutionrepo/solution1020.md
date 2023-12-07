@@ -1,17 +1,15 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Sensors for measurement'
 permalink: /productivity-solutions-grant/solutionrepo/solution1020
 ---
 
-## Automatic Nut Splitter
+## Sensors for measurement
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
-
-Cost of equipment capped at $7,500 per unit 
+A device which detects or measures a physical property and records, indicates, or otherwise responds to it e.g. grass height sensors.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $7,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sensors for measurement</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

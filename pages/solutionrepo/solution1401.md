@@ -1,15 +1,15 @@
 ---
-title: 'Simpliify''s E-commerce Version 1'
+title: 'LFSuite'
 permalink: /productivity-solutions-grant/solutionrepo/solution1401
 ---
 
-## Simpliify''s E-commerce Version 1
+## LFSuite
 
 ## Overview
 
 **Description**
 
-Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
+LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Simpliify_Simpliify_Ecommerce_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Digital Ordering Server Lite + QR Ordering Lite + Analytics)</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package 2 - (Digital Ordering Server Lite + QR Ordering Lite + Analytics + KDS)</td>
+<td style='padding: 10px;'>$6,560.00</td>
+<td style='padding: 10px;'>$6,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Digital Ordering Server + QR Ordering + Analytics + KDS)</td>
+<td style='padding: 10px;'>$8,040.00</td>
+<td style='padding: 10px;'>$8,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Digital Ordering Server + QR Ordering + Analytics + KDS + Integration)</td>
+<td style='padding: 10px;'>$10,040.00</td>
+<td style='padding: 10px;'>$9,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - (Digital Ordering Server + Kiosk + QR Ordering + Analytics + KDS + Integration)</td>
+<td style='padding: 10px;'>$13,640.00</td>
+<td style='padding: 10px;'>$12,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for
 
 ## Vendor Information
 
- Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

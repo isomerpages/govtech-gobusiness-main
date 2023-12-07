@@ -1,17 +1,19 @@
 ---
-title: 'Combi Oven'
+title: 'Mobile Computer (Warehouse application)'
 permalink: /productivity-solutions-grant/solutionrepo/solution930
 ---
 
-## Combi Oven
+## Mobile Computer (Warehouse application)
 
 ## Overview
 
 **Description**
 
-Combi ovens can be programmed for convection, steam and combination cooking. Allows for multi-functional cooking methods across a wide variety of food. Reduces kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitors browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
 
-Cost of equipment capped at $37,500 per unit
+Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
+
+Cost of equipment capped at $30,000 per unit
 
 ## Solution Packages Option(s)
 
@@ -22,9 +24,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Unit is programmable for convection, steam, and combination cooking.<br><br>2. Minimum capacity of 5GN</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Computer (Warehouse application)</td>
+<td style='padding: 10px;'>$30,000.00</td>
+<td style='padding: 10px;'>Installed with software for inventory data input.<br>Withstand rough handling, meet min IP54 standards.<br>Configurable to capture inputs via various means e.g. Barcode scanner, RFID.<br>Battery with min 3 hrs standby.<br>Wireless LAN/Bluetooth/cellular connectivity.<br>Support the common operating system e.g. Android, Windows.<br>Maintenance cost is not supported.<br></td>
 </tr>
 </table>
 

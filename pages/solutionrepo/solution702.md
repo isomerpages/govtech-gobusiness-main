@@ -1,16 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
+title: 'School Bus Management System Version SBMS.V2'
 permalink: /productivity-solutions-grant/solutionrepo/solution702
 ---
 
-## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
+## School Bus Management System Version SBMS.V2
 
 ## Overview
 
 **Description**
 
-SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
-Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
+SSTA Technology Development Pte Ltd is a Singapore-based company since January 2017 and has implemented 1,000 units of SBMS, over 200 SMEs and 300 One-Man-Operators have been benefited from the system. The more mature system "SBMS Version 2" integrated with ADAS & DSM will maximum improve driving safety by monitoring drivers' driving behavior by intelligent technologies. We believed that the impact of the system will beyond the school transport buses but to all other commercial vehicles.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,10 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>School Bus Management System Version SBMS.V2 - Per Vehicle</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$3,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SSTA_SchoolBusManagement_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +36,7 @@ Since April 2019, SGPC has been appointed by Enterprise Singapore as the Nationa
 
 ## Vendor Information
 
- Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973 <br>Contact Email: Jadean_yan@sgpc.sg
+ Company Name: SSTA Technology Development Pte Ltd<br>Web URL: NA <br><br>Contact Hotline: 84991007 <br><br>Contact Email: TASDAVID90@GMAIL.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

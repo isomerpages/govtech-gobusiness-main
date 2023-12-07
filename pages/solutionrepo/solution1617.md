@@ -1,15 +1,15 @@
 ---
-title: 'SMART AUDIT'
+title: 'MetroERP Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1617
 ---
 
-## SMART AUDIT
+## MetroERP Version 1.0
 
 ## Overview
 
 **Description**
 
-Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,37 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (1 User, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (5 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (10 Users & PEPPOL-Included)</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br>Contact Hotline: 87714911 <br>Contact Email: info@metrogroup.solutions <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

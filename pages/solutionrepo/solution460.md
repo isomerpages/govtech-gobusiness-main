@@ -1,15 +1,15 @@
 ---
-title: 'iLOGON (iTMS)'
+title: 'LittleLives School Management System (PMS + e-form)'
 permalink: /productivity-solutions-grant/solutionrepo/solution460
 ---
 
-## iLOGON (iTMS)
+## LittleLives School Management System (PMS + e-form)
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iTMS is an operational centric and easy to implement transport management solution, with scalable design that allow flexibility to add or enhance functionalities to meet business growing needs. The solution enhances transportation logistics to boost on-time deliveries and customer service levels. It provides real time updates, listen to jobs and manages all fleet and driver resources to ensure the right supplies is picked up and delivered on time.
+LittleLives is a holistic school management system built to simplify complex school administrative processes. The system includes all features to support schools to manage their operation with existing students such as attendance, student portfolio, incident and fee management and parent communication. E-form module is added in to fully support the whole student life cycle administrative process.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ KEYfields' iLOGON iTMS is an operational centric and easy to implement transport
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iTMS) -  SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KEYfields_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form only</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form + Cashless payment</td>
+<td style='padding: 10px;'>$11,340.00</td>
+<td style='padding: 10px;'>$11,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS + E-form & Thermal Scanner</td>
+<td style='padding: 10px;'>$15,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Thermal Scanner & Cashless Payment</td>
+<td style='padding: 10px;'>$16,140.00</td>
+<td style='padding: 10px;'>$15,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LittleLives 4.5 - PMS & E-form & Facial Recognition & Cashless Payment </td>
+<td style='padding: 10px;'>$12,360.00</td>
+<td style='padding: 10px;'>$12,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Little_Annex_3_CR_wef24Nov2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ KEYfields' iLOGON iTMS is an operational centric and easy to implement transport
 
 ## Vendor Information
 
- Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/<br>Contact Hotline: 68427886<br>Contact Email: info@keyfields.com
+ Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

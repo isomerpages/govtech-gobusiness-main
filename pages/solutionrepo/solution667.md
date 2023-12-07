@@ -1,15 +1,15 @@
 ---
-title: 'Eset Protect Entry'
+title: 'Roycemedia Cybersecurity-Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution667
 ---
 
-## Eset Protect Entry
+## Roycemedia Cybersecurity-Firewall
 
 ## Overview
 
 **Description**
 
-Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'>$300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'>$450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'>$1,088.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'>$2,025.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 4 - Fortigate 101F</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'>$3,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Rentalworks is a provider of sustainable IT device lease-to-use and endpoint sec
 
 ## Vendor Information
 
- Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
+ Company Name: Roycemedia Technologies Pte Ltd<br>Web URL: www.roycemedia.com/products.html <br><br>Contact Hotline: 63232139 <br><br>Contact Email: sales@roycemedia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

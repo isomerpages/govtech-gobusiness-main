@@ -1,15 +1,15 @@
 ---
-title: 'DM Orfeostory Digital Marketing Packages Version 1'
+title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1684
 ---
 
-## DM Orfeostory Digital Marketing Packages Version 1
+## WLP Digital Ecommerce Web Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Orfeostory is a company that assists businesses in achieving their goals of driving awareness, traffic, and sales through personalised Digital Marketing Packages. Their approach involves conducting comprehensive analyses and creating strategic marketing plans, which are aimed at reaching audiences with a high purchase intent. By using Data Analytics, Orfeostory ensures that potential customers are reached at all touchpoint. Interested parties can get in touch with their in-house team today.
+Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Orfeostory is a company that assists businesses in achieving their goals of driv
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - 6 Months SEO (20 keywords) + 3 Months SMM + 3 Months SEM</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Standard)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Starter)</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com 
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

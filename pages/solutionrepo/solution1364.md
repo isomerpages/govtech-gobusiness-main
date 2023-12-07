@@ -1,15 +1,15 @@
 ---
-title: 'Creative eShop'
+title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1364
 ---
 
-## Creative eShop
+## Advanced Human Hazard Avoidance & Alert Systems Version 01
 
 ## Overview
 
 **Description**
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Standard</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Lite</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
