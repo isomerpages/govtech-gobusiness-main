@@ -24,11 +24,11 @@ This solution is supported by National Parks Board (NParks).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Greenhouse-systems,-climate-controlled-management-systems' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Greenhouse-systems-climate-controlled-management-systems' target='_blank'>Greenhouse systems, climate controlled management systems</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Packing,-delivery,-shipment-management-systems' target='_blank'>Packing, delivery, shipment management systems</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Packing-delivery-shipment-management-systems' target='_blank'>Packing, delivery, shipment management systems</a><br></td>
 <td></td>
 </tr>
 <tr>

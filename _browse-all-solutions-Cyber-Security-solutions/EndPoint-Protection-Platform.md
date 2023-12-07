@@ -36,7 +36,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Cloudable Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-CARE-Shld-Mngd-Scurty-v-Vr10' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-CARE-Shld-Mngd-Scurty-v-Vr1-0' target='_blank'>aiCARE Shield Managed Security Version Ver1.0</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>

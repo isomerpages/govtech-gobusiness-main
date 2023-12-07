@@ -40,7 +40,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Beautec Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-slns-v-3' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-Solutons-v-3' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -52,11 +52,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS--Wllnss-Mngmnt-Softwr-v-20' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS--Wllnss-Mngmnt-Softwr-v-2-0' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
 <td>Refine Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-V6372' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-V6-3-7-2' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>Sequoia Pte Ltd</td>
 </tr>
 </table>

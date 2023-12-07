@@ -40,7 +40,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Automation Support Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201500394D-sch-Bus-Mngmnt-Systm-v-SBMSV2' target='_blank'>School Bus Management System Version SBMS.V2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201500394D-sch-Bus-Mngmnt-Systm-v-SBMS-V2' target='_blank'>School Bus Management System Version SBMS.V2</a><br></td>
 <td>SSTA Technology Development Pte Ltd</td>
 </tr>
 <tr>

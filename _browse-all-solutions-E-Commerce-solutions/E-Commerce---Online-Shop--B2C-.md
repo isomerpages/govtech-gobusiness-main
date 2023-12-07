@@ -36,23 +36,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>iFoundries (Asia Pacific) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyEcom-v-13' target='_blank'>WarelyEcom Version 1.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyEcom-v-1-3' target='_blank'>WarelyEcom Version 1.3</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-Prmum-v-28' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/53322628K-Alph-Commrc-Boostr-Prmum-v-2-8' target='_blank'>Alpha eCommerce Booster Premium Version 2.8</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVEPIXEL-WEB-SUITE-v-80' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVEPIXEL-WEB-SUITE-v-8-0' target='_blank'>RAVEPIXEL WEB SUITE Version 8.0</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-slns' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-Solutons' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
 <td>ACCSS Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201433220R-Fooyo-Commrc-v-20' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201433220R-Fooyo-Commrc-v-2-0' target='_blank'>Fooyo Commerce Version 2.0</a><br></td>
 <td>Fooyo Pte. Ltd.</td>
 </tr>
 <tr>
@@ -64,15 +64,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-sln-by-I-Concpt-v-20' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-Soluton-by-I-Concpt-v-2-0' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201840067W-PxlCommrc-v-593' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201840067W-PxlCommrc-v-5-9-3' target='_blank'>PixelCommerce Version 5.9.3</a><br></td>
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-slns' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-Solutons' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
 <tr>
@@ -80,11 +80,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>3D BRAND AGENCY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-v-17' target='_blank'>ePSProfessional Version 1.7</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-v-1-7' target='_blank'>ePSProfessional Version 1.7</a><br></td>
 <td>Efusion Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_sln' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_Soluton' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-20' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201329629H-ECommrc-MPD-Pckg-v-2-0' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
 <td>MediaPlus Digital Pte Ltd</td>
 </tr>
 <tr>
@@ -112,11 +112,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Shopmatic Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-2-0' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
 <td>Aks Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200915846D-Zppy-Commrc-v-10' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200915846D-Zppy-Commrc-v-1-0' target='_blank'>Zippy eCommerce Version 1.0</a><br></td>
 <td>ZIPPY SG PTE. LTD.</td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-sln' target='_blank'>Athena E-Store Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-Soluton' target='_blank'>Athena E-Store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Shopify Commerce Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202036105K-Frmrt-v-30' target='_blank'>Fairmart Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202036105K-Frmrt-v-3-0' target='_blank'>Fairmart Version 3.0</a><br></td>
 <td>Fairmart Technologies Pte Ltd</td>
 </tr>
 <tr>
@@ -152,11 +152,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Superfastech Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201135968W-OS-Stor-ECommrc-v-30' target='_blank'>OS Store E-Commerce Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201135968W-OS-Stor-ECommrc-v-3-0' target='_blank'>OS Store E-Commerce Version 3.0</a><br></td>
 <td>Orfeostory Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-sln' target='_blank'>Lemonade eCommerce Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-Soluton' target='_blank'>Lemonade eCommerce Solution</a><br></td>
 <td>Lemonade IT Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MSWEBINTERNATIONAL PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202041876H-Cococrt-Storfront-v-10' target='_blank'>Cococart Storefront Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202041876H-Cococrt-Storfront-v-1-0' target='_blank'>Cococart Storefront Version 1.0</a><br></td>
 <td>Cococart Pte. Ltd.</td>
 </tr>
 <tr>

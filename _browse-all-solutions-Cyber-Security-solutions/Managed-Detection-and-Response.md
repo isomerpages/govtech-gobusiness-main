@@ -44,11 +44,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200304779D-TERRA-EMAIL-PROTECTION-v-10' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200304779D-TERRA-EMAIL-PROTECTION-v-1-0' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-slns' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-Solutons' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ACLOUD PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201427030G-MSSP-for-Asst-Bsd-Cybr-Dfnc-v-12' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201427030G-MSSP-for-Asst-Bsd-Cybr-Dfnc-v-1-2' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
