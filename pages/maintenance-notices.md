@@ -15,6 +15,5 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | 7 Dec, 7pm - 8 Dec, 12pm | **e-Adviser for Premises Use Check** will be unavailable during the scheduled maintenance. | 
 
 
-
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

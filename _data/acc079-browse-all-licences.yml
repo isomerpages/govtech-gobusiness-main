@@ -41,7 +41,7 @@
 
         <p>The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/54e45a42-19af-4440-85a9-9ee82f18d336" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/animalexhibition" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Animal-Exhibition">View Licence Details</a>
 
         -----
         **Licence for Animal Research Facility**
@@ -60,7 +60,7 @@
 
         <p>The Licence for Pet Shop is issued by Animal & Veterinary Service to use a premise to keep or display pets for sale</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/55dffe64-eea5-44bb-a278-0c0a08bc70ea" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Pet-Shop">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/petshop" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-for-Pet-Shop">View Licence Details</a>
 
         -----
         **Licence for Veterinary Centre**
@@ -103,7 +103,7 @@
 
         <p>The Licence to Possess Veterinary Biologics is issued for possession and import of veterinary biologics intended for use in the diagnosis, treatment, or prevention of disease of animals and birds, or for purposes of research in animals or birds (veterinary vaccines and pathogens are on AVS's select list, you must first obtain a Licence to Possess Veterinary Biologics). In the case of AVS regulated biologics for other purposes, a written consent may apply.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/bfa36bf8-9d2b-4050-8d26-88548de23dd2" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Possess-Veterinary-Biologics">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/lpvb" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Possess-Veterinary-Biologics">View Licence Details</a>
 
         -----
         **Licence to Treat Animals and Birds**
@@ -2323,6 +2323,15 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/6f74b664-d42b-46ec-9b49-8e6605865e0f" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-a-Blasting-Operation-">View Licence Details</a>
 
         -----
+        **Approval for Debt Collector**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        This is for persons to apply for approval to work as debt collectors. This application must be made jointly with all the debt collection businesses that the applicant intends to work for and an approval must be obtained before they may carry out debt collection activities. The applicant shall submit the application for approval via the GoBusiness portal.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/4eeba687-8b63-4ea8-b303-0079a44fda8c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Approval-for-Debt-Collector">View Licence Details</a>
+
+        -----       
         **Approval to conduct a Fireworks Display**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -2371,6 +2380,15 @@
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=217" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/House-to-House-and-Street-Collections-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Police-Force-(SPF)/House-to-House-and-Street-Collections-Licence">View Licence Details</a>
+
+        -----
+        **Licence for Debt Collection Business**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        This is for persons who wish to apply for a debt collection business licence. Under the Debt Collection Act 2022, a licence may be required when the business involves debt collection, e.g. collecting debt from a debtor on behalf of another person.
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/1b4a2551-fd14-4559-ac97-271ea6457409" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Singapore-Police-Force-(SPF)/Licence-for-Debt-Collection-Business">View Licence Details</a>
 
         -----
         **Licence to Import or Export Explosive Precursors**
