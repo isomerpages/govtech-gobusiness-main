@@ -32,39 +32,39 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201026975M-Mcrosoft-Cybrscurty-Pckg' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution141' target='_blank'>Microsoft Cybersecurity Package</a><br></td>
 <td>Axiom IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201805298E-Cybots-AMDR' target='_blank'>Cybots AMDR</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution256' target='_blank'>Cybots AMDR</a><br></td>
 <td>Cybots Pte. Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201504939N-Grn-Rdr-Eml-Scurty' target='_blank'>Green Radar Email Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution532' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200304779D-TERRA-EMAIL-PROTECTION-v-1-0' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution752' target='_blank'>TERRA EMAIL PROTECTION Version 1.0</a><br></td>
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-Solutons' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution821' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201611915W-Mcrosoft-365-Dfndr' target='_blank'>Microsoft 365 Defender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1066' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201427030G-MSSP-for-Asst-Bsd-Cybr-Dfnc-v-1-2' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1071' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-Srvc' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1546' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360--Mult-Tnnt-Scurty-s--Srvc-SAAS-Intrnt-&-Mlwr-Pro' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1597' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
 <td>GKO Consultancy</td>
 </tr>
 </table>

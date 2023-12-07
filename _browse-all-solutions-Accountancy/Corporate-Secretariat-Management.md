@@ -20,11 +20,11 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201623515K-CAS-360-Profssonl-SG' target='_blank'>CAS 360 Professional SG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1541' target='_blank'>CAS 360 Professional SG</a><br></td>
 <td>BGL CORPORATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201915150N-BluMg-Consol-v-NA' target='_blank'>BlueMeg Console Version NA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>BlueMeg Console Version NA</a><br></td>
 <td>BlueMeg Technologies Pte. Ltd.</td>
 </tr>
 </table>

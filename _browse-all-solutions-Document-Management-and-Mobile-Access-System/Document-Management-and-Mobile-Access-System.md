@@ -32,43 +32,47 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Dropbox-Busnss-Stndrd-for-SMEs' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution31' target='_blank'>Dropbox Business Standard for SMEs</a><br></td>
 <td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs--Documnt-Mngmnt-Softwr' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution176' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199000721C-M365-ShrPont-Pckg' target='_blank'>M365 SharePoint Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution441' target='_blank'>M365 SharePoint Package</a><br></td>
 <td>JK Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud' target='_blank'>Evolvecloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution455' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201708433H-AClss-Corport-Govrnnc-&-Documnt-Mngmnt-by-Slk' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution714' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-TssCloud-DMS' target='_blank'>TessaCloud DMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution757' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Dropbox-Busnss' target='_blank'>Dropbox Business</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution838' target='_blank'>Dropbox Business</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/197903098R-Thrfor-Onln' target='_blank'>Therefore Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution893' target='_blank'>Zoho Workplace PSG Edition</a><br></td>
+<td>Zoho Corporation Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1094' target='_blank'>Therefore Online</a><br></td>
 <td>CANON SINGAPORE PTE. LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-OnStop-Documnt-Accss-v-2-0' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1230' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
 <td>PROMINDS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Mcrosoft-365-ShrPont-Onln' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1532' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 </table>

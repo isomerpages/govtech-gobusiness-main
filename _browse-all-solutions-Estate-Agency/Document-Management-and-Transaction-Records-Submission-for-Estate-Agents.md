@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201006799R-RltyPromot--Documnt-Mngmnt-&-Trnscton-Rcords-v-3-2TM' target='_blank'>RealtyPromote - Document Management & Transaction Records Version 3.2TM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution204' target='_blank'>RealtyPromote - Document Management & Transaction Records Version 3.2TM</a><br></td>
 <td>CommercePromote Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201729826Z-Rdoc--Documnt-Mngmnt-&-Trnscton-Rcords-v-1-0' target='_blank'>Redoc - Document Management & Transaction Records Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution652' target='_blank'>Redoc - Document Management & Transaction Records Version 1.0</a><br></td>
 <td>Real Estate Doc Pte Ltd</td>
 </tr>
 </table>
