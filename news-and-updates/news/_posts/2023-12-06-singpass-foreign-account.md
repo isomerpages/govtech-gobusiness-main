@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Foreign companies registered outside of Singapore can now transact on GoBusiness'
-permalink: /news-and-updates/news/the-sg-business-show-2023
+permalink: /news-and-updates/news/foreign-companies-gobusiness
 published: true
 preview: |
   Foreign companies registered outside of Singapore can now transact on GoBusiness
