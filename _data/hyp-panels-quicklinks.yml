@@ -50,7 +50,7 @@ panels:
         target: _blank
         is_new: false
   - title: Emergency Preparedness
-    image: /images/Covid.svg
+    image: /images/Emergency.svg
     alt: ""
     links:
       - text: Haze
@@ -58,3 +58,7 @@ panels:
         is_new: false
       - text: Covid-19
         href: /covid/?src=eservices
+        is_new: false
+      - text: SGSecure @ Workplaces
+        href: /sgsecure/?src=eservices
+        is_new: true
