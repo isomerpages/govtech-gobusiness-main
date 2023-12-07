@@ -18,4 +18,4 @@ To improve your regulatory experience, the recommendation now groups licences in
 
 Click on the Add Guided Journey to save it to your GoBusiness Dashboard.
 
-<img src="/images/news/EventsSJUpdate2.png" alt="" width="300" height="auto">
+<img src="/images/news/EventsSJUpdate2.png" alt="" style="width:300px;">
