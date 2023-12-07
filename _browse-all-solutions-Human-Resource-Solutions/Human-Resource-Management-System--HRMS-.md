@@ -52,7 +52,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-A-I--INFOTECH-Cloud-HRMS-v-8-0' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V2-0' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AVELOGIC PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-1-233-0' target='_blank'>Swingvy Version 1.233.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-12330' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
 </tr>
 <tr>

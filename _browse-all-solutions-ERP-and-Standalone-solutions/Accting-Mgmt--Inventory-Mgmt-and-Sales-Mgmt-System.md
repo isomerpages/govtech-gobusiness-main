@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-Accountng-v-2-0' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-Acc-v-20' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Integrated Information Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-Solutons-GST-API-v-320' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-slns-GST-API-v-320' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -72,23 +72,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netiquette Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-Accountng-Mngmnt-Systm-SAM' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-Acc-Mngmnt-Systm-SAM' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
 <td>OCi System Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-10-1-1' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-2-6' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-26' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
 <td>Reach Process Outsourcing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-V5-6' target='_blank'>Globe3 ERP V5.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-V56' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&-Ordr-Procssng-v-4-5' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&-Ordr-Procssng-v-45' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-10-0-' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100-' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -112,11 +112,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP:-VISTA' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-Accountng,-Invntory' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-Acc,-Invntory' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
@@ -124,11 +124,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201309175Z-SAP-Busnss-On-v-10-0' target='_blank'>SAP Business One Version 10.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201309175Z-SAP-Busnss-On-v-100' target='_blank'>SAP Business One Version 10.0</a><br></td>
 <td>Axxis Consulting (S) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-SOLUTION-v-12-X' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-SOLUTION-v-12X' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SEG IT Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-Accountng-nd-Stock-Control-Systm-v-3' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-Acc-nd-Stock-Control-Systm-v-3' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201415107H-MtroERP-v-1-0' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415107H-MtroERP-v-10' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>

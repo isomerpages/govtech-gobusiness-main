@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198600936N-BrcsCAD-A-I-Dsgn-Tchnologs' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198600936N-BrcsCAD-AI-Dsgn-Tchnologs' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG--Mttrport-Pro2-3D-Soluton' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG--Mttrport-Pro2-3D-sln' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>

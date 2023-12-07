@@ -32,7 +32,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Static-Parcel-Dimension-Weight-and-Scan-Eqt' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Static-Parcel-Dimension,-Weight-and-Scan-Eqt' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
 <td></td>
 </tr>
 </table>

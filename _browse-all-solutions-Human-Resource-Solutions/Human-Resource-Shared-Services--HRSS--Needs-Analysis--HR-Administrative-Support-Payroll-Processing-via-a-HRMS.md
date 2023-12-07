@@ -40,7 +40,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-dmnstrton-wth-pyroll-procssng-v-SS-solutons-v-213-1' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-dmnstrton-wth-pyroll-procssng-v-SS-sols-v-2131' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
 <td>MATCH RESOURCES PTE LTD</td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-Mngmnt-Systm-nd-Pyroll-Outsourcng-Srvcs-v-1-21-53-80' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410040G-BIPO-HR-Mngmnt-Systm-nd-Pyroll-Outsourcng-Srvcs-v-1215380' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
 <td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 <tr>

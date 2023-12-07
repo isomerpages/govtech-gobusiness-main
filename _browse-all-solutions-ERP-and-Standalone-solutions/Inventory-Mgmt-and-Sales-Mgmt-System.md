@@ -42,7 +42,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200910491M-Xntsys-Sls-nd-Invntory-Mngmnt-Soluton' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200910491M-Xntsys-Sls-nd-Invntory-Mngmnt-sln' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>

@@ -65,19 +65,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-Soluton' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-sln' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION--Fortnt-Mngd-Frwll-Solutons' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION--Fortnt-Mngd-Frwll-slns' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-Solutons' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-slns' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-1-0' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-10' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>

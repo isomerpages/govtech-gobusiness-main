@@ -64,7 +64,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CANON SINGAPORE PTE. LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-OnStop-Documnt-Accss-v-2-0' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200408845E-OnStop-Documnt-Accss-v-20' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
 <td>PROMINDS PTE LTD</td>
 </tr>
 <tr>

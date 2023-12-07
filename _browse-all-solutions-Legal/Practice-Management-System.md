@@ -28,7 +28,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-Tssrct-Prctc-Mngmnt-Soluton' target='_blank'>Tessaract Practice Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-Tssrct-Prctc-Mngmnt-sln' target='_blank'>Tessaract Practice Management Solution</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>

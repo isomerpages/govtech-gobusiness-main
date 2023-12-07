@@ -192,7 +192,7 @@ This solution is supported by Singapore Food Agency (SFA).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Environment-Water-Nutrient-Sampling-Monitoring-&-Control-Eqt-System' target='_blank'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/Environment-Water-Nutrient-Sampling,-Monitoring-&-Control-Eqt-System' target='_blank'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</a><br></td>
 <td></td>
 </tr>
 <tr>
