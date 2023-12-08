@@ -11,9 +11,10 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 |  -----------   | ---------------- |
-| 7 Dec, 10pm - 8 Dec, 2am | **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will be unavailable during the scheduled maintenance. | 
-| 7 Dec, 7pm - 8 Dec, 12pm | **e-Adviser for Premises Use Check** will be unavailable during the scheduled maintenance. | 
-
+| 7 Dec, 7pm - 11 Dec, 6pm | **e-Adviser for Premises Use Check** will be unavailable during the upcoming scheduled maintenance. |
+| 8 Dec, 8pm - 9 Dec, 6am | **Application, amendment, renewal & cancellation of National Parks Board (NPARKS) licences** will be unavailable during the upcoming scheduled. |
+| 8 Dec, 10pm - 9 Dec, 8am<br>9 Dec, 10pm - 10 Dec, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. | 
+| 10 Dec, 12am - 7am | **EDH** will be undergoing scheduled maintenance. ACRA and Corppass Servicess will not be available during this period. |
 
 
 <script src="/jquery/jquery.min.js"></script>
