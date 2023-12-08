@@ -1,15 +1,15 @@
 ---
-title: 'Automated Sorter/ Grader'
+title: 'Water monitoring e.g. probes, dosing systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1028
 ---
 
-## Automated Sorter/ Grader
+## Water monitoring e.g. probes, dosing systems
 
 ## Overview
 
 **Description**
 
-Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
+Systems that include data logger/sensors for measurement or monitoring  of water quality and water parameters.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Automatic graders to sort produce by species/ sizes/ weight while minimizing the
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water monitoring e.g. probes, dosing systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

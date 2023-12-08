@@ -1,15 +1,15 @@
 ---
-title: 'TessaCloud DMS'
+title: 'DM TheAsiaMedia Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution757
 ---
 
-## TessaCloud DMS
+## DM TheAsiaMedia Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
+Established since 2005, TheAsiaMedia provides decades of digital marketing experience to help businesses increase brand and product awareness, generate leads, and drive sales. TheAsiaMedia's digital marketing solutions encompass research and planning to target-setting and creating and implementing effective online marketing campaigns. Depending on the companies' objectives, TheAsiaMedia's Digital Marketing solutions are aimed at maximizing ROIs through continuous optimization and insights.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package A</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'>$10,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 1 - SMM + Google Ads  [2 Months]</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package B</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'>$19,152.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 2 - SMM + Google Ads with Google Street View [2 Months]</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package C</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'>$27,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 3 - SMM + Google Ads [3 Months]</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package D</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 4 - SMM + Google Ads with WeChat Marketing [2 Months]</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TessaCloud DMS - TessaCloud Package E</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'>$42,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Tessaract_Annex_3_CR_wef_30_Jun_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM TheAsiaMedia Digital Marketing Packages - Package 5 - SMM + Google Ads with Google Street View [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAsiaMedia_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br><br>Contact Hotline: 98313983 <br><br>Contact Email: SALES@TESSARACT.IO <br><br>
+ Company Name: TheAsiaMedia Pte Ltd<br>Web URL: www.theasiamedia.com <br>Contact Hotline: 91265543 <br>Contact Email: info@theasiamedia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

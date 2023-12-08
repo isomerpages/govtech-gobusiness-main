@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Solutions'
+title: 'SmartFM Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1092
 ---
 
-## Xero Cloud Accounting Solutions
+## SmartFM Version 2.0
 
 ## Overview
 
 **Description**
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations, for each transformation solutions deployment, SCS provides transformation consultation, integration, recommendations, project management, implementation as well as onsite training and technical support.
+SmartFM is a facility management suite that assists facility operators with a comprehensive set of modules. It is applicable to different facility types, such as buildings, worksites & dormitories. At its base, it is an integrated, cloud-based facility management solution. It is designed to be a common data collection interface where all the stakeholders of the facility can perform their day-to-day operations, share data, and have critical oversight over the facility on a single platform.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Going digital is not only about moving to cloud-based accounting software but al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - System Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (500 Pax)</td>
+<td style='padding: 10px;'>$20,600.00</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Lite</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (2000 Pax)</td>
+<td style='padding: 10px;'>$32,200.00</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Basic</td>
-<td style='padding: 10px;'>$4,864.00</td>
-<td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (250 Pax)</td>
+<td style='padding: 10px;'>$29,800.00</td>
+<td style='padding: 10px;'>$27,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Standard</td>
-<td style='padding: 10px;'>$8,064.00</td>
-<td style='padding: 10px;'>$8,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (500 Pax)</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Premium</td>
-<td style='padding: 10px;'>$10,464.00</td>
-<td style='padding: 10px;'>$10,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Core (1000 Pax)</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CHIMERIC_SmartFM_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Singapore Corporate Services Pte. Ltd.<br>Web URL: https://scs-cpa.com/xero-psg-grant <br>Contact Hotline: 69141113 <br>Contact Email: enquiry@scs-cpa.com 
+ Company Name: CHIMERIC TECHNOLOGIES PTE LTD<br>Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
