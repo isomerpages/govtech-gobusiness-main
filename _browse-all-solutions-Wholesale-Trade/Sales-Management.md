@@ -28,23 +28,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution234' target='_blank'>Creative Sales and Order</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Crtv-Sls-nd-Ordr' target='_blank'>Creative Sales and Order</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution498' target='_blank'>MEVO DMS 8.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199905895D-MEVO-DMS-83' target='_blank'>MEVO DMS 8.3</a><br></td>
 <td>MEVO Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution841' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201224387N-EzySlsOrdr-v-30' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1374' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201308767Z-KEEPITAL-Sls-Mngmnt-Busnss-sln-v-3' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
 <td>Keep Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1379' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201409838G-EzyProcur-v-20' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte Ltd</td>
 </tr>
 </table>

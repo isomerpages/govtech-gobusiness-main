@@ -32,23 +32,23 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution291' target='_blank'>QuickHR (eScheduling)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-Schdulng' target='_blank'>QuickHR (eScheduling)</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution439' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-JustLogn-HR-ESchdulng' target='_blank'>JustLogin HR E-Scheduling</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution583' target='_blank'>TimeCentral Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100439R-TmCntrl-v-11' target='_blank'>TimeCentral Version 11</a><br></td>
 <td>PEOPLE CENTRAL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution703' target='_blank'>StaffAny</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201801640G-StffAny' target='_blank'>StaffAny</a><br></td>
 <td>Staffany Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution767' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-ESchdulng-Systm-V18' target='_blank'>TIME ACCESS E-Scheduling System V1.8</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 </table>
