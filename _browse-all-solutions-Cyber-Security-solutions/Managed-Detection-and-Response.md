@@ -71,10 +71,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1621' target='_blank'>Morphisec</a><br></td>
 <td>EQCOMS Technology Pte Ltd</td>
 </tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1622' target='_blank'>5</a><br></td>
-<td>EQCOMS Technology Pte Ltd</td>
-</tr>
 </table>
 
 {% include banner-psg-survey.html %}

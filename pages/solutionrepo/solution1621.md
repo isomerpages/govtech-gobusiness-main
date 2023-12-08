@@ -28,6 +28,34 @@ Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Secu
 <td style='padding: 10px;'>$2,900.00</td>
 <td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (50 license)</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (100 license)</td>
+<td style='padding: 10px;'>$21,260.00</td>
+<td style='padding: 10px;'>$21,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (150 license)</td>
+<td style='padding: 10px;'>$33,280.00</td>
+<td style='padding: 10px;'>$33,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (200 license)</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
 </table>
 
 ## Mode and Schedule of Payment
