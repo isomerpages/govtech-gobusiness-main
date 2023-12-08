@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft 365 SharePoint Online'
+title: 'SMARTHRMS Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 
-## Microsoft 365 SharePoint Online
+## SMARTHRMS Version 1
 
 ## Overview
 
 **Description**
 
-Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling simple sharing and seamless collaboration. SharePoint empowers teamwork with dynamic and productive team sites for every project team, department, and division. Share files, data, news, and resources. Customize your site to streamline your team's work. Collaborate effortlessly and securely with team members inside and outside your organization, across PCs, Macs, and mobile devices.
+SmartHRMS is a comprehensive HR management system designed to streamline and simplify human resources operations. SmartHRMS's range of features and functionalities greatly benefit organizations in managing their HR processes effectively. With SmartHRMS, companies can streamline their HR operations, minimize manual work, enhance accuracy, and ensure compliance. HR professionals and employees alike can focus on strategic initiatives, talent management, and fostering a productive work environment.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling sim
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (SharePoint Plan 1)</td>
-<td style='padding: 10px;'>$1,330.00</td>
-<td style='padding: 10px;'>$1,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE A (50 Employees)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (SharePoint Plan 1)</td>
-<td style='padding: 10px;'>$2,385.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE B (100 Employees)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (SharePoint Plan 1)</td>
-<td style='padding: 10px;'>$4,288.75</td>
-<td style='padding: 10px;'>$4,168.75</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE C (50 Employees)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users (SharePoint Plan 2)</td>
-<td style='padding: 10px;'>$7,512.50</td>
-<td style='padding: 10px;'>$7,312.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE D (100 Employees)</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users (SharePoint Plan 2)</td>
-<td style='padding: 10px;'>$13,787.50</td>
-<td style='padding: 10px;'>$13,387.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE E (150 Employees)</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling sim
 
 ## Vendor Information
 
- Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: hello@tischglobal.com <br>
+ Company Name: AVELOGIC PTE LTD<br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

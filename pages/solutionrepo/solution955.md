@@ -1,17 +1,15 @@
 ---
-title: 'Battery-operated Torque Wrench'
+title: 'Ear Tagging Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution955
 ---
 
-## Battery-operated Torque Wrench
+## Ear Tagging Machine
 
 ## Overview
 
 **Description**
 
-Battery-operated torque wrench/torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates manual torquing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, worker will be able to carry out torquing independently and more efficiently.
-
-Cost of equipment capped at $11,250 per unit
+A machine used to place ear tags into the ears of livestocks to provide a means of identification.
 
 ## Solution Packages Option(s)
 
@@ -22,9 +20,9 @@ Cost of equipment capped at $11,250 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Battery-operated Torque Wrench</td>
-<td style='padding: 10px;'>$11,250.00</td>
-<td style='padding: 10px;'>1. A minimum fastening torque output of 1000Nm</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Ear Tagging Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 

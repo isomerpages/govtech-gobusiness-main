@@ -1,15 +1,15 @@
 ---
-title: 'Aerator'
+title: 'Packing, delivery, shipment management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution1032
 ---
 
-## Aerator
+## Packing, delivery, shipment management systems
 
 ## Overview
 
 **Description**
 
-Equipment used for lawn aeration, or mixing air with another substance, such as soil or water.
+Equipment that allows automation when packing, delivery or shipment of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Equipment used for lawn aeration, or mixing air with another substance, such as 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aerator</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery, shipment management systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

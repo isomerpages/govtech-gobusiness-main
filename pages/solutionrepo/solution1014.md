@@ -1,19 +1,15 @@
 ---
-title: 'Automated Noodle Boiler'
+title: 'Aerator'
 permalink: /productivity-solutions-grant/solutionrepo/solution1014
 ---
 
-## Automated Noodle Boiler
+## Aerator
 
 ## Overview
 
 **Description**
 
-The automated noodle boiler automates the noodle cooking process. 
-
-Cost of equipment capped at $10,000 per unit 
-
-
+Equipment used for lawn aeration, or mixing air with another substance, such as soil or water.
 
 ## Solution Packages Option(s)
 
@@ -24,15 +20,15 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Able to pre-set timings for noodle baskets to be automatically lifted out of the boiler.<br><br>2. Minimally capacity of 3 noodle baskets.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aerator</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
