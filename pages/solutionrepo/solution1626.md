@@ -1,9 +1,9 @@
 ---
-title: 'Job Redesign Consultancy'
+title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1626
 ---
 
-## Job Redesign Consultancy
+## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 
 ## Overview
 
@@ -23,7 +23,7 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aon Solutions Singapore Pte Ltd </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>

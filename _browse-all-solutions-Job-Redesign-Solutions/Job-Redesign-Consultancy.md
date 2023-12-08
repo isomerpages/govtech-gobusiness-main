@@ -20,7 +20,7 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1626' target='_blank'>Job Redesign Consultancy</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1626' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
 <td>Aon Solutions Singapore Pte Ltd</td>
 </tr>
 <tr>
