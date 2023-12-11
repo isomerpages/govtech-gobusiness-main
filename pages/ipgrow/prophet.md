@@ -78,8 +78,6 @@ With 15 global offices and over 600 strategists, data analysts, marketers, digit
 
 "We are delighted to have a trusted strategic partner in Prophet and they have played a crucial role in our very important transformation journey as we evolve towards becoming a digital-first bank." - CEO, MB Bank.
 
-"It was a pleasure to partner with Prophet on the journey driving sustainability at ASUS. Prophet's experts understood deeply the core of ASUS's DNA and ESG strategy and developed a sophisticated ESG narrative through storytelling and visual expressions. The updated ESG strategy was launched at the CES as the keynote of ASUS's exhibition with wide attention and acclaims." - Global Commercial Marketing Head, System Group, ASUS."When we started our rebrand process, we knew we needed a partner that fully understood our objective for this new brand identity"Prophet was able to deliver a strategy that was robust, creative and aligned with our business goals and guiding principles." - Chief Marketing Officer, Hootsuite."We are delighted to have a trusted strategic partner in Prophet and they have played a crucial role in our very important transformation journey as we evolve towards becoming a digital-first bank." - CEO, MB Bank.
-
 ---
 <a name='case-studies'></a>
 ### Case studies
