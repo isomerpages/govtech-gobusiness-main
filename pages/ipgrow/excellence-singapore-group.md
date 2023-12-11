@@ -60,10 +60,6 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 76%</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 1%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
- 
-
 ---
 <a name='testimonials'></a>
 ### Testimonials

@@ -55,9 +55,6 @@ As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Tr
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 25%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
- 
 
 ---
 <a name='key-practice-experts'></a>
@@ -66,7 +63,7 @@ As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Tr
 **Lynn Teo**
 
 - Job Title: Director
-- Years of Experience: 10 years
+- Years of Experience: 10+ years
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Certified Public Accountant, Chartered Valuer and Appraiser  

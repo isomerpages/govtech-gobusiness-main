@@ -197,9 +197,6 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Malaysia - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Philippines - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Vietnam -  6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 7%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>New Zealand - 2%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
- 
 
 ---
 <a name='key-practice-experts'></a>

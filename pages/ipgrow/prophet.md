@@ -68,13 +68,15 @@ With 15 global offices and over 600 strategists, data analysts, marketers, digit
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> United States - 60%</li><li style='line-height: 27px; margin: 0px 0px !important'>Germany - 14%</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 8%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Switzerland - 4%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 4%</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>United Arab Emirates - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>South Korea - 1%</li></ul>
 
-**Percentage of revenue by organisational type, based on previous calendar year:**
-
- 
-
 ---
 <a name='testimonials'></a>
 ### Testimonials
+
+"It was a pleasure to partner with Prophet on the journey driving sustainability at ASUS. Prophet’s experts understood deeply the core of ASUS’s DNA and ESG strategy and developed a sophisticated ESG narrative through storytelling and visual expressions. The updated ESG strategy was launched at the CES as the keynote of ASUS’s exhibition with wide attention and acclaims." - Global Commercial Marketing Head, System Group, ASUS.
+
+"When we started our rebrand process, we knew we needed a partner that fully understood our objective for this new brand identity. Prophet was able to deliver a strategy that was robust, creative and aligned with our business goals and guiding principles." - Chief Marketing Officer, Hootsuite.
+
+"We are delighted to have a trusted strategic partner in Prophet and they have played a crucial role in our very important transformation journey as we evolve towards becoming a digital-first bank." - CEO, MB Bank.
 
 "It was a pleasure to partner with Prophet on the journey driving sustainability at ASUS. Prophet's experts understood deeply the core of ASUS's DNA and ESG strategy and developed a sophisticated ESG narrative through storytelling and visual expressions. The updated ESG strategy was launched at the CES as the keynote of ASUS's exhibition with wide attention and acclaims." - Global Commercial Marketing Head, System Group, ASUS."When we started our rebrand process, we knew we needed a partner that fully understood our objective for this new brand identity"Prophet was able to deliver a strategy that was robust, creative and aligned with our business goals and guiding principles." - Chief Marketing Officer, Hootsuite."We are delighted to have a trusted strategic partner in Prophet and they have played a crucial role in our very important transformation journey as we evolve towards becoming a digital-first bank." - CEO, MB Bank.
 
@@ -95,7 +97,7 @@ With 15 global offices and over 600 strategists, data analysts, marketers, digit
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy
 - Awards/Accolades: Marketing Maverick 2022 by World Marketing Congress 2022, Personal Innovation of the Year - Marketing Excellence award at Channel Asia Innovation Awards 2022, World's Most Influential Marketing Leaders 2015 by World Marketing Congress
-- URL of LinkedIn/Company Profile: <a href="https://www. linkedin.com/in/jacqueline-alexis-thng-???-4482601" target="_blank" rel="noopener">https://www. linkedin.com/in/jacqueline-alexis-thng-???-4482601/</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jacqueline-alexis-thng-%E6%B1%A4%E6%B7%91%E5%85%B0-4482601/" target="_blank" rel="noopener">https://www. linkedin.com/in/jacqueline-alexis-thng-???-4482601/</a>
 
 
 ---
