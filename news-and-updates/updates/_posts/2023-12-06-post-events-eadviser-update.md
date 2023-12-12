@@ -24,7 +24,7 @@ Click on the Add Guided Journey to save it to your GoBusiness Dashboard.
 
 Begin the Guided Journey now!
 
-<a href="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events" style="display: block; text-align: left;">
-    <img src="/images/news/EventsSJUpdate3.png" alt="" style="width: 300px;">
+<a href="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events">
+    <img src="/images/news/EventsSJUpdate3.png" alt="" style="width:300px; float: left;">
 </a>
 
