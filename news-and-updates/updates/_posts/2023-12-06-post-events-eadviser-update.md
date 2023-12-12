@@ -14,13 +14,15 @@ image: /images/news/News_Events eAdviser launch.png
 
 We have updated our e-Adviser for Events! Please log in before using the e-Adviser to create a guided journey. Your personalised recommendations are now saved in your GoBusiness recommendations for reference when you are ready to apply for your licences / permits.
 
+![](/images/news/EventsSJUpdate1.png)
+
 To improve your experience, the recommendation now groups licences in a recommended application sequence to reduce processing delays.
 
-![](/images/news/EventsSJUpdate1.png)
+![](/images/news/EventsSJUpdate2.png)
 
 Click on the Add Guided Journey to save it to your GoBusiness Dashboard.
 
 <a href="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events">
-    <img src="/images/news/EventsSJUpdate2.png" alt="" style="width:300px;">
+    <img src="/images/news/EventsSJUpdate3.png" alt="" style="width:300px;">
 </a>
 
