@@ -27,10 +27,10 @@ Animal & Veterinary Service (AVS)
 <H3>Documents Needed</H3>
 
 <ul>
-<li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Letter of Declaration</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Certificate of Analysis</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
-<li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+<li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Letter of Declaration</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Certificate of Analysis</strong><br />File Format: DOC,DOCX,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+<li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
 </ul>
 
 <H3>Requirements</H3>
