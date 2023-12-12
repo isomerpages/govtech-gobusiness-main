@@ -10,7 +10,7 @@ Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
 
-<p>Due to system maintenance, this application will not be available from 12 Dec 2023 1400hrs to 18 Dec 2023 0800hrs.</p>
+<p>Due to system maintenance, this application will not be available from 14 Dec 2023 0800hrs to 18 Dec 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
