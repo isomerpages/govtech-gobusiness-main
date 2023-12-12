@@ -1,15 +1,15 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
+title: 'Web Imp Express E-Commerce Website Development Version v1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1286
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 2.0
+## Web Imp Express E-Commerce Website Development Version v1
 
 ## Overview
 
 **Description**
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
+Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 ## Vendor Information
 
- Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
+ Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

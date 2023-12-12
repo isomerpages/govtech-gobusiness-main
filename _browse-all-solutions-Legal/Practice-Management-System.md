@@ -28,15 +28,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution744' target='_blank'>Tessaract Practice Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution653' target='_blank'>Tessaract Practice Management Solution</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1640' target='_blank'>CLIO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1522' target='_blank'>CLIO</a><br></td>
 <td>Bizibody Technology Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1645' target='_blank'>CLIO (packaged with LTP)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1527' target='_blank'>CLIO (packaged with LTP)</a><br></td>
 <td>Bizibody Technology Pte Ltd</td>
 </tr>
 </table>

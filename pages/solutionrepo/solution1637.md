@@ -1,15 +1,16 @@
 ---
-title: 'Websentials Ecommerce Web Development'
+title: 'Job Redesign Consultancy - SFIC Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1637
 ---
 
-## Websentials Ecommerce Web Development
+## Job Redesign Consultancy - SFIC Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
+SFIC Institute is a human capital solutions provider established in response to the needs of a rapidly evolving workplace environment. 
+Our consultants have done Job and Process Redesign projects across various industries, including Education, Beauty and Retail companies. 
 
 ## Solution Packages Option(s)
 
@@ -23,24 +24,10 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
-<td style='padding: 10px;'>$9,040.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - SFIC Institute Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySFICInstitute.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +37,7 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 
 ## Vendor Information
 
- Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
+ Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Name: Dominic Ng (CEO)<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
