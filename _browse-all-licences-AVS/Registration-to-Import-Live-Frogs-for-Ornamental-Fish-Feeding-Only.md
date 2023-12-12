@@ -14,6 +14,6 @@ Animal & Veterinary Service (AVS)
 
 <H3>Application Details</H3>
 
-<p>This service allows importers to register their company to import of live frogs for ornamental fish feeding. This registration is not mandatory to facilitate the import. </p>
+<p>This service allows importers to register their company to import of live frogs for ornamental fish feeding. This registration is not mandatory to facilitate the import.</p>
 
 
