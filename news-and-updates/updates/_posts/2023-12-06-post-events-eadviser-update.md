@@ -22,6 +22,8 @@ To improve your experience, the recommendation now groups licences in a recommen
 
 Click on the Add Guided Journey to save it to your GoBusiness Dashboard.
 
+Begin the Guided Journey now!
+
 <a href="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events">
     <img src="/images/news/EventsSJUpdate3.png" alt="" style="width:300px;">
 </a>
