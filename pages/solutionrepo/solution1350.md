@@ -1,15 +1,15 @@
 ---
-title: 'Synergix Sales, Accounting, Inventory'
+title: 'Moneyworks Version 9'
 permalink: /productivity-solutions-grant/solutionrepo/solution1350
 ---
 
-## Synergix Sales, Accounting, Inventory
+## Moneyworks Version 9
 
 ## Overview
 
 **Description**
 
-Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
+Ostendo provides Moneyworks, an Accounting software suitable for businesses of all sizes. It is developed by Cognito Software based in New Zealand since 1986. Key features of the solution include: general ledger, invoicing, inventory management, and sales management. MoneyWorks can interface seamlessly with most leading payroll, CRM, POS systems or mySQL, making it possible to streamline workflow. The friendly interface and graphic workflows make MoneyWorks fast, easy and efficient to operate.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Synergix software is a web and browser-based digital solution built for local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (5 Users with InvoiceNow)</td>
-<td style='padding: 10px;'>$53,750.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold (1 user)</td>
+<td style='padding: 10px;'>$1,395.00</td>
+<td style='padding: 10px;'>$1,295.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (10 Users with InvoiceNow)</td>
-<td style='padding: 10px;'>$74,750.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Now (3 users)</td>
+<td style='padding: 10px;'>$5,740.00</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users)</td>
+<td style='padding: 10px;'>$7,235.00</td>
+<td style='padding: 10px;'>$6,935.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users with integration and automation)</td>
+<td style='padding: 10px;'>$9,735.00</td>
+<td style='padding: 10px;'>$9,435.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (6 users with integration and automation)</td>
+<td style='padding: 10px;'>$11,385.00</td>
+<td style='padding: 10px;'>$11,085.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Synergix software is a web and browser-based digital solution built for local SM
 
 ## Vendor Information
 
- Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+ Web URL: www.ostendoasia.com <br><br>Contact Hotline: 68505150 <br><br>Contact Email: info.sg@ostendoasia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

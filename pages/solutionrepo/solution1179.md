@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft 365 Defender'
+title: 'BIZ FNB DIGITAL ORDERING'
 permalink: /productivity-solutions-grant/solutionrepo/solution1179
 ---
 
-## Microsoft 365 Defender
+## BIZ FNB DIGITAL ORDERING
 
 ## Overview
 
 **Description**
 
-Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+CooBiz IT's BIZ FNB Digital Ordering solution is an easy to use in-store ordering system for F&B businesses.  This solution will enable F&B businesses to streamline their operations and reduce their queue time. The API is in place to make it possible to further integrate and synchronize to solutions like Point-of-sale system ,HR, CRM and Accounting software without the hassle of manual data entry
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'>$2,127.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic FNB V3.52</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'>$3,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'>$4,254.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic QR FNB V3.52</td>
+<td style='padding: 10px;'>$8,960.00</td>
+<td style='padding: 10px;'>$6,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'>$8,508.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inventory QR FNB V3.52</td>
+<td style='padding: 10px;'>$10,960.00</td>
+<td style='padding: 10px;'>$7,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'>$21,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'>$38,286.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM QR FNB V3.52</td>
+<td style='padding: 10px;'>$12,960.00</td>
+<td style='padding: 10px;'>$8,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Coobiz_IT_Solutions_BIZ_FNB_DIGITAL_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suit
 
 ## Vendor Information
 
- Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
+ Company Name: Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

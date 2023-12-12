@@ -1,16 +1,15 @@
 ---
-title: 'FocusGuard FMS Version 2.0'
+title: 'DM I Concept Innovation Digital Marketing Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution378
 ---
 
-## FocusGuard FMS Version 2.0
+## DM I Concept Innovation Digital Marketing Version 1.0
 
 ## Overview
 
 **Description**
 
-FocusGuard Fleet Management System is designed to control, monitor, and track all vehicles. Locate vehicles using detailed maps round the clock. Access the Web-based Fleet Management portal or Mobile App to view real-time location and information of the vehicles and generate up-to-date reports.
-FocusGuard FMS generates a complete suite of commonly desired Reports.
+I Concept offers Social Media, SEM and GDN campaigns to help brands to get on digital platforms and reach? out to a vast audience. More than just digital ads - A great digital marketing strategy is the core and driving force of any digital campaign. Built to attain marketing goals, a multi-channel and 360- creative approach to digital marketing with a stronger purpose - to raise online visibility, increase quality traffic and ultimately generate greater brand loyalty on digital platforms.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,17 @@ FocusGuard FMS generates a complete suite of commonly desired Reports.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Per Vehicle)</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_FocusGuard_Annex_3_CR_wef_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SM + SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SM + GDN (3 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +43,7 @@ FocusGuard FMS generates a complete suite of commonly desired Reports.
 
 ## Vendor Information
 
- Company Name: FocusGuard Pte Ltd<br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>
+ Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

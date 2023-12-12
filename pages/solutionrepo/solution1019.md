@@ -1,18 +1,15 @@
 ---
-title: 'High Speed Oven'
+title: 'Robotic/ Wireless/ Autonomous Mower'
 permalink: /productivity-solutions-grant/solutionrepo/solution1019
 ---
 
-## High Speed Oven
+## Robotic/ Wireless/ Autonomous Mower
 
 ## Overview
 
 **Description**
 
-A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
-
-Cost of equipment capped at $10,000 per unit 
-
+A mobile grass/lawn cutting equipment , either automated or semi/fully controlled by a person, that trims, cuts grass or other vegetation that grows on the ground.
 
 ## Solution Packages Option(s)
 
@@ -23,15 +20,15 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Unit is programmed to combine different cooking technologies (e.g. convection, microwave, impingement technology) to achieve rapid cooking.<br><br>2. Minimum wattage/voltage: 2,200W/170V</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

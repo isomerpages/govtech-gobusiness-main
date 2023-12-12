@@ -1,15 +1,15 @@
 ---
-title: 'DM Fier Capital Digital Marketing Packages'
+title: 'SAP Business One Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1264
 ---
 
-## DM Fier Capital Digital Marketing Packages
+## SAP Business One Version 10.0
 
 ## Overview
 
 **Description**
 
-Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
+SAP Business One is used by small and midsize businesses worldwide. The solution is affordable to manage an entire business from sales and customer relationships to financials and operations. The solution facilitates companies to streamline processes, act on timely information and drive profitable growth. SAP Business One is designed with flexibility in mind and can be deployed on-premises or in the cloud, accessible at any time and from any place using our mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Cloud Subscription Users on SQL) - (Starter Package)</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Cloud Subscription Users on SQL)</td>
+<td style='padding: 10px;'>$28,260.00</td>
+<td style='padding: 10px;'>$23,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (5 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$34,060.00</td>
+<td style='padding: 10px;'>$25,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (10 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$46,840.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (7 Perpetual Licenses on HANA)</td>
+<td style='padding: 10px;'>$61,904.70</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
+ Company Name: Axxis Consulting (S) Pte Ltd<br>Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

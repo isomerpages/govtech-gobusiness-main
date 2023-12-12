@@ -1,15 +1,15 @@
 ---
-title: 'SINGTAX CORPORATE'
+title: 'CalendarOne CRM Solution Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1700
 ---
 
-## SINGTAX CORPORATE
+## CalendarOne CRM Solution Version 2
 
 ## Overview
 
 **Description**
 
-Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
+CalendarOne CRM is a cloud based solution that integrates and automates the entire customer-related business process. It is a centralize platform that enable businesses to share, track, administer and manage their clients' engagement and experience. The solution enables businesses to gain deeper insight into their clients, thus helping them identify critical trends, retain clients and increase sales.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users Licence</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CalendarOne_CRM_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users Licence</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CalendarOne_CRM_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 
 ## Vendor Information
 
- Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
+ Company Name: CalendarOne Pte Ltd<br>Web URL: http://www.calendarone.com/smesgodigital <br>Contact Hotline: 92485655 <br>Contact Email: francis@calendarone.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

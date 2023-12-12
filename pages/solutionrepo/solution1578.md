@@ -1,15 +1,15 @@
 ---
-title: 'Aigens Digital Ordering'
+title: 'Swingvy Version 1.233.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1578
 ---
 
-## Aigens Digital Ordering
+## Swingvy Version 1.233.0
 
 ## Overview
 
 **Description**
 
-Aigens is a complete SaaS vendor that provides comprehensive digitization of ordering solutions for F&B and hospitality establishments across all dining modes - dine-in, takeaway, and delivery, across multiple sales channels. Aigens Loyalty nurtures a resilient customer base by providing a personalized experience to engage customers with gamification, promotions, and campaigns. The dashboard provides business intelligence data to assist in smarter strategies to engage customers.
+Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Aigens is a complete SaaS vendor that provides comprehensive digitization of ord
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Package Lite</td>
-<td style='padding: 10px;'>$7,060.00</td>
-<td style='padding: 10px;'>$6,860.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_030823__Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Package Plus</td>
-<td style='padding: 10px;'>$11,480.00</td>
-<td style='padding: 10px;'>$8,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_030823__Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Channel Group Package</td>
-<td style='padding: 10px;'>$19,180.00</td>
-<td style='padding: 10px;'>$14,180.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_030823__Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk Package</td>
-<td style='padding: 10px;'>$10,980.00</td>
-<td style='padding: 10px;'>$10,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_030823__Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Single Kiosk Package</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AigensTechnology_AigensDigitalOrdering_030823__Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Aigens is a complete SaaS vendor that provides comprehensive digitization of ord
 
 ## Vendor Information
 
- Company name:Aigens Technology (Singapore) Pte. Ltd. <br>Web URL: https://www.aigens.com/ <br>Contact Hotline: +6596953417 <br>Contact Email: hans.paul@aigens.com 
+ Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

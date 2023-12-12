@@ -1,6 +1,6 @@
 ---
-title: Foreign Employee Dormitories Act Licence 
-permalink: /browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-Employee-Dormitories-Act-Licence-
+title: Foreign Employee Dormitories Act Licence
+permalink: /browse-all-licences/Ministry-of-Manpower-(MOM)/Foreign-Employee-Dormitories-Act-Licence
 third_nav_title: Ministry of Manpower (MOM)
 ---
 
@@ -10,7 +10,7 @@ Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/11dc0f28-1e32-4b97-a05e-d1f80224754c" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/feda" type="primary" %}
 
 <H3>Application Details</H3>
 
