@@ -1,15 +1,15 @@
 ---
-title: 'DM RHAD Digital Marketing Package Version 1'
+title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1549
 ---
 
-## DM RHAD Digital Marketing Package Version 1
+## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
 
 ## Overview
 
 **Description**
 
-With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
+Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ With five different Digital Marketing Packages, RHAD helps businesses enhance br
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Web Starter (3 months)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 concurrent user - 30 Employees)</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Google Search Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 concurrent user - 60 Employees)</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Starter (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 concurrent user - Unlimited Employees)</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PPC Starter (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (3 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Marketing (3 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ With five different Digital Marketing Packages, RHAD helps businesses enhance br
 
 ## Vendor Information
 
- Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
+ Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

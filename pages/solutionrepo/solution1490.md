@@ -1,15 +1,15 @@
 ---
-title: 'DM Guidesify Digital Marketing Packages'
+title: 'Sage 300Cloud Version 2024'
 permalink: /productivity-solutions-grant/solutionrepo/solution1490
 ---
 
-## DM Guidesify Digital Marketing Packages
+## Sage 300Cloud Version 2024
 
 ## Overview
 
 **Description**
 
-Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO foundation for their website, while looking to expand their reach into niche markets through Email Marketing. Guidesify believes that Digital Marketing is a continuous effort that requires commitment on both the part of client and Guidesify as a vendor. This will ensure clients' websites rank highly in search engines, and clients' target audiences are frequently engaged through email marketing.
+Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEO + Email marketing [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Guidesify_Digital_Marketing_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'>$33,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'>$42,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'>$34,615.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/psg-grant-singapore-ecommerce/ <br>Contact Hotline: 87755483 <br>Contact Email: hello@guidesify.com <br>
+ Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

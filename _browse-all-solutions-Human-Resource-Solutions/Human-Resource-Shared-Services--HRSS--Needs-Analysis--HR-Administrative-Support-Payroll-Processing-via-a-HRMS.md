@@ -52,11 +52,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1444' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1432' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
 <td>BIPO Service Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1544' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1532' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 </table>

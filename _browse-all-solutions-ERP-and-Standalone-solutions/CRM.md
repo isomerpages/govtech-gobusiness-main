@@ -6,13 +6,9 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM
 ## Customer Relationship Management (CRM)
 ## Overview
 
-**Description**
-
-Offers ability to track all sales leads, assign to sales reps, setup sales targets, generate quotations, setup customers and generate detailed sales reports.
-
 **Support Level and Conditions**
 
-Up to 0.5 for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -32,31 +28,27 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1396' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
-<td>Pepper Cloud Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1578' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1566' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1582' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1570' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1584' target='_blank'>CARDDIO Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1572' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1588' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1576' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1593' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1581' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1598' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1586' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 </table>

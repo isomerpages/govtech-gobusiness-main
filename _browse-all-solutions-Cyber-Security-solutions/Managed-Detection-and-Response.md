@@ -60,15 +60,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1405' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1398' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1456' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1444' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
 <td>GKO Consultancy</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1621' target='_blank'>Morphisec</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1609' target='_blank'>Morphisec</a><br></td>
+<td>EQCOMS Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1610' target='_blank'>5</a><br></td>
 <td>EQCOMS Technology Pte Ltd</td>
 </tr>
 </table>

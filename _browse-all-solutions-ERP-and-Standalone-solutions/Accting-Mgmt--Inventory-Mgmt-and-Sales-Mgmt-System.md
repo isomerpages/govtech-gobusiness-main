@@ -140,19 +140,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SEG IT Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1310' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1307' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1429' target='_blank'>Adaptive BizApp Version 5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1422' target='_blank'>Adaptive BizApp Version 5</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1499' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1487' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1502' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1490' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
 <td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
 </table>
