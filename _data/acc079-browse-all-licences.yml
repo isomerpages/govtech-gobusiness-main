@@ -15,9 +15,9 @@
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         <p>This certificate allows exporters to obtain an endorsement for their animal feed products meant for non-food producing animals intended for export.</p>
-
+        
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fea242ac-ffba-4b7b-856f-39ebe0e9f6cf" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Non-Food-Producing-Animal-Feed)">View Licence Details</a>
-
+        
         -----
         **Free Sale Certificate (Vaccine)**
 
@@ -25,8 +25,9 @@
 
         <p>The Free Sale Certificate for Vaccine allows exporters to get Animal & Veterinary Service endorsement for their vaccine intended for export.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000328" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Vaccine)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Vaccine)">View Licence Details</a>
+        <p>Due to system maintenance, this application will not be available from 14 Dec 2023 0800hrs to 18 Dec 2023 0800hrs.</p>
+        
+        <a href="/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Vaccine)">View Licence Details</a>
 
         -----
         **Health Certificate for Export of Ornamental Fish**

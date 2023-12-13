@@ -1,15 +1,15 @@
 ---
-title: 'BlueMeg Console Version NA'
+title: 'DM Semantic Client Acquisition Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 
-## BlueMeg Console Version NA
+## DM Semantic Client Acquisition Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
+Semantic Client Acquisition helps local SMEs acquire clients predictably and at scale with 7 essential components - starting with in-depth competitor analysis and an irresistible marketing message for market differentiation. TRES offers video scripting/production and a finely tuned sales funnel to filter high-quality prospects from various ad platforms. Achieve the lowest cost per acquisition with unlimited ad copies and optimisation and propel sales to new heights with TRES' sales training.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ The BlueMeg Console is a cloud-based legal entity and subsidiary management and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM (YouTube)  + SMM (Facebook) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.02</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	 Package 2 - SMM (YouTube)  + SMM (Facebook) [3 Months] + Sales Training (& Webinar Slides)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
+ Company Name: TRES Client Acquisition Pte Ltd<br>Web URL: https://tres.sg <br>Contact Hotline: +6596187419 <br>Contact Email: jiali@tres.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
