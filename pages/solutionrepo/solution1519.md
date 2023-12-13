@@ -1,15 +1,15 @@
 ---
-title: 'SMART AUDIT'
+title: 'Websentials Ecommerce Web Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1519
 ---
 
-## SMART AUDIT
+## Websentials Ecommerce Web Development
 
 ## Overview
 
 **Description**
 
-Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
+<td style='padding: 10px;'>$9,040.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

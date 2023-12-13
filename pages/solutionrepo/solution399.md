@@ -1,16 +1,15 @@
 ---
-title: 'INFO-TECH Cloud Accounting Software Version 1.0'
+title: 'DM Leading Solution Digital Marketing Packages Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution399
 ---
 
-## INFO-TECH Cloud Accounting Software Version 1.0
+## DM Leading Solution Digital Marketing Packages Version 1
 
 ## Overview
 
 **Description**
 
-INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
-Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
 
 ## Solution Packages Option(s)
 
@@ -24,17 +23,17 @@ Info-Tech Cloud Accounting Software also helps to save time especially with defa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -44,7 +43,7 @@ Info-Tech Cloud Accounting Software also helps to save time especially with defa
 
 ## Vendor Information
 
- Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+ Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

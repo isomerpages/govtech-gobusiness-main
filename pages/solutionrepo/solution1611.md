@@ -1,15 +1,15 @@
 ---
-title: 'Odoo Enterprise Version 16'
+title: 'DM TAM Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1611
 ---
 
-## Odoo Enterprise Version 16
+## DM TAM Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
+TAM helps business owners double triple their ROI by navigating the challenging digital world. Having worked with over 120 brands and digitalised over 60 businesses across a variety of industries - TAM helps SMEs get their business and brand seen by the right audiences online, improve brand's social engagement, and double triple their ROI and sales through quality social content, trendy graphic designs, engaging content writing and more.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
-<td style='padding: 10px;'>$8,675.00</td>
-<td style='padding: 10px;'>$7,275.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA + SMA (3 months)</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_DM_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$9,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 months)</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_DM_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
-<td style='padding: 10px;'>$16,025.00</td>
-<td style='padding: 10px;'>$13,825.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMM + SMA (3 months)</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'>$8,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_DM_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$18,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM + SMA (4 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_DM_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM + SMA (4 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheAssets_DM_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 
 ## Vendor Information
 
- Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
+ Company name:The Assets Management Pte Ltd<br>Web URL: digitalsociety.sg <br>Contact Hotline: 69116898 <br>Contact Email: hello@digitalsociety.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

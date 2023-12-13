@@ -1,15 +1,15 @@
 ---
-title: 'Lemonade eCommerce Solution'
+title: 'Job Redesign Consultancy - NTUC LearningHub Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1635
 ---
 
-## Lemonade eCommerce Solution
+## Job Redesign Consultancy - NTUC LearningHub Pte Ltd
 
 ## Overview
 
 **Description**
 
-Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
+NTUC LearningHub is the leading Continuing Education and Training provider in Singapore which aims to transform the lifelong employability of working people. Since our corporatisation in 2004, we have helped over 26,000 organisations and achieved more than 2.6 million training places. As a Total Learning Solutions provider, we forge partnerships to offer a wide range of relevant end-to-end advisory & training to help companies and individuals transform and upskill.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customise
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'>$3,226.73</td>
-<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
-<td style='padding: 10px;'>$8,690.00</td>
-<td style='padding: 10px;'>$3,626.73</td>
-<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyNTUCLearningHub.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customise
 
 ## Vendor Information
 
- Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
+ Company name: NTUC LearningHub Pte Ltd<br>Web URL: http://www.ntuclearninghub.com/<br>Contact Name: NTUC LearningHub Corporate Sales<br>Contact Hotline: +65 6336 5482<br>Contact Email: corpsales@ntuclearninghub.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
