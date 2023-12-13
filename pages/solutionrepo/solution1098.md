@@ -1,15 +1,15 @@
 ---
-title: 'DM Business Thrust Digital Marketing Packages Version DM01'
+title: 'Synergix Sales, Accounting, Inventory'
 permalink: /productivity-solutions-grant/solutionrepo/solution1098
 ---
 
-## DM Business Thrust Digital Marketing Packages Version DM01
+## Synergix Sales, Accounting, Inventory
 
 ## Overview
 
 **Description**
 
-Business Thrust specialises in digital marketing and offers SEO and SEM services to help businesses improve their online visibility, drive traffic to their websites, and increase conversions through effective search engine optimization techniques. The key benefits of digital marketing services include enhanced brand recognition, higher search engine rankings, and increased website traffic, resulting in improved lead generation and sales for clients.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ Business Thrust specialises in digital marketing and offers SEO and SEM services
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO+SEM (6 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_DMBusinessThrust_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (5 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$53,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (10 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$74,750.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Tech_Synergix_Sales_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

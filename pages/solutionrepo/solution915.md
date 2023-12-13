@@ -1,17 +1,15 @@
 ---
-title: 'Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench'
+title: 'Mobile Elevating Work Platform/ Boom Lift/ Spider Lift'
 permalink: /productivity-solutions-grant/solutionrepo/solution915
 ---
 
-## Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+## Mobile Elevating Work Platform/ Boom Lift/ Spider Lift
 
 ## Overview
 
 **Description**
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. 
-
-Cost of equipment apped at $37,500 per unit 
+A mobile mechanical device used to provide temporary access for people or equipment to perform tasks which are at inaccessible areas and heights.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment apped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Min torque range: 1,000 Nm<br><br>2. Equipment can include 1 battery pack or power unit per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

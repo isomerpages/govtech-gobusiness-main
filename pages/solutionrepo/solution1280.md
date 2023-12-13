@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Commerce Version 2.0'
+title: 'Zippy eCommerce Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1280
 ---
 
-## Fooyo Commerce Version 2.0
+## Zippy eCommerce Version 1.0
 
 ## Overview
 
 **Description**
 
-Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
+Zippy eCommerce is designed to help SMES bring their B2C business online seamlessly. Zippy is user-friendly, intuitive, and packed with features that make building and operating an online store fast, easy and efficient. With the Zippy solution, SMEs can create, maintain and operate a professional-looking B2C ecommerce website without any in-house technical staff.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
-<td style='padding: 10px;'>$9,588.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zippy eCommerce Enterprise</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ZIPPY_SG_Zippy_eCommerce_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
+ Company Name: ZIPPY SG PTE. LTD.<br>Web URL: https://zippybytes.com/ <br>Contact Hotline: 63147885 <br>Contact Email: sales@zippy.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

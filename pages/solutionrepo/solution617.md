@@ -1,16 +1,15 @@
 ---
-title: 'Rah Tech Sophos Endpoint Protection'
+title: 'A-Class Corporate Governance & Document Management by Sleek'
 permalink: /productivity-solutions-grant/solutionrepo/solution617
 ---
 
-## Rah Tech Sophos Endpoint Protection
+## A-Class Corporate Governance & Document Management by Sleek
 
 ## Overview
 
 **Description**
 
-Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
-Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
+Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
 
 ## Solution Packages Option(s)
 
@@ -24,48 +23,48 @@ Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'>$2,675.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
+<td style='padding: 10px;'>$519.21</td>
+<td style='padding: 10px;'>$519.21</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'>$4,875.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
+<td style='padding: 10px;'>$623.06</td>
+<td style='padding: 10px;'>$623.06</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
+<td style='padding: 10px;'>$728.97</td>
+<td style='padding: 10px;'>$728.97</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
+<td style='padding: 10px;'>$841.12</td>
+<td style='padding: 10px;'>$841.12</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
-<td style='padding: 10px;'>$29,750.00</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
+<td style='padding: 10px;'>$1,009.35</td>
+<td style='padding: 10px;'>$1,009.35</td>
+<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
+ Company name:SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
