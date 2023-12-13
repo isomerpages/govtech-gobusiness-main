@@ -96,36 +96,36 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1277' target='_blank'>Revel Systems Version 2</a><br></td>
-<td>Revel Systems Holdings Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1281' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1278' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1288' target='_blank'>LFSuite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1285' target='_blank'>LFSuite</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1296' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1293' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1315' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1312' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
 <td>APPZGATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1318' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1315' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1336' target='_blank'>WarelyPOS Version 1.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1333' target='_blank'>WarelyPOS Version 1.3</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1449' target='_blank'>NPOS Version 2.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1437' target='_blank'>NPOS Version 2.1</a><br></td>
 <td>NSTORY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1628' target='_blank'>Revel Systems Version 2</a><br></td>
+<td>Revel Systems Holdings Pte Ltd</td>
 </tr>
 </table>
 

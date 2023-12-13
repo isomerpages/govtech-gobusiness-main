@@ -1,15 +1,15 @@
 ---
-title: 'A-Class Accounting & Sales Management by Sleek'
+title: 'DM HD Digital Branding Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## A-Class Accounting & Sales Management by Sleek
+## DM HD Digital Branding Packages
 
 ## Overview
 
 **Description**
 
-Sleek provides a fully digital solution for accounting, tax and sales management for SMEs and Startups in Singapore backed up by quality local support.
+Hatch Digital (HD) helps clients unlock their brand's potential through digital transformation. The HD Branding Framework identifies each client's unique edge, creating a brand identity reflecting their essence. Ensuring cohesive branding engages the target audience with curated content, setting them apart from competitors. This approach enhances influence, and credibility, and attracts like-minded individuals, leading to success in objectives like increasing transactions or expanding teams.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM + SMA (2 Months)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hatch_Digital_DM_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hatch_Digital_DM_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 
 ## Vendor Information
 
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+ Company Name: Hatch Digital Pte. Ltd.<br>Web URL: https://www.hatchdev.asia/ <br>Contact Hotline: 91041814 <br>Contact Email: hello@hatchdev.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

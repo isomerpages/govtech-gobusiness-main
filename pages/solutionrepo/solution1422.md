@@ -1,15 +1,15 @@
 ---
-title: 'SINGTAX CORPORATE'
+title: 'Adaptive BizApp Version 5'
 permalink: /productivity-solutions-grant/solutionrepo/solution1422
 ---
 
-## SINGTAX CORPORATE
+## Adaptive BizApp Version 5
 
 ## Overview
 
 **Description**
 
-Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
+Adaptive BizApp Inventory and Sales management software is a robust cloud-based system. It helps businesses easily capture all real-time data such as sales, purchases, inventory movements and AR and AP transactions. BizApp systems are cost-effective, easy to use, scalable and developed with Singapore businesses in mind. The system is flexible enough to configure it according to individual business needs and requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'>$15,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'>$18,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 
 ## Vendor Information
 
- Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
+ Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

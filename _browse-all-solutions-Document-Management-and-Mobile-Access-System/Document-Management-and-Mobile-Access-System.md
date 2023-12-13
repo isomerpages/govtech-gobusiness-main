@@ -68,7 +68,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PROMINDS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1391' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1388' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 </table>
