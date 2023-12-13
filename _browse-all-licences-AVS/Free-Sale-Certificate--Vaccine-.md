@@ -9,15 +9,8 @@ third_nav_title: Animal & Veterinary Service (AVS)
 Animal & Veterinary Service (AVS)
 
 {% include spcp-text.html type="cp" %}
-{% include licence-apply-button.html %}
 
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000328" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000328" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+<p>Due to system maintenance, this application will not be available from 14 Dec 2023 0800hrs to 18 Dec 2023 0800hrs.</p>
 
 <H3>Application Details</H3>
 
@@ -34,10 +27,10 @@ Animal & Veterinary Service (AVS)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Letter of Declaration</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Certificate of Analysis</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
- <li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ <li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Letter of Declaration</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Certificate of Analysis</strong><br />File Format: DOC,DOCX,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
  </ul>
 
 <H3>Requirements</H3>
