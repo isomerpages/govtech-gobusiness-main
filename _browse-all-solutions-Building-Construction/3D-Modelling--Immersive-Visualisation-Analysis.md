@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1554' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1542' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1559' target='_blank'>Graphisoft Archicad</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1547' target='_blank'>Graphisoft Archicad</a><br></td>
 <td>Graphisoft Asia Limited</td>
 </tr>
 </table>

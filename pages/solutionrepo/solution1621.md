@@ -1,15 +1,16 @@
 ---
-title: 'Morphisec'
+title: 'Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1621
 ---
 
-## Morphisec
+## Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd
 
 ## Overview
 
 **Description**
 
-Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Security Service delivers instant pre-breach proactive protection against the most sophisticated cyberattacks efficiently without the need for prior knowledge. AMTD stops ransomware, supply chain attacks, zero-days, and other advanced attacks. Paired with our 24/7 monitoring center, we ensure customers sleep better at night knowing they're protected.
+SGPC is a one-stop competency and resource centre that aims to help the Services sector strengthen capabilities for sustainable competitiveness and has helped more than 1,000 enterprises through consultancy projects, business advisory, training and certification, and overseas study missions.
+Since April 2019, SGPC has been appointed by Enterprise Singapore as the National Productivity Organisation, representing Singapore to the Asian Productivity Organisation. 
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,20 @@ Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Secu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (25 license)</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (50 license)</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (100 license)</td>
-<td style='padding: 10px;'>$21,260.00</td>
-<td style='padding: 10px;'>$21,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (150 license)</td>
-<td style='padding: 10px;'>$33,280.00</td>
-<td style='padding: 10px;'>$33,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (200 license)</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySingaporeProductivityCentre.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: EQCOMS Technology Pte Ltd<br>Web URL: https://eqcoms.com/our-products/morphisec-pre-approved-psg-available/ <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
+ Company name: Singapore Productivity Centre Pte Ltd<br>Web URL: https://www.sgpc.sg/<br>Contact Name: Jadean Yan, Project Manager<br>Contact Hotline: 9720 7973<br>Contact Email: Jadean_yan@sgpc.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

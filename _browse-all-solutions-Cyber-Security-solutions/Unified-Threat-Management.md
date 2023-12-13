@@ -77,11 +77,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1305' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1302' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1387' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1384' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 </table>
