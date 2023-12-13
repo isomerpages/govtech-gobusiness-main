@@ -54,7 +54,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1493' target='_blank'>Odoo Enterprise Version 16</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1481' target='_blank'>Odoo Enterprise Version 16</a><br></td>
 <td>PORT CITIES SINGAPORE PTE LTD</td>
 </tr>
 </table>

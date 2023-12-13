@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online Accounting Software'
+title: 'Websentials Ecommerce Web Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1507
 ---
 
-## Quickbooks Online Accounting Software
+## Websentials Ecommerce Web Development
 
 ## Overview
 
 **Description**
 
-Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ Quickbooks is a One-stop Solution for all accounting needs. With the help of Qui
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
-<td style='padding: 10px;'>$740.00</td>
-<td style='padding: 10px;'>$740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
-<td style='padding: 10px;'>$2,940.00</td>
-<td style='padding: 10px;'>$2,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
-<td style='padding: 10px;'>$3,740.00</td>
-<td style='padding: 10px;'>$3,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
-<td style='padding: 10px;'>$7,740.00</td>
-<td style='padding: 10px;'>$7,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
+<td style='padding: 10px;'>$9,040.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

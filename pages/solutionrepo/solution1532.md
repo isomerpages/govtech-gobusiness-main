@@ -1,15 +1,15 @@
 ---
-title: 'Shopify Web Development by MS Web'
+title: 'HRSS & Payroll Processing with QuickHR'
 permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 
-## Shopify Web Development by MS Web
+## HRSS & Payroll Processing with QuickHR
 
 ## Overview
 
 **Description**
 
-"Leading Official SHOPIFY-Certified experts from SINGAPORE. Help e-commerce brands set up, and launch their Businesses on SHOPIFY and SHOPIFY PLUS. Want to make things as easy and seamless as possible for clients so that they can focus on what's Important: Running their Business, To take care of the technical aspects of setting up online shop so can concentrate on making sales and developing Branding
+Acc Pro (Singapore) Pte Ltd is a tech-consultancy firm that supports local SMEs to digitalize the HR processes such as payroll, leave management, claims, and benefits, etc. With integration to QuickBooks Online and Xero, we can also help SMEs digitalize the sales, accounting, and payroll processes. Our clients can focus on building their business while leaving the hassle of back-end business processes to us.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1532
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSW-ADVANCED Shopify Solutions</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MSWEBINTERNATIONAL_ShopifyWebDevelopment_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - 8 Pax</td>
+<td style='padding: 10px;'>$4,640.00</td>
+<td style='padding: 10px;'>$4,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_HRSSPayroll_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSW-PREMIUM Shopify Solutions</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MSWEBINTERNATIONAL_ShopifyWebDevelopment_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - 20 Pax</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_HRSSPayroll_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - 30 Pax</td>
+<td style='padding: 10px;'>$14,700.00</td>
+<td style='padding: 10px;'>$14,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_HRSSPayroll_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - 40 Pax</td>
+<td style='padding: 10px;'>$19,200.00</td>
+<td style='padding: 10px;'>$19,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_HRSSPayroll_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRSS & Payroll Processing with QuickHR (with seamless integration to QBO and Xero) - 50 Pax</td>
+<td style='padding: 10px;'>$23,700.00</td>
+<td style='padding: 10px;'>$23,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_HRSSPayroll_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1532
 
 ## Vendor Information
 
- Company Name: MSWEBINTERNATIONAL PTE. LTD.<br>Web URL: https://www.mswebinternational.com/ <br>Contact Hotline: 67384541 <br>Contact Email: hi@mswebinternational.com <br>
+ Company Name: Acc Pro (Singapore) Pte. Ltd.<br>Web URL: www.accprosingapore.com <br>Contact Hotline: 63520103 <br>Contact Email: sales@accprosingapore.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
