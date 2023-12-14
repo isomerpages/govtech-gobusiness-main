@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200615630E-Mcrosoft-Dynmcs-365-Busnss-Cntrl' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution749' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12X' target='_blank'>A2000ERP Version 12.X</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1604' target='_blank'>A2000ERP Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 </table>

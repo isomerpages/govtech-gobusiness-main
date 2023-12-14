@@ -28,11 +28,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Autonomous-Material-Transportation-RobotLogistics' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution778' target='_blank'>Autonomous Material Transportation Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Static-Parcel-Dimension,-Weight-and-Scan-EqtLogistics' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution811' target='_blank'>Static Parcel Dimension, Weight and Scan Equipment</a><br></td>
 <td></td>
 </tr>
 </table>

@@ -28,63 +28,63 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Autonomous-Mobile-RobotEngineering Services' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution782' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Probing-SystemEngineering Services' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution792' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Vertical-CarouselEngineering Services' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution799' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Hydraulic-Nut-Tensioning-Hydraulic-Torqueing-WrenchEngineering Services' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution812' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Digital-Welding-Eqt-Engineering Services' target='_blank'>Digital Welding Equipment </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution817' target='_blank'>Digital Welding Equipment </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Flange-FacerEngineering Services' target='_blank'>Flange Facer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution818' target='_blank'>Flange Facer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Torque-MultiplierEngineering Services' target='_blank'>Torque Multiplier</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution819' target='_blank'>Torque Multiplier</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Bristle-Blaster--Cup-Brush--Power-BrushEngineering Services' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution820' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Automatic-Flange-SpreaderEngineering Services' target='_blank'>Automatic Flange Spreader</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution821' target='_blank'>Automatic Flange Spreader</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Automatic-Nut-SplitterEngineering Services' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution822' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Auto-Welding-CarriageEngineering Services' target='_blank'>Auto Welding Carriage</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution823' target='_blank'>Auto Welding Carriage</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Automated-Labelling-Machine-Engineering Services' target='_blank'>Automated Labelling Machine </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution830' target='_blank'>Automated Labelling Machine </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Liquid-Filling-MachineEngineering Services' target='_blank'>Liquid Filling Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution831' target='_blank'>Liquid Filling Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/High-pressure-industrial-vacuum-cleanerEngineering Services' target='_blank'>High pressure industrial vacuum cleaner</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution832' target='_blank'>High pressure industrial vacuum cleaner</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/High-Pressure-Rotating-HeadEngineering Services' target='_blank'>High Pressure Rotating Head</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution833' target='_blank'>High Pressure Rotating Head</a><br></td>
 <td></td>
 </tr>
 </table>

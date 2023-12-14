@@ -28,79 +28,79 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Autonomous-Mobile-RobotMarine & Offshore' target='_blank'>Autonomous Mobile Robot</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution780' target='_blank'>Autonomous Mobile Robot</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Circular-Gas-CutterMarine & Offshore' target='_blank'>Circular Gas Cutter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Circular Gas Cutter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Portable-Automatic-Pipe-Gas-CutterMarine & Offshore' target='_blank'>Portable Automatic Pipe Gas Cutter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution786' target='_blank'>Portable Automatic Pipe Gas Cutter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Portable-Automatic-Gas-Cutting-MachineMarine & Offshore' target='_blank'>Portable Automatic Gas Cutting Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution787' target='_blank'>Portable Automatic Gas Cutting Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Power-Jack-for-Steel-Plates-Adjustment-PerpendicularMarine & Offshore' target='_blank'>Power Jack for Steel Plates Adjustment (Perpendicular)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution788' target='_blank'>Power Jack for Steel Plates Adjustment (Perpendicular)</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Probing-SystemMarine & Offshore' target='_blank'>Probing System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution790' target='_blank'>Probing System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Steel-Plate-Butt-Joint-Welding-Alignment-ToolMarine & Offshore' target='_blank'>Steel Plate Butt Joint Welding Alignment Tool</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution795' target='_blank'>Steel Plate Butt Joint Welding Alignment Tool</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Vertical-CarouselMarine & Offshore' target='_blank'>Vertical Carousel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution797' target='_blank'>Vertical Carousel</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Augmented-Reality-Welding-Training-SolutionMarine & Offshore' target='_blank'>Augmented Reality Welding Training Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution800' target='_blank'>Augmented Reality Welding Training Solution</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/BatteryPowered-Rope-AscenderMarine & Offshore' target='_blank'>Battery-Powered Rope Ascender</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution813' target='_blank'>Battery-Powered Rope Ascender</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Laser-Geometric-Alignment-SystemMarine & Offshore' target='_blank'>Laser Geometric Alignment System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution814' target='_blank'>Laser Geometric Alignment System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Auto-Welding-CarriageMarine & Offshore' target='_blank'>Auto Welding Carriage</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution815' target='_blank'>Auto Welding Carriage</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Digital-Welding-Eqt-Marine & Offshore' target='_blank'>Digital Welding Equipment </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution816' target='_blank'>Digital Welding Equipment </a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Mobile-Computer-Warehouse-applicationMarine & Offshore' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution827' target='_blank'>Mobile Computer (Warehouse application)</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Automated-Tools-Management-SystemMarine & Offshore' target='_blank'>Automated Tools Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution828' target='_blank'>Automated Tools Management System</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Automatic-Nut-SplitterMarine & Offshore' target='_blank'>Automatic Nut Splitter</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution829' target='_blank'>Automatic Nut Splitter</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Batteryoperated-Torque-WrenchMarine & Offshore' target='_blank'>Battery-operated Torque Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution834' target='_blank'>Battery-operated Torque Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Hydraulic-Nut-Tensioning-Hydraulic-Torqueing-WrenchMarine & Offshore' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution890' target='_blank'>Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/Robotic-armsMarine & Offshore' target='_blank'>Robotic arms</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution891' target='_blank'>Robotic arms</a><br></td>
 <td></td>
 </tr>
 </table>
