@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution405' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201100789H-LttlLvs-sch-Mngmnt-Systm-PMS--form-EC' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br></td>
 <td>LittleLives Inc Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1031' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200209919N-Prsch-Mngmnt-Systm--Eforms-for-Prsch-v-BrdgED-30-EC' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
 <td>Cyberland Consultancy Pte Ltd</td>
 </tr>
 </table>

@@ -20,7 +20,7 @@ This solution is supported by Singapore Tourism Board (STB).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution138' target='_blank'>Xplore - Booking System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201205177M-Xplor--Bookng-Systm-TA' target='_blank'>Xplore - Booking System</a><br></td>
 <td>BEMYGUEST PTE LTD</td>
 </tr>
 </table>

@@ -32,79 +32,79 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution43' target='_blank'>Adaptive Pay Version 2022</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2022-G' target='_blank'>Adaptive Pay Version 2022</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution58' target='_blank'>AGHRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603625R-AGHRM-G' target='_blank'>AGHRM</a><br></td>
 <td>AG NET PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution158' target='_blank'>Carbonate HR Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201904063K-Crbont-HR-v-1-G' target='_blank'>Carbonate HR Version 1</a><br></td>
 <td>Carbonate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution245' target='_blank'>QuickHR</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution278' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-v-8--AutomtHR-Frontr-G' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution343' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution454' target='_blank'>ASURIX HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200202453M-ASURIX-HRMS-G' target='_blank'>ASURIX HRMS</a><br></td>
 <td>Net Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution503' target='_blank'>OpensoftHR Version 18</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200612880H-OpnsoftHR-v-18-G' target='_blank'>OpensoftHR Version 18</a><br></td>
 <td>Opensoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution511' target='_blank'>Payboy HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G' target='_blank'>Payboy HRMS</a><br></td>
 <td>Payboy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution635' target='_blank'>SYNERGIX Version TH6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-SYNERGIX-v-TH6-G' target='_blank'>SYNERGIX Version TH6</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution676' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution738' target='_blank'>WhyzeHR Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-v-12-G' target='_blank'>WhyzeHR Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution760' target='_blank'>YUVO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201540990Z-YUVO-G' target='_blank'>YUVO</a><br></td>
 <td>YUVO PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1217' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201114849R-PyAdvsorMobl-HRMS-G' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1232' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200000956W-SS-JustLogn-HR-Cloud-G' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1374' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199804415D-TIMES-SOFTWARE-HRMS-v-18-G' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
 <td>Times Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1407' target='_blank'>SMARTHRMS Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Swingvy Version 1.233.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-12330-G' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1549' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-ROCKBELL-HR-MANAGEMENT-SYSTEM-v-3-G' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 </table>

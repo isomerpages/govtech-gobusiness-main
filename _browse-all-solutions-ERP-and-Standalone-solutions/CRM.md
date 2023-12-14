@@ -28,27 +28,27 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1566' target='_blank'>WEB360 Version 2.0.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201435966G-WEB360-v-200-G' target='_blank'>WEB360 Version 2.0.0</a><br></td>
 <td>Quality Zone Technologies Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1570' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-sln-v-2-G' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1572' target='_blank'>CARDDIO Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
 <td>Carddio Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1576' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform--G' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1581' target='_blank'>QuickDesk Marketing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1586' target='_blank'>Crystal Dash CRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201536042G-Crystl-Dsh-CRM-G' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
 </tr>
 </table>

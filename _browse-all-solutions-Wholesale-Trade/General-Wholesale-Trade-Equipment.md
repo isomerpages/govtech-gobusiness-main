@@ -28,15 +28,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution824' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Flow-Wrp-Pckgng-Mchn-Wholsl-Trd' target='_blank'>Automatic Flow Wrap Packaging Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution825' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtc-Shrnk-Wrp-Pckgng-Mchn-Wholsl-Trd' target='_blank'>Automatic Shrink Wrap Packaging Machine</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution826' target='_blank'>Ethylene Removal System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Ethyln-Rmovl-sys-Wholsl-Trd' target='_blank'>Ethylene Removal System</a><br></td>
 <td></td>
 </tr>
 </table>
