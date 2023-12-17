@@ -1,15 +1,15 @@
 ---
-title: 'EISOL F&B (Eats365) Version 1.0'
+title: 'Microsoft Dynamics 365 Business Central'
 permalink: /productivity-solutions-grant/solutionrepo/solution1081
 ---
 
-## EISOL F&B (Eats365) Version 1.0
+## Microsoft Dynamics 365 Business Central
 
 ## Overview
 
 **Description**
 
-Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-based restaurant management system designed to aggregate customer orders from online, in-store, food delivery or digital self-ordering platform. It is designed to achieve better operational efficiency. Eats365 continues to upgrade and integrate with other apps or payment systems to expand its usability and allow businesses to scale and adapt to business needs.
+Microsoft Dynamics 365 Business Central is an ERP Solution designed to automate the majority of SME's transactions from CRM to quote, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventory on the supply side. Assembly function are also available to cater to SME's mini-manufacturing needs. This would eliminate redundant processes and tasks. With more accurate information, SME's can make better informed decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Start-up</td>
-<td style='padding: 10px;'>$3,188.00</td>
-<td style='padding: 10px;'>$3,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Basic</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$23,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growth</td>
-<td style='padding: 10px;'>$5,236.00</td>
-<td style='padding: 10px;'>$4,736.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Basic</td>
+<td style='padding: 10px;'>$31,400.00</td>
+<td style='padding: 10px;'>$26,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large</td>
-<td style='padding: 10px;'>$5,587.00</td>
-<td style='padding: 10px;'>$5,087.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Intermediate</td>
+<td style='padding: 10px;'>$35,200.00</td>
+<td style='padding: 10px;'>$28,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk</td>
-<td style='padding: 10px;'>$6,276.00</td>
-<td style='padding: 10px;'>$5,776.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essentials Advance</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$8,575.00</td>
-<td style='padding: 10px;'>$7,475.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EISOL_F_B_Eats365_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Intermediate</td>
+<td style='padding: 10px;'>$43,800.00</td>
+<td style='padding: 10px;'>$31,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Microlabs_MicrosoftDynamics_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Simplify and automate the restaurants with Eats365. Eats365 is a complete cloud-
 
 ## Vendor Information
 
- Company Name: EISOL Pte Ltd<br>Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Contact Email: hi@eisol.net <br>
+ Company name:Microlabs Pte Ltd<br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'iFirm'
+title: 'CARDDIO Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1572
 ---
 
-## iFirm
+## CARDDIO Version 1
 
 ## Overview
 
 **Description**
 
-CCH iFirm is an award-winning practice management software ecosystem, designed to empower accounting professionals in delivering exceptional client service and efficiently managing their practice.
-
-CCH iFirm is cloud-based software that equips accounting practitioners with the tools they need to integrate, monitor and streamline all the key facets of their business.
+Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
 
 ## Solution Packages Option(s)
 
@@ -25,27 +23,41 @@ CCH iFirm is cloud-based software that equips accounting practitioners with the 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential </td>
-<td style='padding: 10px;'>$10,560.00</td>
-<td style='padding: 10px;'>$7,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_iFirm_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plus </td>
-<td style='padding: 10px;'>$11,040.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_iFirm_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Wolters Kluwer Singapore Pte Ltd<br>Web URL: https://www.wolterskluwer.com/en-sg/solutions/cch-prosystem-fx-engagement <br>Contact Hotline: 62113920 <br>Contact Email: sg-prosystemfx@wolterskluwer.com <br>
+ Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

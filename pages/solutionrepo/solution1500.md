@@ -1,17 +1,15 @@
 ---
-title: 'DM Verz Design Digital Marketing Package'
+title: 'DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1500
 ---
 
-## DM Verz Design Digital Marketing Package
+## DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2
 
 ## Overview
 
 **Description**
 
-Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
-The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
-The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
+Businesses benefit greatly from MediaOne's more than a decade of success in digital marketing. The consultancy offers comprehensive solutions, including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With extensive experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively maximise their digital presence, achieve marketing goals and ROI, and effectively connect with their audience.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ The packages that range from 3-months to 6-months provides flexibility to busine
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (6 months)</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'>$8,888.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (6 months)</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'>$9,988.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (3 months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (6 months)</td>
+<td style='padding: 10px;'>$11,888.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (3 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
+ Company Name: MediaOne Business Group Pte Ltd <br>Web URL: mediaone.co <br>Contact Hotline: 69657008<br>Contact Email: contact@mediaone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

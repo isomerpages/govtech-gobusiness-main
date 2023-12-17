@@ -1,15 +1,15 @@
 ---
-title: 'Shopmatic'
+title: 'APPZPOS F&B Point of Sales Version 1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1312
 ---
 
-## Shopmatic
+## APPZPOS F&B Point of Sales Version 1.1
 
 ## Overview
 
 **Description**
 
-Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
+APPZPOS provides an all-in-one affordable and user-friendly digital ordering solutions for all types of F&B business including Fast Food and Restaurant mode. APPZPOS is a Singapore based solution which offers different modules like E-Waiter, QR Ordering, Web Ordering, KIOSK Self-Order, Kitchen display system KDS, E-Menu, CRM and loyalty, Inventory which are linked to the same backend and seamlessly integrated.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ Shopmatic provides the entire ecosystem to sell online including an intuitive si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
-<td style='padding: 10px;'>$3,535.00</td>
-<td style='padding: 10px;'>$3,535.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopmatic_Shopmatic_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering)</td>
+<td style='padding: 10px;'>$5,760.00</td>
+<td style='padding: 10px;'>$5,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (2 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering + QR Ordering)</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$5,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (2 Digital Ordering System + 1 Kitchen Display System + 2 KIOSK Customer Self-Ordering)</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$6,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ Shopmatic provides the entire ecosystem to sell online including an intuitive si
 
 ## Vendor Information
 
- Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 88898758<br>Contact Email: shopsupportsg@goshopmatic.com <br>
+ Company Name: APPZGATE SOLUTIONS PTE. LTD.<br>Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932235 <br>Contact Email: sales@appzgate.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

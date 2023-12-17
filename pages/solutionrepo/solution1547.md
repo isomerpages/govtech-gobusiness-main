@@ -1,15 +1,15 @@
 ---
-title: 'Adaptive BizApp Version 5'
+title: 'Graphisoft Archicad'
 permalink: /productivity-solutions-grant/solutionrepo/solution1547
 ---
 
-## Adaptive BizApp Version 5
+## Graphisoft Archicad
 
 ## Overview
 
 **Description**
 
-Adaptive BizApp Inventory and Sales management software is a robust cloud-based system. It helps businesses easily capture all real-time data such as sales, purchases, inventory movements and AR and AP transactions. BizApp systems are cost-effective, easy to use, scalable and developed with Singapore businesses in mind. The system is flexible enough to configure it according to individual business needs and requirements.
+Graphisoft empowers teams to design great buildings through award-winning software solutions and learning programs for the AEC industry. Archicad, offers a complete end-to-end design & documentation workflow for architectural and integrated architecture & engineering practices. BIMx, the mobile & web BIM app extends BIM experience to stakeholders. BIMcloud, the industry's first & most advanced cloud-based solution for real-time collaboration. Graphisoft's solution also fully support OPEN BIM.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Adaptive BizApp Inventory and Sales management software is a robust cloud-based 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SE </td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Archicad Collaborate (1 year subscription)</td>
+<td style='padding: 10px;'>$2,760.00</td>
+<td style='padding: 10px;'>$1,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Graphisoft_GraphisoftArchicad_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SP</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - ME</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - MP</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'>$15,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - LP</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'>$18,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Adaptive_BizApp_01102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Archicad (Perpetual)</td>
+<td style='padding: 10px;'>$6,988.40</td>
+<td style='padding: 10px;'>$1,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Graphisoft_GraphisoftArchicad_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Adaptive BizApp Inventory and Sales management software is a robust cloud-based 
 
 ## Vendor Information
 
- Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg <br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com <br>
+ Company Name: Graphisoft Asia Limited<br>Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

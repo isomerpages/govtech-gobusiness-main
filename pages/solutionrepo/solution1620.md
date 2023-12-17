@@ -1,15 +1,15 @@
 ---
-title: 'Sage 300Cloud Version 2024'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1620
 ---
 
-## Sage 300Cloud Version 2024
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A1 - 2 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'>$28,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A2 - 5 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$33,200.00</td>
-<td style='padding: 10px;'>$33,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced A3 - 10 Users Premium Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$42,615.00</td>
-<td style='padding: 10px;'>$42,615.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B1 - 5 Users Standard Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced B2 - 10 Users Standard Implementation with InvoiceNow</td>
-<td style='padding: 10px;'>$34,615.00</td>
-<td style='padding: 10px;'>$34,615.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACSOLV_Sage300_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 
 ## Vendor Information
 
- Company name:ACSOLV CONSULT PTE. LTD.<br>Web URL: https://www.acsolv.com/ <br>Contact Hotline: 67489123 <br>Contact Email: acsolv@acsolv.com
+ Company name: KLC International Institute Pte Ltd<br>Web URL: https://klc.edu.sg/<br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

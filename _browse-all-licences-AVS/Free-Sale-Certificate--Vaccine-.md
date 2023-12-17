@@ -12,6 +12,7 @@ Animal & Veterinary Service (AVS)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/freesalevaccine" type="primary" %}
 
+
 <H3>Application Details</H3>
 
 <p>The Free Sale Certificate for Vaccine allows exporters to get Animal and Veterinary Service endorsement for their vaccine intended for export.</p>
@@ -32,6 +33,7 @@ Animal & Veterinary Service (AVS)
 <li><strong>Certificate of Analysis</strong><br />File Format: DOC,DOCX,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
 <li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File Format: BMP,DOCX,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
 </ul>
+
 
 <H3>Requirements</H3>
 

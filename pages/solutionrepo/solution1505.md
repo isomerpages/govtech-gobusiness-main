@@ -1,15 +1,15 @@
 ---
-title: 'Cisco Meraki Unified Threat Management Version FS20230315'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1505
 ---
 
-## Cisco Meraki Unified Threat Management Version FS20230315
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch, businesses have access to leading cybersecurity expertise, top-notch customer service, 24x7 coverage and protection. Meraki firewall delivers secure, consistent and exceptional network experience for businesses with Network Insights, Real Time Monitoring and Analytics. The solution equips your hybrid workforce with best in class technologies and strives to obtain Cyber Essentials Mark certification.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX75</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$3,226.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX85</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX95</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX105</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,690.00</td>
+<td style='padding: 10px;'>$3,626.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch
 
 ## Vendor Information
 
- Company Name: Contfinity Pte. Ltd.<br>Web URL: www.contfinity.com <br>Contact Hotline: 68718855 <br>Contact Email: sales@contfinity.com <br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

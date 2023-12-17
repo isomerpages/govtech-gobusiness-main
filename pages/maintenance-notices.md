@@ -11,11 +11,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 |  -----------   | ---------------- |
-| 7 Dec, 7pm - 15 Dec, 6pm | **e-Adviser for Premises Use Check** will be unavailable during the upcoming scheduled maintenance. |
-| 13 Dec, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
-| 13 Dec, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
-
-
+| 15 Dec, 7pm - 16 Dec, 6am | **Application, amendment, renewal & cancellation of National Parks Board (NPARKS) licences** will be unavailable during the upcoming scheduled maintenance. |
+| 16 Dec, 12am - 6am<br> 16 Dec, 10pm - 17 Dec, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |
 
 
 <script src="/jquery/jquery.min.js"></script>

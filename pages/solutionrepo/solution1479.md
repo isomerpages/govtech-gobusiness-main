@@ -1,15 +1,15 @@
 ---
-title: 'DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION'
+title: 'DM HD Digital Branding Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION
+## DM HD Digital Branding Packages
 
 ## Overview
 
 **Description**
 
-QIAN YI is specialized in TikTok social media marketing service focuses on reaching customer desired audience, increasing follower base, and generating valuable conversions for client business. QIAN YI's specialised team creates engaging and imaginative TikTok videos that empower clients to achieve their social media marketing objectives.
+Hatch Digital (HD) helps clients unlock their brand's potential through digital transformation. The HD Branding Framework identifies each client's unique edge, creating a brand identity reflecting their essence. Ensuring cohesive branding engages the target audience with curated content, setting them apart from competitors. This approach enhances influence, and credibility, and attracts like-minded individuals, leading to success in objectives like increasing transactions or expanding teams.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - TikTok Creative Video Packages SMM + SMA (3 MONTH)</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qianyi_Trading_Tiktok_DM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM + SMA (2 Months)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hatch_Digital_DM_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hatch_Digital_DM_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ QIAN YI is specialized in TikTok social media marketing service focuses on reach
 
 ## Vendor Information
 
- Company Name: QIANYI TRADING PTE. LTD.<br>Web URL: NA <br>Contact Hotline: 96196791 <br>Contact Email: RICKY@BENCHMARKINGMEDIA.COM <br>
+ Company Name: Hatch Digital Pte. Ltd.<br>Web URL: https://www.hatchdev.asia/ <br>Contact Hotline: 91041814 <br>Contact Email: hello@hatchdev.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
