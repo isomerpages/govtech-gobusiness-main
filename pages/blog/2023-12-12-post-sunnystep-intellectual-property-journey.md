@@ -36,7 +36,7 @@ Amid the hustle to get her business off the ground, Ting experienced an alarming
 
 Thankfully, she found out about the error in time and was able to declare her tax filing before it was too late. Looking back on the experience, Ting reflected that she could have been well-informed of the regulatory requirements involved with running a business.
 
-"We really could have benefited from more educational resources. If a one-stop government platform like [GoBusiness](https://www.gobusiness.gov.sg/) with consolidated resources had existed back then, I could have conveniently gotten a crash course on business admin and regulations."
+"We really could have benefited from more educational resources. If a one-stop government platform like [GoBusiness](https://www.gobusiness.gov.sg/){:target="_blank"}{:rel="noopener"} with consolidated resources had existed back then, I could have conveniently gotten a crash course on business admin and regulations."
 
 ### Putting themselves in the customer’s shoes
 
@@ -63,16 +63,16 @@ Despite her inexperience, Ting was well aware that Sunnystep’s competitive edg
 "Here in Singapore, the retail sector is very competitive. Apart from up-and-coming local footwear brands, there are many globally renowned brands coming into the Singapore market. So it is very important to secure your IP, especially for small businesses and start-ups."
 From their insoles and outsoles to the exterior design of their shoes,  these were all intellectual property that the Sunnystep team needed to safeguard with patents. However, as a first-time business owner, Ting had limited knowledge on the subject.
 
-While conducting research on IP protection in Singapore, the Sunnystep team chanced upon [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow), an online marketplace for intangible assets and intellectual property (IA/IP) services. The one-stop platform offers free tools and resources to support enterprises in leveraging IA/IP for business growth and success.  
+While conducting research on IP protection in Singapore, the Sunnystep team chanced upon [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow){:target="_blank"}{:rel="noopener"}, an online marketplace for intangible assets and intellectual property (IA/IP) services. The one-stop platform offers free tools and resources to support enterprises in leveraging IA/IP for business growth and success.  
 
 ![GoBusiness IP Grow service directories](/images/blog/content/sunnystep 3.png)
 <figcaption>GoBusiness IP Grow includes a comprehensive list of 20 IA/IP service directories to guide business owners on how to navigate, protect and commercialise their intellectual property</figcaption>
 
 "As a first-time business owner, I had zero working knowledge on how to run a business, and how to manage a team. When the subject of securing our patents came up, the resources on GoBusiness IP Grow were useful, because they introduced us to the overall landscape of how people navigate IP."
 
-Using the [GoBusiness e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about), Ting and her team could receive immediate and personalised advice on the different IP services they required, such as a patent agent to assist them with the process of filing patents for their designs.
+Using the [GoBusiness e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about){:target="_blank"}{:rel="noopener"}, Ting and her team could receive immediate and personalised advice on the different IP services they required, such as a patent agent to assist them with the process of filing patents for their designs.
 
-The [GoBusiness e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about) also recommended a list of IP service providers tailored to Sunnystep’s patent needs. The list included key information such as hourly rates, the experience level, the number of completed projects, and the firm’s expertise, enabling Ting’s team to efficiently compare and review their options. Through the "get in touch" form on GoBusiness IP Grow, Ting’s team could directly reach out to their preferred providers that best matched their budget and needs.
+The [GoBusiness e-Adviser for IP Service Provider](https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about){:target="_blank"}{:rel="noopener"} also recommended a list of IP service providers tailored to Sunnystep’s patent needs. The list included key information such as hourly rates, the experience level, the number of completed projects, and the firm’s expertise, enabling Ting’s team to efficiently compare and review their options. Through the "get in touch" form on GoBusiness IP Grow, Ting’s team could directly reach out to their preferred providers that best matched their budget and needs.
 
 "Having a comprehensive list of IP service providers, along with detailed information on the expertise of each firm, was very useful in helping our team make a quick decision," said Ting.
 
