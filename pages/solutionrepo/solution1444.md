@@ -1,15 +1,15 @@
 ---
-title: 'OOM_Ecommerce_Solution'
+title: 'AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution1444
 ---
 
-## OOM_Ecommerce_Solution
+## AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
+AutoXDR 360 is a comprehensive solution for advanced threat detection and response. Combining endpoint protection, network analytics, and deception technology to provide visibility and rapid response capabilities. Its AI-driven engine detects and stops both known and unknown threats in real-time. The built-in automated response mechanism takes immediate action to contain and remediate incidents. AutoXDR 360 offers organizations a holistic solution to defend against cyber threats efficiently
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,31 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Advance)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (21-50 endpoints)</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Value)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (51-75 endpoints)</td>
+<td style='padding: 10px;'>$25,900.00</td>
+<td style='padding: 10px;'>$25,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (76-100 endpoints)</td>
+<td style='padding: 10px;'>$30,900.00</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Gold)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (101-150 endpoints)</td>
+<td style='padding: 10px;'>$41,900.00</td>
+<td style='padding: 10px;'>$41,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +57,7 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 
 ## Vendor Information
 
- Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company Name: GKO Consultancy<br>Web URL: www.gkodigital.com <br>Contact Hotline: 88703371 <br>Contact Email: support@gko.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'SPTel-Fortinet-Managed Firewall Solutions'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1505
 ---
 
-## SPTel-Fortinet-Managed Firewall Solutions
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-SPTel's Managed Firewall solution offers the best in next generation firewall (NGFW) protection for SMEs. The Fortigate F-series firewall provides superior performance with a simple management interface. It uses the AI-powered FortiGuard security service to identify multiple threats and vulnerabilities for round-the-clock protection with threat intelligence. For added security, SPTel's network is monitored and supported by a 24 X 7 Integrated Network Operation Center located in Singapore.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$3,226.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$7,742.16</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,690.00</td>
+<td style='padding: 10px;'>$3,626.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 
 ## Vendor Information
 
- Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br>Contact Hotline: 69826888 <br>Contact Email: enquiry@sptel.com <br>
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

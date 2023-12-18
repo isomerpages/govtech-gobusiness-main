@@ -1,15 +1,15 @@
 ---
-title: 'AZ Digital POS solution'
+title: 'Carbonate HR Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution158
 ---
 
-## AZ Digital POS solution
+## Carbonate HR Version 1
 
 ## Overview
 
 **Description**
 
-AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations.
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME manage leave, schedule their employees with work timings, track attendance and pay staff quickly. Carbonate is an all in one solution to solve all your HR needs.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Basic)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 20</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'>$4,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Standard)</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 50</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (POSWORKS Standard)</td>
-<td style='padding: 10px;'>$3,800.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 100</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (VIVIPOS Premium)</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 150</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'>$21,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AZ Digital POS solution - Package (POSWORKS Premium Plus)</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$7,890.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_20210379_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Carbonate HR Version 1 - Power 200</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'>$26,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carbonate_HR_20210495_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sa
 
 ## Vendor Information
 
- Company Name: AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br><br>Contact Hotline: 67451147 <br><br>Contact Email: sales@azdigital.net <br><br>
+ Company Name: Carbonate Pte Ltd<br>Web URL: www.carbonateapp.com <br><br>Contact Hotline: 66791003 <br><br>Contact Email: info@carbonateapp.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'MuRho Inventory Management System'
+title: 'Vue Tech Ecommerce Website Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
-## MuRho Inventory Management System
+## Vue Tech Ecommerce Website Package
 
 ## Overview
 
 **Description**
 
-MuRho is a leading local provider of inventory management system since 2002 with more than 10,000 satisfied users here in Singapore. Our Store N Track, Sell N Track, Manufacture N Track & Connect N Track suite of cloud-based solutions are specifically designed for SMEs who wants to enhance the inventory tracking & sales order capabilities of their cloud-based accounting system. The combined solution offers the power of a mini-ERP system at a faction of the cost of a traditional ERP system.
+Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ MuRho is a leading local provider of inventory management system since 2002 with
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 1 (SaaS with hardware)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package 2 (SaaS with hardware and API connector)</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Premium)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Pack 3 (Perpetual License on cloud with hardware) </td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MuRho_Inventory_Management_System_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Basic)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Premium)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Duda Website</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'>$3,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: MuRho Pte Ltd <br>Web URL: www.murho.com.sg <br>Contact Hotline: 62893802 <br>Contact Email: sales@murho.com.sg <br>
+ Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

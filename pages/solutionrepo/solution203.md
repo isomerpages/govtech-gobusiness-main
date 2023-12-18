@@ -1,15 +1,15 @@
 ---
-title: 'DM C.O Enterprise Digital Marketing Packages'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution203
 ---
 
-## DM C.O Enterprise Digital Marketing Packages
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] With more than 8 years of experience, C.O Enterprise's 3 or 6 months Digital Marketing Packages help businesses gain mindshare, improve brand awareness and generate higher sales. All packages help clients with Facebook and Instagram marketing content generation, a 3-hour photoshoot, assessment of competitors, target audience and current state of digital presence and digital marketing strategy development including proposed brand positioning and campaign planning and development.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ permalink: /productivity-solutions-grant/solutionrepo/solution203
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMM Facebook + SMM Instagram) 3 months</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMM Facebook + SMM Instagram) 6 months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_CO_Enterprise_Enterprise_Digital_Marketing_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: C.O Enterprise Pte Ltd<br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,17 +1,15 @@
 ---
-title: 'DM Social Media Marketing (Brand Awareness & Lead Generation)'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution934
 ---
 
-## DM Social Media Marketing (Brand Awareness & Lead Generation)
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] WLP Digital Marketing package helps evaluate the company's core products/ services, competitiveness and propose effective brand positioning strategy to maximise brand competitive distinctiveness and brand value.
-
-It also comprises of active marketing campaigns that match several business targets & goals: from driving web traffic to maximising online sales and optimising lead conversions.
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
@@ -25,10 +23,10 @@ It also comprises of active marketing campaigns that match several business targ
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 SMM + SMA (2 Months)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,7 +36,7 @@ It also comprises of active marketing campaigns that match several business targ
 
 ## Vendor Information
 
- Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
+title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
 permalink: /productivity-solutions-grant/solutionrepo/solution1432
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 2.0
+## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80
 
 ## Overview
 
 **Description**
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
+BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
+
+BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,48 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 50</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 100</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> LITE 150</td>
+<td style='padding: 10px;'>$40,580.00</td>
+<td style='padding: 10px;'>$40,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 200</td>
+<td style='padding: 10px;'>$49,800.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 25</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_Singapore_HRM_System_Payroll_Outsourcing_Ver1_21_53_80_05102023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
+ Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

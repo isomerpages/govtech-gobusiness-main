@@ -1,30 +1,60 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'BridgED Version 4.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1013
 ---
 
-## Autonomous Mobile Robot
+## BridgED Version 4.0
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
+BridgED 4.0 is an end to end Pre-school management platform that digitalizes information and records, enhances the management of day to day activities and streamline communication between staff and parents.  BridgED has a wide range of modules that enables operators to run their centres efficiently and free up time to focus on growing their business.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>- Payload modules to lift trolleys Minimum  150kg load<br>- Min. load surface: 720x600mm<br>- 1-1.2m/s driving with spot turning<br>- Battery: Min. 4h, ~8h standby, ~4h charging<br>- Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>- Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
+<td style='padding: 10px;'>$3,440.00</td>
+<td style='padding: 10px;'>$3,440.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter </td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'>$6,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'>$8,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$10,100.00</td>
+<td style='padding: 10px;'>$9,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +62,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

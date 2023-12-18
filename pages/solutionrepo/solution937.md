@@ -1,16 +1,15 @@
 ---
-title: 'XERO CLOUD ACCOUNTING SOFTWARE'
+title: 'ASHOKATREE - Xero Cloud Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 
-## XERO CLOUD ACCOUNTING SOFTWARE
+## ASHOKATREE - Xero Cloud Accounting
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+Get ready for one of the best accounting solutions for small and medium size businesses (SME). Xero is one of the fastest-growing and popular cloud-based software solutions in the market. Thanks to its ease of use and versatility, Xero is packed with features and integrations that make it suitable for various businesses and sectors. SME currently exploring accounting solution may connect with Ashoka Tree Associates to learn more about Xero. Ashoka Tree Associates is a certified Xero advisor.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Basic Package</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'>$1,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'>$750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Premier Package</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'>$2,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Start-up Package</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'>$4,725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Booming Package</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'>$5,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Empower</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO CLOUD ACCOUNTING SOFTWARE - Ultimate Package</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'>$7,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/W.L.P_20220051_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Excellence</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ By adopting Xero, unlimited users can log onto the system to perform the account
 
 ## Vendor Information
 
- Company Name: W.L.P PTE LTD<br>Web URL: https://www.wlp.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company name:ASHOKA TREE ASSOCIATES PTE. LTD.<br>Web URL: www.ashokatree.com.sg <br>Contact Hotline: 69516732 <br>Contact Email: johnny@ashokatree.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

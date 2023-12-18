@@ -1,15 +1,15 @@
 ---
-title: 'OS Store E-Commerce'
+title: 'SINGTAX CORPORATE'
 permalink: /productivity-solutions-grant/solutionrepo/solution1415
 ---
 
-## OS Store E-Commerce
+## SINGTAX CORPORATE
 
 ## Overview
 
 **Description**
 
-OS Store is a web-based, e-commerce solution that enables SMEs to build a storefront from the ground up. The custom UI with smart features and plugins ensures seamless retail management and UX. It is designed to help businesses to go digital and deal with the most common challenges, such as cybersecurity, order fulfillment, customer segmentation and experience, traffic conversion, marketing, engagement and loyalty, competition, pricing, shipping, refund, point of sale and inventory management.
+Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Orfeostory_20210208_Desensitised_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'>$2,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ OS Store is a web-based, e-commerce solution that enables SMEs to build a storef
 
 ## Vendor Information
 
- Company name:Orfeostory Pte Ltd <br>Web URL: https://www.orfeostory.com/psg/<br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com
+ Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

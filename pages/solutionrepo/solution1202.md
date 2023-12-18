@@ -1,17 +1,15 @@
 ---
-title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
+title: 'A2000ERP SOLUTION Version 12.X'
 permalink: /productivity-solutions-grant/solutionrepo/solution1202
 ---
 
-## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
+## A2000ERP SOLUTION Version 12.X
 
 ## Overview
 
 **Description**
 
-Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
- 
-Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
+A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,38 @@ Wolfgang is a Facebook Official Marketing Partner, with an in-house local team o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP LITE System for 2 Users (Cloud Based-1yr SAAS) </td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP STANDARD System for 5 Users (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP System for 3 Users (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$15,560.00</td>
+<td style='padding: 10px;'>$15,546.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP MOBILE System for 5 Users, Mobile Suite for 5-Devices (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$26,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP WAREHOUSE System for 5 Users, Mobile Sales/Warehouse for 10 Devices (Cloud Based-1 Yr SAAS)</td>
+<td style='padding: 10px;'>$32,200.00</td>
+<td style='padding: 10px;'>$29,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000ERP_Solution_Ver12_X_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +64,7 @@ Wolfgang is a Facebook Official Marketing Partner, with an in-house local team o
 
 ## Vendor Information
 
- Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
+ Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Fleet Management Solutions'
+title: 'Ascent iSPOT Fleet Management System'
 permalink: /productivity-solutions-grant/solutionrepo/solution935
 ---
 
-## Fleet Management Solutions
+## Ascent iSPOT Fleet Management System
 
 ## Overview
 
 **Description**
 
-WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
+iSPOT Fleet Management System helps businesses maintain optimal use of their work vehicles from a central platform. It involves the use of a telematic unit such as a GPS Tracking device. iSPOT FMS allows businesses to collect data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. They will be able to track all their vehicles in real time, determine when they'll get to the destination, and how well the vehicles are handled by the drivers.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$2,310.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$360.00</td>
+<td style='padding: 10px;'>$360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
+<td style='padding: 10px;'>$570.00</td>
+<td style='padding: 10px;'>$570.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
+ Company name:Ascent Solutions Pte Ltd<br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

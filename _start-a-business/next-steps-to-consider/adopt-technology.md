@@ -6,19 +6,32 @@ third_nav_title: Next Steps to Consider
 
 ## Adopt technology
 
-### Start Digital Package
-
 ![Adopt technology](/images/start/StartSJ_StartSJ_AdoptTechnology.jpg)
+
+### Good record keeping practices
+
+Good [record keeping](https://www.iras.gov.sg/taxes/corporate-income-tax/basics-of-corporate-income-tax/record-keeping-requirements){:target="_blank"}{:rel="noopener"} is important to run a business. Companies that adopt good record keeping practices are able to:
+
+- Make better business decisions
+- Be aware of the financial status of the company (e.g. profit or loss position, whether there is internal fraud or theft)
+- Reduce the cost and effort required to file the Corporate Income Tax Returns, and to reply to IRAS’ queries (if any)
+
+You may use an [accounting software](https://www.iras.gov.sg/digital-collaboration/for-software-developers/accounting-tax-software/iras-accounting-software-register-plus/asr-plus-listing){:target="_blank"}{:rel="noopener"} in your business to facilitate record keeping and accurately capture the accounting information.
+
+### Start Digital Package
 
 If you have just started your business or are new to digital technology, you can now take up a [Start Digital Package](https://www.imda.gov.sg/programme-listing/smes-go-digital/Start-Digital){:target="_blank"}{:rel="noopener"} to give you a head start in going digital. You can benefit from starting with the right foundational digital tools by taking up any two solutions, at no cost for at least six months with a minimum 18-month contract period, from these categories: 
 
 - Accounting\*
-- HR management system & payroll
+- HR management system & payroll\*
 - Digital marketing
 - Digital transactions
 - Cybersecurity
 
-\*[Selected accounting software](https://www.iras.gov.sg/taxes/corporate-income-tax/form-c-s-form-c-s-(lite)-form-c-filing/using-accounting-software-to-prepare-file-form-c-s-seamlessly){:target="_blank"}{:rel="noopener"} can automatically prepare and file statutory returns (Income Tax Returns and Annual Returns) and XBRL financial statements (simplified XBRL) directly to IRAS and ACRA. This means that you can file independently to both agencies simply by using the software.
+\*Businesses and employers can use [selected accounting and/or payroll software](https://www.iras.gov.sg/digital-collaboration/for-businesses-employers){:target="_blank"}{:rel="noopener"} to file tax returns/information to IRAS directly with a few clicks of buttons:
+
+- Corporate Income Tax (CIT) Form C-S returns and/or Goods & Services Tax (GST) returns from accounting software; and
+- Auto-Inclusion Scheme (AIS) and/or Tax Clearance for Employees (IR21) from payroll software
 
 ### Productivity Solutions Grants
 

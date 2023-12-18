@@ -1,15 +1,16 @@
 ---
-title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
+title: 'INFO-TECH Cloud Accounting Software Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution348
 ---
 
-## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+## INFO-TECH Cloud Accounting Software Version 1.0
 
 ## Overview
 
 **Description**
 
-EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
+INFO-TECH Cloud Accounting Software, a well-designed and high-performance Accounting Software in Singapore. It is a complete accounting and invoicing platform that offers various functions to streamline the daily processes.
+Info-Tech Cloud Accounting Software also helps to save time especially with default and customizable templates to key in necessary information for record-keeping purposes.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +24,27 @@ EON was established in 1996 and specialises in providing human capital consultin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>INFO-TECH Cloud Accounting Software Version 1.0 - Premium</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/INFO_TECH_SYSTEM_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg <br>Contact Email: jek_wong@eon.com.sg <br>Contact Number: 6220 4008
+ Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

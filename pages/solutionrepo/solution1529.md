@@ -1,15 +1,15 @@
 ---
-title: 'EzyProcure Version 2.0'
+title: 'DM Semantic Client Acquisition Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1529
 ---
 
-## EzyProcure Version 2.0
+## DM Semantic Client Acquisition Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
+Semantic Client Acquisition helps local SMEs acquire clients predictably and at scale with 7 essential components - starting with in-depth competitor analysis and an irresistible marketing message for market differentiation. TRES offers video scripting/production and a finely tuned sales funnel to filter high-quality prospects from various ad platforms. Achieve the lowest cost per acquisition with unlimited ad copies and optimisation and propel sales to new heights with TRES' sales training.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-procurement system for Wholesalers/Suppliers</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_EzyProcure_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM (YouTube)  + SMM (Facebook) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.02</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	 Package 2 - SMM (YouTube)  + SMM (Facebook) [3 Months] + Sales Training (& Webinar Slides)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 
 ## Vendor Information
 
- Company Name :Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com <br>
+ Company Name: TRES Client Acquisition Pte Ltd<br>Web URL: https://tres.sg <br>Contact Hotline: +6596187419 <br>Contact Email: jiali@tres.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

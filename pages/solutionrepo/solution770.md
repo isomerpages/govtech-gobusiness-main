@@ -1,15 +1,16 @@
 ---
-title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
+title: 'ZETTAPPS Inventory & Order Processing'
 permalink: /productivity-solutions-grant/solutionrepo/solution770
 ---
 
-## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
+## ZETTAPPS Inventory & Order Processing
 
 ## Overview
 
 **Description**
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
+For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,31 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 30 Employees)</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'>$3,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - 60 Employees)</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'>$5,399.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (1 concurrent user - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'>$7,199.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (3 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'>$7,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3 - Package (5 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'>$8,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_HRMS_20210246_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +58,7 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 
 ## Vendor Information
 
- Company Name: Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
+ Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,36 +1,32 @@
 ---
-title: 'Probing System'
+title: 'iFoundries E-commerce Jump Start Package Version 4'
 permalink: /productivity-solutions-grant/solutionrepo/solution1025
 ---
 
-## Probing System
+## iFoundries E-commerce Jump Start Package Version 4
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
-Cost of equipment capped at $37,500 per unit 
+Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Equipment must meet the following specifications: <br><br>1. Work Piece & Tool Setting Probe:<br>- Approach Directions: +/-x, +/-y, -z<br>- Repeatability: <=1um 2sigma<br><br>2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts<br><br>3. Implementation: Probe and software configuration and training<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/iFoundries_Asia_Pacific_Ecommerce_Jump_Start_PKG_Ver4_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,6 +34,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

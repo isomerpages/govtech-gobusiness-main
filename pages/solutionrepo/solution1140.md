@@ -1,15 +1,15 @@
 ---
-title: 'NX CAD/CAM Software Version NX2212'
+title: 'Enable Consulting HRSS - Payroll Outsourcing'
 permalink: /productivity-solutions-grant/solutionrepo/solution1140
 ---
 
-## NX CAD/CAM Software Version NX2212
+## Enable Consulting HRSS - Payroll Outsourcing
 
 ## Overview
 
 **Description**
 
-NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provides a complete CAD/CAM focused on milling any geometry with up to 5 axes of simultaneous motion. All of the supporting functions for NC programming are provided, from translators to tool path visualization to postprocessing. Program CNC machine tools, control robotic cells, & monitor quality using one software system. Digitally transform part manufacturing business to gain productivity & increase profitability
+Enable Consulting is an HR consultancy agency providing firms with reliable HRMS and payroll solutions, bundled with outsourced HR services from qualified HR professionals. Businesses can get access to a pool of qualified HR consultants to help tackle HR challenges. From hiring to onboarding, Enable Consulting helps to improve all HR functions to drive better business results. Choose the right partner to navigate the ever-changing landscape of HR compliance and create a positive workplace.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provid
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAM-Only 3-Axis Machining(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Up to 30 employees</td>
+<td style='padding: 10px;'>$12,560.00</td>
+<td style='padding: 10px;'>$12,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Consulting_HRSS_Payroll_Outsourcing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation(Annual Locked License)</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Up to 50 employees</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Consulting_HRSS_Payroll_Outsourcing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Up to 100 employees</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Consulting_HRSS_Payroll_Outsourcing_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation with 5-Axis Add-On(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Up to 150 employees</td>
+<td style='padding: 10px;'>$38,800.00</td>
+<td style='padding: 10px;'>$38,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Consulting_HRSS_Payroll_Outsourcing_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Value-Based Tokens for NX CAD/CAM (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$44,809.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Up to 200 employees</td>
+<td style='padding: 10px;'>$42,400.00</td>
+<td style='padding: 10px;'>$42,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Consulting_HRSS_Payroll_Outsourcing_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:DreamTechnology System Pte. Ltd.<br>Web URL: https://dts-asia.com/ <br>Contact Hotline: 66357748 <br>Contact Email: sales.dts@dts-asia.com 
+ Company name:Enable Consulting Pte Ltd<br>Web URL: www.enablegroupasia.com <br>Contact Hotline: 68718801 <br>Contact Email: clientservices@enablegroupasia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

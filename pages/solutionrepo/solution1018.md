@@ -1,32 +1,74 @@
 ---
-title: 'Encrusting Machine'
+title: 'Autocount Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1018
 ---
 
-## Encrusting Machine
+## Autocount Accounting System
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
-
-Cost of equipment capped at $25,000 per unit 
+AutoCount Accounting is a fully integrated accounting and inventory management solution that meet today business requirements. Characterized by its easy-to-learn and integrated features, AutoCount Accounting helps to streamline business operation and address their accounting needs. The solution come with a secure and stable database for every type of business, promoting data-informed business decisions and improves overall business efficiency. It is also InvoiceNow ready.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>- Minimum capacity of 1,000 pieces per hour.<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
+<td style='padding: 10px;'>$4,140.00</td>
+<td style='padding: 10px;'>$3,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$5,340.00</td>
+<td style='padding: 10px;'>$5,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (3 Users)</td>
+<td style='padding: 10px;'>$6,840.00</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Users)</td>
+<td style='padding: 10px;'>$10,240.00</td>
+<td style='padding: 10px;'>$9,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
+<td style='padding: 10px;'>$13,240.00</td>
+<td style='padding: 10px;'>$12,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,200.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -34,6 +76,10 @@ Cost of equipment capped at $25,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

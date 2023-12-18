@@ -1,15 +1,15 @@
 ---
-title: 'EASPAC Enterprise Software Version 10.1.1'
+title: 'V3Nity-FMS Fleet Management System Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution704
 ---
 
-## EASPAC Enterprise Software Version 10.1.1
+## V3Nity-FMS Fleet Management System Version 3.0
 
 ## Overview
 
 **Description**
 
-EASPAC Enterprise Software for the past 20 years has established itself as a reliable software application provider. It specializes in the development of solutions that are reliable and versatile. Its user-friendly interface is designed for ease of using.  The modules which are integrated in the system encompassed both accounting and operational aspect of the business requirement. With the unique structured design, EASPAC Enterprise Software can be easily set up to cater to most industries.
+The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ EASPAC Enterprise Software for the past 20 years has established itself as a rel
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$23,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
-<td style='padding: 10px;'>$28,500.00</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'>$37,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'>$1,793.00</td>
+<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ EASPAC Enterprise Software for the past 20 years has established itself as a rel
 
 ## Vendor Information
 
- Company name:Prosperage Pte Ltd<br>Web URL: eas-software.com <br>Contact Hotline: 65633810 <br>Contact Email: sylvia@prosperage.com 
+ Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Creative eShop'
+title: 'BlueMeg Console Version NA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 
-## Creative eShop
+## BlueMeg Console Version NA
 
 ## Overview
 
 **Description**
 
-Creative EShop is for any business digitalisation who wants to reach out to their customers 24/7 locally and globally . We provide a user friendly eCommerce platform that gives your customers a seamless shopping experience with the marketing automation tools available. Our platform is pre-built ready with Business Intelligence (BI) Tool to help organizations to put the data collected to better use.
+The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Standard</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package Lite</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_EWorld_Creative_eShop_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Creative EShop is for any business digitalisation who wants to reach out to thei
 
 ## Vendor Information
 
- Company name:Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br>Contact Hotline: 63922857 <br>Contact Email: enquiry@creaworld.com.sg 
+ Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

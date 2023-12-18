@@ -1,32 +1,32 @@
 ---
-title: 'Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)'
+title: 'Automated Dough Filler/Depositor'
 permalink: /productivity-solutions-grant/solutionrepo/solution801
 ---
 
-## Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)
+## Automated Dough Filler/Depositor
 
 ## Overview
 
 **Description**
 
-Industry Engagement is an important mission of Singapore Polytechnic and we aim to position ourselves as an industry-relevant polytechnic. At the School of Business, Business Innovation Centre (BIC), we uplift enterprises' capabilities by enhancing productivity, innovation and building talent for the industry. We engage the industry by using our Pedagogical Model of Mindset, Skillset and Behavior and design thinking approach to help clients identify problem statement(s) then solutions.
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+
+Cost of equipment capped at $25,000 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/School_of_Business_BIC_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>1. Equipment offers 2 or more options for hoppers with different volumes<br><br>2. Equipment allows for variable dough weight to be output </td>
 </tr>
 </table>
 
@@ -34,10 +34,6 @@ Industry Engagement is an important mission of Singapore Polytechnic and we aim 
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name: School of Business, Business Innovation Centre (BIC) <br>Web URL: https://industry.sp.edu.sg/bic/ <br>Contact Name: Ng June Li <br>Contact Email: Ng_june_li@sp.edu.sg<br>Contact Number: 6870 4806 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

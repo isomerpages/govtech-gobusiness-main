@@ -1,71 +1,37 @@
 ---
-title: 'A-Class Corporate Governance & Document Management by Sleek'
+title: 'Laser Geometric Alignment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution814
 ---
 
-## A-Class Corporate Governance & Document Management by Sleek
+## Laser Geometric Alignment System
 
 ## Overview
 
 **Description**
 
-Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Equipment must consist of alignment capabilities for various measurement types and solving alignment problems.<br><br>2. Equipment includes alignment software and functions</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

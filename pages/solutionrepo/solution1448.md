@@ -1,15 +1,15 @@
 ---
-title: 'Vue Tech Ecommerce Website Package'
+title: 'Swingvy Version 1.233.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1448
 ---
 
-## Vue Tech Ecommerce Website Package
+## Swingvy Version 1.233.0
 
 ## Overview
 
 **Description**
 
-Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interface design and comprehensive product search feature. It incorporates SME's branding guidelines throughout the store, ensuring a unique and cohesive user experience. It integrates seamlessly with 20+ shipping methods and major payment gateways, including Stripe, PayPal, and PayNow. It includes setup for Google Search Console and Google Analytics to track the traffic and provide training for SMEs to maintain it.
+Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Premium)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Basic)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Premium)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Duda Website</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 
 ## Vendor Information
 
- Company name:VUE TECH PTE LTD<br>Web URL: https://vuetechsg.com/ecommerce-website-with-psg-grant-support/ <br>Contact Hotline: 87337266 <br>Contact Email: godigital@vuetechsg.com 
+ Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
+title: 'Fooyo Commerce Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1167
 ---
 
-## Taidii Smart Data Analytics for Centre Operations and Child Development
+## Fooyo Commerce Version 2.0
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,488.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
+<td style='padding: 10px;'>$9,588.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

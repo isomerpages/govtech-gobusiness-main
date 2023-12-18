@@ -1,15 +1,15 @@
 ---
-title: 'Web Imp Express E-Commerce Website Development Version v1'
+title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1549
 ---
 
-## Web Imp Express E-Commerce Website Development Version v1
+## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 concurrent user - 30 Employees)</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 concurrent user - 60 Employees)</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 concurrent user - Unlimited Employees)</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (3 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Solutions'
+title: 'Smartweb Version V3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1135
 ---
 
-## Xero Cloud Accounting Solutions
+## Smartweb Version V3
 
 ## Overview
 
 **Description**
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations, for each transformation solutions deployment, SCS provides transformation consultation, integration, recommendations, project management, implementation as well as onsite training and technical support.
+Drive higher sales, streamline operations, and provide a better customer experience through a data-driven approach to restaurant management and customer engagement; with fast, error-free ordering, quicker table turns and reduced reliance on staff. Address customer pain points by reducing wait time and eliminating errors on the orders whilst improving the overall dining experience through AI that personalise recommendations based on the spending habits and palette profile every dinner.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Going digital is not only about moving to cloud-based accounting software but al
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - System Only</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with Training, Installation and Configuration</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'>$6,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Lite</td>
-<td style='padding: 10px;'>$3,264.00</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering without Training, Installation and Configuration</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Basic</td>
-<td style='padding: 10px;'>$4,864.00</td>
-<td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 1 x Kiosk Ordering Solution Software License</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Standard</td>
-<td style='padding: 10px;'>$8,064.00</td>
-<td style='padding: 10px;'>$8,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Kiosk Ordering Solution Software License for 2 x Kiosk</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Cloud Accounting Solutions - Premium</td>
-<td style='padding: 10px;'>$10,464.00</td>
-<td style='padding: 10px;'>$10,407.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_Corporate_Services_Xero_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SmartWeb Mobile Ordering with 2 x Kiosk Ordering Software License</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$10,399.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TabSquare_Smartweb_VersionV3_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Going digital is not only about moving to cloud-based accounting software but al
 
 ## Vendor Information
 
- Company name:Singapore Corporate Services Pte. Ltd.<br>Web URL: https://scs-cpa.com/xero-psg-grant <br>Contact Hotline: 69141113 <br>Contact Email: enquiry@scs-cpa.com 
+ Company name:TabSquare Pte Ltd<br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

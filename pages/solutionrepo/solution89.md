@@ -1,15 +1,15 @@
 ---
-title: 'AirGo 360- Virtual Sites platform'
+title: 'Applivon - Odoo'
 permalink: /productivity-solutions-grant/solutionrepo/solution89
 ---
 
-## AirGo 360- Virtual Sites platform
+## Applivon - Odoo
 
 ## Overview
 
 **Description**
 
-Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360- street view" simply and quickly. Our platform has helped extend progress supervision, enable faster site documentation & progress claims, and provide evidence to reduce costly variation orders & disputes. In this pandemic, we help teams overcome communication gaps caused by restricted physical site access.
+Odoo is an integrated suite of business applications that have thousand of modules  and connectors available to cater for specific needs so that there's no more painful integration. A cloud-based and mobile enabled solution, it is designed for ease of use and scalability. It supports multi-company with automated inter-company transactions, multi-currency and multi-warehouse transfers for business operations.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Airsquire 360- Virtual Sites helps capture, visualize and share your site's "360
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=5,000sqm)</td>
-<td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App5</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'>$13,786.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=15,000sqm)</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App10</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'>$15,724.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=50,000sqm)</td>
-<td style='padding: 10px;'>$17,700.00</td>
-<td style='padding: 10px;'>$17,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App15</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'>$17,866.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=100,000sqm)</td>
-<td style='padding: 10px;'>$22,500.00</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Annual Project Subscription (GFA <=200,000sqm)</td>
-<td style='padding: 10px;'>$27,300.00</td>
-<td style='padding: 10px;'>$20,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Airsquire_20210213_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>App-Unlimited</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'>$20,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Applivon_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.airsquire.ai <br><br>Contact Hotline: 91190708 <br><br>Contact Email: hello@airsquire.ai <br><br>
+ Company Name: Applivon Pte Ltd<br>Web URL: https://applivon.com/odoo/ <br>Contact Hotline: 65898939 <br>Contact Email: team@applivon.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

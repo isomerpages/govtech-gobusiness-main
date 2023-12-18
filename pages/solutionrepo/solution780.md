@@ -1,75 +1,37 @@
 ---
-title: 'Royal Management Services XERO ACCOUNTING'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution780
 ---
 
-## Royal Management Services XERO ACCOUNTING
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
 
-We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
-
-The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
-<td style='padding: 10px;'>$728.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
-<td style='padding: 10px;'>$1,928.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'>$2,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
-<td style='padding: 10px;'>$3,528.00</td>
-<td style='padding: 10px;'>$3,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
-<td style='padding: 10px;'>$4,128.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>Payload modules to lift trolleys Minimum  150kg load<br>Min. load surface: 720x600mm<br>1-1.2m/s driving with spot turning<br>Battery: Min. 4h, ~8h standby, ~4h charging<br>Safety: Cover 360 degrees, obstacle detection/avoidance, safety bumper, emergency stop, PID controller<br>Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet<br></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,28 +1,15 @@
 ---
-title: 'Daisy XERO Accounting Software'
+title: 'iLOGON (iWMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1260
 ---
 
-## Daisy XERO Accounting Software
+## iLOGON (iWMS)
 
 ## Overview
 
 **Description**
 
-All-in-one online accounting software
-Run customer's business on Xero's fast, simple, powerful online accounting software.
-
-Everything in one place
-See the invoices, contacts and accounts online.
-
-Connect to the bank
-Easily sync bank and financial information.
-
-Collaborate in real time
-Invite customer's advisor in, and work together anywhere.
-
-Customise to suit customer's needs
-Xero can connect with other apps.
+KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
 
 ## Solution Packages Option(s)
 
@@ -36,38 +23,10 @@ Xero can connect with other apps.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription Only</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training</td>
-<td style='padding: 10px;'>$2,280.00</td>
-<td style='padding: 10px;'>$2,225.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Subscription + Implementation + Training + Migration</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$3,145.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Daisy_Consultants_Daisy_XERO_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$48,200.00</td>
-<td style='padding: 10px;'>$37,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
-<td style='padding: 10px;'>$69,200.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_iLOGON_iWMS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -77,7 +36,7 @@ Xero can connect with other apps.
 
 ## Vendor Information
 
- Company name:Daisy Consultants Pte Ltd<br>Web URL: www.daisy.sg <br>Contact Hotline: 92736613 <br>Contact Email: kate@daisy.sg
+ Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
