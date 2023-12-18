@@ -42,7 +42,7 @@ Thankfully, she found out about the error in time and was able to declare her ta
 
 Apart from administrative and regulatory challenges, Ting also embarked on a rigorous research and development (R&D) process. As a former data scientist, Ting took an analytic approach to the design process, working with a small factory in China to create prototypes on a small scale, and channelling her ideas, knowledge and customer insights in order to solve the problems she personally faced in orthotic health and comfort.
 
-![Sunnystep’s contemporary orthotic shoes](/images/blog/content/sunnystep 2.jpg)
+![Sunnystep’s contemporary orthotic shoes](/images/blog/content/sunnystep 2.jpeg)
 <figcaption>Sunnystep’s orthotic shoes feature contemporary designs (Image: Sunnystep)</figcaption>
 
 A major portion of Sunnystep’s profits were re-channelled into R&D and the result is a modern spin on orthotic shoes which incorporate traditional foot reflexology techniques into contemporary footwear. Designed to cater to Asian foot shapes, Sunnystep’s blister-free shoes are also flatter and wider, promoting proper posture and gait to prevent long-term foot, ankle, and hip problems.
