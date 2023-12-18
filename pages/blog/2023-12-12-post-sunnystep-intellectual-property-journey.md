@@ -64,7 +64,6 @@ Despite her inexperience, Ting was well aware that Sunnystep’s competitive edg
 From their insoles and outsoles to the exterior design of their shoes,  these were all intellectual property that the Sunnystep team needed to safeguard with patents. However, as a first-time business owner, Ting had limited knowledge on the subject.
 
 While conducting research on IP protection in Singapore, the Sunnystep team chanced upon [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow), an online marketplace for intangible assets and intellectual property (IA/IP) services. The one-stop platform offers free tools and resources to support enterprises in leveraging IA/IP for business growth and success.  
-GoBusiness IP Grow includes a comprehensive list of 20 IA/IP service directories to guide business owners on how to navigate, protect and commercialise their intellectual property
 
 ![GoBusiness IP Grow service directories](/images/blog/content/sunnystep 3.png)
 <figcaption>GoBusiness IP Grow includes a comprehensive list of 20 IA/IP service directories to guide business owners on how to navigate, protect and commercialise their intellectual property</figcaption>
