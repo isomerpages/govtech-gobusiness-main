@@ -53,7 +53,7 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
 <td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
+<td style='padding: 10px;'>$15,999.00</td> 
 <td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
