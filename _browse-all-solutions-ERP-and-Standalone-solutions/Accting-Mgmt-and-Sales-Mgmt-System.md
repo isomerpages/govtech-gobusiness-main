@@ -147,10 +147,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution699' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
-<td>USER BASIC SOFTWARE PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution700' target='_blank'>EZ Accounting and Inventory Software</a><br></td>
 <td>User Basic Software Pte Ltd</td>
 </tr>
 <tr>
