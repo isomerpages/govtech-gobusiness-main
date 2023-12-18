@@ -1,6 +1,6 @@
 ---
 title: 'FidCorp Xero Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/202008850Z-FdCorp-Xro-ACC-Softwr-G
 ---
 
 ## FidCorp Xero Accounting Software

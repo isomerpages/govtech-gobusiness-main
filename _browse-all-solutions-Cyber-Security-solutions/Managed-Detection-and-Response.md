@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TERRA SYSTEMS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-slns-G' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-SLNs-G' target='_blank'>Microsoft Cyber Security Solutions</a><br></td>
 <td>VGC TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
@@ -60,11 +60,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-Srvc-G' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-SVC-G' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360--Mult-Tnnt-Scurty-s--Srvc-SAAS-Intrnt-&-Mlwr-Pro-G' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360--Mult-Tnnt-Scurty-s--SVC-SAAS-IM-Protcton-wth-24-G' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
 <td>GKO Consultancy</td>
 </tr>
 <tr>

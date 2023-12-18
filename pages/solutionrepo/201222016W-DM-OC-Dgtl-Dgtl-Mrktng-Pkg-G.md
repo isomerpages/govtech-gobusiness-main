@@ -1,6 +1,6 @@
 ---
 title: 'DM OC Digital Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201222016W-DM-OC-Dgtl-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201222016W-DM-OC-Dgtl-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM OC Digital Digital Marketing Packages

@@ -1,6 +1,6 @@
 ---
 title: 'Athena E-Store Solution'
-permalink: /productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-sln-G
+permalink: /productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-SLN-G
 ---
 
 ## Athena E-Store Solution

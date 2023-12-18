@@ -1,6 +1,6 @@
 ---
 title: 'Xero Cloud Accounting Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-Acc-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/201130282N-Xro-Cloud-ACC-SLNs-G
 ---
 
 ## Xero Cloud Accounting Solutions

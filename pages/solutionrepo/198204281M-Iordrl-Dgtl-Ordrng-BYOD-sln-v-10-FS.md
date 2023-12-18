@@ -1,6 +1,6 @@
 ---
 title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
-permalink: /productivity-solutions-grant/solutionrepo/198204281M-Iordrl-Dgtl-Ordrng-BYOD-sln-v-10-FS
+permalink: /productivity-solutions-grant/solutionrepo/198204281M-Iordrl-Dgtl-Ordrng-BYOD-SLN-v-10-FS
 ---
 
 ## Iorderla Digital Ordering BYOD Solution Version 1.0

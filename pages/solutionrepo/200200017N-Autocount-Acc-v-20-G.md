@@ -1,6 +1,6 @@
 ---
 title: 'Autocount Accounting Version 2.0'
-permalink: /productivity-solutions-grant/solutionrepo/200200017N-Autocount-Acc-v-20-G
+permalink: /productivity-solutions-grant/solutionrepo/200200017N-Autocount-ACC-v-20-G
 ---
 
 ## Autocount Accounting Version 2.0

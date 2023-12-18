@@ -1,6 +1,6 @@
 ---
 title: 'EZ Accounting and Inventory Software'
-permalink: /productivity-solutions-grant/solutionrepo/200601747E-EZ-Acc-nd-Invntory-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/200601747E-EZ-ACC-nd-Invntory-Softwr-G
 ---
 
 ## EZ Accounting and Inventory Software

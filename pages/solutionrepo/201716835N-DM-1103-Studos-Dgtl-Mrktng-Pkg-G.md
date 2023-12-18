@@ -1,6 +1,6 @@
 ---
 title: 'DM 1103 Studios Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201716835N-DM-1103-Studos-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201716835N-DM-1103-Studos-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM 1103 Studios Digital Marketing Packages

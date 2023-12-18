@@ -1,6 +1,6 @@
 ---
 title: 'DM 2Stallions Complete Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201529110M-DM-2Stllons-Complt-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM 2Stallions Complete Digital Marketing Packages

@@ -1,6 +1,6 @@
 ---
 title: 'Beaufort-Xero Digital Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/200900564D-BufortXro-Dgtl-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/200900564D-BufortXro-Dgtl-SLNs-G
 ---
 
 ## Beaufort-Xero Digital Solutions

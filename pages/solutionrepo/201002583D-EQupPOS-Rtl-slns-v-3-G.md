@@ -1,6 +1,6 @@
 ---
 title: 'EQuipPOS Retail Solutions Version 3'
-permalink: /productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Rtl-slns-v-3-G
+permalink: /productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Rtl-SLNs-v-3-G
 ---
 
 ## EQuipPOS Retail Solutions Version 3

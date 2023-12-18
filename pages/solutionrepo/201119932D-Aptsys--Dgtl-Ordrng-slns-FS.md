@@ -1,6 +1,6 @@
 ---
 title: 'Aptsys - Digital Ordering Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/201119932D-Aptsys--Dgtl-Ordrng-slns-FS
+permalink: /productivity-solutions-grant/solutionrepo/201119932D-Aptsys--Dgtl-Ordrng-SLNs-FS
 ---
 
 ## Aptsys - Digital Ordering Solutions

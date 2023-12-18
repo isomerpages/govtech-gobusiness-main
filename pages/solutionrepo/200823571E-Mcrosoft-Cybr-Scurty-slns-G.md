@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Cyber Security Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/200823571E-Mcrosoft-Cybr-Scurty-SLNs-G
 ---
 
 ## Microsoft Cyber Security Solutions

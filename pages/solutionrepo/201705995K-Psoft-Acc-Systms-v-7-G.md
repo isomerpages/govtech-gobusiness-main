@@ -1,6 +1,6 @@
 ---
 title: 'Psoft Accounting Systems Version 7'
-permalink: /productivity-solutions-grant/solutionrepo/201705995K-Psoft-Acc-Systms-v-7-G
+permalink: /productivity-solutions-grant/solutionrepo/201705995K-Psoft-ACC-Systms-v-7-G
 ---
 
 ## Psoft Accounting Systems Version 7

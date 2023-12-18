@@ -1,6 +1,6 @@
 ---
 title: 'DM Guidesify Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/202012036D-DM-Gudsfy-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/202012036D-DM-Gudsfy-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Guidesify Digital Marketing Packages

@@ -1,6 +1,6 @@
 ---
 title: 'Harvest Accounting - Xero'
-permalink: /productivity-solutions-grant/solutionrepo/201828446N-Hrvst-Acc--Xro-G
+permalink: /productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC--Xro-G
 ---
 
 ## Harvest Accounting - Xero

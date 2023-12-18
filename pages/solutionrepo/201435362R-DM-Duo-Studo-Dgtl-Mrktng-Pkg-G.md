@@ -1,6 +1,6 @@
 ---
 title: 'DM Duo Studio Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201435362R-DM-Duo-Studo-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201435362R-DM-Duo-Studo-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Duo Studio Digital Marketing Packages

@@ -57,7 +57,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Roycemedia Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199201624D-SngtlFortnt-Unfd-Thrt-Mngmnt-v-1-G' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199201624D-SngtlFortnt-Unfd-Thrt-MGT-v-1-G' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
 <td>Singapore Telecommunications Limited</td>
 </tr>
 <tr>
@@ -65,15 +65,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-sln-G' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-SLN-G' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION--Fortnt-Mngd-Frwll-slns-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION--Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-slns-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202119271G-Csco-Mrk-Unfd-Thrt-Mngmnt-v-FS20230315-G' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202119271G-Csco-Mrk-Unfd-Thrt-MGT-v-FS20230315-G' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 </table>

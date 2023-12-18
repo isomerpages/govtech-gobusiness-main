@@ -1,6 +1,6 @@
 ---
 title: 'AutoCount Accounting'
-permalink: /productivity-solutions-grant/solutionrepo/201713604G-AutoCount-Acc-G
+permalink: /productivity-solutions-grant/solutionrepo/201713604G-AutoCount-ACC-G
 ---
 
 ## AutoCount Accounting

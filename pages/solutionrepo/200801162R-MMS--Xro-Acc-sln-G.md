@@ -1,6 +1,6 @@
 ---
 title: 'MMS - Xero Accounting Solution'
-permalink: /productivity-solutions-grant/solutionrepo/200801162R-MMS--Xro-Acc-sln-G
+permalink: /productivity-solutions-grant/solutionrepo/200801162R-MMS--Xro-ACC-SLN-G
 ---
 
 ## MMS - Xero Accounting Solution

@@ -1,6 +1,6 @@
 ---
 title: 'DM Identity Counsel Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/200715471C-DM-Idntty-Counsl-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Identity Counsel Digital Marketing Packages

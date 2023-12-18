@@ -1,6 +1,6 @@
 ---
 title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
-permalink: /productivity-solutions-grant/solutionrepo/201324793E-Wbo-Dgtl-Ordrng-sln-v-3290--FS
+permalink: /productivity-solutions-grant/solutionrepo/201324793E-Wbo-Dgtl-Ordrng-SLN-v-3290--FS
 ---
 
 ## Weebo Digital Ordering Solution Version 3.2.9.0

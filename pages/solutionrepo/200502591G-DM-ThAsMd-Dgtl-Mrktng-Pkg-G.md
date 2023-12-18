@@ -1,6 +1,6 @@
 ---
 title: 'DM TheAsiaMedia Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/200502591G-DM-ThAsMd-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/200502591G-DM-ThAsMd-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM TheAsiaMedia Digital Marketing Packages

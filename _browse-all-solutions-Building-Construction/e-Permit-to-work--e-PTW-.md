@@ -32,7 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201606906Z-Hubbl-Sfty-Mngmnt-Systm--Elctronc-Prmt-to-Work-PTW-nd-Sfty-I-BC' target='_blank'>Hubble Safety Management System - Electronic Permit to Work (ePTW) and Safety Inspection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606906Z-Hubbl-Sfty-MGT-Systm--Elctronc-Prmt-to-Work-PTW-nd-Sfty-Insp-BC' target='_blank'>Hubble Safety Management System - Electronic Permit to Work (ePTW) and Safety Inspection</a><br></td>
 <td>Hubble Pte Ltd</td>
 </tr>
 </table>

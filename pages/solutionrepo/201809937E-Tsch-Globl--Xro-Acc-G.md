@@ -1,6 +1,6 @@
 ---
 title: 'Tisch Global - Xero Accounting'
-permalink: /productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl--Xro-Acc-G
+permalink: /productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl--Xro-ACC-G
 ---
 
 ## Tisch Global - Xero Accounting

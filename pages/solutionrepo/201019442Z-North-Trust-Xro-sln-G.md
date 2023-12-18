@@ -1,6 +1,6 @@
 ---
 title: 'North Trust Xero Solution'
-permalink: /productivity-solutions-grant/solutionrepo/201019442Z-North-Trust-Xro-sln-G
+permalink: /productivity-solutions-grant/solutionrepo/201019442Z-North-Trust-Xro-SLN-G
 ---
 
 ## North Trust Xero Solution

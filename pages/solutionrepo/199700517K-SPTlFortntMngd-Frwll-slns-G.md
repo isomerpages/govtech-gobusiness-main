@@ -1,6 +1,6 @@
 ---
 title: 'SPTel-Fortinet-Managed Firewall Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G
 ---
 
 ## SPTel-Fortinet-Managed Firewall Solutions

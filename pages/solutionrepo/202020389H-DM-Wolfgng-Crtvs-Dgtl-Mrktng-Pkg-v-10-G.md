@@ -1,6 +1,6 @@
 ---
 title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
-permalink: /productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-Pkg-v-10-G
+permalink: /productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G
 ---
 
 ## DM Wolfgang Creatives Digital Marketing Packages Version 1.0

@@ -1,6 +1,6 @@
 ---
 title: 'DM Hashmeta Digital Enablement Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-Enblmnt-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201213801E-DM-Hshmt-Dgtl-Enblmnt-PKG-G
 ---
 
 ## DM Hashmeta Digital Enablement Packages

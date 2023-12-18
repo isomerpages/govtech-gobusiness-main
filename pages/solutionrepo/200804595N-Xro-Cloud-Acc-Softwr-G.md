@@ -1,6 +1,6 @@
 ---
 title: 'Xero Cloud Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/200804595N-Xro-Cloud-ACC-Softwr-G
 ---
 
 ## Xero Cloud Accounting Software

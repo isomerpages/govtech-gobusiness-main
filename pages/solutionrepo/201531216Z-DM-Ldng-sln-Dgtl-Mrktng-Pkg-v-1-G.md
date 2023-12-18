@@ -1,6 +1,6 @@
 ---
 title: 'DM Leading Solution Digital Marketing Packages Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-sln-Dgtl-Mrktng-Pkg-v-1-G
+permalink: /productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G
 ---
 
 ## DM Leading Solution Digital Marketing Packages Version 1

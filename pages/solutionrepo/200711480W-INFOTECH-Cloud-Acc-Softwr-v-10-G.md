@@ -1,6 +1,6 @@
 ---
 title: 'INFO-TECH Cloud Accounting Software Version 1.0'
-permalink: /productivity-solutions-grant/solutionrepo/200711480W-INFOTECH-Cloud-Acc-Softwr-v-10-G
+permalink: /productivity-solutions-grant/solutionrepo/200711480W-INFOTECH-Cloud-ACC-Softwr-v-10-G
 ---
 
 ## INFO-TECH Cloud Accounting Software Version 1.0

@@ -1,6 +1,6 @@
 ---
 title: 'DM Outrankco Digital Marketing Packages Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-Pkg-v-1-G
+permalink: /productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G
 ---
 
 ## DM Outrankco Digital Marketing Packages Version 1

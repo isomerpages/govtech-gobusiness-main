@@ -1,6 +1,6 @@
 ---
 title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
-permalink: /productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-sln-for-F&B-v-20-FS
+permalink: /productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-v-20-FS
 ---
 
 ## EPOS Integrated Digital Solution for F&B Version 2.0

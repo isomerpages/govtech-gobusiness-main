@@ -1,6 +1,6 @@
 ---
 title: 'OOM_Ecommerce_Solution'
-permalink: /productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_sln-G
+permalink: /productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_SLN-G
 ---
 
 ## OOM_Ecommerce_Solution

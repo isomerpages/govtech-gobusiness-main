@@ -1,6 +1,6 @@
 ---
 title: 'DM APEC Solutions Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-slns-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNs-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM APEC Solutions Digital Marketing Packages

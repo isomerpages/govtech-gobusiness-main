@@ -1,6 +1,6 @@
 ---
 title: 'DM WECOFA Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM WECOFA Digital Marketing Packages

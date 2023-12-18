@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-slns-G' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-SLNs-G' target='_blank'>Digital Retail Ecommerce Solutions</a><br></td>
 <td>ACCSS Digital Pte Ltd</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-sln-by-I-Concpt-v-20-G' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-SLN-by-I-Concpt-v-20-G' target='_blank'>Advanced Ecommerce Solution by I Concept Version 2.0</a><br></td>
 <td>I Concept Innovation Pte Ltd</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-slns-G' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-SLNs-G' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
 <td>Verz Design Pte Ltd</td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Efusion Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_sln-G' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_SLN-G' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
 <td>OOm Pte Ltd</td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>DST Advertising (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-sln-G' target='_blank'>Athena E-Store Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-Athn-EStor-SLN-G' target='_blank'>Athena E-Store Solution</a><br></td>
 <td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Orfeostory Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-sln-G' target='_blank'>Lemonade eCommerce Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-SLN-G' target='_blank'>Lemonade eCommerce Solution</a><br></td>
 <td>Lemonade IT Solutions Pte Ltd</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: 'DM Business Thrust Digital Marketing Packages Version DM01'
-permalink: /productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-Pkg-v-DM01-G
+permalink: /productivity-solutions-grant/solutionrepo/201410722E-DM-Busnss-Thrust-Dgtl-Mrktng-PKG-v-DM01-G
 ---
 
 ## DM Business Thrust Digital Marketing Packages Version DM01

@@ -1,6 +1,6 @@
 ---
 title: 'Lemonade eCommerce Solution'
-permalink: /productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-sln-G
+permalink: /productivity-solutions-grant/solutionrepo/201210099C-Lmond-Commrc-SLN-G
 ---
 
 ## Lemonade eCommerce Solution

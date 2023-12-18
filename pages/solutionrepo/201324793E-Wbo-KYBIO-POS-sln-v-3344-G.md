@@ -1,6 +1,6 @@
 ---
 title: 'Weebo KYBIO POS Solution Version 3.3.4.4'
-permalink: /productivity-solutions-grant/solutionrepo/201324793E-Wbo-KYBIO-POS-sln-v-3344-G
+permalink: /productivity-solutions-grant/solutionrepo/201324793E-Wbo-KYBIO-POS-SLN-v-3344-G
 ---
 
 ## Weebo KYBIO POS Solution Version 3.3.4.4

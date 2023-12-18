@@ -1,6 +1,6 @@
 ---
 title: 'Intuit Quickbooks Online Full Transformation Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201539815G-Intut-Quckbooks-Onln-Full-Trnsformton-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201539815G-Intut-Quckbooks-Onln-Full-Trnsformton-PKG-G
 ---
 
 ## Intuit Quickbooks Online Full Transformation Packages

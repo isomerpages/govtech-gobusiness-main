@@ -1,6 +1,6 @@
 ---
 title: 'DM Creative E-World Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Creative E-World Digital Marketing Packages

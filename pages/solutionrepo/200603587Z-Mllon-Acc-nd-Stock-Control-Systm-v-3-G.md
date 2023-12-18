@@ -1,6 +1,6 @@
 ---
 title: 'Million Accounting and Stock Control System Version 3'
-permalink: /productivity-solutions-grant/solutionrepo/200603587Z-Mllon-Acc-nd-Stock-Control-Systm-v-3-G
+permalink: /productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G
 ---
 
 ## Million Accounting and Stock Control System Version 3

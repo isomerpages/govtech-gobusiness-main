@@ -1,6 +1,6 @@
 ---
 title: 'Xero Accounting System'
-permalink: /productivity-solutions-grant/solutionrepo/201300570R-Xro-Acc-Systm-G
+permalink: /productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G
 ---
 
 ## Xero Accounting System

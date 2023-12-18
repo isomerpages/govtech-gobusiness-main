@@ -28,7 +28,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-Tssrct-Prctc-Mngmnt-sln-G' target='_blank'>Tessaract Practice Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201815955C-Tssrct-Prctc-MGT-SLN-G' target='_blank'>Tessaract Practice Management Solution</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Bizibody Technology Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200001394R-CLIO-pkgd-wth-LTP-G' target='_blank'>CLIO (packaged with LTP)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200001394R-CLIO-PKGd-wth-LTP-G' target='_blank'>CLIO (packaged with LTP)</a><br></td>
 <td>Bizibody Technology Pte Ltd</td>
 </tr>
 </table>

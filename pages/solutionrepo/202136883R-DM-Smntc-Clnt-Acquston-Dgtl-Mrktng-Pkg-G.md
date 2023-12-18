@@ -1,6 +1,6 @@
 ---
 title: 'DM Semantic Client Acquisition Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/202136883R-DM-Smntc-Clnt-Acquston-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/202136883R-DM-Smntc-Clnt-Acquston-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Semantic Client Acquisition Digital Marketing Packages

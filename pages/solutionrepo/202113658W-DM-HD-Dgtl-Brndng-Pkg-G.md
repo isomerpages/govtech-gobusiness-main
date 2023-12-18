@@ -1,6 +1,6 @@
 ---
 title: 'DM HD Digital Branding Packages'
-permalink: /productivity-solutions-grant/solutionrepo/202113658W-DM-HD-Dgtl-Brndng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/202113658W-DM-HD-Dgtl-Brndng-PKG-G
 ---
 
 ## DM HD Digital Branding Packages

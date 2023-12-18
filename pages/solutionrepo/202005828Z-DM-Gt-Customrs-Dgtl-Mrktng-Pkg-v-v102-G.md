@@ -1,6 +1,6 @@
 ---
 title: 'DM Get Customers Digital Marketing Packages Version v1.02'
-permalink: /productivity-solutions-grant/solutionrepo/202005828Z-DM-Gt-Customrs-Dgtl-Mrktng-Pkg-v-v102-G
+permalink: /productivity-solutions-grant/solutionrepo/202005828Z-DM-Gt-Customrs-Dgtl-Mrktng-PKG-v-v102-G
 ---
 
 ## DM Get Customers Digital Marketing Packages Version v1.02

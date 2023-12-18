@@ -1,6 +1,6 @@
 ---
 title: 'DM GSK Group Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/197903957E-DM-GSK-Group-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/197903957E-DM-GSK-Group-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM GSK Group Digital Marketing Packages

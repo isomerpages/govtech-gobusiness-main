@@ -1,6 +1,6 @@
 ---
 title: 'DM SBC Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201941618M-DM-SBC-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM SBC Digital Marketing Packages

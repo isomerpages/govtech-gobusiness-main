@@ -1,6 +1,6 @@
 ---
 title: 'DM Orfeostory Digital Marketing Packages Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/201135968W-DM-Orfostory-Dgtl-Mrktng-Pkg-v-1-G
+permalink: /productivity-solutions-grant/solutionrepo/201135968W-DM-Orfostory-Dgtl-Mrktng-PKG-v-1-G
 ---
 
 ## DM Orfeostory Digital Marketing Packages Version 1

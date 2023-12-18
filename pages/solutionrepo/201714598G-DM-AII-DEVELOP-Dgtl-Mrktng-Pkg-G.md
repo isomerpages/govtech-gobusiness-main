@@ -1,6 +1,6 @@
 ---
 title: 'DM AII DEVELOP Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201714598G-DM-AII-DEVELOP-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201714598G-DM-AII-DEVELOP-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM AII DEVELOP Digital Marketing Packages

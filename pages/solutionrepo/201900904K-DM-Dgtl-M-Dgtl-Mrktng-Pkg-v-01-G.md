@@ -1,6 +1,6 @@
 ---
 title: 'DM Digital M Digital Marketing Packages Version 0.1'
-permalink: /productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-Pkg-v-01-G
+permalink: /productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G
 ---
 
 ## DM Digital M Digital Marketing Packages Version 0.1

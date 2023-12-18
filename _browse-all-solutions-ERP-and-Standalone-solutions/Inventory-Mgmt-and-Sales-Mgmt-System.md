@@ -38,11 +38,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Applivon Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-Mngmnt-&-Sls-Mngmnt-Systm-G' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-&-Sls-MGT-Systm-G' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200910491M-Xntsys-Sls-nd-Invntory-Mngmnt-sln-G' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200910491M-Xntsys-Sls-nd-Invntory-MGT-SLN-G' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>

@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-Iordrl-Dgtl-Ordrng-BYOD-sln-v-10-FS' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198204281M-Iordrl-Dgtl-Ordrng-BYOD-SLN-v-10-FS' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
 <td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Sapaad Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201324793E-Wbo-Dgtl-Ordrng-sln-v-3290--FS' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0 </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201324793E-Wbo-Dgtl-Ordrng-SLN-v-3290--FS' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0 </a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
 <tr>
@@ -60,11 +60,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Coobiz IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVENPOS-DIGITAL-ORDERING-SOLUTION-v-12-FS' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVENPOS-DIGITAL-ORDERING-SLN-v-12-FS' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-F&B-slns-v-50-FS' target='_blank'>F&B Solutions Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-F&B-SLNs-v-50-FS' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
@@ -76,15 +76,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Wecome Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Brng-Your-Own-Dvc-BYOD-sln-v-50-FS' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Brng-Your-Own-Dvc-BYOD-SLN-v-50-FS' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br></td>
 <td>AppsPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-sln-v-2-FS' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-2-FS' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys--Dgtl-Ordrng-slns-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys--Dgtl-Ordrng-SLNs-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
 <td>Aptsys Technology Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-sln-for-F&B-v-20-FS' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Intgrtd-Dgtl-SLN-for-F&B-v-20-FS' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-ORDERING-SOLUTION-v-10-FS' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-DIGITAL-ORDERING-SLN-v-10-FS' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
 <tr>

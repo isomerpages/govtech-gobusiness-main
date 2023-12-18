@@ -1,6 +1,6 @@
 ---
 title: 'DM Rogue Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Rogue Digital Marketing Packages

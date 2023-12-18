@@ -1,6 +1,6 @@
 ---
 title: 'AutoCount Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/201020197E-AutoCount-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/201020197E-AutoCount-ACC-Softwr-G
 ---
 
 ## AutoCount Accounting Software

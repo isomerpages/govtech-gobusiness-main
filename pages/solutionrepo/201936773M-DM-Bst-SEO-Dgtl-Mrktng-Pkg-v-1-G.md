@@ -1,6 +1,6 @@
 ---
 title: 'DM Best SEO Digital Marketing Packages Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/201936773M-DM-Bst-SEO-Dgtl-Mrktng-Pkg-v-1-G
+permalink: /productivity-solutions-grant/solutionrepo/201936773M-DM-Bst-SEO-Dgtl-Mrktng-PKG-v-1-G
 ---
 
 ## DM Best SEO Digital Marketing Packages Version 1

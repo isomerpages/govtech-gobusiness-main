@@ -1,6 +1,6 @@
 ---
 title: 'DM Supermom Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201202877E-DM-Suprmom-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201202877E-DM-Suprmom-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Supermom Digital Marketing Packages

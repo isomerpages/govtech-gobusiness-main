@@ -1,6 +1,6 @@
 ---
 title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
-permalink: /productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-sln-by-I-Concpt-v-20-G
+permalink: /productivity-solutions-grant/solutionrepo/201215396N-Advncd-Ecommrc-SLN-by-I-Concpt-v-20-G
 ---
 
 ## Advanced Ecommerce Solution by I Concept Version 2.0

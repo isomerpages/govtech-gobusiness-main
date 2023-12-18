@@ -1,6 +1,6 @@
 ---
 title: 'CLIO (packaged with LTP)'
-permalink: /productivity-solutions-grant/solutionrepo/200001394R-CLIO-pkgd-wth-LTP-G
+permalink: /productivity-solutions-grant/solutionrepo/200001394R-CLIO-PKGd-wth-LTP-G
 ---
 
 ## CLIO (packaged with LTP)

@@ -1,6 +1,6 @@
 ---
 title: 'Getz F&B Omni Channel Solution Version 2'
-permalink: /productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-sln-v-2-FS
+permalink: /productivity-solutions-grant/solutionrepo/201510017H-Gtz-F&B-Omn-Chnnl-SLN-v-2-FS
 ---
 
 ## Getz F&B Omni Channel Solution Version 2

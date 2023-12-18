@@ -1,6 +1,6 @@
 ---
 title: 'Everyday Corporate Xero Cloud Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-ACC-Softwr-G
 ---
 
 ## Everyday Corporate Xero Cloud Accounting Software

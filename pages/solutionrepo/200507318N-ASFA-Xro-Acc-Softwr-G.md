@@ -1,6 +1,6 @@
 ---
 title: 'ASFA Xero Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/200507318N-ASFA-Xro-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/200507318N-ASFA-Xro-ACC-Softwr-G
 ---
 
 ## ASFA Xero Accounting Software

@@ -1,6 +1,6 @@
 ---
 title: 'DM Injob Creative Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201940665G-DM-Injob-Crtv-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201940665G-DM-Injob-Crtv-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Injob Creative Digital Marketing Packages

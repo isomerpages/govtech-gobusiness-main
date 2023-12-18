@@ -1,6 +1,6 @@
 ---
 title: 'Quickbooks Online Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/201821187W-Quckbooks-Onln-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/201821187W-Quckbooks-Onln-ACC-Softwr-G
 ---
 
 ## Quickbooks Online Accounting Software

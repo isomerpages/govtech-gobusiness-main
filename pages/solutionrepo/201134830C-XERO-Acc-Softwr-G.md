@@ -1,6 +1,6 @@
 ---
 title: 'XERO Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/201134830C-XERO-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/201134830C-XERO-ACC-Softwr-G
 ---
 
 ## XERO Accounting Software

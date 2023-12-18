@@ -1,6 +1,6 @@
 ---
 title: 'AGERE - Xero Cloud Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/201529234R-AGERE--Xro-Cloud-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/201529234R-AGERE--Xro-Cloud-ACC-Softwr-G
 ---
 
 ## AGERE - Xero Cloud Accounting Software

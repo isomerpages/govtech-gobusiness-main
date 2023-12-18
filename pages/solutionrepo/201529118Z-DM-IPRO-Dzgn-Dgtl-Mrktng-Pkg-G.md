@@ -1,6 +1,6 @@
 ---
 title: 'DM IPRO Dezign Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM IPRO Dezign Digital Marketing Packages

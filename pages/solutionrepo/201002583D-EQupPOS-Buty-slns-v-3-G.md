@@ -1,6 +1,6 @@
 ---
 title: 'EQuipPOS Beauty Solutions Version 3'
-permalink: /productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-slns-v-3-G
+permalink: /productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-SLNs-v-3-G
 ---
 
 ## EQuipPOS Beauty Solutions Version 3

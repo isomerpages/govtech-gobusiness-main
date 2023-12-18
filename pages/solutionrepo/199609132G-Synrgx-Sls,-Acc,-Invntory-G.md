@@ -1,6 +1,6 @@
 ---
 title: 'Synergix Sales, Accounting, Inventory'
-permalink: /productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-Acc,-Invntory-G
+permalink: /productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G
 ---
 
 ## Synergix Sales, Accounting, Inventory

@@ -1,6 +1,6 @@
 ---
 title: 'DM Roots Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201610836D-DM-Roots-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201610836D-DM-Roots-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Roots Digital Marketing Packages

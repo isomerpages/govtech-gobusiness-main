@@ -1,6 +1,6 @@
 ---
 title: 'DM Inbox Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201933089Z-DM-Inbox-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201933089Z-DM-Inbox-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Inbox Digital Marketing Packages

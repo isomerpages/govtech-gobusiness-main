@@ -1,6 +1,6 @@
 ---
 title: 'Digital Retail Ecommerce Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/202106150H-Dgtl-Rtl-Ecommrc-SLNs-G
 ---
 
 ## Digital Retail Ecommerce Solutions

@@ -1,6 +1,6 @@
 ---
 title: 'Verz Design Magento, WooCommerce & Shopify Solutions'
-permalink: /productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-slns-G
+permalink: /productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-SLNs-G
 ---
 
 ## Verz Design Magento, WooCommerce & Shopify Solutions

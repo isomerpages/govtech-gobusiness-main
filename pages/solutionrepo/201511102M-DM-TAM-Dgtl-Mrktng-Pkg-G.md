@@ -1,6 +1,6 @@
 ---
 title: 'DM TAM Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201511102M-DM-TAM-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201511102M-DM-TAM-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM TAM Digital Marketing Packages

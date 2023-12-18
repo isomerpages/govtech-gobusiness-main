@@ -1,6 +1,6 @@
 ---
 title: 'Madsoft Solutions GST API Version 320'
-permalink: /productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-slns-GST-API-v-320-G
+permalink: /productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G
 ---
 
 ## Madsoft Solutions GST API Version 320

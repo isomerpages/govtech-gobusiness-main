@@ -1,6 +1,6 @@
 ---
 title: 'DM PIXEL MECHANICS Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201840067W-DM-PIXEL-MECHANICS-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM PIXEL MECHANICS Digital Marketing Packages

@@ -1,6 +1,6 @@
 ---
 title: 'DM Bizsquare Digital Marketing Suite Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G
 ---
 
 ## DM Bizsquare Digital Marketing Suite Packages

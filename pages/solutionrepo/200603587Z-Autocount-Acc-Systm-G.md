@@ -1,6 +1,6 @@
 ---
 title: 'Autocount Accounting System'
-permalink: /productivity-solutions-grant/solutionrepo/200603587Z-Autocount-Acc-Systm-G
+permalink: /productivity-solutions-grant/solutionrepo/200603587Z-Autocount-ACC-Systm-G
 ---
 
 ## Autocount Accounting System

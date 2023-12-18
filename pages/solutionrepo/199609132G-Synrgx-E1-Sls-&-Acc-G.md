@@ -1,6 +1,6 @@
 ---
 title: 'Synergix E1 Sales & Accounting'
-permalink: /productivity-solutions-grant/solutionrepo/199609132G-Synrgx-E1-Sls-&-Acc-G
+permalink: /productivity-solutions-grant/solutionrepo/199609132G-Synrgx-E1-Sls-&-ACC-G
 ---
 
 ## Synergix E1 Sales & Accounting

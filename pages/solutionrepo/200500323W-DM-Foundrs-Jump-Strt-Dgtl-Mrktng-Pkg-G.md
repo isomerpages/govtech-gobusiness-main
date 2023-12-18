@@ -1,6 +1,6 @@
 ---
 title: 'DM iFoundries Jump Start Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/200500323W-DM-Foundrs-Jump-Strt-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/200500323W-DM-Foundrs-Jump-Strt-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM iFoundries Jump Start Digital Marketing Packages

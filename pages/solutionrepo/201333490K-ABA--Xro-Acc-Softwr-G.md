@@ -1,6 +1,6 @@
 ---
 title: 'ABA - Xero Accounting Software'
-permalink: /productivity-solutions-grant/solutionrepo/201333490K-ABA--Xro-Acc-Softwr-G
+permalink: /productivity-solutions-grant/solutionrepo/201333490K-ABA--Xro-ACC-Softwr-G
 ---
 
 ## ABA - Xero Accounting Software

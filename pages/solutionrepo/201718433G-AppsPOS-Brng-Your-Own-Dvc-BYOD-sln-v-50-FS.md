@@ -1,6 +1,6 @@
 ---
 title: 'AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0'
-permalink: /productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Brng-Your-Own-Dvc-BYOD-sln-v-50-FS
+permalink: /productivity-solutions-grant/solutionrepo/201718433G-AppsPOS-Brng-Your-Own-Dvc-BYOD-SLN-v-50-FS
 ---
 
 ## AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0

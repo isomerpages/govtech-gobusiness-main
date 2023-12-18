@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-Acc-v-20-G' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-ACC-v-20-G' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Integrated Information Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-slns-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Netiquette Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-Acc-Mngmnt-Systm-SAM-G' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-G' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
 <td>OCi System Pte Ltd</td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-Acc,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Axxis Consulting (S) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-SOLUTION-v-12X-G' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-SLN-v-12X-G' target='_blank'>A2000ERP SOLUTION Version 12.X</a><br></td>
 <td>A2000 Solutions Pte Ltd</td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SEG IT Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-Acc-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>

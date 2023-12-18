@@ -1,6 +1,6 @@
 ---
 title: 'DM Craft Creative Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201920974R-DM-Crft-Crtv-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Craft Creative Digital Marketing Packages

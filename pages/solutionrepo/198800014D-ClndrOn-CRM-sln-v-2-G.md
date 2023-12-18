@@ -1,6 +1,6 @@
 ---
 title: 'CalendarOne CRM Solution Version 2'
-permalink: /productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-sln-v-2-G
+permalink: /productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-2-G
 ---
 
 ## CalendarOne CRM Solution Version 2

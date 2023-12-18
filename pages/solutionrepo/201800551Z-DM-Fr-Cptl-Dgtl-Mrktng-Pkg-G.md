@@ -1,6 +1,6 @@
 ---
 title: 'DM Fier Capital Digital Marketing Packages'
-permalink: /productivity-solutions-grant/solutionrepo/201800551Z-DM-Fr-Cptl-Dgtl-Mrktng-Pkg-G
+permalink: /productivity-solutions-grant/solutionrepo/201800551Z-DM-Fr-Cptl-Dgtl-Mrktng-PKG-G
 ---
 
 ## DM Fier Capital Digital Marketing Packages
