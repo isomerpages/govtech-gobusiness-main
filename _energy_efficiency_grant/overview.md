@@ -37,8 +37,6 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 The following equipment categories are supported under the EEG:
 
-- [Name of Solution](/energy-efficiency-grant/solutionrepo/Name-of-Solution)
-
 - [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
 - [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
