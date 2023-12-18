@@ -37,17 +37,35 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 The following equipment categories are supported under the EEG:
 
-- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
-
-- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
-
-- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
-
-- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+- [Name of Solution](/energy-efficiency-grant/solutionrepo/Name-of-Solution)
 
 - [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
 
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
 - [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
+
+- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
+
+- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
+
+- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
+
+- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
+
+- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
 
 ----
 
