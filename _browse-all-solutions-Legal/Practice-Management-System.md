@@ -32,11 +32,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1522' target='_blank'>CLIO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1510' target='_blank'>CLIO</a><br></td>
 <td>Bizibody Technology Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1527' target='_blank'>CLIO (packaged with LTP)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1515' target='_blank'>CLIO (packaged with LTP)</a><br></td>
 <td>Bizibody Technology Pte Ltd</td>
 </tr>
 </table>

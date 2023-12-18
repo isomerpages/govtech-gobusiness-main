@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
+title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1627
 ---
 
-## Job Redesign Consultancy - BDO Consultants Pte Ltd
+## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
+WTW is one of the world's largest human resources advisory firms. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others.  From a sectoral expertise perspective, we advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc. 
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ BDO Management Consulting Services is dedicated to the constant improvement and 
 
 ## Vendor Information
 
- Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617<br>Contact Email: chriskuang@bdo.com.sg
+ Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.<br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers<br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
