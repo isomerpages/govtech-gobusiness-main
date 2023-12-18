@@ -81,3 +81,4 @@ As the brand enters its fourth year in the business and continues to expand its 
 
 Ting emphasised the importance for entrepreneurs to maximise the resources available to them to support their business growth. "Many business owners that have just started out might not even think about IP at all until it’s too late to protect their ideas from other competitors in the market. It may seem costly at first, but there are many resources out there to help start-ups, and securing your IP is definitely a worthwhile investment into ensuring the longevity of your business," shared Ting.
 
+This article is accurate as at 18 Dec 2023
