@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201313892N-Enbl-CST-HRSS--Pyroll-Outsourcng-G' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201313892N-Enbl-CST-HRSS-Pyroll-Outsourcng-G' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
 <td>Enable Consulting Pte Ltd</td>
 </tr>
 <tr>

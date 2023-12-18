@@ -56,7 +56,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Brstl-Blstr--Cup-Brush--Powr-Brush-Eng-Srvcs' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Brstl-Blstr-Cup-Brush-Powr-Brush-Eng-Srvcs' target='_blank'>Bristle Blaster / Cup Brush / Power Brush</a><br></td>
 <td></td>
 </tr>
 <tr>

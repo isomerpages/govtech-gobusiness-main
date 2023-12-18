@@ -42,15 +42,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>361 Degree Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA--Quckbooks-Onln-G' target='_blank'>ABA - Quickbooks Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-Quckbooks-Onln-G' target='_blank'>ABA - Quickbooks Online</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA--Xro-ACC-Softwr-G' target='_blank'>ABA - Xero Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201333490K-ABA-Xro-ACC-Softwr-G' target='_blank'>ABA - Xero Accounting Software</a><br></td>
 <td>Abundant Accounting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201536285Z-Accounts101--Xro-G' target='_blank'>Accounts101 - Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201536285Z-Accounts101-Xro-G' target='_blank'>Accounts101 - Xero</a><br></td>
 <td>Accounts101 Pte Ltd</td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Advanced Micro Control Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Advnt-CST--Xro-Cloud-ACC-G' target='_blank'>Advante Consulting - Xero Cloud Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200718058D-Advnt-CST-Xro-Cloud-ACC-G' target='_blank'>Advante Consulting - Xero Cloud Accounting</a><br></td>
 <td>Advante Consulting Pte Ltd</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Apscom Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201706917G-ASL-Advsory--Xro-ACC-softwr-G' target='_blank'>ASL Advisory - Xero accounting software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201706917G-ASL-Advsory-Xro-ACC-softwr-G' target='_blank'>ASL Advisory - Xero accounting software</a><br></td>
 <td>ASL Advisory Pte. Ltd.</td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS--Xro-ACC-SLN-G' target='_blank'>MMS - Xero Accounting Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200801162R-MMS-Xro-ACC-SLN-G' target='_blank'>MMS - Xero Accounting Solution</a><br></td>
 <td>METROPOLITAN MANAGEMENT SERVICES PTE. LTD.</td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIMCOLE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl--Xro-ACC-G' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-Xro-ACC-G' target='_blank'>Tisch Global - Xero Accounting</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ASHOKA TREE ASSOCIATES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC--Xro-G' target='_blank'>Harvest Accounting - Xero</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201828446N-Hrvst-ACC-Xro-G' target='_blank'>Harvest Accounting - Xero</a><br></td>
 <td>Harvest Accounting Pte. Ltd.</td>
 </tr>
 <tr>
@@ -222,7 +222,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl--QuckBooks-Onln-G' target='_blank'>Tisch Global - QuickBooks Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Tsch-Globl-QuckBooks-Onln-G' target='_blank'>Tisch Global - QuickBooks Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>KloudEx Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529234R-AGERE--Xro-Cloud-ACC-Softwr-G' target='_blank'>AGERE - Xero Cloud Accounting Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529234R-AGERE-Xro-Cloud-ACC-Softwr-G' target='_blank'>AGERE - Xero Cloud Accounting Software</a><br></td>
 <td>Agere Accounting & Advisory Pte. Ltd.</td>
 </tr>
 </table>

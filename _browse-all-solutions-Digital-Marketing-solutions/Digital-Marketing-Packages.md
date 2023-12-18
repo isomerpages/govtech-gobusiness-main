@@ -192,7 +192,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22--32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202205403H-DM-Bluhv-CST-Dgtl-Mrktng-PKG-v-22-32-G' target='_blank'>DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2</a><br></td>
 <td>Bluehive Consulting Asia Pte Ltd</td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>3D BRAND AGENCY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO--SEM--SMM--SMA-Dgtl-Mrktng-Boost-Up-v-2-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201322157W-DM-MdOn-SEO-SEM-SMM-SMA-Dgtl-Mrktng-Boost-Up-v-2-G' target='_blank'>DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2</a><br></td>
 <td>MediaOne Business Group Pte Ltd</td>
 </tr>
 <tr>

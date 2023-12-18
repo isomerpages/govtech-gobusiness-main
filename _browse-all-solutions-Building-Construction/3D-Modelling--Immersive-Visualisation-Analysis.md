@@ -32,7 +32,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG--Mttrport-Pro2-3D-SLN-BC' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Mttrport-Pro2-3D-SLN-BC' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE--AUTODESK-COLLECTION-BC' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE-AUTODESK-COLLECTION-BC' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>

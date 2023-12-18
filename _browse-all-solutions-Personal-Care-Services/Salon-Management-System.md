@@ -52,7 +52,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS--Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
 <td>Refine Solutions Pte Ltd</td>
 </tr>
 <tr>

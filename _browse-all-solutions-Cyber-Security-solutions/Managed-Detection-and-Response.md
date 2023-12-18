@@ -64,7 +64,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>NTC INTEGRATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360--Mult-Tnnt-Scurty-s--SVC-SAAS-IM-Protcton-wth-24-G' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/53379873J-AutoXDR-360-Mult-Tnnt-Scurty-s-SVC-SAAS-IM-Protcton-wth-24-x-G' target='_blank'>AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service</a><br></td>
 <td>GKO Consultancy</td>
 </tr>
 <tr>

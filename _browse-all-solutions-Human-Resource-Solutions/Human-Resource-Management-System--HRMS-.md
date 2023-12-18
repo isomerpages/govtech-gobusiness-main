@@ -48,7 +48,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Enable Business Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-v-8--AutomtHR-Frontr-G' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-v-8-AutomtHR-Frontr-G' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>

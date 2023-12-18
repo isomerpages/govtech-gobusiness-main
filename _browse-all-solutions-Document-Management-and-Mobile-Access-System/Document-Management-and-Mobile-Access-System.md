@@ -36,7 +36,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs--DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncDocs-DOC-MGT-Softwr-G' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>

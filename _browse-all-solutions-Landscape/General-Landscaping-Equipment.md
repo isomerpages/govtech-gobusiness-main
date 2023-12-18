@@ -32,7 +32,7 @@ This solution is supported by National Parks Board (NParks).
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Flt-Mgt-sys--hrdwr-Lndscp' target='_blank'>Fleet Management System i.e. hardware</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Flt-Mgt-sys-hrdwr-Lndscp' target='_blank'>Fleet Management System i.e. hardware</a><br></td>
 <td></td>
 </tr>
 <tr>

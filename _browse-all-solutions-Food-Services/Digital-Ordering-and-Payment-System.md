@@ -84,7 +84,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Getz Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys--Dgtl-Ordrng-SLNs-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201119932D-Aptsys-Dgtl-Ordrng-SLNs-FS' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
 <td>Aptsys Technology Solutions Pte Ltd</td>
 </tr>
 <tr>

@@ -60,7 +60,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Guidesify Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-DvWordPrss--Shopfy-G' target='_blank'>Corsiva Lab E-Commerce Website Development(WordPress / Shopify)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-Corsv-Lb-ECommrc-Wbst-DvWordPrss-Shopfy-G' target='_blank'>Corsiva Lab E-Commerce Website Development(WordPress / Shopify)</a><br></td>
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
