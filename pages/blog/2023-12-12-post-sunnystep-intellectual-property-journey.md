@@ -8,7 +8,7 @@ crumbs: behind-the-business
 description: Sunnystep founder’s journey was no walk in the park. She shares her challenges of starting from scratch, tax-filing scares and safeguarding her intellectual property.
 ---
 
-![Mao Ting Founder of Sunnystep](/images/blog/content/sunnystep 1.jpg)
+![Mao Ting Founder of Sunnystep](/images/blog/content/sunnystep 1.png)
 <figcaption>Mao Ting, founder of local shoe label Sunnystep created her brand to improve the mobility and overall wellness of individuals by providing orthotic footwear (Image: Sunnystep)</figcaption>
 
 Five years ago, having just given birth to her first child, Mao Ting attended a private pilates class hoping to get back into shape. However, the pilates instructor, being unfamiliar with postpartum bodies, pushed Ting beyond her limits, resulting in a traumatic spine injury from a strained back.
