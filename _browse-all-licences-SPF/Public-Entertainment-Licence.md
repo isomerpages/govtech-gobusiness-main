@@ -4,11 +4,11 @@ permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Public-Entertainmen
 third_nav_title: Singapore Police Force (SPF)
 ---
 
-## Public Entertainment Licence
+## Apply for Public Entertainment Licence
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/dea91876-29a3-4ead-8787-d360ad10319a" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/publicentertainment" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -21,11 +21,11 @@ Singapore Police Force (SPF)
 <li>
 <strong>Where can I get more information for Public Entertainment Licence?</strong><br> 
 More information can be found at the 
-<a href="https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence" target="_blank" rel="noopener">SPF website</a>
+<a href=�https://www.police.gov.sg/e-Services/Police-Licences/Public-Entertainment-Licence� target=�_blank� rel=�noopener�>SPF website</a>
 </li>
 <li>
 <strong>Who can be an applicant?</strong><br>
-If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in GoBusiness Dashboard with relation to these changes. This waiting time is required to get the updates synced for GoBusiness Dashboard system verification.<br><br>
+If you have just updated ACRA for any changes related to your Company�s name or staff listing, Please allow for at least a day before you submit any application in GoBusiness Dashboard with relation to these changes. This waiting time is required to get the updates synced for GoBusiness Dashboard system verification.<br><br>
 
 <strong>Entity Type:</strong> <br>
 Limited Liability Partnership<br>
