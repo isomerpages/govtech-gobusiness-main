@@ -1,6 +1,6 @@
 ---
 layout: gobusiness-blog-post
-title: 'Sunnystep founder on securing IP as key to success'
+title: 'Sunnystep’s key to success: Securing its IP'
 permalink: /gobusiness-blog/sunnystep-intellectual-property-journey
 tags: Behind the Business
 pillar: Behind the Business
@@ -18,7 +18,7 @@ The ordeal left Ting with debilitating pain that relegated her to lying down for
 
 The experience prompted Ting to start her quest in search of comfortable, supportive footwear, to no avail. Taking matters into her own hands, Ting began experimenting with making her own orthotic shoes.
 
-Fueled with the determination to help and educate others on orthotic health problems, Ting’s passion and determination eventually led to her startup Sunnystep, a modern orthotic footwear brand that has grown into a million-dollar business, with over 10 outlets island-wide.
+Fueled with the determination to help and educate others on orthotic health problems, Ting’s passion and determination eventually led to her startup [Sunnystep](https://sg.mysunnystep.com/){:target="_blank"}{:rel="noopener"}, a modern orthotic footwear brand that has grown into a million-dollar business, with over 10 outlets island-wide.
 
 ### Overcoming regulatory hurdles
 
@@ -61,7 +61,7 @@ While Sunnystep is known for its lightweight blister-free shoes, the team faced 
 
 Despite her inexperience, Ting was well aware that Sunnystep’s competitive edge lay in their product innovation, and that protecting their designs is vital to the business.
 "Here in Singapore, the retail sector is very competitive. Apart from up-and-coming local footwear brands, there are many globally renowned brands coming into the Singapore market. So it is very important to secure your IP, especially for small businesses and start-ups."
-From their insoles and outsoles to the exterior design of their shoes,  these were all intellectual property that the Sunnystep team needed to safeguard with patents. However, as a first-time business owner, Ting had limited knowledge on the subject.
+From their insoles and outsoles to the exterior design of their shoes,  these are all intellectual property that the Sunnystep team needs to safeguard with patents. However, as a first-time business owner, Ting had limited knowledge on the subject.
 
 While conducting research on IP protection in Singapore, the Sunnystep team chanced upon [GoBusiness IP Grow](https://www.gobusiness.gov.sg/intellectual-property/ip-grow){:target="_blank"}{:rel="noopener"}, an online marketplace for intangible assets and intellectual property (IA/IP) services. The one-stop platform offers free tools and resources to support enterprises in leveraging IA/IP for business growth and success.  
 
