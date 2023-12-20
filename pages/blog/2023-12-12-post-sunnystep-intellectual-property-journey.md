@@ -68,7 +68,7 @@ While conducting research on IP protection in Singapore, the Sunnystep team chan
 ![GoBusiness IP Grow service directories](/images/blog/content/sunnystep 3.png)
 <figcaption>GoBusiness IP Grow includes a comprehensive list of 20 IA/IP service directories to guide business owners on how to navigate, protect and commercialise their intellectual property</figcaption>
 
-"As a first-time business owner, I had zero working knowledge on how to run a business, and how to manage a team. When the subject of securing our patents came up, the resources on GoBusiness IP Grow were useful, because they introduced us to the overall landscape of how people navigate IP."
+"As a first-time business owner, I had zero working knowledge on how to run a business. When the subject of securing our patents came up, the resources on GoBusiness IP Grow were useful, because they introduced us to the overall landscape of how people navigate IP."
 
 Using the [GoBusiness e-Adviser for IP Service](https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about){:target="_blank"}{:rel="noopener"}, Ting and her team could receive immediate and personalised advice on the different IP services they required, such as a patent agent to assist them with the process of filing patents for their designs.
 
