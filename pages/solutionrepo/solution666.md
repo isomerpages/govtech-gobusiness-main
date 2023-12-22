@@ -1,15 +1,15 @@
 ---
-title: 'Profectant Xero'
+title: 'XERO Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution666
 ---
 
-## Profectant Xero
+## XERO Accounting Software
 
 ## Overview
 
 **Description**
 
-Profectant has established a sound track record in simplifying and implementing accounting solutions for companies within Southeast Asia. With more than a decade of experience, our team of trained accountants is here to support businesses every step of the way. Our package consists of one year of subscription of Xero, and includes setup, implementation as well as training support to all our valued customers.
+Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Profectant has established a sound track record in simplifying and implementing 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Starter Package (2 Users)</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'>$2,368.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 1 - Standard, Subscription only</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'>$616.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Standard Package (5 Users)</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 2 - Premium, Subscription only</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Profectant Xero - Premium Package (5 Users)</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PROFECTANT_20210130_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 3 - Standard + Implementation</td>
+<td style='padding: 10px;'>$1,908.75</td>
+<td style='padding: 10px;'>$1,816.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 4 - Premium + Implementation</td>
+<td style='padding: 10px;'>$3,610.00</td>
+<td style='padding: 10px;'>$3,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Timcole Package 5 - Premium Plus + Implementation + Full Day Training</td>
+<td style='padding: 10px;'>$5,115.00</td>
+<td style='padding: 10px;'>$4,807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timcole_20220406_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Profectant has established a sound track record in simplifying and implementing 
 
 ## Vendor Information
 
- Company Name: PROFECTANT CORPORATE SERVICES PTE LTD<br>Web URL: www.profectant.com <br><br>Contact Hotline: 69746718 <br><br>Contact Email: enquiry@profectant.com <br><br>
+ Company Name: TIMCOLE PTE LTD<br>Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

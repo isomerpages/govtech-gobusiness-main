@@ -1,15 +1,15 @@
 ---
-title: 'North Trust Xero Solution'
+title: 'BeauteSoft V6.3.7.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution597
 ---
 
-## North Trust Xero Solution
+## BeauteSoft V6.3.7.2
 
 ## Overview
 
 **Description**
 
-Xero is global Cloud Accounting Software that has a plethora of features to assist businesses to automate and run their businesses digitally. These include e-invoicing, digital bank feeds, advanced bank reconciliation, project management including costing, expense management, accepting payment online directly, and connected to over 800+ integrations. It is also IRAS compliant and optimized for tax returns.
+BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon streamline operations. BeauteSoft is a fully integrated software solution that covers customer management information, online appointment booking, sales of packages and products, rule-based staff commission, integrated inventory management, and business intelligence reports. It provides iPad-based registration, consultation, and image capturing for before and after comparison. It also provides QR code check-in for Spa.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Xero Subscription Only</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Xero Basic Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$2,380.00</td>
-<td style='padding: 10px;'>$2,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard-M</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Xero Basic Package With Historical Transactions</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$2,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$11,749.00</td>
+<td style='padding: 10px;'>$11,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Xero Premium Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$3,580.00</td>
-<td style='padding: 10px;'>$3,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-M</td>
+<td style='padding: 10px;'>$12,949.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-Plus</td>
+<td style='padding: 10px;'>$16,549.00</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 
 ## Vendor Information
 
- Company name:NORTH TRUST PTE. LTD.<br>Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62223800 <br>Contact Email: ybk@e-management.com.sg
+ Company name:SEQUOIA PTE LTD<br>Web URL: http://www.beaute-soft.com <br>Contact Hotline: 96951383 <br>Contact Email: ang@sequoia-asia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

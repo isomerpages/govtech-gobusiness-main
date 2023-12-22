@@ -1,15 +1,15 @@
 ---
-title: 'goTruck!Hub'
+title: 'Microsoft 365 SharePoint Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution1388
 ---
 
-## goTruck!Hub
+## Microsoft 365 SharePoint Online
 
 ## Overview
 
 **Description**
 
-goTruck!Hub is an internet-based Transport Management System, specifically tailored for medium and heavy logistics. Simplify everything and manage your operations using just your mobile phone.
+Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling simple sharing and seamless collaboration. SharePoint empowers teamwork with dynamic and productive team sites for every project team, department, and division. Share files, data, news, and resources. Customize your site to streamline your team's work. Collaborate effortlessly and securely with team members inside and outside your organization, across PCs, Macs, and mobile devices.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ goTruck!Hub is an internet-based Transport Management System, specifically tailo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 10 vehicles</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$1,330.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 20 vehicles</td>
-<td style='padding: 10px;'>$12,200.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$2,385.00</td>
+<td style='padding: 10px;'>$2,325.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 30 vehicles</td>
-<td style='padding: 10px;'>$17,800.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$4,288.75</td>
+<td style='padding: 10px;'>$4,168.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Integrated Company with 30 vehicles</td>
-<td style='padding: 10px;'>$26,000.00</td>
-<td style='padding: 10px;'>$21,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$7,512.50</td>
+<td style='padding: 10px;'>$7,312.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Integrated Company with 50 vehicles</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$35,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$13,787.50</td>
+<td style='padding: 10px;'>$13,387.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ goTruck!Hub is an internet-based Transport Management System, specifically tailo
 
 ## Vendor Information
 
- Web URL: www.gotruck.co <br><br>Contact Hotline: 66452643 <br><br>Contact Email: ENQUIRY@GOTRUCK.CO <br><br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: hello@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

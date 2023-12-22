@@ -1,37 +1,43 @@
 ---
-title: 'Static Parcel Dimension, Weight and Scan Equipment'
+title: 'Taidii Smart Data Analytics for Child Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution932
 ---
 
-## Static Parcel Dimension, Weight and Scan Equipment
+## Taidii Smart Data Analytics for Child Development
 
 ## Overview
 
 **Description**
 
-The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
-
-Cost of equipment capped at $21,250 per unit. 
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Static Parcel Dimension, Weight and Scan Equipment</td>
-<td style='padding: 10px;'>$21,250.00</td>
-<td style='padding: 10px;'>Mandatory Specification<br>- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together<br>- Weigh parcel up to 30kg<br>- Weighing accuracy of +/- 10g<br>- Stereometry accuracy within +/- 5mm<br>- Throughput approx 400/hour<br>- Data transmitted to a software/ERP via wireless/LAN connection<br>- Installation cost is supported.<br>- Maintenance cost is not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

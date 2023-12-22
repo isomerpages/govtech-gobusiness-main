@@ -1,15 +1,15 @@
 ---
-title: 'APPZPOS F&B Point of Sales Version 1.1'
+title: 'Swingvy Version 1.233.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1448
 ---
 
-## APPZPOS F&B Point of Sales Version 1.1
+## Swingvy Version 1.233.0
 
 ## Overview
 
 **Description**
 
-APPZPOS provides an all-in-one affordable and user-friendly digital ordering solutions for all types of F&B business including Fast Food and Restaurant mode. APPZPOS is a Singapore based solution which offers different modules like E-Waiter, QR Ordering, Web Ordering, KIOSK Self-Order, Kitchen display system KDS, E-Menu, CRM and loyalty, Inventory which are linked to the same backend and seamlessly integrated.
+Swingvy is a full-suite HR software for core HR, Payroll, Leave, Time & Attendance, Claims, Performance appraisal and more that allows SME businesses to engage & manage their employees.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ APPZPOS provides an all-in-one affordable and user-friendly digital ordering sol
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering)</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 10 users</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'>$1,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (2 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering + QR Ordering)</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$5,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 25 users</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (2 Digital Ordering System + 1 Kitchen Display System + 2 KIOSK Customer Self-Ordering)</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$6,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 50 users</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'>$8,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 75 users</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'>$11,445.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Swingvy Core HRMS with Mobile for 100 users</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SWINGVY_Swingvy_Version_1_233_0_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ APPZPOS provides an all-in-one affordable and user-friendly digital ordering sol
 
 ## Vendor Information
 
- Company Name: APPZGATE SOLUTIONS PTE. LTD.<br>Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932235 <br>Contact Email: sales@appzgate.com <br>
+ Company Name: SWINGVY PTE. LTD.<br>Web URL: http://swingvy.com/ <br>Contact Hotline: +6588087013 <br>Contact Email: support@swingvy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

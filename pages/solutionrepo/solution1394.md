@@ -1,15 +1,15 @@
 ---
-title: 'KEEPITAL Sales Management Business Solution Version 3'
+title: 'SMART AUDIT'
 permalink: /productivity-solutions-grant/solutionrepo/solution1394
 ---
 
-## KEEPITAL Sales Management Business Solution Version 3
+## SMART AUDIT
 
 ## Overview
 
 **Description**
 
-Keepital is an online Global B2B platform that brings together buyers and suppliers and allows business owners to reach out to local and overseas prospects. Through this platform, business owners can list their products and services to generate quotations to potential buyers. The objective is to digitalise all SME products and services into a single platform to increase productivity, leads generation and improve sales and revenue, reducing the workload of a salesperson.
+Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (24 Product Showcase)</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (48 Product Showcase)</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (250 Product Showcase)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (500 Product Showcase)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1000 Product Showcase)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
+<td style='padding: 10px;'>$6,360.00</td>
+<td style='padding: 10px;'>$6,296.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Keepital is an online Global B2B platform that brings together buyers and suppli
 
 ## Vendor Information
 
- Company Name: Keep Pte Ltd<br>Web URL: www.keepital.com <br>Contact Hotline: 96239126 <br>Contact Email: ask@keepital.com <br>
+ Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

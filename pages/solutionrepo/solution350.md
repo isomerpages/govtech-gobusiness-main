@@ -1,15 +1,15 @@
 ---
-title: 'DM Firstcom Digital Marketing Programme'
+title: 'DM Injob Creative Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution350
 ---
 
-## DM Firstcom Digital Marketing Programme
+## DM Injob Creative Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Firstcom Solutions is a Google Premier Partner and also a Facebook Business Partner. We have been in the industry for more than 10 years and have helped more than 5500 SMEs Go-Digital! With more than 200 in-house staff with relevant certifications and experience, we strive to help you optimise your conversion funnel and maximise your advertising dollars. We also have our own studio and production team to help you conceptualise and create compelling contents to stand out from your competitors! 
+Injob Creative provides digital marketing packages SMM + SMA, SEO + SEM or SEO+SMM packages, ensuring that they can benefit any growing local SMEs helping them reach their desired target audiences. Injob Creative's expertise helps SMEs realize improve in their outreach within 3 months time.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ permalink: /productivity-solutions-grant/solutionrepo/solution350
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM Firstcom Digital Marketing Programme - Social Media Brand Awareness & Lead Generation</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM + SMA [3 Months]</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DM_Firstcom_Solutions_20210328_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + SMA [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Firstcom Solutions Pte Ltd<br>Web URL: www.firstcom.com.sg <br><br>Contact Hotline: 68484984 <br><br>Contact Email: sales@firstcom.com.sg <br><br>
+ Company Name:Injob Creative Pte Ltd<br>Web URL: injob.com.sg <br>Contact Hotline: 97360305 <br>Contact Email: enquiry@injob.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

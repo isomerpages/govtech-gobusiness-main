@@ -1,17 +1,15 @@
 ---
-title: 'HR Shared Services by RecruitSG'
+title: 'Fleet Management Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution712
 ---
 
-## HR Shared Services by RecruitSG
+## Fleet Management Solutions
 
 ## Overview
 
 **Description**
 
-recruitSG helps companies handle their payroll processing & HR administration, including managing employee data, benefits, expense claims, attendance, leave, IRAS filing, and more.
-
-Companies can simplify their HR processes with recruitSG's end-to-end service - supported by a cloud-based HR management software, HRMpeople. Take the stress away from HR to focus on business growth.
+WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,17 @@ Companies can simplify their HR processes with recruitSG's end-to-end service - 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 30 Employees</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$2,310.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 50 Employees</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 100 Employees</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 150 Employees</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'>$36,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Up to 200 Employees</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'>$42,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Recruit_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +43,7 @@ Companies can simplify their HR processes with recruitSG's end-to-end service - 
 
 ## Vendor Information
 
- Company name: RECRUIT.COM.SG PTE. LTD.<br>Web URL: WWW.RECRUIT.COM.SG <br>Contact Hotline: 68767936 <br>Contact Email: HELLO@RECRUIT.COM.SG 
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

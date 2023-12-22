@@ -1,17 +1,15 @@
 ---
-title: 'Steel Plate Butt Joint Welding Alignment Tool'
+title: 'Robotic/ Wireless/ Autonomous Mower'
 permalink: /productivity-solutions-grant/solutionrepo/solution916
 ---
 
-## Steel Plate Butt Joint Welding Alignment Tool
+## Robotic/ Wireless/ Autonomous Mower
 
 ## Overview
 
 **Description**
 
-The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
-
-Cost of equipment capped at $12,500 per unit
+A mobile grass/lawn cutting equipment , either automated or semi/fully controlled by a person, that trims, cuts grass or other vegetation that grows on the ground.
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $12,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Steel Plate Butt Joint Welding Alignment Tool</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>Magnetic force: minimum 800kgf<br>Maintenance costs not supported</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

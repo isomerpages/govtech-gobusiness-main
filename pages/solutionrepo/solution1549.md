@@ -1,15 +1,15 @@
 ---
-title: 'WarelyPOS Version 1.3'
+title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1549
 ---
 
-## WarelyPOS Version 1.3
+## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
 
 ## Overview
 
 **Description**
 
-WarelyPOS is a digital ordering solution for F&B businesses. Key features of the solution include Food Delivery, Takeaway, Pick-up, Dine-in & Reservation, CRM and Inventory Management.
+Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
 
 ## Solution Packages Option(s)
 
@@ -23,59 +23,38 @@ WarelyPOS is a digital ordering solution for F&B businesses. Key features of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 concurrent user - 30 Employees)</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'>$2,719.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 concurrent user - 60 Employees)</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'>$4,039.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 concurrent user - Unlimited Employees)</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'>$6,899.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (3 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'>$7,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise + Kiosk + Queue</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$12,100.00</td>
-<td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5 concurrent users - Unlimited Employees)</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'>$8,849.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -85,7 +64,7 @@ WarelyPOS is a digital ordering solution for F&B businesses. Key features of the
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

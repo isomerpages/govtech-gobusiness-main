@@ -1,15 +1,17 @@
 ---
-title: 'DM Craft Creative Digital Marketing Packages'
+title: 'Xero Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution230
 ---
 
-## DM Craft Creative Digital Marketing Packages
+## Xero Accounting System
 
 ## Overview
 
 **Description**
 
-Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses and help them generate effective and concrete leads. As a finalist for social media marketing agency of the year and with vast experience from running over 500 creative campaigns every year, Craft helps our clients identify and be seen by their target audiences online, increase their investment returns, and their sales through creative social marketing strategies, quality content writing and innovative media designs.
+EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
+
+Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +25,48 @@ Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMA+ SEM) - [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
+<td style='padding: 10px;'>$1,664.00</td>
+<td style='padding: 10px;'>$1,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMA + YouTube Advertising) - [2 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (SMM + SMA) [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
+<td style='padding: 10px;'>$3,164.00</td>
+<td style='padding: 10px;'>$3,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
+<td style='padding: 10px;'>$5,064.00</td>
+<td style='padding: 10px;'>$5,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
+<td style='padding: 10px;'>$6,264.00</td>
+<td style='padding: 10px;'>$6,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Craft Creative Pte Ltd<br>Web URL: https://craft.com.sg/digital-marketing-services/ <br>Contact Hotline: 91880739 <br>Contact Email: admin@craft.com.sg 
+ Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

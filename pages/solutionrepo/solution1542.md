@@ -1,15 +1,15 @@
 ---
-title: 'SMART AUDIT'
+title: 'BIMAGE - AUTODESK COLLECTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution1542
 ---
 
-## SMART AUDIT
+## BIMAGE - AUTODESK COLLECTION
 
 ## Overview
 
 **Description**
 
-Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
+Autodesk Collection equips the industry to design & construct high quality, data rich & sustainable solution for building industry. It is an extensive & flexible software which encompasses all building & infrastructure typologies development. Autodesk Collection consists of various software which work in unison to bring a project to fruition. It integrates design & construction workflows which can be used by architects, engineers & contractors to work more efficiently to achieve a common goal.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year Revit + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-day training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 3-Days Revit training + 1-Day Data Management training</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 
 ## Vendor Information
 
- Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
+ Company Name: BIMAGE Consulting Pte. Ltd.<br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

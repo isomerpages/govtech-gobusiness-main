@@ -1,15 +1,15 @@
 ---
-title: 'Xero'
+title: 'OpensoftHR Version 18'
 permalink: /productivity-solutions-grant/solutionrepo/solution503
 ---
 
-## Xero
+## OpensoftHR Version 18
 
 ## Overview
 
 **Description**
 
-Xero is a beautiful and easy-to-use online accounting software for small businesses and their advisor, with subscribers in more than 180 countries. Xero also offer over 800 third party integration. The software is accessible from web browsers as well as from mobile devices. Xero is used by small businesses and includes services for invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
+Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Xero is a beautiful and easy-to-use online accounting software for small busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Full Package with Consultation</td>
-<td style='padding: 10px;'>$6,327.48</td>
-<td style='padding: 10px;'>$6,277.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (25 pax)</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'>$6,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premier Pro with 2 Days Training</td>
-<td style='padding: 10px;'>$5,607.48</td>
-<td style='padding: 10px;'>$5,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (50 pax)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Premier Pro with 1 Day Training</td>
-<td style='padding: 10px;'>$4,807.48</td>
-<td style='padding: 10px;'>$4,807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (100 pax)</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Basic</td>
-<td style='padding: 10px;'>$3,207.48</td>
-<td style='padding: 10px;'>$3,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (150 pax)</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'>$16,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Subscription Only</td>
-<td style='padding: 10px;'>$807.48</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KloudEx_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (200 pax)</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'>$19,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:KloudEx Pte Ltd<br>Web URL: www.xero.com <br>Contact Hotline: 96461160 <br>Contact Email: ken@kloudex.co 
+ Company Name: Opensoft Pte Ltd<br>Web URL: https://www.opensofthr.com/products/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@opensofthr.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

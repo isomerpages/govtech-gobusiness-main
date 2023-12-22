@@ -1,15 +1,15 @@
 ---
-title: 'DM Fier Capital Digital Marketing Packages'
+title: 'DM Bizsquare Digital Marketing Suite Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1149
 ---
 
-## DM Fier Capital Digital Marketing Packages
+## DM Bizsquare Digital Marketing Suite Packages
 
 ## Overview
 
 **Description**
 
-Project Fier creates bespoke digital marketing strategies to support all businesses regardless of its size. In a world where digital presence is highly important in making businesses win, Project Fier helps all clients develop a competitive edge online. Boosting business's brand authority with the high-impact social media strategies and unlocking the power of effective digital marketing to reach, engage and convert more customers.
+Bizsquare Management Consultants is a business consultancy firm, specialized in Digital Marketing Solutions for SMEs. Bizsquare conceptualizes compelling content tailored to each business, offering Social Media Marketing (SMM), Social Media Advertising (SMA), and Video Marketing services that help maximize the SME brands' competitiveness and bring more leads and sales to their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM & SEO [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM for Brand Awareness (FB + IG) 3 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA & SMM [3 Months]</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM for Brand Awareness (Video) 4 months</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fier_Capital_DM_Fier_Capital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA for Lead Generation (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMM & SMA (FB + IG) 5 months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMM for Brand Awareness (FB + IG + Video) 4months</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizsquare_DM_Bizsquare_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Project Fier creates bespoke digital marketing strategies to support all busines
 
 ## Vendor Information
 
- Company Name: Fier Capital Pte Ltd<br>Web URL: www.projectfier.com <br>Contact Hotline: 96936699 <br>Contact Email: Hello@projectfier.com <br>
+ Company Name: Bizsquare Management Consultants Pte Ltd<br>Web URL: https://bizsquare.com.sg/branding-marketing/ <br>Contact Hotline: 91834413 <br>Contact Email: admin@bizsquare.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

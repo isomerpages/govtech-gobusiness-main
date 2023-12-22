@@ -1,15 +1,16 @@
 ---
-title: 'CARDDIO Version 1'
+title: 'Autocount Accounting Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution193
 ---
 
-## CARDDIO Version 1
+## Autocount Accounting Version 2.0
 
 ## Overview
 
 **Description**
 
-Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +24,48 @@ Carddio is a cloud based solution which works on both iOS and Android versions a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

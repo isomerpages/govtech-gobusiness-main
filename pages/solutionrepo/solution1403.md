@@ -1,15 +1,16 @@
 ---
-title: 'E-Commerce MPD Package Version 2.0'
+title: 'E-Commerce Portal Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1403
 ---
 
-## E-Commerce MPD Package Version 2.0
+## E-Commerce Portal Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital presence and sales by widening their reach through the digital platform where users can easily browse, shop and purchase their merchandise/products/services via a few clicks online with minimal manpower and overall operations cost lowered. Additionally, the solution is scalable and allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently.
+WooCommerce is an open-source & customizable eCommerce platform developed in Wordpress CMS. By May 2023, it's estimated that more than 6.5 million websites worldwide are powered by Woocommerce.
+WooCommerce is  friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing, reporting and shipping integration. Apart from physical products, it allows merchants to sell digital products, subscriptions, appointments, and much more.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +24,31 @@ Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Woocommerce/Shopify Express</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_ECommerce_MPD_PKG_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Woocommerce Elite</td>
-<td style='padding: 10px;'>$9,961.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$6,500.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_Digital_ECommerce_MPD_PKG_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Package</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +58,7 @@ Mediaplus Digital E-Commerce web solution enables SMEs to increase their digital
 
 ## Vendor Information
 
- Web URL: mediaplus.com.sg <br><br>Contact Hotline: 68163168 <br><br>Contact Email: wow@mediaplus.com.sg <br><br>
+ Company Name: IPRO DEZIGN PTE. LTD.<br>Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

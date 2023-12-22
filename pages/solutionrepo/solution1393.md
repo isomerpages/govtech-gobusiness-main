@@ -1,15 +1,15 @@
 ---
-title: 'iLOGON (iWMS)'
+title: 'CAS 360 Professional SG'
 permalink: /productivity-solutions-grant/solutionrepo/solution1393
 ---
 
-## iLOGON (iWMS)
+## CAS 360 Professional SG
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
+CAS 360 by BGL Corporate Solutions is a cloud-based software for company secretarial and compliance processes. The solution offers entity management, automated ASIC compliance, document management, reporting, and more. The solution streamlines compliance processes, saves time, reduces errors, and helps companies stay up-to-date with regulatory requirements.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KEYfields_iLOGON_iWMS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (100 entities) (2 years)</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BGL_CORPORATE_CAS_360_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 
 ## Vendor Information
 
- Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
+ Company Name: BGL CORPORATE SOLUTIONS PTE. LTD.<br>Web URL: www.bglcorp.com.sg <br>Contact Hotline: 67169903 <br>Contact Email: rlum@bglcorp.com.au <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

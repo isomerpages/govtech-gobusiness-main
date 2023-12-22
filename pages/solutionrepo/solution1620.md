@@ -1,15 +1,15 @@
 ---
-title: 'A-Class Accounting & Sales Management by Sleek'
+title: 'Job Redesign Consultancy - KLC International Institute Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1620
 ---
 
-## A-Class Accounting & Sales Management by Sleek
+## Job Redesign Consultancy - KLC International Institute Pte Ltd
 
 ## Overview
 
 **Description**
 
-Sleek provides a fully digital solution for accounting, tax and sales management for SMEs and Startups in Singapore backed up by quality local support.
+KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KLC International Institute Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/KLCII_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+ Company name: KLC International Institute Pte Ltd<br>Web URL: https://klc.edu.sg/<br>Contact Name: Ong Irene, Consultant<br>Contact Email: reimagineers@klc.edu.sg<br>Contact Number: 6431 9232
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

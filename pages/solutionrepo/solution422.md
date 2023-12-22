@@ -1,16 +1,15 @@
 ---
-title: 'AUTOCOUNT ACCOUNTING SOFTWARE Version 2'
+title: 'HR administration with payroll processing via SaaS solutions Version 21-3.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution422
 ---
 
-## AUTOCOUNT ACCOUNTING SOFTWARE Version 2
+## HR administration with payroll processing via SaaS solutions Version 21-3.1
 
 ## Overview
 
 **Description**
 
-I Soft Business Solutions provides business solutions to SMEs through accounting software and consultation services by experienced consultants.
-AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. The features include: flexibility, expandability and ease-to-use to help business grow and sustain development needs.
+Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize in HR & Payroll management combining with (SaaS) Cloud HR software for SMEs in the Asia-Pacific region. In our HR shared services ecosystem, we use an entire suite of (SaaS) cloud HR software such as Employee Information System, Leave system, Expense (claims), Time Attendance (with facial recognition & geofencing features) and Payroll which combines our HR expertise such as payroll processing services to SMEs.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,38 @@ AutoCount offers a series of products that focus mainly on business automation (
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3</td>
+<td style='padding: 10px;'>$7,020.00</td>
+<td style='padding: 10px;'>$7,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional (5 Users)</td>
-<td style='padding: 10px;'>$8,720.00</td>
-<td style='padding: 10px;'>$8,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 3 (26-50 employee) Version 21-3</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
-<td style='padding: 10px;'>$14,020.00</td>
-<td style='padding: 10px;'>$14,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (15 Users)</td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_SOFT_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions -Package 5(101-200 employee) Version 21-3</td>
+<td style='padding: 10px;'>$63,000.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ AutoCount offers a series of products that focus mainly on business automation (
 
 ## Vendor Information
 
- Company name:I SOFT BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://autocountsoft.sg/autocount-accounting-singapore.html <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com 
+ Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

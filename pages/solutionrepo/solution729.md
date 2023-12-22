@@ -1,15 +1,15 @@
 ---
-title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
+title: 'DM WECOFA Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution729
 ---
 
-## Iorderla Digital Ordering BYOD Solution Version 1.0
+## DM WECOFA Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
+Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web o
 
 ## Vendor Information
 
- Company Name: SUNTOYO TECHNOLOGY PTE LTD<br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
+ Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

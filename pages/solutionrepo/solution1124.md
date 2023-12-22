@@ -1,15 +1,19 @@
 ---
-title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
+title: 'Getz F&B Omni Channel Solution Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1124
 ---
 
-## Taidii Smart Data Analytics for Centre Operations and Child Development
+## Getz F&B Omni Channel Solution Version 2
 
 ## Overview
 
 **Description**
 
-Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
+Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
+
+Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
+
+Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +27,17 @@ Insights about the customers and operation are essential for business success. T
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$8,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
+<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +47,7 @@ Insights about the customers and operation are essential for business success. T
 
 ## Vendor Information
 
- Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
+ Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 91010657  (WhatsApp)<br>Contact Email:  connect@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

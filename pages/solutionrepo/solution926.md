@@ -1,18 +1,15 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology'
 permalink: /productivity-solutions-grant/solutionrepo/solution926
 ---
 
-## Form Fill Seal Machine
+## Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
-
-Cost of equipment  capped at $20,500 per unit 
+Equipment (e.g. pumps, bio-filters) that will be incorporated into recirculating aquaculture systems or equipment that improves the quality of the water to make it more acceptable or better for a specific end-use.
 
 ## Solution Packages Option(s)
 
@@ -23,15 +20,15 @@ Cost of equipment  capped at $20,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>1. Machine has temperature control, to control heat applied to film<br><br>2. Machine has speed control, to control duration of seal</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

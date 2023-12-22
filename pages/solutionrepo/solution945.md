@@ -1,30 +1,60 @@
 ---
-title: 'Automatic Flow Wrap Packaging Machine'
+title: 'Microsoft 365 Defender'
 permalink: /productivity-solutions-grant/solutionrepo/solution945
 ---
 
-## Automatic Flow Wrap Packaging Machine
+## Microsoft 365 Defender
 
 ## Overview
 
 **Description**
 
-Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
-
-Cost of equipment capped at $37,500 per unit
+Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flow Wrap Packaging Machine</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>Specifications:<br>- Able to pack products in round or odd shapes or with a tray.<br>- Uses heat sealing with films to automatically wrap products.<br>- Min. output capacity of 30 metres per minute.<br>- Installation and maintenance costs are not supported.<br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 5 Users</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'>$2,127.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 10 Users</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'>$4,254.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 20 Users</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'>$8,508.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 50 Users</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'>$21,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Modern Work All Round Cyber Defense Basic Plan - 90 Users</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'>$38,286.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ACLOUD_Microsoft_365_Defender_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +62,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: ACLOUD PTE LTD<br>Web URL: www.acloud.com.sg <br>Contact Hotline: 69504550 <br>Contact Email: hello@acloud.asia <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

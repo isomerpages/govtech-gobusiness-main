@@ -1,15 +1,15 @@
 ---
-title: 'DM Inbox Digital Marketing Packages'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution401
 ---
 
-## DM Inbox Digital Marketing Packages
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-Inbox Consults helps businesses use paid advertising by crafting irresistible offers, a compelling message to the right audience, and creating sustainable value for customers. Inbox Consults creates highly converting landing pages with attention-grabbing ads in the form of videos and/or pictures. With track records in various industries and niches, partner with Inbox Consults today to begin an amazing journey in digital marketing and improved business!
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Inbox Consults helps businesses use paid advertising by crafting irresistible of
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Conversion Kickstarter - SEM | Display and Video  (3 months) - With Video | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Conversion Kickstarter - SMM | Display and Video (3 months) - With Video | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Digital Presence Starter - SMM | SM Page Management (3 months) - With Shoot | Copy</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Digital Awareness - Brand Awareness / Engagement (2 months) - With ExShoot | Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Digital Advertising - SEM or SMM | Display and Video (5 months) - With Page</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/InboxConsults_Digital_Marketing_Desensitised_Annex3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: Inbox Consults Pte Ltd<br>Web URL: www.inboxconsults.com<br>Contact Hotline: 88213786<br>Contact Email: gavin@inboxconsults.com
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

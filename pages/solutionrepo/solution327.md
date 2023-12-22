@@ -1,22 +1,15 @@
 ---
-title: 'EPOS Enhanced POS Version 2.0'
+title: 'DM I Concept Innovation Digital Marketing Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution327
 ---
 
-## EPOS Enhanced POS Version 2.0
+## DM I Concept Innovation Digital Marketing Version 1.0
 
 ## Overview
 
 **Description**
 
-EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
-- Simple and easy to use for cashiers. 
-- Full-featured CRM
-- Powerful Promotions engine
-- Inventory management
-- Ecommerce integration 
-- Accounting integration 
-- E-payments, QR payment, credit card, NETS
+I Concept offers Social Media, SEM and GDN campaigns to help brands to get on digital platforms and reach? out to a vast audience. More than just digital ads - A great digital marketing strategy is the core and driving force of any digital campaign. Built to attain marketing goals, a multi-channel and 360- creative approach to digital marketing with a stronger purpose - to raise online visibility, increase quality traffic and ultimately generate greater brand loyalty on digital platforms.
 
 ## Solution Packages Option(s)
 
@@ -30,48 +23,27 @@ EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'>$5,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SM + SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'>$7,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_23.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'>$11,324.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_45.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 - Tablet)</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'>$4,649.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_6.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'>$10,623.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SM + GDN (3 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IConcept_DM_I_Concept_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br><br>Contact Hotline: 68718833 <br><br>Contact Email: sales@epos.com.sg <br><br>
+ Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

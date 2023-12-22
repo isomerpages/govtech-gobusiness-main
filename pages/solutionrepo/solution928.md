@@ -1,20 +1,15 @@
 ---
-title: 'Dough Sheeter'
+title: 'Greenhouse systems, climate controlled management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution928
 ---
 
-## Dough Sheeter
+## Greenhouse systems, climate controlled management systems
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
-
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
-
-Cost of equipment capped at $20,000 per unit
-
+Systems for environmental modification and management that allows plants to be grown in certain climates or conditions.
 
 ## Solution Packages Option(s)
 
@@ -25,15 +20,15 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>1. Machine should be able to produce doughs of various thickness</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Greenhouse systems, climate controlled management systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

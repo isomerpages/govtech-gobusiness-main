@@ -1,17 +1,15 @@
 ---
-title: 'Automated Tray Sealer'
+title: 'Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
-## Automated Tray Sealer
+## Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems
 
 ## Overview
 
 **Description**
 
-The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material. Typically, these machines can seal several trays at once. 
-
-Cost of equipment capped at $37,500 per unit 
+Equipment that allows automation when packing produce or automatic devices for measuring the amount of produce (e.g. number of fish).
 
 ## Solution Packages Option(s)
 
@@ -22,15 +20,15 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Tray Sealer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Machine can produce at least 400units/hour</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

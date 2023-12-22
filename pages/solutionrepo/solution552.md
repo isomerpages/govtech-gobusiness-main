@@ -1,15 +1,15 @@
 ---
-title: 'North Trust Xero Solution'
+title: 'Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution552
 ---
 
-## North Trust Xero Solution
+## Xero
 
 ## Overview
 
 **Description**
 
-Xero is global Cloud Accounting Software that has a plethora of features to assist businesses to automate and run their businesses digitally. These include e-invoicing, digital bank feeds, advanced bank reconciliation, project management including costing, expense management, accepting payment online directly, and connected to over 800+ integrations. It is also IRAS compliant and optimized for tax returns.
+Xero is a cloud-based accounting software which allow multiple users to log into the system at the same time, anytime, anywhere and on any device to view and perform transactions. Bank transactions can be fed directly into Xero daily so that cash position, receivables and payables can be kept accurate and updated. OCR technology enables bills and receipts to be pulled into Xero automatically.  Xero simplify accounting and free up time for the more important task of doing beautiful business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Xero Subscription Only</td>
-<td style='padding: 10px;'>$780.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Lite</td>
+<td style='padding: 10px;'>$2,464.00</td>
+<td style='padding: 10px;'>$2,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Xero Basic Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$2,380.00</td>
-<td style='padding: 10px;'>$2,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Basic</td>
+<td style='padding: 10px;'>$3,264.00</td>
+<td style='padding: 10px;'>$3,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Xero Basic Package With Historical Transactions</td>
-<td style='padding: 10px;'>$3,180.00</td>
-<td style='padding: 10px;'>$2,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Standard</td>
+<td style='padding: 10px;'>$4,064.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Xero Premium Package W/O Historical Transactions</td>
-<td style='padding: 10px;'>$3,580.00</td>
-<td style='padding: 10px;'>$3,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$4,380.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/North_Trust_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Premium</td>
+<td style='padding: 10px;'>$6,464.00</td>
+<td style='padding: 10px;'>$6,407.00</td>
+<td style='padding: 10px;'><a href='/images/psg/DesensitisedRDC_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Xero is global Cloud Accounting Software that has a plethora of features to assi
 
 ## Vendor Information
 
- Company name:NORTH TRUST PTE. LTD.<br>Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62223800 <br>Contact Email: ybk@e-management.com.sg
+ Company name:RDC CORPORATE PTE LTD<br>Web URL: www.xero.com/sg/ <br>Contact Hotline: 62235466 <br>Contact Email: support@rdccorporate.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

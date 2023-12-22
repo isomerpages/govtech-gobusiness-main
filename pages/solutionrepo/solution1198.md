@@ -1,15 +1,15 @@
 ---
-title: 'DM SEOciety Digital Marketing'
+title: 'Shopcada Ecommerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1198
 ---
 
-## DM SEOciety Digital Marketing
+## Shopcada Ecommerce
 
 ## Overview
 
 **Description**
 
-SEOciety, a Google partner company, is one of the few integrated bilingual digital marketing agency in Singapore. SEOciety offers English and Chinese SEO and SEM packages to help SMEs open new markets and generate effective and concrete leads.  Having a presence in both the Google English and Chinese market will increase visibility and differentiate businesses to a new audience while increasing market share for the long term.
+Shopcada is an Omni Channel ecommerce platform and its Key features include payment integration, order fulfillment automation and integration with delivery companies, SEO friendly & SEM Integration, CRM & loyalty tools, advance reporting, social commerce and integration with online marketplaces such as Shopee, Lazada and Zalora.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ SEOciety, a Google partner company, is one of the few integrated bilingual digit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - English SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Chinese SEO (30 Keywords) + SEM (6 months)</td>
-<td style='padding: 10px;'>$10,490.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEOciety_DM_Digital_Marketing_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_Shopcada_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Conpany Name: SEOciety Pte Ltd<br>Web URL: www.ourseociety.com/products <br>Contact Hotline: 96221439 <br>Contact Email: info@ourseociety.com
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

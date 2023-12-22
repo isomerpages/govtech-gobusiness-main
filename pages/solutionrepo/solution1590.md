@@ -1,15 +1,15 @@
 ---
-title: 'NPOS Version 2.1'
+title: 'AGERE - Xero Cloud Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1590
 ---
 
-## NPOS Version 2.1
+## AGERE - Xero Cloud Accounting Software
 
 ## Overview
 
 **Description**
 
-NPOS Digital Ordering solution enables F&B customers to directly order from a digital menu on a tablet; or via scanning a QR Code to view the digital menu on their mobile devices and make orders; and/or place order online directly over a website.
+Xero is an online accounting software for SMEs, to be able to automate their everyday business tasks, get up-to-date financials and run their business in real-time. As Xero is cloud-based, business owners can access their finances right away from any internet-connected device - phone, tablet, or computer instead of waiting for their accountants to send them the information. Using Xero encompasses increased capabilities, better productivity, ease-of-use and better responsiveness.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,41 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium, Subcription Only</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation </td>
+<td style='padding: 10px;'>$1,800.00</td>
+<td style='padding: 10px;'>$1,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation & Training</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'>$3,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nstory_Npos_Ver2_1_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation, Migration & Training</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:NSTORY PTE. LTD.<br>Web URL: https://nstory.me <br>Contact Hotline: 62463207 <br>Contact Email: ecare@nstory.me
+ Company Name: Agere Accounting & Advisory Pte. Ltd.<br>Web URL: https://www.agere-ca.com <br>Contact Hotline: 63850609<br>Contact Email: elainelim@agere-ca.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

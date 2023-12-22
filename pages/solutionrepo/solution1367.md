@@ -1,15 +1,15 @@
 ---
-title: 'Alpha eCommerce Booster Premium Version 2.8'
+title: 'DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1367
 ---
 
-## Alpha eCommerce Booster Premium Version 2.8
+## DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2
 
 ## Overview
 
 **Description**
 
-Alphabet Six Marketing Singapore is a web design agency known for their humanistic and passionate approach towards client relations and project management. The solution, Alpha eCommerce Booster Premium is built with a robust framework, boasting extremely fast web loading speed and an immersive user experience. It is equipped with many custom functions and features that acclimatize to the needs of the eStore. Deployment is fast, efficient and beautiful.
+Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of SMEs in their digital growth. These solutions are customized for SMEs at different stages of digital maturity to enhance their online brand presence, digital marketing strategy, communication with target audiences, and increase sales. Bluehive's services cater to businesses that operate through ecommerce websites, brick-and-mortar stores, or both.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,48 @@ Alphabet Six Marketing Singapore is a web design agency known for their humanist
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Complete</td>
-<td style='padding: 10px;'>$8,350.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Alphabet_Six_Marketing_Alpha_eCommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consulting_Asia_DM_Packages_07092023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:ALPHABET SIX MARKETING SINGAPORE<br>Web URL: https://www.alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg 
+ Company Name: Bluehive Consulting Asia Pte Ltd<br>Web URL: https:https://www.bluehiveasia.com/psg-digital-marketing/<br>Contact Hotline: 61004128 <br>Contact Email: info@bluehiveasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

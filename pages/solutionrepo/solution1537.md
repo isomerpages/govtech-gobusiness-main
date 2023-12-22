@@ -1,17 +1,15 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1537
 ---
 
-## Pepper Cloud CRM Version 14.0
+## DM RHAD Digital Marketing Package Version 1
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based cloud CRM Company, which offers CRM software designed for SMEs to help in areas such as sales & lead management, customer relationship, marketing automation & business analytics
-A highly customizable and scalable CRM solution, it offers a range of features that help businesses manage sales pipeline, track opportunities, capture customer interactions, and forecast sales
-They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar & Indonesia
+With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,38 @@ They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Web Starter (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Google Search Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_10Users</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Starter (3 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PPC Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Marketing (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +64,7 @@ They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte. Ltd.<br>Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
+ Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

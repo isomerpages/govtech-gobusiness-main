@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'SAP Business One Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1154
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## SAP Business One Version 10.0
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+SAP Business One is used by small and midsize businesses worldwide. The solution is affordable to manage an entire business from sales and customer relationships to financials and operations. The solution facilitates companies to streamline processes, act on timely information and drive profitable growth. SAP Business One is designed with flexibility in mind and can be deployed on-premises or in the cloud, accessible at any time and from any place using our mobile app.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Cloud Subscription Users on SQL) - (Starter Package)</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'>$17,120.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Cloud Subscription Users on SQL)</td>
+<td style='padding: 10px;'>$28,260.00</td>
+<td style='padding: 10px;'>$23,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (5 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$34,060.00</td>
+<td style='padding: 10px;'>$25,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (10 Cloud Subscription Users on HANA)</td>
+<td style='padding: 10px;'>$46,840.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (7 Perpetual Licenses on HANA)</td>
+<td style='padding: 10px;'>$61,904.70</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Axxis_SAP_Business_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company Name: Axxis Consulting (S) Pte Ltd<br>Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6567497069 <br>Contact Email: info@axxis-consulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

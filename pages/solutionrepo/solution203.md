@@ -1,15 +1,15 @@
 ---
-title: 'CARDDIO Version 1'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution203
 ---
 
-## CARDDIO Version 1
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,41 @@ Carddio is a cloud based solution which works on both iOS and Android versions a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
