@@ -11,6 +11,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 |  -----------   | ---------------- |
+| 22 Dec, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 22 Dec, 10pm - 2am | **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will be unavailable during the upcoming scheduled maintenance. | 
 
 <script src="/jquery/jquery.min.js"></script>
