@@ -15,5 +15,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | 27 Dec, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 29 Dec, 10pm - 30 Dec, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remaid maintenance. | 
 
+
+
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
