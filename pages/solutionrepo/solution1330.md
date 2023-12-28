@@ -1,17 +1,15 @@
 ---
-title: 'Bamboo Sea - Xero'
+title: 'Websentials Ecommerce Web Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution1330
 ---
 
-## Bamboo Sea - Xero
+## Websentials Ecommerce Web Development
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software with over 3.5 million subscribers and Bamboo Sea is committed to assisting SMEs become more efficient and productive at record keeping so that business owners can focus on the customers. 
-
-Together, we will have access to information anywhere and so that we can make business decisions promptly.
+Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
 
 ## Solution Packages Option(s)
 
@@ -25,24 +23,24 @@ Together, we will have access to information anywhere and so that we can make bu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software and Setup</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software, Setup, and Training</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Application Integration</td>
-<td style='padding: 10px;'>$6,064.00</td>
-<td style='padding: 10px;'>$5,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
+<td style='padding: 10px;'>$9,040.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -52,7 +50,7 @@ Together, we will have access to information anywhere and so that we can make bu
 
 ## Vendor Information
 
- Company Name: Bamboo Sea Pte Ltd<br>Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: wenyun@bamboosea.sg <br>
+ Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

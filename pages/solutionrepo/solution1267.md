@@ -1,15 +1,15 @@
 ---
-title: 'SAGE 300'
+title: 'AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service'
 permalink: /productivity-solutions-grant/solutionrepo/solution1267
 ---
 
-## SAGE 300
+## AutoXDR 360 - Multi Tenant Security as a Service (SAAS) Internet & Malware Protection with 24 x 7 Response Service
 
 ## Overview
 
 **Description**
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management.
+AutoXDR 360 is a comprehensive solution for advanced threat detection and response. Combining endpoint protection, network analytics, and deception technology to provide visibility and rapid response capabilities. Its AI-driven engine detects and stops both known and unknown threats in real-time. The built-in automated response mechanism takes immediate action to contain and remediate incidents. AutoXDR 360 offers organizations a holistic solution to defend against cyber threats efficiently
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Sage 300 is a business accounting software that provides accounting software for
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 2 Users)</td>
-<td style='padding: 10px;'>$12,319.00</td>
-<td style='padding: 10px;'>$11,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (21-50 endpoints)</td>
+<td style='padding: 10px;'>$20,900.00</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Advanced Edition - 3 Users)</td>
-<td style='padding: 10px;'>$15,892.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (51-75 endpoints)</td>
+<td style='padding: 10px;'>$25,900.00</td>
+<td style='padding: 10px;'>$25,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package (Advanced Edition - 5 Users)</td>
-<td style='padding: 10px;'>$25,411.00</td>
-<td style='padding: 10px;'>$21,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (76-100 endpoints)</td>
+<td style='padding: 10px;'>$30,900.00</td>
+<td style='padding: 10px;'>$30,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 10 Users)</td>
-<td style='padding: 10px;'>$34,343.50</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Advanced Edition - 15 Users)</td>
-<td style='padding: 10px;'>$42,476.00</td>
-<td style='padding: 10px;'>$22,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SEG_IT_Services_SAGE_300_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (101-150 endpoints)</td>
+<td style='padding: 10px;'>$41,900.00</td>
+<td style='padding: 10px;'>$41,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GKO_Consultancy_AutoXDR_360_Multi_Tenant_SAAS_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Sage 300 is a business accounting software that provides accounting software for
 
 ## Vendor Information
 
- Company Name: SEG IT Services Pte Ltd<br>Web URL: http:// www.segit.com.sg <br>Contact Hotline: 64830950 <br>Contact Email: sales@segit.com.sg <br>
+ Company Name: GKO Consultancy<br>Web URL: www.gkodigital.com <br>Contact Hotline: 88703371 <br>Contact Email: support@gko.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

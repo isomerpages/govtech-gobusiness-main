@@ -1,53 +1,30 @@
 ---
-title: 'Odoo Enterprise Version 16'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 
-## Odoo Enterprise Version 16
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
-<td style='padding: 10px;'>$8,675.00</td>
-<td style='padding: 10px;'>$7,275.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$9,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
-<td style='padding: 10px;'>$16,025.00</td>
-<td style='padding: 10px;'>$13,825.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$18,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg<br>2. Robot has a minimum load surface of 650MM x 550MM.<br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
 </tr>
 </table>
 
@@ -55,10 +32,6 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

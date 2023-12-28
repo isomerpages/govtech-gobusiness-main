@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting'
+title: 'Cisco Meraki Unified Threat Management Version FS20230315'
 permalink: /productivity-solutions-grant/solutionrepo/solution1212
 ---
 
-## AutoCount Accounting
+## Cisco Meraki Unified Threat Management Version FS20230315
 
 ## Overview
 
 **Description**
 
-AutoCount possess more than 25 years software development experience. Its main business is to develop and provide high quality accounting software as well as other business applications to small and medium sized enterprises. As at today, AutoCount Accounting have been the preferred choices of most SMEs in Malaysia and its surrounding countries. More than 200,000 companies and 600,000 users of various industries/sectors
+With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch, businesses have access to leading cybersecurity expertise, top-notch customer service, 24x7 coverage and protection. Meraki firewall delivers secure, consistent and exceptional network experience for businesses with Network Insights, Real Time Monitoring and Analytics. The solution equips your hybrid workforce with best in class technologies and strives to obtain Cyber Essentials Mark certification.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ AutoCount possess more than 25 years software development experience. Its main b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (1 Users) </td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'>$4,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX75</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (3 Users) </td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'>$5,920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX85</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (5 Users)</td>
-<td style='padding: 10px;'>$11,020.00</td>
-<td style='padding: 10px;'>$11,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX95</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (8 Users)  </td>
-<td style='padding: 10px;'>$12,820.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (15 Users) </td>
-<td style='padding: 10px;'>$17,020.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX105</td>
+<td style='padding: 10px;'>$13,000.00</td>
+<td style='padding: 10px;'>$13,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ AutoCount possess more than 25 years software development experience. Its main b
 
 ## Vendor Information
 
- Web URL: http://autocountsoft.com.sg/autocount-accounting/ <br><br>Contact Hotline: 6583219689 <br><br>Contact Email: sales.sg@autocountsoft.com <br><br>
+ Company Name: Contfinity Pte. Ltd.<br>Web URL: www.contfinity.com <br>Contact Hotline: 68718855 <br>Contact Email: sales@contfinity.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

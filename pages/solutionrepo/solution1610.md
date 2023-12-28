@@ -1,15 +1,15 @@
 ---
-title: '5'
+title: 'BlueMeg Console Version NA'
 permalink: /productivity-solutions-grant/solutionrepo/solution1610
 ---
 
-## 5
+## BlueMeg Console Version NA
 
 ## Overview
 
 **Description**
 
-Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Security Service delivers instant pre-breach proactive protection against the most sophisticated cyberattacks efficiently without the need for prior knowledge. AMTD stops ransomware, supply chain attacks, zero-days, and other advanced attacks. Paired with our 24/7 monitoring center, we ensure customers sleep better at night knowing they're protected.
+The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,10 @@ Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Secu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (50 license)</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'>$6,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (100 license)</td>
-<td style='padding: 10px;'>$21,260.00</td>
-<td style='padding: 10px;'>$21,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (150 license)</td>
-<td style='padding: 10px;'>$33,280.00</td>
-<td style='padding: 10px;'>$33,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (200 license)</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +36,7 @@ Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Secu
 
 ## Vendor Information
 
- Company name: EQCOMS Technology Pte Ltd<br>Web URL: https://eqcoms.com/our-products/morphisec-pre-approved-psg-available/ <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
+ Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
