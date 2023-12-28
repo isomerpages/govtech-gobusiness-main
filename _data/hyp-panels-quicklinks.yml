@@ -45,8 +45,12 @@ panels:
       - text: Food Services Licence Guided Journey
         href: https://foodservices.gobusiness.gov.sg/licences/foodservices?/?src=eservices
         target: _blank
+      - text: Verify an entity's licence
+        href: https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices
+        target: _blank
+        is_new: false
   - title: Emergency Preparedness
-    image: /images/Covid.svg
+    image: /images/Emergency.svg
     alt: ""
     links:
       - text: Haze
@@ -54,3 +58,7 @@ panels:
         is_new: false
       - text: Covid-19
         href: /covid/?src=eservices
+        is_new: false
+      - text: SGSecure @ Workplaces
+        href: /sgsecure/?src=eservices
+        is_new: true

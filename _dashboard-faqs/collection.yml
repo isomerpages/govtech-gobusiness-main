@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - 01-hub.md
+
       - 02-apply-new-licence.md
       - 03-find-approved-licences.md
       - 04-view-licence-statuses.md
@@ -20,3 +21,4 @@ collections:
       - 10-about.md
       - 11-account-access.md
       - 12-contact-helpdesk.md
+

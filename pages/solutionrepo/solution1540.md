@@ -1,15 +1,15 @@
 ---
-title: 'iFoundries E-commerce Jump Start Package Version 4'
+title: 'Network Box Next Generation Managed Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution1540
 ---
 
-## iFoundries E-commerce Jump Start Package Version 4
+## Network Box Next Generation Managed Security
 
 ## Overview
 
 **Description**
 
-Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
+Network Box Next Generation Managed Security is a Managed Security Service Provider providing protection against the latest cyber threats on a 24/7 basis. By outsourcing cybersecurity to Network Box, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_Asia_Pacific_Ecommerce_Jump_Start_PKG_Ver4_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I - Low Workload</td>
+<td style='padding: 10px;'>$7,203.00</td>
+<td style='padding: 10px;'>$7,203.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package II - Medium Workload</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package III - Higher Workload</td>
+<td style='padding: 10px;'>$10,028.00</td>
+<td style='padding: 10px;'>$10,028.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package IV - S-80i</td>
+<td style='padding: 10px;'>$12,171.00</td>
+<td style='padding: 10px;'>$12,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package V - M-295i</td>
+<td style='padding: 10px;'>$21,356.00</td>
+<td style='padding: 10px;'>$21,356.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 
 ## Vendor Information
 
- Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+ Company Name: NETWORK BOX (SIN) PTE. LTD.<br>Web URL: www.network-box.sg<br>Contact Hotline: 63395900<br>Contact Email: enquiry@network-box.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

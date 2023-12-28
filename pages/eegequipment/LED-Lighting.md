@@ -158,6 +158,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Brite - BG23-018W/6KKT84FF
 - Brite - BG34-018W/4KKT84FH
 - Brite - BG34-018W/6KKT84FH
+- BRITZ - LEDT8-24W4F
+- BRITZ - LEDT8-30W4F
 - Dluces - DLS-LED-T8-1200-HB
 - Dluces - DLS-LED-T8-600-HB
 - DMS - A60-4W-LED-DIM-AMBER
@@ -208,9 +210,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-GT-12B22
 - DYCORRA - DY-GT-12E27
 - DYCORRA - DY-GT-12TE27S
+- DYCORRA - DY-GT-7912E27S
 - DYCORRA - DY-GT-9E27
 - DYCORRA - DY-LFCN-4E14
 - DYCORRA - DY-LFCN-4E14DIM
+- DYCORRA - DY-LFCN-4E27
+- DYCORRA - DY-LFGA-4E14
 - DYCORRA - DY-LFGA-4E27
 - DYCORRA - DY-LFGB-6E27
 - DYCORRA - DY-LFGB-6E27CL
@@ -228,9 +233,18 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-PIN-9G24
 - DYCORRA - DY-PINW-9E27
 - DYCORRA - DY-R63A-12E27
+- DYCORRA - DY-T8A-30
 - DYCORRA - DY-UFO-18
 - DYCORRA - DY-UFO-28
 - DYCORRA - DY-UFO-38E27
+- ECOLINK - 8719514683730
+- ECOLINK - 8719514683754
+- ECOLINK - 8719514683778
+- ECOLINK - 8719514683792
+- ECOLINK - 8719514683815
+- ECOLINK - 8719514683839
+- ECOLINK - 8719514683853
+- ECOLINK - 8719514683877
 - ESSEN - GD-1355-10W-24D 2700K BK c/w PHILIPS MINI CERTA DRIVER
 - ESSEN - XT TD 013A 1024 Black 2700K Warm White c/w Non dim ledVANCE driver
 - First LED - DL-T8-10w-3000k
@@ -292,12 +306,19 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - FSL - C38-FSL-5W-E27-30
 - FSL - C38-FSL-5W-E27-65
 - FSL - T8-FSL-22W-180-265V-30
+- FSL - T8-FSL-22W-180-265V-30
+
 - FSL - T8-FSL-22W-180-265V-40
+- FSL - T8-FSL-22W-180-265V-40
+
 - FSL - T8-FSL-22W-180-265V-65
+- FSL - T8-FSL-22W-180-265V-65
+
 - FSL - T8-FSL-26W-180-265V-65
 - FSL - T8-FSL-30W-180-265V-30
 - FSL - T8-FSL-30W-180-265V-40
 - FSL - T8-FSL-30W-180-265V-65
+- FSL - T8-FSL-30W-180-265V-67
 - FSL - T8-FSL-9W-180-265V-30
 - FSL - T8-FSL-9W-180-265V-40
 - FSL - T8-FSL-9W-180-265V-65
@@ -321,6 +342,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Glos - Horizon - SPW21W4001ND-1200
 - GLOS - PINT-1 / 13W
 - Glos - PRO FIXED-2
+- Glowlit - YMB2835165-W30K3
+- Glowlit - YMB2835165-W30K4
+- Glowlit - YMB2835165-W30K6
 - IKEA - LED1545G12
 - IKEA - LED1714C3
 - IKEA - LED1835C6
@@ -394,13 +418,32 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - JNB - QL-T8-1.2M-30W (3000K)
 - JNB - QL-T8-1.2M-30W (4000K)
 - JNB - QL-T8-1.2M-30W (6000K)
+- KE LICHT - TD6605-12
+- KE LICHT - TD6605-15
+- KE LICHT - TD6605-18
+- KE LICHT - TD6605-6
+- KE LICHT - TD6605-9
+- KE LICHT - TD6606-12
+- KE LICHT - TD6606-15
+- KE LICHT - TD6606-18
+- KE LICHT - TD6606-6
+- KE LICHT - TD6606-9
+- KE LICHT - TD6616-481
+- KE LICHT - TD6616-482
+- KE LICHT - TD6616-72
+- KE LICHT - TD6813-12
+- KE LICHT - TD6813-18
+- KE LICHT - TD6813-24
 - KEYTO - Linea 1.5''
 - KGR - KGRT5-8W1200MM
 - KGR - KGRT8-8W1200MM
 - LED ECO LIGHTING - JYQP-03D-2
 - LED ECO LIGHTING - JYQP-07D-2
 - LED ECO LIGHTING - JYQP-09D-02
+- LED LIGHTING - T100-LED-25W-65
+- LED LIGHTING - T130-LED-60W-65
 - LED LIGHTING - T8-LED-30W-65
+- LED-Lighting - T115-LED-35W-65
 - LEDVANCE - LED PERFORMANCE FILA CLA 7.5W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/827
 - LEDVANCE - LED PERFORMANCE FILA CLA 7W/840
@@ -415,6 +458,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LEDVANCE - SMART + WIFI B40 TW 5W
 - LEDVANCE - SMART + WIFI CLA60 TW
 - LEDVANCE - SMART + WIFI CLA70 14W TW
+- Lighting - T140-LED-45W-65
 - Lighting Hub - WA29-12-aak-F
 - Lighting Hub - WA29-15-aak-F
 - Lighting Hub - WA29-3-aak-F
@@ -518,7 +562,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - A60F7-CL-D-7.2W-E-E27-2700K
 - Megaman - A60F7-SCL-D-4.2W-F-E27
 - Megaman - A60F8-D-7.2W-E-E27
+- Megaman - A60F8-D-8.5W-E-E27
 - Megaman - A60S1-9.6W-F-E27-3000K
+- Megaman - A60S1-9.6W-F-E27-4000K
 - Megaman - A60S1-9.6W-F-E27-6500K
 - Megaman - A60S1-D-5.5W-F-E27-2800K
 - Megaman - A60S1-D-8.7W-E-E27-3000K
@@ -737,6 +783,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Megaman - YTT8AA4-15W-S-3000K
 - Megaman - YTT8AA4-15W-S-4000K
 - Megaman - YTT8AA4-15W-S-6500K
+- Megaman - YTT8AA4-7.5W
 - Midea - MDL-BUA4505W-3000K
 - Midea - MDL-BUA4505W-6500K
 - Midea - MDL-BUA6006W
@@ -777,6 +824,13 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - MLS - WA2C48-38-F(3000K)
 - MLS - WA2C48-38-F(6500k 4000K)
 - MLS - WA2C48-48-F
+- MR.DIY Premium - A60-15-65/A12J/14/4
+- MR.DIY Premium - A60-5-65/A126/12
+- MR.DIY Premium - A60-8.5-30/A12J/14/7
+- MR.DIY Premium - A60-8.5-65/A12J/14/5
+- MR.DIY Premium - A60-9-30/A12J/14/5
+- MR.DIY Premium - A60-9-65/A12J/14/5
+- MR.DIY Premium - A70-13-65/A12J/14
 - NASONIK - LED JUMBO BULB 50W E27 DL
 - NASONIK - LED JUMBO BULB 50W E27 WW
 - NASONIK - LED PL-C 12W
@@ -1026,6 +1080,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Osram - Vintage 1906 LED Globe 6.5W/824
 - Osram - VINTAGE 1906 LED GLOBE 7W
 - OSRAM - WRCB136 (4ft)
+- Philips -  8718696753668
 - Philips - 11W E27 3000K 8718696762462
 - Philips - 11W E27 6500K 8718696762486
 - Philips - 29001161707
@@ -1035,12 +1090,16 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718696567135
 - Philips - 8718696567272
 - Philips - 8718696567296
+- Philips - 8718696706619
 - Philips - 8718696707098
 - Philips - 8718696707111
 - Philips - 8718696765265
 - Philips - 8718696765302
 - Philips - 8718696765326
 - Philips - 8718696818534
+- Philips - 8718696819210
+- Philips - 8718696819234
+- Philips - 8718696819258
 - Philips - 8718696822982
 - Philips - 8718696823002
 - Philips - 8718696823026
@@ -1085,8 +1144,10 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699619022
 - Philips - 8718699619046
 - Philips - 8718699619060
+- Philips - 8718699619060 (NEW)
 - Philips - 8718699619084
 - Philips - 8718699619107
+- Philips - 8718699619107 (NEW)
 - Philips - 8718699623098
 - Philips - 8718699623135
 - Philips - 8718699631024
@@ -1105,11 +1166,15 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699719876
 - Philips - 8718699719876(NEW)
 - Philips - 8718699780555
+- Philips - 8718699780555 (UPDATED)
 - Philips - 8718699780579
+- Philips - 8718699780579 (UPDATED)
 - Philips - 8718699780593
 - Philips - 8718699780616
 - Philips - 8718699780654
+- Philips - 8718699780654 (UPDATED)
 - Philips - 8718699780678
+- Philips - 8718699780678 (UPDATED)
 - Philips - 8718699780692
 - Philips - 8718699780715
 - Philips - 8718699780753
@@ -1130,6 +1195,11 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8719514387904
 - Philips - 8719514431669
 - Philips - 8719514431683
+- Philips - 8719514449374, 9290030120A MAS LEDLusterDT2.5, 25W E14 927 P45CL G
+- Philips - 8719514449398, 9290030121A  MAS LEDLusterDT2.5, 25W E27 927 P45CL G
+- Philips - 8719514449510, 9290030131A MAS LEDLusterDT3.4, 40W E14 927 P45CL G
+- Philips - 8719514449534, 9290030132A MAS LEDLusterDT3.5, 40W E27 927 P45CL G
+- Philips - 8719514449718, 9290030103A MAS LEDBulbDT5.9, 60W E27 927A60CL G
 - Philips - 8719514457898
 - Philips - 8719514457911
 - Philips - 9290011398
@@ -1333,7 +1403,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 929001338608 CorePro LEDtube 600mm 8W840 T8 AP I
 - Philips - 929001338708 CorePro LEDtube 600mm 8W865 T8 AP I
 - Philips - 929001338808 CorePro LEDtube 1200mm 14.5W840 T8AP I
-- Philips - 929001338908 CorePro LEDtube 1200mm 14.5W865 T8AP I
 - Philips - 929001350708 LED PLC 4.5W 830 2P G24d-1
 - Philips - 929001350808 LED PLC 4.5W 840 2P G24d-1
 - Philips - 929001350908 LED PLC 4.5W 865 2P G24d-1
@@ -1755,6 +1824,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 25W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
+- Racer - LED HIGH WATT MEGA BRIGHT 33W 6500K E27
+- Racer - LED HIGH WATT MEGA BRIGHT 45W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 33W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 45W 6500K E27
@@ -2102,6 +2173,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Yeelight - Pro M20 YLP034
 - Yeelight - Pro S20 YLP003 (50M PER LIGHT STRIP)
 - Yeelight - Pro S20 YLP003 (STRIP DRIVER)
+- Yulights - YT-2A38-20W
 
 ### Mode and Schedule of Payment 
 

@@ -1,16 +1,15 @@
 ---
-title: 'BricsCAD A.I Design Technologies'
+title: 'Accounts101 - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution30
 ---
 
-## BricsCAD A.I Design Technologies
+## Accounts101 - Xero
 
 ## Overview
 
 **Description**
 
-BricsCAD is a computer-aided design (CAD) system that is bringing new levels of performance and technical innovation to the industry-standard DWG format. The development team at Bricsys is incorporating A.I. / machine learning (ML) algorithms into BricsCAD, to help improve 3D BIM and MCAD workflows for AEC and Manufacturing Industries.
-BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Alliance.
+Xero is a cloud-based online accounting software that is simple to use and and be access anywhere & anytime. It allows unlimited users, invoice creation,  track cashflow, billing, bank reconciliation, expenses, inventory etc.
 
 ## Solution Packages Option(s)
 
@@ -24,41 +23,41 @@ BricsCAD is Part of "Hexagon PPM" and a founding member of the Open Design Allia
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Single User License</td>
-<td style='padding: 10px;'>$3,530.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$3,064.00</td>
+<td style='padding: 10px;'>$3,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Single User License</td>
-<td style='padding: 10px;'>$4,410.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset</td>
+<td style='padding: 10px;'>$3,764.00</td>
+<td style='padding: 10px;'>$3,707.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate Perpetual Network License</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset & Inventory</td>
+<td style='padding: 10px;'>$5,264.00</td>
+<td style='padding: 10px;'>$5,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BricsCAD Ultimate + Communicator for BricsCAD Perpetual Network License</td>
-<td style='padding: 10px;'>$6,650.00</td>
-<td style='padding: 10px;'>$2,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ACA_Pacific_20210038_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium with Fixed Asset, Inventory & Reporting</td>
+<td style='padding: 10px;'>$8,064.00</td>
+<td style='padding: 10px;'>$8,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Accounts101_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://aca-apac.com/sg/brands/-in-department/departments/bricsys <br><br>Contact Hotline: 65361728 <br><br>Contact Email: enquiry@acapacific.com.sg <br><br>
+ Company name:Accounts101 Pte Ltd<br>Web URL: https://www.accounts101.com.sg/ <br>Contact Hotline: 90844008 <br>Contact Email: admin@accounts101.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

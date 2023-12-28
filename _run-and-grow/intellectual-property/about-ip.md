@@ -46,6 +46,14 @@ Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP ser
 
 {% include panels-featurelink.html panels=site.data.rgp008a_ipgrow-about %}
 
+Watch the video below to learn how to manage your business's IA/IP with our platform.
+
+<p>
+<div class="bp-youtube">
+  <iframe title="GoBusiness IP Grow: Strengthen your business through your IA/IP" src="https://www.youtube.com/embed/asGOPbQL9X0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+</div>
+</p>
+
 ---
 <a name='list-as-ia-ip-service-provider'></a>
 
@@ -53,7 +61,7 @@ Not sure where to begin? Use our e-Advisers to get recommendations for IA/IP ser
 
 If you are a service provider offering any of the 20 IA/IP services featured on GoBusiness IP Grow, we welcome you to join our platform dedicated to serving the needs of Singapore's innovation ecosystem.
 
-[Apply to be an IA/IP service provider](https://iposinternational.com/events/news-announcements/gobusiness-ip-grow-application-guide_572){:target="_blank"}{:rel="noopener"} on GoBusiness IP Grow via IPOS International's website.  
+[Apply to be an IA/IP service provider](https://go.gov.sg/gobusiness-ip-grow-application-guide){:target="_blank"}{:rel="noopener"} on GoBusiness IP Grow via IPOS International's website.  
 
 ---
 <a name='resources-and-related-links'></a>

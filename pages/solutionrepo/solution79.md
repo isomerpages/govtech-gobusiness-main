@@ -1,15 +1,15 @@
 ---
-title: 'AdeptForms Security Operational Management Version 2'
+title: 'SQL Account Version 5'
 permalink: /productivity-solutions-grant/solutionrepo/solution79
 ---
 
-## AdeptForms Security Operational Management Version 2
+## SQL Account Version 5
 
 ## Overview
 
 **Description**
 
-AdeptForms help our clients to improve and grow by automating their business process. We believe that in the current world we live in, any manual and paper records can be paperless and automated. We strive to make our tools powerful enough for labour workers to professional executives, yet easy enough to use. And we pack our solutions with business and industries experience in our methodology and technology so users can be confident in the quality of the data
+SQL Account includes full range of business Accounting features including AR, AP, GL, Inventory, Banking, GST, Reporting. It has user-friendly interface to help SMEs perform daily operation, organise and analyse finance data for accurate reporting, customisable to suit business workflow. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ AdeptForms help our clients to improve and grow by automating their business pro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package A (Up to 5 Sites)</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1 User)</td>
+<td style='padding: 10px;'>$3,700.00</td>
+<td style='padding: 10px;'>$3,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package B (Up to 10 Sites)</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Advance - 1 User)</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'>$4,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package C (Up to 15 Sites)</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Advance - 3 Users) </td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package D (Up to 5 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$17,500.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Advance - 5 Users)</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AdeptForms Security Operational Management Version 2 - Package E (Up to 10 Sites include Bodyworn)</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adept_Ventures_20200133_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Advance - 8 Users)</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Apscom_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ AdeptForms help our clients to improve and grow by automating their business pro
 
 ## Vendor Information
 
- Company Name: Adept Ventures Pte Ltd<br>Web URL: https://www.adeptforms.com/ <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@adeptforms.com <br><br>
+ Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

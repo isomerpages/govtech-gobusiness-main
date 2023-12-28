@@ -1,15 +1,20 @@
 ---
-title: 'DM Corsiva Lab Digital Marketing Packages'
+title: 'Q-DAS - Smart Quality Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution279
 ---
 
-## DM Corsiva Lab Digital Marketing Packages
+## Q-DAS - Smart Quality Software
 
 ## Overview
 
 **Description**
 
-At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on their website with our Digital Marketing Packages. With an in-depth analysis & strategic marketing plan tailored for your business, you will be able to reach out to relevant target audiences with high purchase intent. Coupling our Digital Marketing efforts with Data Analytics, we aim to help your business reach out to potential customers at all touch points of their purchase journey. Speak with our in-house team today!
+Hexagon is a public listed company specializes in sensor, software and autonomous solutions which utilize data from design and engineering, production and metrology to make manufacturing smarter.
+Q-DAS is a quality analytical software that connects and digitizes production and inspection data, and performs real-time analysis: 
+Key features:
+1) Realtime data collection from all brands of measurement equipment
+2) Fast inspection program created from CAD
+3) Full SPC analysis
 
 ## Solution Packages Option(s)
 
@@ -23,38 +28,24 @@ At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on th
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Social Media Advertising [3 Months Package]</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 1</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'>$28,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Marketing and Social Media Marketing [3 Months Package]</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 2</td>
+<td style='padding: 10px;'>$34,000.00</td>
+<td style='padding: 10px;'>$29,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (10 Keywords) & Search Engine Marketing [3 Months Package]</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Search Engine Optimization (20 Keywords) & Content Marketing [6 Months Package]</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Marketing & Photography [3 Months Package]</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_DM_Corsiva_Lab_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Q-DAS - Smart Quality Software - SME QDAS Package 3</td>
+<td style='padding: 10px;'>$40,400.00</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Hexagon_Metrology_20200850_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +55,7 @@ At Corsiva Lab, we help businesses drive awareness, traffic & higher sales on th
 
 ## Vendor Information
 
- Company Name: Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br><br>Contact Hotline: +6581127835 <br><br>Contact Email: contact@corsivalab.com <br><br>
+ Company Name: Hexagon Metrology Asia Pacific Pte Ltd<br>Web URL: https://www.hexagonmi.com <br><br>Contact Hotline: 64636242 <br><br>Contact Email: contact.sg.mi@hexagon.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

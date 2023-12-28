@@ -11,7 +11,7 @@ description: Cybersecurity is a challenge when a lack of expertise, manpower, fu
 ![Cybersecurity practices for small and medium enterprises](/images/blog/content/Cybersecurity Feature.jpg)
 <figcaption>Cybersecurity may seem daunting for SMEs but there are several programmes to make such measures more easily implementable and affordable (Image: Canva)</figcaption>
 
-The Covid-19 pandemic saw unprecedented digitalisation for small and medium enterprises (SMEs). While this saw SMEs enjoying perks like [improved efficiency](https://www.gobusiness.gov.sg/gobusiness-blog/psg?src=home_blog){:target="_blank"}{:rel="noopener"}, [greater customer reach](https://www.gobusiness.gov.sg/gobusiness-blog/three-steps-to-digital-presence?src=home_blog){:target="_blank"}{:rel="noopener"} or even [simpler bookkeeping](https://www.gobusiness.gov.sg/gobusiness-blog/corporate-tax-filing-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}, the risks of going digital cannot be understated. 
+The Covid-19 pandemic saw unprecedented digitalisation for small and medium enterprises (SMEs). While this saw SMEs enjoying perks like [improved efficiency](/gobusiness-blog/psg?src=home_blog){:target="_blank"}{:rel="noopener"}, [greater customer reach](/gobusiness-blog/three-steps-to-digital-presence?src=home_blog){:target="_blank"}{:rel="noopener"} or even [simpler bookkeeping](/gobusiness-blog/corporate-tax-filing-singapore?src=home_blog){:target="_blank"}{:rel="noopener"}, the risks of going digital cannot be understated. 
 
 ### Common cybersecurity risks for SMEs
 
@@ -30,7 +30,7 @@ Not sure of where to start? CSA has created comprehensive toolkits that take SME
 
 The [Cybersecurity Toolkit](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/enterprise-leaders-and-sme-ownerss) for SME owners covers key topics like cybersecurity leadership, educating employees, protecting information assets such as hardware, software and data assets, securing access as well as building cyber resilience. It comprises actionable advice for SME owners to improve their cybersecurity posture as well as guiding statements and questions to help them understand the best practices in cybersecurity. 
 
-There’s even a toolkit dedicated specially for employees to raise their cyber awareness. After all, [human error](https://www.tessian.com/research/the-psychology-of-human-error/){:target="_blank"}{:rel="noopener"} accounts for about 85 per cent of data breaches. The [Cybersecurity Toolkit for Employees](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/cybersecurity-toolkit-for-employees){:target="_blank"}{:rel="noopener"} therefore delves into the measures staff can take to protect themselves and their organisation against cyber threats. This includes education on phishing, how to set strong passphrases, how to handle and disclose important data, and even covers remote work. 
+There’s even a toolkit dedicated specially for employees to raise their cyber awareness. After all, [human error](https://www.tessian.com/resources/psychology-of-human-error-2022/){:target="_blank"}{:rel="noopener"} accounts for about 85 per cent of data breaches. The [Cybersecurity Toolkit for Employees](https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-toolkits/cybersecurity-toolkit-for-employees){:target="_blank"}{:rel="noopener"} therefore delves into the measures staff can take to protect themselves and their organisation against cyber threats. This includes education on phishing, how to set strong passphrases, how to handle and disclose important data, and even covers remote work. 
 
 ### First steps: Cybersecurity Health Plan
 
@@ -59,7 +59,7 @@ To achieve the mark, organisations will first need to introduce measures across 
 
 SMEs looking to attain the Cyber Essentials mark can consider looking into pre-approved cyber solutions under the [SMEs Go Digital programme](https://www.imda.gov.sg/how-we-can-help/smes-go-digital){:target="_blank"}{:rel="noopener"}. Under this programme, CSA has worked with the Infocomm Media Development Authority and Enterprise Singapore to curate [a list of pre-approved cybersecurity solutions](https://services2.imda.gov.sg/CTOaaS/Solutions){:target="_blank"}{:rel="noopener"} that are market-proven, cost-effective and provided by reliable vendors.
 
-Those who wish to adopt these solutions can also get funding support through the [Productivity Solutions Grant](https://www.gobusiness.gov.sg/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} for Endpoint Protection, Managed Detection and Response, and Unified Threat Management solutions. 
+Those who wish to adopt these solutions can also get funding support through the [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}{:rel="noopener"} for Endpoint Protection, Managed Detection and Response, and Unified Threat Management solutions. 
 
 <em> This article is accurate as at 28 Aug 2023</em>
 

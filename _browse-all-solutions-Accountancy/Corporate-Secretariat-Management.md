@@ -20,8 +20,16 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1768' target='_blank'>CAS 360 Professional SG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1221' target='_blank'>CAS 360 Professional SG</a><br></td>
 <td>BGL CORPORATE SOLUTIONS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1552' target='_blank'>TWCSS - teamWork Corporate Secretarial Solution</a><br></td>
+<td>teamWork APAC Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1610' target='_blank'>BlueMeg Console Version NA</a><br></td>
+<td>BlueMeg Technologies Pte. Ltd.</td>
 </tr>
 </table>
 

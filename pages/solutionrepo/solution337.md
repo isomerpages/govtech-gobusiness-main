@@ -1,15 +1,15 @@
 ---
-title: 'MyRetailer Plus Version 4'
+title: 'Invisiron Cyber Defence'
 permalink: /productivity-solutions-grant/solutionrepo/solution337
 ---
 
-## MyRetailer Plus Version 4
+## Invisiron Cyber Defence
 
 ## Overview
 
 **Description**
 
-MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
+Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A</td>
-<td style='padding: 10px;'>$4,190.00</td>
-<td style='padding: 10px;'>$3,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with Second Monitor</td>
-<td style='padding: 10px;'>$4,540.00</td>
-<td style='padding: 10px;'>$3,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with Web Store</td>
-<td style='padding: 10px;'>$5,390.00</td>
-<td style='padding: 10px;'>$4,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with Cloud Dashboard</td>
-<td style='padding: 10px;'>$7,390.00</td>
-<td style='padding: 10px;'>$6,370.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with Unified Payments</td>
-<td style='padding: 10px;'>$4,926.00</td>
-<td style='padding: 10px;'>$3,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DCS_Synthesis_MyRetailer_Plus_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 
 ## Vendor Information
 
- Company name:DCS Synthesis Pte. Ltd.<br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz 
+ Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

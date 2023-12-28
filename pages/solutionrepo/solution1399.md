@@ -1,15 +1,15 @@
 ---
-title: 'RAVENPOS DIGITAL ORDERING SOLUTION Version 12'
+title: 'Eber Loyalty Marketing Platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution1399
 ---
 
-## RAVENPOS DIGITAL ORDERING SOLUTION Version 12
+## Eber Loyalty Marketing Platform
 
 ## Overview
 
 **Description**
 
-RavenPOS Digital Ordering Solution, a feature-rich digital platform engineered for the food services industry. The solution provides end users with an efficient and user-friendly interface to better manage daily business operation; allowing their customers to move quickly through busy queues and generates useful insights and reporting for analytical purposes.
+Eber Smart Member Solution is a smart member system that comes with comprehensive loyalty & rewards system, CRM, marketing, gift card and analytic tool. Businesses can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,34 @@ RavenPOS Digital Ordering Solution, a feature-rich digital platform engineered f
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic package</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package with Professional Services</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$15,700.00</td>
-<td style='padding: 10px;'>$14,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package with Professional Services</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+ Company Name: Eber Pte Ltd<br>Web URL: https://eber.co <br>Contact Hotline: 31590888 <br>Contact Email: hello@eber.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

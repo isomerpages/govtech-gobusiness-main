@@ -1,15 +1,15 @@
 ---
-title: 'Singtel-Fortinet Unified Threat Management Version 1'
+title: 'Autocount Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution859
 ---
 
-## Singtel-Fortinet Unified Threat Management Version 1
+## Autocount Accounting System
 
 ## Overview
 
 **Description**
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+AutoCount Accounting is a fully integrated accounting and inventory management solution that meet today business requirements. Characterized by its easy-to-learn and integrated features, AutoCount Accounting helps to streamline business operation and address their accounting needs. The solution come with a secure and stable database for every type of business, promoting data-informed business decisions and improves overall business efficiency. It is also InvoiceNow ready.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,52 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (1 User)</td>
+<td style='padding: 10px;'>$4,140.00</td>
+<td style='padding: 10px;'>$3,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
+<td style='padding: 10px;'>$5,340.00</td>
+<td style='padding: 10px;'>$5,140.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (3 Users)</td>
+<td style='padding: 10px;'>$6,840.00</td>
+<td style='padding: 10px;'>$6,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Users)</td>
+<td style='padding: 10px;'>$10,240.00</td>
+<td style='padding: 10px;'>$9,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (10 Users)</td>
+<td style='padding: 10px;'>$13,240.00</td>
+<td style='padding: 10px;'>$12,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rockbell_International_Software_Autocount_Accounting_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$48,200.00</td>
+<td style='padding: 10px;'>$37,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (10 users with InvoiceNow) - TH6</td>
+<td style='padding: 10px;'>$69,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Technologies_Synergix_E1_Sales_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +78,7 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 
 ## Vendor Information
 
- Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
+ Company name:Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

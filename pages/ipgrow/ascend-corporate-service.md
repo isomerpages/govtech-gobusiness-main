@@ -79,7 +79,7 @@ Ascend Corporate Service Pte Ltd, which has been providing company formation, co
 - Years of Experience: 11 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trade Mark Agent Service
-- URL of LinkedIn/Company Profile: <a href="https://ascendacca.com/zh/accounting-services-in-singapore/" target="_blank" rel="noopener">https://ascendacca.com/zh/accounting-services-in-singapore/</a>
+- URL of LinkedIn/Company Profile: <a href="https://ascendacca.com/accounting-services-in-singapore/" target="_blank" rel="noopener">https://ascendacca.com/accounting-services-in-singapore/</a>
 
 ---
 <p>

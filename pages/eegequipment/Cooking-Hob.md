@@ -12,6 +12,10 @@ Induction technology
 
 ### Pre-Approved Equipment Brands and Models
 
+- Aerogaz - AZ-7328iC
+- Angelo Po (Italy) - 1S1VT1IB
+- ATA (Italy) - K7ECI05TT
+- ATA (Italy) - K7ECI10TT
 - Bertazzoni - P302IB2NE
 - Bertazzoni - P603I30NV
 - Bertazzoni - P885IC2G5NE
@@ -83,6 +87,7 @@ Induction technology
 - Hatco - IWRM-C1-1317-06
 - Hatco - IWRM-CD1-03
 - Hatco - IWRM-CD1-05
+- Lincat (UK) - SLI42
 - Mantru.e - ZC2-C366A
 - Mantru.e - ZC2-C366A-Q
 - Mantru.e - ZC2-C366B-Q
@@ -115,15 +120,7 @@ Induction technology
 - RATIONAL - iVario Pro 2-S
 - RATIONAL - iVario Pro L
 - RATIONAL - iVario Pro XL 
-- ROLLER GRILL Sia-Huat - (238SD-PIC25)
-- ROLLER GRILL Sia-Huat - (238SD-PID30)
-- ROLLER GRILL Sia-Huat - (238SD-PID700)
-- ROLLER GRILL Sia-Huat - (238SD-PIS30)
-- ROLLER GRILL Sia-Huat - (238SD-PIW30)
-- SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
 - SAFICO PRO Sia-Huat - (1101SF-AT-25A)
-- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
-- SAFICO PRO Sia-Huat - (1101SF-CW-28A)
 - SAFICO PRO Sia-Huat - (1101SF-DT-28T)
 - Sia-Huat - (217BH-BT-180G6)
 - Sia-Huat - (217BH-BT-350A-G)

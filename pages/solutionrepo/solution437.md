@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central (NAV) On Cloud'
+title: 'RavenPOS Enterprise Retail Business Suite Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 
-## Microsoft Dynamics 365 Business Central (NAV) On Cloud
+## RavenPOS Enterprise Retail Business Suite Version 12
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick-to-implement, simple-to-use business solution with the power to support all the business ambitions.
+RavenPOS offers enhanced retail management solution for the retail sector with full integration to cloud system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level,  full cloud based accounting suite to assist business owners to gain holistic view of the company's financial health
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,41 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package A (5 Essential Users with Peppol)</td>
-<td style='padding: 10px;'>$22,905.00</td>
-<td style='padding: 10px;'>$20,155.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Basic</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RGD Package B (10 Essential Users with Peppol)</td>
-<td style='padding: 10px;'>$37,335.00</td>
-<td style='padding: 10px;'>$29,235.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Globalsoft_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Advanced</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2_30_June_2022.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Professional</td>
+<td style='padding: 10px;'>$11,900.00</td>
+<td style='padding: 10px;'>$11,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Enterprise Retail Business Suite Version 12 - Enterprise</td>
+<td style='padding: 10px;'>$14,400.00</td>
+<td style='padding: 10px;'>$14,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4_30_June_2022.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Globalsoft Solutions Pte Ltd<br>Web URL: http://mng-solutions.com/dynamics-365-business/ <br>Contact Hotline: 65705012 <br>Contact Email: enquiries@mng-solutions.com 
+ Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ## Fleet Management System
 ## Overview
 
+**Description**
+
+Telematics and GPS tracking technology that provides the company a complete overview of its fleet's real-time location and operating condition.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,35 +32,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution238' target='_blank'>Cartrack Fleet Management</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution141' target='_blank'>Cartrack Fleet Management</a><br></td>
 <td>Cartrack Technologies South East Asia Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution421' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution242' target='_blank'>FocusGuard FMS Version 2.0</a><br></td>
 <td>FocusGuard Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution744' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution469' target='_blank'>iTrack Vehicle Fleet Tracking</a><br></td>
 <td>Pivotal Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution981' target='_blank'>Automotive Tracking System Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution614' target='_blank'>Automotive Tracking System Version 1</a><br></td>
 <td>TRACK 365 PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution988' target='_blank'>V3Nity-FMS Fleet Management System Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution620' target='_blank'>V3Nity-FMS Fleet Management System Version 3.0</a><br></td>
 <td>V3 Smart Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1001' target='_blank'>Fleet Management Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution628' target='_blank'>Fleet Management Solutions</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1238' target='_blank'>Ascent iSPOT Fleet Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution786' target='_blank'>Ascent iSPOT Fleet Management System</a><br></td>
 <td>Ascent Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1436' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution944' target='_blank'>SKYFY VTS FLEET MANAGEMENT SYSTEM</a><br></td>
 <td>Skyfy Technology Pte Ltd</td>
 </tr>
 </table>

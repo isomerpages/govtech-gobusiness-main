@@ -1,15 +1,15 @@
 ---
-title: 'Intuit Quickbooks Online Full Transformation Packages'
+title: 'TWCSS - teamWork Corporate Secretarial Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
-## Intuit Quickbooks Online Full Transformation Packages
+## TWCSS - teamWork Corporate Secretarial Solution
 
 ## Overview
 
 **Description**
 
-Quickbooks Online is a user-friendly accounting solution and is able to track sales, expenses and profit or by classes, projects, and locations. The solution can generate digital sales quotations and sales invoices and can track and manage Goods and Services Tax (GST) with customized IRAS Form F5.
+TWCSS is a fully cloud-based solution that manages SME entire corporate secretarial operation. teamWork TWCSS helps automate SME work processes to achieve a higher level of control, clarity and consistency. Through consolidating the entire database into the system, TWCSS can easily automate most of the work processes, helping SME to maximise its productivity & efficiency levels throughout.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Quickbooks Online is a user-friendly accounting solution and is able to track sa
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Plan</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (100 Active Company Count)</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential Plan </td>
-<td style='padding: 10px;'>$3,564.00</td>
-<td style='padding: 10px;'>$3,564.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business</td>
-<td style='padding: 10px;'>$5,664.00</td>
-<td style='padding: 10px;'>$5,664.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Micro Business - With Customised Training</td>
-<td style='padding: 10px;'>$6,864.00</td>
-<td style='padding: 10px;'>$6,864.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>For Small Business - With Customised Training</td>
-<td style='padding: 10px;'>$9,264.00</td>
-<td style='padding: 10px;'>$9,264.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Acc_Pro_Intuit_Quickbooks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (100 Active Company Count + 3 PMS User Licenses)</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: www.accprosingapore.com <br><br>Contact Hotline: 63520103 <br><br>Contact Email: sales@accprosingapore.com <br><br>
+ Company Name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

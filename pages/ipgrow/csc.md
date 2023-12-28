@@ -100,7 +100,7 @@ CSC is the trusted provider of choice for the Forbes Global 2000 and the 100 Bes
 - Years of Experience: 19 years
 - Location: United States
 - IA/IP-Related Expertise: IP Audit, IP Portfolio Management
-- Certifications/Qualifications: Alumni/Mentor at Leadership Delaware
+- Certifications/Qualifications: Degree in Operations Management with a Minor in International Economics, Alumni/Mentor at Leadership Delaware, Featured Speaker at various Cyber Security and Brand Protection Panels
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/vicdebari/" target="_blank" rel="noopener">https://www.linkedin.com/in/vicdebari/</a>
 
 **Alban Kwan**
@@ -123,7 +123,7 @@ CSC is the trusted provider of choice for the Forbes Global 2000 and the 100 Bes
 
 **John Valenzuela**
 
-- Job Title: Commercial lead, Oceania, India, Southeast Asia
+- Job Title: Commercial Lead, Oceania, India, Southeast Asia
 - Years of Experience: 7 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Portfolio Management

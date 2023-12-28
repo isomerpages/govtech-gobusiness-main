@@ -153,13 +153,6 @@
   alt: GoBusiness 99 Old Trees founders
   date: 2022-12-23
 - tag: Business Tips & Tricks
-  title: Three ways to navigate the GST hike
-  body: Here are three tips to help your business maintain your bottom line in spite of the GST hike!
-  link: /gobusiness-blog/navigating-GST-hike
-  image: /images/blog/GSTHike Thumbnail.jpg
-  alt: Navigating the upcoming GST hike
-  date: 2022-12-28
-- tag: Business Tips & Tricks
   title: 'What you need to know before starting your new F&B business'
   body: 'Starting a F&B business in Singapore? This overview of the sector will help you with your planning.'
   link: /gobusiness-blog/starting-fnb-biz
@@ -257,3 +250,31 @@
   image: /images/blog/content/Regulatory Cover Image.png
   alt: First year regulatory requirements
   date: 2023-08-18
+- tag: GoBusiness How-To
+  title: 'Common intellectual property challenges and how to overcome them'
+  body: Discover how GoBusiness IP Grow empowers you to protect, navigate and commercialise your intangible assets for sustained success.
+  link: /gobusiness-blog/Intellectual-property-rights-business-singapore
+  image: /images/blog/content/ipgrow-cover.png
+  alt: Understanding how to navigate, protect and commercialise your intangible assets is key to safeguarding your business’s intellectual property
+  date: 2023-09-24
+- tag: Behind the Business
+  title: 'Behind Scent by Six’s mission to upskill and do good'
+  body: Scent by Six founder on the need for upskilling, progressive wages and purpose in work.
+  link: /gobusiness-blog/jason-lee-scent-by-six-progressive-wage-mark-upskilling
+  image: /images/blog/content/scent 1.jpg
+  alt: Scent by Six founder on the need for upskilling, progressive wages and purpose in work.
+  date: 2023-10-11
+- tag: Business Tips & Tricks
+  title: Three ways to navigate the GST hike
+  body: Here are three tips to help your business maintain your bottom line in spite of the GST hike!
+  link: /gobusiness-blog/navigating-GST-hike
+  image: /images/blog/GSTHike Thumbnail.jpg
+  alt: Navigating the upcoming GST hike
+  date: 2023-11-10
+- tag: Business Tips & Tricks
+  title: Sunnystep founder on securing IP as key to success 
+  body: Sunnystep’s founder Mao Ting shares how safeguarding its IP became the brand’s competitive edge. 
+  link: /gobusiness-blog/sunnystep-intellectual-property-journey
+  image: /images/blog/content/sunnystep 1.png
+  alt: Mao Ting Founder of Sunnystep
+  date: 2023-12-12

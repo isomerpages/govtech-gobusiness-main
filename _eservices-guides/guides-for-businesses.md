@@ -59,9 +59,14 @@ The [SkillsFuture for Enterprise User Guide](/skillsfuture-for-enterprise/?src=e
 - [More Licence e-Advisers](/licences/find-licence-by-sector/?src=eservices_guidesforbiz)
   <br>Browse the full directory of e-Advisers for business owners to find out the licences they need. Select your business sector to find the relevant e-Adviser.
 
+### For verifying a licence 
+
+- [Licence Verifier](https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
+  <br>Find out if a company or person has a licence by doing a search.
+
 <a name="verifying-licence-or-accreditation"></a>
 
-### For verifying a licence or accreditation
+### For verifying an accreditation
 
 - [Accreditation Verifier](https://dashboard.gobusiness.gov.sg/verify-accreditation?src=eservices_guidesforbiz){:target="_blank"}<span style="background: #E6F2F3; border-radius: 3px; width: 53px; height: 22px; padding: 2px 8px; font-family: hknova-bold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;"> NEW!</span>
   <br>Find out if a company or person has a Progressive Wage (PW) Mark by doing a search.
@@ -74,7 +79,7 @@ The <a href='/gobiz-guides/guide-for-organising-events?src=eservices_guidesforbi
 
 The Events Proposal Box allows event organisers to propose unique event concepts for collaboration with the government, or seek government endorsements for regulatory approvals. Currently, only proposals for Sporting and MICE events are accepted.
 
-- <a href='https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>For event organisers to find out the licences and permits needed to organise a physical event.
+- <a href='https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events' target='_blank' rel='noopener'>e-Adviser for Events</a><br>Receive personalised recommendations on licences and permits required for your event, and be guided through the application to reduce processing delays.
 
 - <a href='https://go.gov.sg/z6he6v' target='_blank' rel='noopener'>Proposal Box for MICE Event</a><br>Submit a proposal for an innovative MICE event that positions Singapore as the choice destination for business tourism. For proposals that include a request for government funding, please find out more about <a href='https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/assistance-and-licensing.html' target='_blank' rel='noopener'>STB's various assistance schemes</a>.
 

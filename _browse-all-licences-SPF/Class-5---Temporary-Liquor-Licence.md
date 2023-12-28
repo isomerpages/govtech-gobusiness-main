@@ -8,7 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/bb3829d5-86f2-4d9a-a367-fbe1571c6a69" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/class5temporaryliquorlicence" type="primary" %}
 
 <H3>Application Details</H3>
 
@@ -24,14 +24,7 @@ More information can be found at the
 </li>
 <li>
 <strong>Who can be an applicant?</strong><br>
-If you have just updated ACRA for any changes related to your Company�s name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
-
-<strong>Entity Type:</strong> <br>
-Limited Liability Partnership<br>
-<strong>Eligibility Criteria:</strong><br>
-Applicant must be having position:<br> 
-* PARTNER<br> 
-<br>
+If you have just updated ACRA for any changes related to your Company's name or staff listing, Please allow for at least a day before you submit any application in LicenceOne with relation to these changes. This waiting time is required to get the updates synced for LicenceOne system verification.<br><br>
 
 <strong>Entity Type:</strong> <br>
 Limited Liability Partnership<br>
