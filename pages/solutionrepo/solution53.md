@@ -1,15 +1,16 @@
 ---
-title: 'Advante Consulting - Xero Cloud Accounting'
+title: 'AGHRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution53
 ---
 
-## Advante Consulting - Xero Cloud Accounting
+## AGHRM
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
+AGHRMS is an All-in-One Cloud Payroll & HR Software for today's HR: Easy Payroll for 100% compliance, eAttendance, Appraisal, Leave, Claims etc on a Single, Secure Portal.
+Intelligently-customisable, AGHRMS enables Self-Service HR by streamlining repetitive, tedious processes for 80% increase in HR efficiency. The company serves SMEs, MNCs & NPOs with presence in countries mainly in Singapore, Malaysia, Indonesia, Myanmar and Thailand.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,31 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Standard Subscription Only)</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 30</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Standard Basic Package)</td>
-<td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'>$2,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 50</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premium Basic Package)</td>
-<td style='padding: 10px;'>$2,650.00</td>
-<td style='padding: 10px;'>$2,625.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 100</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'>$7,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Standard Full Package)</td>
-<td style='padding: 10px;'>$3,200.00</td>
-<td style='padding: 10px;'>$3,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Premium Full Package)</td>
-<td style='padding: 10px;'>$3,450.00</td>
-<td style='padding: 10px;'>$3,425.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Advante_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AGHRM 200</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AG_Net_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +58,7 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 
 ## Vendor Information
 
- Company name:Advante Consulting Pte Ltd<br>Web URL: https://www.advanteconsulting.com/ <br>Contact Hotline: 63387457 <br>Contact Email: info@advanteconsulting.com 
+ Company name:AG NET PTE. LTD.<br>Web URL: https://www.aghrms.com/hrms-payroll-software-singapore/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
