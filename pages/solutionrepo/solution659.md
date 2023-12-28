@@ -1,15 +1,15 @@
 ---
-title: 'DM The Little Black Book Social Media Digital Marketing Package'
+title: 'EzySalesOrder Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution659
 ---
 
-## DM The Little Black Book Social Media Digital Marketing Package
+## EzySalesOrder Version 3.0
 
 ## Overview
 
 **Description**
 
-TLBB's solutions are designed to help SMEs enhance their client's social presence, improve brand recognition, as well as increase engagement rates and sales. They don't just do amazing creatives, TLBB taps into the power of social media to make sure the right people see their clients. TLBB gives brands the boost they need because they are the video experts. Optimised for social media, bite-sized videos will help capture & retain audience's attention through the power of immersive storytelling.
+Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  SMM Facebook + SMM Instagram [3 Months]</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Device)</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'>$10,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook + SMM Instagram + Live Shoot [3 Months]</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/The_Little_Black_Book_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Devices)</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'>$12,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Devices)</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'>$14,980.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Devices)</td>
+<td style='padding: 10px;'>$19,780.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ TLBB's solutions are designed to help SMEs enhance their client's social presenc
 
 ## Vendor Information
 
- Company name:The Little Black Book Pte Ltd<br>Web URL: www.tlbb.com.sg <br>Contact hotline: 87899028<br>Contact email: fong@tlbb.com.sg
+ Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

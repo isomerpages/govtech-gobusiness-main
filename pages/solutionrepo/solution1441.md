@@ -1,17 +1,15 @@
 ---
-title: 'CCH ProSystem fx Engagement'
+title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1441
 ---
 
-## CCH ProSystem fx Engagement
+## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-Drive quality and efficiency for your firm's engagements with our award-winning audit solutions. Integrated with Audit Data Analytics and other modules support all engagements of Small and Medium Accounting Practices. 
-
-Teammate Analytics help SMPs to ensure governance, risk mitigation, and compliance with standards from ISCA while also keeping the focus on auditor judgment and delivering deep insights through ADA. Flexible enough for both simple and complex audits, or engagements of any type.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -25,10 +23,10 @@ Teammate Analytics help SMPs to ensure governance, risk mitigation, and complian
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
-<td style='padding: 10px;'>$12,537.20</td>
-<td style='padding: 10px;'>$9,516.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Wolters_Kluwer_Singapore_CCH_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -38,7 +36,7 @@ Teammate Analytics help SMPs to ensure governance, risk mitigation, and complian
 
 ## Vendor Information
 
- Company Name: Wolters Kluwer Singapore Pte Ltd<br>Web URL: https://www.wolterskluwer.com/en-sg/solutions/cch-prosystem-fx-engagement <br>Contact Hotline: 62113920 <br>Contact Email: sg-prosystemfx@wolterskluwer.com <br>
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg<br>Contact Email: enquiry@eonconsulting.com.sg<br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

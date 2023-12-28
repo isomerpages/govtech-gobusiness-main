@@ -1,60 +1,32 @@
 ---
-title: 'DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2'
+title: 'Liquid Filling Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1500
 ---
 
-## DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2
+## Liquid Filling Machine
 
 ## Overview
 
 **Description**
 
-Businesses benefit greatly from MediaOne's more than a decade of success in digital marketing. The consultancy offers comprehensive solutions, including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With extensive experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively maximise their digital presence, achieve marketing goals and ROI, and effectively connect with their audience.
+A fully or semi-automated filling machine replaces manual liquid filling into drums/pallets IBC and/or other containers. The machine can be customised to fit unit requirements eg. 200L/120L drum or 1L/3L tin/jerry cans.
+Semi-automatic: Operator involved in the process (e.g. placing the containers under nozzles, transferring containers to the next process)
+Fully automatic: Operator ensures settings are correct, minimal mechanical adjustment required
+
+Cost of equipment capped at $60,000 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (6 months)</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (6 months)</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (6 months)</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Liquid Filling Machine</td>
+<td style='padding: 10px;'>$60,000.00</td>
+<td style='padding: 10px;'>1. Minimally semi-automated<br><br>2. Volumetric or weight indicator with parameter setting function</td>
 </tr>
 </table>
 
@@ -62,10 +34,6 @@ Businesses benefit greatly from MediaOne's more than a decade of success in digi
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: MediaOne Business Group Pte Ltd <br>Web URL: mediaone.co <br>Contact Hotline: 69657008<br>Contact Email: contact@mediaone.co <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

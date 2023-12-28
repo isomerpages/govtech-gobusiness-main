@@ -1,15 +1,15 @@
 ---
-title: 'Legal Tech Platform (LTP) Pro'
+title: 'CLIO (packaged with LTP)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1338
 ---
 
-## Legal Tech Platform (LTP) Pro
+## CLIO (packaged with LTP)
 
 ## Overview
 
 **Description**
 
-The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's technology partner, that provides an easier way for legal teams to share documents, communicate securely, manage teams, and put knowledge to work. Connect with other tools and systems used by lawyers in Singapore on an encrypted platform that is sector-secure, and SOC 2 compliant. Get and keep your team on the same page with an intuitive and enjoyable to use interface that runs on phones and browsers.
+Clio Manage is a cloud-based practice management system that automates law firm matter management processes from matter onboarding to time recording and billing, to document and email management. Its comprehensive features, ease of use, integrations with other leadings apps such as Lupl (LTP), Xero, Outlook, NetDocs, OneDrive), unlimited storage, makes it a great fit for modern law firms looking for an affordable integrated platform to drive efficiency, mobility and profitability.
 
 ## Solution Packages Option(s)
 
@@ -23,73 +23,38 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 3 Users</td>
-<td style='padding: 10px;'>$2,484.00</td>
-<td style='padding: 10px;'>$2,484.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package A: 1 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$4,396.00</td>
+<td style='padding: 10px;'>$3,837.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 6 Users</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package B : 2 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$6,872.00</td>
+<td style='padding: 10px;'>$6,153.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 10 Users</td>
-<td style='padding: 10px;'>$8,280.00</td>
-<td style='padding: 10px;'>$8,280.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package C : 3 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$9,708.00</td>
+<td style='padding: 10px;'>$8,669.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 15 Users</td>
-<td style='padding: 10px;'>$12,420.00</td>
-<td style='padding: 10px;'>$12,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package D : 4 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$12,184.00</td>
+<td style='padding: 10px;'>$10,985.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Legal Tech Platform (LTP) Pro - 20 Users</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C-cubed_Desensitised_Annex_3_040822_Part_5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users (2 Years)</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'>$4,968.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 Users (2 Years)</td>
-<td style='padding: 10px;'>$9,936.00</td>
-<td style='padding: 10px;'>$9,936.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (2 Years)</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users (2 Years)</td>
-<td style='padding: 10px;'>$24,840.00</td>
-<td style='padding: 10px;'>$24,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (2 Years)</td>
-<td style='padding: 10px;'>$33,120.00</td>
-<td style='padding: 10px;'>$33,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/C_Cubed_LTP_Pro_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package E : 5 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$13,201.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -99,7 +64,7 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 
 ## Vendor Information
 
- Company name:C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: 658001207076 <br>Contact Email: singapore@lupl.com 
+ Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,16 @@
 ---
-title: 'DM Roots Digital Marketing Packages'
+title: 'MEGAPOS Beauty & Wellness'
 permalink: /productivity-solutions-grant/solutionrepo/solution1594
 ---
 
-## DM Roots Digital Marketing Packages
+## MEGAPOS Beauty & Wellness
 
 ## Overview
 
 **Description**
 
-This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
+MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
+Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ This Digital Marketing Package aims to help SMEs rapidly grow their business onl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEO, Facebook Ads & 1 SEO Content]-[2 Months]</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEO, SEM & 1 SEO Content] - [2 Months]</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEO, Facebook Ads, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEO, SEM, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'>$9,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEO, Facebook Ads, 2 SEO Content or 1 Landing Page] - [2 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
+<td style='padding: 10px;'>$13,360.00</td>
+<td style='padding: 10px;'>$13,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ This Digital Marketing Package aims to help SMEs rapidly grow their business onl
 
 ## Vendor Information
 
- Company Name: Roots Digital Pte. Ltd.<br>Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

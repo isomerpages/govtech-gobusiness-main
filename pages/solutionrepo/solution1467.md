@@ -1,71 +1,38 @@
 ---
-title: 'A-Class Accounting & Sales Management by Sleek'
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1467
 ---
 
-## A-Class Accounting & Sales Management by Sleek
+## Form Fill Seal Machine
 
 ## Overview
 
 **Description**
 
-Sleek provides a fully digital solution for accounting, tax and sales management for SMEs and Startups in Singapore backed up by quality local support.
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+
+Cost of equipment  capped at $20,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'>1. Machine has temperature control, to control heat applied to film<br><br>2. Machine has speed control, to control duration of seal</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
