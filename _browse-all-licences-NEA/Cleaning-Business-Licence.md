@@ -21,16 +21,17 @@ National Environment Agency (NEA)
 
 <H3>Application Details</H3>
 
-<p>Businesses offering general cleaning services at premises or any public places will need to be licensed. Applicants should not provide cleaning services until the licence is granted.</p> 
-<h3>FAQ</h3> 
-<ol> 
-<li><strong>Where can I get more information about this licence?</strong><br>For more details, please refer to <a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence/cleaning-business-licence-faq" target="_blank" rel="noopener">NEA Cleaning Business Licence FAQ</a>.</li> 
-<li><strong>Do I need to have a cleaning contract to apply for the licence?<br></strong>No, you may apply with the details of a suitably-trained or experienced employee. Please refer to the details of the required training and experience on the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence/cleaning-business-licence-faq" target="_blank" rel="noopener">NEA website</a>.</li> 
+<p>Businesses offering general cleaning services at premises or any public places will need to be licensed. Applicants should not provide cleaning services until the licence is granted.</p>
+<h3>FAQ</h3>
+<ol>
+<li><strong>Where can I get more information about this licence?</strong><br>Only cleaning businesses applying for renewal will need to submit proof of a cleaning contract. New applicants are not required to do so, and may apply with the details of a suitably-trained or experienced employee. For more details, please refer to&nbsp;<a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence/cleaning-business-licence-faq" target="_blank" rel="noopener">NEA Cleaning Business Licence FAQ</a>.</li>
+<li><strong>Do I need to have a cleaning contract to apply for the licence?<br></strong>No, you may apply with the details of a suitably-trained or experienced employee. Please refer to the details of the required training and experience on the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence/cleaning-business-licence-faq" target="_blank" rel="noopener">NEA website</a>.</li>
+<li><strong>How will I receive updates on my licence? / Will NEA send me a reminder to renew my licence?</strong><br>For updates relating to licensing matters, applicant will receive SMS and email based on the contact number and email address provided under "Application Particulars" in the last approved application. If you need to update your contact details, please submit an AMEND application.</li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />Licence Fees: $130</p>
+<p><strong>Fees</strong><br>Licence Fees: $130</p>
 
 <H3>Documents Needed</H3>
 
