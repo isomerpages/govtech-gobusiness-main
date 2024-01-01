@@ -1,15 +1,15 @@
 ---
-title: 'Xero'
+title: 'Eurostop Omni-Channel Retail Management System Version 10'
 permalink: /productivity-solutions-grant/solutionrepo/solution228
 ---
 
-## Xero
+## Eurostop Omni-Channel Retail Management System Version 10
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
+A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Xero is a cloud-based accounting software that connects people with the right nu
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Subscription</td>
-<td style='padding: 10px;'>$710.00</td>
-<td style='padding: 10px;'>$710.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Set-Up Package</td>
-<td style='padding: 10px;'>$1,510.00</td>
-<td style='padding: 10px;'>$1,510.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Xero Set-Up with Training</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Budget_Accounts_20200723_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
+<td style='padding: 10px;'>$14,800.00</td>
+<td style='padding: 10px;'>$12,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Budget Accounts Pte Ltd<br>Web URL: www.budgetaccounts.com.sg <br><br>Contact Hotline: 97839675 <br><br>Contact Email: lynette@budgetaccounts.com.sg <br><br>
+ Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

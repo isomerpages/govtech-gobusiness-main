@@ -1,15 +1,15 @@
 ---
-title: 'CARDDIO Version 1'
+title: 'Frontier eHR HRSS Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution248
 ---
 
-## CARDDIO Version 1
+## Frontier eHR HRSS Version 8
 
 ## Overview
 
 **Description**
 
-Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
+Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations through a user-friendly cloud-based application. HR can record employee's details and handle Payroll & Performance Appraisal process. Employees can access their HR information and perform HR related applications through web and mobile app. Through integrated services including both HRSS and HRMS, the solution provides a one stop solution for SMEs to eliminate the time and cost required for HR and Payroll administration.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Carddio is a cloud based solution which works on both iOS and Android versions a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 users</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Carddio_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 users</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 users</td>
+<td style='padding: 10px;'>$49,600.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Carddio is a cloud based solution which works on both iOS and Android versions a
 
 ## Vendor Information
 
- Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

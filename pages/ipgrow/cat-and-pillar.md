@@ -44,7 +44,7 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 **Trade Mark Agent Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 501 to 750</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
@@ -103,4 +103,4 @@ Our founder served as a trademark examiner at the Intellectual Property Office o
 <p>
 <a class='btn' href='https://form.gov.sg/640682ebb016ad0012f115c1' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

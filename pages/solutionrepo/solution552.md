@@ -1,15 +1,15 @@
 ---
-title: 'Smart Glasses - InnoGlas'
+title: 'SYNERGIX Version TH6'
 permalink: /productivity-solutions-grant/solutionrepo/solution552
 ---
 
-## Smart Glasses - InnoGlas
+## SYNERGIX Version TH6
 
 ## Overview
 
 **Description**
 
-InnoGlas is an augmented reality (AR) glasses solution, capable of many industrial applications, including hands-free remote assistance, customized SOP, and facial recognition.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (2 sets) - Package 1</td>
-<td style='padding: 10px;'>$8,420.00</td>
-<td style='padding: 10px;'>$7,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (4 sets) - Package 2</td>
-<td style='padding: 10px;'>$14,740.00</td>
-<td style='padding: 10px;'>$12,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE (6 sets) - Package 3</td>
-<td style='padding: 10px;'>$21,060.00</td>
-<td style='padding: 10px;'>$18,060.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE with Facial Recognition function (4 sets) - Package 4</td>
-<td style='padding: 10px;'>$15,240.00</td>
-<td style='padding: 10px;'>$13,240.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SE customization package (6 sets) - Package 5</td>
-<td style='padding: 10px;'>$35,560.00</td>
-<td style='padding: 10px;'>$20,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Innowave_Tech_20210083_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SYNERGIX Version TH6 - Package A: HRMS Standard</td>
+<td style='padding: 10px;'>$39,420.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_SYNERGIX_Version_TH6_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ InnoGlas is an augmented reality (AR) glasses solution, capable of many industri
 
 ## Vendor Information
 
- Company name:Innowave Tech Pte. Ltd.<br>Web URL: https://innowave.com.sg/innoglas/ <br>Contact Hotline: 88313613 <br>Contact Email: hello@innowave.com.sg 
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br><br>Contact Hotline: 62755775 <br><br>Contact Email: marketing@synergixtech.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

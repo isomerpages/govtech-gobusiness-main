@@ -1,17 +1,15 @@
 ---
-title: 'Xero Accounting System'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution366
 ---
 
-## Xero Accounting System
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
-
-Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,41 @@ Xero is a cloud-based accounting software for businesses to improve cashflow, ga
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
-<td style='padding: 10px;'>$1,664.00</td>
-<td style='padding: 10px;'>$1,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
-<td style='padding: 10px;'>$2,664.00</td>
-<td style='padding: 10px;'>$2,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
-<td style='padding: 10px;'>$3,164.00</td>
-<td style='padding: 10px;'>$3,107.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
-<td style='padding: 10px;'>$5,064.00</td>
-<td style='padding: 10px;'>$5,007.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
-<td style='padding: 10px;'>$6,264.00</td>
-<td style='padding: 10px;'>$6,207.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

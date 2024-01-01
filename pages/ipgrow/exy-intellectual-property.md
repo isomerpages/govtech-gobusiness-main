@@ -11,7 +11,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 
 <b>Year established in Singapore:</b> 2021
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training
+<b>Top focus areas for IA/IP services:</b> Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, IP Training, IP Watch
 
 <b>Type of organization:</b> Non-SME
 
@@ -168,7 +168,7 @@ Reach out to us! Our experts always have their feet ready to provide a full cons
 **Ooi Yeong Boon**
 
 - Job Title: Managing Director 
-- Years of Experience: 10 years
+- Years of Experience: 15 years
 - Location: Malaysia
 - IA/IP-Related Expertise: Trade Mark Agent Service, Innovation Consultancy, IP Strategy Consulting, IP Brokerage and Licensing, IP Training
 - Certifications/Qualifications: LL.B Law(Hons) University of Liverpool, Dip. In International Arbitration

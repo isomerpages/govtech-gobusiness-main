@@ -1,15 +1,15 @@
 ---
-title: 'Adaptive Pay Version 2022'
+title: 'ABSS Premier Version 30'
 permalink: /productivity-solutions-grant/solutionrepo/solution84
 ---
 
-## Adaptive Pay Version 2022
+## ABSS Premier Version 30
 
 ## Overview
 
 **Description**
 
-Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. It comes with a complete suite to cater HR needs of a company. Modules include comprehensive Personnel Management, Payroll Management, Leave Management, Claim Management, Attendance System and Appraisal System. The Adaptive Pay mobile app for employees to manage their attendance, leave, claim & payslips. The Adaptive Admin Mobile app helps the manager approve their employee request for leave & claims.
+ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. I
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 1</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (1-User) Full Package</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 2</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (3-Users) Software Only</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 3</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (3-Users) Full Package</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 4</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$11,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (3-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Adaptive Pay Version 2022 - Package 5</td>
-<td style='padding: 10px;'>$17,900.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Adaptive_Cloud_20210527_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (5-Users) Full Package with Remote Access</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Apscom_Annex_3_CR09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Adaptive PAY is a cloud-based HRMS solution catered for Singapore enterprises. I
 
 ## Vendor Information
 
- Company Name: Adaptive Cloud Systems Pte Ltd<br>Web URL: www.adaptivepay.com.sg<br>Contact Hotline: 67089398 <br>Contact Email: info@adaptivebizapp.com<br>
+ Company name:Apscom Solutions Pte Ltd<br>Web URL: www.apscomsolutions.com<br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

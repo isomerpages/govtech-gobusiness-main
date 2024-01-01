@@ -6,6 +6,10 @@ permalink: /browse-all-solutions-Fleet-Safety-and-Fleet-Management-System/Fleet-
 ## Fleet Safety Management System
 ## Overview
 
+**Description**
+
+Offers at least one of Driver Status Monitoring system, Blind Spot detection system and Advanced Driver Assistance System.
+
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -28,27 +32,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution66' target='_blank'>FLEETEYE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution37' target='_blank'>FLEETEYE</a><br></td>
 <td>ACE PRIME ROBOTICS</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution174' target='_blank'>ZoneSafe Proximity Warning Systems Version V03</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution99' target='_blank'>ZoneSafe Proximity Warning Systems Version V03</a><br></td>
 <td>Automation Support Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution892' target='_blank'>Fleet Safety Management System Version 7</a><br></td>
-<td>SmartComm Electronics Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution893' target='_blank'>School Bus Management System Version SBMS.V2</a><br></td>
-<td>SSTA Technology Development Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1006' target='_blank'>T-GUARD</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution612' target='_blank'>T-GUARD</a><br></td>
 <td>TNT Surveillance Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1641' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
 </table>

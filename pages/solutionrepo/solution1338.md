@@ -1,17 +1,15 @@
 ---
-title: 'Harvest Accounting - Xero'
+title: 'CLIO (packaged with LTP)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1338
 ---
 
-## Harvest Accounting - Xero
+## CLIO (packaged with LTP)
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
-
-Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
+Clio Manage is a cloud-based practice management system that automates law firm matter management processes from matter onboarding to time recording and billing, to document and email management. Its comprehensive features, ease of use, integrations with other leadings apps such as Lupl (LTP), Xero, Outlook, NetDocs, OneDrive), unlimited storage, makes it a great fit for modern law firms looking for an affordable integrated platform to drive efficiency, mobility and profitability.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package A: 1 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$4,396.00</td>
+<td style='padding: 10px;'>$3,837.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package B : 2 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$6,872.00</td>
+<td style='padding: 10px;'>$6,153.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package C : 3 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$9,708.00</td>
+<td style='padding: 10px;'>$8,669.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package D : 4 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$12,184.00</td>
+<td style='padding: 10px;'>$10,985.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package E : 5 Clio Manage + Xero Standard</td>
+<td style='padding: 10px;'>$14,480.00</td>
+<td style='padding: 10px;'>$13,201.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 
 ## Vendor Information
 
- Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+ Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

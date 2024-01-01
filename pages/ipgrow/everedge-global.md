@@ -13,11 +13,11 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 
 <b>Top focus areas for IA/IP services:</b> IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), Dispute Resolution
 
-<b>Intellectual property awards received:</b> Top 10 Business Valuation Services Companies 2023, CFO Tech Outlook 2023 ; IAM300 - 10 times ranked Top 300 IP Strategist Globally Intellectual Asset Magazine, 2013 - 2021
+<b>Intellectual property awards received:</b> Top 10 Business Valuation Services Companies 2023, CFO Tech Outlook 2023 ; IAM300 - 11 times ranked Top 300 IP Strategist Globally Intellectual Asset Magazine, 2013 - 2021
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> Suite #20-27, Capital Tower, 168 Robinson Road, Singapore 068912
+<b>Address in Singapore:</b> 168 Robinson Road, #20-01 Capital Tower, Singapore 068912
 
 <b>Website:</b> <a href='https://www.everedgeglobal.com'>https://www.everedgeglobal.com</a>
 
@@ -261,21 +261,13 @@ CEO & Tech Missionary, OTSAW.
 - Certifications/Qualifications: Bachelor of Science (Mathematics & Physics) - Auckland University (NZ)
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/richard-barnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/richard-barnett</a>
 
-**Brett Kensett-Smith**
-
-- Job Title: Director
-- Years of Experience: 25 years 
-- Location: Australia
-- IA/IP-Related Expertise: IP Strategy Consulting, IP Training, IP Intelligence & Search, Branding Strategy, IP Portfolio Management
-- Certifications/Qualifications: Registered Patent and Trade Marks Attorney (Australia/New Zealand), Bachelor of Science (Hons) - University of Sydney (AUS), Graduate Diploma, Environmental Studies - Macquarie University (AUS), Diploma, Intellectual Property Practice, Academy of IPTA (AUS), Fellow, Institute of Patent & Trademarks Attorneys, Australia (AUS)
-- URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/brett-kensett-smith" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/brett-kensett-smith</a>
 
 **Caitlin Burnett**
 
 - Job Title: Senior Strategist
 - Years of Experience: 10 years 
 - Location: New Zealand
-- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management  
+- IA/IP-Related Expertise: IP Audit, IP Strategy Consulting, IP Intelligence & Search, IP Watch, IP Portfolio Management 
 - Certifications/Qualifications: Registered Trans-Tasman Patent Attorney (New Zealand & Australia), Fellow of the New Zealand Institute of Patent Attorneys (NZIPA), Bachelor of Engineering (Electronics & Systems) - Victoria University of Wellington, Member of the Intellectual Property Society of Australia and New Zealand Inc (IPSANZ), Ordinary Member of The Institute of Patent and Trade Mark Attorneys of Australia (IPTA)
 - Awards/Accolades: Awarded NZIPA Prize - Highest Mark in Patent Drafting Examinations 2017
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/caitlin-burnett" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/caitlin-burnett</a>

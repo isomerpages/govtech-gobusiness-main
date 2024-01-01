@@ -1,15 +1,17 @@
 ---
-title: 'Realtimme Cloud Version 3.0.0'
+title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution819
 ---
 
-## Realtimme Cloud Version 3.0.0
+## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
 
 ## Overview
 
 **Description**
 
-Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reporting to ACRA and corporate tax form C-S to IRAS. The solution consists of accounts receivables, accounts payable and general ledgers fully integrated with sales & purchases management module and inventory system. The solution is InvoiceNow ready, GST compliance to IRAS requirement and multi currency ready.
+Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
+ 
+Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +25,31 @@ Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reportin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Realtimme Cloud Solution</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Realtimme_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +59,7 @@ Realtimme Cloud solution allows SMEs to submit annual returns with XBRL reportin
 
 ## Vendor Information
 
- Company name:Realtimme IT Consultancy Pte Ltd<br>Web URL: www.realtimme.com.sg <br>Contact Hotline: 81488824 <br>Contact Email: sales@realtimme.net 
+ Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Quickbook Online'
+title: 'SMARTHRMS Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1235
 ---
 
-## Quickbook Online
+## SMARTHRMS Version 1
 
 ## Overview
 
 **Description**
 
-Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, invoicing, payroll, and more.
+SmartHRMS is a comprehensive HR management system designed to streamline and simplify human resources operations. SmartHRMS's range of features and functionalities greatly benefit organizations in managing their HR processes effectively. With SmartHRMS, companies can streamline their HR operations, minimize manual work, enhance accuracy, and ensure compliance. HR professionals and employees alike can focus on strategic initiatives, talent management, and fostering a productive work environment.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbook Online- QBO</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IRIS_CORPORATE_Quickbook_Online_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE A (50 Employees)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE B (100 Employees)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE C (50 Employees)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE D (100 Employees)</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE E (150 Employees)</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 
 ## Vendor Information
 
- Company name:IRIS CORPORATE SERVICES PTE. LTD.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?region=SG&location=singapore <br>Contact Hotline: 81001936 <br>Contact Email: iriscorporateservices@yahoo.com
+ Company Name: AVELOGIC PTE LTD<br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

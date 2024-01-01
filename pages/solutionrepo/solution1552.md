@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Commerce Version 2.0'
+title: 'TWCSS - teamWork Corporate Secretarial Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
-## Fooyo Commerce Version 2.0
+## TWCSS - teamWork Corporate Secretarial Solution
 
 ## Overview
 
 **Description**
 
-Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
+TWCSS is a fully cloud-based solution that manages SME entire corporate secretarial operation. teamWork TWCSS helps automate SME work processes to achieve a higher level of control, clarity and consistency. Through consolidating the entire database into the system, TWCSS can easily automate most of the work processes, helping SME to maximise its productivity & efficiency levels throughout.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,17 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (100 Active Company Count)</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
-<td style='padding: 10px;'>$9,588.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (100 Active Company Count + 3 PMS User Licenses)</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +43,7 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 
 ## Vendor Information
 
- Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
+ Company Name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

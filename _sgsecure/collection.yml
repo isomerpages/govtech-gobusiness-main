@@ -1,0 +1,5 @@
+collections:
+  sgsecure:
+    output: true
+    order:
+      - overview.md

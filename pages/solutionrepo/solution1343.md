@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting Software'
+title: 'Shopify Web Development by MS Web'
 permalink: /productivity-solutions-grant/solutionrepo/solution1343
 ---
 
-## AutoCount Accounting Software
+## Shopify Web Development by MS Web
 
 ## Overview
 
 **Description**
 
-Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
+"Leading Official SHOPIFY-Certified experts from SINGAPORE. Help e-commerce brands set up, and launch their Businesses on SHOPIFY and SHOPIFY PLUS. Want to make things as easy and seamless as possible for clients so that they can focus on what's Important: Running their Business, To take care of the technical aspects of setting up online shop so can concentrate on making sales and developing Branding
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSW-ADVANCED Shopify Solutions</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MSWEBINTERNATIONAL_ShopifyWebDevelopment_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MSW-PREMIUM Shopify Solutions</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MSWEBINTERNATIONAL_ShopifyWebDevelopment_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 
 ## Vendor Information
 
- Company Name: Ingenious Business Software Pte Ltd<br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+ Company Name: MSWEBINTERNATIONAL PTE. LTD.<br>Web URL: https://www.mswebinternational.com/ <br>Contact Hotline: 67384541 <br>Contact Email: hi@mswebinternational.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

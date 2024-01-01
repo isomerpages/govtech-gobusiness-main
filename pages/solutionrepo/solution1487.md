@@ -1,53 +1,30 @@
 ---
-title: 'EPOINT Version 9'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1487
 ---
 
-## EPOINT Version 9
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Basic</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance</td>
-<td style='padding: 10px;'>$7,456.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance+</td>
-<td style='padding: 10px;'>$8,256.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eKiosk - Basic</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Machine has a minimum 7 trays/carriers<br><br>2. Each tray to have a minimum load capacity of 135kg<br><br>3. Each tray to have a minimum width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
 </tr>
 </table>
 
@@ -55,10 +32,6 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

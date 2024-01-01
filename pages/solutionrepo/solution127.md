@@ -1,15 +1,15 @@
 ---
-title: 'Quickbooks Online'
+title: 'GenicDocs - Document Management Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution127
 ---
 
-## Quickbooks Online
+## GenicDocs - Document Management Software
 
 ## Overview
 
 **Description**
 
-QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobile based and hence, you don't have to install or download traditional software on your laptops or worry about operating-system compatibility. Your data are backs up automatically and meet the highest online security standards for data storage.  It allows you to access from any Internet-connected computer and you can specify permission levels to control what type of data your users can see or modify.
+GenicDocs is very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. It is the smart and flexible choice with a user-friendly interface
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 1</td>
-<td style='padding: 10px;'>$1,600.00</td>
-<td style='padding: 10px;'>$1,528.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (up to 5 users)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 2</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (up to 7 users)</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Basic 3</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'>$4,028.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (up to 10 users)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Standard</td>
-<td style='padding: 10px;'>$6,100.00</td>
-<td style='padding: 10px;'>$6,028.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (up to 15 users)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbooks Online - Cloud Accounting Software-Full Transformation Large</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,028.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Angels_Business_20210204_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (up to 25 users)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Business_Thrust_GenicDocs_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ QUICKBOOKS ONLINE is a cloud accounting software, is completely web-based, mobil
 
 ## Vendor Information
 
- Company Name: Angels Business Consulting Pte. Ltd.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?searchId=angela-lim <br><br>Contact Hotline: 98894289 <br><br>Contact Email: angels@angelsbusiness.sg <br><br>
+ Company name:Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

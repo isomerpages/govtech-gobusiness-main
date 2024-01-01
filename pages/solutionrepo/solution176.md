@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Cybersecurity Package'
+title: 'CSG - Matterport Pro2 3D Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution176
 ---
 
-## Microsoft Cybersecurity Package
+## CSG - Matterport Pro2 3D Solution
 
 ## Overview
 
 **Description**
 
-This managed security service leverages the power of Microsoft's integrated threat protection solution that protect your devices and office 365 email against advanced threats such as credential phishing, ransomware and malware. With an "assume breach" mindset and AI-driven adaptive protection, behavioral cyber telemetry is continuously collected so as to prevent, detect, respond and recover automatically against advanced threats near real-time. Axiom will deploy the solution and support you.
+The Matterport Pro2 Camera together with the Cloud platform is the gold standard for 3D capture and walkthrough. It's perfect for simple residential to large and complex commercial spaces. No camera captures as much detail with the speed of the Pro2, while delivering exceptional dimensional accuracy and stunning image quality on the platform for visualization. For the AEC industry, Matterport captures spaces with the highest accuracy, enabling the most detailed point cloud files.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ This managed security service leverages the power of Microsoft's integrated thre
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 5 Users Pack</td>
-<td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'>$1,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional</td>
+<td style='padding: 10px;'>$7,788.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 10 Users Pack</td>
-<td style='padding: 10px;'>$4,650.00</td>
-<td style='padding: 10px;'>$4,650.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Professional Plus</td>
+<td style='padding: 10px;'>$14,076.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 30 Users Pack</td>
-<td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'>$13,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business</td>
+<td style='padding: 10px;'>$30,652.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 50 Users Pack</td>
-<td style='padding: 10px;'>$20,750.00</td>
-<td style='padding: 10px;'>$20,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Microsoft Cybersecurity Package - 90 Users Pack</td>
-<td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'>$36,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DesensitisedAxiom_Annex_3_wef_2022_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Matterport Business Plus</td>
+<td style='padding: 10px;'>$62,604.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Software_20200920_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Axiom IT Solutions Pte Ltd<br>Web URL: https://axiomitsolns.com/our-solutions/modern-workplace/ <br><br>Contact Hotline: 62857288 <br><br>Contact Email: sales@axiomitsolns.com <br><br>
+ Web URL: www.csglobal-group.com <br><br>Contact Hotline: 65882378 <br><br>Contact Email: marketing@csglobal-group.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

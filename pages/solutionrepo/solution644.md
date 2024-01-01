@@ -1,15 +1,15 @@
 ---
-title: 'MetroERP Version 1.0'
+title: 'Shopcada POS Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution644
 ---
 
-## MetroERP Version 1.0
+## Shopcada POS Version 2
 
 ## Overview
 
 **Description**
 
-MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
+Shopcada POS is a comprehensive retail Point-of-Sales (POS) application, offering omni-channel support to integrate offline stores with online sales within a centralized backend dashboard. The integrated CRM tools such as membership system, discounts, loyalty points offer better omni-channel shopping experience.  With a single backend, synchronizing products, inventory, and customers between outlets, and accessing management reports is made easier.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,10 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (5 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (15 Users, PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,300.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Version 1.0 - MetroERP Sales & Inventory Management System (50 Users & PEPPOL-Included)</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Metro_Annex_3_CR_wef_5_May_2022_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopcada POS Version 2 - Annual License</td>
+<td style='padding: 10px;'>$4,100.00</td>
+<td style='padding: 10px;'>$3,998.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_20220075_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +36,7 @@ MetroERP is a cloud Inventory and Sales Management solution which makes it easie
 
 ## Vendor Information
 
- Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br><br>Contact Hotline: 87714911 <br><br>Contact Email: info@metrogroup.solutions <br><br>
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br><br>Contact Hotline: 63343168 <br><br>Contact Email: sales@webcada.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

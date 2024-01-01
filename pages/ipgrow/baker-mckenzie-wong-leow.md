@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/baker-mckenzie-wong-leow/
 
 ## Baker McKenzie Wong & Leow
 
-Baker & McKenzie is one of the largest law firms globally with 77 offices in 46 countries. We are a full service law firm we have one of the largest IP teams in Singapore.
+Baker & McKenzie is one of the largest law firms globally with 74 offices in 45 countries. We are a full service law firm we have one of the largest IP teams in Singapore.
 
 In Singapore, we operate as Baker McKenzie Wong & Leow which is a joint law venture between Baker McKenzie and Wong & Leow LLC, a Singapore law firm. This enables us to advise our clients on both Singapore law issues and cross-border issues.
 
@@ -133,7 +133,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Regional Office(s): Singapore</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Offices: [Asia Pacific Region] Australia, China, Hong Kong, Taiwan, South Korea, Japan, Thailand, Vietnam, Indonesia, Malaysia, Philippines, Singapore,  Myanmar </li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [Europe, Middle East and Africa Region] Austria, Bahrain, Belgium, Czech Republic, Egypt, France, Germany, Hungary, Italy, Kazakhstan, Luxembourg, Morocco, Netherlands, Poland, Qatar, Saudi Arabia, South Africa, Spain, Sweden, Switzerland, Turkey, Ukraine, United Arab Emirates, United Kingdom</li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [Latin America Region] Argentina, Brazil, Chile, Colombia, Mexico, Peru, Venezuela</li><li style='line-height: 27px; margin: 0px 0px !important'>Head Offices: [North America Region] Canada, United States</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -141,7 +141,7 @@ Our Intellectual Property and Technology (IPTech) practice is consistently ranke
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Asia Pacific including Singapore - 92.1%	</li><li style='line-height: 27px; margin: 0px 0px !important'>United Kingdom - 3.27%	</li><li style='line-height: 27px; margin: 0px 0px !important'>France - 1.96% </li><li style='line-height: 27px; margin: 0px 0px !important'>United States - 0.03%</li><li style='line-height: 27px; margin: 0px 0px !important'>Switzerland - 0.01%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Asia Pacific and Oceania (including Singapore) - 39.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>Europe, Middle East and Africa - 25.8%</li><li style='line-height: 27px; margin: 0px 0px !important'>North and South America - 34.4% </li></ul>
 
 ---
 <a name='key-practice-experts'></a>

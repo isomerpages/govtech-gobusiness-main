@@ -1,19 +1,16 @@
 ---
-title: 'Redoc - Document Management Version 1.0'
+title: 'AWECREATION - Fortinet Managed Firewall Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution809
 ---
 
-## Redoc - Document Management Version 1.0
+## AWECREATION - Fortinet Managed Firewall Solutions
 
 ## Overview
 
 **Description**
 
-Redoc (redoc.co), a product of Real Estate Doc, is a smart document management and transaction records platform. 
-
-Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights and transaction records on the performance of your business. 
-
-Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc!
+AWECREATION Managed Firewall Services powered by Fortinet's Next Generation Firewalls (NGFW) provide organizations with application control, intrusion prevention and advanced visibility across their network. NGFWs not only block malware, but also include paths for future updates, giving the flexibility to evolve with changing Cyber threats. 
+Managed by a team of Cyber security specialists, AWECREATION have been protecting enterprises from Cyber threats over the years of service.
 
 ## Solution Packages Option(s)
 
@@ -27,38 +24,38 @@ Increase your business flow by up to 43% through digital automation and experien
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (Up to 5 users)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 60F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$2,147.00</td>
+<td style='padding: 10px;'>$2,147.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (Up to 10 users)</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 100F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$5,797.00</td>
+<td style='padding: 10px;'>$5,797.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (Up to 20 users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 100F Firewall with 1st Year 24X7 Remote Managed Service</td>
+<td style='padding: 10px;'>$6,097.00</td>
+<td style='padding: 10px;'>$6,097.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (Up to 40 users)</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'>$17,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 200F Firewall with 1st Year Office hours Remote Managed Service</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (Up to 60 users)</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'>$24,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/real_estate_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortinet Fortigate 200F Firewall with 1st Year 24X7 Remote Managed Service</td>
+<td style='padding: 10px;'>$8,697.00</td>
+<td style='padding: 10px;'>$8,697.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AWECREATION_Fortinet_Managed_Firewall_Solutions_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -68,7 +65,7 @@ Increase your business flow by up to 43% through digital automation and experien
 
 ## Vendor Information
 
- Company name:Real Estate Doc Pte Ltd<br>Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co 
+ Company Name: AWECREATION PTE LTD <br>Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

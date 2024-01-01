@@ -1,15 +1,15 @@
 ---
-title: 'Lunchbox Smart Restaurant Solution Version 1.1.0'
+title: 'Job Redesign Consultancy - CET Global Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1440
 ---
 
-## Lunchbox Smart Restaurant Solution Version 1.1.0
+## Job Redesign Consultancy - CET Global Pte Ltd
 
 ## Overview
 
 **Description**
 
-Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering Solution. Made local with a globally experienced team, our proprietary solution transforms your outlet to the industry's best practice level for efficiency and execution.
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, XSmall</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lunchbox Smart Ordering Solution, Small (Kiosk)</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'>$2,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Lunchbox_Lunchbox_Smart_Restaurant_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Lunchbox Smart Restaurant Management Solution is an all in one Digital Ordering 
 
 ## Vendor Information
 
- Company name:Lunchbox Pte Ltd<br>Web URL: www.mylunchbox.app <br>Contact Hotline: 81298905 <br>Contact Email: office@mylunchbox.app 
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg<br>Contact Name: Ms Yeo Li Sung<br>Contact Email: lisung.yeo@cetglobal.com.sg<br>Contact Number: 69291564 (Mobile: 9657 5085)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

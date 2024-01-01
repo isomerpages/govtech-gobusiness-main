@@ -1,15 +1,15 @@
 ---
-title: 'Mastercam Software Version 2023'
+title: 'BIMAGE - AUTODESK COLLECTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution1365
 ---
 
-## Mastercam Software Version 2023
+## BIMAGE - AUTODESK COLLECTION
 
 ## Overview
 
 **Description**
 
-Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to manufacturing workpieces with Computer-Aided Manufacturing (CAM) on CNC machines. Mastercam provides a complete solution from the start of design to the production lines, manufacturing parts with precision and efficiency.
+Autodesk Collection equips the industry to design & construct high quality, data rich & sustainable solution for building industry. It is an extensive & flexible software which encompasses all building & infrastructure typologies development. Autodesk Collection consists of various software which work in unison to bring a project to fruition. It integrates design & construction workflows which can be used by architects, engineers & contractors to work more efficiently to achieve a common goal.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year Revit + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill (2 license)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Lathe</td>
-<td style='padding: 10px;'>$38,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Multiaxis</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-day training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Lathe</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_20220199_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 3-Days Revit training + 1-Day Data Management training</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
+ Company Name: BIMAGE Consulting Pte. Ltd.<br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

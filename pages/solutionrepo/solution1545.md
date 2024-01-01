@@ -1,16 +1,17 @@
 ---
-title: 'MIBC Optimised E-commerce solution Version Magento 2.4.5'
+title: 'DM Verz Design Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution1545
 ---
 
-## MIBC Optimised E-commerce solution Version Magento 2.4.5
+## DM Verz Design Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
-Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
+Verz's Digital Marketing solution is catered to solve the main challenges of most Startups & SMEs in Singapore - Leads Acquisition.
+The wide variety of solution packages (Social Media, Google SEO, Google SEM, and content) was designed to meet the different fundamental marketing needs of businesses from all industries.
+The packages that range from 3-months to 6-months provides flexibility to business owners and marketing team to better plan out their marketing strategy.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +25,48 @@ Business owners save time to explore countless subscription-based Saas tools by 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MIBC_MIBC_Optimised_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (3 months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:MIBC PTE LTD<br>Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg 
+ Company name:Verz Design Pte Ltd<br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,25 +1,17 @@
 ---
-title: 'BIPO Human Resource Management System'
+title: 'Xero Accounting System'
 permalink: /productivity-solutions-grant/solutionrepo/solution201
 ---
 
-## BIPO Human Resource Management System
+## Xero Accounting System
 
 ## Overview
 
 **Description**
 
-Global HR and Payroll Solutions
- 
-Since 2004, BIPO's cloud and mobile-based solutions have helped businesses automate and streamline HR processes. Globally, we support over 1,600 clients across 87 countries and regions with: 
+EBOS is a certified silver advisor for Xero that provides set-up and implementation with comprehensive training packages tailored for small-and-medium-sized businesses by understanding each business's need through 1-to-1 consultation prior to onboarding them to Xero. 
 
-(a) Employee master data management 
-(b) Time and attendance 
-(c) Payroll management
-(d) Expense claims and overtime 
-(e) Performance and training management
-
-BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and practices built in.
+Xero is a cloud-based accounting software for businesses to improve cashflow, gain access to real-time account information and business tools from multiple devices to enable greater control and better decisions.
 
 ## Solution Packages Option(s)
 
@@ -33,34 +25,48 @@ BIPO HRMS is ISO-27001 certified with best-in-class regulations, policies and pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 50</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Starter</td>
+<td style='padding: 10px;'>$1,664.00</td>
+<td style='padding: 10px;'>$1,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 100</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2A</td>
+<td style='padding: 10px;'>$2,664.00</td>
+<td style='padding: 10px;'>$2,607.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BIPO Human Resource Management System - BIPO LITE 150</td>
-<td style='padding: 10px;'>$21,500.00</td>
-<td style='padding: 10px;'>$20,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_20200561_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2B</td>
+<td style='padding: 10px;'>$3,164.00</td>
+<td style='padding: 10px;'>$3,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2C</td>
+<td style='padding: 10px;'>$5,064.00</td>
+<td style='padding: 10px;'>$5,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Accounting System - Go EBOS - All In One Booming - 2D</td>
+<td style='padding: 10px;'>$6,264.00</td>
+<td style='padding: 10px;'>$6,207.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EBOS_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br><br>Contact Hotline: 68130610 <br><br>Contact Email: hello@biposervice.com <br><br>
+ Company name:EBOS SG PTE. LTD.<br>Web URL: www.ebos-sg.com <br>Contact Hotline: 96954688 <br>Contact Email: ask@ebos-sg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

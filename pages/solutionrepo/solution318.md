@@ -1,17 +1,15 @@
 ---
-title: 'e-Forms for Preschool Version 1.0'
+title: 'Autodesk AEC Collection'
 permalink: /productivity-solutions-grant/solutionrepo/solution318
 ---
 
-## e-Forms for Preschool Version 1.0
+## Autodesk AEC Collection
 
 ## Overview
 
 **Description**
 
-Cyberland Consultancy Pte Ltd is an establish Edutech company with many years of experience in developing web based solutions for schools.  
-BridgED is an online solution developed specifically for preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents.  
-BridgED e-Forms for Preschool is a function to allow the parents to enrol their children remotely and digitally, including the submission of e-signature.
+Innocom Technologies Pte Ltd , the pioneer Leader in driving IT technology to various industries with a one-stop-approach empowering IT products , is proud to offer all companies one of the most highly rated product , AEC Collection . It consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,27 @@ BridgED e-Forms for Preschool is a function to allow the parents to enrol their 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-Forms for Preschool Version 1.0 - BridgED e-Forms for Preschool </td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'>$1,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_E-Forms_20210410_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 3 Years</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Innocom_AutodeskAECCollection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
+ Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

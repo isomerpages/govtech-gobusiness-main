@@ -89,4 +89,4 @@ We want to help your business in the same way. So please reach out to us today!
 <p>
 <a class='btn' href='https://form.gov.sg/643f50203b2d450011a60640' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 12 June 2023
+Profile last updated on 23 August 2023

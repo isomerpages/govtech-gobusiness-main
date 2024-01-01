@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'Odoo Enterprise Version 16'
 permalink: /productivity-solutions-grant/solutionrepo/solution1304
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## Odoo Enterprise Version 16
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
+<td style='padding: 10px;'>$8,675.00</td>
+<td style='padding: 10px;'>$7,275.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
+<td style='padding: 10px;'>$11,350.00</td>
+<td style='padding: 10px;'>$9,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
+<td style='padding: 10px;'>$16,025.00</td>
+<td style='padding: 10px;'>$13,825.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$18,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

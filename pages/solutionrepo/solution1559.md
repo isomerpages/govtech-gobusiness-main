@@ -1,15 +1,17 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
+title: 'Harvest Accounting - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution1559
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 2.0
+## Harvest Accounting - Xero
 
 ## Overview
 
 **Description**
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
+Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
+
+Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +25,48 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
+<td style='padding: 10px;'>$670.00</td>
+<td style='padding: 10px;'>$670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
+<td style='padding: 10px;'>$3,150.00</td>
+<td style='padding: 10px;'>$3,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
+<td style='padding: 10px;'>$3,470.00</td>
+<td style='padding: 10px;'>$3,470.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
+<td style='padding: 10px;'>$4,270.00</td>
+<td style='padding: 10px;'>$4,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
+ Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

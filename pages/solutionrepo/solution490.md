@@ -1,15 +1,16 @@
 ---
-title: 'HRM Labs Shared Service'
+title: 'Rah Tech Sophos Endpoint Protection'
 permalink: /productivity-solutions-grant/solutionrepo/solution490
 ---
 
-## HRM Labs Shared Service
+## Rah Tech Sophos Endpoint Protection
 
 ## Overview
 
 **Description**
 
-HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
+Sophos XDR includes powerful features for detection and remediation. Ask and answer business critical IT operations and threat hunting questions with Live Discover and respond remotely with Live Response.
+Sophos MDR Complete is Sophos's most flexible and comprehensive 24/7 managed threat protection, investigations, detection, and incident response service. Threats are fully eliminated. Sophos MDR Complete includes support for 3rd party endpoint protection solutions (endpoint and server).
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ HRM Labs helps companies to handle their human resource administration and payro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 15 Headcount</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (25 Users) - P1</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'>$2,675.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 30 Headcount</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With XDR (50 Users) - P2</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'>$4,875.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 50 Headcount</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (50 Users) - P3</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 100 Headcount</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR Complete (100 Users) - P4</td>
+<td style='padding: 10px;'>$17,500.00</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 200 Headcount</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>With MDR inclusive of FW integration (150 users) - P5</td>
+<td style='padding: 10px;'>$29,750.00</td>
+<td style='padding: 10px;'>$22,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RahTech_RahTechSophosEndpointProtection_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ HRM Labs helps companies to handle their human resource administration and payro
 
 ## Vendor Information
 
- Company Name: Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@hrmlabs.com <br><br>
+ Company Name:Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 64525066 <br>Contact Email: psg@rahtech.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

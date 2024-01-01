@@ -1,15 +1,15 @@
 ---
-title: 'ABSS Premier - Accounting and Sales Management System Version 30'
+title: 'DM 1103 Studios Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution2
 ---
 
-## ABSS Premier - Accounting and Sales Management System Version 30
+## DM 1103 Studios Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Managed by a Chartered Accountant with 30 years of experience, 01 BUSINESS SOLUTIONS PTE LTD is a certified ABSS partner, and had helped many local SMEs to setup accounting systems seamlessly, and with immediate result. ABSS Premier is an integrated accounting, sales, purchase and inventory management solution that integrate with PEPPOL e-invoicing network. A GST-compliant software, it helps businesses to streamline their accounting and operational procedures, and increases productivity.
+1103 Studios helps SMEs increase their business growth by getting results, connecting to customers and drive measurable business outcomes. With their proven Digital Marketing solutions, relevant certifications and experience across industries - these packages are uniquely built that consists of Digital Marketing Strategy Development, various Social Media Platforms, Strategic Content Production (Video/Photography, Creative Design), Analytics and Training to help SMEs succeed in the digital world.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ Managed by a Chartered Accountant with 30 years of experience, 01 BUSINESS SOLUT
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package A (1-User with onsite training, setup & installation)</td>
-<td style='padding: 10px;'>$3,553.00</td>
-<td style='padding: 10px;'>$3,553.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA(FB) + SMA(IG) Campaigns [2 Months]</td>
+<td style='padding: 10px;'>$9,811.00</td>
+<td style='padding: 10px;'>$9,811.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Implementation Package B (3-Users with onsite training, setup & installation)</td>
-<td style='padding: 10px;'>$4,694.00</td>
-<td style='padding: 10px;'>$4,694.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMA(TikTok) + SMA(TikTok) Campaigns [2 Months]</td>
+<td style='padding: 10px;'>$12,217.72</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package C (1-User Licence)</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA(Facebook) + SMA(Instagram) + Viral Video Marketing Campaigns [3 Months]</td>
+<td style='padding: 10px;'>$13,356.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software Package D (3-Users Licence)</td>
-<td style='padding: 10px;'>$2,744.00</td>
-<td style='padding: 10px;'>$2,744.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PremierPlus Implementation Package E (1-User with onsite training, setup & installation)</td>
-<td style='padding: 10px;'>$5,641.00</td>
-<td style='padding: 10px;'>$5,641.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_01Business_Annex3_CRwef_09Feb23_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SMA (FB) + SMA(IG) Campaigns [3 Months]</td>
+<td style='padding: 10px;'>$15,054.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1103_STUDIOS_DM1103_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:01 BUSINESS SOLUTIONS PTE LTD<br>Web URL: https://www.01businesssolutions.com/psg-grant/ <br>Contact Hotline: 62203306 <br>Contact Email: sales@01businesssolutions.com 
+ Company name:1103 STUDIOS PTE LTD<br>Web URL: www.1103studios.com <br>Contact Hotline: 89462005<br>Contact Email: hello@1103studios.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
