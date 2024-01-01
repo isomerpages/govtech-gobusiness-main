@@ -1,15 +1,15 @@
 ---
-title: 'DM Ice Cube Predictable Leads Generation Program'
+title: 'A-Class Accounting & Sales Management by Sleek'
 permalink: /productivity-solutions-grant/solutionrepo/solution1290
 ---
 
-## DM Ice Cube Predictable Leads Generation Program
+## A-Class Accounting & Sales Management by Sleek
 
 ## Overview
 
 **Description**
 
-Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
+Sleek provides a fully digital solution for accounting, tax and sales management for SMEs and Startups in Singapore backed up by quality local support.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
+<td style='padding: 10px;'>$962.60</td>
+<td style='padding: 10px;'>$962.60</td>
+<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Ecommerce SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
+<td style='padding: 10px;'>$1,264.56</td>
+<td style='padding: 10px;'>$1,264.56</td>
+<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM+SMA+video (3months)</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
+<td style='padding: 10px;'>$1,822.00</td>
+<td style='padding: 10px;'>$1,822.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
+<td style='padding: 10px;'>$2,939.84</td>
+<td style='padding: 10px;'>$2,939.84</td>
+<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
+<td style='padding: 10px;'>$4,076.20</td>
+<td style='padding: 10px;'>$4,076.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
+ Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

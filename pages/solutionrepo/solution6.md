@@ -1,15 +1,15 @@
 ---
-title: 'Xero Cloud Accounting Software'
+title: 'ABSS Premier Software V30'
 permalink: /productivity-solutions-grant/solutionrepo/solution6
 ---
 
-## Xero Cloud Accounting Software
+## ABSS Premier Software V30
 
 ## Overview
 
 **Description**
 
-Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
+ABSS Premier provides advanced business and inventory management system capabilities to medium-sized companies. Process foreign currency transactions , GST submissions and analyse business accurately. Businesses can manage even the most complex business with ease using the multi-user ABSS Premier.
 
 ## Solution Packages Option(s)
 
@@ -23,44 +23,44 @@ Xero is an online accounting software for small businesses that lets you share a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Premier full package with consultation)</td>
-<td style='padding: 10px;'>$5,605.60</td>
-<td style='padding: 10px;'>$5,605.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A with E-Invoicing (1 User)</td>
+<td style='padding: 10px;'>$1,904.68</td>
+<td style='padding: 10px;'>$1,904.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Premier Pro)</td>
-<td style='padding: 10px;'>$10,077.60</td>
-<td style='padding: 10px;'>$10,077.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B with E-Invoicing (3 Users)</td>
+<td style='padding: 10px;'>$2,820.56</td>
+<td style='padding: 10px;'>$2,819.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premier with Training)</td>
-<td style='padding: 10px;'>$2,406.60</td>
-<td style='padding: 10px;'>$2,406.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C with E-Invoicing, Setup and Training (1 User)</td>
+<td style='padding: 10px;'>$5,103.68</td>
+<td style='padding: 10px;'>$5,103.20</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Premier with Setup)</td>
-<td style='padding: 10px;'>$2,006.60</td>
-<td style='padding: 10px;'>$2,006.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D with E-Invoicing, Setup and Training (3 Users)</td>
+<td style='padding: 10px;'>$6,019.56</td>
+<td style='padding: 10px;'>$6,018.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Subscription only)</td>
-<td style='padding: 10px;'>$807.60</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_361_Annex3_CR_wef_10Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E with E-Invoicing, Setup, Training & Cloud Terminal (3 Users)</td>
+<td style='padding: 10px;'>$9,999.00</td>
+<td style='padding: 10px;'>$7,317.96</td>
+<td style='padding: 10px;'><a href='/images/psg/Comptrac_Sage_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
