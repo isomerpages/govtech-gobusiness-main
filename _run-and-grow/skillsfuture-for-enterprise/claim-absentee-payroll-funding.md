@@ -13,10 +13,9 @@ After your employees have completed the skills training course, the next step wo
 Absentee Payroll (AP) funding is a grant to help defray some manpower costs incurred when you send your Singaporean, Permanent Resident and LTVP+ employees for SSG-funded training.  
 
 - AP funding rate: Flat rate fixed at S$4.50 per hour  
-
 - Each organisation’s cap: S$100,000 per calendar year
 
-You will be asked to declare your employees' hourly salary information (before CPF deduction) on the Enterprise Portal for Jobs and Skills for AP claim. Use the [AP calculator](https://www.ssg.gov.sg/absentee-payroll-calculator.html){:target="_blank"}{:rel="noopener"} to find out the indicative amount you can claim. 
+You will be asked to declare your employees’ hourly salary information (before CPF deduction) on the Enterprise Portal for Jobs and Skills for AP claim. 
 
 **Where to access the claims services**
 
