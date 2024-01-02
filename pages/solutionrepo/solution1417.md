@@ -1,17 +1,15 @@
 ---
-title: 'DM MediaPlus Digital Marketing Package'
+title: 'DM Roots Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1417
 ---
 
-## DM MediaPlus Digital Marketing Package
+## DM Roots Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Mediaplus Digital is both Google and Facebook certified partner. A digital agency that balances social, search and business's online Brand identity. The goal is to help businesses set and achieve realistic goals and at the same time, increase the chatter and providing longevity to the business.
-
-With a deep understanding of clients, Mediaplus digital customizes solutions based on needs and desired outcomes. Leverage Mediaplus Digital's expertise to recommend viable paths to success.
+This Digital Marketing Package aims to help SMEs rapidly grow their business online, increasing inbound leads and sales through the fastest growing medium in today's market - Digital Marketing. Roots Digital is an award-winning digital marketing agency and a badged partner company for Google and Facebook. It allows them to offer best-in-class digital marketing solutions to their clients.
 
 ## Solution Packages Option(s)
 
@@ -25,38 +23,38 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Activate Search DM Package V2 (SEM/SEO) [3 Months]</td>
-<td style='padding: 10px;'>$9,935.00</td>
-<td style='padding: 10px;'>$9,935.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_14092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEO, Facebook Ads & 1 SEO Content]-[2 Months]</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Paid Social Digital Marketing Package (SMA) [3 Months]</td>
-<td style='padding: 10px;'>$9,930.00</td>
-<td style='padding: 10px;'>$9,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_14092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEO, SEM & 1 SEO Content] - [2 Months]</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Search DM Package V2(SEM/SEO) [6 Months]</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_14092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEO, Facebook Ads, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Paid Ads Digital Marketing Package (SEM/SMA) [3 Months]</td>
-<td style='padding: 10px;'>$9,950.00</td>
-<td style='padding: 10px;'>$9,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_14092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEO, SEM, 1 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'>$9,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accelerate DM Package v2 (SEO/SEM/SMA) [3 Months]</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'>$9,995.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaPlus_14092023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEO, Facebook Ads, 2 SEO Content or 1 Landing Page] - [2 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RootsDigital_DM_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -66,7 +64,7 @@ With a deep understanding of clients, Mediaplus digital customizes solutions bas
 
 ## Vendor Information
 
- Company Name: MediaPlus Digital Pte Ltd<br>Web URL: mediaplus.com.sg <br>Contact Hotline: 68163168 <br>Contact Email: wow@mediaplus.com.sg <br>
+ Company Name: Roots Digital Pte. Ltd.<br>Web URL: https://www.rootsdigital.com.sg/psg-grant<br>Contact Hotline: 88751638<br>Contact Email: psg@rootsdigital.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'VisionMan'
+title: 'Corsiva Lab E-Commerce Website Development(WordPress / Shopify)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1008
 ---
 
-## VisionMan
+## Corsiva Lab E-Commerce Website Development(WordPress / Shopify)
 
 ## Overview
 
 **Description**
 
-VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry's professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
+Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ VisionMan Maintenance Management is an easy to use and powerful system, designed
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Quick Start Package (1 Web User and 2 Mobile User)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express </td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Foundation Package (2 web users and 4 mobile user)</td>
-<td style='padding: 10px;'>$12,380.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Professional Package (4 web users and 8 mobile users)</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Advance Package (8 web users and 12 mobile users)</td>
-<td style='padding: 10px;'>$22,800.00</td>
-<td style='padding: 10px;'>$21,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premier Package (12 web users and 15 mobile users)</td>
-<td style='padding: 10px;'>$30,800.00</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ECS Techno_Sys (Asia Pacific) Pte Ltd<br>Web URL: www.ecss.com.sg <br>Contact Hotline: 62953566 <br>Contact Email: alan@ecss.com.sg <br>
+ Company name:Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

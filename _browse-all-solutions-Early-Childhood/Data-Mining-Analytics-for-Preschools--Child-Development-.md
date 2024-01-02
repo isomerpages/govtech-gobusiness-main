@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Presc
 
 Up to 50% for SMEs, 30% for non-SMEs
 
-This solution is supported by ECDA.
+This solution is supported by Early Child Development Agency (ECDA).
 
 ## Pre-Approved Solutions
 
@@ -20,7 +20,7 @@ This solution is supported by ECDA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution932' target='_blank'>Taidii Smart Data Analytics for Child Development</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Taidii Smart Data Analytics for Child Development</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>
 </table>
