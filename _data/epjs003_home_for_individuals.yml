@@ -1,0 +1,11 @@
+- image: <img src="/images/epjs/myskillsfuture.png" aria-hidden="true">
+  title: MySkillsFuture
+  url: https://www.myskillsfuture.gov.sg/content/portal/en/index.html
+  url-new-tab: true
+  text: Visit MySkillsFuture
+
+- image: <img src="/images/epjs/careersfuture.png" aria-hidden="true">
+  title: MyCareersFuture
+  url: https://www.mycareersfuture.gov.sg/
+  url-new-tab: true
+  text: Visit MyCareersFuture

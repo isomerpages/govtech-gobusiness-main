@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Food-Services/General-Food-Services-Equipment
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,31 +28,31 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution89' target='_blank'>High Speed Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1454' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution435' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1455' target='_blank'>High Speed Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2542' target='_blank'>Automated Deep Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1457' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2543' target='_blank'>Blast Chiller</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1458' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2544' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1459' target='_blank'>Automated Deep Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3170' target='_blank'>Automated Dishwasher</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1460' target='_blank'>Blast Chiller</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3171' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1501' target='_blank'>Autonomous Robotic Servers</a><br></td>
 <td></td>
 </tr>
 </table>

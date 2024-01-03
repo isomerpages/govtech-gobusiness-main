@@ -1,38 +1,43 @@
 ---
-title: 'Rotary Wok Fryer'
+title: 'Cartrack Fleet Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
-## Rotary Wok Fryer
+## Cartrack Fleet Management
 
 ## Overview
 
 **Description**
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accommodate scalability. This does not include equipment such as Jacketed Cooker and Cooking Tank.
-
-Cost of equipment capped at $37,500 per unit 
+Cartrack's all-in-one Fleet Management solution increases the safety, efficiency, compliance and sustainability of any business with on-the-ground operations. Cartrack's solution harnesses the data from advanced telematics devices and 3rd party APIs with analytics, computer vision and proprietary AI to empower businesses with the real-time actionable insights needed to improve their operations and make their lives easier.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rotary Wok Fryer</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>- Automatic Cleaning <br>- Time and heating presetting function e.g. 15 minutes cooking time, like a microwave<br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cartrack Fleet (per Vehicle)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cartrack_Cartrack_Fleet_Management_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Cartrack Technologies South East Asia Pte Ltd<br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

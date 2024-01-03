@@ -1,5 +1,5 @@
 
-<style>
+<style> 
     .content .panels {
         display: grid;
         grid-gap: 20px;
@@ -26,8 +26,8 @@
     }
 
     .content .panel .panel-banner>img {
-        width: 100%;
-        height: 100%;
+        width: 498px;
+        height: 200px;
         margin: 0;
         object-fit: cover;
     }
@@ -65,17 +65,44 @@
 
     .content .panel .panel-link {
         font-size: 18px;
+        font-family: hknova-regular;
         line-height: 27px;
         display: block;
         margin: 10px 0 5px 0;
     }
+    .content .panel .panel-pdf-link {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 10px 20px 5px 0;
+    }
 
+    .content .panel .panel-link::before{
+        display:none;
+    }
+    
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
+
+    .pdficon {
+        width: 21px;
+        height: 28px;
+        margin-left: 10px;
+        vertical-align: middle;
+    }
 
     @media (max-width: 600px) {
         .content .panels {
             grid-template-columns: 1fr;
         }
     }
+
 </style>
 <div class="panels">
     {% for panel in include.panels %}
@@ -99,12 +126,11 @@
         {% if panel.description %}
         <p class="panel-description">{{ panel.description }}</p>
         {% endif %}
-        {% if panel.tel or panel.email or panel.url %}
+        {% if panel.tel or panel.email or panel.url or panel.text %}
         <div class="panel-links-container">
             {% if panel.tel %}
             <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-
                 {% assign tels = panel.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
@@ -125,13 +151,30 @@
             <div class="panel-links-group">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
-                <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
-                    {% if panel.text %}{{panel.text}}
-                    {% else %}{{url}}{% endif %}</a>
+                    {% if panel.url-new-tab %}
+                        {%if url.endsWith(".pdf") %}
+                            <a class="panel-pdf-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
+                        {% else %}
+                            <a class="panel-link"
+                                href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
+                                target="_blank" rel="noopenner">
+                    {% endif %}
+                    {% else %}
+                        <a class="panel-link" href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}">
+                    {% endif %}
+                    {% if panel.pdf-icon %}<img style='width:21px; height:auto; margin-right: 8px; display: inline-flex; vertical-align: middle;' src="/images/pdficon.png">{% endif %}{% if panel.text %}<span style='font-size: 18px; font-family: hknova-regular; line-height: 27px;'>{{panel.text}}</span>
+                        {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
+            {% else %}
+                {% if panel.text %}
+                <hr style="width:100%;text-align:left;margin:0">
+                <div class="panel-info">
+                    {{panel.text}}
+                </div>
+                {% endif %}
             {% endif %}
         </div>
         {% endif %}

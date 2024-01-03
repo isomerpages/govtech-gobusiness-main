@@ -5,13 +5,13 @@
       content: |
         As part of the Singapore Green Plan 2030, the Government is actively encouraging enterprises to adopt solutions that would enable them to be more sustainable and energy efficient. Rising energy costs in recent months have made the transition towards energy efficiency more urgent than before.  
         
-        Therefore, the Government has developed the Energy Efficiency Grant for the Food Manufacturing, Food Services and Retail sectors as these sectors have been significantly affected by higher electricity prices, in terms of the impact on their overall business costs. These sectors are also recovering from the significant impact of COVID-19, as a result of the cutback in domestic consumption amidst the strict safe distancing measures.
+        Therefore, the Government has developed the Energy Efficiency Grant for the Food Manufacturing, Food Services and Retail sectors as these sectors have been significantly affected by higher electricity prices, in terms of the impact on their overall business costs.
 
     - title: What is the objective of the EEG?
       content: |
         The EEG will provide local SMEs in the Food Services, Food Manufacturing and Retail sectors with up to 70% support to adopt energy-efficient equipment in pre-scoped categories. 
 
-        This grant complements other energy efficiency initiatives such as NEA's Energy Efficiency Fund, which currently provides grant support for businesses in the manufacturing sector, including SMEs, for adoption of energy-efficient equipment or technologies, as well as BCA’s upcoming Green Mark Incentive Scheme for Existing Buildings 2.0.
+        This grant complements other energy efficiency initiatives such as NEA's Energy Efficiency Fund, which currently provides grant support for businesses in the manufacturing sector, including SMEs, for adoption of energy-efficient equipment or technologies, as well as BCA's Green Mark Incentive Scheme for Existing Buildings 2.0.
 
     - title: Will the Government consider expanding the Energy Efficiency Grant to more sectors?
       content: |
@@ -59,7 +59,9 @@
         
         - Heat pump technology
         
-        The grant support provided will be up to 70% of qualifying costs, capped at S$30,000 per company per year. Companies can only claim up to $5,000 under the LED lighting category.
+        The grant support provided will be up to 70% of qualifying costs, capped at S$30,000 per company per year<sup>1</sup>.
+
+        <sup>1</sup> Each company is subjected to an annual grant cap of S$30,000 for eligible equipment, starting on 1 April and ending on 31 March the following year.
 
     - title: Where can I find the list of supported equipment under the EEG?
       content: |
@@ -86,21 +88,23 @@
 
     - title: What is the duration of the EEG?  
       content: |
-        The grant application window for the EEG is from 1 Sep 2022 (7:00AM) to 31 Mar 2023.
+        The grant application window for the EEG is from 1 Sep 2022 to 31 Mar 2024.
         
         The Government will monitor the situation and consider the need for extension should it arise.
 
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>1</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. Following successful grant application(s), companies can begin to submit claims from 1 Nov 2022.  
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>1</sup> the equipment, and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
 
         <sup>1</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: Many companies occupy tenanted space and may not be able to change equipment such as lamps and air-conditioners. Will the Government support building owners as well so that tenants can benefit? 
       content: |
-        Currently, the EEG is open to all local SMEs from the eligible sectors including building owners. Building owners may also consider the upcoming BCA Green Mark Incentive Scheme for Existing Buildings 2.0 (GMIS-EB 2.0), which provides grants for building owners to retrofit and raise the energy performance of existing buildings with Gross Floor Area (GFA) of 5,000m2 or more. 
+        Currently, the EEG is open to all local SMEs from the eligible sectors including building owners. Building owners may also consider the BCA Green Mark Incentive Scheme for Existing Buildings 2.0 (GMIS-EB 2.0), which provides grants for building owners to retrofit and raise the energy performance of existing buildings with Gross Floor Area (GFA) of 5,000m<sup>2</sup> or more. 
 
     - title: How to apply for the EEG?
       content: |
-        Applications and claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+        To apply for the EEG, companies will have to:
 
         i. Visit [GoBusiness](/energy-efficiency-grant/) to access the list of supported equipment brands and models.
 
@@ -156,7 +160,7 @@
 
     - title: Where can I find more information on the EEG?
       content: |
-        For more information on the EEG, you may wish to visit the [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}.
+        For more information on the EEG, you may wish to visit [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}.
 
     - title: What are the key differences between Energy Efficiency Grant (EEG) and Energy Efficiency Fund (E2F) that are both targeted at SMEs?
       content: |

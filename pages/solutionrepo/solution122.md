@@ -1,37 +1,73 @@
 ---
-title: 'Portable Automatic Gas Cutting Machine'
+title: 'DM LiteBrew Digital Marketing Package'
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
-## Portable Automatic Gas Cutting Machine
+## DM LiteBrew Digital Marketing Package
 
 ## Overview
 
 **Description**
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
+Brew Interactive is a full-suite, award winning digital marketing agency. Their solutions have been specially designed to help address the requirements of any growing SMEs; from an increase in awareness, to driving leads and sales.
 
-Cost of equipment capped at $6,250 per unit
+Brew Interactive's service packages range from 3 to 6 months long, and are flexible to accommodate any SME's growth plans.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Portable Automatic Gas Cutting Machine</td>
-<td style='padding: 10px;'>$6,250.00</td>
-<td style='padding: 10px;'>Automatic traveling gas cutting operations<br>Cutting speed: minimum 110 mm/min<br>Adjustable bevel angle<br>Maintenance costs not supported<br>Optional components: relevant accessories e.g. gas hoses, cables, rail/track</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - [SEM + SMM] 5 months</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - [SEM + SMM + Landing Page] 4 months</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - [SEM + SEO] 6 months</td>
+<td style='padding: 10px;'>$10,250.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - [SEM + SEO + Content Creation] 4 months</td>
+<td style='padding: 10px;'>$10,650.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - [SEM + Full SEO] 6 months</td>
+<td style='padding: 10px;'>$15,100.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Brew_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Brew Interactive Pte Ltd<br>Web URL: https://brewinteractive.com/digital-marketing-psg-packages/<br>Contact Hotline: 68142952 <br>Contact Email: info@Brewinteractive.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

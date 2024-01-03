@@ -7,12 +7,12 @@
   href_2: '/home-based-businesses/determine-your-home-business-scheme/?src=home_quicklinks'
   text_2: How to start a home-based business
   is_new_2: false
-  href_3: 'https://eadviser.gobusiness.gov.sg/startabusiness/?src=home_quicklinks'
+  href_3: 'https://dashboard.gobusiness.gov.sg/login?&src=home_quicklinks?&redirect-uri=https://eadviser.gobusiness.gov.sg/startabusiness'
   target_3: _blank
-  text_3: 'e-Adviser: Register new business'
+  text_3: 'Register a Sole Proprietorship/Partnership via e-Adviser'
   is_new_4: false
-  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure/?src=home_quicklinks'
-  text_4: 'e-Adviser: Pick a business structure'
+  href_4: 'https://eadviser.gobusiness.gov.sg/businessstructure?src=home_quicklinks'
+  text_4: 'Get help choosing a business structure via e-Adviser'
   target_4: _blank
   cta_href: '/start-a-business/?src=home_quicklinks'
   cta_text: View Start-up Guide
@@ -28,26 +28,20 @@
   text_3: Submit returns
   href_4: '/licences/find-licence-by-sector/?src=home_quicklinks'
   text_4: Licence guides
+  href_5: 'https://dashboard.gobusiness.gov.sg/verify-licence?src=home_quicklinks'
+  text_5: Verify entity's licence
+  is_new_5: false
+  target_5: _blank
   cta_href: '/licences/?src=home_quicklinks'
   cta_text: Licensing overview
-- icon: '/images/Covid.svg'
-  alt: covid
-  title: Covid-19
-  id: 3
-  href_1: '/timelimitedrrt/?src=home_quicklinks'
-  text_1: Time limited RRT
-  href_2: '/safemanagement/general/?src=home_quicklinks'
-  text_2: Safe management measures
-  cta_href: '/covid/?src=home_quicklinks'
-  cta_text: Covid-19 overview
 - icon: '/images/govassist.png'
   alt: govassist
   title: Government Assistance
-  id: 4
+  id: 3
   href_1: /gov-assist/budget-announcement-for-businesses/
   text_1: Budget 2023
-  is_new_1: true
-  href_2: 'https://eadviser.gobusiness.gov.sg/govassist/?src=home_quicklinks'
+  is_new_1: false
+  href_2: 'https://eadviser.gobusiness.gov.sg/govassist?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank
   href_3: '/productivity-solutions-grant/?src=home_quicklinks'
@@ -60,3 +54,20 @@
   text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
+- icon: '/images/Explore.png'
+  alt: Explore More
+  title: Explore More
+  id: 4
+  href_1: '/intellectual-property/ip-grow/?src=home_quicklinks'
+  text_1: Intellectual Property
+  is_new_1: false 
+  href_2: '/regulatory-requirements-guides/?src=home_quicklinks'
+  text_2: Regulatory requirements guides
+  is_new_2: false
+  href_3: '/enterprisejobskills/?src=home_quicklinks'
+  text_3: Enterprise Portal for Jobs and Skills (EPJS)
+  is_new_3: false
+  href_4: '/Haze/?src=home_quicklinks'
+  text_4: Haze
+  is_new_4: false
+

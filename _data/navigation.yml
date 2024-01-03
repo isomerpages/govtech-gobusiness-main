@@ -25,6 +25,8 @@ links:
     sublinks:
       - title: Overview
         url: /run-and-grow/?src=topnav
+      - title: Regulatory Requirements Guides
+        url: /regulatory-requirements-guides/?src=topnav
       - title: Government Assistance
         url: /gov-assist/?src=topnav
       - title: Business Grants Portal
@@ -35,25 +37,12 @@ links:
         url: /skillsfuture-for-enterprise/?src=topnav
       - title: Accreditation
         url: /accreditation/?src=topnav
+      - title: Intellectual Property
+        url: /intellectual-property/ip-grow/?src=topnav
       - title: Taxes, GST and Customs
         url: /run-and-grow/taxes-and-gst/?src=topnav
       - title: GeBIZ Alerts
         url: /gebiz-alerts/?src=topnav
-  - title: Covid-19
-    url: /covid/?src=topnav
-    sublinks:
-      - title: Overview
-        url: /covid/?src=topnav
-      - title: Time Limited RRT for Workplaces
-        url: /timelimitedrrt/?src=topnav
-      - title: Permitted Services
-        url: /permittedlist/?src=topnav
-      - title: Safe Management Requirements
-        url: /safemanagement/general/?src=topnav
-      - title: Sector-specific Requirements
-        url: /safemanagement/sector/?src=topnav
-      - title: FAQ
-        url: /covid-19-faqs/?src=topnav
   - title: e-Services
     url: /e-services/?src=topnav
   - title: Resources

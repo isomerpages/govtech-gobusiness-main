@@ -8,15 +8,15 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000334" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ccc723f1-c0ab-49c6-ad41-20fca2ba0a6c" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products etc.</p>
- <h3>FAQs</h3>
- <ol>
- <li><strong>Where can I get the FAQ for Pre-signed Non-CITES Certificate?</strong><br />You can get the FAQ on this link: NParks FAQ website at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx" target="_blank" rel="noopener">https://va.ecitizen.gov.sg/cfp/customerpages/nparks/explorefaq.aspx</a></li>
- </ol>
+<p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase.</p>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get more information on traded in non-CITES wildlife parts and products?</strong><br />You can find out more at <a href="https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife" target="_blank" rel="noopener">https://www.nparks.gov.sg/biodiversity/cites/trade-of-non-cites-listed-wildlife</a></li>
+</ol>
 
 <strong>Additional Information</strong>
 
@@ -25,11 +25,11 @@ National Parks Board (NPARKS)
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Any Supporting Documents</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
- </ul>
+<li><strong>Any Supporting Documents</strong><br />File Format: DOC,DOCX,GIF,JPEG,JPG,PDF,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+</ul>
 
 <H3>Requirements</H3>
 
 <p>Prerequisite Licence(s)</p>
- <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
+<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

@@ -42,7 +42,7 @@ Baseline course fee subsidies are available to lower the training fee when you s
 
 - Your organisation’s employment size must not exceed 200, OR your organisation’s annual sales turnover must not exceed S$100 million
 
-Please check the [summary of course fee rates](https://www.enterprisejobskills.gov.sg/content/upgrade-skills/course-fee-and-absentee-payroll-funding.html){:target="_blank"}{:rel="noopener"} before deciding. 
+Please check the [summary of course fee rates](/enterprisejobskills/programmes-and-initiatives/upgrade-skills/course-fee-absentee-payroll-funding/) before deciding. 
 
 - In most cases, the course fee subsidies are automatically computed and deducted from the course fee. 
 

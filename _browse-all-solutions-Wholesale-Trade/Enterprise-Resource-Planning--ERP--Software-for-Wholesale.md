@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--E
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,12 +28,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2057' target='_blank'>A2000ERP Version 12.X</a><br></td>
-<td>A2000 Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution665' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3596' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Winspire Solutions Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1427' target='_blank'>A2000ERP Version 12.X</a><br></td>
+<td>A2000 Solutions Pte Ltd</td>
 </tr>
 </table>
 

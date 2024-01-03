@@ -8,24 +8,71 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/artsentertainmentlicence" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>For carrying out any form of public entertainment concerning the arts, viz. plays, musical performances, dance performances, exhibitions, variety shows and pop/ rock concerts. The Arts Entertainment Licence has to be collected from IMDA before the start of the the performance or event.</p>
+<p>For carrying out any form of arts entertainment such as plays, stand-up comedies, dance performances, music performances (such as variety shows and concerts), art exhibitions and literary readings (such as play-readings and poetry-readings), unless exempted.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
+<p><strong>Fee</strong><br />Licence Fee: $10 or $5 per day depending on event type</p>
 
 <H3>Documents Needed</H3>
 
 <ul>
- <li><strong>Art Exhibitions</strong></li>
- <li><strong>Multi-disciplinary Arts Entertainment</strong></li>
- <li><strong>Improv Performances</strong></li>
- <li><strong>Plays, Play-Reading and Poetry Recital</strong></li>
- <li><strong>Pop/Rock Concerts and Variety Shows</strong></li>
- <li><strong>Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre</strong></li>
- </ul>
+<li>Plays, play-readings and poetry recitals
+<ul>
+<li>Synopsis</li>
+<li>Finalised script or text</li>
+<li>(If any) Multimedia material such as images or videos</li>
+</ul>
+</li>
+<li>Art exhibitions
+<ul>
+<li>Synopsis / Theme of exhibition</li>
+<li>Wall text for each exhibit</li>
+<li>Photograph / Image of each exhibit</li>
+<li>(If any) Multimedia material such as images or videos</li>
+</ul>
+</li>
+<li>Concerts and variety shows
+<ul>
+<li>Detailed programme schedule</li>
+<li>Layout plan of the event location</li>
+<li>Set list and lyrics for all songs</li>
+<li>Names of artistes, including guest performers</li>
+<li>(If any) Multimedia material such as images or videos</li>
+</ul>
+</li>
+<li>Unscripted performances e.g. dance, performance art, stand-up comedies, playback or forum theatres
+<ul>
+<li>Synopsis</li>
+<li><a href="https://www.imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/licensing/licenses/content-checklist-form-for-unscripted-and-multidisciplinary-performances.pdf" target="_blank" rel="noopener">Content Checklist for unscripted and multidisciplinary performances</a></li>
+<li>Rehearsal video or video of past performances</li>
+<li>(If any) Multimedia material such as images or videos</li>
+</ul>
+</li>
+<li>Muti-disciplinary arts performances
+<ul>
+<li>Synopsis</li>
+<li><a href="https://www.imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/licensing/licenses/content-checklist-form-for-unscripted-and-multidisciplinary-performances.pdf" target="_blank" rel="noopener">Content Checklist for unscripted and multidisciplinary performances</a></li>
+<li>Detailed programme schedule</li>
+<li>Layout plan of the event</li>
+<li>Rehearsal video or video of past performances</li>
+<li>(If any) Finalised script</li>
+<li>(If any) Set list and lyrics for all songs</li>
+<li>(If any) Photograph / Image</li>
+<li>(If any) Multimedia material such as images or videos</li>
+</ul>
+</li>
+<li>Improv Theatre
+<ul>
+<li>Synopsis</li>
+<li><a href="https://www.imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/licensing/licenses/content-checklist-for-improv-performances.pdf" target="_blank" rel="noopener">Content Checklist for improv performances</a></li>
+<li>Rehearsal video or video of past performances</li>
+<li>Multimedia material such as images or videos</li>
+</ul>
+</li>
+</ul>
 

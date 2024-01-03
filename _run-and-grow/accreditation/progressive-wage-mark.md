@@ -56,7 +56,7 @@ To be eligible for the PW Mark, you must:
 ### How to apply
 
 **Application Fee:** Free<br>
-**Estimated Processing Time:** 5 business days for PW Mark; Up to 1.5 months for PW Mark Plus (including adoption of the TS-LWW as part of the application).
+**Estimated Processing Time:** May take up to 4 weeks for PW Mark; Up to 1.5 months for PW Mark Plus (including adoption of the TS-LWW as part of the application).
 
 {% include button.html text="Log in to GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/accreditations/pwmark?src=rungrow-pwmark" type="primary" %}
 

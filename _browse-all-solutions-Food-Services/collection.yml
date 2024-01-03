@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Automated-Reservation.md
-      - Digital--Online-Ordering-and-Payment.md
       - B2B-Marketplace-E-Procurement-System.md
       - Digital-Ordering-and-Payment-System.md
       - General-Food-Services-Equipment.md

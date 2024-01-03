@@ -16,6 +16,7 @@ Heat pump technology
 - AO Smith - CAHP-80
 - AO Smith - HPI-40D
 - AO Smith - HPI-50D
+- AO Smith - HPW-60A
 - AO Smith - HPW-80A
 - Asun - Asun-A/H-080L
 - Asun - Asun-C/H-5.0P
@@ -32,4 +33,8 @@ Heat pump technology
 - Asun - Asun-S/N-300L
 - Asun - Asun-S/N-500L
 - F&BSAS - FB1P420
+- F&BSAS - FB5P1850
 - Rheem - ProTerra 50 Gallon
+- RHEEM - ProTerra RHP180-2805
+- RHEEM - ProTerra RHP280-2805
+- RHEEM - ProTerra RHP400-5207C

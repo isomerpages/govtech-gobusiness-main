@@ -6,9 +6,15 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/Inventory-Mgmt-and
 ## Inventory Management and Sales Management System
 ## Overview
 
+**Description**
+
+Setup product details for each item group, inventory locations, journal logs, create price groups / discounts, barcode labelling for RFID search and allow integration with Point of Sales (POS) systems. 
+
+Offers ability to generate quotations, invoices, purchase orders and generate reports.
+
 **Support Level and Conditions**
 
-Up to 70% for SMEs,  for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,28 +34,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution8' target='_blank'>Adaptive BizApp Version 5</a><br></td>
-<td>Adaptive Cloud Systems Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution75' target='_blank'>Applivon - Odoo</a><br></td>
+<td>Applivon Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2752' target='_blank'>MetroERP Version 1.0</a><br></td>
-<td>METRO GROUP PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2799' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution400' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3202' target='_blank'>1ERP - Singapore ERP</a><br></td>
-<td>Bona Technologies Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3561' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution670' target='_blank'>Xintesys Sales and Inventory Management Solution</a><br></td>
 <td>Xintesys Consultancy Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3563' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution686' target='_blank'>ZETTAPPS Inventory & Order Processing</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution793' target='_blank'>Deskera ERP Version 10</a><br></td>
+<td>SF TECHNOLOGIES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1304' target='_blank'>Odoo Enterprise Version 16</a><br></td>
+<td>PORT CITIES SINGAPORE PTE LTD</td>
 </tr>
 </table>
 

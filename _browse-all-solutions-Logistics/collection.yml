@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Transport-Management.md
       - Warehouse-Management.md
       - Freight-Management.md
-      - General-Logistics-Equipment.md
+      - Transport-Management.md

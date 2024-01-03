@@ -1,0 +1,10 @@
+collections:
+  browse-all-solutions-Building-Construction:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - 3D-Modelling--Immersive-Visualisation-Analysis.md
+      - FM-Workflow-Automation.md
+      - e-Permit-to-work--e-PTW-.md
+      - Quantity-Surveying-and-Valuation.md
+      - Coordination-Tools-and-Collaboration-Platform.md

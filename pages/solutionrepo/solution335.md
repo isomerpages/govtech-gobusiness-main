@@ -1,30 +1,39 @@
 ---
-title: 'Commercial Inkjet Printer'
+title: 'InfoMaster ERP Software - Asset Monitoring and Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution335
 ---
 
-## Commercial Inkjet Printer
+## InfoMaster ERP Software - Asset Monitoring and Management
 
 ## Overview
 
 **Description**
 
-Commercial inkjet printers are used to stamp information directly onto product packaging. Specific information like bar codes, product information and expiry dates can be printed onto individual product packets. Inkjet printers should be able to integrate with the production line for smoother operations. This does not include equipment such as handheld printers and laser printers. 
-
-Cost of equipment capped at $16,000 per unit
+InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Commercial Inkjet Printer</td>
-<td style='padding: 10px;'>$16,000.00</td>
-<td style='padding: 10px;'>- Touchscreen interface, able to manually input datecode/expiry date for products<br>- Can automatically print unique barcode for each product from the production line<br><br><br></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +41,10 @@ Cost of equipment capped at $16,000 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Integrated Software Engineering Pte Ltd<br>Web URL: www.infomaster.com.sg <br><br>Contact Hotline: 67475665 <br><br>Contact Email: sales@ise.com.sg <br><br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -3,10 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - time-limited-rrt.md
-      - permitted-services.md
-      - safe-management-requirements/.keep
-      - safe-management-requirements/general-requirements.md
-      - safe-management-requirements/contact-tracing.md
+      - contact-tracing.md
       - sector-specific-requirements.md
-      - faqs.md
