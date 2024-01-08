@@ -1,15 +1,15 @@
 ---
-title: 'SINGTAX CORPORATE'
+title: 'Network Box Next Generation Managed Security'
 permalink: /productivity-solutions-grant/solutionrepo/solution1540
 ---
 
-## SINGTAX CORPORATE
+## Network Box Next Generation Managed Security
 
 ## Overview
 
 **Description**
 
-Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
+Network Box Next Generation Managed Security is a Managed Security Service Provider providing protection against the latest cyber threats on a 24/7 basis. By outsourcing cybersecurity to Network Box, SMEs no longer need to allocate resources for security issues and can focus on running their businesses.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SINGTAX Corporate</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tax_Connection_Singtax_Corporate_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package I - Low Workload</td>
+<td style='padding: 10px;'>$7,203.00</td>
+<td style='padding: 10px;'>$7,203.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package II - Medium Workload</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'>$8,397.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package III - Higher Workload</td>
+<td style='padding: 10px;'>$10,028.00</td>
+<td style='padding: 10px;'>$10,028.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package IV - S-80i</td>
+<td style='padding: 10px;'>$12,171.00</td>
+<td style='padding: 10px;'>$12,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package V - M-295i</td>
+<td style='padding: 10px;'>$21,356.00</td>
+<td style='padding: 10px;'>$21,356.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Used by tax professionals for over 10 years and an easy-to-use yet comprehensive
 
 ## Vendor Information
 
- Company Name: TAX CONNECTION PTE. LTD.<br>Web URL: www.taxconnection.com.sg <br>Contact Hotline: 61003547 <br>Contact Email: support@taxconnection.com.sg <br>
+ Company Name: NETWORK BOX (SIN) PTE. LTD.<br>Web URL: www.network-box.sg<br>Contact Hotline: 63395900<br>Contact Email: enquiry@network-box.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

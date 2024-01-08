@@ -1,17 +1,17 @@
 ---
-title: 'AZ DIGITAL ORDERING SOLUTION Version 1.0'
+title: 'Crystal Dash CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1409
 ---
 
-## AZ DIGITAL ORDERING SOLUTION Version 1.0
+## Crystal Dash CRM
 
 ## Overview
 
 **Description**
 
-AZ Digital Ordering Solution provides an up scaling process in engaging customer's dining experience with.........
-1) Customer Self-Ordering Kiosk providing a less face to face interaction and to ease the queue 
-2) Mobility device via QR / App Ordering to enhance their ordering process.
+Crystal Dash CRM enables SMEs and MNCs to easily configure process work flows for sales, customer service to operational teams. It can be scaled effectively to meet the needs of every unique industry, with multi-country expansion support and remote working capabilities. Integrate with omni-channel communication from calls, emails, WhatsApp.
+
+Crystal Dash is built for the modern day CRM with less clicks and more automation to make staff happier and increase revenue.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +25,41 @@ AZ Digital Ordering Solution provides an up scaling process in engaging customer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 ( Self Ordering License )</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (3 Users) Simplified</td>
+<td style='padding: 10px;'>$5,960.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CrystalNet_CRM_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 ( Self Ordering License x 2 )</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (3 Users) </td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CrystalNet_CRM_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 ( Self Ordering License + Kitchen Display License )</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Edition (6 Users)</td>
+<td style='padding: 10px;'>$8,920.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CrystalNet_CRM_01122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 ( Self Ordering License + Mobile QR Ordering License + Kitchen Display License )</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 ( Mobile QR Ordering License )</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AZ_Digital_AZ_Digital_Ordering_Solution_Ver1_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional Edition (3 Users)</td>
+<td style='padding: 10px;'>$9,460.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CrystalNet_CRM_01122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:AZ Digital Pte Ltd<br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net 
+ Company name:Crystal Net Pte Ltd<br>Web URL: https://www.crystaldash.com/ <br>Contact Hotline: 67278111 <br>Contact Email: info@crystaldash.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

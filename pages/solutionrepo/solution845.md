@@ -1,15 +1,15 @@
 ---
-title: 'EZYSALES RETAIL POS Version 1.0'
+title: 'Intelli-Signage'
 permalink: /productivity-solutions-grant/solutionrepo/solution845
 ---
 
-## EZYSALES RETAIL POS Version 1.0
+## Intelli-Signage
 
 ## Overview
 
 **Description**
 
-EzySales Retail POS accord Integrated Retail businesses. The solution is designed to enhance retail stores day-to-day operations in a more efficient way. The solution helps businesses to generate consistent and customizable reports in an instant. EzySales Retail POS support multi-store management with utmost ease. The solution is flexible to use and provides reliable, secure, accurate and fast payment methods. The solution offers seamless integrations and add-ons.
+Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics. Intelli-Signage is a revolutionary digital marketing platform that allowed retail business owner to deploy their new product, promotion campaign and services real-time to attract new customers, as the content design is based on a cloud-based platform and can be directly deployed to any store outlet at any time and any location.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ EzySales Retail POS accord Integrated Retail businesses. The solution is designe
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LIMITED VERSION</td>
-<td style='padding: 10px;'>$6,850.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PROFESSIONAL VERSION</td>
-<td style='padding: 10px;'>$11,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Winapp_EZYSALES_RETAIL_POS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intelli-Signage 1 unit</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'>$4,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Anewtech_Systems_Intelli_Signage_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ EzySales Retail POS accord Integrated Retail businesses. The solution is designe
 
 ## Vendor Information
 
- Company name:WINAPP SOLUTIONS PTE LTD<br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG 
+ Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

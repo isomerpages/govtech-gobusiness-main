@@ -1,15 +1,15 @@
 ---
-title: 'Trueblu CRM Version 3.8'
+title: 'TWCSS - teamWork Corporate Secretarial Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1552
 ---
 
-## Trueblu CRM Version 3.8
+## TWCSS - teamWork Corporate Secretarial Solution
 
 ## Overview
 
 **Description**
 
-TRUEBLU CRM is a unique Customer Relationship Management (CRM) tool that is integrated with social media platforms . Trueblu is a unique Cloud-based system that empowers SMEs to manage both new & loyal customers while automating the overall business processes like SEO and social media marketing. This business intelligence tool is an all-in-one solution that streamlines business processes such as customer management to social media marketing enabling businesses to freely automate their processes.
+TWCSS is a fully cloud-based solution that manages SME entire corporate secretarial operation. teamWork TWCSS helps automate SME work processes to achieve a higher level of control, clarity and consistency. Through consolidating the entire database into the system, TWCSS can easily automate most of the work processes, helping SME to maximise its productivity & efficiency levels throughout.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,17 @@ TRUEBLU CRM is a unique Customer Relationship Management (CRM) tool that is inte
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package - 1 license</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_Ver3_8_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (100 Active Company Count)</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package - 1  license</td>
-<td style='padding: 10px;'>$9,080.00</td>
-<td style='padding: 10px;'>$7,530.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_Ver3_8_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package - 2  license</td>
-<td style='padding: 10px;'>$18,160.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_Ver3_8_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Intermediate Package - 3  license</td>
-<td style='padding: 10px;'>$27,240.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_Ver3_8_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Intermediate Package - 4  license</td>
-<td style='padding: 10px;'>$36,320.00</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Active_Interactions_Trueblu_CRM_Ver3_8_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (100 Active Company Count + 3 PMS User Licenses)</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWCSS_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +43,7 @@ TRUEBLU CRM is a unique Customer Relationship Management (CRM) tool that is inte
 
 ## Vendor Information
 
- Company name:Active Interactions Pte Ltd<br>Web URL: https://trueblu.co/ <br>Contact Hotline: 91697979 <br>Contact Email: joel@activeinteractions.com 
+ Company Name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
