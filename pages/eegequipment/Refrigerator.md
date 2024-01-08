@@ -56,11 +56,13 @@ Commercial refrigerator: Inverter technology
 - ARCTICOOL - EG1800F (600)
 - Bosch - KDN55NL20O
 - Bosch - KFN96PX91I
+- Bosch - KGD86AI31U
 - Bosch - KGN36XI46
 - Bosch - KGN56CI41J
 - Bosch - KGN56LB40O
 - Bosch - KGN56XI40
 - Bosch - KGN56XI40J
+- Bosch - KGN76CI30U
 - BRANDT - BFA1791NA
 - BRANDT - BFC8633XC
 - BRANDT - BFD8072NX
@@ -275,6 +277,7 @@ Commercial refrigerator: Inverter technology
 - EuropAce - ER 5461W
 - EuropAce - ER 5501A
 - EuropAce - ER 7256W
+- Farfalla - FR-47R2
 - FHIABA - S8990TST6i
 - FHIABA - S8991TST3I
 - FHIABA - S8991TST6I
@@ -468,6 +471,7 @@ Commercial refrigerator: Inverter technology
 - LG - GB-B306PZ
 - LG - GB-B3442BE
 - LG - GB-B3442MC
+- LG - GB-B3443PY
 - LG - GB-B3449PZ
 - LG - GB-B3862SG
 - LG - GB-B3863MN
@@ -483,6 +487,7 @@ Commercial refrigerator: Inverter technology
 - LG - GS-B6269PZ
 - LG - GS-B6472MC
 - LG - GS-B6472PZ
+- LG - GS-B6473EP, GS-B6473PY
 - LG - GS-L6013PZ
 - LG - GT-B3127PZ
 - LG - GT-B3153BN
@@ -492,11 +497,14 @@ Commercial refrigerator: Inverter technology
 - LG - GT-B3723PY
 - LG - GT-B3952BL
 - LG - GT-B3952BN
+- LG - GT-B3953EP
 - LG - GT-B4387PZ
+- LG - GT-B4603PY
 - LG - GT-B4783BL
 - LG - GT-B4783EP
 - LG - GT-B4783PZ
 - LG - GT-F3953EP
+- LG - GT-F4604EP
 - LG - GT-F4781BL
 - LG - GT-M5093BL
 - LG - GT-M5097PZ
@@ -642,12 +650,6 @@ Commercial refrigerator: Inverter technology
 - Panasonic - NR-TX461W
 - Panasonic - NR-TZ601B
 - Panasonic - NR-YW590Y
-- Panasonic - OCU-NR300DSF
-- Panasonic - OCU-NR450DSF
-- Panasonic - OCU-NR600DSF
-- Panasonic - OCU-NR800DSF
-- Panasonic - OCU-NS600VSFJ
-- Panasonic - OCU-NS800VSFJ
 - Panasonic - SAR-CDV390C7L-SG
 - Panasonic - SAR-CDV390LSG
 - Panasonic - SAR-CDV490LSG
@@ -825,9 +827,11 @@ Commercial refrigerator: Inverter technology
 - Polariz - PGR-1000-TA-EC
 - Polariz - PGR-1600-TA-EC
 - Polariz - PGR-500-TA-EC
+- PowerPac - PPBF555A
 - Ryker - TF24101
 - Samsung - RB34T6054B1
 - Samsung - RF59A70T3S9
+- Samsung - RF59A70T4S9
 - Samsung - RF60N9011SG
 - Samsung - RL4004SBASL
 - Samsung - RL4354RBABS
@@ -862,6 +866,8 @@ Commercial refrigerator: Inverter technology
 - Samsung - RT53K6257SL
 - Samsung - RT53K6657B1
 - Samsung - RT62K7057BS
+- Samsung - RT62K705JBS
+- Samsung - RZ32T7443AP
 - Samsung - RZ32T7445AP
 - Samsung - S8991TST3I
 - Sanden Intercool - SPB 0300
@@ -874,6 +880,7 @@ Commercial refrigerator: Inverter technology
 - Sanden Intercool - SPE 0700
 - Sanden Intercool - SPE 1200
 - SHARP - SJ-FB32E-DS
+- SHARP - SJ-FB32E-S
 - SHARP - SJ-FB34E-DS
 - SHARP - SJ-FB34E-S
 - SHARP - SJ-PG51P2-BK
@@ -1102,6 +1109,10 @@ Commercial refrigerator: Inverter technology
 - SOLID - SUCC-1570
 - SOLID - SUCC-1860
 - SOLID - SUCC-1870
+- SOLID - SUCCF-1560
+- SOLID - SUCCF-1570
+- SOLID - SUCCF-1860
+- SOLID - SUCCF-1870
 - SOLID - SUCF-1260
 - SOLID - SUCF-1270
 - SOLID - SUCF-1560
@@ -1111,6 +1122,8 @@ Commercial refrigerator: Inverter technology
 - SOLID - SURC-1280
 - SOLID - SURC-1880
 - SOLID - SURC-680
+- SOLID - SURCF-1280
+- SOLID - SURCF-1880
 - SOLID - SURF-1280
 - SOLID - SURF-1880
 - SOLID - SURF-680
@@ -1166,11 +1179,17 @@ Commercial refrigerator: Inverter technology
 - SunTrump - KJA-FF771
 - SunTrump - KJA-FR1271
 - SunTrump - KJA-FR771
+- Superior - 12060COMBI
 - Superior - 12060FRNS
+- Superior - 12076COMBI
 - Superior - 12076FRNS
+- Superior - 15060COMBI
 - Superior - 15060FRNS
+- Superior - 15076COMBI
 - Superior - 15076FRNS
+- Superior - 18060COMBI
 - Superior - 18060FRNS
+- Superior - 18076COMBI
 - Superior - 18076FRNS
 - Superior - 1GDCRNS
 - Superior - 1GDCRNS-S
@@ -1185,6 +1204,8 @@ Commercial refrigerator: Inverter technology
 - Superior - 3GDFRNS
 - Superior - 4DCOMBI
 - Superior - 4DFRNS
+- Superior - 9060FRNS
+- Superior - 9076FRNS
 - Superior - Flip-100
 - Superior - Flip-250
 - Superior - Flip-350

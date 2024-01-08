@@ -28,24 +28,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution26' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution21' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
 <td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution203' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution176' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution353' target='_blank'>Autodesk AEC Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution318' target='_blank'>Autodesk AEC Collection</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1542' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1365' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1547' target='_blank'>Graphisoft Archicad</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1370' target='_blank'>Graphisoft Archicad</a><br></td>
 <td>Graphisoft Asia Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1557' target='_blank'>CSG - Autodesk Collection</a><br></td>
+<td>CSG Software Pte Ltd</td>
 </tr>
 </table>
 

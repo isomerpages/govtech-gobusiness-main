@@ -1,15 +1,15 @@
 ---
-title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
+title: 'TWXRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1554
 ---
 
-## WLP Digital Ecommerce Web Development (WooCommerce)
+## TWXRM
 
 ## Overview
 
 **Description**
 
-Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
+TWXRM is a Practice Management System specifically catered for the Accountancy & Finance industry. . Services rendered in this industry are often being managed by different teams, leading to complicated internal infrastructures, where workflows and processes tend to overlap inter-department wise. The purpose of TWXRM is to eliminate such administrative bottlenecks, simultaneously providing a wide range of modules and functionalities to help your firm be technologically & administratively sound.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Development of an Ecommerce online website complete with integrated functionalit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Standard)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Starter)</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TWXRM (3 User Licenses)</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/teamWork_TWXRM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
+ Company Name:teamWork APAC Pte. Ltd.<br>Web URL: https://www.teamworkapac.com <br>Contact Hotline: 65898886 <br>Contact Email: contact@teamworkapac.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

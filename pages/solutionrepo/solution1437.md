@@ -1,15 +1,15 @@
 ---
-title: 'NPOS Version 2.1'
+title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1437
 ---
 
-## NPOS Version 2.1
+## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 
 ## Overview
 
 **Description**
 
-NPOS Digital Ordering solution enables F&B customers to directly order from a digital menu on a tablet; or via scanning a QR Code to view the digital menu on their mobile devices and make orders; and/or place order online directly over a website.
+Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,10 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Basic Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'>$5,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant QR Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NSTORY_NPOS_Version2_1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NPOS Advance Restaurant Digital Ordering Solution</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,670.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nstory_Npos_Ver2_1_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +36,7 @@ NPOS Digital Ordering solution enables F&B customers to directly order from a di
 
 ## Vendor Information
 
- Company name:NSTORY PTE. LTD.<br>Web URL: https://nstory.me <br>Contact Hotline: 62463207 <br>Contact Email: ecare@nstory.me
+ Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
