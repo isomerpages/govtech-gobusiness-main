@@ -1,26 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - KPMG Services Pte Ltd.'
+title: 'DM Outrankco Digital Marketing Packages Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution451
 ---
 
-## Job Redesign Consultancy - KPMG Services Pte Ltd.
+## DM Outrankco Digital Marketing Packages Version 1
 
 ## Overview
 
 **Description**
 
-KPMG People and Change team in Singapore offers a range of services that enables organisation to unlock competitive advantage in today's environment.
-
-KPMG provides customized support in below core areas:
--	Organisation Design
--	Job Redesign
--	Talent Management
--	HR Transformation
--	Strategic Workforce Transformation and Workforce Shaping and Optimisation
--	Behavioural Change Management
--	Employee Experience
--	Rewards Advisory
--	Learning and Development
+Outrankco is a digital marketing agency that offers transparent and trusted SEO and SEM services, with the aim to provide cutting-edge solutions to help businesses optimize their marketing budget for maximum returns. With hyper-targeted campaigns, SEO improves website traffic while boosting its Google SERPs ranking to generate more leads. SEM enables clients to quickly draw traffic to their website which encourages higher conversion rates; serving as the cornerstone for successful SEO campaign.
 
 ## Solution Packages Option(s)
 
@@ -34,20 +23,34 @@ KPMG provides customized support in below core areas:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - KPMG Services Pte Ltd.</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/KPMG_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM Packages - Starter (3 Months)</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM Packages - Advanced (4 Months)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + SEM Packages - Specialized (6 months)</td>
+<td style='padding: 10px;'>$10,700.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Outrankco_DM_Outrankco_DigitalMarketing_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: KPMG Services Pte. Ltd.<br>UEN No: 200003956G<br>Web URL: https://home.kpmg/sg/en/<br>Contact Name: Ms Emily Fok, Assistant Director <br>Contact Email: emilyfok@kpmg.com.sg <br>Contact Number: 9619 6236
+ Company name:Outrankco Pte Ltd<br>Web URL: https://outrankco.sg <br>Contact Hotline: 89176725 <br>Contact Email: info@outrankco.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Revel Systems Version 2'
+title: 'Advocado Cloud Loyalty CRM Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1390
 ---
 
-## Revel Systems Version 2
+## Advocado Cloud Loyalty CRM Software
 
 ## Overview
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing and sales automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$5,492.00</td>
-<td style='padding: 10px;'>$4,892.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$7,904.00</td>
-<td style='padding: 10px;'>$6,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$10,900.00</td>
+<td style='padding: 10px;'>$8,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
-<td style='padding: 10px;'>$8,156.00</td>
-<td style='padding: 10px;'>$6,444.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'>$8,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
+<td style='padding: 10px;'>$18,200.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
+ Company Name: Advocado Pte Ltd<br>Web URL: https://www.advocadoapp.com <br>Contact Hotline: 64449556 <br>Contact Email: hello@advocado.me <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

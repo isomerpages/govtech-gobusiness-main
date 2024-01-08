@@ -1,15 +1,15 @@
 ---
-title: 'DM OC Digital Digital Marketing Packages'
+title: 'goTruck!Hub'
 permalink: /productivity-solutions-grant/solutionrepo/solution1088
 ---
 
-## DM OC Digital Digital Marketing Packages
+## goTruck!Hub
 
 ## Overview
 
 **Description**
 
-OC Digital is a proven multi-award-winning agency that has served Singapore businesses for over 10 years helping more than 600 companies generate customers by using the right digital marketing methods. As an SME ourselves, we know what local businesses are going through. Entrust your business with us to win back more customers today! We have created 4 digital marketing package solutions for you to choose from and there is one that will definitely help you and your business.
+goTruck!Hub is an internet-based Transport Management System, specifically tailored for medium and heavy logistics. Simplify everything and manage your operations using just your mobile phone.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ OC Digital is a proven multi-award-winning agency that has served Singapore busi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM (3 Months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 10 vehicles</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 20 vehicles</td>
+<td style='padding: 10px;'>$12,200.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM + SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Transporter with 30 vehicles</td>
+<td style='padding: 10px;'>$17,800.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO + SEM + SMA (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Integrated Company with 30 vehicles</td>
+<td style='padding: 10px;'>$26,000.00</td>
+<td style='padding: 10px;'>$21,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Integrated Company with 50 vehicles</td>
+<td style='padding: 10px;'>$42,000.00</td>
+<td style='padding: 10px;'>$35,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/GoTruck_goTruckHub_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ OC Digital is a proven multi-award-winning agency that has served Singapore busi
 
 ## Vendor Information
 
- Company Name: OC Digital Pte Ltd<br>Web URL: https://ocdigitalnetwork.com/services/ <br>Contact Hotline: 63430068 <br>Contact Email: hello@ocdigitalnetwork.com <br>
+ Web URL: www.gotruck.co <br><br>Contact Hotline: 66452643 <br><br>Contact Email: ENQUIRY@GOTRUCK.CO <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

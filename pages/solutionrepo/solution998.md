@@ -1,15 +1,15 @@
 ---
-title: 'Quickbook Online'
+title: 'WarelyEcom Version 1.3'
 permalink: /productivity-solutions-grant/solutionrepo/solution998
 ---
 
-## Quickbook Online
+## WarelyEcom Version 1.3
 
 ## Overview
 
 **Description**
 
-Intuit Quickbooks Online is a cloud-based accounting solution that helps small businesses manage their accounting, incoming, expenses, invoicing, payroll, and more.
+Warely Ecommerce Solution assist SME to power their online business website, which includes a professionally designed website, inventory management, Loyalty program, payment gateway, social media and CRM integration.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ Intuit Quickbooks Online is a cloud-based accounting solution that helps small b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Quickbook Online- QBO</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'>$820.00</td>
-<td style='padding: 10px;'><a href='/images/psg/IRIS_CORPORATE_Quickbook_Online_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PLUS_65_WarelyEcom_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:IRIS CORPORATE SERVICES PTE. LTD.<br>Web URL: https://proadvisor.intuit.com/app/accountant/search?region=SG&location=singapore <br>Contact Hotline: 81001936 <br>Contact Email: iriscorporateservices@yahoo.com
+ Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

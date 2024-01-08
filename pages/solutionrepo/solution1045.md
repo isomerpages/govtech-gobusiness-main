@@ -1,17 +1,15 @@
 ---
-title: 'Deskera ERP Version 10'
+title: 'AutoCount Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution1045
 ---
 
-## Deskera ERP Version 10
+## AutoCount Accounting
 
 ## Overview
 
 **Description**
 
-SF Technologies Pte Ltd is a Platinum Channel Partner of Deskera providing expertise in digitalizing business and support in digital transformation.
-
-Deskera is an integrated platform that enables SMEs to scale faster with fewer tools. From convenience stores to manufacturing plants, hundreds of thousands of small and medium enterprises use Deskera to manage accounting, inventory, sales pipeline, and marketing automation.
+AutoCount possess more than 25 years software development experience. Its main business is to develop and provide high quality accounting software as well as other business applications to small and medium sized enterprises. As at today, AutoCount Accounting have been the preferred choices of most SMEs in Malaysia and its surrounding countries. More than 200,000 companies and 600,000 users of various industries/sectors
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,48 @@ Deskera is an integrated platform that enables SMEs to scale faster with fewer t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (3 Licenses - up to 18 Users)</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (1 Users) </td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'>$4,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (5 Licenses - up to 30 Users)</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic V2.0 (3 Users) </td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'>$5,920.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (10 Licenses - up to 60 Users)</td>
-<td style='padding: 10px;'>$20,600.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (5 Users)</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'>$11,020.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (8 Users)  </td>
+<td style='padding: 10px;'>$12,820.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium V2.0 (15 Users) </td>
+<td style='padding: 10px;'>$17,020.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Autocount_AutoCount_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:SF TECHNOLOGIES PTE. LTD.<br>Web URL: https://sftechnologies.co/deskera <br>Contact Hotline: 81334739 <br>Contact Email: info@sftechnologies.co 
+ Web URL: http://autocountsoft.com.sg/autocount-accounting/ <br><br>Contact Hotline: 6583219689 <br><br>Contact Email: sales.sg@autocountsoft.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
