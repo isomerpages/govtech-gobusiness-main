@@ -1,15 +1,15 @@
 ---
-title: 'EPOINT Version 9'
+title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1111
 ---
 
-## EPOINT Version 9
+## EPOS Integrated Digital Solution for F&B Version 2.0
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, place orders and make payment. Orders are automatically sent to the kitchen. This streamlined process enables an F&B to (i) improve manpower and efficiency and (ii) increase customer satisfaction. Built-in CRM and Rewards Program drive increased customer spend and retention, increasing sales and profitability. Integrations to Grab, FoodPanda, Xero, Quickkbooks, Shopify and Ecommerce further increase productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Basic</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance</td>
-<td style='padding: 10px;'>$7,456.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance+</td>
-<td style='padding: 10px;'>$8,256.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering and Kiosk</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eKiosk - Basic</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering and Kiosk</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
+ Company name:EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

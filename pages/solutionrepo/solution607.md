@@ -1,15 +1,15 @@
 ---
-title: 'Singtel-Fortinet Unified Threat Management Version 1'
+title: 'Globe3 ERP V5.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution607
 ---
 
-## Singtel-Fortinet Unified Threat Management Version 1
+## Globe3 ERP V5.6
 
 ## Overview
 
 **Description**
 
-Singtel Unified Threat Management (UTM) is a network perimeter security offering an effective information security program. Singtel UTM is a fully managed, automated threat management service that uses technologies designed to detect rogue devices and internal vulnerabilities. Businesses can expect to enjoy round-the-clock security coverage from experienced security experts and ensures that security policies offer maximum protection against threats you don't even know about.
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-60F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'>$2,754.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$32,800.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-80F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'>$3,630.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$39,400.00</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'><a href=' /images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with 24x7 Monitoring and Alert Services</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'>$5,817.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$49,300.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-100F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'>$8,622.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$55,900.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel-Fortinet Unified Threat Management Version 1 - FG-200F with Enhanced Managed Security Services</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'>$11,644.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel-Fortinet_20210430_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'>$21,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Singtel Unified Threat Management (UTM) is a network perimeter security offering
 
 ## Vendor Information
 
- Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
+ Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

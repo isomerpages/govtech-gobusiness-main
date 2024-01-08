@@ -1,15 +1,15 @@
 ---
-title: 'BeauteSoft V6.3.7.2'
+title: 'Tisch Global - Xero Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution597
 ---
 
-## BeauteSoft V6.3.7.2
+## Tisch Global - Xero Accounting
 
 ## Overview
 
 **Description**
 
-BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon streamline operations. BeauteSoft is a fully integrated software solution that covers customer management information, online appointment booking, sales of packages and products, rule-based staff commission, integrated inventory management, and business intelligence reports. It provides iPad-based registration, consultation, and image capturing for before and after comparison. It also provides QR code check-in for Spa.
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon strea
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$779.00</td>
+<td style='padding: 10px;'>$717.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard-M</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
+<td style='padding: 10px;'>$1,804.00</td>
+<td style='padding: 10px;'>$1,742.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$11,749.00</td>
-<td style='padding: 10px;'>$11,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$2,929.00</td>
+<td style='padding: 10px;'>$2,867.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-M</td>
-<td style='padding: 10px;'>$12,949.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
+<td style='padding: 10px;'>$6,138.00</td>
+<td style='padding: 10px;'>$6,057.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional-Plus</td>
-<td style='padding: 10px;'>$16,549.00</td>
-<td style='padding: 10px;'>$16,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Sequoia_Annex_3CR_wef_17Nov22_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
+<td style='padding: 10px;'>$7,388.00</td>
+<td style='padding: 10px;'>$7,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ BeauteSoft is a comprehensive Beauty Industry solution. It helps the salon strea
 
 ## Vendor Information
 
- Company name:SEQUOIA PTE LTD<br>Web URL: http://www.beaute-soft.com <br>Contact Hotline: 96951383 <br>Contact Email: ang@sequoia-asia.com 
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: matthew@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
