@@ -8,7 +8,7 @@ third_nav_title: Singapore Land Authority (SLA)
 
 Singapore Land Authority (SLA)
 
-{% include button.html text="Apply on SLA" src="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" type="primary" %}
+{% include button.html text="Apply on SLA" src="https://app.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" type="primary" %}
 
 <H3>Application Details</H3>
 

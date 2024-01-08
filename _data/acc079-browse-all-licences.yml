@@ -2292,7 +2292,7 @@
 
         <p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
 
-        <a class="primary-btn" href="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;<a href = "/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
+        <a class="primary-btn" href="https://app.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" target="_blank" rel="noopener">Apply on SLA</a>&emsp;<a href = "/browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences">View Licence Details</a>
 
     - title: Singapore Police Force (SPF)
       content: |
