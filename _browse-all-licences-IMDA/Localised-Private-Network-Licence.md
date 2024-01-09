@@ -10,7 +10,7 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on IMDA" src="https://dashboard-staging.l1t.molb.gov.sg/task-details/a7a7ba1c-402e-40d4-8435-68a6a83a2eff" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f563791d-1214-46ab-a3d5-77654859c29c" type="primary" %}
 
 <H3>Application Details</H3>
 
