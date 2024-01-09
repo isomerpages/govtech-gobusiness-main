@@ -65,7 +65,7 @@ Infocomm Media Development Authority (IMDA)
 </tr>
 <tr>
 <td>Application and processing fee</td>
-<td>$300 per frequency.</td>
+<td>$300 per frequency. GST is applicable.</td>
 </tr>
 <tr>
 <td>Frequency fee</td>
