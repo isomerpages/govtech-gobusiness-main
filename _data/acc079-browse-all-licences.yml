@@ -746,16 +746,13 @@
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         You need a Localised Private Network Licence if you meet all of the following conditions:
-        - You wish to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
-        
-        - Examples of a localised area include:
+        * You wish to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
+        * Examples of a localised area include:
           - A compound (including buildings, roads and car parks) within the same postal code.
-          - A construction site within one land lot number.
-        
-        - Your network has at least five sets of portable radio-communication equipment.
+          - A construction site within one land lot number.  
+        * Your network has at least five sets of portable radio-communication equipment.
           - There are additional requirements for the number of portables, depending on your network's output power.
-        
-        - The output power of the radio equipment is limited to 5 watts Effective Radiated Power (ERP).
+        * The output power of the radio equipment is limited to 5 watts Effective Radiated Power (ERP).
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f563791d-1214-46ab-a3d5-77654859c29c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
 
