@@ -1,15 +1,15 @@
 ---
-title: 'Shopify'
+title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1437
 ---
 
-## Shopify
+## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 
 ## Overview
 
 **Description**
 
-Shopify powers millions of businesses globally. The all-in-one commerce platform to start, run and grow a business. With Shopify, merchants can build and customize an online store and sell in multiple places, including web, mobile, in person, brick-and-mortar locations, and pop-up shops and across multiple channels from social media to online marketplaces. Completely cloud-based and hosted, merchants have the flexibility to access and run their business from anywhere with an internet connection.
+Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,20 @@ Shopify powers millions of businesses globally. The all-in-one commerce platform
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Basic Plan</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Shopify Plan</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Advanced Plan</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Plus Plan</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Shopify Commerce Singapore Pte Ltd<br>Web URL: https://www.shopify.com/sg/pricing <br>Contact Hotline: +658008526699 <br>Contact Email: PSG_Shopify_Support@shopify.com 
+ Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

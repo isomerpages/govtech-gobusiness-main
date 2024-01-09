@@ -1,15 +1,15 @@
 ---
-title: 'Singtel Endpoint Security'
+title: 'ZETTAPPS Finance & Order Processing Version 4.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution690
 ---
 
-## Singtel Endpoint Security
+## ZETTAPPS Finance & Order Processing Version 4.5
 
 ## Overview
 
 **Description**
 
-Singtel Endpoint Security provides comprehensive protection for your endpoints-from mobile devices to desktops/laptops-with security solutions that analyse malicious behaviour in your apps while offering real-time threat and data protection. We provide high levels of protection against new and existing threats, powered by cloud-based security solutions. While you cannot control cyberattacks, you can prevent the risk to your business data and system integrity due to unintended error.
+ZETTAPPS is an integrated Accounting, Order Processing, and Multi Currencies ERP Solution. Listed in the IRAS Accounting Software Register, ZETTAPPS is GST-compliant and a Business Management Software that helps businesses to streamline their Accounting procedures. Together with PEPPOL's E-Invoicing (InvoiceNow) capabilities, business owners will see an increase in payment and business efficiency, a reduction in cost, and gain access to new financial options.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Singtel Endpoint Security provides comprehensive protection for your endpoints-f
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 10 Licenses</td>
-<td style='padding: 10px;'>$625.00</td>
-<td style='padding: 10px;'>$625.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - SME</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Worry Free Protection - 25 Licenses</td>
-<td style='padding: 10px;'>$1,343.00</td>
-<td style='padding: 10px;'>$1,343.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Premium</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$15,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 51 Licenses</td>
-<td style='padding: 10px;'>$3,233.00</td>
-<td style='padding: 10px;'>$3,233.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 100 Licenses</td>
-<td style='padding: 10px;'>$5,884.00</td>
-<td style='padding: 10px;'>$5,884.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Singtel Endpoint Security - Trend Micro Apex One - 150 Licenses</td>
-<td style='padding: 10px;'>$8,890.00</td>
-<td style='padding: 10px;'>$8,890.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singtel_Endpoint_20210421_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Enterprise</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'>$18,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_ZETTAPPSFinance_&_Order_Processing_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Singtel Endpoint Security provides comprehensive protection for your endpoints-f
 
 ## Vendor Information
 
- Company Name: Singapore Telecommunications Limited<br>Web URL: g-segmentict@singtel.com <br><br>Contact Hotline: 68385510 <br><br>Contact Email: g-segmentict@singtel.com <br><br>
+ Company Name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

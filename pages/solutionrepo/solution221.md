@@ -1,15 +1,22 @@
 ---
-title: 'BIZ POS VER 3.5'
+title: 'EPOS Enhanced POS Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution221
 ---
 
-## BIZ POS VER 3.5
+## EPOS Enhanced POS Version 2.0
 
 ## Overview
 
 **Description**
 
-Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises of Customer Relationship Management Module, Inventory Management Module and Sales Module to assist in managing the store operation. The solution can also be linked to multiple outlet locations to attain real-time data.
+EPOS provides a one-stop solution for SMEs in Retail, F&B and Services. With the widest range of third-party integrations and add-ons in Singapore, EPOS enables SMEs to easily manage all aspects of their business. 
+- Simple and easy to use for cashiers. 
+- Full-featured CRM
+- Powerful Promotions engine
+- Inventory management
+- Ecommerce integration 
+- Accounting integration 
+- E-payments, QR payment, credit card, NETS
 
 ## Solution Packages Option(s)
 
@@ -23,38 +30,38 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal)</td>
-<td style='padding: 10px;'>$4,750.00</td>
-<td style='padding: 10px;'>$4,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1)</td>
+<td style='padding: 10px;'>$5,350.00</td>
+<td style='padding: 10px;'>$5,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(TABLET)</td>
-<td style='padding: 10px;'>$4,050.00</td>
-<td style='padding: 10px;'>$3,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_23.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software)</td>
-<td style='padding: 10px;'>$5,750.00</td>
-<td style='padding: 10px;'>$5,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS All In 1 with Smart Inventory with Integration</td>
+<td style='padding: 10px;'>$11,324.00</td>
+<td style='padding: 10px;'>$11,324.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_45.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Business Analytic)</td>
-<td style='padding: 10px;'>$6,750.00</td>
-<td style='padding: 10px;'>$6,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (EPOS Enhanced POS All In 1 - Tablet)</td>
+<td style='padding: 10px;'>$4,649.00</td>
+<td style='padding: 10px;'>$4,649.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_6.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(ALL-IN-ONE Terminal + Mobile Software + Business Analytic)</td>
-<td style='padding: 10px;'>$7,750.00</td>
-<td style='padding: 10px;'>$7,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Coobiz_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EPOS Enhanced POS Version 2.0 - Package (Enhanced POS with Smart Inventory with Integration, Tablet)</td>
+<td style='padding: 10px;'>$10,623.00</td>
+<td style='padding: 10px;'>$10,623.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_EPOS_Annex_3_28_Apr_2022_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +71,7 @@ Coobiz IT's Biz POS Retail Solution is a comprehensive solution that comprises o
 
 ## Vendor Information
 
- Company name:Coobiz IT Solutions Pte Ltd<br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM 
+ Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br><br>Contact Hotline: 68718833 <br><br>Contact Email: sales@epos.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

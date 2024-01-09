@@ -1,15 +1,15 @@
 ---
-title: 'DM Craft Creative Digital Marketing Packages'
+title: 'EPOS Marketing AI Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution226
 ---
 
-## DM Craft Creative Digital Marketing Packages
+## EPOS Marketing AI Version 1.0
 
 ## Overview
 
 **Description**
 
-Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses and help them generate effective and concrete leads. As a finalist for social media marketing agency of the year and with vast experience from running over 500 creative campaigns every year, Craft helps our clients identify and be seen by their target audiences online, increase their investment returns, and their sales through creative social marketing strategies, quality content writing and innovative media designs.
+EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMA+ SEM) - [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMA + YouTube Advertising) - [2 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (SMM + SMA) [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
+<td style='padding: 10px;'>$18,200.00</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses a
 
 ## Vendor Information
 
- Company name:Craft Creative Pte Ltd<br>Web URL: https://craft.com.sg/digital-marketing-services/ <br>Contact Hotline: 91880739 <br>Contact Email: admin@craft.com.sg 
+ Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

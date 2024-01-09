@@ -1,15 +1,15 @@
 ---
-title: 'TNB Intuit Quickbooks Online'
+title: 'Taidii Smart Data Analytics for Centre Operations'
 permalink: /productivity-solutions-grant/solutionrepo/solution782
 ---
 
-## TNB Intuit Quickbooks Online
+## Taidii Smart Data Analytics for Centre Operations
 
 ## Overview
 
 **Description**
 
-TNB supports Quickbooks online software and users can access QuickBooks from PC, Mac, smartphone and tablet. Now, users can access their account, manage your business, and stay organized on the go. QuickBooks Online is now sync with over 400 popular business apps including CRM, ePOS, ERP, HCM, E-commerce, payment gateways and more.
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ TNB supports Quickbooks online software and users can access QuickBooks from PC,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Simple Start</td>
-<td style='padding: 10px;'>$965.00</td>
-<td style='padding: 10px;'>$965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Basic Level</td>
-<td style='padding: 10px;'>$2,465.00</td>
-<td style='padding: 10px;'>$2,465.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Advance Level</td>
-<td style='padding: 10px;'>$3,965.00</td>
-<td style='padding: 10px;'>$3,965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Premium Level</td>
-<td style='padding: 10px;'>$4,815.00</td>
-<td style='padding: 10px;'>$4,815.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TNB Intuit Quickbooks Online - Full Transformation (large)</td>
-<td style='padding: 10px;'>$7,965.00</td>
-<td style='padding: 10px;'>$7,965.00</td>
-<td style='padding: 10px;'><a href='/images/psg/TNB_GLOBAL_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperations_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ TNB supports Quickbooks online software and users can access QuickBooks from PC,
 
 ## Vendor Information
 
- Company Name: TNB GLOBAL OUTSOURCE PTE LTD<br>Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

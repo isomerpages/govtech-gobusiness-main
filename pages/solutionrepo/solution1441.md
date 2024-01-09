@@ -1,15 +1,15 @@
 ---
-title: 'Zoho CRM'
+title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1441
 ---
 
-## Zoho CRM
+## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and customer support operations for business. It offers a centralised database to manage leads, deals, and customer interactions. With features like sales and marketing automation, analytics, customisations and integrations, Zoho CRM empowers businesses to increase sales efficiency, improve customer satisfaction, and drive business growth.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard - 5 users</td>
-<td style='padding: 10px;'>$1,020.00</td>
-<td style='padding: 10px;'>$1,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional - 10 users</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'>$3,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional - 15 users</td>
-<td style='padding: 10px;'>$5,040.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise - 10 users</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise - 20 users</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Zoho_Corporation_Zoho_CRM_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Zoho CRM is a cloud-based solution designed to streamline sales, marketing, and 
 
 ## Vendor Information
 
- Company Name: Zoho Corporation Pte. Ltd.<br>Web URL: www.zoho.com <br>Contact Hotline: 67231040 <br>Contact Email: sales@zohocorp.com <br>
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg<br>Contact Email: enquiry@eonconsulting.com.sg<br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

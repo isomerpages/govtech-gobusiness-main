@@ -1,23 +1,15 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'QuickHR'
 permalink: /productivity-solutions-grant/solutionrepo/solution211
 ---
 
-## Qoqolo School Management System Version 4.3
+## QuickHR
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+QuickHR is a holistic cloud based HRMS built to eliminate problems that plague traditional HR platforms. Designed with security, stability and scalability in mind, QuickHR enables businesses to efficiently manage employees, onboarding, payroll, leave, claim and appraisals through an automated experience. QuickHR is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based HRMS provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
 
 ## Solution Packages Option(s)
 
@@ -31,48 +23,48 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START HRMS (10 Headcounts)</td>
+<td style='padding: 10px;'>$2,700.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT HRMS (50 Headcounts)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING HRMS (100 Headcounts)</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'>$13,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE HRMS (150 Headcounts)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$19,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR HRMS (200 Headcounts)</td>
+<td style='padding: 10px;'>$25,000.00</td>
+<td style='padding: 10px;'>$24,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Enable_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

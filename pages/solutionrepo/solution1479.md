@@ -1,43 +1,40 @@
 ---
-title: 'DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-QIAN YI is specialized in TikTok social media marketing service focuses on reaching customer desired audience, increasing follower base, and generating valuable conversions for client business. QIAN YI's specialised team creates engaging and imaginative TikTok videos that empower clients to achieve their social media marketing objectives.
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - TikTok Creative Video Packages SMM + SMA (3 MONTH)</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Qianyi_Trading_Tiktok_DM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: QIANYI TRADING PTE. LTD.<br>Web URL: NA <br>Contact Hotline: 96196791 <br>Contact Email: RICKY@BENCHMARKINGMEDIA.COM <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,15 +1,15 @@
 ---
-title: 'Corsiva Lab E-Commerce Website Development(WordPress / Shopify)'
+title: 'DM SBC Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1283
 ---
 
-## Corsiva Lab E-Commerce Website Development(WordPress / Shopify)
+## DM SBC Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,34 @@ Extend your business online and generate higher sales revenue with Corsiva Lab's
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express </td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
+<td style='padding: 10px;'>$10,900.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com 
+ Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

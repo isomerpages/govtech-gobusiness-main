@@ -1,15 +1,15 @@
 ---
-title: 'RavenPOS Personal Wellness Management System Version 12'
+title: 'Iorderla Digital Ordering BYOD Solution Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution545
 ---
 
-## RavenPOS Personal Wellness Management System Version 12
+## Iorderla Digital Ordering BYOD Solution Version 1.0
 
 ## Overview
 
 **Description**
 
-RAVENPOS wellness management system helps to manage and automate crucial business operation in the beauty and wellness industry. From session and credit packages, commission, inventory, appointment to customer management; the solution frees up resources, boosts revenue and increases productivity to scale the business
+Suntoyo Iorderla's digital ordering solution is a scalable BYOD mobile and web ordering application tailored for F&B businesses. It offers QR based ordering methods for an efficient self-ordering process for in-store and takeaway. The platform runs on a professional-grade infrastructure that adheres to stringent data integrity and security standards. In addition, it provides web-based backend management software with functions such as CRM, Inventory and Kitchen management.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ RAVENPOS wellness management system helps to manage and automate crucial busines
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Basic</td>
-<td style='padding: 10px;'>$5,450.00</td>
-<td style='padding: 10px;'>$5,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Basic</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Standard</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Advance</td>
-<td style='padding: 10px;'>$9,750.00</td>
-<td style='padding: 10px;'>$9,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Professional</td>
-<td style='padding: 10px;'>$12,500.00</td>
-<td style='padding: 10px;'>$12,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>RavenPOS Personal Wellness Management System Version 12 - Enterprise</td>
-<td style='padding: 10px;'>$13,250.00</td>
-<td style='padding: 10px;'>$13,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Iorderla Digital Ordering BYOD Solution Version 1.0 - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Suntoyo_Technology_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br><br>Contact Hotline: 61002628 <br><br>Contact Email: ravenpos@gmail.com <br><br>
+ Company Name: SUNTOYO TECHNOLOGY PTE LTD<br>Web URL: WWW.SUNTOYO.COM.SG <br><br>Contact Hotline: 65533855 <br><br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

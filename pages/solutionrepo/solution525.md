@@ -1,15 +1,15 @@
 ---
-title: 'Nett VMS Version 4'
+title: 'Roycemedia Cybersecurity-Firewall'
 permalink: /productivity-solutions-grant/solutionrepo/solution525
 ---
 
-## Nett VMS Version 4
+## Roycemedia Cybersecurity-Firewall
 
 ## Overview
 
 **Description**
 
-Nett VMS is an integration of visitor management system + license plate recognition + pre invitation registration APP. It allows resident to pre invite their guest by whitelist the vehicle and barricade will auto open. Visitor registration will send a phone SMS QR code and this will allow phone authentication. It allows security guard to eliminate the manual writing, compliance with PDPA and auto record of all vehicle. Enhance support remote access and QR code door access
+FortiGate next-generation firewalls provide high performance, multilayered security and deep visibility for end-to-end protection across the enterprise network. Its purpose-built security processors (SPUs) deliver scalable performance and low latency.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Nett VMS is an integration of visitor management system + license plate recognit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Basic  </td>
-<td style='padding: 10px;'>$32,140.00</td>
-<td style='padding: 10px;'>$22,740.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 1 - Fortigate 61F</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'>$4,865.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_12.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Advance </td>
-<td style='padding: 10px;'>$33,340.00</td>
-<td style='padding: 10px;'>$23,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 2 - Fortigate 80F</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'>$5,620.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_34.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Intermediate </td>
-<td style='padding: 10px;'>$36,940.00</td>
-<td style='padding: 10px;'>$27,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 3 - Fortigate 81F</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'>$6,373.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_56.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Expert</td>
-<td style='padding: 10px;'>$40,100.00</td>
-<td style='padding: 10px;'>$29,940.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 4 - Fortigate 101F</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'>$11,363.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_78.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Nett VMS Version 4 - Nett Revolution </td>
-<td style='padding: 10px;'>$46,300.00</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nettbox_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Roycemedia Cybersecurity-Firewall - Package 5 - Fortigate 201F</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'>$14,765.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Roycemedia_Technologies_20210156_Annex_3_Part_910.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Nett VMS is an integration of visitor management system + license plate recognit
 
 ## Vendor Information
 
- Company Name: NettBox Pte Ltd<br>Web URL: http://www.nettbox.com.sg/wp-content/uploads/2019/03/Proximity-Sensor-Brochure.pdf <br>Contact Hotline: 65132389 <br>Contact Email: Admin@Nettbox.com.sg <br>
+ Company Name: Roycemedia Technologies Pte Ltd<br>Web URL: www.roycemedia.com/products.html <br><br>Contact Hotline: 63232139 <br><br>Contact Email: sales@roycemedia.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

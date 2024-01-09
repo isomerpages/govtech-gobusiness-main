@@ -1,15 +1,15 @@
 ---
-title: 'Ascent iSPOT Fleet Management System'
+title: 'eCommerce Masterplan Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1038
 ---
 
-## Ascent iSPOT Fleet Management System
+## eCommerce Masterplan Version 2.0
 
 ## Overview
 
 **Description**
 
-iSPOT Fleet Management System helps businesses maintain optimal use of their work vehicles from a central platform. It involves the use of a telematic unit such as a GPS Tracking device. iSPOT FMS allows businesses to collect data such as speed, temperature, engine idling, fuel level, geo location, route direction, historical movement. They will be able to track all their vehicles in real time, determine when they'll get to the destination, and how well the vehicles are handled by the drivers.
+Aks Tech's Ecommerce Masterplan package comprises of professionally designed eCommerce website, Marketing Engagement Tools, Inventory Management, Promotion management, E-payment gateway as well as integration to CRM and social media. Our eCommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can  generate higher sales revenue, and increasing customers' retention rates.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,27 @@ iSPOT Fleet Management System helps businesses maintain optimal use of their wor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'>$360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Per Vehicle)</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'>$570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ascent_AscentiSPOTFleetManagementSystem_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Aks_Tech_eCommerce_Masterplan_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Ascent Solutions Pte Ltd<br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com 
+ Company name:Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

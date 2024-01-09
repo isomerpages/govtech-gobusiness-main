@@ -1,15 +1,15 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'EQuipPOS Beauty Solutions Version 3'
 permalink: /productivity-solutions-grant/solutionrepo/solution1590
 ---
 
-## DM SBC Digital Marketing Packages
+## EQuipPOS Beauty Solutions Version 3
 
 ## Overview
 
 **Description**
 
-Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+EQuip Beauty Salon Solution is tailored to digitally transform the Personal Care industry. The solution provides a range of modules including sales, customer relationship management, promotion, service package, point/credit package, inventory, appointment and commission. Cloud based reports and mobile applications are available to analyse business performance. Hardware and/or software are offered to suit business needs. Professional service and training are included to ensure business readiness.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Story Box Collective helps business owners increase their ROI by navigating the 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Lite)</td>
+<td style='padding: 10px;'>$3,675.00</td>
+<td style='padding: 10px;'>$3,675.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuipPOSBeauty_01012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic)</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuipPOSBeauty_01012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + GuestBook App)</td>
+<td style='padding: 10px;'>$5,930.00</td>
+<td style='padding: 10px;'>$5,930.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuipPOSBeauty_01012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Basic + Digital Rewards & Orders App)</td>
+<td style='padding: 10px;'>$10,150.00</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Edgeworks_EQuipPOSBeauty_01012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company Name: Edgeworks Solutions Pte Ltd<br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

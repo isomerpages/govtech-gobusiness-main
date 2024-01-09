@@ -1,15 +1,15 @@
 ---
-title: 'OpensoftHR Version 18'
+title: 'Tessaract Practice Management Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution570
 ---
 
-## OpensoftHR Version 18
+## Tessaract Practice Management Solution
 
 ## Overview
 
 **Description**
 
-Opensoft is a provider of Payroll and Human Resources Management System (HRMS) solutions, with operations based in Singapore and Malaysia. OpensoftHR today comprises of Payroll, Leave, Claims and Appraisal modules, equipped with employee self-service functions, a real-time dashboard that features a visual snapshot of the workforce, and a unique data export function to serve workforce analytical needs.
+Tessaract's PMS is a practice management software that powers and accelerates the growth of law firms. A one-stop-shop software solution, law firms can automate daily tasks, streamline efficiency, and improve services with Tessaract's PMS.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Opensoft is a provider of Payroll and Human Resources Management System (HRMS) s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (25 pax)</td>
-<td style='padding: 10px;'>$7,400.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package A</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (50 pax)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package B</td>
+<td style='padding: 10px;'>$13,680.00</td>
+<td style='padding: 10px;'>$13,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (100 pax)</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package C</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'>$24,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (150 pax)</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'>$16,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package D</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'>$33,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OpensoftHR Version 18 - Enterprise (200 pax)</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'>$19,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OpensoftHR_20210316_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LTPI Tessaract PMS Package E</td>
+<td style='padding: 10px;'>$42,200.00</td>
+<td style='padding: 10px;'>$42,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tessaract_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Opensoft Pte Ltd<br>Web URL: https://www.opensofthr.com/products/ <br><br>Contact Hotline: 63461511 <br><br>Contact Email: sales@opensofthr.com <br><br>
+ Company name:Tessaract Technologies Private Limited<br>Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email: SALES@TESSARACT.IO 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

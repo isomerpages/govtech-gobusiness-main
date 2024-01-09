@@ -57,7 +57,7 @@ We have had experience in valuing patents in relation to technology and platform
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 80% </li><li style='line-height: 27px; margin: 0px 0px !important'>China - 5% </li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 3% </li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Vietnam - 3%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 80% </li><li style='line-height: 27px; margin: 0px 0px !important'>China 5% </li><li style='line-height: 27px; margin: 0px 0px !important'>Japan 3% </li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia 3%</li><li style='line-height: 27px; margin: 0px 0px !important'>Vietnam 3%</li></ul>
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 

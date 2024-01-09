@@ -1,15 +1,15 @@
 ---
-title: 'Psoft Accounting Systems Version 7'
+title: 'Globe3 ERP V5.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution607
 ---
 
-## Psoft Accounting Systems Version 7
+## Globe3 ERP V5.6
 
 ## Overview
 
 **Description**
 
-Psoft Accounting software help SMEs keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Psoft Accounting software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow.
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Psoft Accounting software help SMEs keep up to date bookkeeping for their compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Single User - Peppol Ready)</td>
-<td style='padding: 10px;'>$1,520.00</td>
-<td style='padding: 10px;'>$1,170.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 3 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$32,800.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Three Users - Peppol Ready)</td>
-<td style='padding: 10px;'>$4,560.00</td>
-<td style='padding: 10px;'>$3,110.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$39,400.00</td>
+<td style='padding: 10px;'>$37,800.00</td>
+<td style='padding: 10px;'><a href=' /images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Cloud-Based Five Users - Peppol Ready)</td>
-<td style='padding: 10px;'>$7,600.00</td>
-<td style='padding: 10px;'>$5,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 8 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$49,300.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Single User with PEPPOL)</td>
-<td style='padding: 10px;'>$2,460.00</td>
-<td style='padding: 10px;'>$2,110.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 10 USERS (PEPPOL READY)</td>
+<td style='padding: 10px;'>$55,900.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (Web-Based Three Users with PEPPOL)</td>
-<td style='padding: 10px;'>$6,660.00</td>
-<td style='padding: 10px;'>$5,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Psoft_20220131_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Globe3 ERP Version 5.6 - 5 USERS WITH CLOUD (PEPPOL READY)</td>
+<td style='padding: 10px;'>$22,900.00</td>
+<td style='padding: 10px;'>$21,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_TNO_Annex_3_CR_wef_15_Sept_2022_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Psoft Accounting software help SMEs keep up to date bookkeeping for their compan
 
 ## Vendor Information
 
- Company Name: Psoft Pte Ltd<br>Web URL: www.psoftaccounting.com <br>Contact Hotline: 62382140 <br>Contact Email: psoft@singnet.com.sg <br>
+ Company Name:TNO Systems Pte Ltd <br><br>Web URL: www.globe3.com <br><br>Contact Hotline: 67498823 <br><br>Contact Email: sales@globe3.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
