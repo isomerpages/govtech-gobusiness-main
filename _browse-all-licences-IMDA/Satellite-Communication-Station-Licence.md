@@ -17,8 +17,8 @@ Infocomm Media Development Authority (IMDA)
 <p>You need a Satellite Communication Station Licence to install and operate any of the following types of stations for satellite communication:</p>
 <table>
   <tr>
-    <th>Type of station</th>
-    <th>Details</th>
+    <th style='width: 30%;'>Type of station</th>
+    <th style='width: auto;'>Details</th>
   </tr>
   <tr>
     <td>Portable Satellite Communication Terminal</td>
