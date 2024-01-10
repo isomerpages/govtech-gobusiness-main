@@ -1,15 +1,15 @@
 ---
-title: 'Cisco Meraki Unified Threat Management Version FS20230315'
+title: 'San5pos/Point of Sales'
 permalink: /productivity-solutions-grant/solutionrepo/solution1528
 ---
 
-## Cisco Meraki Unified Threat Management Version FS20230315
+## San5pos/Point of Sales
 
 ## Overview
 
 **Description**
 
-With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch, businesses have access to leading cybersecurity expertise, top-notch customer service, 24x7 coverage and protection. Meraki firewall delivers secure, consistent and exceptional network experience for businesses with Network Insights, Real Time Monitoring and Analytics. The solution equips your hybrid workforce with best in class technologies and strives to obtain Cyber Essentials Mark certification.
+San5pos solution is a simple and feature rich cloud-based point of sales system. The solution comprises of customer engagement with loyalty program, Inventory Module, Sales Module, Purchase Module & Barcode label printing module to effectively manage the store operations. Advanced Dashboard and POS reports are available for business owners to analyze business performance. Integration with third party tools like Payments, ecommerce and data analytics are available.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX75</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Software only)</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sanfive_San5pos_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX85</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX95</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX105</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Sanfive_San5pos_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch
 
 ## Vendor Information
 
- Company Name: Contfinity Pte. Ltd.<br>Web URL: www.contfinity.com <br>Contact Hotline: 68718855 <br>Contact Email: sales@contfinity.com <br>
+ Company Name: Sanfive Enterprises Pte Ltd<br>Web URL: https://www.san5pos.com/ <br>Contact Hotline: 91006984 <br>Contact Email: support@sanfive.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

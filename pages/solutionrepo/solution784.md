@@ -1,16 +1,15 @@
 ---
-title: 'Fleet Safety Management System Version 7'
+title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution784
 ---
 
-## Fleet Safety Management System Version 7
+## Taidii Smart Data Analytics for Centre Operations and Child Development
 
 ## Overview
 
 **Description**
 
-SmartComm Electronics Pte Ltd is a dynamic IOT company that specializes in bespoke Real- Time Telematics Solutions and customized software. Since 2018, we have helped drivers to cultivate safe driving through our ADAS (Advanced Driver Assistance System) & DSM (Driver Safety Management System). 
-ADAS and DSM System is a product based on deep-learning technology, the product is equipped with Forward Collision Warning and driver fatigue monitoring, greatly reducing accidents and saving lives.
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,20 @@ ADAS and DSM System is a product based on deep-learning technology, the product 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Per vehicle</td>
-<td style='padding: 10px;'>$2,420.00</td>
-<td style='padding: 10px;'>$2,420.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SmartComm_Fleet_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: SmartComm Electronics Pte Ltd<br>Web URL: www.smartcomm.biz <br><br>Contact Hotline: 65132389 <br><br>Contact Email: ask@smartcomm.biz <br><br>
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

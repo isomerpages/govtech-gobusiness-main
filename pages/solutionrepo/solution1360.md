@@ -1,15 +1,15 @@
 ---
-title: 'ABSS(MYOB) Premier'
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1360
 ---
 
-## ABSS(MYOB) Premier
+## DM RHAD Digital Marketing Package Version 1
 
 ## Overview
 
 **Description**
 
-E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Software (1 User)</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'>$1,903.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Web Starter (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - Software & Training (1 User)</td>
-<td style='padding: 10px;'>$2,623.00</td>
-<td style='padding: 10px;'>$2,303.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Google Search Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C - Software (3 Users)</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'>$3,217.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Starter (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D - Software & Training (3 Users)</td>
-<td style='padding: 10px;'>$3,937.00</td>
-<td style='padding: 10px;'>$3,617.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PPC Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E - Software, Remote Access & Training (3 Users)</td>
-<td style='padding: 10px;'>$4,956.00</td>
-<td style='padding: 10px;'>$4,636.00</td>
-<td style='padding: 10px;'><a href='/images/psg/E_Click_Solutions_ABSS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Marketing (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ E-Click Solutions provides ABSS Premier Accounting, Inventory & Sales Management
 
 ## Vendor Information
 
- Company name: E-Click Solutions<br>Web URL: www.e-clicksolutions.com/abss-accounting <br>Contact Hotline: 97921964 <br>Contact Email: evelyn@e-clicksolutions.com 
+ Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

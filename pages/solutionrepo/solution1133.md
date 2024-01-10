@@ -1,17 +1,15 @@
 ---
-title: 'Deskera ERP Version 10'
+title: 'Athena E-Store Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1133
 ---
 
-## Deskera ERP Version 10
+## Athena E-Store Solution
 
 ## Overview
 
 **Description**
 
-SF Technologies Pte Ltd is a Platinum Channel Partner of Deskera providing expertise in digitalizing business and support in digital transformation.
-
-Deskera is an integrated platform that enables SMEs to scale faster with fewer tools. From convenience stores to manufacturing plants, hundreds of thousands of small and medium enterprises use Deskera to manage accounting, inventory, sales pipeline, and marketing automation.
+Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,27 @@ Deskera is an integrated platform that enables SMEs to scale faster with fewer t
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (3 Licenses - up to 18 Users)</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Solution</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (5 Licenses - up to 30 Users)</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'>$11,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS (10 Licenses - up to 60 Users)</td>
-<td style='padding: 10px;'>$20,600.00</td>
-<td style='padding: 10px;'>$14,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SF_TECHNOLOGIES_Deskera_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Athena E Store Lite Version</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_Athena_270723_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:SF TECHNOLOGIES PTE. LTD.<br>Web URL: https://sftechnologies.co/deskera <br>Contact Hotline: 81334739 <br>Contact Email: info@sftechnologies.co 
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/ <br>Contact Hotline: 88663438 <br>Contact Email: hello@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

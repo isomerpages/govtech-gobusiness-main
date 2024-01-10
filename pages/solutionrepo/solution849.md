@@ -1,15 +1,15 @@
 ---
-title: 'DM Supermom Digital Marketing Packages'
+title: 'VisionMan'
 permalink: /productivity-solutions-grant/solutionrepo/solution849
 ---
 
-## DM Supermom Digital Marketing Packages
+## VisionMan
 
 ## Overview
 
 **Description**
 
-Supermom provides effective digital marketing solutions for SME clients that are in trend with best practices of digital marketing efforts to reach target customers. These services range from lead generation campaigns to build first party data CRM, curated survey insights to better understand customers, influencer marketing to tap on the power of word of mouth marketing as well as email marketing. All packages include social media advertising services to enable maximum reach to target audience.
+VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry's professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,38 @@ Supermom provides effective digital marketing solutions for SME clients that are
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SI + SMA [3 Months]</td>
-<td style='padding: 10px;'>$8,620.00</td>
-<td style='padding: 10px;'>$8,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Quick Start Package (1 Web User and 2 Mobile User)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - EM + SMA [3 Months]</td>
-<td style='padding: 10px;'>$9,470.00</td>
-<td style='padding: 10px;'>$9,470.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Foundation Package (2 web users and 4 mobile user)</td>
+<td style='padding: 10px;'>$12,380.00</td>
+<td style='padding: 10px;'>$11,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - IM + SMA [3 Months]</td>
-<td style='padding: 10px;'>$10,540.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Professional Package (4 web users and 8 mobile users)</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'>$16,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - LG + SMA [3 Months]</td>
-<td style='padding: 10px;'>$11,720.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/welovesupermom_Digital_Marketing_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Advance Package (8 web users and 12 mobile users)</td>
+<td style='padding: 10px;'>$22,800.00</td>
+<td style='padding: 10px;'>$21,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premier Package (12 web users and 15 mobile users)</td>
+<td style='padding: 10px;'>$30,800.00</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +64,7 @@ Supermom provides effective digital marketing solutions for SME clients that are
 
 ## Vendor Information
 
- Company name:welovesupermom pte ltd<br>Web URL: WWW.WELOVESUPERMOM.COM <br>Contact Hotline: 91071849<br>Contact Email: INFO@WELOVESUPERMOM.COM
+ Company Name: ECS Techno_Sys (Asia Pacific) Pte Ltd<br>Web URL: www.ecss.com.sg <br>Contact Hotline: 62953566 <br>Contact Email: alan@ecss.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

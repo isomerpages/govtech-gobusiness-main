@@ -1,46 +1,30 @@
 ---
-title: 'DM Ice Cube Predictable Leads Generation Program'
+title: 'Autonomous Robotic Servers'
 permalink: /productivity-solutions-grant/solutionrepo/solution1501
 ---
 
-## DM Ice Cube Predictable Leads Generation Program
+## Autonomous Robotic Servers
 
 ## Overview
 
 **Description**
 
-Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
+Autonomous robots that aid in food delivery or collection of soiled crockery to and from customers' tables in an F&B outlet. Robotic servers are pre-programmed and mapped according to the store layout. They leverage on technologies such as VSLAM (Visual Simultaneous Localization and Mapping), LiDAR (Light Detection and Ranging), 3D obstacle avoidance etc.
+
+Cost of equipment capped at $15,500 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Ecommerce SEM+SMA (3months)</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'>$7,009.33</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM+SMA+video (3months)</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'>$9,509.32</td>
-<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Robotic Servers</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>1. Solution must be able to automate the process of food delivery and/or collection of crockery<br>2. Capacity load of at least 20kg<br>3. Speed of at least 0.5m/second<br>4. Hardware, software, set up (i.e mapping and programming) and training costs can all be included</td>
 </tr>
 </table>
 
@@ -48,10 +32,6 @@ Ice Cube Marketing uses Google and Facebook ads to help businesses consistently 
 
  - Direct Purchase
 
-## Vendor Information
-
- Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

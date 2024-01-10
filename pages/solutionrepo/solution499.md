@@ -1,15 +1,15 @@
 ---
-title: 'MEGAPOS'
+title: 'REACH MOIBOO Version 2.6'
 permalink: /productivity-solutions-grant/solutionrepo/solution499
 ---
 
-## MEGAPOS
+## REACH MOIBOO Version 2.6
 
 ## Overview
 
 **Description**
 
-MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
+Reach Moiboo is a Cloud Based ERP Software that helps businesses automate key function from Sales, Billing, Inventory and Accounting - enable businesses to grow faster with increase in productivity. The solution is ideal for Retailers, Restaurants, Workshops, Auto Dealers, Auto Rental Companies, Wholesalers and Service Providers.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,34 @@ MEGAPOS allows data synchronizing to cloud, enabling back office management to u
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
-<td style='padding: 10px;'>$5,180.00</td>
-<td style='padding: 10px;'>$4,880.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
-<td style='padding: 10px;'>$5,680.00</td>
-<td style='padding: 10px;'>$5,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
-<td style='padding: 10px;'>$6,730.00</td>
-<td style='padding: 10px;'>$6,430.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
-<td style='padding: 10px;'>$7,230.00</td>
-<td style='padding: 10px;'>$6,930.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
-<td style='padding: 10px;'>$6,190.00</td>
-<td style='padding: 10px;'>$5,728.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'>$16,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Reach_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
+ Company Name: Reach Process Outsourcing Pte Ltd<br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: helpdesk@moiboo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

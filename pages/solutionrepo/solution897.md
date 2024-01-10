@@ -1,15 +1,16 @@
 ---
-title: 'Fleet Management Solutions'
+title: 'SAP Business One SQL & HANA Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution897
 ---
 
-## Fleet Management Solutions
+## SAP Business One SQL & HANA Version 10.0
 
 ## Overview
 
 **Description**
 
-WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
+Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
+SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +24,48 @@ WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$2,310.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 License)</td>
+<td style='padding: 10px;'>$14,850.00</td>
+<td style='padding: 10px;'>$14,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'>$1,770.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Licenses)</td>
+<td style='padding: 10px;'>$28,900.00</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Licenses)</td>
+<td style='padding: 10px;'>$37,350.00</td>
+<td style='padding: 10px;'>$30,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (4 Licenses)</td>
+<td style='padding: 10px;'>$49,800.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Licenses)</td>
+<td style='padding: 10px;'>$54,250.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
+ Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

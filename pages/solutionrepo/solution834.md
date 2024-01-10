@@ -1,15 +1,15 @@
 ---
-title: 'DM W360 Digital Power Pack Version 1.0'
+title: 'DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution834
 ---
 
-## DM W360 Digital Power Pack Version 1.0
+## DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0
 
 ## Overview
 
 **Description**
 
-W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
+Aks Tech provides Digital Marketing Solution that are designed to help SMEs to enhance their social online presence, improving brand recognition and exposure. Solutions come with Digital Marketing Strategy Development, Social Media Platforms, Strategic Content Production (Video/Photography, Creative Design), Analytics and Training to help SMEs succeed in their digital marketing strategies as well as running effective Ads Campaigns to capture & retain audience's attention.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,27 @@ W360 Group is one of the leading digital agencies in Singapore with a proven tra
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA & Facebook Marketing (3 Months)</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 1 (SMM+SMA - FB & IG) 2 months -Brand Awareness + Leads</td>
+<td style='padding: 10px;'>$5,650.00</td>
+<td style='padding: 10px;'>$5,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Facebook & Google Advertising (3 Months)</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'>$8,520.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA + SEO (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SEM (3 Months)</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>DM AKS TECH PACKAGE 2 (SMM+SMA - FB & IG) 3 months</td>
+<td style='padding: 10px;'>$8,850.00</td>
+<td style='padding: 10px;'>$8,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AksTech_DMAKSTECH_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
+ Companu Name: Aks Tech Pte Ltd<br>Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

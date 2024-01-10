@@ -1,16 +1,15 @@
 ---
-title: 'PEOPLECENTRAL HRMS Version 11'
+title: 'DM WECOFA Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution645
 ---
 
-## PEOPLECENTRAL HRMS Version 11
+## DM WECOFA Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-PeopleCentral HRMS is a complete all-in-one cloud-based solution to automate processes for HR, payroll, leave, claims, attendance, scheduling, training, and performance management.
-To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Workflow management, Alerts/Reminders, Announcements, Employee Self-service, and Mobile app functions.
+Wecofa's Digital Marketing Package is designed to help SMEs to establish a comprehensive digital business framework so that SMEs can leverage on the digital marketing efforts to provide additional sources of Brand Awareness, Leads and Sales Revenue for their business. In this package, they aim to help their clients setup and build a robust digital infrastructure with the aim of finding and reaching out the right customers and getting a return of ads spend minimum sales revenue of 150% and above.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +23,10 @@ To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Wo
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 50</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 100</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Facebook + SMM Instagram (3 Months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 150</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 200</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS 75</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PeopleCentral_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WECOFA_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +36,7 @@ To simplify tasks, it also offers Employee Onboarding, Management Dashboards, Wo
 
 ## Vendor Information
 
- Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
+ Company name:WECOFA PTE LTD<br>Web URL: www.wecofa.com <br>Contact Hotline: 91314122 <br>Contact Email: hello@wecofa.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,35 +1,43 @@
 ---
-title: 'Digital Welding Equipment'
+title: 'F&B Solutions Version 5.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 
-## Digital Welding Equipment
+## F&B Solutions Version 5.0
 
 ## Overview
 
 **Description**
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
-
-Cost of equipment capped at $37,500 per unit
+The Essential F&B Management Solutions 
+Major Problem Solutions:
+1.	Efficient streamlined manpower, save labour cost and cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The business analytic data is able to help on major business decisions.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: QR Ordering</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: QR Ordering and CRM</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Yumstone_F_B_Solutions_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,6 +45,10 @@ Cost of equipment capped at $37,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Yumstone Esolutions Pte Ltd<br>Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

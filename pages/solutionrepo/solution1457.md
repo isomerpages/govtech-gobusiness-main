@@ -1,64 +1,41 @@
 ---
-title: 'Shopify'
+title: 'Combi Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1457
 ---
 
-## Shopify
+## Combi Oven
 
 ## Overview
 
 **Description**
 
-Shopify powers millions of businesses globally. The all-in-one commerce platform to start, run and grow a business. With Shopify, merchants can build and customize an online store and sell in multiple places, including web, mobile, in person, brick-and-mortar locations, and pop-up shops and across multiple channels from social media to online marketplaces. Completely cloud-based and hosted, merchants have the flexibility to access and run their business from anywhere with an internet connection.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
+
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
+
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Basic Plan</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'>$348.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Shopify Plan</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'>$1,188.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Advanced Plan</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'>$4,788.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify - Plus Plan</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopify_Commerce_Singapore_Shopify_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Unit is programmable for convection, steam, and combination cooking.<br><br>2. Minimum capacity of 5GN</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company name:Shopify Commerce Singapore Pte Ltd<br>Web URL: https://www.shopify.com/sg/pricing <br>Contact Hotline: +658008526699 <br>Contact Email: PSG_Shopify_Support@shopify.com 
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

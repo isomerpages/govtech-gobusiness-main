@@ -1,15 +1,15 @@
 ---
-title: 'OOM_Ecommerce_Solution'
+title: 'Quickbooks Online Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1318
 ---
 
-## OOM_Ecommerce_Solution
+## Quickbooks Online Accounting Software
 
 ## Overview
 
 **Description**
 
-OOm is a digital performance marketing agency founded in 2006, with high competency in performance marketing to drive results for SMEs using Google and Facebook. OOm has since expanded to the Philippines, China and Hong Kong to accommodate the growing local and regional demands in digital marketing. SMEs can tap on OOm's Ecommerce Solution to set up a new ecommerce website and leverage on OOm's expertise in digital marketing to drive results for their business after the website is set up.
+Quickbooks is a One-stop Solution for all accounting needs. With the help of Quickbooks, businesses can create custom invoices, quotations, statement of accounts, performance reports, and more in a few clicks with utmost accuracy & zero accounting knowledge. Forget worries about data loss & security. Quickbooks provides highly secured automatic backup features for all data. Keep all accounting data safe, organised, and at the fingertips with QuickBooks.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,48 @@ OOm is a digital performance marketing agency founded in 2006, with high compete
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Advance)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Subscription Only</td>
+<td style='padding: 10px;'>$740.00</td>
+<td style='padding: 10px;'>$740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Value)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup & Subscription</td>
+<td style='padding: 10px;'>$2,940.00</td>
+<td style='padding: 10px;'>$2,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WooCommerce (Basic)</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription & Training</td>
+<td style='padding: 10px;'>$3,740.00</td>
+<td style='padding: 10px;'>$3,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopify (Gold)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/OOm_OOM_Ecommerce_Solution_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Opening Balance Input</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'>$4,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>QBO Setup, Subscription, Training & Migration of Past Year Data</td>
+<td style='padding: 10px;'>$7,740.00</td>
+<td style='padding: 10px;'>$7,740.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zenit_Quickbook_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://www.oom.com.sg/ <br><br>Contact Hotline: 63910930 <br><br>Contact Email: support@oom.com.sg <br><br>
+ Company Name: Zenit Accountancy Pte. Ltd.<br>Web URL: www.zenit.sg <br>Contact Hotline: 81891850 <br>Contact Email: contactus@zenit.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

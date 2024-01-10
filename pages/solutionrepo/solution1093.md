@@ -1,15 +1,15 @@
 ---
-title: 'CIRCL F&B Omnichannel'
+title: 'iLOGON (iWMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1093
 ---
 
-## CIRCL F&B Omnichannel
+## iLOGON (iWMS)
 
 ## Overview
 
 **Description**
 
-CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
+KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_iLOGON_iWMS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrate
 
 ## Vendor Information
 
- Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
+ Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

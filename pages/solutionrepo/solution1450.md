@@ -1,15 +1,15 @@
 ---
-title: 'SPTel-Fortinet-Managed Firewall Solutions'
+title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1450
 ---
 
-## SPTel-Fortinet-Managed Firewall Solutions
+## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd
 
 ## Overview
 
 **Description**
 
-SPTel's Managed Firewall solution offers the best in next generation firewall (NGFW) protection for SMEs. The Fortigate F-series firewall provides superior performance with a simple management interface. It uses the AI-powered FortiGuard security service to identify multiple threats and vulnerabilities for round-the-clock protection with threat intelligence. For added security, SPTel's network is monitored and supported by a 24 X 7 Integrated Network Operation Center located in Singapore.
+WTW is one of the world's largest human resources advisory firms. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others.  From a sectoral expertise perspective, we advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc. 
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,10 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$7,742.16</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +36,7 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 
 ## Vendor Information
 
- Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br>Contact Hotline: 69826888 <br>Contact Email: enquiry@sptel.com <br>
+ Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.<br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers<br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

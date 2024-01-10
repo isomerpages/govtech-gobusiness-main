@@ -1,17 +1,15 @@
 ---
-title: 'DM Best SEO Digital Marketing Packages Version 1'
+title: 'DM Craft Creative Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution163
 ---
 
-## DM Best SEO Digital Marketing Packages Version 1
+## DM Craft Creative Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Best SEO Marketing Pte Ltd offers SEO services, Google Ads, Social Media Marketing that brings businesses more leads, customers and sales than one's team can possibly handle.
-
-Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "click-through rate", they focus on how much their marketing efforts have generated their clients in terms of their return on investment.
+Craft Creative utilizes Facebook, Google and YouTube ads to elevate businesses and help them generate effective and concrete leads. As a finalist for social media marketing agency of the year and with vast experience from running over 500 creative campaigns every year, Craft helps our clients identify and be seen by their target audiences online, increase their investment returns, and their sales through creative social marketing strategies, quality content writing and innovative media designs.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +23,34 @@ Instead of focusing on vanity metrics like "likes", "impressions", "reach" and "
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO/CONTENT MARKETING - 3 MONTHS</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (SMA+ SEM) - [3 months]</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM/SMA - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SMA + YouTube Advertising) - [2 months]</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO/SEM - 3 MONTHS</td>
-<td style='padding: 10px;'>$11,000.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (SMM + SMA) [3 months]</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Best_Marketing_DM_Best_Marketing_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Craft_Creative_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name: BEST MARKETING AGENCY PTE LTD<br>Web URL: https://www.bestmarketing.com.sg<br>Contact Hotline: 9231 3757<br>Contact Email: contact@bestmarketing.com.sg
+ Company name:Craft Creative Pte Ltd<br>Web URL: https://craft.com.sg/digital-marketing-services/ <br>Contact Hotline: 91880739 <br>Contact Email: admin@craft.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

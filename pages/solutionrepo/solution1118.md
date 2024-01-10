@@ -1,17 +1,15 @@
 ---
-title: 'Harvest Accounting - Xero'
+title: 'LFSuite'
 permalink: /productivity-solutions-grant/solutionrepo/solution1118
 ---
 
-## Harvest Accounting - Xero
+## LFSuite
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
-
-Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
+LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ Harvest Accounting is a digital-first accounting firm that is passionate about s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'>$610.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Digital Ordering Server Lite + QR Ordering Lite + Analytics)</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'>$4,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'>$2,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> Package 2 - (Digital Ordering Server Lite + QR Ordering Lite + Analytics + KDS)</td>
+<td style='padding: 10px;'>$6,560.00</td>
+<td style='padding: 10px;'>$6,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'>$3,010.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Digital Ordering Server + QR Ordering + Analytics + KDS)</td>
+<td style='padding: 10px;'>$8,040.00</td>
+<td style='padding: 10px;'>$8,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'>$3,410.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Digital Ordering Server + QR Ordering + Analytics + KDS + Integration)</td>
+<td style='padding: 10px;'>$10,040.00</td>
+<td style='padding: 10px;'>$9,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'>$4,210.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Harvest_Accounting_Xero_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - (Digital Ordering Server + Kiosk + QR Ordering + Analytics + KDS + Integration)</td>
+<td style='padding: 10px;'>$13,640.00</td>
+<td style='padding: 10px;'>$12,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LEVELFIVE_SOLUTIONS_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

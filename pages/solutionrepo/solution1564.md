@@ -1,15 +1,15 @@
 ---
-title: 'BlueMeg Console Version NA'
+title: 'Synergix Sales, Accounting, Inventory'
 permalink: /productivity-solutions-grant/solutionrepo/solution1564
 ---
 
-## BlueMeg Console Version NA
+## Synergix Sales, Accounting, Inventory
 
 ## Overview
 
 **Description**
 
-The BlueMeg Console is a cloud-based legal entity and subsidiary management and corporate governance software. It automates manual tasks of company secretaries, tracks deadlines, generates pre-filled documents for digital signing, and provides a collaborative platform for secure sharing of company information and documents with authorised stakeholders. The software creates efficiencies and decreases the costs of doing business, making it an excellent tool for businesses of all sizes.
+Synergix software is a web and browser-based digital solution built for local SME and midsized multi-companies in mind. Designed with a user-friendly interface, we understand the need for SME to adopt an easy to use software that comes with comprehensive features to help raise their productivity at work. SME and midsized multi-companies can make use of Synergix software to transform their business to compete effectively both locally and globally with complete digital data for business analysis.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ The BlueMeg Console is a cloud-based legal entity and subsidiary management and 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BlueMeg Console</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BlueMeg_Tech_BlueMeg_Console_Ver_NA_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$35,355.00</td>
+<td style='padding: 10px;'>$28,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Sales_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$43,755.00</td>
+<td style='padding: 10px;'>$36,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Sales_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (10 Users with InvoiceNow)</td>
+<td style='padding: 10px;'>$64,755.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Synergix_Sales_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ The BlueMeg Console is a cloud-based legal entity and subsidiary management and 
 
 ## Vendor Information
 
- Company Name: BlueMeg Technologies Pte. Ltd.<br>Web URL: www.bluemeg.com <br>Contact Hotline: +6531594464 <br>Contact Email: whitelabel@bluemeg.com <br>
+ Company Name: Synergix Technologies Pte Ltd<br>Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

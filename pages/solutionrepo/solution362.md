@@ -1,15 +1,15 @@
 ---
-title: 'Frontier eHR HRSS Version 8'
+title: 'iLOGON (iTMS)'
 permalink: /productivity-solutions-grant/solutionrepo/solution362
 ---
 
-## Frontier eHR HRSS Version 8
+## iLOGON (iTMS)
 
 ## Overview
 
 **Description**
 
-Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations through a user-friendly cloud-based application. HR can record employee's details and handle Payroll & Performance Appraisal process. Employees can access their HR information and perform HR related applications through web and mobile app. Through integrated services including both HRSS and HRMS, the solution provides a one stop solution for SMEs to eliminate the time and cost required for HR and Payroll administration.
+KEYfields' iLOGON iTMS is an operational centric and easy to implement transport management solution, with scalable design that allow flexibility to add or enhance functionalities to meet business growing needs. The solution enhances transportation logistics to boost on-time deliveries and customer service levels. It provides real time updates, listen to jobs and manages all fleet and driver resources to ensure the right supplies is picked up and delivered on time.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations thr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 users</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'>$11,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'>$18,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'>$32,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 users</td>
-<td style='padding: 10px;'>$41,600.00</td>
-<td style='padding: 10px;'>$41,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 users</td>
-<td style='padding: 10px;'>$49,600.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iTMS) -  SaaS</td>
+<td style='padding: 10px;'>$38,000.00</td>
+<td style='padding: 10px;'>$35,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/KEYfields_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations thr
 
 ## Vendor Information
 
- Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+ Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/<br>Contact Hotline: 68427886<br>Contact Email: info@keyfields.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

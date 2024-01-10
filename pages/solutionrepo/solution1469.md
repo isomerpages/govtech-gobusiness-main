@@ -1,71 +1,39 @@
 ---
-title: 'KEEPITAL Sales Management Business Solution Version 3'
+title: 'Planetary or Spiral Mixer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
-## KEEPITAL Sales Management Business Solution Version 3
+## Planetary or Spiral Mixer
 
 ## Overview
 
 **Description**
 
-Keepital is an online Global B2B platform that brings together buyers and suppliers and allows business owners to reach out to local and overseas prospects. Through this platform, business owners can list their products and services to generate quotations to potential buyers. The objective is to digitalise all SME products and services into a single platform to increase productivity, leads generation and improve sales and revenue, reducing the workload of a salesperson.
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
+
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
+
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (24 Product Showcase)</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$2,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (48 Product Showcase)</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (250 Product Showcase)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$10,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (500 Product Showcase)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$19,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1000 Product Showcase)</td>
-<td style='padding: 10px;'>$30,000.00</td>
-<td style='padding: 10px;'>$29,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keep_KEEPITAL_Sales_Management_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>1. Machine has minimum bowl capacity of 20 liters<br>2. Machine has minimally 3 speed options for Planetary Mixer<br>3. Machine has minimally 2 speed options for Spiral Mixer<br>4. Machine has a minimum speed of 100rpm<br>5. Machine comes with bowl and minimum of 2 out of 3 tools</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Keep Pte Ltd<br>Web URL: www.keepital.com <br>Contact Hotline: 96239126 <br>Contact Email: ask@keepital.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

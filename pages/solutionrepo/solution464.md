@@ -1,15 +1,15 @@
 ---
-title: 'DM Leading Solution Digital Marketing Packages Version 1'
+title: 'JumpCloud Platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution464
 ---
 
-## DM Leading Solution Digital Marketing Packages Version 1
+## JumpCloud Platform
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
+Perennial Flexiwork is a holistic endpoint management solution for companies that take remote work seriously by integrating JumpCloud Platform with Trend Micro Worry-Free. On top of its proven and tested anti-virus capability, Flexiwork comes with much needed features to make remote work both productive and secure e.g. Remote Assist ( similar to TeamViewer), patch management, application deployment etc, in today's post-pandemic environment. Flexiwork will provide a strong security foundation for companies seeking to embark on their ISO27001 journeys. 
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ permalink: /productivity-solutions-grant/solutionrepo/solution464
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 30 devices</td>
+<td style='padding: 10px;'>$4,483.00</td>
+<td style='padding: 10px;'>$4,483.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 50 devices</td>
+<td style='padding: 10px;'>$7,471.00</td>
+<td style='padding: 10px;'>$7,471.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 100 devices</td>
+<td style='padding: 10px;'>$14,943.00</td>
+<td style='padding: 10px;'>$14,943.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 150 devices</td>
+<td style='padding: 10px;'>$22,414.00</td>
+<td style='padding: 10px;'>$22,414.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Perennial FlexiWork Package for 200 devices</td>
+<td style='padding: 10px;'>$29,885.00</td>
+<td style='padding: 10px;'>$29,885.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Perennial_Consultancy_JumpCloud Platform_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution464
 
 ## Vendor Information
 
- Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
+ Company name:Perennial Consultancy Pte Ltd<br>Web URL: jumpcloud.perennialconsultancy.com <br>Contact Hotline: 96623516 <br>Contact Email: sales@perennialconsultancy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

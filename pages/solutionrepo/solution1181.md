@@ -1,16 +1,17 @@
 ---
-title: 'SAP Business One SQL & HANA Version 10.0'
+title: 'NetDocuments'
 permalink: /productivity-solutions-grant/solutionrepo/solution1181
 ---
 
-## SAP Business One SQL & HANA Version 10.0
+## NetDocuments
 
 ## Overview
 
 **Description**
 
-Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
-SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
+NetDocuments is a cloud-based Document & Email Management System that offers security, power and a reliable, secure way to create, edit, store, locate and collaborate on documents anywhere. Workspaces can be designed around a firm's matters, with document versioning, search and email filing through predictive filing, allowing users to file emails quickly and accurately.
+
+Verlata is a NetDocuments Platinum Partner, providing implementation services for law firms in Singapore and the region.
 
 ## Solution Packages Option(s)
 
@@ -24,38 +25,73 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 License)</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'>$14,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'>$6,760.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Licenses)</td>
-<td style='padding: 10px;'>$28,900.00</td>
-<td style='padding: 10px;'>$24,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Licenses)</td>
-<td style='padding: 10px;'>$37,350.00</td>
-<td style='padding: 10px;'>$30,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users</td>
+<td style='padding: 10px;'>$18,740.00</td>
+<td style='padding: 10px;'>$17,940.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (4 Licenses)</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users</td>
+<td style='padding: 10px;'>$26,860.00</td>
+<td style='padding: 10px;'>$24,060.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Licenses)</td>
-<td style='padding: 10px;'>$54,250.00</td>
-<td style='padding: 10px;'>$32,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users</td>
+<td style='padding: 10px;'>$45,600.00</td>
+<td style='padding: 10px;'>$36,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_20220183_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users (2 years)</td>
+<td style='padding: 10px;'>$9,820.00</td>
+<td style='padding: 10px;'>$9,820.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>6 users (2 years)</td>
+<td style='padding: 10px;'>$16,640.00</td>
+<td style='padding: 10px;'>$16,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>12 users (2 years)</td>
+<td style='padding: 10px;'>$30,980.00</td>
+<td style='padding: 10px;'>$30,180.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 9</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>18 users (2 years)</td>
+<td style='padding: 10px;'>$45,220.00</td>
+<td style='padding: 10px;'>$42,420.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 10</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>30 users (2 years)</td>
+<td style='padding: 10px;'>$76,200.00</td>
+<td style='padding: 10px;'>$66,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Verlata_Consulting_NetDocuments_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +101,7 @@ SAP Business One is an ERP software that lets you gain insights across the busin
 
 ## Vendor Information
 
- Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
+ Web URL: https://verlata.com <br><br>Contact Hotline: 97573629 <br><br>Contact Email: singapore@verlata.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

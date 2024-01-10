@@ -1,15 +1,15 @@
 ---
-title: 'AutoCount Accounting Software'
+title: 'DM Ice Cube Predictable Leads Generation Program'
 permalink: /productivity-solutions-grant/solutionrepo/solution1123
 ---
 
-## AutoCount Accounting Software
+## DM Ice Cube Predictable Leads Generation Program
 
 ## Overview
 
 **Description**
 
-Autocount accounting & inventory software is trusted by more than 200,000 companies. It manages key business operations for SMEs with optional add on modules to cater for advance business requirements of big enterprises. Ingenious provides accounting software consultancy & implementation since 2001. In 2021,it served 1047 different companies, & ranked as 2021 Overall Champion Reseller for Autocount Software in terms of revenue & licenses sold. It is an ISO9001 & S'pore SME100 award winner.
+Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 1 user</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'>$4,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic 3 users</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'>$5,799.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Ecommerce SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 5 users</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'>$10,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 8 users</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'>$13,599.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium 12 users</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'>$15,999.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ingenious_AutoCount_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM+SMA+video (3months)</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Autocount accounting & inventory software is trusted by more than 200,000 compan
 
 ## Vendor Information
 
- Company Name: Ingenious Business Software Pte Ltd<br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+ Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

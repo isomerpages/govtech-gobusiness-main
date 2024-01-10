@@ -1,15 +1,15 @@
 ---
-title: 'BridgED Version 4.0'
+title: 'Fairmart Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1205
 ---
 
-## BridgED Version 4.0
+## Fairmart Version 3.0
 
 ## Overview
 
 **Description**
 
-BridgED 4.0 is an end to end Pre-school management platform that digitalizes information and records, enhances the management of day to day activities and streamline communication between staff and parents.  BridgED has a wide range of modules that enables operators to run their centres efficiently and free up time to focus on growing their business.
+Fairmart is an automated multi-channel e-commerce solution designed for SME retailers. By using Fairmart, retailers are able to automatically digitise their inventory and connect to relevant sales channels such as Google to drive sales.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ BridgED 4.0 is an end to end Pre-school management platform that digitalizes inf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
-<td style='padding: 10px;'>$3,440.00</td>
-<td style='padding: 10px;'>$3,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Subscription</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fairmart_Technologies_Ver_3_0_07092023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter </td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'>$6,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'>$8,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$8,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$10,100.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Cyberland_BridgED_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Subscription</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'>$1,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Fairmart_Technologies_Ver_3_0_07092023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Cyberland Consultancy Pte Ltd<br>Web URL: cyberland.edu.sg/bridged <br>Contact Hotline: 65666601 <br>Contact Email: casey@cyberland.edu.sg <br>
+ Company Name: Fairmart Technologies Pte Ltd<br>Web URL: https://www.fairmart.app/ <br>Contact Hotline: 91767874 <br>Contact Email: contact@fairmart.app <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

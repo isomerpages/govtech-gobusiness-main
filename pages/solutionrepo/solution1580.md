@@ -1,15 +1,17 @@
 ---
-title: 'Mastercam Software Version 2023'
+title: 'Pepper Cloud CRM Version 14.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1580
 ---
 
-## Mastercam Software Version 2023
+## Pepper Cloud CRM Version 14.0
 
 ## Overview
 
 **Description**
 
-Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to manufacturing workpieces with Computer-Aided Manufacturing (CAM) on CNC machines. Mastercam provides a complete solution from the start of design to the production lines, manufacturing parts with precision and efficiency.
+Pepper Cloud is a Singapore based cloud CRM Company, which offers CRM software designed for SMEs to help in areas such as sales & lead management, customer relationship, marketing automation & business analytics
+A highly customizable and scalable CRM solution, it offers a range of features that help businesses manage sales pipeline, track opportunities, capture customer interactions, and forecast sales
+They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar & Indonesia
 
 ## Solution Packages Option(s)
 
@@ -23,38 +25,38 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Lathe</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'>$13,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_3Users</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PepperCloud_CRM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_5Users</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PepperCloud_CRM_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill (2 license)</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'>$31,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_10Users</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PepperCloud_CRM_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Lathe</td>
-<td style='padding: 10px;'>$38,600.00</td>
-<td style='padding: 10px;'>$37,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise_Unlimited Users</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PepperCloud_CRM_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mastercam Mill3D/Multiaxis</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techtown_Mastercam_Software_Ver2023_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AI Plus</td>
+<td style='padding: 10px;'>$19,500.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/PepperCloud_CRM_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +66,7 @@ Mastercam CAD/CAM software is used to translate Computer-Aided Design (CAD) to m
 
 ## Vendor Information
 
- Company Name: Techtown Pte Ltd<br>Web URL: https://techtown.com.sg <br>Contact Hotline: 66368215 <br>Contact Email: info@techtown.com.sg <br>
+ Company Name: Pepper Cloud Pte. Ltd.<br>Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

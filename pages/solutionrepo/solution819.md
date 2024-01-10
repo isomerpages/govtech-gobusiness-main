@@ -1,15 +1,17 @@
 ---
-title: 'V3Nity-FMS Fleet Management System Version 3.0'
+title: 'DM Wolfgang Creatives Digital Marketing Packages Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution819
 ---
 
-## V3Nity-FMS Fleet Management System Version 3.0
+## DM Wolfgang Creatives Digital Marketing Packages Version 1.0
 
 ## Overview
 
 **Description**
 
-The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management System that plays the key important policing function to enforce compliance of all the pre-planned routes and at the same time enhance the visibility of owners' fleet of vehicles, so as to realize the primary objectives in terms cost control, optimise usage of the assigned resources, resources security, drivers' safety, vehicle health status, work site and road video analytics during the vehicle day-to-day operation.
+Wolfgang Creatives provides a range of proven Digital Marketing Solutions to help SMEs supercharge their business. Wolfgang understands that each SME is unique, and creates highly customised ROI-driven marketing campaigns covering SEO, SEM, SMM, Video and Inbound Marketing. 
+ 
+Wolfgang is a Facebook Official Marketing Partner, with an in-house local team of 30+ Google and Facebook certified Digital Marketers.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +25,41 @@ The V3Nity-FMS is a proven and fully deployed Location Based Fleet Management Sy
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package A (Per Vehicle)</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'>$660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - (Accelerated Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FMS Package B with camera (Per Vehicle)</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'>$1,793.00</td>
-<td style='padding: 10px;'><a href='/images/psg/V3_20220438_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - (SEO and SEM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - (Creative Video and Lead Gen) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - (Inbound and SMM) 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Wolfgang_Creatives_DM_Wolfgang_Creatives_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: V3 Smart Technologies Pte Ltd<br>Web URL: https://v3smarttech.com/fleet-management-psg/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+ Company name:Wolfgang Creatives Pte. Ltd.<br>Web URL: https://wolfgangcreatives.com/ <br>Contact Hotline: 88987503 <br>Contact Email: sales@wolfgangcreatives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

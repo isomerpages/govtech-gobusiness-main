@@ -1,17 +1,15 @@
 ---
-title: 'Counto DIY Version 1'
+title: 'Pre-school Management System + E-forms for Preschool Version BridgED 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution872
 ---
 
-## Counto DIY Version 1
+## Pre-school Management System + E-forms for Preschool Version BridgED 3.0
 
 ## Overview
 
 **Description**
 
-CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
-
-Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
+Cyberland  Consultancy Pte Ltd is a establish edu-tech company with years of experience in developing Web based solution for schools.  BridgED is developed for Preschool centres to facilitate the management of the day-to-day activities and communication between staff and parents. In BridgED 3.0, e-Forms for Preschool function are added to facilitate the per-school centres to electronically process the Childcare enrolment and subsidy application form (Form 1) as well as Form 2 and 3.
 
 ## Solution Packages Option(s)
 
@@ -25,41 +23,48 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Attendance</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'>$4,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'>$7,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$9,050.00</td>
+<td style='padding: 10px;'>$9,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$10,050.00</td>
+<td style='padding: 10px;'>$10,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$11,050.00</td>
+<td style='padding: 10px;'>$11,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cyberland_Consultancy_PreschoolMgmtSys_EformsPreschool_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
+ Web URL: cyberland.edu.sg/bridged <br><br>Contact Hotline: 65666601 <br><br>Contact Email: casey@cyberland.edu.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

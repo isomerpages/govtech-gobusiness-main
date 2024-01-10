@@ -1,15 +1,19 @@
 ---
-title: 'SMARTHRMS Version 1'
+title: 'Confirmation.com'
 permalink: /productivity-solutions-grant/solutionrepo/solution1555
 ---
 
-## SMARTHRMS Version 1
+## Confirmation.com
 
 ## Overview
 
 **Description**
 
-SmartHRMS is a comprehensive HR management system designed to streamline and simplify human resources operations. SmartHRMS's range of features and functionalities greatly benefit organizations in managing their HR processes effectively. With SmartHRMS, companies can streamline their HR operations, minimize manual work, enhance accuracy, and ensure compliance. HR professionals and employees alike can focus on strategic initiatives, talent management, and fostering a productive work environment.
+Confirmation is a web-based platform offering a secure and efficient way for auditors to confirm financial information with banks, customers, vendors, legal firms. 
+
+Key benefits include improving the overall quality and reliability of financial audit procedures, enhanced security, reduction of fraud risk, improved efficiency and transparency, tracking and reporting capabilities, auto-reminders and more.
+
+In Singapore, we have 34 validated banks and departments live on our network.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +27,17 @@ SmartHRMS is a comprehensive HR management system designed to streamline and sim
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE A (50 Employees)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AR/AP Subscription</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'>$3,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Thomson_Confirmation_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS STANDARD PACKAGE B (100 Employees)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE C (50 Employees)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE D (100 Employees)</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRMS PREMIUM PACKAGE E (150 Employees)</td>
-<td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'>$16,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Avelogic_Smarthrms_Version1_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bank + AR/AP Subscription</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'>$16,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Thomson_Confirmation_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +47,7 @@ SmartHRMS is a comprehensive HR management system designed to streamline and sim
 
 ## Vendor Information
 
- Company Name: AVELOGIC PTE LTD<br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
+ Company Name: Thomson Reuters Corporation Pte. Ltd.<br>Web URL: https://www.confirmation.com <br>Contact Hotline: +912268414300 <br>Contact Email: Harsh.Jogani@thomsonreuters.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

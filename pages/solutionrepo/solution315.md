@@ -1,15 +1,15 @@
 ---
-title: 'Eurostop Omni-Channel Retail Management System Version 10'
+title: 'DM Injob Creative Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution315
 ---
 
-## Eurostop Omni-Channel Retail Management System Version 10
+## DM Injob Creative Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and E-Commerce solution for all retailers (SME & Multi-store brands), and specialized for fashion, apparel, and footwear retail businesses. It is a one-stop retail solution to manage both offline (retail stores) and online channels such as Shopify, Lazada, and Shopee. Eurostop integrated with accounting systems such as XERO and QuickBooks. It comes with mobile-ready modules for users to make/check sales anywhere/anytime
+Injob Creative provides digital marketing packages SMM + SMA, SEO + SEM or SEO+SMM packages, ensuring that they can benefit any growing local SMEs helping them reach their desired target audiences. Injob Creative's expertise helps SMEs realize improve in their outreach within 3 months time.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,34 @@ A cloud-based Omni-channel Retail, POS, CRM, Inventory/Warehouse Management, and
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - Advanced (Inventory with POS, CRM)</td>
-<td style='padding: 10px;'>$14,800.00</td>
-<td style='padding: 10px;'>$12,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Eurostop_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM + SMA [3 Months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO + SEM [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO + SMA [3 months]</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Injob_DM_Injob_Creative_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Eurostop Singapore Pte Ltd <br>Web URL: https://www.eurostop.com/ <br>Contact Hotline: 65611411 <br>Contact Email: sgsales@eurostop.com 
+ Company Name:Injob Creative Pte Ltd<br>Web URL: injob.com.sg <br>Contact Hotline: 97360305 <br>Contact Email: enquiry@injob.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Creative Sales and Order'
+title: 'Frontier eHR HRSS Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution248
 ---
 
-## Creative Sales and Order
+## Frontier eHR HRSS Version 8
 
 ## Overview
 
 **Description**
 
-Creative Sales and order management is an user friendly end-to end solution that enable companies to request for quote to confirmation of their products or services easily. This solution provide SMEs in Wholesales industry an opportunity to broaden their reach, stay competitive, increase the sales, streamline operation and optimize resources.
+Frontier e-HR HRMS assists SMEs to improve the productivity of HR operations through a user-friendly cloud-based application. HR can record employee's details and handle Payroll & Performance Appraisal process. Employees can access their HR information and perform HR related applications through web and mobile app. Through integrated services including both HRSS and HRMS, the solution provides a one stop solution for SMEs to eliminate the time and cost required for HR and Payroll administration.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,48 @@ Creative Sales and order management is an user friendly end-to end solution that
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System SME</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'>$9,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 users</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'>$11,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Lite</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'>$12,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 users</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Creative Sales and Order - Sales & Order Management System Standard</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'>$15,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E-world_Sales_and_Order_20210458_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 users</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'>$32,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>150 users</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'>$41,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 users</td>
+<td style='padding: 10px;'>$49,600.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Frontier_eHR_HRSS_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
+ Company Name: Frontier e-HR Pte Ltd <br>Web URL: https://www.frontier-ehr.com/ <br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

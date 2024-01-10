@@ -1,32 +1,31 @@
 ---
-title: 'Zippy eCommerce Version 1.0'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1488
 ---
 
-## Zippy eCommerce Version 1.0
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-Zippy eCommerce is designed to help SMES bring their B2C business online seamlessly. Zippy is user-friendly, intuitive, and packed with features that make building and operating an online store fast, easy and efficient. With the Zippy solution, SMEs can create, maintain and operate a professional-looking B2C ecommerce website without any in-house technical staff.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zippy eCommerce Enterprise</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ZIPPY_SG_Zippy_eCommerce_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Machine has a minimum 7 trays/carriers<br><br>2. Each tray to have a minimum load capacity of 135kg<br><br>3. Each tray to have a minimum width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ Zippy eCommerce is designed to help SMES bring their B2C business online seamles
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: ZIPPY SG PTE. LTD.<br>Web URL: https://zippybytes.com/ <br>Contact Hotline: 63147885 <br>Contact Email: sales@zippy.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

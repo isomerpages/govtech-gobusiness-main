@@ -1,15 +1,15 @@
 ---
-title: 'VisionMan'
+title: 'DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1200
 ---
 
-## VisionMan
+## DM Bluehive Consulting Digital Marketing Packages Version 22 - 3.2
 
 ## Overview
 
 **Description**
 
-VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry's professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
+Bluehive's Digital Marketing Solutions are tailored to meet the diverse needs of SMEs in their digital growth. These solutions are customized for SMEs at different stages of digital maturity to enhance their online brand presence, digital marketing strategy, communication with target audiences, and increase sales. Bluehive's services cater to businesses that operate through ecommerce websites, brick-and-mortar stores, or both.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ VisionMan Maintenance Management is an easy to use and powerful system, designed
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Quick Start Package (1 Web User and 2 Mobile User)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA (Facebook) + SMA (Linkedin) (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consulting_Asia_DM_Packages_07092023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Foundation Package (2 web users and 4 mobile user)</td>
-<td style='padding: 10px;'>$12,380.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEM & SEO (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Professional Package (4 web users and 8 mobile users)</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Advance Package (8 web users and 12 mobile users)</td>
-<td style='padding: 10px;'>$22,800.00</td>
-<td style='padding: 10px;'>$21,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SMA (3 Months Package)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premier Package (12 web users and 15 mobile users)</td>
-<td style='padding: 10px;'>$30,800.00</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SMA + Creative Video on Youtube / Tiktok (3 Months Packag</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Bluehive_Consu_DM_Bluehive_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ VisionMan Maintenance Management is an easy to use and powerful system, designed
 
 ## Vendor Information
 
- Company Name: ECS Techno_Sys (Asia Pacific) Pte Ltd<br>Web URL: www.ecss.com.sg <br>Contact Hotline: 62953566 <br>Contact Email: alan@ecss.com.sg <br>
+ Company Name: Bluehive Consulting Asia Pte Ltd<br>Web URL: https:https://www.bluehiveasia.com/psg-digital-marketing/<br>Contact Hotline: 61004128 <br>Contact Email: info@bluehiveasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

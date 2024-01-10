@@ -1,15 +1,15 @@
 ---
-title: 'EzyProcure Version 2.0'
+title: 'Eber Loyalty Marketing Platform'
 permalink: /productivity-solutions-grant/solutionrepo/solution1399
 ---
 
-## EzyProcure Version 2.0
+## Eber Loyalty Marketing Platform
 
 ## Overview
 
 **Description**
 
-EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
+Eber Smart Member Solution is a smart member system that comes with comprehensive loyalty & rewards system, CRM, marketing, gift card and analytic tool. Businesses can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-procurement system for Wholesalers/Suppliers</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_EzyProcure_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic package</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'>$1,428.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package with Professional Services</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'>$2,228.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package with Professional Services</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Eber_EberLoyaltyMarkerting_01122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 
 ## Vendor Information
 
- Company Name :Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com <br>
+ Company Name: Eber Pte Ltd<br>Web URL: https://eber.co <br>Contact Hotline: 31590888 <br>Contact Email: hello@eber.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

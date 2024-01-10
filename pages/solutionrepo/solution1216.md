@@ -1,15 +1,15 @@
 ---
-title: 'AM8ZE ERP - VISTA'
+title: 'Microsoft 365 SharePoint Online'
 permalink: /productivity-solutions-grant/solutionrepo/solution1216
 ---
 
-## AM8ZE ERP - VISTA
+## Microsoft 365 SharePoint Online
 
 ## Overview
 
 **Description**
 
-AM8ZE designs and builds innovative and scalable ERP suites, empowering local SMEs to be corporate giants of tomorrow. Supported by teams across Singapore, India and Vietnam, we serve corporate clients across Asia. Team AM8ZE possess deep skillsets and know-how to provide an extensive range of bespoke ERP suites for sectors including Education, F&B, Retail, Supply Chain and Manufacturing with functional modules including Finance, HR, CRM, Inventory, POS & Project Management with BI tools.
+Tisch Global is offering Microsoft 365 SharePoint, a cloud solution enabling simple sharing and seamless collaboration. SharePoint empowers teamwork with dynamic and productive team sites for every project team, department, and division. Share files, data, news, and resources. Customize your site to streamline your team's work. Collaborate effortlessly and securely with team members inside and outside your organization, across PCs, Macs, and mobile devices.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ AM8ZE designs and builds innovative and scalable ERP suites, empowering local SM
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$16,750.00</td>
-<td style='padding: 10px;'>$16,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$1,330.00</td>
+<td style='padding: 10px;'>$1,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard (Unlimited Users)</td>
-<td style='padding: 10px;'>$20,850.00</td>
-<td style='padding: 10px;'>$20,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$2,385.00</td>
+<td style='padding: 10px;'>$2,325.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro (Unlimited Users)</td>
-<td style='padding: 10px;'>$30,150.00</td>
-<td style='padding: 10px;'>$26,450.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users (SharePoint Plan 1)</td>
+<td style='padding: 10px;'>$4,288.75</td>
+<td style='padding: 10px;'>$4,168.75</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Basic (Unlimited Users)</td>
-<td style='padding: 10px;'>$34,850.00</td>
-<td style='padding: 10px;'>$27,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$7,512.50</td>
+<td style='padding: 10px;'>$7,312.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Manufacturing and Supply Chain Advanced (Unlimited Users)</td>
-<td style='padding: 10px;'>$38,350.00</td>
-<td style='padding: 10px;'>$27,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AM8ZE_ERPVista_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Users (SharePoint Plan 2)</td>
+<td style='padding: 10px;'>$13,787.50</td>
+<td style='padding: 10px;'>$13,387.50</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Microsoft_07092023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: AM8ZE PTE LTD<br>Web URL: https://am8ze.com/erp/ <br>Contact Hotline: 96222206 <br>Contact Email: sales@am8ze.com <br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: hello@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

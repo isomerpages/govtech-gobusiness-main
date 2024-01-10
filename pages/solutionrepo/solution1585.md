@@ -1,17 +1,15 @@
 ---
-title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
+title: 'Studio Manager Version 8'
 permalink: /productivity-solutions-grant/solutionrepo/solution1585
 ---
 
-## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80
+## Studio Manager Version 8
 
 ## Overview
 
 **Description**
 
-BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
-
-BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
+Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. Since 2002, the software is designed for beauty operators like spa, aesthetic clinic and salons. It is a beauty POS & CRM solution designed for small to large global chains. For clinic operation, the solution offers capturing of NRIC records and health declaration form for paperless experience.
 
 ## Solution Packages Option(s)
 
@@ -25,48 +23,48 @@ BIPO provides a convenience, one-stop payroll and HR services supported by their
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 50</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Standard)</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'>$10,080.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ArcherLogic_StudioManager_01012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 100</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'>$28,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Professional)</td>
+<td style='padding: 10px;'>$15,320.00</td>
+<td style='padding: 10px;'>$15,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ArcherLogic_StudioManager_01012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> LITE 150</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'>$40,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Premium)</td>
+<td style='padding: 10px;'>$17,240.00</td>
+<td style='padding: 10px;'>$17,240.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ArcherLogic_StudioManager_01012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 200</td>
-<td style='padding: 10px;'>$49,800.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Enterprise)</td>
+<td style='padding: 10px;'>$20,640.00</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ArcherLogic_StudioManager_01012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 25</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'>$12,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_Singapore_HRM_System_Payroll_Outsourcing_Ver1_21_53_80_05102023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Branch)</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'>$5,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ArcherLogic_StudioManager_01012024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
+ Company Name: Archer Logic (S) Pte Ltd<br>Web URL: www.studiomanager.asia <br>Contact Hotline: 67859007 <br>Contact Email: ISAAC.GOH@ARCHERLOGIC.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

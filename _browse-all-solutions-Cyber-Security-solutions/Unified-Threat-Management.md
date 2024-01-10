@@ -37,56 +37,48 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution100' target='_blank'>Firewalla Gold Package</a><br></td>
-<td>Anzen Global Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution435' target='_blank'>Invisiron Cyber Defence</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution337' target='_blank'>Invisiron Cyber Defence</a><br></td>
 <td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution446' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution348' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution542' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br></td>
-<td>Network Box (Sin) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution630' target='_blank'>Firewall Security Protection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution485' target='_blank'>Firewall Security Protection</a><br></td>
 <td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution685' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution525' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
 <td>Roycemedia Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution703' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
-<td>Singapore Telecommunications Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution881' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution681' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1017' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution747' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution809' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1375' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1075' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1438' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1135' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1528' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1212' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
 <td>Contfinity Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1540' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
+<td>NETWORK BOX (SIN) PTE. LTD.</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'Corsiva Lab E-Commerce Website Development(WordPress / Shopify)'
+title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1377
 ---
 
-## Corsiva Lab E-Commerce Website Development(WordPress / Shopify)
+## WLP Digital Ecommerce Web Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,24 @@ Extend your business online and generate higher sales revenue with Corsiva Lab's
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express </td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Standard)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Corsiva_Lab_ECommerce_Website_Development_WordPress_Shopify_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Starter)</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +50,7 @@ Extend your business online and generate higher sales revenue with Corsiva Lab's
 
 ## Vendor Information
 
- Company name:Corsiva Lab Pte Ltd<br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com 
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

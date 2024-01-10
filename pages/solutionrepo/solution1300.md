@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Commerce Version 2.0'
+title: 'OS Store E-Commerce Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 
-## Fooyo Commerce Version 2.0
+## OS Store E-Commerce Version 3.0
 
 ## Overview
 
 **Description**
 
-Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
+Elevate one's business to new heights with OS Store, an all-in-one web-based e-commerce solution tailored for small and medium-sized enterprises. The platform boasts a custom user interface, intelligent features, and plugins that deliver seamless retail management and an unparalleled user experience. OS Store encompasses essential elements ranging from cybersecurity and order fulfillment to customer segmentation, marketing, engagement, loyalty, competition, pricing, and inventory management.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
-<td style='padding: 10px;'>$9,588.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Orfeostory_ECommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
+ Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

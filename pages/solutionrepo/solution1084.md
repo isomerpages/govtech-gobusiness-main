@@ -1,15 +1,15 @@
 ---
-title: 'DM AII DEVELOP Digital Marketing Packages'
+title: 'Advanced Human Hazard Avoidance & Alert Systems Version 01'
 permalink: /productivity-solutions-grant/solutionrepo/solution1084
 ---
 
-## DM AII DEVELOP Digital Marketing Packages
+## Advanced Human Hazard Avoidance & Alert Systems Version 01
 
 ## Overview
 
 **Description**
 
-As the world of marketing rapidly evolves, it's more important than ever for businesses to stay ahead of the curve. Aii Develop Digital Solutions is a full-suite agency in Singapore that specializes in helping businesses do just that. With years of experience and expertise in web design, SEO, SEM, social media, and content marketing, they tailor unique solutions to support businesses in achieving their goals.
+Solaris AI Vision-based, AHHAAS helps in the detection of blind spots and ensures proximity between workers and heavy equipment. With AHHAAS, there are proximity sensors for heavy equipment such as forklifts, cranes, excavators, and stackers. The system can reduce accidents and fatalities for industries like manufacturing, logistics, and construction. By alerting workers and operators of dangers and providing awareness of obstructions, AHHAAS creates a safe working environment at job sites.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,41 @@ As the world of marketing rapidly evolves, it's more important than ever for bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM + SMA (3 months)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Proximity Sensor (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'>$1,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO (6 months) + SEM (3 months)</td>
-<td style='padding: 10px;'>$10,650.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'>$1,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA (3 months) + Social Media Content Marketing (6 months)</td>
-<td style='padding: 10px;'>$10,750.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'>$1,650.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO (6 months) + Social Media Content Marketing (3 months)</td>
-<td style='padding: 10px;'>$11,620.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - SEO (6 months) + SMA (3 months)</td>
-<td style='padding: 10px;'>$11,910.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AII_DEVELOP_DM_AII_DEVELOP_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>4 Proximity Sensors (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'>$1,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Solaris_CES_Advanced_Human_Hazard_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:AII DEVELOP PTE LTD<br>Web URL: https://aiidevelop.com/support-sme-covid-19/ <br>Contact Hotline: 90050705 <br>Contact Email: SUPPORT@AIIDEVELOP.COM 
+ Company name:Solaris CES Pte Ltd<br>Web URL: https://www.iotsolaris.com<br>Contact Hotline: +6562820529 <br>Contact Email: info@iotsolaris.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Simplify Version 1'
+title: 'TIME ACCESS HRMS Version V2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution592
 ---
 
-## Simplify Version 1
+## TIME ACCESS HRMS Version V2.0
 
 ## Overview
 
 **Description**
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 years of market experience. The Integrated Cloud Solution combines HR modules and Security Hardware in a single solution. The solution allows SMEs and their employees to manage Attendance, Payroll, Leave, Claims, Benefits and Appraisal matters using Mobile App with Employee Self Service Portal on the go for access to all modules. The solution can be further integrated to any other Business Software Solution.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (20 Users)</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
-<td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (45 Users)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (75 Users)</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
-<td style='padding: 10px;'>$33,500.00</td>
-<td style='padding: 10px;'>$30,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (120 Users)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,500.00</td>
-<td style='padding: 10px;'>$32,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (200 Users)</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ## Vendor Information
 
- Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
+ Company name:TIME ACCESS INTERNATIONAL<br>Web URL: https://www.timeaccess.sg/hr-software/time-access-hris-hrms <br>Contact Hotline: +6591729133 <br>Contact Email: info@timeaccess.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
