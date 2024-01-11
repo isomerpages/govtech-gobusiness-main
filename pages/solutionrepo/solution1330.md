@@ -1,15 +1,15 @@
 ---
-title: 'Websentials Ecommerce Web Development'
+title: 'DM Semantic Client Acquisition Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1330
 ---
 
-## Websentials Ecommerce Web Development
+## DM Semantic Client Acquisition Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Websentials' eCommerce package is developed using PHP-CI which provides enhanced customisation capabilities and optimised load time. It provides seamless management of the eCommerce website with easy to use interface and customised modules online management. The website includes built-in features such as data visualisation, product sales statistics and marketing and engagement tools. Websentials' eCommerce solution is highly suitable for any business with simple or complex operations that are lo
+Semantic Client Acquisition helps local SMEs acquire clients predictably and at scale with 7 essential components - starting with in-depth competitor analysis and an irresistible marketing message for market differentiation. TRES offers video scripting/production and a finely tuned sales funnel to filter high-quality prospects from various ad platforms. Achieve the lowest cost per acquisition with unlimited ad copies and optimisation and propel sales to new heights with TRES' sales training.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,27 @@ Websentials' eCommerce package is developed using PHP-CI which provides enhanced
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 2</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM (YouTube)  + SMM (Facebook) [3 Months]</td>
+<td style='padding: 10px;'>$10,000.02</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Lite 1</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WebCommerce Enterprise</td>
-<td style='padding: 10px;'>$9,040.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Websentials_Websentials_Ecommerce_Web_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>	 Package 2 - SMM (YouTube)  + SMM (Facebook) [3 Months] + Sales Training (& Webinar Slides)</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TRESClientAcquisition_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:Websentials Pte Ltd<br>Web URL: www.websentials.com.sg<br>Contact Hotline: 6518 9758<br>Contact Email: Enquiry@websentials.com.sg 
+ Company Name: TRES Client Acquisition Pte Ltd<br>Web URL: https://tres.sg <br>Contact Hotline: +6596187419 <br>Contact Email: jiali@tres.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

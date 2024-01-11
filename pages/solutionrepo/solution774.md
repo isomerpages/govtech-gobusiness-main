@@ -1,15 +1,15 @@
 ---
-title: 'Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems'
+title: 'Packing, delivery, shipment management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution774
 ---
 
-## Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems
+## Packing, delivery, shipment management systems
 
 ## Overview
 
 **Description**
 
-Equipment that allows automation when packing produce or automatic devices for measuring the amount of produce (e.g. number of fish).
+Equipment that allows automation when packing, delivery or shipment of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Equipment that allows automation when packing produce or automatic devices for m
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery, shipment management systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

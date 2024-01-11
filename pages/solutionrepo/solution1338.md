@@ -1,15 +1,15 @@
 ---
-title: 'CLIO (packaged with LTP)'
+title: 'DM RHAD Digital Marketing Package Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1338
 ---
 
-## CLIO (packaged with LTP)
+## DM RHAD Digital Marketing Package Version 1
 
 ## Overview
 
 **Description**
 
-Clio Manage is a cloud-based practice management system that automates law firm matter management processes from matter onboarding to time recording and billing, to document and email management. Its comprehensive features, ease of use, integrations with other leadings apps such as Lupl (LTP), Xero, Outlook, NetDocs, OneDrive), unlimited storage, makes it a great fit for modern law firms looking for an affordable integrated platform to drive efficiency, mobility and profitability.
+With five different Digital Marketing Packages, RHAD helps businesses enhance brand awareness, website traffic, and revenues. Start reaching out to key target audiences with a strong desire to buy using in-depth research and a strategic marketing plan customized to the needs of every business and industry. RHAD's packages are designed to assist SMEs to kickstart and accelerate digital marketing presence and are supported by a team of experienced and passionate professionals.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Clio Manage is a cloud-based practice management system that automates law firm 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package A: 1 Clio Manage + Xero Standard</td>
-<td style='padding: 10px;'>$4,396.00</td>
-<td style='padding: 10px;'>$3,837.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Web Starter (3 months)</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package B : 2 Clio Manage + Xero Standard</td>
-<td style='padding: 10px;'>$6,872.00</td>
-<td style='padding: 10px;'>$6,153.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Google Search Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package C : 3 Clio Manage + Xero Standard</td>
-<td style='padding: 10px;'>$9,708.00</td>
-<td style='padding: 10px;'>$8,669.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Social Media Starter (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package D : 4 Clio Manage + Xero Standard</td>
-<td style='padding: 10px;'>$12,184.00</td>
-<td style='padding: 10px;'>$10,985.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PPC Starter (6 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>2Y CLIO-Xero Package E : 5 Clio Manage + Xero Standard</td>
-<td style='padding: 10px;'>$14,480.00</td>
-<td style='padding: 10px;'>$13,201.50</td>
-<td style='padding: 10px;'><a href='/images/psg/Bizibody_Technology_with_LTP_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Marketing (3 months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/RHAD_DM_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Bizibody Technology Pte Ltd<br>Web URL: www.bizibody.biz <br>Contact Hotline: 62362846 <br>Contact Email: info@bizibody.biz <br>
+ Web URL: https://rhad.agency/ <br><br>Contact Hotline: 66791003 <br><br>Contact Email: hello@rhad.agency <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

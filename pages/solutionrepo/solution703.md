@@ -1,15 +1,15 @@
 ---
-title: 'Automatic Seed Plug Transplanter'
+title: 'Dehusking Machine/ Shaker'
 permalink: /productivity-solutions-grant/solutionrepo/solution703
 ---
 
-## Automatic Seed Plug Transplanter
+## Dehusking Machine/ Shaker
 
 ## Overview
 
 **Description**
 
-A machine that completes transplantation.
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that completes transplantation.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Plug Transplanter</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dehusking Machine/ Shaker</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

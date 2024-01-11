@@ -1,22 +1,17 @@
 ---
-title: 'Probing System'
+title: 'Automatic Flange Spreader'
 permalink: /productivity-solutions-grant/solutionrepo/solution1476
 ---
 
-## Probing System
+## Automatic Flange Spreader
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
+The automatic flange spreader aids the process of separating two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-Cost of equipment capped at $37,500 per unit 
+Cost of equipment capped at $4,000 per unit 
 
 ## Solution Packages Option(s)
 
@@ -27,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Work piece and tool setting probe has approach directions +/-x, +/-y, and -z, and a repeatability of <=1um 2 sigma<br><br>2. Unit includes a software to program probe measurement pathway, provide reports, and generate QC issue alerts</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Flange Spreader</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>1. Min. spreading force: 140 KN <br><br>2. ATEX certified or IECEX certified<br><br>3. Equipment can include 1 battery pack or power unit per equipment</td>
 </tr>
 </table>
 

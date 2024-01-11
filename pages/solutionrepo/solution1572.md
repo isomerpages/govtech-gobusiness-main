@@ -1,15 +1,16 @@
 ---
-title: 'Xero Cloud Accounting Software'
+title: 'MEGAPOS Beauty & Wellness'
 permalink: /productivity-solutions-grant/solutionrepo/solution1572
 ---
 
-## Xero Cloud Accounting Software
+## MEGAPOS Beauty & Wellness
 
 ## Overview
 
 **Description**
 
-Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
+MEGAPOS Beauty & Wellness management system is a powerful software that streamlines the selling and tracking of products, services & courses. It manages customers, staffs and appointments for the beauty & wellness industry such as hair salons, spas, massage centers, TCM clinics, etc.
+Designed and developed in Singapore, MEGAPOS Beauty & Wellness comes with sleek hardware, easy-to-use software, and responsive after-sales service. It is a cost-effective solution that can be used for long term.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,48 @@ Xero is an online accounting software for small businesses that lets you share a
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (Xero Premier full package with consultation)</td>
-<td style='padding: 10px;'>$5,698.01</td>
-<td style='padding: 10px;'>$5,678.99</td>
-<td style='padding: 10px;'><a href='/images/psg/361Degree_Xero_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>BASIC</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'>$2,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (Xero Premier Pro)</td>
-<td style='padding: 10px;'>$10,170.00</td>
-<td style='padding: 10px;'>$10,151.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361Degree_Xero_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>STANDARD</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (Xero Premier with Training)</td>
-<td style='padding: 10px;'>$2,499.00</td>
-<td style='padding: 10px;'>$2,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361Degree_Xero_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'>$6,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (Xero Premier with Setup)</td>
-<td style='padding: 10px;'>$2,099.00</td>
-<td style='padding: 10px;'>$2,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361Degree_Xero_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'>$9,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E (Xero Subscription only)</td>
-<td style='padding: 10px;'>$900.00</td>
-<td style='padding: 10px;'>$881.00</td>
-<td style='padding: 10px;'><a href='/images/psg/361Degree_Xero_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>GROW+ MAX</td>
+<td style='padding: 10px;'>$13,360.00</td>
+<td style='padding: 10px;'>$13,360.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_Megapos_01012024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: 361 Degree Consultancy Pte Ltd<br>Web URL: https://361dc.com/xero-cloud-accounting/ <br>Contact Hotline: 65157906 <br>Contact Email: enquiry@361dc.com <br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

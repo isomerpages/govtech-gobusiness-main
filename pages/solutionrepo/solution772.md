@@ -1,15 +1,15 @@
 ---
-title: 'Tree Diagnostic equipment'
+title: 'Grow lights'
 permalink: /productivity-solutions-grant/solutionrepo/solution772
 ---
 
-## Tree Diagnostic equipment
+## Grow lights
 
 ## Overview
 
 **Description**
 
-Tree Diagnostic equipment e.g. LiDAR scanner, tomograph, resistograph.
+Lightings of special wavelength for culturing or growing of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Tree Diagnostic equipment e.g. LiDAR scanner, tomograph, resistograph.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree Diagnostic equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Grow lights</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
