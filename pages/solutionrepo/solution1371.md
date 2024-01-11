@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1371
 
 **Description**
 
-CalendarOne CRM is a cloud based solution that integrates and automates the entire customer-related business process. It is a centralize platform that enable businesses to share, track, administer and manage their clients’ engagement and experience. The solution enables businesses to gain deeper insight into their clients, thus helping them identify critical trends, retain clients and increase sales.
+CalendarOne CRM is a cloud based solution that integrates and automates the entire customer-related business process. It is a centralize platform that enable businesses to share, track, administer and manage their clients' engagement and experience. The solution enables businesses to gain deeper insight into their clients, thus helping them identify critical trends, retain clients and increase sales.
 
 ## Solution Packages Option(s)
 

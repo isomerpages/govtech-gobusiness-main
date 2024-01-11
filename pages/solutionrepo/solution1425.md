@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1425
 
 **Description**
 
-LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company’s strategy and we are also able to work with you beyond your Human Capital Development needs.
+LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
 
 ## Solution Packages Option(s)
 

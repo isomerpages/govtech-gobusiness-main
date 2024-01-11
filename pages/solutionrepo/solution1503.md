@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1503
 
 **Description**
 
-NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centric CRM that allows the company’s sales teams to track leads, close opportunities and get accurate forecasts. Schedule activities based on the company sales scripts: calls, meetings, mailing, and quotations. Organize work based on scheduled next actions. Generate leads and opportunities via events and email marketing campaigns.
+NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centric CRM that allows the company's sales teams to track leads, close opportunities and get accurate forecasts. Schedule activities based on the company sales scripts: calls, meetings, mailing, and quotations. Organize work based on scheduled next actions. Generate leads and opportunities via events and email marketing campaigns.
 
 ## Solution Packages Option(s)
 

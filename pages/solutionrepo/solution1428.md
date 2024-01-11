@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1428
 
 **Description**
 
-WTW is one of the world’s largest human resources advisory firms. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others.  From a sectoral expertise perspective, we advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc. 
+WTW is one of the world's largest human resources advisory firms. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others.  From a sectoral expertise perspective, we advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc. 
 
 ## Solution Packages Option(s)
 

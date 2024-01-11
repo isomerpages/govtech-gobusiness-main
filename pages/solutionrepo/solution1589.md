@@ -1,15 +1,15 @@
 ---
-title: 'CCH® ProSystem fx® Engagement'
+title: 'CCH ProSystem fx Engagement'
 permalink: /productivity-solutions-grant/solutionrepo/solution1589
 ---
 
-## CCH® ProSystem fx® Engagement
+## CCH ProSystem fx Engagement
 
 ## Overview
 
 **Description**
 
-Drive quality and efficiency for your firm’s engagements with our award-winning audit solutions. Integrated with Audit Data Analytics and other modules support all engagements of Small and Medium Accounting Practices. 
+Drive quality and efficiency for your firm's engagements with our award-winning audit solutions. Integrated with Audit Data Analytics and other modules support all engagements of Small and Medium Accounting Practices. 
 
 Teammate Analytics help SMPs to ensure governance, risk mitigation, and compliance with standards from ISCA while also keeping the focus on auditor judgment and delivering deep insights through ADA. Flexible enough for both simple and complex audits, or engagements of any type.
 

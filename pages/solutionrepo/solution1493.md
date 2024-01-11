@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1493
 
 **Description**
 
-Smartcom provides Island-Wide Walkie talkie solution along with Singapore’s largest telecommunication network provider. By using TASSTA, our Push-To-Talk (PTT) solution follows the international 3GPP standard to ensure that your communication is always up and running. It provides a full package of PTT communication, voice recording, GPS location and indoor tracking, asset tracking and more. It also provides smart devices that can incorporate with existing applications such as Haulio and CDAS.
+Smartcom provides Island-Wide Walkie talkie solution along with Singapore's largest telecommunication network provider. By using TASSTA, our Push-To-Talk (PTT) solution follows the international 3GPP standard to ensure that your communication is always up and running. It provides a full package of PTT communication, voice recording, GPS location and indoor tracking, asset tracking and more. It also provides smart devices that can incorporate with existing applications such as Haulio and CDAS.
 
 ## Solution Packages Option(s)
 

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution858
 
 **Description**
 
-Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME’s digital strategy. iFoundries offers one of the most effective digital marketing solutions in the market, managed by experienced digital marketing specialists to help achieve your digital marketing objectives fast.
+Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most effective digital marketing solutions in the market, managed by experienced digital marketing specialists to help achieve your digital marketing objectives fast.
 
 ## Solution Packages Option(s)
 

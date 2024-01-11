@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1219
 
 **Description**
 
-WooCommerce is an open-source & customizable eCommerce platform developed in Wordpress CMS. By May 2023, it’s estimated that more than 6.5 million websites worldwide are powered by Woocommerce.
+WooCommerce is an open-source & customizable eCommerce platform developed in Wordpress CMS. By May 2023, it's estimated that more than 6.5 million websites worldwide are powered by Woocommerce.
 WooCommerce is  friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing, reporting and shipping integration. Apart from physical products, it allows merchants to sell digital products, subscriptions, appointments, and much more.
 
 ## Solution Packages Option(s)

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1400
 
 **Description**
 
-TAM helps business owners double triple their ROI by navigating the challenging digital world. Having worked with over 120 brands and digitalised over 60 businesses across a variety of industries - TAM helps SMEs get their business and brand seen by the right audiences online, improve brand’s social engagement, and double triple their ROI and sales through quality social content, trendy graphic designs, engaging content writing and more.
+TAM helps business owners double triple their ROI by navigating the challenging digital world. Having worked with over 120 brands and digitalised over 60 businesses across a variety of industries - TAM helps SMEs get their business and brand seen by the right audiences online, improve brand's social engagement, and double triple their ROI and sales through quality social content, trendy graphic designs, engaging content writing and more.
 
 ## Solution Packages Option(s)
 

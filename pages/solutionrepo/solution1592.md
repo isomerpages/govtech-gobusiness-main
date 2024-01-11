@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1592
 
 **Description**
 
-Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry’s digitalization.
+Used by tax professionals for over 10 years and an easy-to-use yet comprehensive Singapore Corporate Tax solution. SINGTAX Corporate empowers tax personnel to work smarter and more efficiently resulting in productivity increase of up to 50% or more. Able to e-file Form C-S seamlessly from within the software, SINGTAX Corporate currently supports IRAS #SeamlessFilingFromSoftware (#SFFS) for Tax Agents initiative as part of the accounting industry's digitalization.
 
 ## Solution Packages Option(s)
 

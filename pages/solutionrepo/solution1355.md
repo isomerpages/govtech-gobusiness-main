@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1355
 
 **Description**
 
-Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers’ orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
+Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
 
 ## Solution Packages Option(s)
 

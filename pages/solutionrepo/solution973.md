@@ -1,9 +1,9 @@
 ---
-title: 'Enable Consulting HRSS – Payroll Outsourcing'
+title: 'Enable Consulting HRSS - Payroll Outsourcing'
 permalink: /productivity-solutions-grant/solutionrepo/solution973
 ---
 
-## Enable Consulting HRSS – Payroll Outsourcing
+## Enable Consulting HRSS - Payroll Outsourcing
 
 ## Overview
 

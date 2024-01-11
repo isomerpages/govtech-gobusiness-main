@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1479
 
 **Description**
 
-Autonomous robots that aid in food delivery or collection of soiled crockery to and from customers’ tables in an F&B outlet. Robotic servers are pre-programmed and mapped according to the store layout. They leverage on technologies such as VSLAM (Visual Simultaneous Localization and Mapping), LiDAR (Light Detection and Ranging), 3D obstacle avoidance etc.
+Autonomous robots that aid in food delivery or collection of soiled crockery to and from customers' tables in an F&B outlet. Robotic servers are pre-programmed and mapped according to the store layout. They leverage on technologies such as VSLAM (Visual Simultaneous Localization and Mapping), LiDAR (Light Detection and Ranging), 3D obstacle avoidance etc.
 
 Cost of equipment capped at $15,500 per unit
 

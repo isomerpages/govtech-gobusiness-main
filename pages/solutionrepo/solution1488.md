@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1488
 
 **Description**
 
-A powerful accounting and financial management solution that allows SME’s to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
+A powerful accounting and financial management solution that allows SME's to maximise operational efficiencies, enhance business intelligence and drive productivity. Sage 300 and Sage 300Cloud brings data visibility and real-time access across an entire business without the costs or complexity of traditional ERP software.
 
 ## Solution Packages Option(s)
 

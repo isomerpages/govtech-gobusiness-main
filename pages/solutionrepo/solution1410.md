@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1410
 
 **Description**
 
-Powered by Morphisec’s Automated Moving Defense technology, EQCOMS’ Managed Security Service delivers instant pre-breach proactive protection against the most sophisticated cyberattacks efficiently without the need for prior knowledge. AMTD stops ransomware, supply chain attacks, zero-days, and other advanced attacks. Paired with our 24/7 monitoring center, we ensure customers sleep better at night knowing they’re protected.
+Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Security Service delivers instant pre-breach proactive protection against the most sophisticated cyberattacks efficiently without the need for prior knowledge. AMTD stops ransomware, supply chain attacks, zero-days, and other advanced attacks. Paired with our 24/7 monitoring center, we ensure customers sleep better at night knowing they're protected.
 
 ## Solution Packages Option(s)
 

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1261
 
 **Description**
 
-Rogue Digital is a performance-driven digital marketing agency with a track record in maximising their clients’ digital marketing return on investment while reducing cost-inefficiencies.
+Rogue Digital is a performance-driven digital marketing agency with a track record in maximising their clients' digital marketing return on investment while reducing cost-inefficiencies.
 
 Their team of experienced digital strategists have worked on campaigns across various industries, increasing sales and inquiries through effective digital marketing. Some of the brands they have worked with include Union Power, Carousell, Violet Oon, Brother International, Far East Organisation, SUSS and NTU.
 

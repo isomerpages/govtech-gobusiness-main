@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1550
 
 **Description**
 
-Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper – so everyone is up to speed. It’s fast and simple to work together in the cloud, so you can make smart business decisions when it matters most – right now.
+Xero is an online accounting software for small businesses that lets you share access to your latest business numbers with your team, accountant and bookkeeper - so everyone is up to speed. It's fast and simple to work together in the cloud, so you can make smart business decisions when it matters most - right now.
 
 ## Solution Packages Option(s)
 
