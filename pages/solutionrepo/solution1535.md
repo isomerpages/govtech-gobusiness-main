@@ -1,15 +1,15 @@
 ---
-title: 'WooCommerce Design & Development'
+title: 'CSG - Autodesk Collection'
 permalink: /productivity-solutions-grant/solutionrepo/solution1535
 ---
 
-## WooCommerce Design & Development
+## CSG - Autodesk Collection
 
 ## Overview
 
 **Description**
 
-Techzu's WooCommerce Design & Development supports SMEs in setting up eCommerce websites. Benefit from a professionally crafted website to establish an online sales channel, drive 24/7 sales locally or globally, and automate operations through integrations like Xero & Quickbooks. Key features include PayNow, website analysis, inventory management, and customer loyalty tools. The eCommerce is designed to be user-friendly and doesn't require any technical expertise to be self-managed.
+The AEC Collection provides designers, engineers, and contractors a set of BIM and CAD tools supported by a cloud-based common data environment that facilitates project delivery from early-stage design through to construction.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,27 @@ Techzu's WooCommerce Design & Development supports SMEs in setting up eCommerce 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold</td>
-<td style='padding: 10px;'>$5,160.00</td>
-<td style='padding: 10px;'>$2,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techzu_WooCommerce_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection - 1 Year</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Autodesk_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Diamond</td>
-<td style='padding: 10px;'>$7,080.00</td>
-<td style='padding: 10px;'>$2,640.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Techzu_WooCommerce_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AEC Collection Plus - 1 Year</td>
+<td style='padding: 10px;'>$4,300.00</td>
+<td style='padding: 10px;'>$2,390.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CSG_Autodesk_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: TECHZU ICHICODE PTE LTD<br>Web URL: https://techzu.co/web-design/ <br>Contact Hotline: 90263202 <br>Contact Email: hello@techzu.co <br>
+ Company Name: CSG Software Pte Ltd<br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

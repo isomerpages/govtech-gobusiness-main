@@ -1,18 +1,17 @@
 ---
-title: 'Automated Deep Fryer'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1459
 ---
 
-## Automated Deep Fryer
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
 
-Cost of equipment capped at $4,000 per unit 
-
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment capped at $4,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>1. Fully automated basket lifting process with adjustable temperature and timing controls<br>2. Well capacity to be at least 5L</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg<br>2. Robot has a minimum load surface of 650MM x 550MM.<br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
 </tr>
 </table>
 

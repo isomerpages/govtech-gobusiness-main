@@ -1,21 +1,22 @@
 ---
-title: 'Automated Dishwasher'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1454
 ---
 
-## Automated Dishwasher
+## Probing System
 
 ## Overview
 
 **Description**
 
-The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. 
-- A hood-type machine come with a vertical lift hood 
-- A front opening dishwasher is equipped for installation in freestanding or undercounter-type operations 
+A probing system consists of the following attached to CNC machining center:
 
-Cost of equipment capped at $5,000 per unit
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
 
-
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -26,9 +27,9 @@ Cost of equipment capped at $5,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dishwasher</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>1. Minimum water tank capacity of 15 litres</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Work piece and tool setting probe has approach directions +/-x, +/-y, and -z, and a repeatability of <=1um 2 sigma<br><br>2. Unit includes a software to program probe measurement pathway, provide reports, and generate QC issue alerts</td>
 </tr>
 </table>
 

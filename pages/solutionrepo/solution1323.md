@@ -1,15 +1,15 @@
 ---
-title: 'DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2'
+title: 'Cococart Storefront Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
-## DM MediaOne SEO | SEM | SMM | SMA Digital Marketing Boost Up Version 2
+## Cococart Storefront Version 1.0
 
 ## Overview
 
 **Description**
 
-Businesses benefit greatly from MediaOne's more than a decade of success in digital marketing. The consultancy offers comprehensive solutions, including SEO, SEM, Social Media Marketing (SMM) and Advertising (SMA). With extensive experience in complex campaigns for large enterprises, MediaOne has customised these PSG packages specially for SMEs. This enables businesses to effectively maximise their digital presence, achieve marketing goals and ROI, and effectively connect with their audience.
+Cococart is empowering over 40,000 local entrepreneurs in more than 100 countries to make online business simple, easy, and delightful. Cococarts no-code, no-learning curve platform enables businesses to create beautiful storefronts, manage orders, and launch marketing promotions on their own or with Coco+, Cococarts signature managed marketing program.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,27 @@ Businesses benefit greatly from MediaOne's more than a decade of success in digi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (6 months)</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'>$8,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Business Package</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (6 months)</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'>$9,988.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (6 months)</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D SMM SMA (2 months)</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package E SMM SEO (6 months)</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MediaOne_Business_Group_Digital_Marketing_Version_2_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VIP Package</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: MediaOne Business Group Pte Ltd <br>Web URL: mediaone.co <br>Contact Hotline: 69657008<br>Contact Email: contact@mediaone.co <br>
+ Company Name: Cococart Pte. Ltd.<br>Web URL: https://cococart.co <br>Contact Hotline: +18336202626 <br>Contact Email: business@cococart.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

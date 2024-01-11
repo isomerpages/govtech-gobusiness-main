@@ -1,15 +1,15 @@
 ---
-title: 'Mobile Elevating Work Platform/ Boom Lift/ Spider Lift'
+title: 'Tree Diagnostic equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution766
 ---
 
-## Mobile Elevating Work Platform/ Boom Lift/ Spider Lift
+## Tree Diagnostic equipment
 
 ## Overview
 
 **Description**
 
-A mobile mechanical device used to provide temporary access for people or equipment to perform tasks which are at inaccessible areas and heights.
+Tree Diagnostic equipment e.g. LiDAR scanner, tomograph, resistograph.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A mobile mechanical device used to provide temporary access for people or equipm
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Mobile Elevating Work Platform/ Boom Lift/ Spider Lift</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree Diagnostic equipment</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

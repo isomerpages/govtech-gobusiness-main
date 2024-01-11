@@ -1,19 +1,20 @@
 ---
-title: 'Automated Noodle Boiler'
+title: 'Robotic arms'
 permalink: /productivity-solutions-grant/solutionrepo/solution1458
 ---
 
-## Automated Noodle Boiler
+## Robotic arms
 
 ## Overview
 
 **Description**
 
-The automated noodle boiler automates the noodle cooking process. 
+Robotic arms that are:
+- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
+- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
+- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
 
-Cost of equipment capped at $10,000 per unit 
-
-
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +25,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Noodle Boiler</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Able to pre-set timings for noodle baskets to be automatically lifted out of the boiler.<br><br>2. Minimally capacity of 3 noodle baskets.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
 </tr>
 </table>
 

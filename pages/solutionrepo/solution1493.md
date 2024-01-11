@@ -1,30 +1,60 @@
 ---
-title: 'Automatic Nut Splitter'
+title: 'Tassta'
 permalink: /productivity-solutions-grant/solutionrepo/solution1493
 ---
 
-## Automatic Nut Splitter
+## Tassta
 
 ## Overview
 
 **Description**
 
-The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
-
-Cost of equipment capped at $7,500 per unit 
+Smartcom provides Island-Wide Walkie talkie solution along with Singapore's largest telecommunication network provider. By using TASSTA, our Push-To-Talk (PTT) solution follows the international 3GPP standard to ensure that your communication is always up and running. It provides a full package of PTT communication, voice recording, GPS location and indoor tracking, asset tracking and more. It also provides smart devices that can incorporate with existing applications such as Haulio and CDAS.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 10 Licenses (1 Year Subscription)</td>
+<td style='padding: 10px;'>$9,480.00</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 30 Licenses (1 Year Subscription)</td>
+<td style='padding: 10px;'>$27,440.00</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 50 Licenses (1 Year Subscription)</td>
+<td style='padding: 10px;'>$45,400.00</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Samsung XCover5 - 30 Licenses (1 Year Subscription)</td>
+<td style='padding: 10px;'>$31,940.00</td>
+<td style='padding: 10px;'>$9,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Samsung XCover5 - 50 Licenses (1 Year Subscription)</td>
+<td style='padding: 10px;'>$52,900.00</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -32,6 +62,10 @@ Cost of equipment capped at $7,500 per unit
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Smartcom Pte Ltd<br>Web URL: https://www.smartcom.com.sg/ <br>Contact Hotline: 62424246 <br>Contact Email: admin@smartcom.com.sg <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

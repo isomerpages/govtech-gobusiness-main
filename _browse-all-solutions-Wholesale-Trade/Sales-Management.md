@@ -32,19 +32,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative E-World Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution395' target='_blank'>MEVO DMS 8.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution390' target='_blank'>MEVO DMS 8.3</a><br></td>
 <td>MEVO Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution659' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution653' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1094' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
 <td>Keep Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1099' target='_blank'>EzyProcure Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1093' target='_blank'>EzyProcure Version 2.0</a><br></td>
 <td>Singapore E-Business Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Remote Monitoring e.g. video cameras, AI systems, automatic feeder'
+title: 'Smart irrigation systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution775
 ---
 
-## Remote Monitoring e.g. video cameras, AI systems, automatic feeder
+## Smart irrigation systems
 
 ## Overview
 
 **Description**
 
-Computer systems that perform tasks normally requiring human intelligence. For example, remote monitoring and controlling of processes.
+A system and application of watering devices and instrumentation used to control the amount of water for plants or shrubs.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Computer systems that perform tasks normally requiring human intelligence. For e
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Remote Monitoring e.g. video cameras, AI systems, automatic feeder</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart irrigation systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
