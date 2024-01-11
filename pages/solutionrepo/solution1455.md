@@ -1,18 +1,23 @@
 ---
-title: 'High Speed Oven'
+title: 'Probing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1455
 ---
 
-## High Speed Oven
+## Probing System
 
 ## Overview
 
 **Description**
 
-A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
+A probing system consists of the following attached to CNC machining center:
 
-Cost of equipment capped at $10,000 per unit 
+Work Piece Touch Probe: Work piece measurement/referencing 
+Tool Setting Probe: Tool setting, length, radius, breakage detection
+Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
+Implementation: Equipment configuration, training
 
+
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -23,9 +28,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>High Speed Oven</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Unit is programmed to combine different cooking technologies (e.g. convection, microwave, impingement technology) to achieve rapid cooking.<br><br>2. Minimum wattage/voltage: 2,200W/170V</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Work piece and tool setting probe has approach directions +/-x, +/-y, and –z, and a repeatability of =1um 2 sigma<br><br>2. Unit includes a software to program probe measurement pathway, provide reports, and generate QC issue alerts</td>
 </tr>
 </table>
 

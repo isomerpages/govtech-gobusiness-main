@@ -1,20 +1,17 @@
 ---
-title: 'Robotic arms'
+title: 'Autonomous Robotic Servers'
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
-## Robotic arms
+## Autonomous Robotic Servers
 
 ## Overview
 
 **Description**
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+Autonomous robots that aid in food delivery or collection of soiled crockery to and from customers’ tables in an F&B outlet. Robotic servers are pre-programmed and mapped according to the store layout. They leverage on technologies such as VSLAM (Visual Simultaneous Localization and Mapping), LiDAR (Light Detection and Ranging), 3D obstacle avoidance etc.
 
-Cost of equipment capped at $37,500 per unit
+Cost of equipment capped at $15,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -25,9 +22,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic arms</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Robotic arms with a minimum of 2- axis.<br><br>2. Minimum payload of 1kg.<br><br>3. Unit includes a programmable software tool</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Robotic Servers</td>
+<td style='padding: 10px;'>$15,500.00</td>
+<td style='padding: 10px;'>1. Solution must be able to automate the process of food delivery and/or collection of crockery<br>2. Capacity load of at least 20kg<br>3. Speed of at least 0.5m/second<br>4. Hardware, software, set up (i.e mapping and programming) and training costs can all be included</td>
 </tr>
 </table>
 

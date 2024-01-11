@@ -1,15 +1,15 @@
 ---
-title: 'TIME ACCESS HRMS Version V2.0'
+title: 'Tisch Global - Xero Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution592
 ---
 
-## TIME ACCESS HRMS Version V2.0
+## Tisch Global - Xero Accounting
 
 ## Overview
 
 **Description**
 
-TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 years of market experience. The Integrated Cloud Solution combines HR modules and Security Hardware in a single solution. The solution allows SMEs and their employees to manage Attendance, Payroll, Leave, Claims, Benefits and Appraisal matters using Mobile App with Employee Self Service Portal on the go for access to all modules. The solution can be further integrated to any other Business Software Solution.
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (20 Users)</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$779.00</td>
+<td style='padding: 10px;'>$717.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (45 Users)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
+<td style='padding: 10px;'>$1,804.00</td>
+<td style='padding: 10px;'>$1,742.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (75 Users)</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$2,929.00</td>
+<td style='padding: 10px;'>$2,867.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (120 Users)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
+<td style='padding: 10px;'>$6,138.00</td>
+<td style='padding: 10px;'>$6,057.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (200 Users)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Timeaccess_TIMEACCESSHRMS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
+<td style='padding: 10px;'>$7,388.00</td>
+<td style='padding: 10px;'>$7,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ TIME ACCESS HRMS V2.0 is a Human Resource Management Software developed from 28 
 
 ## Vendor Information
 
- Company name:TIME ACCESS INTERNATIONAL<br>Web URL: https://www.timeaccess.sg/hr-software/time-access-hris-hrms <br>Contact Hotline: +6591729133 <br>Contact Email: info@timeaccess.sg 
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: matthew@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

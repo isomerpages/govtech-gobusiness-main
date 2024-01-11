@@ -1,15 +1,15 @@
 ---
-title: 'EzyProcure Version 2.0'
+title: 'Bitdefender GravityZone Business Security Premium'
 permalink: /productivity-solutions-grant/solutionrepo/solution1099
 ---
 
-## EzyProcure Version 2.0
+## Bitdefender GravityZone Business Security Premium
 
 ## Overview
 
 **Description**
 
-EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
+GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,49 @@ EzyProcure is a one-stop procure-to-pay digital business solution which acts as 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-procurement system for Wholesalers/Suppliers</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_EzyProcure_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Licenses</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'>$785.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part1.pdf
+                                                                                 ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Licenses</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'>$1,922.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Licenses</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'>$3,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Licenses</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'>$6,171.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 Licenses</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'>$11,532.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name :Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com <br>
+ Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

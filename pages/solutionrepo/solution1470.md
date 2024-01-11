@@ -1,20 +1,17 @@
 ---
-title: 'Dough Sheeter'
+title: 'Automatic Nut Splitter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
-## Dough Sheeter
+## Automatic Nut Splitter
 
 ## Overview
 
 **Description**
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using  a hammer and chisel. 
 
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
-
-Cost of equipment capped at $20,000 per unit
-
+Cost of equipment capped at $7,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -25,9 +22,9 @@ Cost of equipment capped at $20,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>1. Machine should be able to produce doughs of various thickness</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
 </tr>
 </table>
 

@@ -1,15 +1,15 @@
 ---
-title: 'iLOGON (iWMS)'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1093
 ---
 
-## iLOGON (iWMS)
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iWMS is an operational centric and easy to implement solution, design to gives the flexibility to add or enhance functionalities configured to growing business needs. The solution supports barcodes, RFID and IOT technology to capture information. Its' process flows and control procedures are refined from years of experience in implementing and managing districentres and hubs for the Chemical, Cold Chain, FMCG, Electronics, oil & Gas, Healthcare, and Bonded Goods Industries.
+EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/KEYfields_iLOGON_iWMS_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-procurement system for Wholesalers/Suppliers</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_EzyProcure_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ KEYfields' iLOGON iWMS is an operational centric and easy to implement solution,
 
 ## Vendor Information
 
- Company name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br>Contact Hotline: 68427886 <br>Contact Email: info@keyfields.com 
+ Company Name :Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

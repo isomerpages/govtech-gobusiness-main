@@ -1,15 +1,15 @@
 ---
-title: 'Robotic/ Wireless/ Autonomous Mower'
+title: 'Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.'
 permalink: /productivity-solutions-grant/solutionrepo/solution767
 ---
 
-## Robotic/ Wireless/ Autonomous Mower
+## Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.
 
 ## Overview
 
 **Description**
 
-A mobile grass/lawn cutting equipment , either automated or semi/fully controlled by a person, that trims, cuts grass or other vegetation that grows on the ground.
+Equipment used in cleaning so as to destroy bacterial. Also include high pressure washer or other cleaning machines that provide better efficiency as compared to manual cleaning and lightings of special wavelength for culturing of produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A mobile grass/lawn cutting equipment , either automated or semi/fully controlle
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robotic/ Wireless/ Autonomous Mower</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

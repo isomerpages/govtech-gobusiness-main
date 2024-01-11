@@ -1,18 +1,17 @@
 ---
-title: 'Form Fill Seal Machine'
+title: 'Laser Geometric Alignment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution1467
 ---
 
-## Form Fill Seal Machine
+## Laser Geometric Alignment System
 
 ## Overview
 
 **Description**
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+Geometric alignment and measurement are needed for shaft alignment, line bore applications, flatness/straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straight edge or use of dial indicators, which are inaccurate and time consuming. Laser geometric alignment systems are quick and easy to deploy, resulting in consistent and accurate results with minimal rework.
 
-Cost of equipment  capped at $20,500 per unit 
+Cost of equipment capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -23,9 +22,9 @@ Cost of equipment  capped at $20,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'>1. Machine has temperature control, to control heat applied to film<br><br>2. Machine has speed control, to control duration of seal</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Laser Geometric Alignment System</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Equipment must consist of alignment capabilities for various measurement types and solving alignment problems.<br><br>2. Equipment includes alignment software and functions</td>
 </tr>
 </table>
 

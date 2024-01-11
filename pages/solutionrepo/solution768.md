@@ -1,15 +1,15 @@
 ---
-title: 'Sensors for measurement'
+title: 'Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution768
 ---
 
-## Sensors for measurement
+## Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems
 
 ## Overview
 
 **Description**
 
-A device which detects or measures a physical property and records, indicates, or otherwise responds to it e.g. grass height sensors.
+Equipment that allows automation when packing produce or automatic devices for measuring the amount of produce (e.g. number of fish).
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device which detects or measures a physical property and records, indicates, o
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sensors for measurement</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

@@ -1,19 +1,22 @@
 ---
-title: 'Planetary or Spiral Mixer'
+title: 'Digital Welding Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
-## Planetary or Spiral Mixer
+## Digital Welding Equipment
 
 ## Overview
 
 **Description**
 
-Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
-Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
-
-Cost of equipment capped at $10,000 per unit
+Cost of equipment  capped at $37,500 per unit
 
 ## Solution Packages Option(s)
 
@@ -24,9 +27,9 @@ Cost of equipment capped at $10,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>1. Machine has minimum bowl capacity of 20 liters<br>2. Machine has minimally 3 speed options for Planetary Mixer<br>3. Machine has minimally 2 speed options for Spiral Mixer<br>4. Machine has a minimum speed of 100rpm<br>5. Machine comes with bowl and minimum of 2 out of 3 tools</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital Welding Equipment </td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Consists of digital welding machines (hardware) and welding programme.<br><br>2. Minimum Current Output: Above 150A<br><br>3. MIG/MAG welding function</td>
 </tr>
 </table>
 

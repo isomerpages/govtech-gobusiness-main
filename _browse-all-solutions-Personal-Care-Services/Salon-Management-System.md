@@ -32,27 +32,27 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1585' target='_blank'>Studio Manager Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1563' target='_blank'>Studio Manager Version 8</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1590' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1568' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1594' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1572' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1599' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1577' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1604' target='_blank'>Beautec centralized version</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1582' target='_blank'>Beautec centralized version</a><br></td>
 <td>Beautec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1605' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1583' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>SEQUOIA PTE LTD</td>
 </tr>
 </table>

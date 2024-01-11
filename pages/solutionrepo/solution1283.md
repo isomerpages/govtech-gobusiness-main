@@ -1,15 +1,15 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'OS Store E-Commerce Version 3.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1283
 ---
 
-## DM SBC Digital Marketing Packages
+## OS Store E-Commerce Version 3.0
 
 ## Overview
 
 **Description**
 
-Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+Elevate one’s business to new heights with OS Store, an all-in-one web-based e-commerce solution tailored for small and medium-sized enterprises. The platform boasts a custom user interface, intelligent features, and plugins that deliver seamless retail management and an unparalleled user experience. OS Store encompasses essential elements ranging from cybersecurity and order fulfillment to customer segmentation, marketing, engagement, loyalty, competition, pricing, and inventory management.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,20 @@ Story Box Collective helps business owners increase their ROI by navigating the 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>OS Store E-Commerce - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Orfeostory_ECommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

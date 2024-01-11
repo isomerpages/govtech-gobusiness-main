@@ -1,15 +1,15 @@
 ---
-title: 'Automated Irrigation Equipment/ System'
+title: 'Underwater Camera'
 permalink: /productivity-solutions-grant/solutionrepo/solution737
 ---
 
-## Automated Irrigation Equipment/ System
+## Underwater Camera
 
 ## Overview
 
 **Description**
 
-Water efficient irrigation system (e.g. sprinkler)
+Underwater cameras to have closer monitoring of the livestock activity in water (like feeding) and early detection of abnormlities like disease so that prompt mitigating measures can be carried out. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Water efficient irrigation system (e.g. sprinkler)
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Underwater Camera </td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
