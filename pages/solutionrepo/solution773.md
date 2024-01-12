@@ -1,15 +1,15 @@
 ---
-title: 'Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.'
+title: 'Greenhouse systems, climate controlled management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution773
 ---
 
-## Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.
+## Greenhouse systems, climate controlled management systems
 
 ## Overview
 
 **Description**
 
-Equipment used in cleaning so as to destroy bacterial. Also include high pressure washer or other cleaning machines that provide better efficiency as compared to manual cleaning and lightings of special wavelength for culturing of produce.
+Systems for environmental modification and management that allows plants to be grown in certain climates or conditions.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Equipment used in cleaning so as to destroy bacterial. Also include high pressur
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Greenhouse systems, climate controlled management systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

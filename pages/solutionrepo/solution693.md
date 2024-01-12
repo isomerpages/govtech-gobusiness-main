@@ -1,15 +1,15 @@
 ---
-title: 'Aeration System/ Oxygenation System'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution693
 ---
 
-## Aeration System/ Oxygenation System
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

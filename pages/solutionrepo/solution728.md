@@ -1,15 +1,15 @@
 ---
-title: 'Sterilizer Equipment'
+title: 'Pest/ Disease Monitoring and Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution728
 ---
 
-## Sterilizer Equipment
+## Pest/ Disease Monitoring and Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
+A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A machine that eliminates harmful microorganisms and pathogens for healthy growt
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

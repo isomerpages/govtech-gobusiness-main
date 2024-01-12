@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Rainwater harvesting system and storage tank'
 permalink: /productivity-solutions-grant/solutionrepo/solution734
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Rainwater harvesting system and storage tank
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

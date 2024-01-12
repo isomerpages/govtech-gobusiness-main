@@ -1,15 +1,15 @@
 ---
-title: 'LED grow lights'
+title: 'Fish fry quarantine tank system'
 permalink: /productivity-solutions-grant/solutionrepo/solution739
 ---
 
-## LED grow lights
+## Fish fry quarantine tank system
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

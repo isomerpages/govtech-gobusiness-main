@@ -1,15 +1,15 @@
 ---
-title: 'Bitdefender GravityZone Business Security Premium'
+title: 'EPOS Integrated Digital Solution for F&B Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1105
 ---
 
-## Bitdefender GravityZone Business Security Premium
+## EPOS Integrated Digital Solution for F&B Version 2.0
 
 ## Overview
 
 **Description**
 
-GZ Business Security Premium safeguards organization from the full spectrum of sophisticated cyber threats. With more than 30 machine learning-driven security technologies, it provides multiple layers of defense that consistently outperforms conventional endpoint security, as proven in independent tests. A single-agent, single-console platform for physical, virtual, mobile, and cloud-based endpoints and email, minimizes management overhead while giving constant visibility and control.
+EPOS F&B Digital Ordering enables customers to scan a QR code to view the menu, place orders and make payment. Orders are automatically sent to the kitchen. This streamlined process enables an F&B to (i) improve manpower and efficiency and (ii) increase customer satisfaction. Built-in CRM and Rewards Program drive increased customer spend and retention, increasing sales and profitability. Integrations to Grab, FoodPanda, Xero, Quickkbooks, Shopify and Ecommerce further increase productivity.
 
 ## Solution Packages Option(s)
 
@@ -23,39 +23,38 @@ GZ Business Security Premium safeguards organization from the full spectrum of s
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Licenses</td>
-<td style='padding: 10px;'>$785.00</td>
-<td style='padding: 10px;'>$785.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part1.pdf
-                                                                                 ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Kiosk</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'>$5,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>25 Licenses</td>
-<td style='padding: 10px;'>$1,922.00</td>
-<td style='padding: 10px;'>$1,922.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'>$6,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>50 Licenses</td>
-<td style='padding: 10px;'>$3,310.00</td>
-<td style='padding: 10px;'>$3,310.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Digital Ordering and Kiosk</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'>$9,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>100 Licenses</td>
-<td style='padding: 10px;'>$6,171.00</td>
-<td style='padding: 10px;'>$6,171.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering</td>
+<td style='padding: 10px;'>$10,400.00</td>
+<td style='padding: 10px;'>$10,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>200 Licenses</td>
-<td style='padding: 10px;'>$11,532.00</td>
-<td style='padding: 10px;'>$11,532.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Juss_Desensitised_Annex_3_CAA_140722_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Digital Ordering and Kiosk</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Integrated_Digital_Sol_F_B_Ver2_0_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -65,7 +64,7 @@ GZ Business Security Premium safeguards organization from the full spectrum of s
 
 ## Vendor Information
 
- Web URL: www.jussolve.com <br><br>Contact Hotline: 66591811 <br><br>Contact Email: sales@jussolve.com <br><br>
+ Company name:EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

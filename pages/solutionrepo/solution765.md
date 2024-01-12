@@ -1,15 +1,15 @@
 ---
-title: 'Fleet Management System i.e. hardware'
+title: 'Tree management systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution765
 ---
 
-## Fleet Management System i.e. hardware
+## Tree management systems
 
 ## Overview
 
 **Description**
 
-Fleet management system consists of GPS tracking devices, cameras and other sensors installed in the vehicles to record and transmit data or provide constant, real-time updates into the exact location of fleet assets.
+Tree management systems or softwares such as the Remote Tree Measurement System (RTMS) that can interpret the data from scans produced during tree inspections.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Fleet management system consists of GPS tracking devices, cameras and other sens
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Management System i.e. hardware</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree management systems</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

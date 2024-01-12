@@ -56,35 +56,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Eurostop Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution366' target='_blank'>LFSUITE Version 6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution361' target='_blank'>LFSUITE Version 6</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution390' target='_blank'>MEGAPOS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution385' target='_blank'>MEGAPOS</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution437' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution432' target='_blank'>RavenPOS Enterprise Retail Business Suite Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution547' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution542' target='_blank'>SUNTOYO POS SOLUTION Version 8.1</a><br></td>
 <td>Suntoyo Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution644' target='_blank'>Shopcada POS Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution639' target='_blank'>Shopcada POS Version 2</a><br></td>
 <td>Webcada Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution646' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution640' target='_blank'>Weebo KYBIO POS Solution Version 3.3.4.4</a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution663' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution657' target='_blank'>EZYSALES RETAIL POS Version 1.0</a><br></td>
 <td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1528' target='_blank'>San5pos/Point of Sales</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1506' target='_blank'>San5pos/Point of Sales</a><br></td>
 <td>Sanfive Enterprises Pte Ltd</td>
 </tr>
 </table>

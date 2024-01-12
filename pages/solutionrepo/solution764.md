@@ -1,15 +1,15 @@
 ---
-title: 'Electric powered/hybrid landscape equipment'
+title: 'Tractor Hedge Cutter'
 permalink: /productivity-solutions-grant/solutionrepo/solution764
 ---
 
-## Electric powered/hybrid landscape equipment
+## Tractor Hedge Cutter
 
 ## Overview
 
 **Description**
 
-Electric powered/hybrid landscape equipment e.g. electric excavator, electric wood chipper, but excluding electric buggy and handheld tools.
+Hedge cutter mounted on a mobile machine/tractor (could be electrically powered, hybrid or diesel engine driven) used for cutting and trimming hedges.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Electric powered/hybrid landscape equipment e.g. electric excavator, electric wo
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric powered/hybrid landscape equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tractor Hedge Cutter</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

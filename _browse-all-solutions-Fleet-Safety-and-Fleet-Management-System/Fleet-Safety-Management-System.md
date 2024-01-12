@@ -40,11 +40,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Automation Support Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution612' target='_blank'>T-GUARD</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution607' target='_blank'>T-GUARD</a><br></td>
 <td>TNT Surveillance Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1078' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
 </table>

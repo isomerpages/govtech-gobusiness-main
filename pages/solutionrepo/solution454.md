@@ -1,15 +1,15 @@
 ---
-title: 'Payboy HRMS'
+title: 'TimeCentral Version 11'
 permalink: /productivity-solutions-grant/solutionrepo/solution454
 ---
 
-## Payboy HRMS
+## TimeCentral Version 11
 
 ## Overview
 
 **Description**
 
-Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
+TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data.  Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Payboy is a Payroll and HR Management Software which automates the essential HR 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package A (20 Employees)</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 15</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package B (45 Employees)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 25</td>
+<td style='padding: 10px;'>$3,500.00</td>
+<td style='padding: 10px;'>$3,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package C (75 Employees)</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'>$14,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 50</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package D (120 Employees)</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'>$20,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 100</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$7,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package E (200 Employees)</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'>$29,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>TMS 200</td>
+<td style='padding: 10px;'>$14,500.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/People_Central_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Payboy Pte. Ltd.<br>Web URL: https://payboy.biz <br><br>Contact Hotline: 91876425 <br><br>Contact Email: nigel.lim@payboy.biz <br><br>
+ Company name:PEOPLE CENTRAL PTE LTD<br>Web URL: www.peoplecentral.co <br>Contact Hotline: 68372336 <br>Contact Email: business@peoplecentral.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
