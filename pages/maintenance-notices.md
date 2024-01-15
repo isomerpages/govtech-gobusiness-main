@@ -10,7 +10,6 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** |  
-|  -----------   | ---------------- | 
 | 17 Jan, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 17 Jan, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 | 19 Jan, 10pm - 20 Jan, 3am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period |
