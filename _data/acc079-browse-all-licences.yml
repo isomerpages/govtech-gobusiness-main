@@ -554,7 +554,7 @@
         -----
         **Amateur Station Licence**
 
-        For establishing and setting up of radio communication equipment for the purpose of radio amateur on a General Class basis.
+        For establishing and setting up of radio communication equipment for the purpose of radio amateur on a hobby basis.
 
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10012" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
@@ -732,6 +732,22 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-comm-Station-(Radiodetermination-Station)">View Licence Details</a>
 
         -----
+        **General Radio-communication Station Licence**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        You should apply for a General Radio-communication Station Licence to transmit and receive radio-communication messages by any of the following means:
+        - Base or fixed station
+        - Base or fixed station - Free Space Optics
+        - Mobile station
+        - Fixed link or relay station
+        - Radio-determination station
+        - Coast station
+        - Aeronautical station
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/253ead30-118e-4cbc-b4ca-7ec4132a8913" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/General-Radio-communication-Station-Licence">View Licence Details</a>
+
+        -----
         **Localised Private Network (Multi-Channel Radiocom Networks and Systems)**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -745,18 +761,30 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing Localised Private Network services (such as use of walkie talkie services within a localised area).
+        You should apply for a Localised Private Network Licence if you wish to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location. 
+        
+        Examples of a localised area include:
+        - A compound (including buildings, roads and car parks) within the same postal code.
+        - A construction site within one land lot number.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=32" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f563791d-1214-46ab-a3d5-77654859c29c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Private-Network-Licence">View Licence Details</a>
 
         -----
         **Localised Radio-Communication Station Licence**
 
-        For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=28" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
+        You should apply for a Localised Radio-communication Station Licence to operate any of the following equipment:
+        - Radio frequency remote control devices
+        - Local area paging devices
+        - Wireless microphones
+        - Transceivers
+        - Telemetry systems
+        - Alarm systems
+        - Wireless data or voice systems
+        - Any other radio-communication equipment as authorised by IMDA
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/167f206a-4a77-42cc-8302-c26b5b583811" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Localised-Radio-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Nationwide TV Service Licence**
@@ -811,10 +839,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
+        You should apply for a Public Mobile Network Licence if you intend to set up a public mobile network to establish and provide telecommunication services to public.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/7b3e2537-9691-475a-b8dc-80b687a4512a" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
 
         -----
         **Radio Service Licence**
@@ -859,10 +886,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For transmitting and/or receiving messages or data by means of satellite communications.
+        You should apply for a Satellite Communication Station Licence if you wish to operate to transmit, receive, or transmit and receive messages through satellites.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ba5dce53-6923-4d58-b030-4e077208539e" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Satellite-Communication-Station-Licence">View Licence Details</a>
 
         -----
         **Services-Based Operator (Class) Licence**
@@ -871,7 +897,7 @@
 
         For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority(IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.
 
-         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence">View Licence Details</a>
 
         -----
@@ -887,10 +913,20 @@
         -----
         **Ship Station Licence**
 
-        The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.
+        You should apply for a Ship Station Licence if you have radio-communication equipment installed on board ships registered in Singapore.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/daa38001-002b-4869-b75f-c73afdad5b09" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Licence">View Licence Details</a>
+
+        -----
+        **Ship Station Operator's Certificate of Competency**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        You should apply for a Ship Station Operator's Certificate of Competency if you wish to operate all the sub-systems and equipment of Global Maritime Distress and Safety Systems on board a Singapore registered ship:
+        - General Operator's Certificate (GOC)
+        - Restricted Operator's Certificate (ROC)
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/5996a61d-6164-4ad8-a9a4-aaed8bf4ff19" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Ship-Station-Operator's-Certificate-of-Competency">View Licence Details</a>
 
         -----
         **Simplified Equipment Registration (SER)**
