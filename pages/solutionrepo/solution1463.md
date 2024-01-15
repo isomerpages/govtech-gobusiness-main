@@ -1,19 +1,18 @@
 ---
-title: 'Encrusting Machine'
+title: 'Vertical Carousel'
 permalink: /productivity-solutions-grant/solutionrepo/solution1463
 ---
 
-## Encrusting Machine
+## Vertical Carousel
 
 ## Overview
 
 **Description**
 
-An encrusting machine is typically used in bakeries/ confectionaries to automate the bun-filling process. 
-The machine can take a batch of dough, inject the filling, shape the bun and lay the final product out in trays ready for delivery.
-It is recommended for the Encrusting machine to allow manufacturing of large products up to 180g to allow for scalability
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
@@ -24,9 +23,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Encrusting Machine</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>1. Machine can produce at least 1000pieces/hour</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vertical Carousel</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Machine has a minimum 7 trays/carriers<br><br>2. Each tray to have a minimum load capacity of 135kg<br><br>3. Each tray to have a minimum width of 1200MM<br><br>4. Machine includes operator console and software linked to Inventory Management System</td>
 </tr>
 </table>
 

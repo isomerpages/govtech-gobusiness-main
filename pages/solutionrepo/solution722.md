@@ -1,15 +1,15 @@
 ---
-title: 'Multi-tier Cultivation System'
+title: 'Sterilizer Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution722
 ---
 
-## Multi-tier Cultivation System
+## Sterilizer Equipment
 
 ## Overview
 
 **Description**
 
-Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
+A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for seed, soil or media treatment.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Multi-tier growing system with racks, irrigation and dosing system, LED grow lig
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sterilizer Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

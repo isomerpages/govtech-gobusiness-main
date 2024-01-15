@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Temperature montoring/ labelling device'
 permalink: /productivity-solutions-grant/solutionrepo/solution738
 ---
 
-## HVAC system
+## Temperature montoring/ labelling device
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+Accurate infrared temperature monitoring and labelling devices that improves product quality and increases productivity
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Temperature montoring/ labelling device</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

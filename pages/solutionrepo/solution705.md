@@ -1,15 +1,15 @@
 ---
-title: 'Closed Containment System'
+title: 'Collection Systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution705
 ---
 
-## Closed Containment System
+## Collection Systems
 
 ## Overview
 
 **Description**
 
-To cultivate produce in a controlled environment that isolates and protects them from external factors.
+Automatic collector used to collect produce, which can also reduce the damage rate.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ To cultivate produce in a controlled environment that isolates and protects them
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Collection Systems</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

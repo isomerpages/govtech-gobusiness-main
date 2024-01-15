@@ -1,32 +1,31 @@
 ---
-title: 'Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd'
+title: 'Industrial/Commercial Slicer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1450
 ---
 
-## Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd
+## Industrial/Commercial Slicer
 
 ## Overview
 
 **Description**
 
-WTW is one of the world's largest human resources advisory firms. We help organisations and their employees in areas such as Talent Management, Career Development, Job Redesign, Competency Frameworks, and Rewards frameworks design among others.  From a sectoral expertise perspective, we advise clients across all sectors such as general industry, BFSI, construction, property and engineering, pharmaceuticals, technology, media, wholesale trade sector and early-stage companies/start-ups, etc. 
+The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/WTW_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Machine is able to slice food products at various widths<br><br>2. Slicing process should be fully automated without a need for to manually reposition the food product</td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ WTW is one of the world's largest human resources advisory firms. We help organi
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name: Willis Towers Watson Consulting (Singapore) Pte. Ltd.<br>Web URL: https://www.wtwco.com/en-SG<br>Contact Name: Ms Sagorika Roy, Practice Leader, Work, Rewards and Careers<br>Contact Email: sagorika.roy@wtwco.com<br>Contact Number: 9151 6073
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

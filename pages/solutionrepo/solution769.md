@@ -1,15 +1,15 @@
 ---
-title: 'Stump Grinder'
+title: 'Remote Monitoring e.g. video cameras, AI systems, automatic feeder'
 permalink: /productivity-solutions-grant/solutionrepo/solution769
 ---
 
-## Stump Grinder
+## Remote Monitoring e.g. video cameras, AI systems, automatic feeder
 
 ## Overview
 
 **Description**
 
-A mobile machine with power tool or as at attachment that removes tree stumps by means of a rotating cutting disc that chips away tree stump for easy removal.
+Computer systems that perform tasks normally requiring human intelligence. For example, remote monitoring and controlling of processes.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A mobile machine with power tool or as at attachment that removes tree stumps by
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stump Grinder</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Remote Monitoring e.g. video cameras, AI systems, automatic feeder</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

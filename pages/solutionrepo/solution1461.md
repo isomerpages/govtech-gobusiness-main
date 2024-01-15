@@ -1,19 +1,17 @@
 ---
-title: 'Automated Dough Filler/Depositor'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1461
 ---
 
-## Automated Dough Filler/Depositor
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Creating dough portions through deposition, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow an individual dough weight of minimum 7gm and a dough apportioning capacity with minimum 5 seconds.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
 
-Cost of equipment capped at $25,000 per unit 
+Cost of equipment capped at $37,500 per unit 
 
 ## Solution Packages Option(s)
 
@@ -24,9 +22,9 @@ Cost of equipment capped at $25,000 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Dough Filler/Depositor</td>
-<td style='padding: 10px;'>$25,000.00</td>
-<td style='padding: 10px;'>1. Equipment offers 2 or more options for hoppers with different volumes<br><br>2. Equipment allows for variable dough weight to be output </td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg<br>2. Robot has a minimum load surface of 650MM x 550MM.<br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
 </tr>
 </table>
 

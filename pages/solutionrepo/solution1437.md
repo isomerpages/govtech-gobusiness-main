@@ -1,32 +1,31 @@
 ---
-title: 'Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd'
+title: 'Automated Deep Fryer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1437
 ---
 
-## Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+## Automated Deep Fryer
 
 ## Overview
 
 **Description**
 
-Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
+An automated deep fryer machine streamlines the deep frying (cooking) process, allowing for pre-set frying functions on controls for temperature and timing; machine should have an automatic lifting function to reduce manpower reliance during frying process.
+
+Cost of equipment capped at $4,000 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/Aon_PSG_JR_Case_Studies_GoBusiness.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Deep Fryer</td>
+<td style='padding: 10px;'>$4,000.00</td>
+<td style='padding: 10px;'>1. Fully automated basket lifting process with adjustable temperature and timing controls<br>2. Well capacity to be at least 5L</td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com<br>Contact Name: Chua Ke Le, Senior Associate Consultant<br>Contact Email: ke.le.chua@aon.com<br>Contact Number: 9321 2662
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

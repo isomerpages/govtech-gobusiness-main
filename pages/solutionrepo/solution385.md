@@ -1,15 +1,15 @@
 ---
-title: 'HR administration with payroll processing via SaaS solutions Version 21-3.1'
+title: 'MEGAPOS'
 permalink: /productivity-solutions-grant/solutionrepo/solution385
 ---
 
-## HR administration with payroll processing via SaaS solutions Version 21-3.1
+## MEGAPOS
 
 ## Overview
 
 **Description**
 
-Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize in HR & Payroll management combining with (SaaS) Cloud HR software for SMEs in the Asia-Pacific region. In our HR shared services ecosystem, we use an entire suite of (SaaS) cloud HR software such as Employee Information System, Leave system, Expense (claims), Time Attendance (with facial recognition & geofencing features) and Payroll which combines our HR expertise such as payroll processing services to SMEs.
+MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 1 (1-15 employee) Version 21-3</td>
-<td style='padding: 10px;'>$7,020.00</td>
-<td style='padding: 10px;'>$7,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
+<td style='padding: 10px;'>$5,180.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 2 (16-25 employee) Version 21-3</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'>$11,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 3 (26-50 employee) Version 21-3</td>
-<td style='padding: 10px;'>$20,900.00</td>
-<td style='padding: 10px;'>$20,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
+<td style='padding: 10px;'>$6,730.00</td>
+<td style='padding: 10px;'>$6,430.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions - Package 4(51-100 employee) Version 21-3</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'>$33,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
+<td style='padding: 10px;'>$7,230.00</td>
+<td style='padding: 10px;'>$6,930.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HR administration with payroll processing via SaaS solutions Version 21-3.1 - HRSS with payroll processing via (SaaS) HR Cloud solutions -Package 5(101-200 employee) Version 21-3</td>
-<td style='padding: 10px;'>$63,000.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MATCH_RESOURCES_HRSS_20210402_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
+<td style='padding: 10px;'>$6,190.00</td>
+<td style='padding: 10px;'>$5,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Founded in 2008, Match Resources Pte Ltd is a HR consulting firm that specialize
 
 ## Vendor Information
 
- Company Name: MATCH RESOURCES PTE LTD<br>Web URL: www.matchresources.co <br><br>Contact Hotline: 66531198 <br><br>Contact Email: jobs@matchresources.co <br><br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

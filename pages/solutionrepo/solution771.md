@@ -1,15 +1,15 @@
 ---
-title: 'Tree management systems'
+title: 'Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology'
 permalink: /productivity-solutions-grant/solutionrepo/solution771
 ---
 
-## Tree management systems
+## Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology
 
 ## Overview
 
 **Description**
 
-Tree management systems or softwares such as the Remote Tree Measurement System (RTMS) that can interpret the data from scans produced during tree inspections.
+Equipment (e.g. pumps, bio-filters) that will be incorporated into recirculating aquaculture systems or equipment that improves the quality of the water to make it more acceptable or better for a specific end-use.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Tree management systems or softwares such as the Remote Tree Measurement System 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tree management systems</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
