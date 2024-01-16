@@ -36,19 +36,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution318' target='_blank'>Autodesk AEC Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution313' target='_blank'>Autodesk AEC Collection</a><br></td>
 <td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1365' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1343' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1370' target='_blank'>Graphisoft Archicad</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1348' target='_blank'>Graphisoft Archicad</a><br></td>
 <td>Graphisoft Asia Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1557' target='_blank'>CSG - Autodesk Collection</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1535' target='_blank'>CSG - Autodesk Collection</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 </table>

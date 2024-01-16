@@ -1,15 +1,15 @@
 ---
-title: 'Aerator'
+title: 'Sensors for measurement'
 permalink: /productivity-solutions-grant/solutionrepo/solution762
 ---
 
-## Aerator
+## Sensors for measurement
 
 ## Overview
 
 **Description**
 
-Equipment used for lawn aeration, or mixing air with another substance, such as soil or water.
+A device which detects or measures a physical property and records, indicates, or otherwise responds to it e.g. grass height sensors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Equipment used for lawn aeration, or mixing air with another substance, such as 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aerator</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sensors for measurement</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>

@@ -1,15 +1,15 @@
 ---
-title: 'Tassta'
+title: 'Flavor Customer Relationship Management System Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1515
 ---
 
-## Tassta
+## Flavor Customer Relationship Management System Version 1
 
 ## Overview
 
 **Description**
 
-Smartcom provides Island-Wide Walkie talkie solution along with Singapore's largest telecommunication network provider. By using TASSTA, our Push-To-Talk (PTT) solution follows the international 3GPP standard to ensure that your communication is always up and running. It provides a full package of PTT communication, voice recording, GPS location and indoor tracking, asset tracking and more. It also provides smart devices that can incorporate with existing applications such as Haulio and CDAS.
+Flavor CRM is an innovative, all-in-one solution meticulously designed to streamline lead management, customer relations, and communication for businesses in the EdTech field and beyond. This in-house developed system offers a comprehensive suite of features to help organizations manage leads, nurture customer relationships, and ensure seamless communication, ultimately enhancing customer experience and operational efficiency.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,24 @@ Smartcom provides Island-Wide Walkie talkie solution along with Singapore's larg
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 10 Licenses (1 Year Subscription)</td>
-<td style='padding: 10px;'>$9,480.00</td>
-<td style='padding: 10px;'>$3,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 1</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 30 Licenses (1 Year Subscription)</td>
-<td style='padding: 10px;'>$27,440.00</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 2</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Hytera PNC380 - 50 Licenses (1 Year Subscription)</td>
-<td style='padding: 10px;'>$45,400.00</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Samsung XCover5 - 30 Licenses (1 Year Subscription)</td>
-<td style='padding: 10px;'>$31,940.00</td>
-<td style='padding: 10px;'>$9,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Samsung XCover5 - 50 Licenses (1 Year Subscription)</td>
-<td style='padding: 10px;'>$52,900.00</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smartcom_Tassta_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 3</td>
+<td style='padding: 10px;'>$11,200.00</td>
+<td style='padding: 10px;'>$7,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +50,7 @@ Smartcom provides Island-Wide Walkie talkie solution along with Singapore's larg
 
 ## Vendor Information
 
- Company Name: Smartcom Pte Ltd<br>Web URL: https://www.smartcom.com.sg/ <br>Contact Hotline: 62424246 <br>Contact Email: admin@smartcom.com.sg <br>
+ Company Name: FLAVOR PTE. LTD.<br>Web URL: www.flavorcrm.com <br>Contact Hotline: 66791003 <br>Contact Email: info@flavorcrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

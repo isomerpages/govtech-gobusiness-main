@@ -1,15 +1,15 @@
 ---
-title: 'Humidifier Equipment'
+title: 'Pasteurisation Equipment/ Plant'
 permalink: /productivity-solutions-grant/solutionrepo/solution717
 ---
 
-## Humidifier Equipment
+## Pasteurisation Equipment/ Plant
 
 ## Overview
 
 **Description**
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A device that increases humidity in farm premises for more optimal plant growth.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Humidifier Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pasteurisation Equipment/ Plant</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

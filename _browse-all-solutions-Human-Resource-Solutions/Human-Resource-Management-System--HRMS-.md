@@ -52,59 +52,59 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution308' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution303' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
 <td>Info-Tech Systems Integrators Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution407' target='_blank'>ASURIX HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution402' target='_blank'>ASURIX HRMS</a><br></td>
 <td>Net Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution446' target='_blank'>OpensoftHR Version 18</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution441' target='_blank'>OpensoftHR Version 18</a><br></td>
 <td>Opensoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution454' target='_blank'>Payboy HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution449' target='_blank'>Payboy HRMS</a><br></td>
 <td>Payboy Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution552' target='_blank'>SYNERGIX Version TH6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution547' target='_blank'>SYNERGIX Version TH6</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution592' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution587' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution654' target='_blank'>WhyzeHR Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution648' target='_blank'>WhyzeHR Version 12</a><br></td>
 <td>Whyze Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution676' target='_blank'>YUVO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution670' target='_blank'>YUVO</a><br></td>
 <td>YUVO PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1050' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1044' target='_blank'>PayAdvisorMobile HRMS</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1065' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1059' target='_blank'>(SaaS) JustLogin HR Cloud</a><br></td>
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1207' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1195' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
 <td>Times Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1235' target='_blank'>SMARTHRMS Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1223' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1271' target='_blank'>Swingvy Version 1.233.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1254' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1372' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1350' target='_blank'>ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 </table>

@@ -1,15 +1,15 @@
 ---
-title: 'Blast Chiller'
+title: 'Autonomous Mobile Robot'
 permalink: /productivity-solutions-grant/solutionrepo/solution1460
 ---
 
-## Blast Chiller
+## Autonomous Mobile Robot
 
 ## Overview
 
 **Description**
 
-By using fast-moving cold air, blast chiller rapidly lowers the temperature of food to prevent bacterial growth, thus lengthens the shelf life of prepared food. The rapid cooling process decreases the amount of ice crystals that appear on food, maintaining the quality and consistency of food products.
+The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
 
 Cost of equipment capped at $37,500 per unit 
 
@@ -23,9 +23,9 @@ Cost of equipment capped at $37,500 per unit
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Blast Chiller</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
 <td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Able to reduce the temperature of cooked food from 70-C to 3 -C or below within 90 minutes.<br><br>2. Minimum capacity of 5 GN 1/1</td>
+<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg<br>2. Robot has a minimum load surface of 650MM x 550MM.<br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
 </tr>
 </table>
 

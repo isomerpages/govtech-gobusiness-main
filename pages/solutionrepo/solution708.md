@@ -1,15 +1,15 @@
 ---
-title: 'Culture Tank System with Monitoring and Control System'
+title: 'Enhanced disinfection system'
 permalink: /productivity-solutions-grant/solutionrepo/solution708
 ---
 
-## Culture Tank System with Monitoring and Control System
+## Enhanced disinfection system
 
 ## Overview
 
 **Description**
 
-Cultivation system with monitoring and control system
+A disinfection system for vehicles / personnel entering farm premises to prevent contamination. It helps to ensure good biosecurity, decontamination, disinfection and sanitation. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Cultivation system with monitoring and control system
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Culture Tank System with Monitoring and Control System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enhanced disinfection system</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
