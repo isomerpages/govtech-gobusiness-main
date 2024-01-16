@@ -10,39 +10,29 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f563791d-1214-46ab-a3d5-77654859c29c" type="primary" %}
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=32" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=32" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 
 <H3>Application Details</H3>
 
-<p>You need a Localised Private Network Licence if you meet all of the following conditions:</p>
-<ul>
-<li>You wish to operate a radio-communication network (such as walkie talkie network) within a localised area. This means the coverage of the network is confined to a specific location.
-<ul>
-<li>Examples of a localised area include:
-<ul>
-<li>A compound (including buildings, roads and car parks) within the same postal code.</li>
-<li>A construction site within one land lot number.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Your network has at least five sets of portable radio-communication equipment.
-<ul>
-<li>There are <a href="https://iris.imda.gov.sg/application/localised-private-network-licence#equipment-requirements" target="_blank" rel="noopener">additional requirements for the number of portables</a>, depending on your network&rsquo;s output power.</li>
-</ul>
-</li>
-<li>The output power of the radio equipment is limited to 5 watts Effective Radiated Power (ERP).&nbsp;</li>
-</ul>
+<p>For establishing and providing Localised Private Network services (such as use of walkie talkie services within a localised area).</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p><span style="text-decoration: underline;">Network Fee<br></span>$100 per annum per network.</p>
-<p>GST is not applicable.</p>
-<p><span style="text-decoration: underline;">Station Fee</span><br>$100 per annum per station.<br>The station can be a repeater or a base station.</p>
-<p>GST is not applicable.&nbsp;</p>
-<p><span style="text-decoration: underline;">Frequency Fee<br></span>$300 per frequency.</p>
-<p>GST is applicable.</p>
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
+
+<H3>Documents Needed</H3>
+
+<ul>
+ <li><strong>Please provide the following: Purpose of proposed network and supporting documents; Alternate frequency(s) if desired frequency(s) are unavailable; Number of mobile or portable units in the network; and implementation plan (including start/end date).</strong></li>
+ <li><strong>This attachment is for any supporting documents required to be submitted.</strong></li>
+ </ul>
 
 <H3>Requirements</H3>
 
