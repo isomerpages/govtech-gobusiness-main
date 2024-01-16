@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 <br>
 <table>
 <tr>
-<th>Company</th>
+<th style="width:40%">Company</th>
 <th>Contact</th>
 </tr>
 <tr>
