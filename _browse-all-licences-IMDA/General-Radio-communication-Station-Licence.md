@@ -15,7 +15,8 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>You require a General Radio-communication Station Licence if you intend to operate a radio-communication equipment to transmit and receive radio-communication messages.
-</p></p>
+</p>
+<p>
 For more information on the General Radio-communication Station Licence, please access <a href="https://iris.imda.gov.sg/application/general-radio-communication-station-licence">https://iris.imda.gov.sg/application/general-radio-communication-station-licence</a>.
 </p>
 

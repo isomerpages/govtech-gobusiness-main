@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 <br>
 <table>
 <tr>
-<th>If your network's output power is</th>
+<th  style="width:40%">If your network's output power is</th>
 <th>Number of portables you must have</th>
 </tr>
 <tr>
