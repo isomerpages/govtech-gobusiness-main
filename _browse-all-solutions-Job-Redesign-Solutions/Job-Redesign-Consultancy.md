@@ -20,59 +20,59 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1437' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1415' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
 <td>Aon Solutions Singapore Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1438' target='_blank'>Job Redesign Consultancy - BDO Consultants Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1416' target='_blank'>Job Redesign Consultancy - BDO Consultants Pte Ltd</a><br></td>
 <td>BDO Consultants Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1439' target='_blank'>Job Redesign Consultancy - Cadence Group Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1417' target='_blank'>Job Redesign Consultancy - Cadence Group Pte Ltd</a><br></td>
 <td>Cadence Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1440' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1418' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd</a><br></td>
 <td>CET Global Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1441' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1419' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br></td>
 <td>EON Consulting & Training Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1442' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1420' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
 <td>Ernst & Young Advisory Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1443' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1421' target='_blank'>Job Redesign Consultancy - KLC International Institute Pte Ltd</a><br></td>
 <td>KLC International Institute Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1444' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1422' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
 <td>Singapore Productivity Centre Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1445' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1423' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
 <td>Mercer (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1446' target='_blank'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1424' target='_blank'>Job Redesign Consultancy - NTUC LearningHub Pte Ltd</a><br></td>
 <td>NTUC LearningHub Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1447' target='_blank'>Job Redesign Consultancy - LIT STRATEGY PTE LTD</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1425' target='_blank'>Job Redesign Consultancy - LIT STRATEGY PTE LTD</a><br></td>
 <td>LIT STRATEGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1448' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1426' target='_blank'>Job Redesign Consultancy - SFIC Institute Pte Ltd</a><br></td>
 <td>SFIC Institute Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1449' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1427' target='_blank'>Job Redesign Consultancy - Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</a><br></td>
 <td>Singapore Polytechnic, School of Business, Business Innovation Centre (BIC)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1450' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1428' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</a><br></td>
 <td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
 </tr>
 </table>

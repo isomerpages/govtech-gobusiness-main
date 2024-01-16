@@ -1,15 +1,15 @@
 ---
-title: 'Inoculation Cabinet (Laminar flow cabinet)'
+title: 'Pelleting Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution718
 ---
 
-## Inoculation Cabinet (Laminar flow cabinet)
+## Pelleting Machine
 
 ## Overview
 
 **Description**
 
-For cultivation of mushrooms and other fungi. The laminar flow cabinet provides laboratory conditions and minimises/ prevents contamination. 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For cultivation of mushrooms and other fungi. The laminar flow cabinet provides 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Inoculation Cabinet (Laminar flow cabinet)</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pelleting Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

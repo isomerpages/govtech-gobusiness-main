@@ -1,15 +1,15 @@
 ---
-title: 'Automated Mixer/ Compacter for Growing Media'
+title: 'Automatic Seed Sowing Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution698
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Automatic Seed Sowing Machine
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated mixer/ compacter to handle a variety of growing media as well as vario
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Seed Sowing Machine</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

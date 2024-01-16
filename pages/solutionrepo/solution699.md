@@ -1,15 +1,15 @@
 ---
-title: 'Automated Slaughtering Equipment'
+title: 'Closed Containment System'
 permalink: /productivity-solutions-grant/solutionrepo/solution699
 ---
 
-## Automated Slaughtering Equipment
+## Closed Containment System
 
 ## Overview
 
 **Description**
 
-Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
+To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Automated line to slaughter livestock from cutting, deskinning and deboning line
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Closed Containment System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

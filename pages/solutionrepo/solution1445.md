@@ -1,32 +1,31 @@
 ---
-title: 'Job Redesign Consultancy - Mercer (Singapore) Pte Ltd'
+title: 'Form Fill Seal Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution1445
 ---
 
-## Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+## Form Fill Seal Machine
 
 ## Overview
 
 **Description**
 
-Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line. It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation.
+
+Cost of equipment  capped at $20,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Form Fill Seal Machine</td>
+<td style='padding: 10px;'>$20,500.00</td>
+<td style='padding: 10px;'>1. Machine has temperature control, to control heat applied to film<br><br>2. Machine has speed control, to control duration of seal</td>
 </tr>
 </table>
 
@@ -34,10 +33,6 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: www.asean.mercer.com<br>Contact Email: marissa.chang@mercer.com<br>Contact Number: 63982800
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

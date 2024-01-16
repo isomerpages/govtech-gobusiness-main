@@ -1,15 +1,15 @@
 ---
-title: 'Zippy eCommerce Version 1.0'
+title: 'Web Imp Express E-Commerce Website Development Version v1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1110
 ---
 
-## Zippy eCommerce Version 1.0
+## Web Imp Express E-Commerce Website Development Version v1
 
 ## Overview
 
 **Description**
 
-Zippy eCommerce is designed to help SMES bring their B2C business online seamlessly. Zippy is user-friendly, intuitive, and packed with features that make building and operating an online store fast, easy and efficient. With the Zippy solution, SMEs can create, maintain and operate a professional-looking B2C ecommerce website without any in-house technical staff.
+Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Zippy eCommerce is designed to help SMES bring their B2C business online seamles
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Zippy eCommerce Enterprise</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
 <td style='padding: 10px;'>$5,000.00</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ZIPPY_SG_Zippy_eCommerce_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$6,600.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Zippy eCommerce is designed to help SMES bring their B2C business online seamles
 
 ## Vendor Information
 
- Company Name: ZIPPY SG PTE. LTD.<br>Web URL: https://zippybytes.com/ <br>Contact Hotline: 63147885 <br>Contact Email: sales@zippy.sg <br>
+ Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

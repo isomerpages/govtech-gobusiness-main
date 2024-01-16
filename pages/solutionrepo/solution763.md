@@ -1,15 +1,15 @@
 ---
-title: 'Drones'
+title: 'Stump Grinder'
 permalink: /productivity-solutions-grant/solutionrepo/solution763
 ---
 
-## Drones
+## Stump Grinder
 
 ## Overview
 
 **Description**
 
-A flying robot that can be remotely controlled or autonomous used for landscaping related works.
+A mobile machine with power tool or as at attachment that removes tree stumps by means of a rotating cutting disc that chips away tree stump for easy removal.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A flying robot that can be remotely controlled or autonomous used for landscapin
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Drones</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stump Grinder</td>
 <td style='padding: 10px;'></td>
 <td style='padding: 10px;'></td>
 </tr>
