@@ -10,68 +10,32 @@ Infocomm Media Development Authority (IMDA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ba5dce53-6923-4d58-b030-4e077208539e" type="primary" %}
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 
 <H3>Application Details</H3>
 
-<p>You need a Satellite Communication Station Licence to install and operate any of the following types of stations for satellite communication:</p>
-<table>
-  <tr>
-    <th style='width: 50%;'>Type of station</th>
-    <th style='width: auto;'>Details</th>
-  </tr>
-  <tr>
-    <td>Portable Satellite Communication Terminal</td>
-    <td>A station or terminal that is portable or mobile</td>
-  </tr>
-  <tr>
-    <td>Very Small Aperture Terminal (VSAT)</td>
-    <td>A fixed station that uses an antenna no larger than 4 metres in size</td>
-  </tr>
-  <tr>
-    <td>Earth Station</td>
-    <td>A fixed station that uses an antenna that is at least 4 metres in size</td>
-  </tr>
-  <tr>
-    <td>Tracking, Telemetry and Command (TT&C) Earth Station</td>
-    <td>A fixed station that performs TT&C functions for a satellite as its main purpose</td>
-  </tr>
-</table>
+<p>For transmitting and/or receiving messages or data by means of satellite communications.</p>
 
 <strong>Additional Information</strong>
 
-<p><strong>Station Fee</strong><br/></p>
-<table>
-<tr>
-<th>Type of station</th>
-<th>Station fee (per annum)</th>
-</tr>
-<tr>
-<td>VSAT, Earth Station or TT&C Earth Station</td>
-<td>$100 per station</td>
-</tr>
-<tr>
-<td>Portable Satellite Communication Terminal</td>
-<td>$50 per station</td>
-</tr>
-</table>
-<p>GST is not applicable</p>
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-<p><strong>Frequency fees (if applicable)</strong><br/></p>
-<table>
-<tr>
-<th style='width: 50%;'>Type of fee</th>
-<th style='width: auto;'>Fees</th>
-</tr>
-<tr>
-<td>Application and processing fee</td>
-<td>$300 per frequency. GST is applicable.</td>
-</tr>
-<tr>
-<td>Frequency fee</td>
-<td>Depends on the bandwidth of the frequencies. To determine your exact fees, refer to Annex 1 of the <a href="https://www.imda.gov.sg/-/media/Imda/Files/Regulations-and-Licensing/Licensing/Telecommunication/Satellite-Communication-Station/GuideSateComm-Sat-Comm.pdf">Satellite Communication Station Licence Application Guidelines</a>. GST is applicable.</td>
-</tr>
-</table>
+<H3>Documents Needed</H3>
+
+<ul>
+ <li><strong>The attachment should contain a Earth Station System Block Diagram and Description.</strong></li>
+ <li><strong>Please provide the equipment Rack Diagram with Panel Layout showing functional units - Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).</strong></li>
+ <li><strong>The attachment should contain the following:</strong><br /><strong>a. Horizontal Elevation of Earth Station</strong><br /><strong>b. Antenna Radiation Diagram (Copolar and Crosspolar)</strong><br /><strong>c. Transmitter/Receiver RF Filter Attenuation</strong></li>
+ <li><strong>This attachment refers to the General Description of the Functional Units.</strong></li>
+ <li><strong>This attachment is for any supporting documents required to be submitted.</strong></li>
+ </ul>
 
 <H3>Requirements</H3>
 
