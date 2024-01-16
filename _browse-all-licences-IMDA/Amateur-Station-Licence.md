@@ -17,6 +17,7 @@ Infocomm Media Development Authority (IMDA)
 <span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
 <a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10012" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
 </div>
+
 <H3>Application Details</H3>
 
 <p>For establishing and setting up of radio communication equipment for the purpose of radio amateur on a General Class basis.</p>
