@@ -15,12 +15,10 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>You require a General Operator's Certificate of Competency (GOC) if you intend to operate maritime radio-communication equipment (such as the Global Maritime Distress and Safety Systems (GMDSS)) installed on board a Singapore registered ship, and within and outside of <a href="https://www.imda.gov.sg/-/media/Imda/Files/Regulations-and-Licensing/Licensing/Telecommunication/Ship-Station-Licence/Further-Information/IMO-Resolution-A81019.pdf">Sea Area A1</a>
-</p></p>
+</p>
 For more information on the General Operator's Certificate of Competency, please access <a href="https://iris.imda.gov.sg/application/general-operator's-certificate-of-competency">https://iris.imda.gov.sg/application/general-operator's-certificate-of-competency</a>.
-</p>
-<br></br>
+<br>
 <p>You require a Restricted Operator's Certificate of Competency (ROC) if you intend to operate maritime radio-communication equipment (such as the Global Maritime Distress and Safety Systems (GMDSS)) installed on board a Singapore registered ship, and ONLY within <a href="https://www.imda.gov.sg/-/media/Imda/Files/Regulations-and-Licensing/Licensing/Telecommunication/Ship-Station-Licence/Further-Information/IMO-Resolution-A81019.pdf">Sea Area A1</a>
-</p></p>
-For more information on the Restricted Operator's Certificate of Competency, please access <a href="https://iris.imda.gov.sg/application/restricted-operator's-certificate-of-competency">https://iris.imda.gov.sg/application/restricted-operator's-certificate-of-competency</a>.
 </p>
+For more information on the Restricted Operator's Certificate of Competency, please access <a href="https://iris.imda.gov.sg/application/restricted-operator's-certificate-of-competency">https://iris.imda.gov.sg/application/restricted-operator's-certificate-of-competency</a>.
 

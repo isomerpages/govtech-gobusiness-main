@@ -13,7 +13,6 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>You require a Ship Station Licence for the operation of the radio-communication equipment installed on board ships registered in Singapore.
-</p></p>
-For more information on the Ship Station Licence, please access <a href="https://iris.imda.gov.sg/application/ship-station-licence">https://iris.imda.gov.sg/application/ship-station-licence</a>.
 </p>
+For more information on the Ship Station Licence, please access <a href="https://iris.imda.gov.sg/application/ship-station-licence">https://iris.imda.gov.sg/application/ship-station-licence</a>.
 

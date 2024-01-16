@@ -15,7 +15,7 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>You need a Satellite Communication Station Licence to install and operate any of the following types of stations for satellite communication:</p>
-<br></br>
+<br>
 <table>
 <tr>
 <th>Company</th>
@@ -38,6 +38,6 @@ Infocomm Media Development Authority (IMDA)
 <td>A fixed station that performs TT&C functions for a satellite as its main purpose</td>
 </tr>
 </table> 
-<br></br>
+<br>
 <p>For more information on the Localised Private Network Licence, please refer to <a href="https://iris.imda.gov.sg/application/satellite-communication-station-licence">https://iris.imda.gov.sg/application/satellite-communication-station-licence</a>.</p>
 

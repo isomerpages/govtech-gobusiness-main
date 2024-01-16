@@ -15,7 +15,7 @@ Infocomm Media Development Authority (IMDA)
 <H3>Application Details</H3>
 
 <p>The output power of your network will determine the minimum number of portable equipment (such as walkie talkies) you need to apply for a licence.</p>
-<br></br>
+<br>
 <table>
 <tr>
 <th>If your network's output power is</th>
@@ -35,7 +35,7 @@ Infocomm Media Development Authority (IMDA)
 </td>
 </tr>
 </table> 
-<br></br>
+<br>
 <p>You must ensure your radio equipment can incorporate the Continuous Tone Coded Squelch System (CTCSS) tones.</p>
 <p>For more information on the Localised Private Network Licence, please refer to <a href="https://iris.imda.gov.sg/application/localised-private-network-licence">https://iris.imda.gov.sg/application/localised-private-network-licence</a>.</p>
 
