@@ -18,7 +18,7 @@ Infocomm Media Development Authority (IMDA)
 <br>
 <table>
 <tr>
-<th  style="width:40%">If your network's output power is</th>
+<th style="width:40%">If your network's otput power is</th>
 <th>Number of portables you must have</th>
 </tr>
 <tr>
@@ -38,14 +38,3 @@ Infocomm Media Development Authority (IMDA)
 <br>
 <p>You must ensure your radio equipment can incorporate the Continuous Tone Coded Squelch System (CTCSS) tones.</p>
 <p>For more information on the Localised Private Network Licence, please refer to <a href="https://iris.imda.gov.sg/application/localised-private-network-licence">https://iris.imda.gov.sg/application/localised-private-network-licence</a>.</p>
-
-<strong>Additional Information</strong>
-
-<p><strong>Fee</strong></p>
-<p><span style="text-decoration: underline;">Network Fee<br></span>$100 per annum per network.</p>
-<p>GST is not applicable.</p>
-<p><span style="text-decoration: underline;">Station Fee</span><br>$100 per annum per station.<br>The station can be a repeater or a base station.</p>
-<p>GST is not applicable.&nbsp;</p>
-<p><span style="text-decoration: underline;">Frequency Fee<br></span>$300 per frequency.</p>
-<p>GST is applicable.</p>
-
