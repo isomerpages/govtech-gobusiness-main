@@ -32,11 +32,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201228495E-REP-Scurty-Systm-v-40-G' target='_blank'>iREP Security System Version 4.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution253' target='_blank'>iREP Security System Version 4.0</a><br></td>
 <td>Gabkotech Innovations Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201328632H-Armfort-Scurty-Workforc-G' target='_blank'>Armfort Security Workforce</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution978' target='_blank'>Armfort Security Workforce</a><br></td>
 <td>ARMFORT INTEGRATED TECHNOLOGY PTE. LTD. f.k.a One Third Technologies Pte Ltd</td>
 </tr>
 </table>
