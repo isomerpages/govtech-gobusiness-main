@@ -20,7 +20,7 @@ This solution is supported by Early Child Development Agency (ECDA).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-Smrt-Dt-Anlytcs-for-Cntr-Oprtons-EC' target='_blank'>Taidii Smart Data Analytics for Centre Operations</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution776' target='_blank'>Taidii Smart Data Analytics for Centre Operations</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>
 </table>

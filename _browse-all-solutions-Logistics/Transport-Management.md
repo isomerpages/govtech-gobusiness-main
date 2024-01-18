@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200307927R-LOGON-TMS-G' target='_blank'>iLOGON (iTMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution357' target='_blank'>iLOGON (iTMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201802852G-goTruck!Hub-G' target='_blank'>goTruck!Hub</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1082' target='_blank'>goTruck!Hub</a><br></td>
 <td>GoTruck Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201523609M-Tsst-G' target='_blank'>Tassta</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1493' target='_blank'>Tassta</a><br></td>
 <td>Smartcom Pte Ltd</td>
 </tr>
 </table>
