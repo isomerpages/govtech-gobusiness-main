@@ -1,17 +1,15 @@
 ---
-title: 'DM Social Media Marketing (Brand Awareness & Lead Generation)'
+title: 'Weebo Digital Ordering Solution Version 3.2.9.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution896
 ---
 
-## DM Social Media Marketing (Brand Awareness & Lead Generation)
+## Weebo Digital Ordering Solution Version 3.2.9.0
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] WLP Digital Marketing package helps evaluate the company's core products/ services, competitiveness and propose effective brand positioning strategy to maximise brand competitive distinctiveness and brand value.
-
-It also comprises of active marketing campaigns that match several business targets & goals: from driving web traffic to maximising online sales and optimising lead conversions.
+Weebo DOS is designed for businesses to exploit new sales opportunities and grow their customer base. Businesses can tap into new online markets and improve their customers' ordering experience by giving diners the ability to browse and order online. This intuitive online ordering software is packed with useful features designed to grow sales and manage costs. Businesses can now sync customers' data, spending preferences, and sales data for a comprehensive evaluation on their business processes.
 
 ## Solution Packages Option(s)
 
@@ -25,20 +23,34 @@ It also comprises of active marketing campaigns that match several business targ
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 SMM + SMA (2 Months)</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'>$3,340.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'>$4,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'>$5,660.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Weebo_Weebo_Digital_Ordering_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@digitalsolutions.com.sg<br>
+ Company name:Weebo Pte Ltd<br>Web URL: https://www.weebo.com.sg/weebo-psg-pos/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

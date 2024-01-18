@@ -1,17 +1,17 @@
 ---
-title: 'Pepper Cloud CRM Version 14.0'
+title: 'Harvest Accounting - Xero'
 permalink: /productivity-solutions-grant/solutionrepo/solution1537
 ---
 
-## Pepper Cloud CRM Version 14.0
+## Harvest Accounting - Xero
 
 ## Overview
 
 **Description**
 
-Pepper Cloud is a Singapore based cloud CRM Company, which offers CRM software designed for SMEs to help in areas such as sales & lead management, customer relationship, marketing automation & business analytics
-A highly customizable and scalable CRM solution, it offers a range of features that help businesses manage sales pipeline, track opportunities, capture customer interactions, and forecast sales
-They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar & Indonesia
+Xero is a cloud-based accounting software that helps with invoicing, bank reconciliation, inventory, expenses and reporting. 
+
+Harvest Accounting is a digital-first accounting firm that is passionate about streamlining operational finance, reimagining workflows, and identifying suitable add-ons and technology from the Xero app ecosystem. Through effortless and paperless bookkeeping with Xero, businesses can make use of real-time financial data to make better decisions.
 
 ## Solution Packages Option(s)
 
@@ -25,41 +25,48 @@ They serve many companies in Singapore, Malaysia, Philippines, Thailand, Myanmar
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_3Users</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software</td>
+<td style='padding: 10px;'>$670.00</td>
+<td style='padding: 10px;'>$670.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_5Users</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'>$2,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard_10Users</td>
-<td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'>$8,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Trg</td>
+<td style='padding: 10px;'>$3,150.00</td>
+<td style='padding: 10px;'>$3,150.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$20,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Pepper_Cloud_CRM_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate</td>
+<td style='padding: 10px;'>$3,470.00</td>
+<td style='padding: 10px;'>$3,470.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Software, Setup, Migrate, Trg</td>
+<td style='padding: 10px;'>$4,270.00</td>
+<td style='padding: 10px;'>$4,270.00</td>
+<td style='padding: 10px;'><a href='/images/psg/HarvestAccounting_Xero_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Pepper Cloud Pte. Ltd.<br>Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Email: sales@peppercloud.com <br>
+ Company Name: Harvest Accounting Pte. Ltd.<br>Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 88609408 <br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

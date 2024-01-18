@@ -1,15 +1,15 @@
 ---
-title: 'Firewall Security Protection'
+title: 'DM W360 Digital Power Pack Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution630
 ---
 
-## Firewall Security Protection
+## DM W360 Digital Power Pack Version 1.0
 
 ## Overview
 
 **Description**
 
-Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation Firewall capabilities from corporate branch Offices to mid-sized business. Managed by a team of 24x7 specialist, Rah Tech will be able to provide flexibility to help businesses ease routine activities like alerting, monitoring, patching and updates of their firewall.
+W360 Group is one of the leading digital agencies in Singapore with a proven track record in delivering digital marketing success across Asia. Powered by their digital marketing proficiency, extensive experience and robust technologies, the digital marketing power packs are designed to help businesses strengthen their digital presence and grow their business online.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 40F with Managed Services - P1</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'>$2,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMA & Facebook Marketing (3 Months)</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'>$8,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 80F - P2</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Facebook & Google Advertising (3 Months)</td>
+<td style='padding: 10px;'>$8,520.00</td>
+<td style='padding: 10px;'>$8,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection -  Rah Tech Fortinet 80F with Managed Services - P3</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'>$4,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SMA + SEO (3 Months)</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F - P4</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Firewall Security Protection - Rah Tech Fortinet 100F with Managed Services - P5</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rah_Tech_20200554_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO & SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'>$9,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_W360_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Rah Tech Managed Firewall Services powered by Fortinet provides Next Generation 
 
 ## Vendor Information
 
- Company Name: Rah Tech Pte Ltd<br>Web URL: www.rahtech.com <br>Contact Hotline: 8766 5066<br>Contact Email: PSG@RAHTECH.COM<br>
+ Company Name: W360 Group Pte Ltd<br>Web URL: www.w360.asia <br>Contact Hotline: 69702808 <br>Contact Email: hello@w360.asia <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

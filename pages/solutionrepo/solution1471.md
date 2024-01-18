@@ -1,48 +1,30 @@
 ---
-title: 'Bamboo Sea - Xero'
+title: 'Automatic Nut Splitter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1471
 ---
 
-## Bamboo Sea - Xero
+## Automatic Nut Splitter
 
 ## Overview
 
 **Description**
 
-Xero is a cloud-based accounting software with over 3.5 million subscribers and Bamboo Sea is committed to assisting SMEs become more efficient and productive at record keeping so that business owners can focus on the customers. 
+The automatic nut splitter is used to cut through nuts within seconds, saving time during operation. It is a very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching and the risk of hand injury is also lower as compared to using a hammer and chisel.
 
-Together, we will have access to information anywhere and so that we can make business decisions promptly.
+Cost of equipment capped at $7,500 per unit 
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software and Setup</td>
-<td style='padding: 10px;'>$2,464.00</td>
-<td style='padding: 10px;'>$2,325.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Software, Setup, and Training</td>
-<td style='padding: 10px;'>$4,064.00</td>
-<td style='padding: 10px;'>$3,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Bamboo Sea: Application Integration</td>
-<td style='padding: 10px;'>$6,064.00</td>
-<td style='padding: 10px;'>$5,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Bamboo_Sea_Xero_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Nut Splitter</td>
+<td style='padding: 10px;'>$7,500.00</td>
+<td style='padding: 10px;'>1. Minimum capacity of 20 tons<br><br>2. Equipment can include 1 battery pack or power unit or pump per equipment</td>
 </tr>
 </table>
 
@@ -50,10 +32,6 @@ Together, we will have access to information anywhere and so that we can make bu
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: Bamboo Sea Pte Ltd<br>Web URL: www.bamboosea.sg <br>Contact Hotline: 69325288 <br>Contact Email: wenyun@bamboosea.sg <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

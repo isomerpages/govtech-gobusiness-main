@@ -1,15 +1,15 @@
 ---
-title: 'Web Imp Express E-Commerce Website Development Version v1'
+title: 'Job Redesign Consultancy - EON Consulting & Training Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1419
 ---
 
-## Web Imp Express E-Commerce Website Development Version v1
+## Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 
 ## Overview
 
 **Description**
 
-Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. The E-commerce sites they design & develop are mobile responsive which optimizes the experience when users browse on their mobile devices. Seamless integration with other solutions such as partner gateway, logistics, etc, are made possible too.
+EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,10 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Express</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$6,600.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Web_Imp_Express_ECommerce_Website_Development_Verv1_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +36,7 @@ Web Imp is an award-winning tech firm (Best Tech Company to work for 2019) with 
 
 ## Vendor Information
 
- Company name:WEB IMP PTE LTD<br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg 
+ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg<br>Contact Email: enquiry@eonconsulting.com.sg<br>Contact Number: 6220 4008
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

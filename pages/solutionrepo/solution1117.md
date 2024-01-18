@@ -1,15 +1,15 @@
 ---
-title: 'WarelyCRM Version 1.2'
+title: 'DM Ice Cube Predictable Leads Generation Program'
 permalink: /productivity-solutions-grant/solutionrepo/solution1117
 ---
 
-## WarelyCRM Version 1.2
+## DM Ice Cube Predictable Leads Generation Program
 
 ## Overview
 
 **Description**
 
-WarelyCRM solution streamlines customer interactions and relationships. Features include data management, analytics, workflow automation, integration with other apps, and robust security. Get a 360-degree view of customers and make data-driven decisions to drive revenue growth.
+Ice Cube Marketing uses Google and Facebook ads to help businesses consistently generate high-quality leads and sales (instead of clicks or likes) each month. This solution covers the entire online marketing funnel from conversion tracking to ads creation, allowing SMEs to focus on growing their business with their resources. As a Google & Facebook ads partner agency, Ice Cube Marketing works with a partner manager to implement all campaign optimisation best practices.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,24 @@ WarelyCRM solution streamlines customer interactions and relationships. Features
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$14,000.00</td>
-<td style='padding: 10px;'>$10,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PLUS_65_Marketing_WarelyCRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Ecommerce SEM+SMA (3months)</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'>$7,009.33</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM+SMA+video (3months)</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'>$9,509.32</td>
+<td style='padding: 10px;'><a href='/images/psg/Ice_Cube_Marketing_DM_Ice_Cube_Predictable_Leads_Generation_Program_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +50,7 @@ WarelyCRM solution streamlines customer interactions and relationships. Features
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Web URL: https://icecube.asia/<br>Contact Hotline: 66532634<br>Contact Email: info@icecube.asia
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Shopmatic'
+title: 'DM Orfeostory Digital Marketing Packages Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1332
 ---
 
-## Shopmatic
+## DM Orfeostory Digital Marketing Packages Version 1
 
 ## Overview
 
 **Description**
 
-Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
+Orfeostory is a company that assists businesses in achieving their goals of driving awareness, traffic, and sales through personalised Digital Marketing Packages. Their approach involves conducting comprehensive analyses and creating strategic marketing plans, which are aimed at reaching audiences with a high purchase intent. By using Data Analytics, Orfeostory ensures that potential customers are reached at all touchpoint. Interested parties can get in touch with their in-house team today.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Shopmatic provides the entire ecosystem to sell online including an intuitive si
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
-<td style='padding: 10px;'>$3,535.00</td>
-<td style='padding: 10px;'>$3,535.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Shopmatic_Shopmatic_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - 6 Months SEO (20 keywords) + 3 Months SMM + 3 Months SEM</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Orfeostory_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Shopmatic provides the entire ecosystem to sell online including an intuitive si
 
 ## Vendor Information
 
- Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 88898758<br>Contact Email: shopsupportsg@goshopmatic.com <br>
+ Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

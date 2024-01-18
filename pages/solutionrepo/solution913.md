@@ -1,35 +1,46 @@
 ---
-title: 'Probing System'
+title: 'RAVENPOS DIGITAL ORDERING SOLUTION Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution913
 ---
 
-## Probing System
+## RAVENPOS DIGITAL ORDERING SOLUTION Version 12
 
 ## Overview
 
 **Description**
 
-A probing system consists of the following attached to CNC machining center:
-
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-
+RavenPOS Digital Ordering Solution, a feature-rich digital platform engineered for the food services industry. The solution provides end users with an efficient and user-friendly interface to better manage daily business operation; allowing their customers to move quickly through busy queues and generates useful insights and reporting for analytical purposes.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Probing System</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Work piece and tool setting probe has approach directions +/-x, +/-y, and -z, and a repeatability of <=1um 2 sigma<br><br>2. Unit includes a software to program probe measurement pathway, provide reports, and generate QC issue alerts</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'>$8,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$15,700.00</td>
+<td style='padding: 10px;'>$14,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Nspire_Ravenpos_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,6 +48,10 @@ Implementation: Equipment configuration, training
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Nspire Group Pte Ltd<br>Web URL: https://www.RavenPOS.com <br>Contact Hotline: 61002628 <br>Contact Email: ravenpos@gmail.com 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

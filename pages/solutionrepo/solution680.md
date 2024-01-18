@@ -1,19 +1,16 @@
 ---
-title: 'Royal Management Services XERO ACCOUNTING'
+title: 'ZETTAPPS Inventory & Order Processing'
 permalink: /productivity-solutions-grant/solutionrepo/solution680
 ---
 
-## Royal Management Services XERO ACCOUNTING
+## ZETTAPPS Inventory & Order Processing
 
 ## Overview
 
 **Description**
 
-Royal Management Services (S) Pte Ltd has been accredited as a XERO's Bronze partner from 2018 to July 2021 and had been promoted to XERO Silver Partner from July 2021.
-
-We provide a complete range of comprehensive services which includes Book-Keeping, Financial Reporting, Payroll and Taxation.
-
-The packages we offered are, Xero Subscription,Setup,Training,Migration; to cater to different needs of different individual company.
+ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order. 
+For Distributors or Retailers, there are functions that enable them to track their Inventory levels before placing reorders with their suppliers. This enables them to keep warehousing and storage costs low.
 
 ## Solution Packages Option(s)
 
@@ -27,48 +24,41 @@ The packages we offered are, Xero Subscription,Setup,Training,Migration; to cate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription</td>
-<td style='padding: 10px;'>$728.00</td>
-<td style='padding: 10px;'>$725.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Essential</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup</td>
-<td style='padding: 10px;'>$1,928.00</td>
-<td style='padding: 10px;'>$1,925.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$15,000.00</td>
+<td style='padding: 10px;'>$13,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Migration</td>
-<td style='padding: 10px;'>$2,528.00</td>
-<td style='padding: 10px;'>$2,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$18,000.00</td>
+<td style='padding: 10px;'>$14,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training</td>
-<td style='padding: 10px;'>$3,528.00</td>
-<td style='padding: 10px;'>$3,525.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Royal Management Services XERO ACCOUNTING - Subscription+Setup+Training+Migration</td>
-<td style='padding: 10px;'>$4,128.00</td>
-<td style='padding: 10px;'>$4,125.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ROYAL_MANAGEMENT_20210283_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Zetta_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ROYAL MANAGEMENT SERVICES (S) PTE LTD<br>Web URL: https://www.xero.com/sg/advisors/accountant/royal-management-services-s-pte-ltd-8469741bbd60/ <br><br>Contact Hotline: 63390111 <br><br>Contact Email: SALES@RMSGROUP.COM.SG <br><br>
+ Company name:Zetta Solution Pte Ltd<br>Web URL: www.zetta-solution.com <br>Contact Hotline: 63341013 <br>Contact Email: sales@zetta-solution.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'PayAdvisorMobile HRMS'
+title: 'Job Redesign Consultancy - LIT STRATEGY PTE LTD'
 permalink: /productivity-solutions-grant/solutionrepo/solution1425
 ---
 
-## PayAdvisorMobile HRMS
+## Job Redesign Consultancy - LIT STRATEGY PTE LTD
 
 ## Overview
 
 **Description**
 
-PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile platforms, which includes Personnel, Time, Payroll, Leave, Claim and Performance Appraisal Management modules. Additional add-on modules such as Training, Onboarding, Offboarding, KPI and Rostering can be activated at nominal fees, excluded from the PSG offering.
+LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ PayAdvisorMobile HRMS is a Mobile Workforce Management SaaS, on Web and Mobile p
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 1 (up to 25 users)</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'>$4,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 2 (up to 50 users)</td>
-<td style='padding: 10px;'>$7,650.00</td>
-<td style='padding: 10px;'>$7,350.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 3 (up to 100 users)</td>
-<td style='padding: 10px;'>$11,150.00</td>
-<td style='padding: 10px;'>$10,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 4 (up to 150 users)</td>
-<td style='padding: 10px;'>$16,450.00</td>
-<td style='padding: 10px;'>$16,150.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Tier 5 (up to 200 users)</td>
-<td style='padding: 10px;'>$20,550.00</td>
-<td style='padding: 10px;'>$19,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Capps_Solutions_PayAdvisorMobile_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LIT STRATEGY PTE LTD</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Capps Solutions Pte Ltd <br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg 
+ Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'EPOS Marketing AI Version 1.0'
+title: 'Invisiron Cyber Defence'
 permalink: /productivity-solutions-grant/solutionrepo/solution332
 ---
 
-## EPOS Marketing AI Version 1.0
+## Invisiron Cyber Defence
 
 ## Overview
 
 **Description**
 
-EPOS Marketing AI brings innovative loyalty and customer relationship management to SMEs. It is designed to be simple, easy-to-use and automated for the busy SME owner. Featuring an AI WhatsApp Chatbot, SMEs can directly engage customers over WhatsApp to: (i) manage their rewards, (ii) share new promotions and incentives and (iii) drive online sales. An AI Engine automatically analyses customer buying patterns to create personalized products and promotions to drive sales.
+Invisiron's UTM solution mitigates cyber-attacks automatically and is able to detect and block many different types of cyber-attacks such as ransomware, cyber reconnaissance, and malware. The solution is updated with CTI feeds from global providers of Cyber Intelligence, complemented with Invisiron's own cyber intelligence from its network of honeypots throughout the Asia region. This allows Invisiron to block attacks originating from Asian countries which are otherwise hard to detect.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,24 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-1000</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'>$4,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOS_Marketing_AI_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-4000</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'>$11,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>S-6000 DDoS-Protect</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Invisiron_Invisiron_Cyber_Defence_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +50,7 @@ EPOS Marketing AI brings innovative loyalty and customer relationship management
 
 ## Vendor Information
 
- Company name:EPOS Pte Ltd<br>Web URL: https://www.epos.com.sg/ <br>Contact Hotline: 68718833 <br>Contact Email: sales@epos.com.sg 
+ Company name:Invisiron Pte. Ltd.<br>Web URL: https://invisiron.com/invisiron-cyber-defence-systems/ <br>Contact Hotline: 66926760 <br>Contact Email: cyberdefence@invisiron.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'Cisco Meraki Unified Threat Management Version FS20230315'
+title: 'DM GENIA SEMANTIC SEO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1528
 ---
 
-## Cisco Meraki Unified Threat Management Version FS20230315
+## DM GENIA SEMANTIC SEO
 
 ## Overview
 
 **Description**
 
-With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch, businesses have access to leading cybersecurity expertise, top-notch customer service, 24x7 coverage and protection. Meraki firewall delivers secure, consistent and exceptional network experience for businesses with Network Insights, Real Time Monitoring and Analytics. The solution equips your hybrid workforce with best in class technologies and strives to obtain Cyber Essentials Mark certification.
+Google's Algorithms have gotten significantly more advanced in recent years and the traditional ways of doing SEO do not work anymore. Methods like keyword stuffing and spammy link building do not work anymore. Semantic SEO is a scientific way to climb Google's search rankings in the shortest period by simply being the best option for Google.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,20 @@ With Cisco Meraki Unified Threat Management, powered by Contfinity's Cyber Watch
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX75</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX85</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX95</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'>$8,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Contfinity - Cisco Meraki UTM - MX105</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'>$13,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Contfinity_Cisco_Meraki_07092023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + Content Marketing (3 Months)</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/TheGenia_DM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Contfinity Pte. Ltd.<br>Web URL: www.contfinity.com <br>Contact Hotline: 68718855 <br>Contact Email: sales@contfinity.com <br>
+ Company name:THE GENIA PTE LTD<br>Web URL: https://thegenia.com <br>Contact Hotline: 82286874 <br>Contact Email: caleb@thegenia.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

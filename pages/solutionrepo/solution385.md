@@ -1,15 +1,15 @@
 ---
-title: 'HRM Labs Shared Service'
+title: 'MEGAPOS'
 permalink: /productivity-solutions-grant/solutionrepo/solution385
 ---
 
-## HRM Labs Shared Service
+## MEGAPOS
 
 ## Overview
 
 **Description**
 
-HRM Labs helps companies to handle their human resource administration and payroll processing work, and helps companies save time and money so they can focus more on business development success. Companies adopting HRM Labs Outsource service, no longer need to manage manual and complicated HR tasks. HRM Labs service automates processes from managing attendance, leave and payroll calculation to payslip release. HRM Labs addresses the problem faced by companies and helps employees to be more produ
+MEGAPOS allows data synchronizing to cloud, enabling back office management to understand shop performance on a real time basis while floor staffs can still carry out their routine operation using POS without interruption. Being built for easy management with minimal technical support, MEGAPOS includes modules like transactions, returns, discount, promotion, membership, inventory, security access and reports. MEGAPOS can be integrated with either inhouse or third party modules.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ HRM Labs helps companies to handle their human resource administration and payro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 15 Headcount</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'>$4,330.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard</td>
+<td style='padding: 10px;'>$5,180.00</td>
+<td style='padding: 10px;'>$4,880.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 30 Headcount</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'>$8,660.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Standard+</td>
+<td style='padding: 10px;'>$5,680.00</td>
+<td style='padding: 10px;'>$5,380.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 50 Headcount</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'>$12,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional</td>
+<td style='padding: 10px;'>$6,730.00</td>
+<td style='padding: 10px;'>$6,430.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 100 Headcount</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'>$22,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Professional+</td>
+<td style='padding: 10px;'>$7,230.00</td>
+<td style='padding: 10px;'>$6,930.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HRM Labs Shared Service - For Up to 200 Headcount</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'>$29,760.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Hrm_Labs_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MEGAPOS Pro on Tablet</td>
+<td style='padding: 10px;'>$6,190.00</td>
+<td style='padding: 10px;'>$5,728.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Megasafe_MEGAPOS_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ HRM Labs helps companies to handle their human resource administration and payro
 
 ## Vendor Information
 
- Company Name: Hrm Labs Pte Ltd<br>Web URL: www.hrmlabs.com <br><br>Contact Hotline: 90255587 <br><br>Contact Email: contact@hrmlabs.com <br><br>
+ Company name:Megasafe Technology Pte Ltd<br>Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

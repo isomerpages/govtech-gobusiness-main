@@ -1,15 +1,16 @@
 ---
-title: 'Xero by Book&Entries'
+title: 'Autocount Accounting Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution166
 ---
 
-## Xero by Book&Entries
+## Autocount Accounting Version 2.0
 
 ## Overview
 
 **Description**
 
-Since 2015, Book&Entries has continued to serve and provide clients with our various advisory and compliance services.  Our partnership with Xero has enabled us to work with many small-medium enterprises on adopting and implementing the digital way of running the business.  We assist companies with a robust process review to convert tradition way of record keeping to maintaining records digitally.  Our business digital solutions packages are customized to meet your business needs.
+A flexible, versatile and user-friendly system that covers all your accounting and inventory needs.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. It has a powerful tool to manage your business data, to analyze your business performance, to share your business information and to help you make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +24,38 @@ Since 2015, Book&Entries has continued to serve and provide clients with our var
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package A (Premium Package - Software only)</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'>$720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Basic 2 users</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package B (Premium Package - Software + Training)</td>
-<td style='padding: 10px;'>$1,720.00</td>
-<td style='padding: 10px;'>$1,720.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Pro 3 users</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'>$7,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package C (Premium Package - Software + Setup)</td>
-<td style='padding: 10px;'>$2,220.00</td>
-<td style='padding: 10px;'>$2,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 5 users</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'>$10,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package D (Premium Full Package)</td>
-<td style='padding: 10px;'>$3,220.00</td>
-<td style='padding: 10px;'>$3,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 7 users</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'>$11,720.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero by Book&Entries - Package E (Premium Full Package with Add-on)</td>
-<td style='padding: 10px;'>$3,580.00</td>
-<td style='padding: 10px;'>$3,580.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BookEntries_20210235_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autocount Accounting Version 2.0 - Creative E-world - Autocount Accounting 2.0 Premium 10 users</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'>$13,520.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Creative_E-World_Autocount_20210280_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +65,7 @@ Since 2015, Book&Entries has continued to serve and provide clients with our var
 
 ## Vendor Information
 
- Company Name: Book&Entries Pte Ltd<br>Web URL: www.bookentries.com.sg <br><br>Contact Hotline: 62214246 <br><br>Contact Email: support@bookentries.com.sg <br><br>
+ Company Name: Creative E-World Pte Ltd<br>Web URL: www.creaworld.com.sg <br><br>Contact Hotline: 63922857 <br><br>Contact Email: enquiry@creaworld.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

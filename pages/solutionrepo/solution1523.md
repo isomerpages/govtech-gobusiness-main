@@ -28,35 +28,35 @@ The packages that range from 3-months to 6-months provides flexibility to busine
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Alpha - SEM & SMA (3 months)</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - Beta - SEO & SMA (6 months)</td>
 <td style='padding: 10px;'>$9,000.00</td>
 <td style='padding: 10px;'>$9,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_Pte_Ltd_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - Gamma - SEO & SEM (3 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - Delta - SMM & SMA (3 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 - Omega - SEO & Content Marketing (3 months)</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Verz_Design_DM_Package_07092023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/VerzDesign_DM_28122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

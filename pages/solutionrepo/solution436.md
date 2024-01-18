@@ -1,20 +1,15 @@
 ---
-title: '(A.I.) INFO-TECH Cloud HRMS Version 8.0'
+title: 'OCi Sales & Accounting Management System (SAM)'
 permalink: /productivity-solutions-grant/solutionrepo/solution436
 ---
 
-## (A.I.) INFO-TECH Cloud HRMS Version 8.0
+## OCi Sales & Accounting Management System (SAM)
 
 ## Overview
 
 **Description**
 
-INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
-
-1. Transforming HR Software to Cloud
-2. Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-3. Help HR handle company's compliance challenges and better manage resources.
-4. Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
+OCi Sales and Accounting Management System (SAM) is a straight-forward and comprehensive system in serving the needs in the following. Pre-Sales Management, Post-Sales Fulfilment Management, Accounts Receivable Management, Accounts Payable Management, Inventory Management, Multi-Currency Management, Project Management, Reporting, Accounting & Compliance Management.
 
 ## Solution Packages Option(s)
 
@@ -28,38 +23,38 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'>$5,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 Concurrent User)</td>
+<td style='padding: 10px;'>$3,850.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 50)</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Concurrent Users)</td>
+<td style='padding: 10px;'>$5,700.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 100)</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'>$16,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Concurrent Users)</td>
+<td style='padding: 10px;'>$7,600.00</td>
+<td style='padding: 10px;'>$7,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)</td>
-<td style='padding: 10px;'>$25,300.00</td>
-<td style='padding: 10px;'>$24,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Concurrent Users)</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)</td>
-<td style='padding: 10px;'>$32,700.00</td>
-<td style='padding: 10px;'>$30,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/info_20220188_Desensitised_Annex_3__Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (8 Concurrent Users)</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'>$14,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCi_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -69,7 +64,7 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 
 ## Vendor Information
 
- Company Name: Info-Tech Systems Integrators Pte Ltd<br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+ Company name:OCi System Pte Ltd<br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

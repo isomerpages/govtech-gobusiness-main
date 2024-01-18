@@ -1,15 +1,15 @@
 ---
-title: 'DM Leading Solution Digital Marketing Packages Version 1'
+title: 'iTrack Vehicle Fleet Tracking'
 permalink: /productivity-solutions-grant/solutionrepo/solution464
 ---
 
-## DM Leading Solution Digital Marketing Packages Version 1
+## iTrack Vehicle Fleet Tracking
 
 ## Overview
 
 **Description**
 
-[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.]  Search Engine Optimisation (SEO) is a form of marketing on Google to help local businesses get their information found by users with intention to buy them. SEO can be used by both offline and online businesses. Used along with content marketing, online businesses and offline businesses can benefit from more traffic, leads and online sales by ranking for targeted keywords, or users researching a particular topic.
+Solution is powered by CalAmp with more than 20 million products globally, awarded the ioT Evolution Product of the Year Award in 2020 & 2021. iTrack monitors the entire mobile workforce all from a single screen. View real-time asset locations, status, utilization & engine diagnostics. Set geofences and receive alerts when a vehicle departs or arrives at a job site. Monitor your fleet 24/7 in real-time, keep location records for up to 12 months with a tracking accuracy of up to 3 meters.
 
 ## Solution Packages Option(s)
 
@@ -23,27 +23,20 @@ permalink: /productivity-solutions-grant/solutionrepo/solution464
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO & Content Marketing (standard) [4 Months]</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SEO & Content Marketing (supercharge) [4 Months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Leadingsolution_Desensitised_Annex_3_part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'>$680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Pivotal_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Leading Solution Pte Ltd<br>Web URL: https://theleadingsolution.com/ <br>Contact Hotline: 81982483 <br>Contact Email: yj@theleadingsolution.com 
+ Company name:Pivotal Pte Ltd<br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

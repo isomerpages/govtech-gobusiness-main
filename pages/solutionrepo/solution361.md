@@ -1,16 +1,15 @@
 ---
-title: 'Gurusoft Logistics Management System Version 11'
+title: 'LFSUITE Version 6'
 permalink: /productivity-solutions-grant/solutionrepo/solution361
 ---
 
-## Gurusoft Logistics Management System Version 11
+## LFSUITE Version 6
 
 ## Overview
 
 **Description**
 
-Gurusoft is a Singapore based company founded in 2003 with 19 years of special focus in Warehousing, Transportation and Supply Chain, our systems are used by more than 6,000 logistics professionals.
-Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS solutions designed specifically for local SME customers in mind.  Our system is fully configurable and very easy to use. Most of our implementations are done faster than expected with very minimum training.
+LFSuite in a cloud-hybrid POS system that come with an online central management console (RetailConnect) that help businesses to manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
 ## Solution Packages Option(s)
 
@@ -24,31 +23,31 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System -  3 Users Pack</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'>$20,260.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Basic</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'>$5,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 5 Users Pack</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'>$25,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Functional</td>
+<td style='padding: 10px;'>$7,260.00</td>
+<td style='padding: 10px;'>$6,960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - 10 Users Pack</td>
-<td style='padding: 10px;'>$35,900.00</td>
-<td style='padding: 10px;'>$33,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline</td>
+<td style='padding: 10px;'>$11,460.00</td>
+<td style='padding: 10px;'>$11,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gurusoft Logistics Management System Version 11 - Gurusoft Logistics Management System - On Premise </td>
-<td style='padding: 10px;'>$50,000.00</td>
-<td style='padding: 10px;'>$43,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Gurusoft_20210253_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package Online2Offline plus</td>
+<td style='padding: 10px;'>$12,900.00</td>
+<td style='padding: 10px;'>$12,160.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Levelfive_LFSUITE_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -58,7 +57,7 @@ Gurusoft Logistics Management Software (LMS) is the first Cloud-Based LMS soluti
 
 ## Vendor Information
 
- Company Name: Gurusoft Pte Ltd<br>Web URL: https://www.gurusofttech.com/WMS <br><br>Contact Hotline: 62708083 <br><br>Contact Email: sales@gurusoft.com.sg <br><br>
+ Company name:LEVELFIVE SOLUTIONS PTE. LTD.<br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

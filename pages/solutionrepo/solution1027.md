@@ -1,15 +1,15 @@
 ---
-title: 'NX CAD/CAM Software Version NX2212'
+title: 'A2000 WebShop (B2C) Version 2'
 permalink: /productivity-solutions-grant/solutionrepo/solution1027
 ---
 
-## NX CAD/CAM Software Version NX2212
+## A2000 WebShop (B2C) Version 2
 
 ## Overview
 
 **Description**
 
-NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provides a complete CAD/CAM focused on milling any geometry with up to 5 axes of simultaneous motion. All of the supporting functions for NC programming are provided, from translators to tool path visualization to postprocessing. Program CNC machine tools, control robotic cells, & monitor quality using one software system. Digitally transform part manufacturing business to gain productivity & increase profitability
+A2000 E-Commerce enables SMEs to extend their business online. With this solution, SMEs may open up new business opportunities and generate higher sales revenue with an automated sales channel. This is a digital platform that allows customers to purchase 24/7 on the e-commerce site, widen sales reach to a global audience, and attract & retain customers with data insights.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,20 @@ NX CAD/CAM for Adv Manufacturing digitally transforms part production. It provid
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAM-Only 3-Axis Machining(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'>$11,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation(Annual Locked License)</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'>$13,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'>$19,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>NX CAD/CAM Milling Foundation with 5-Axis Add-On(Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Value-Based Tokens for NX CAD/CAM (Annual Floating/Server License)</td>
-<td style='padding: 10px;'>$44,809.00</td>
-<td style='padding: 10px;'>$42,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/DreamTechnology_NXCADCAMSoftware_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> A2000 WebShop (B2C) Version 2 - Standard</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_Solutions_A2000_WebShop_B2C_Ver2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:DreamTechnology System Pte. Ltd.<br>Web URL: https://dts-asia.com/ <br>Contact Hotline: 66357748 <br>Contact Email: sales.dts@dts-asia.com 
+ Web URL: www.a2000erp.com <br><br>Contact Hotline: 67202000 <br><br>Contact Email: info@a2000.net <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM'
+title: 'Advocado Cloud Loyalty CRM Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1368
 ---
 
-## E-COMMERCE & MOBILE APPS WITH INVENTORY MANAGEMENT SYSTEM
+## Advocado Cloud Loyalty CRM Software
 
 ## Overview
 
 **Description**
 
-Sunpro provides excellent web application development solutions for companies in Singapore and around the world. We specialize in innovating customised web applications that meet your business needs. Sunpro is one of the most trusted companies that will surely help the clients to achieve utmost efficiency and productivity to increase business revenue. Ultimately, our goal is to digitally transform your business and take it to the next level.
+Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing and sales automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,38 @@ Sunpro provides excellent web application development solutions for companies in
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Elite</td>
-<td style='padding: 10px;'>$8,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'>$6,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Sunpro Supreme</td>
-<td style='padding: 10px;'>$9,960.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SUNPRO_INNO_ECOMMERCE_MOBILE_APPS_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
+<td style='padding: 10px;'>$10,900.00</td>
+<td style='padding: 10px;'>$8,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$15,300.00</td>
+<td style='padding: 10px;'>$8,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
+<td style='padding: 10px;'>$18,200.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +64,7 @@ Sunpro provides excellent web application development solutions for companies in
 
 ## Vendor Information
 
- Company name:SUNPRO INNO APPS PTE LTD<br>Web URL: www.sunpro.com.sg <br>Contact Hotline: 67504786 <br>Contact Email: jiya@sunpro.com.sg 
+ Company Name: Advocado Pte Ltd<br>Web URL: https://www.advocadoapp.com <br>Contact Hotline: 64449556 <br>Contact Email: hello@advocado.me <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,17 @@
 ---
-title: 'EPOINT Version 9'
+title: 'BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80'
 permalink: /productivity-solutions-grant/solutionrepo/solution1241
 ---
 
-## EPOINT Version 9
+## BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+BIPO provides a fully managed payroll service that ensures accurate, compliant, and on-time payroll processing, supported by local service delivery team. 
+
+BIPO provides a convenience, one-stop payroll and HR services supported by their cloud HRMS platform and mobile application - from monthly payroll processing and reporting, e-Payslips, leave management, employee overtime and claims submission, IR8A, CPF submissions, Skills Development Levy, and more.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +25,48 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Basic</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 50</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'>$18,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance</td>
-<td style='padding: 10px;'>$7,456.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 100</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'>$28,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance+</td>
-<td style='padding: 10px;'>$8,256.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'> LITE 150</td>
+<td style='padding: 10px;'>$40,580.00</td>
+<td style='padding: 10px;'>$40,580.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eKiosk - Basic</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 200</td>
+<td style='padding: 10px;'>$49,800.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_20210307_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LITE 25</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/BIPO_Service_Singapore_HRM_System_Payroll_Outsourcing_Ver1_21_53_80_05102023_Desensitised_Annex3_Part5.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
+ Company Name: BIPO Service Singapore Pte Ltd<br>Web URL: www.biposervice.com <br>Contact Hotline: 68130610 <br>Contact Email: hello@biposervice.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

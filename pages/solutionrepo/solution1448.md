@@ -1,57 +1,40 @@
 ---
-title: 'APPZPOS F&B Point of Sales Version 1.1'
+title: 'Dough Sheeter'
 permalink: /productivity-solutions-grant/solutionrepo/solution1448
 ---
 
-## APPZPOS F&B Point of Sales Version 1.1
+## Dough Sheeter
 
 ## Overview
 
 **Description**
 
-APPZPOS provides an all-in-one affordable and user-friendly digital ordering solutions for all types of F&B business including Fast Food and Restaurant mode. APPZPOS is a Singapore based solution which offers different modules like E-Waiter, QR Ordering, Web Ordering, KIOSK Self-Order, Kitchen display system KDS, E-Menu, CRM and loyalty, Inventory which are linked to the same backend and seamlessly integrated.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+
+Cost of equipment capped at $20,000 per unit
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering)</td>
-<td style='padding: 10px;'>$5,760.00</td>
-<td style='padding: 10px;'>$5,360.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (2 Digital Ordering System + 1 Kitchen Display System + Web Online Ordering + QR Ordering)</td>
-<td style='padding: 10px;'>$7,800.00</td>
-<td style='padding: 10px;'>$5,840.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (2 Digital Ordering System + 1 Kitchen Display System + 2 KIOSK Customer Self-Ordering)</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$6,140.00</td>
-<td style='padding: 10px;'><a href='/images/psg/APPZGATE_APPZPOS_03082023_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dough Sheeter</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>1. Machine should be able to produce doughs of various thickness</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: APPZGATE SOLUTIONS PTE. LTD.<br>Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932235 <br>Contact Email: sales@appzgate.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

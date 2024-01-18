@@ -1,16 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance'
+title: 'Taidii Smart Data Analytics for Centre Operations and Child Development'
 permalink: /productivity-solutions-grant/solutionrepo/solution778
 ---
 
-## Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance
+## Taidii Smart Data Analytics for Centre Operations and Child Development
 
 ## Overview
 
 **Description**
 
-The Centre for Workplace Learning & Performance (CWLP) of the Singapore University of Social Sciences, Institute for Adult Learning, specialises in learning consultancy, which looks into the people dimension as its core. Through its workplace learning and employee-driven initiatives, projects are run with outcome alignment to several areas, including job redesign. The Centre leverages deep expertise in the adult learning domain for direct application to the workplace context. 
- 
+Insights about the customers and operation are essential for business success. Taidii's Data Analytics Solution is designed for preschool to easily access and analyze information related to students, staff, parent engagement and center's daily operation, therefore enabling center managers to make informed decisions, discover risks and get alerted, identify trends and make forecast to prepare in advance.
 
 ## Solution Packages Option(s)
 
@@ -24,20 +23,20 @@ The Centre for Workplace Learning & Performance (CWLP) of the Singapore Universi
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/SUSS_Case_Study.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Taidii_TaidiiSmartDataAnalyticsforCentreOperationsandChildDevelopment_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name: Singapore University of Social Sciences, Institute for Adult Learning, Centre for Workplace Learning & Performance  <br>Web URL: https://workplacelearning.ial.edu.sg/ <br>Contact Name: Mr Danny Tan, Principal Manager / Mr Lim Kai Chuan, Senior Manager<br>Contact Email: cwlp@ial.edu.sg <br>Contact Number: 6579 0300
+ Company name:Taidii Pte Ltd<br>Web URL: https://www.taidii.com/en/product <br>Contact Hotline: 66357641 <br>Contact Email: service@taidii.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

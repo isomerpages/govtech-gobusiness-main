@@ -1,35 +1,43 @@
 ---
-title: 'Automated Mixer/ Compacter for Growing Media'
+title: 'Shopmatic'
 permalink: /productivity-solutions-grant/solutionrepo/solution1031
 ---
 
-## Automated Mixer/ Compacter for Growing Media
+## Shopmatic
 
 ## Overview
 
 **Description**
 
-Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
+Shopmatic provides the entire ecosystem to sell online including an intuitive site editor with pre-designed templates, multiple payments and shipping options, social and chat commerce and many more features.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Mixer/ Compacter for Growing Media</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Shopmatic Webstore</td>
+<td style='padding: 10px;'>$3,535.00</td>
+<td style='padding: 10px;'>$3,535.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Shopmatic_Shopmatic_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Shopmatic Pte Ltd<br>Web URL: https://goshopmatic.com/sg/psg-grant/<br>Contact Hotline: 88898758<br>Contact Email: shopsupportsg@goshopmatic.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

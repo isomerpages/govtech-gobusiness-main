@@ -1,15 +1,15 @@
 ---
-title: 'CIRCL F&B Omnichannel'
+title: 'EzyProcure Version 2.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1093
 ---
 
-## CIRCL F&B Omnichannel
+## EzyProcure Version 2.0
 
 ## Overview
 
 **Description**
 
-CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrates QR/online ordering with kitchen display module for dine-in, takeaway, delivery, & curbside pickup. Known for extreme ease-of-use for both merchants & consumers, personalized interfaces, deep customizability, robo-marketing, & bulletproof reliability enabling thousands of orders/mo at top F&Bs. CIRCL was founded in SG by an ex-Silicon Valley team & is available in 39 countries with millions processed.
+EzyProcure is a one-stop procure-to-pay digital business solution which acts as a bridge between wholesalers/suppliers and buyers. Since going live in 2016, it has become the top choice for wholesalers/suppliers to manage business transactions with their buyers. EzyProcure helps both wholesalers/suppliers and buyers simplify procurement operations and automate workflows, with seamless integration to ERP and accounting systems.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CIRCL Ordering + Kitchen Core Modules</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'>$5,998.88</td>
-<td style='padding: 10px;'><a href='/images/psg/Circl_F_BOmnichannel_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>e-procurement system for Wholesalers/Suppliers</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Singapore_E_Business_EzyProcure_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ CIRCL's all-in-1 restaurant platform - hosted by Amazon Web Services - integrate
 
 ## Vendor Information
 
- Company Name: CIRCL Pte. Ltd.<br>Web URL: CIRCL.it <br>Contact Hotline: +6588605910 <br>Contact Email: info@circl.it <br>
+ Company Name :Singapore E-Business Pte Ltd<br>Web URL: www.sgebiz.com <br>Contact Hotline: 62008021 <br>Contact Email: info@sgebiz.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

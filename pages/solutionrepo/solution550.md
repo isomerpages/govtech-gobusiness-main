@@ -1,15 +1,15 @@
 ---
-title: 'MMS - Xero Accounting Solution'
+title: 'SYSFREIGHT Version 10.01'
 permalink: /productivity-solutions-grant/solutionrepo/solution550
 ---
 
-## MMS - Xero Accounting Solution
+## SYSFREIGHT Version 10.01
 
 ## Overview
 
 **Description**
 
-At MetroCorp, we believe in being your partner in management services. Our team's mission is to support you in your businesses. By digitalising through our MMS - Xero Accounting Solution, we can solve the business needs so that you can have a peace of mind to focus on navigating your business through the challenging economy.
+SysFreight is a TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences).
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ At MetroCorp, we believe in being your partner in management services. Our team'
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - A - Xero subscription only</td>
-<td style='padding: 10px;'>$600.00</td>
-<td style='padding: 10px;'>$560.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 3 User</td>
+<td style='padding: 10px;'>$17,100.00</td>
+<td style='padding: 10px;'>$15,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - B - Xero Premium Training Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 6 User</td>
+<td style='padding: 10px;'>$24,480.00</td>
+<td style='padding: 10px;'>$22,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - C - Xero Premium Setup Package</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'>$2,020.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 9 User</td>
+<td style='padding: 10px;'>$31,140.00</td>
+<td style='padding: 10px;'>$29,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - D - Xero Premium Full Package</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'>$3,320.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 12 User</td>
+<td style='padding: 10px;'>$37,080.00</td>
+<td style='padding: 10px;'>$35,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MMS - Xero Accounting Solution - E -  Xero Premium Full Integration Package</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'>$4,620.00</td>
-<td style='padding: 10px;'><a href='/images/psg/METROPOLITAN_20210297_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard 15 User</td>
+<td style='padding: 10px;'>$42,300.00</td>
+<td style='padding: 10px;'>$40,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/SYSMAGIC_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company Name: METROPOLITAN MANAGEMENT SERVICES PTE. LTD.<br>Web URL: https://www.xero.com/sg/?escape=true <br><br>Contact Hotline: 63093800 <br><br>Contact Email: ACCOUNTS@METROCORP.COM.SG <br><br>
+ Company Name: SYSMAGIC SOFTWARE SOLUTION PTE LTD<br>Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

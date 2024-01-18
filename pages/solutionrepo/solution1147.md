@@ -1,15 +1,15 @@
 ---
-title: 'iFoundries E-commerce Jump Start Package Version 4'
+title: 'Cub3commerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1147
 ---
 
-## iFoundries E-commerce Jump Start Package Version 4
+## Cub3commerce
 
 ## Overview
 
 **Description**
 
-Established in 2005, iFoundries has its HQ in Singapore with regional teams across Asia. Its innovative digital solutions strategically focus on building and leveraging first-party data for SME's digital strategy. iFoundries offers one of the most powerful and flexible e-commerce solutions in the market, built by experienced e-commerce solution specialists to help grow businesses online fast.
+CUB3COMMERCE covers the development of an online shopping website with comprehensive functionality to automate and perform sales transactions, manage orders, track statistics on product performance in a way that is both insightful as well as easy. The solution will assist in marketing products more effectively by taking advantage of a wide range of data tracking capabilities which enables a better insight into customers' behaviour.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,10 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$9,800.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>All In One Ecommerce</td>
+<td style='padding: 10px;'>$8,500.00</td>
 <td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/iFoundries_Asia_Pacific_Ecommerce_Jump_Start_PKG_Ver4_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/DCUB3_Cub3commerce_Densensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +36,7 @@ Established in 2005, iFoundries has its HQ in Singapore with regional teams acro
 
 ## Vendor Information
 
- Company name:iFoundries (Asia Pacific) Pte Ltd<br>Web URL: https://www.ifoundries.com <br>Contact Hotline: 69953242 <br>Contact Email: web-enquiry@ifoundries.com 
+ Company Name: DUCB3 PTE LTD<br>Web URL: www.dcub3.com.sg <br>Contact Hotline: 97346544 <br>Contact Email: armstrong@dcub3.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

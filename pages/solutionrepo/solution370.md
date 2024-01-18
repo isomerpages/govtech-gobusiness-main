@@ -1,15 +1,15 @@
 ---
-title: 'HAVSchool + E-Form Version 4.1'
+title: 'LittleLives 4.5'
 permalink: /productivity-solutions-grant/solutionrepo/solution370
 ---
 
-## HAVSchool + E-Form Version 4.1
+## LittleLives 4.5
 
 ## Overview
 
 **Description**
 
-A complete end-to-end software system tailor-made for centres where there are students/customers obtaining centre day services (e.g. preschools, tuition/enrichment centres and services/care centres). It consists of support hardware, a web portal and mobile applications for customers, managers and staff.
+LittleLives solution facilitates day-to-day school operations through its core mobile applications that include Little Check In (preschool management), Little Poop (infant care), and Little Family Room (parents' portal).  The solution can handle the full life cycle of a child's preschool journey.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ A complete end-to-end software system tailor-made for centres where there are st
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ESSENTIAL</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'>$6,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS Lite</td>
+<td style='padding: 10px;'>$6,518.60</td>
+<td style='padding: 10px;'>$6,518.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENHANCED</td>
-<td style='padding: 10px;'>$15,580.00</td>
-<td style='padding: 10px;'>$15,380.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$9,770.00</td>
+<td style='padding: 10px;'>$9,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENRICHED</td>
-<td style='padding: 10px;'>$9,680.00</td>
-<td style='padding: 10px;'>$9,480.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment + Thermal Scanner</td>
+<td style='padding: 10px;'>$15,110.00</td>
+<td style='padding: 10px;'>$14,110.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART EMPOWERED</td>
-<td style='padding: 10px;'>$12,280.00</td>
-<td style='padding: 10px;'>$12,080.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS + Cashless payment</td>
+<td style='padding: 10px;'>$10,310.00</td>
+<td style='padding: 10px;'>$10,310.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HAVSMART ENTERPRISE</td>
-<td style='padding: 10px;'>$16,560.00</td>
-<td style='padding: 10px;'>$16,160.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Havence_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>PMS intro + Thermal Scanner</td>
+<td style='padding: 10px;'>$4,800.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/LittleLives_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:HAVENCE PORTAL LLP<br>Web URL: https://havschool.com/ <br>Contact Hotline: 90067620 <br>Contact Email: ENQUIRIES@HAVENCE.COM.SG 
+ Company name:LittleLives Inc Pte. Ltd.<br>Web URL: littlelives.com <br>Contact Hotline: 89296707 <br>Contact Email: sales@littlelives.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

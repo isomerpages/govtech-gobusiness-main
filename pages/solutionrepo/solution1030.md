@@ -1,28 +1,32 @@
 ---
-title: 'Automated Irrigation & Dosing System'
+title: 'Shopcada Ecommerce'
 permalink: /productivity-solutions-grant/solutionrepo/solution1030
 ---
 
-## Automated Irrigation & Dosing System
+## Shopcada Ecommerce
 
 ## Overview
 
 **Description**
 
-Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
+Shopcada is an Omni Channel ecommerce platform and its Key features include payment integration, order fulfillment automation and integration with delivery companies, SEO friendly & SEM Integration, CRM & loyalty tools, advance reporting, social commerce and integration with online marketplaces such as Shopee, Lazada and Zalora.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Webcada_Shopcada_Ecommerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -30,6 +34,10 @@ Automated irrigation & dosing with help of timers, sensors or computers or mecha
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: Webcada Pte. Ltd.<br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

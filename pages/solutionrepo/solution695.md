@@ -1,33 +1,28 @@
 ---
-title: 'Job Redesign Consultancy - SFIC Institute Pte Ltd'
+title: 'Automatic Feeding/ Drinking System'
 permalink: /productivity-solutions-grant/solutionrepo/solution695
 ---
 
-## Job Redesign Consultancy - SFIC Institute Pte Ltd
+## Automatic Feeding/ Drinking System
 
 ## Overview
 
 **Description**
 
-SFIC Institute is a human capital solutions provider established in response to the needs of a rapidly evolving workplace environment. 
-Our consultants have done Job and Process Redesign projects across various industries, including Education, Beauty and Retail companies. 
+A system that automates the feeding/ drinking process at a predetermined time and ensures that animals are fed with precision with reduced feed/ water wastage. It includes the components that makes up the automatic feeding/ drinking system, e.g. container (hopper), mechanism for distribution, control unit for starting / stopping the distribution mechanism, etc.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - SFIC Institute Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbySFICInstitute.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Feeding/ Drinking System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
@@ -35,10 +30,6 @@ Our consultants have done Job and Process Redesign projects across various indus
 
  - Direct Purchase
 
-## Vendor Information
-
- Company name: SFIC Institute Pte. Ltd.<br>Web URL: www.sficinstitute.edu.sg<br>Contact Name: Dominic Ng (CEO)<br>Contact Hotline: 8118 2517<br>Contact Email: dominic@sficinstitute.edu.sg
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

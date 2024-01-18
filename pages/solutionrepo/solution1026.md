@@ -1,28 +1,32 @@
 ---
-title: 'Aeration System/ Oxygenation System'
+title: 'Simpliify''s E-commerce Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1026
 ---
 
-## Aeration System/ Oxygenation System
+## Simpliify''s E-commerce Version 1
 
 ## Overview
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Simpliify's eCommerce Package is a comprehensive all-in-one digital solution for businesses of all sizes looking to digitize their business and kickstart their eCommerce revenue stream. With multiple useful in-built tools such as carting out, inventory management, social media integration, and responsive design for multiple devices rest assured that this package will be able to cater to all their digitalization business needs.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eComms Foundation Package</td>
+<td style='padding: 10px;'>$5,800.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Simpliify_Simpliify_Ecommerce_Version1_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -30,6 +34,10 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 
  - Direct Purchase
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company name:Simpliify Pte Ltd<br>Web URL: https://simpliify.co/ <br>Contact Hotline: 80530503<br>Contact Email: hello@simpliify.co 
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

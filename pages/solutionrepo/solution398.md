@@ -1,15 +1,15 @@
 ---
-title: 'Microsoft Dynamics 365 Business Central'
+title: 'ASURIX'
 permalink: /productivity-solutions-grant/solutionrepo/solution398
 ---
 
-## Microsoft Dynamics 365 Business Central
+## ASURIX
 
 ## Overview
 
 **Description**
 
-Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics family, and intended to assist with finance, manufacturing, customer relationship management, supply chains, analytics and electronic commerce for small and medium-sized companies and local subsidiaries of large international groups
+Asurix Accounting Software is a comprehensive and fully customisable cloud based solution which listed in IRAS Accounting Software Register. It has the full suite of accounting features such as bank reconciliation, e-invoicing, accounts payable, account receivable, inventory and assets manager.
 
 ## Solution Packages Option(s)
 
@@ -23,34 +23,41 @@ Microsoft Dynamics 365 Business Central is an ERP in the Microsoft Dynamics fami
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic (3 Users)</td>
-<td style='padding: 10px;'>$21,850.00</td>
-<td style='padding: 10px;'>$20,270.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'>$2,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Small Business With Warehousing (3 Users)</td>
-<td style='padding: 10px;'>$25,810.00</td>
-<td style='padding: 10px;'>$21,570.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'>$3,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Growing Enterprise With Warehousing (5 Users)</td>
-<td style='padding: 10px;'>$34,510.00</td>
-<td style='padding: 10px;'>$24,550.00</td>
-<td style='padding: 10px;'><a href='/images/psg/illum_20220409_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced</td>
+<td style='padding: 10px;'>$7,050.00</td>
+<td style='padding: 10px;'>$7,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
+<td style='padding: 10px;'>$9,650.00</td>
+<td style='padding: 10px;'>$8,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/net_20210444_Desensitised_Annex_3__Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name:Illum (9) Pte Ltd<br>Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com 
+ Company Name: NET SOLUTIONS PTE LTD<br>Web URL: www.asurix.com <br>Contact Hotline: 90125951 <br>Contact Email: info@netsolutions.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

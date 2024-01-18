@@ -1,19 +1,15 @@
 ---
-title: 'Getz F&B Omni Channel Solution Version 2'
+title: 'XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1325
 ---
 
-## Getz F&B Omni Channel Solution Version 2
+## XERO
 
 ## Overview
 
 **Description**
 
-Getz propels all F&Bs into success with an All-in-one Restaurant Management Solution that includes In-store Self-ordering, POS, Online Pickup, Island-wide Delivery, Payment Processing, CRM and Digital Marketing. 
-
-Powered by Getz, F&Bs can deliver a seamless Omni-channel service experience to customers, increase sales and streamline Costs across Sales, Marketing, Operations, Finance.
-
-Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ## Solution Packages Option(s)
 
@@ -27,17 +23,38 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A - 3 Mods (Contactless Dine-in, Pickup, Islandwide Delivery)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$8,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription (unlimited user)</td>
+<td style='padding: 10px;'>$611.00</td>
+<td style='padding: 10px;'>$611.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B - 1 Mod (Contactless Dine-in)</td>
-<td style='padding: 10px;'>$5,300.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Premium Subscription (unlimited user)</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription + Basic Setup + Basic Training (unlimited user)</td>
+<td style='padding: 10px;'>$1,811.00</td>
+<td style='padding: 10px;'>$1,811.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription + Full Setup + Full Training (unlimited user)</td>
+<td style='padding: 10px;'>$3,411.00</td>
+<td style='padding: 10px;'>$3,411.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Premium Subscription + Full Setup + Full Training (unlimited user)</td>
 <td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Getz_F_B_Omni_Channel_Sol_Ver2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -47,7 +64,7 @@ Till date, Getz has served more than 1000 F&Bs across the country of Singapore.
 
 ## Vendor Information
 
- Company Name: Getz Group Pte Ltd<br>Web URL: http://www.getz.co/ <br>Contact Hotline: 91010657  (WhatsApp)<br>Contact Email:  connect@getz.co
+ Company Nmae: Accounting Consultancy Pte. Ltd.<br>Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

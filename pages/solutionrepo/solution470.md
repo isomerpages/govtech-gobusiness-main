@@ -1,15 +1,15 @@
 ---
-title: 'Job Redesign Consultancy - LiT Strategy Pte Ltd'
+title: 'EASPAC Enterprise Software Version 10.1.1'
 permalink: /productivity-solutions-grant/solutionrepo/solution470
 ---
 
-## Job Redesign Consultancy - LiT Strategy Pte Ltd
+## EASPAC Enterprise Software Version 10.1.1
 
 ## Overview
 
 **Description**
 
-LiT Strategy is a Singaporean consulting firm founded by a team of experienced consultants with the vision to provide quality strategy consulting and business advisory services to SMEs. The firm also provides consulting services to local and regional governments as well as NGOs. We understand that Job Redesign is an integral part of many company's strategy and we are also able to work with you beyond your Human Capital Development needs.
+EASPAC Enterprise Software for the past 20 years has established itself as a reliable software application provider. It specializes in the development of solutions that are reliable and versatile. Its user-friendly interface is designed for ease of using.  The modules which are integrated in the system encompassed both accounting and operational aspect of the business requirement. With the unique structured design, EASPAC Enterprise Software can be easily set up to cater to most industries.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - LiT Strategy Pte Ltd</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyLiTStrategy.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
+<td style='padding: 10px;'>$24,700.00</td>
+<td style='padding: 10px;'>$23,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
+<td style='padding: 10px;'>$28,500.00</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$37,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
+<td style='padding: 10px;'>$24,000.00</td>
+<td style='padding: 10px;'>$23,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
+<td style='padding: 10px;'>$33,000.00</td>
+<td style='padding: 10px;'>$31,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ LiT Strategy is a Singaporean consulting firm founded by a team of experienced c
 
 ## Vendor Information
 
- Company name: LiT Strategy Pte Ltd<br>Web URL: https://www.lit-strategy.com/<br>Contact Name: Lincoln Tan, Director<br>Contact Hotline: 91055187<br>Contact Email: lincoln@lit-strategy.com
+ Company name:Prosperage Pte Ltd<br>Web URL: eas-software.com <br>Contact Hotline: 65633810 <br>Contact Email: sylvia@prosperage.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

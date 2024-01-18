@@ -1,15 +1,15 @@
 ---
-title: 'Advanced Ecommerce Solution by I Concept Version 2.0'
+title: 'Lemonade eCommerce Solution'
 permalink: /productivity-solutions-grant/solutionrepo/solution1306
 ---
 
-## Advanced Ecommerce Solution by I Concept Version 2.0
+## Lemonade eCommerce Solution
 
 ## Overview
 
 **Description**
 
-Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful Ecommerce store to sell their products online and to receive payment via an online payment gateway, QR Code payment, PayNow or PayLah. Three packages (Basic, Pro and Comprehensive) are available to cater to the different needs of the SMEs.
+Lemonade eCommerce solution is powered by WordPress/ WooCommerce, with customised design that suits client's branding. The solution is feature rich for clients to manage products, customer loyalty perks. The eCommerce site is easy to manage with site analytics available on the dashboard to make informed business decisions.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,17 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/I_Concept_Innovation_Advanced_Ecommerce_Solution_Ver2_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Prime</td>
+<td style='padding: 10px;'>$5,440.00</td>
+<td style='padding: 10px;'>$3,226.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus</td>
+<td style='padding: 10px;'>$8,690.00</td>
+<td style='padding: 10px;'>$3,626.73</td>
+<td style='padding: 10px;'><a href='/images/psg/Lemonade_eCommerce_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +43,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 ## Vendor Information
 
- Company name:I Concept Innovation Pte Ltd<br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg 
+ Company Name: Lemonade IT Solutions Pte Ltd<br>Web URL: https://lemonade-it.com<br>Contact Hotline: 31583831<br>Contact Email: askus@lemonade-it.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

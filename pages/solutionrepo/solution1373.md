@@ -1,15 +1,15 @@
 ---
-title: 'Fooyo Commerce Version 2.0'
+title: 'CARDDIO Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1373
 ---
 
-## Fooyo Commerce Version 2.0
+## CARDDIO Version 1
 
 ## Overview
 
 **Description**
 
-Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to sell their products and services across multiple platforms, including but not limited to websites, Mobile Apps, and WeChat/WhatsApp. Unlike marketplaces, Fooyo Commerce is a SaaS solution which focuses on building the long-term "private traffic" of the business and helping increase customer retention.
+Carddio is a cloud based solution which works on both iOS and Android versions and has a web base module for admin and management. The solution allows businesses to organize and manage customer relationships on a centralized and easy-to-use platform offering leads management, campaign management and marketing automation. In addition, it facilitates management to have an overview of salesman activity and identifies gaps for necessary actions.
 
 ## Solution Packages Option(s)
 
@@ -23,17 +23,31 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$7,488.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$7,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Plus</td>
-<td style='padding: 10px;'>$9,588.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Fooyo_Fooyo_Commerce_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plus Package</td>
+<td style='padding: 10px;'>$9,400.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pro Package</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise Package</td>
+<td style='padding: 10px;'>$12,000.00</td>
+<td style='padding: 10px;'>$8,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Carddio_CarddioVersion1_01122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -43,7 +57,7 @@ Fooyo Commerce is an omnichannel eCommerce solution which allows merchants to se
 
 ## Vendor Information
 
- Company name:Fooyo Pte. Ltd.<br>Web URL: https://www.fooyo.shop <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg 
+ Company name:Carddio Pte Ltd<br>Web URL: www.carddio.com.sg <br>Contact Hotline: 62589852 <br>Contact Email: psg@carddio.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

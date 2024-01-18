@@ -1,15 +1,15 @@
 ---
-title: 'A-Class Corporate Governance & Document Management by Sleek'
+title: 'DM Get Customers Digital Marketing Packages Version v1.02'
 permalink: /productivity-solutions-grant/solutionrepo/solution779
 ---
 
-## A-Class Corporate Governance & Document Management by Sleek
+## DM Get Customers Digital Marketing Packages Version v1.02
 
 ## Overview
 
 **Description**
 
-Sleek offers a fully digital experience for the effortless management of corporate governance and company documentation via one easy online platform.
+DM Get Customers offers a Social Media Advertising and Content Marketing package to boost marketing strategies. The package includes competitor analysis, audience targeting split testing, and a 1.5-minute video to enhance leads, impressions, and returns on ad spend. Along with a dedicated account manager, regular reports, and optimization recommendations, businesses can improve their online presence and elevate their brand with DM Get Customers.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Sleek offers a fully digital experience for the effortless management of corpora
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan A</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'>$519.21</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan B</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'>$623.06</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan C</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'>$728.97</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan D</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'>$841.12</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Plan E</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'>$1,009.35</td>
-<td style='padding: 10px;'><a href='/images/psg/SleekTech_AClassCorporateGovernance_Document Management_DesensitisedPart5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - Social Media Advertising + Content Marketing - 3 Months</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Get_Customers_DMGetCustomers_DesensitisedPart1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Sleek offers a fully digital experience for the effortless management of corpora
 
 ## Vendor Information
 
- Company name:SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg
+ Company name:Get Customers Pte Ltd<br>Web URL: www.getcustomers.com.sg <br>Contact Hotline: 88211378 <br>Contact Email: marketing@getcustomers.com.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

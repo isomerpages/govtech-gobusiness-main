@@ -1,15 +1,15 @@
 ---
-title: 'Revel Systems Version 2'
+title: 'Morphisec'
 permalink: /productivity-solutions-grant/solutionrepo/solution1410
 ---
 
-## Revel Systems Version 2
+## Morphisec
 
 ## Overview
 
 **Description**
 
-Revel Systems is the most versatile solution in the market today-a feature-rich F&B ordering platform that offers business owners and operators have complete control of their business.
+Powered by Morphisec's Automated Moving Defense technology, EQCOMS' Managed Security Service delivers instant pre-breach proactive protection against the most sophisticated cyberattacks efficiently without the need for prior knowledge. AMTD stops ransomware, supply chain attacks, zero-days, and other advanced attacks. Paired with our 24/7 monitoring center, we ensure customers sleep better at night knowing they're protected.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1</td>
-<td style='padding: 10px;'>$5,492.00</td>
-<td style='padding: 10px;'>$4,892.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (25 license)</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'>$2,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2</td>
-<td style='padding: 10px;'>$7,904.00</td>
-<td style='padding: 10px;'>$6,120.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (50 license)</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'>$6,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3</td>
-<td style='padding: 10px;'>$8,156.00</td>
-<td style='padding: 10px;'>$6,444.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Revel_Systems_Version2_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (100 license)</td>
+<td style='padding: 10px;'>$21,260.00</td>
+<td style='padding: 10px;'>$21,260.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (150 license)</td>
+<td style='padding: 10px;'>$33,280.00</td>
+<td style='padding: 10px;'>$33,280.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Managed Security Services SME (200 license)</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'>$39,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/EQCOMS_Morphisec_07122023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Revel Systems is the most versatile solution in the market today-a feature-rich 
 
 ## Vendor Information
 
- Company name:Revel Systems Holdings Pte Ltd<br>Web URL: https://revelsystems.com.sg/sgd-packaged-solutions/ <br>Contact Hotline: 62936275 <br>Contact Email: sales@revelsystems.com.sg 
+ Company name: EQCOMS Technology Pte Ltd<br>Web URL: https://eqcoms.com/our-products/morphisec-pre-approved-psg-available/ <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

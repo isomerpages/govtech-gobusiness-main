@@ -1,16 +1,15 @@
 ---
-title: 'MIBC Optimised E-commerce solution Version Magento 2.4.5'
+title: 'MetroERP Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1293
 ---
 
-## MIBC Optimised E-commerce solution Version Magento 2.4.5
+## MetroERP Version 1.0
 
 ## Overview
 
 **Description**
 
-MIBC E-commerce is a powerful cross border platform that integrates with multiple channels like Lazada and Shoppe in Southeast Asia. MIBC helps transform e-store with various integration and simplify complex operations into a seamless experience platform that enables e-store to execute action plans entirely within one repository.
-Business owners save time to explore countless subscription-based Saas tools by learning of just 1 solution.
+MetroERP is a cloud Inventory and Sales Management solution which makes it easier for SME's to manage, track and report on all their sales, purchases, inventory movements and warehouse operations. It is highly customisable to the user and has powerful reporting features built-in. Accessible from any internet browser and designed with a mobile friendly interface.
 
 ## Solution Packages Option(s)
 
@@ -24,10 +23,27 @@ Business owners save time to explore countless subscription-based Saas tools by 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$10,800.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/MIBC_MIBC_Optimised_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (1 User, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'>$2,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (5 Users, PEPPOL-Included)</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'>$12,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>MetroERP Accounting, Sales & Inventory Management
+System (10 Users & PEPPOL-Included)</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'>$16,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Metro_MetroERP_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -37,7 +53,7 @@ Business owners save time to explore countless subscription-based Saas tools by 
 
 ## Vendor Information
 
- Company name:MIBC PTE LTD<br>Web URL: https://mibc.sg/web-development/ <br>Contact Hotline: 63535152 <br>Contact Email: support@mibc.sg 
+ Company Name: METRO GROUP PTE. LTD.<br>Web URL: https://metrogroup.solutions <br>Contact Hotline: 87714911 <br>Contact Email: info@metrogroup.solutions <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

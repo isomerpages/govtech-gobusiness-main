@@ -1,15 +1,15 @@
 ---
-title: 'Simplify Version 1'
+title: 'Tisch Global - Xero Accounting'
 permalink: /productivity-solutions-grant/solutionrepo/solution592
 ---
 
-## Simplify Version 1
+## Tisch Global - Xero Accounting
 
 ## Overview
 
 **Description**
 
-Simplify FSM solution connects and empowers field technicians while simplifying and automating processes, helping to acceleration execution, improve the productivity of service teams, and boost customer satisfaction. With Simplify, you can enhance customer experiences and bolster loyalty by solving issues more quickly and effectively.
+Tisch Global Corporate Advisory is pleased to provide Xero, a cloud-based accounting solution for small businesses. The solution manages and record your accounts on the cloud; sends invoices digitally and manage supplier payments seamlessly with Xero's multiple features and integrations. The solution provides real-time financial reports anytime and anywhere.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic (15 users)</td>
-<td style='padding: 10px;'>$15,500.00</td>
-<td style='padding: 10px;'>$15,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$779.00</td>
+<td style='padding: 10px;'>$717.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Basic Plus (15 users)</td>
-<td style='padding: 10px;'>$17,300.00</td>
-<td style='padding: 10px;'>$17,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package</td>
+<td style='padding: 10px;'>$1,804.00</td>
+<td style='padding: 10px;'>$1,742.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard (50 users)</td>
-<td style='padding: 10px;'>$27,500.00</td>
-<td style='padding: 10px;'>$24,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package</td>
+<td style='padding: 10px;'>$2,929.00</td>
+<td style='padding: 10px;'>$2,867.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Standard Plus (50 users)</td>
-<td style='padding: 10px;'>$33,500.00</td>
-<td style='padding: 10px;'>$30,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package</td>
+<td style='padding: 10px;'>$6,138.00</td>
+<td style='padding: 10px;'>$6,057.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Simplify - Business (Unlimited Users)</td>
-<td style='padding: 10px;'>$36,500.00</td>
-<td style='padding: 10px;'>$32,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Noid_20210357_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package</td>
+<td style='padding: 10px;'>$7,388.00</td>
+<td style='padding: 10px;'>$7,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_Xero_Accounting_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Simplify FSM solution connects and empowers field technicians while simplifying 
 
 ## Vendor Information
 
- Web URL: simplify.asia <br><br>Contact Hotline: 67344430 <br><br>Contact Email: hello@noid.com.sg <br><br>
+ Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: matthew@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

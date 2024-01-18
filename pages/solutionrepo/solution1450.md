@@ -1,53 +1,31 @@
 ---
-title: 'SPTel-Fortinet-Managed Firewall Solutions'
+title: 'Industrial/Commercial Slicer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1450
 ---
 
-## SPTel-Fortinet-Managed Firewall Solutions
+## Industrial/Commercial Slicer
 
 ## Overview
 
 **Description**
 
-SPTel's Managed Firewall solution offers the best in next generation firewall (NGFW) protection for SMEs. The Fortigate F-series firewall provides superior performance with a simple management interface. It uses the AI-powered FortiGuard security service to identify multiple threats and vulnerabilities for round-the-clock protection with threat intelligence. For added security, SPTel's network is monitored and supported by a 24 X 7 Integrated Network Operation Center located in Singapore.
+The slicer is an equipment that replaces manual slicing, allowing for large amounts of food to be cut into smaller pieces of variable thickness, allowing cuts to be uniform. The equipment allows for quick slicing of food, allowing for food to be packaged quickly and sent out to customers. 
+
+Cost of equipment capped at $37,500 per unit 
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-60F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'>$1,850.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-80F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'>$3,050.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-100F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'>$5,950.00</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fortigate-FG-200F UTP bundle with Installation and 1 Year 24x7 Solution Support</td>
-<td style='padding: 10px;'>$8,850.00</td>
-<td style='padding: 10px;'>$7,742.16</td>
-<td style='padding: 10px;'><a href='/images/psg/SPTEL_SPTel_Fortinet_Managed_Firewall_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Industrial/Commercial Slicer</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Machine is able to slice food products at various widths<br><br>2. Slicing process should be fully automated without a need for to manually reposition the food product</td>
 </tr>
 </table>
 
@@ -55,10 +33,6 @@ SPTel's Managed Firewall solution offers the best in next generation firewall (N
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: SPTEL PTE LTD<br>Web URL: https://www.sptel.com/service/ <br>Contact Hotline: 69826888 <br>Contact Email: enquiry@sptel.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>
