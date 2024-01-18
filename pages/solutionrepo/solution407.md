@@ -1,15 +1,15 @@
 ---
-title: 'Netiquette Cloud Business Suite'
+title: 'Payboy HRMS'
 permalink: /productivity-solutions-grant/solutionrepo/solution407
 ---
 
-## Netiquette Cloud Business Suite
+## Payboy HRMS
 
 ## Overview
 
 **Description**
 
-Netiquette Business Suite is a cloud based solutions designed for growth stage businesses that has advance features to ease off the growing day to day challenges. The solutions have a library of APIs to fit various business needs . Netiquette is one of the first few solutions in the market to offer "Seamless Filing" feature; Seamless Filing offer SMEs to file their annual statutory filing such as "Form CS", "Annual Return" and "Simplified XBRL" directly and thus saving hours of preparation.
+Payboy is a Payroll and HR Management Software which automates the essential HR processes such as benefits, leaves, and attendance, so that businesses can focus on bringing out the best in their people.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package A (Saas for 5 Users)</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'>$4,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package A (20 Employees)</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'>$6,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package B (Saas for 10 Users)</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'>$5,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package B (45 Employees)</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'>$10,200.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package C (Saas for 15 Users)</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'>$6,340.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package C (75 Employees)</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'>$14,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package D (Saas for 25 Users)</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package D (120 Employees)</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'>$20,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Netiquette Cloud Business Suite - Package E (Saas for 35 Users)</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'>$9,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Netiquette_20210474_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Payboy HRMS - Package E (200 Employees)</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'>$29,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Payboy_HRMS_20210492_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Netiquette Business Suite is a cloud based solutions designed for growth stage b
 
 ## Vendor Information
 
- Company Name: Netiquette Software Pte Ltd<br>Web URL: www.netiquette.com.sg <br><br>Contact Hotline: 94882285 <br><br>Contact Email: enquiry@netiquette.com.sg <br><br>
+ Company Name: Payboy Pte. Ltd.<br>Web URL: https://payboy.biz <br><br>Contact Hotline: 91876425 <br><br>Contact Email: nigel.lim@payboy.biz <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

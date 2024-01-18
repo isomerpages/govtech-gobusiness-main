@@ -1,15 +1,15 @@
 ---
-title: 'SMART AUDIT'
+title: 'ASFA Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution1210
 ---
 
-## SMART AUDIT
+## ASFA Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-Smart Audit is a new generation cloud-based audit workflow software. It currently helps auditors in more than 40 countries to digitize, automate & improvise the quality and efficiency of Audits. While focusing on the best user experience and ease of use, Smart Audit also makes sure it brings in the most critical auditing functionalities and makes it a breeze to use the solution.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,31 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>ISCA External Audit Pack - 5 users (2 years)</td>
-<td style='padding: 10px;'>$6,360.00</td>
-<td style='padding: 10px;'>$6,296.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Smart_Audit_SMART_AUDIT_07092023_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 1 (Software Only)</td>
+<td style='padding: 10px;'>$600.00</td>
+<td style='padding: 10px;'>$560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 2 (Software Only)</td>
+<td style='padding: 10px;'>$780.00</td>
+<td style='padding: 10px;'>$725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package 3 (Software + Training)</td>
+<td style='padding: 10px;'>$1,400.00</td>
+<td style='padding: 10px;'>$960.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Package 4 (Software + Setup + Training)</td>
+<td style='padding: 10px;'>$3,400.00</td>
+<td style='padding: 10px;'>$2,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/ASFA_Management_Xero_Accounting_05102023_Desensitised_Annex3_Part4.pdf ' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +57,7 @@ Smart Audit is a new generation cloud-based audit workflow software. It currentl
 
 ## Vendor Information
 
- Company Name: Smart Audit Pte. Ltd.<br>Web URL: www.smartaudit.co <br>Contact Hotline: 91809136 <br>Contact Email: support@smartaudit.co <br>
+ Company name:ASFA MANAGEMENT PTE. LTD.<br>Web URL: www.asfamgt.com <br>Contact Hotline: 96370039 <br>Contact Email: amilu@asfamgt.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

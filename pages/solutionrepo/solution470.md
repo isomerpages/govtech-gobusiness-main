@@ -1,15 +1,15 @@
 ---
-title: 'EASPAC Enterprise Software Version 10.1.1'
+title: 'Eset Protect Entry'
 permalink: /productivity-solutions-grant/solutionrepo/solution470
 ---
 
-## EASPAC Enterprise Software Version 10.1.1
+## Eset Protect Entry
 
 ## Overview
 
 **Description**
 
-EASPAC Enterprise Software for the past 20 years has established itself as a reliable software application provider. It specializes in the development of solutions that are reliable and versatile. Its user-friendly interface is designed for ease of using.  The modules which are integrated in the system encompassed both accounting and operational aspect of the business requirement. With the unique structured design, EASPAC Enterprise Software can be easily set up to cater to most industries.
+Rentalworks is a provider of sustainable IT device lease-to-use and endpoint security solution. The award winning ESET Protect Entry provides multiple layers of protection and can detect malware before, during and after execution with machine learning and human expertise working in dynamic equilibrium to balance detection performance and false positives. Get protected against ransomware, blocks targeted attacks, prevent data breaches, stop fileless attacks and detect advanced persistent threats.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ EASPAC Enterprise Software for the past 20 years has established itself as a rel
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$23,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/1_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 5 Licenses (1 year)</td>
+<td style='padding: 10px;'>$300.00</td>
+<td style='padding: 10px;'>$300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
-<td style='padding: 10px;'>$28,500.00</td>
-<td style='padding: 10px;'>$27,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/2_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 10 Licenses (1 year)</td>
+<td style='padding: 10px;'>$450.00</td>
+<td style='padding: 10px;'>$450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
-<td style='padding: 10px;'>$39,500.00</td>
-<td style='padding: 10px;'>$37,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/3_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 25 Licenses (1 year)</td>
+<td style='padding: 10px;'>$1,088.00</td>
+<td style='padding: 10px;'>$1,088.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users (Cloud)</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'>$23,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/4_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 50 Licenses (1 year)</td>
+<td style='padding: 10px;'>$2,025.00</td>
+<td style='padding: 10px;'>$2,025.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users (Cloud)</td>
-<td style='padding: 10px;'>$33,000.00</td>
-<td style='padding: 10px;'>$31,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/5_pdfsam_20220259_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Eset Protect Entry - 100 Licenses (1 year)</td>
+<td style='padding: 10px;'>$3,750.00</td>
+<td style='padding: 10px;'>$3,750.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Rentalworks_20210245_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ EASPAC Enterprise Software for the past 20 years has established itself as a rel
 
 ## Vendor Information
 
- Company name:Prosperage Pte Ltd<br>Web URL: eas-software.com <br>Contact Hotline: 65633810 <br>Contact Email: sylvia@prosperage.com 
+ Company Name: Rentalworks (SG) Pte Ltd<br>Web URL: https://www.rentalworks.com.sg/curated-offers/ <br><br>Contact Hotline: 96119602 <br><br>Contact Email: psg@rentalworks.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'A-Class Accounting & Sales Management by Sleek'
+title: 'DM Orfeostory Digital Marketing Packages Version 1'
 permalink: /productivity-solutions-grant/solutionrepo/solution1273
 ---
 
-## A-Class Accounting & Sales Management by Sleek
+## DM Orfeostory Digital Marketing Packages Version 1
 
 ## Overview
 
 **Description**
 
-Sleek provides a fully digital solution for accounting, tax and sales management for SMEs and Startups in Singapore backed up by quality local support.
+Orfeostory is a company that assists businesses in achieving their goals of driving awareness, traffic, and sales through personalised Digital Marketing Packages. Their approach involves conducting comprehensive analyses and creating strategic marketing plans, which are aimed at reaching audiences with a high purchase intent. By using Data Analytics, Orfeostory ensures that potential customers are reached at all touchpoint. Interested parties can get in touch with their in-house team today.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A - Slim</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'>$962.60</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>B - Start Up</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'>$1,264.56</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>C - SME</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'>$1,822.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>D - Supreme</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'>$2,939.84</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>E - Growth</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'>$4,076.20</td>
-<td style='padding: 10px;'><a href='/images/psg/Sleek_Tech_A_Class_Accounting_Sales_Mgmt_05102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - 6 Months SEO (20 keywords) + 3 Months SMM + 3 Months SEM</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Orfeostory_DM_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Sleek provides a fully digital solution for accounting, tax and sales management
 
 ## Vendor Information
 
- Company Name: SLEEK TECH (PTE. LTD.)<br>Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+ Company Name: Orfeostory Pte Ltd <br>Web URL: http://www.orfeostory.com/e-commerce-web-development/ <br>Contact Hotline: 67441123 <br>Contact Email: sales.sg@orfeostory.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

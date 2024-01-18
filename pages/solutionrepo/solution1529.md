@@ -1,15 +1,15 @@
 ---
-title: 'AIO CRM'
+title: 'A2000ERP Version 12'
 permalink: /productivity-solutions-grant/solutionrepo/solution1529
 ---
 
-## AIO CRM
+## A2000ERP Version 12
 
 ## Overview
 
 **Description**
 
-AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate business processes. The software provides in-depth features such as leads management, campaign module and ticketing module to enable a comprehensive customer management coverage. AIO CRM is designed to enable SMEs to operate seamlessly to increase productivity.
+A2000ERP is a business management tool, integrated with components necessary for fast growing SMEs. With its real-time engine, all transactions will turn into critical information that supports better decisions. A2000ERP is developed in Singapore designed for SMEs with high level of security and a robust database. It is easy to implement, fast to go live, cost effective and bring highly scalable, high-end functions and reporting capabilities for SMEs
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'>$7,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_AIO_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP SOLUTION V.12.X for 2 Users</td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'>$13,040.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_A2000ERP_18012024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP SOLUTION V.12.X for 5 Users</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_A2000ERP_18012024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP SOLUTION V.12.X for 3 Users</td>
+<td style='padding: 10px;'>$15,560.00</td>
+<td style='padding: 10px;'>$15,560.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_A2000ERP_18012024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP MOBILE SOLUTION V.12.X for 5 Users, Mobile Sales for 5 Devices</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$26,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_A2000ERP_18012024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>A2000ERP WAREHOUSE SOLUTION V.12.X for 5 Users, Mobile Sales/Warehouse for 10 Devices</td>
+<td style='padding: 10px;'>$32,200.00</td>
+<td style='padding: 10px;'>$29,700.00</td>
+<td style='padding: 10px;'><a href='/images/psg/A2000_A2000ERP_18012024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate
 
 ## Vendor Information
 
- Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com<br>Contact Hotline: 92706043<br>Contact Email: sales@aio-interactive.com
+ Company Name: A2000 Solutions Pte Ltd<br>Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

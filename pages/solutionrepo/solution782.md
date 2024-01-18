@@ -1,15 +1,15 @@
 ---
-title: 'ASHOKATREE - Xero Cloud Accounting'
+title: 'DM OC Digital Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution782
 ---
 
-## ASHOKATREE - Xero Cloud Accounting
+## DM OC Digital Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Get ready for one of the best accounting solutions for small and medium size businesses (SME). Xero is one of the fastest-growing and popular cloud-based software solutions in the market. Thanks to its ease of use and versatility, Xero is packed with features and integrations that make it suitable for various businesses and sectors. SME currently exploring accounting solution may connect with Ashoka Tree Associates to learn more about Xero. Ashoka Tree Associates is a certified Xero advisor.
+OC Digital is a proven multi-award-winning agency that has served Singapore businesses for over 10 years helping more than 600 companies generate customers by using the right digital marketing methods. As an SME ourselves, we know what local businesses are going through. Entrust your business with us to win back more customers today! We have created 4 digital marketing package solutions for you to choose from and there is one that will definitely help you and your business.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,31 @@ Get ready for one of the best accounting solutions for small and medium size bus
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Subscription</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'>$750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SEO + SEM (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Essential</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Enhance</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'>$3,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Empower</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Excellence</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ASHOKA_TREE_XeroCloudAccounting_Desensitised_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 - SEO + SEM + SMA (3 Months)</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'>$9,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/OCDigital_DMOCDigital_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +57,7 @@ Get ready for one of the best accounting solutions for small and medium size bus
 
 ## Vendor Information
 
- Company name:ASHOKA TREE ASSOCIATES PTE. LTD.<br>Web URL: www.ashokatree.com.sg <br>Contact Hotline: 69516732 <br>Contact Email: johnny@ashokatree.com.sg 
+ Company Name: OC Digital Pte Ltd<br>Web URL: https://ocdigitalnetwork.com/services/ <br>Contact Hotline: 63430068 <br>Contact Email: hello@ocdigitalnetwork.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

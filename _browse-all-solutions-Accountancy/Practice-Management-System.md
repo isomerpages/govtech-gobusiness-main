@@ -20,11 +20,11 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1532' target='_blank'>TWXRM</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1464' target='_blank'>TWXRM</a><br></td>
 <td>teamWork APAC Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1590' target='_blank'>iFirm</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1522' target='_blank'>iFirm</a><br></td>
 <td>Wolters Kluwer Singapore Pte Ltd</td>
 </tr>
 </table>

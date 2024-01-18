@@ -1,15 +1,15 @@
 ---
-title: 'QuickHR (eScheduling)'
+title: 'FidCorp Xero Accounting Software'
 permalink: /productivity-solutions-grant/solutionrepo/solution216
 ---
 
-## QuickHR (eScheduling)
+## FidCorp Xero Accounting Software
 
 ## Overview
 
 **Description**
 
-Designed with security, stability and scalability in mind, QuickHR eScheduling enables businesses to efficiently manage attendance, overtime, timesheets, rosters/ shifts and schedules through an automated experience with built-in QuickHR HRMS Integration. QuickHR eScheduling is MOM compliant, ISO 27001:2013 certified, and the only Singapore-based eScheduling provider to achieve the highest level of cloud security certification - MTCS SS584:2020 Level 2.
+FidCorp, best-in-class Corporate Secretarial, Accounting and Tax company, is committed to providing quality products and services to business owners. As the winner of the Xero Singapore Emerging Accounting Partner of the Year Award for FY2022, FidCorp present FidCorp Xero Accounting Software to business owners so that they have more ME time with Xero simplifying their everyday business tasks! As always, FidCorp believe in retaining a personal touch while leveraging technology to deliver cost-eff
 
 ## Solution Packages Option(s)
 
@@ -23,48 +23,48 @@ Designed with security, stability and scalability in mind, QuickHR eScheduling e
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>START ESCH (25 Headcounts)</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'>$3,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 1: Standard Subscription only</td>
+<td style='padding: 10px;'>$660.00</td>
+<td style='padding: 10px;'>$617.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPROUT ESCH (50 Headcounts)</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'>$6,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 2: Premium Subscription only</td>
+<td style='padding: 10px;'>$864.00</td>
+<td style='padding: 10px;'>$807.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SPRING ESCH (100 Headcounts)</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'>$10,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 3: Premium Subscription & Implementation</td>
+<td style='padding: 10px;'>$2,164.00</td>
+<td style='padding: 10px;'>$2,107.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SCALE ESCH (150 Headcounts)</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'>$14,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 4: Premium Subscription, Implementation & Training</td>
+<td style='padding: 10px;'>$2,564.00</td>
+<td style='padding: 10px;'>$2,307.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SOAR ESCH (200 Headcounts)</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'>$18,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EnableBusiness_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>FidCorp Xero Accounting Software - Package 5: Premium Subscription, Implementation, Training & Migration</td>
+<td style='padding: 10px;'>$4,264.00</td>
+<td style='padding: 10px;'>$4,007.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_Fidcorp_Annex_3_CR_wef_15dec22_Part_5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company name:Enable Business Pte Ltd<br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co 
+ Company Name: FidCorp Services Private Limited<br>Web URL: http://fidcorp.com/accounting/<br>Contact Hotline: 63653066<br>Contact Email: landy.zhang@fideliumgroup.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

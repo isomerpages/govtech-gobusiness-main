@@ -1,15 +1,15 @@
 ---
-title: 'DM SBC Digital Marketing Packages'
+title: 'XERO'
 permalink: /productivity-solutions-grant/solutionrepo/solution1266
 ---
 
-## DM SBC Digital Marketing Packages
+## XERO
 
 ## Overview
 
 **Description**
 
-Story Box Collective helps business owners increase their ROI by navigating the challenging digital world. Having worked with multiple brands and digitalised over 50 businesses across a variety of industries -Story Box Collective helps SMEs get their business and brand seen by the right audiences online, improve the brand's social engagement, and double-triple their ROI and sales, through Facebook & Instagram Marketing, Google SEO & SEM, videography, photography and media assets creation.
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ Story Box Collective helps business owners increase their ROI by navigating the 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 - SMM Photography + Videography  (2 months)</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'>$9,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part1.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription (unlimited user)</td>
+<td style='padding: 10px;'>$611.00</td>
+<td style='padding: 10px;'>$611.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 - SMM Facebook & SMM Instagram (3 Months)</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'>$9,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part2.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Premium Subscription (unlimited user)</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'>$800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 - SEO & SEM (6 Months)</td>
-<td style='padding: 10px;'>$10,900.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Story_Box_Collective_DM_Packages_05102023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription + Basic Setup + Basic Training (unlimited user)</td>
+<td style='padding: 10px;'>$1,811.00</td>
+<td style='padding: 10px;'>$1,811.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Standard Subscription + Full Setup + Full Training (unlimited user)</td>
+<td style='padding: 10px;'>$3,411.00</td>
+<td style='padding: 10px;'>$3,411.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>XERO Premium Subscription + Full Setup + Full Training (unlimited user)</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'>$5,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccountingConsultancy_XERO_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ Story Box Collective helps business owners increase their ROI by navigating the 
 
 ## Vendor Information
 
- Company name:STORY BOX COLLECTIVE PTE. LTD.<br>Web URL: https://www.storyboxcollective.com/e-commerce-implementation/ <br>Contact Hotline: 62545547 <br>Contact Email: enquiries@storyboxcollective.com 
+ Company Nmae: Accounting Consultancy Pte. Ltd.<br>Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

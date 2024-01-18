@@ -1,15 +1,15 @@
 ---
-title: 'Aeration System/ Oxygenation System'
+title: 'Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System'
 permalink: /productivity-solutions-grant/solutionrepo/solution687
 ---
 
-## Aeration System/ Oxygenation System
+## Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System
 
 ## Overview
 
 **Description**
 
-For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
+Dosers and sensors or sub-meters for water and energy monitoring of relevant farming parameters (e.g. energy, humidity, carbon dioxide, nitrogen, light or temperature, etc)
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ For better water quality management by evenly distribute compressed air/ oxygen 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Aeration System/ Oxygenation System</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Environment/ Water/ Nutrient Sampling, Monitoring & Control Equipment/ System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

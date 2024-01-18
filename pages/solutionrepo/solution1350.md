@@ -1,15 +1,15 @@
 ---
-title: 'ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3'
+title: 'Job Redesign Consultancy - CET Global Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1350
 ---
 
-## ROCKBELL HUMAN RESOURCE MANAGEMENT SYSTEM Version 3
+## Job Redesign Consultancy - CET Global Pte Ltd
 
 ## Overview
 
 **Description**
 
-Rockbell's HRMS is an all-inclusive human resource management solution that fulfils the needs of SMEs. It has 5 tightly integrated modules to simplify HR processes and an intuitive interface so that even those without HR knowledge can navigate the system with ease.
+CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,10 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 (1 concurrent user - 30 Employees)</td>
-<td style='padding: 10px;'>$2,719.00</td>
-<td style='padding: 10px;'>$2,719.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 (1 concurrent user - 60 Employees)</td>
-<td style='padding: 10px;'>$4,039.00</td>
-<td style='padding: 10px;'>$4,039.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 (1 concurrent user - Unlimited Employees)</td>
-<td style='padding: 10px;'>$6,899.00</td>
-<td style='padding: 10px;'>$6,899.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 (3 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$7,849.00</td>
-<td style='padding: 10px;'>$7,849.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 5 (5 concurrent users - Unlimited Employees)</td>
-<td style='padding: 10px;'>$8,849.00</td>
-<td style='padding: 10px;'>$8,849.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Rockbell_ROCKBELLHUMANRESOURCE_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - CET Global Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +36,7 @@ Rockbell's HRMS is an all-inclusive human resource management solution that fulf
 
 ## Vendor Information
 
- Web URL: www.rockbell.sg <br><br>Contact Hotline: 64697720 <br><br>Contact Email: sales@rockbell.com.sg <br><br>
+ Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg<br>Contact Name: Mr Brandon Koh<br>Contact Email: brandon.koh@cetglobal.com.sg<br>Contact Number: 9112 9157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

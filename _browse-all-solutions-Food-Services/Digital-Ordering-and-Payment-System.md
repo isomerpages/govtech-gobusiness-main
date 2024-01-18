@@ -28,103 +28,103 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution540' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution498' target='_blank'>Iorderla Digital Ordering BYOD Solution Version 1.0</a><br></td>
 <td>SUNTOYO TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution817' target='_blank'>CIRCL F&B Omnichannel</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution769' target='_blank'>CIRCL F&B Omnichannel</a><br></td>
 <td>CIRCL Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution823' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution775' target='_blank'>EISOL F&B (Eats365) Version 1.0</a><br></td>
 <td>EISOL Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution871' target='_blank'>Sapaad Version 601</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution818' target='_blank'>Sapaad Version 601</a><br></td>
 <td>Sapaad Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution896' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0 </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution843' target='_blank'>Weebo Digital Ordering Solution Version 3.2.9.0 </a><br></td>
 <td>Weebo Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution899' target='_blank'>Ellie Integrated System Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution846' target='_blank'>Ellie Integrated System Version 2</a><br></td>
 <td>Supply Ellie Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution904' target='_blank'>EQuip Orders Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution851' target='_blank'>EQuip Orders Version 1</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution909' target='_blank'>BIZ FNB DIGITAL ORDERING</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution856' target='_blank'>BIZ FNB DIGITAL ORDERING</a><br></td>
 <td>Coobiz IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution913' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution860' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>F&B Solutions Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution878' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution944' target='_blank'>EPOINT Version 9</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution891' target='_blank'>EPOINT Version 9</a><br></td>
 <td>Epoint Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution948' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution895' target='_blank'>Wecome ONE Wireless Digital Ordering & Online Payment Version 1.1</a><br></td>
 <td>Wecome Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution952' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution899' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br></td>
 <td>AppsPOS Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution957' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution904' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution959' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution906' target='_blank'>Aptsys - Digital Ordering Solutions</a><br></td>
 <td>Aptsys Technology Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution963' target='_blank'>iMakan</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution910' target='_blank'>iMakan</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution968' target='_blank'>Smartweb Version V3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution915' target='_blank'>Smartweb Version V3</a><br></td>
 <td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1105' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1047' target='_blank'>EPOS Integrated Digital Solution for F&B Version 2.0</a><br></td>
 <td>EPOS Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1112' target='_blank'>LFSuite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1054' target='_blank'>LFSuite</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1120' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1062' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
 <td>AZ Digital Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1139' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1081' target='_blank'>APPZPOS F&B Point of Sales Version 1.1</a><br></td>
 <td>APPZGATE SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1142' target='_blank'>Aigens Digital Ordering</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>Aigens Digital Ordering</a><br></td>
 <td>Aigens Technology (Singapore) Pte. Ltd. </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1160' target='_blank'>WarelyPOS Version 1.3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1101' target='_blank'>WarelyPOS Version 1.3</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1246' target='_blank'>NPOS Version 2.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1187' target='_blank'>NPOS Version 2.1</a><br></td>
 <td>NSTORY PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1429' target='_blank'>Revel Systems Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1361' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
 </table>

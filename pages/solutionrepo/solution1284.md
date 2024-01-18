@@ -1,15 +1,15 @@
 ---
-title: 'DM Guidesify Digital Marketing Packages'
+title: 'BIMAGE - AUTODESK COLLECTION'
 permalink: /productivity-solutions-grant/solutionrepo/solution1284
 ---
 
-## DM Guidesify Digital Marketing Packages
+## BIMAGE - AUTODESK COLLECTION
 
 ## Overview
 
 **Description**
 
-Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO foundation for their website, while looking to expand their reach into niche markets through Email Marketing. Guidesify believes that Digital Marketing is a continuous effort that requires commitment on both the part of client and Guidesify as a vendor. This will ensure clients' websites rank highly in search engines, and clients' target audiences are frequently engaged through email marketing.
+Autodesk Collection equips the industry to design & construct high quality, data rich & sustainable solution for building industry. It is an extensive & flexible software which encompasses all building & infrastructure typologies development. Autodesk Collection consists of various software which work in unison to bring a project to fruition. It integrates design & construction workflows which can be used by architects, engineers & contractors to work more efficiently to achieve a common goal.
 
 ## Solution Packages Option(s)
 
@@ -23,10 +23,38 @@ Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO 
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SEO + Email marketing [3 months]</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Guidesify_Digital_Marketing_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year Revit + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,460.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-Day IFC-SG training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC</td>
+<td style='padding: 10px;'>$3,200.00</td>
+<td style='padding: 10px;'>$1,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 1-day training</td>
+<td style='padding: 10px;'>$3,450.00</td>
+<td style='padding: 10px;'>$1,840.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 Year AEC + 3-Days Revit training + 1-Day Data Management training</td>
+<td style='padding: 10px;'>$4,200.00</td>
+<td style='padding: 10px;'>$2,590.00</td>
+<td style='padding: 10px;'><a href='/images/psg/bimage_autodeskcollection_16112023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -36,7 +64,7 @@ Guidesify's Digital Marketing Package is for SMEs looking to build a strong SEO 
 
 ## Vendor Information
 
- Company Name: Guidesify Pte. Ltd.<br>Web URL: https://guidesify.com/psg-grant-singapore-ecommerce/ <br>Contact Hotline: 87755483 <br>Contact Email: hello@guidesify.com <br>
+ Company Name: BIMAGE Consulting Pte. Ltd.<br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

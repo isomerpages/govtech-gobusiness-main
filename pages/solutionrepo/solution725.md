@@ -1,15 +1,15 @@
 ---
-title: 'Farm Produce Washing Machine'
+title: 'Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems'
 permalink: /productivity-solutions-grant/solutionrepo/solution725
 ---
 
-## Farm Produce Washing Machine
+## Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems
 
 ## Overview
 
 **Description**
 
-A machine to wash produce, it effectively separates the impurities and degrade the residual pesticides.
+Equipment that allows automation when packing produce or automatic devices for measuring the amount of produce (e.g. number of fish).
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A machine to wash produce, it effectively separates the impurities and degrade t
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Farm Produce Washing Machine</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Packing, delivery and shipment management systems e.g. automatic counter, packing, IT systems</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

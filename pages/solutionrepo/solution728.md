@@ -1,15 +1,15 @@
 ---
-title: 'Pest/ Disease Monitoring and Control Equipment/ System'
+title: 'Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology'
 permalink: /productivity-solutions-grant/solutionrepo/solution728
 ---
 
-## Pest/ Disease Monitoring and Control Equipment/ System
+## Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology
 
 ## Overview
 
 **Description**
 
-A device for pest or disease monitoring (e.g. software & field diagnostic device) and pest or disease control (e.g. Air purification system).
+Equipment (e.g. pumps, bio-filters) that will be incorporated into recirculating aquaculture systems or equipment that improves the quality of the water to make it more acceptable or better for a specific end-use.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A device for pest or disease monitoring (e.g. software & field diagnostic device
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Pest/ Disease Monitoring and Control Equipment/ System</td>
-<td style='padding: 10px;'> </td>
-<td style='padding: 10px;'>Holding Period of 3 years</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Water treatment e.g. ozone bead filter, pumps, protein skimmers, oxygen cones, nanobubble technology</td>
+<td style='padding: 10px;'></td>
+<td style='padding: 10px;'></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Direct Purchase, Hire Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

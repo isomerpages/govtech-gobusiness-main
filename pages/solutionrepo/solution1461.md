@@ -1,37 +1,43 @@
 ---
-title: 'Autonomous Mobile Robot'
+title: 'AIO CRM'
 permalink: /productivity-solutions-grant/solutionrepo/solution1461
 ---
 
-## Autonomous Mobile Robot
+## AIO CRM
 
 ## Overview
 
 **Description**
 
-The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. As a collaborative robot for automated internal transportation, AMR comes with autonomous functions to identify obstacles and navigate around factory floor without need for markers or coming to a complete stop for an extended period. 
-
-Cost of equipment capped at $37,500 per unit 
+AIO CRM is an all-in-one (AIO) cloud-based solution that is designed to automate business processes. The software provides in-depth features such as leads management, campaign module and ticketing module to enable a comprehensive customer management coverage. AIO CRM is designed to enable SMEs to operate seamlessly to increase productivity.
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>Equipment Name</b></th>
-<th><b>Cost Cap</b></th>
-<th><b>Mandatory Specifications</b></th>
+<th><b>No.</b></th>
+<th><b>Package Name</b></th>
+<th><b>Total Package Cost</b></th>
+<th><b>Total Qualifying Cost</b></th>
+<th><b>Solution Details</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Autonomous Mobile Robot</td>
-<td style='padding: 10px;'>$37,500.00</td>
-<td style='padding: 10px;'>1. Robot can lift minimum payload of 110kg<br>2. Robot has a minimum load surface of 650MM x 550MM.<br>3. Robot includes a software for the robot to move in an autonomous manner, and to detect and avoid obstacles.</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>AIO CRM</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'>$7,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AIO_Interactive_AIO_CRM_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+## Vendor Information
+
+ Company Name: AIO Interactive Pte Ltd<br>Web URL: www.aio-interactive.com<br>Contact Hotline: 92706043<br>Contact Email: sales@aio-interactive.com
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

@@ -1,17 +1,23 @@
 ---
-title: 'Xero'
+title: 'FLEETEYE'
 permalink: /productivity-solutions-grant/solutionrepo/solution34
 ---
 
-## Xero
+## FLEETEYE
 
 ## Overview
 
 **Description**
 
-Ace is a value-added system integrator, focusing on providing customers with solutions that enhances their productivity and efficiency.
+FLEETEYE is used to monitor and operate remote assets.
+This is a module that operates 3 types of cameras, with GPS location.
+The solution is most suited for assets that are operated by humans in faraway locations.
 
-XERO being a cloud based and IRAS approved accounting software, it allows companies to access their financials anytime, anywhere.
+A (BIOMETRIC) - monitors humans and measure fatigue and behaviour.
+B (SAFETY) - visual limits will trigger warnings if breached
+C (SURVEILLANCE) - outdoor recording with night vision
+
+Suited for vehicles, containers, mobile equipment or remote sites.
 
 ## Solution Packages Option(s)
 
@@ -25,34 +31,20 @@ XERO being a cloud based and IRAS approved accounting software, it allows compan
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - ACE XERO Cloud Accounting Software - Package A (Subscription Only)</td>
-<td style='padding: 10px;'>$864.00</td>
-<td style='padding: 10px;'>$807.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AceBusiness_Annex3_CRwef_01dec_Part_1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - ACE XERO Cloud Accounting Software - Package B (Subscription + Training)</td>
-<td style='padding: 10px;'>$2,060.00</td>
-<td style='padding: 10px;'>$2,017.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AceBusiness_Annex3_CRwef_01dec_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - ACE XERO Cloud Accounting Software - Package C (Full Package)</td>
-<td style='padding: 10px;'>$3,664.00</td>
-<td style='padding: 10px;'>$3,607.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Desensitised_AceBusiness_Annex3_CRwef_01dec_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(Per Vehicle)</td>
+<td style='padding: 10px;'>$4,542.00</td>
+<td style='padding: 10px;'>$3,510.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ace_20220359_Desensitised_Annex_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: ACE BUSINESS PTE LTD<br>Web URL: https://www.acebizservices.com/it-software <br><br>Contact Hotline: 62620402 <br><br>Contact Email: CARE@ACEBIZSERVICES.COM <br><br>
+ Company Name: ACE PRIME ROBOTICS<br>Web URL: www.fleetdaemon.com <br>Contact Hotline: 67286028 <br>Contact Email: ACE88SG@YAHOO.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

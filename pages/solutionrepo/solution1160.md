@@ -1,15 +1,16 @@
 ---
-title: 'WarelyPOS Version 1.3'
+title: 'E-Commerce Portal Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1160
 ---
 
-## WarelyPOS Version 1.3
+## E-Commerce Portal Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-WarelyPOS is a digital ordering solution for F&B businesses. Key features of the solution include Food Delivery, Takeaway, Pick-up, Dine-in & Reservation, CRM and Inventory Management.
+WooCommerce is an open-source & customizable eCommerce platform developed in Wordpress CMS. By May 2023, it's estimated that more than 6.5 million websites worldwide are powered by Woocommerce.
+WooCommerce is  friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing, reporting and shipping integration. Apart from physical products, it allows merchants to sell digital products, subscriptions, appointments, and much more.
 
 ## Solution Packages Option(s)
 
@@ -23,59 +24,31 @@ WarelyPOS is a digital ordering solution for F&B businesses. Key features of the
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'>$2,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'>$6,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'>$8,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'>$9,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise + Kiosk + Queue</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'>$12,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Plus_65_Marketing_WarelyPOS_100823_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'>$4,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advance</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 8</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Professional</td>
-<td style='padding: 10px;'>$12,100.00</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Package</td>
 <td style='padding: 10px;'>$10,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Nspire_Group_Ravenpos_Digital_Ordering_Solution_Ver12_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -85,7 +58,7 @@ WarelyPOS is a digital ordering solution for F&B businesses. Key features of the
 
 ## Vendor Information
 
- Company Name: PLUS 65 MARKETING PTE. LTD.<br>Web URL: www.warelycorp.com <br>Contact Hotline: 94501066 <br>Contact Email: Donovan@warelycorp.com <br>
+ Company Name: IPRO DEZIGN PTE. LTD.<br>Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
