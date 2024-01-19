@@ -10,46 +10,61 @@ third_nav_title: Licences and Permits
 
 Returns are additional information you may need to submit for certain licences. Examples of returns include contact lists, lab results, and account statements.
 
-You can submit them by logging in to GoBusiness Licensing.
-
-{% include button.html text="Submit Returns on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
-
 After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
-
-<!--For more questions about submitting returns, read our [Licensing FAQ].-->
 
 -----
 
-## List of licences with returns submission
+## Licences with retuns submission on GoBusiness Dashboard
 
-**Energy Market Authority (EMA)**
+<table>
+<tr>
+<th style='width: auto;'><b>Agency</b></th>
+<th style='width: 30%;'><b>Licence(s)</b></th>
+<th style='width: 30%;'><b>Return(s)</b></th>
+</tr>
+<tr>
+<td>National Environment Agency (NEA)</td>
+<td>Aquatic Facility Licence</td>
+<td><a href='www.placeholder.com' target='_blank'>Aquatic Facility Lab Results</a></td>
+</tr>
+<tr>
+<td>National Environment Agency (NEA)</td>
+<td>Toxic Industrial Waste (TIW) Collector's Licence</td>
+<td><a href='www.placeholder.com' target='_blank'>Returns by TIW Collectors</a></td>
+</tr>
+</table>
 
-Submit 'Compliance declarations' and 'Update contact list' for the following licences:
+Login to GoBusiness Dashboard to submit returns for the above licences.
 
-- Electricity Generation
-- Electricity Retailer
-- Electricity Wholesaler
-- Gas Shipper, Retailer or Importer
-- Other Electricity and Gas Licences
+{% include button.html text="Submit Returns on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
 
-**Ministry of Culture, Community and Youth (MCCY)**
+-----
 
-Submit 'Statement of accounts' for the following licences:
+## Licences with returns submission on GoBusiness Licensing
 
-- Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes
+<table>
+<tr>
+<th style='width: auto;'><b>Agency</b></th>
+<th style='width: 30%;'><b>Licence(s)</b></th>
+<th style='width: 30%;'><b>Return(s)</b></th>
+</tr>
+<tr>
+<td>Energy Market Authority (EMA)</td>
+<td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
+<td>Compliance declarations and Update contact list</td>
+</tr>
+<tr>
+<td>Ministry of Culture, Community and Youth (MCCY)</td>
+<td>Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes</td>
+<td>Statement of accounts</td>
+</tr>
+<tr>
+<td>Ministry of Manpower (MOM)</td>
+<td>Employment Agency Licence</td>
+<td>Referral returns</td>
+</tr>
+</table>
 
-**Ministry of Manpower (MOM)**
+Login to GoBusiness Licensing to submit returns for the above licences.
 
-Submit 'Referral returns' for the following licences:
-
-- Employment Agency Licence
-
-**National Environment Agency (NEA)**
-
-Submit 'Aquatic facility lab results' for the following licences:
-
-- Aquatic Facility Licence
-
-Submit 'Returns by TIW Collectors' for the following licences:
-
-- Toxic Industrial Waste (TIW) Collector's Licence
+{% include button.html text="Submit Returns on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
