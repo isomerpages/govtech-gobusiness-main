@@ -36,39 +36,39 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Acc Pro (Singapore) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution111' target='_blank'>GenicDocs - Document Management Software</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution127' target='_blank'>GenicDocs - Document Management Software</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution314' target='_blank'>M365 SharePoint Package</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution338' target='_blank'>M365 SharePoint Package</a><br></td>
 <td>JK Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution324' target='_blank'>Evolvecloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution352' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution488' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution530' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
 <td>SLEEK TECH (PTE. LTD.)</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution518' target='_blank'>TessaCloud DMS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution560' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution591' target='_blank'>Dropbox Business</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution634' target='_blank'>Dropbox Business</a><br></td>
 <td>WEB IMP PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution770' target='_blank'>Therefore Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution818' target='_blank'>Therefore Online</a><br></td>
 <td>CANON SINGAPORE PTE. LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution880' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution933' target='_blank'>One-Stop Document Access Version 2.0</a><br></td>
 <td>PROMINDS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1145' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1204' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
 <td>Tisch Global Private Limited</td>
 </tr>
 </table>

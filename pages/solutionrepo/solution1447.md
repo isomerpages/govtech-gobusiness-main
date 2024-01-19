@@ -1,46 +1,32 @@
 ---
-title: 'Flavor Customer Relationship Management System Version 1'
+title: 'Planetary or Spiral Mixer'
 permalink: /productivity-solutions-grant/solutionrepo/solution1447
 ---
 
-## Flavor Customer Relationship Management System Version 1
+## Planetary or Spiral Mixer
 
 ## Overview
 
 **Description**
 
-Flavor CRM is an innovative, all-in-one solution meticulously designed to streamline lead management, customer relations, and communication for businesses in the EdTech field and beyond. This in-house developed system offers a comprehensive suite of features to help organizations manage leads, nurture customer relationships, and ensure seamless communication, ultimately enhancing customer experience and operational efficiency.
+Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
+
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk. Ideal for companies dealing with soft food products. 
+
+Cost of equipment capped at $10,000 per unit
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 1</td>
-<td style='padding: 10px;'>$7,500.00</td>
-<td style='padding: 10px;'>$7,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Planetary or Spiral Mixer</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Mode 3</td>
-<td style='padding: 10px;'>$11,200.00</td>
-<td style='padding: 10px;'>$7,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Flavor_CRM_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>1. Machine has minimum bowl capacity of 20 liters<br>2. Machine has minimally 3 speed options for Planetary Mixer<br>3. Machine has minimally 2 speed options for Spiral Mixer<br>4. Machine has a minimum speed of 100rpm<br>5. Machine comes with bowl and minimum of 2 out of 3 tools</td>
 </tr>
 </table>
 
@@ -48,10 +34,6 @@ Flavor CRM is an innovative, all-in-one solution meticulously designed to stream
 
  - Direct Purchase
 
-## Vendor Information
-
- Company Name: FLAVOR PTE. LTD.<br>Web URL: www.flavorcrm.com <br>Contact Hotline: 66791003 <br>Contact Email: info@flavorcrm.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

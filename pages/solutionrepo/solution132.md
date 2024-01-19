@@ -1,23 +1,15 @@
 ---
-title: 'Qoqolo School Management System Version 4.3'
+title: 'InSight QSE Electronic Permit-To-Work (ePTW) & Safety System'
 permalink: /productivity-solutions-grant/solutionrepo/solution132
 ---
 
-## Qoqolo School Management System Version 4.3
+## InSight QSE Electronic Permit-To-Work (ePTW) & Safety System
 
 ## Overview
 
 **Description**
 
-Qoqolo is a one-stop-shop preschool management system for schools to accelerate their digital transformation.  Qoqolo offers a full suite of digital services: Student Management, Parent Engagement, e-Portfolio, Centre Operations Management, Staff Management, Fee Management, e-Registration, ECDA CMS Integration & more.
-Key Benefits:
--	Easy Deployment
--	Paperless Storage
--	Information On-The-Go
--	Simplify Management
--	Instant Updates
--	Capture Learning Journey
--	Effective Communications
+Insight QSE Electronic Permit-To-Work (ePTW) & Safety System provides the full view of the entire work scenario, enabling the in-charge to make correct and fast decisions on whether the work is permitted to be carried out. It provides an online consolidated platform for ePTW management with configurable workflow defined for each PTW template. It removes lengthy and cumbersome paperwork with the effective use of technology for PTW process digitalization.
 
 ## Solution Packages Option(s)
 
@@ -31,48 +23,41 @@ Key Benefits:
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium Pro </td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'>$11,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter (1 Project, 1 Year)</td>
+<td style='padding: 10px;'>$16,300.00</td>
+<td style='padding: 10px;'>$14,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium </td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'>$10,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite (3 Projects, 1 Year)</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'>$22,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced </td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'>$9,888.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Premium (5 Projects, 1 Year)</td>
+<td style='padding: 10px;'>$27,600.00</td>
+<td style='padding: 10px;'>$27,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard </td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'>$8,688.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite </td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'>$5,488.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Commontown_Qoqolo_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Enterprise (Unlimited Projects, 1 Year)</td>
+<td style='padding: 10px;'>$37,600.00</td>
+<td style='padding: 10px;'>$28,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Capps_20220201_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Company name:CommonTown Pte Ltd<br>Web URL: www.commontown.com <br>Contact Hotline: 68488900 <br>Contact Email: biz@commontown.com 
+ Company Name: Capps Solutions Pte Ltd<br>Web URL: www.payadvisormobile.com <br>Contact Hotline: 65090309 <br>Contact Email: contact@capps.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

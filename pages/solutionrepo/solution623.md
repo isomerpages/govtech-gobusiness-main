@@ -1,17 +1,15 @@
 ---
-title: 'Counto DIY Version 1'
+title: 'Fleet Management Solutions'
 permalink: /productivity-solutions-grant/solutionrepo/solution623
 ---
 
-## Counto DIY Version 1
+## Fleet Management Solutions
 
 ## Overview
 
 **Description**
 
-CountoDIY was built to supercharge a company's compliance process, resulting in a 30-60% productivity increase. Integrate and optimise different finance functions in one centralised location, use AI to automatically extract key data from your invoices, set up an automated payment process, and more. 
-
-Beyond accounting, AI-powered automations within CountoDIY can apply to your tax preparation and filing, making it easy for small businesses to unify their compliance from start-to-finish.
+WLP Digital Vehicle Surveillance & Tracking System is the black box of the motor vehicle world. It will record live data on speeding, acceleration, braking and more, all time and date stamped. This gives an accurate and detailed picture of exactly what is happening at any point within the vehicle. The cloud-based platform provides customers with real-time business intelligence, based on advanced technology and reliable data.
 
 ## Solution Packages Option(s)
 
@@ -25,31 +23,17 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY Basic</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'>$920.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vehicle Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$2,310.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CRwef09f_Part_1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 5S</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'>$2,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 10S</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Counto DIY Version 1 - Counto DIY 15S</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'>$4,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Xion_20210419_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Tracking System - (Per Vehicle)</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'>$1,770.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Desensitised_WLP_Annex3_CR_wef22dec22_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -59,7 +43,7 @@ Beyond accounting, AI-powered automations within CountoDIY can apply to your tax
 
 ## Vendor Information
 
- Company Name: Xion.AI Pte Ltd<br>Web URL: https://mycounto.com/ <br><br>Contact Hotline: 31594255 <br><br>Contact Email: help@mycounto.com <br><br>
+ Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149<br>Contact Email: info@wlp.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

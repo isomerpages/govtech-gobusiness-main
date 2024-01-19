@@ -1,15 +1,15 @@
 ---
-title: 'iLOGON (iFMS)'
+title: 'InfoMaster ERP Software - Asset Monitoring and Management'
 permalink: /productivity-solutions-grant/solutionrepo/solution330
 ---
 
-## iLOGON (iFMS)
+## InfoMaster ERP Software - Asset Monitoring and Management
 
 ## Overview
 
 **Description**
 
-KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cross border operations. System features include, multiple sales quotation & billing, LCL and FCL handling, import & export detail booking & operations, job P&L and contains an extensive list of configurable documents printouts such as Arrival Shipping Note, Delivery Note, Waybill, etc. Management Reports & Dashboard are readily available for freight forwarders to analyse & perform critical business decisions.
+InfoMaster ERP's Asset Monitoring and Management system allows tracking and monitoring of inventory levels in the warehouse and at external locations, job sites and maintenance jobs. This improves the operational capability of the company to manage costs effectively and avoid cost overruns and downtime.
 
 ## Solution Packages Option(s)
 
@@ -23,20 +23,27 @@ KEYfields' iLOGON iFMS is a web-based solution that supports Air, Ocean and Cros
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>iLOGON (iFMS) - SaaS</td>
-<td style='padding: 10px;'>$38,000.00</td>
-<td style='padding: 10px;'>$35,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Keyfields_Desensitised_Annex_3_30_June_2022.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Standard Edition - 3 Users</td>
+<td style='padding: 10px;'>$27,000.00</td>
+<td style='padding: 10px;'>$21,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>InfoMaster ERP Software - Asset Monitoring and Management - Premium Edition - 5 Users</td>
+<td style='padding: 10px;'>$36,000.00</td>
+<td style='padding: 10px;'>$28,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Integrated_Software_Engin_20200780_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: KEYfields Pte Ltd<br>Web URL: http://www.keyfields.com/solution/ <br><br>Contact Hotline: 68427886 <br><br>Contact Email: info@keyfields.com <br><br>
+ Company Name: Integrated Software Engineering Pte Ltd<br>Web URL: www.infomaster.com.sg <br><br>Contact Hotline: 67475665 <br><br>Contact Email: sales@ise.com.sg <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'HVAC system'
+title: 'Automated Sorter/ Grader'
 permalink: /productivity-solutions-grant/solutionrepo/solution689
 ---
 
-## HVAC system
+## Automated Sorter/ Grader
 
 ## Overview
 
 **Description**
 
-Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
+Automatic graders to sort produce by species/ sizes/ weight while minimizing the impact on the produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Heating, Ventilation and Air-conditioning (HVAC) system used for moving air betw
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Sorter/ Grader</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

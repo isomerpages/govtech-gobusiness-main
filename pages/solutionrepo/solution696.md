@@ -1,15 +1,15 @@
 ---
-title: 'Fish fry quarantine tank system'
+title: 'Automatic Harvester'
 permalink: /productivity-solutions-grant/solutionrepo/solution696
 ---
 
-## Fish fry quarantine tank system
+## Automatic Harvester
 
 ## Overview
 
 **Description**
 
-A quarantine tank system for isolating and medicating sick fish fry, separating them from the healthy fish, thus halting the spread of disease to the other fishes in the tank
+To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A quarantine tank system for isolating and medicating sick fish fry, separating 
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fish fry quarantine tank system</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automatic Harvester</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

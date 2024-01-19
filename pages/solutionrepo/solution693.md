@@ -1,15 +1,15 @@
 ---
-title: 'Digital quality testing equipment'
+title: 'Automated Slaughtering Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution693
 ---
 
-## Digital quality testing equipment
+## Automated Slaughtering Equipment
 
 ## Overview
 
 **Description**
 
-Quality testing equipment in measuring the produce quality and freshness
+Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ Quality testing equipment in measuring the produce quality and freshness
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Digital quality testing equipment</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Slaughtering Equipment</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

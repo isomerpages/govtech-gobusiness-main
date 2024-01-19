@@ -1,15 +1,15 @@
 ---
-title: 'GenicTeams - Project Management Software Version V2'
+title: 'Job Redesign Consultancy - BDO Consultants Pte Ltd'
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 
-## GenicTeams - Project Management Software Version V2
+## Job Redesign Consultancy - BDO Consultants Pte Ltd
 
 ## Overview
 
 **Description**
 
-GenicTeams Project Management software is an essential for SMEs those need to manage projects efficiently. It can help to optimise company resources and stay on track towards their project goals, constantly informed through real time updates,  tracking projects, jobs, equipment, work orders statuses to make data-driven decisions. Warranty tracking and servicing ensures customer satisfaction and better job management.  Reporting and document management provides transparency and accountability.
+BDO Management Consulting Services is dedicated to the constant improvement and growth of businesses in Singapore. With over 50 years of combined experience in JR & HR Consulting Capabilities, our Management Consulting division has advised a diverse range of clients from various industries, including construction, manufacturing, furniture, retail, F&B etc. Our people advisory deliverables are tailored specifically to address individual client needs.
 
 ## Solution Packages Option(s)
 
@@ -23,41 +23,20 @@ GenicTeams Project Management software is an essential for SMEs those need to ma
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package A (3 Users)</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'>$17,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BusinessThrust_GenicTeams_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package B (5 Users)</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'>$22,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BusinessThrust_GenicTeams_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package C (7 Users)</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'>$29,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BusinessThrust_GenicTeams_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package D (10 Users)</td>
-<td style='padding: 10px;'>$40,000.00</td>
-<td style='padding: 10px;'>$31,300.00</td>
-<td style='padding: 10px;'><a href='/images/psg/BusinessThrust_GenicTeams_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Job Redesign Consultancy - BDO Consultants Pte Ltd</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'><a href='/images/psg/CaseStudiesbyBDO.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Business Thrust Pte Ltd<br>Web URL: https://www.bthrust.com <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+ Company name: BDO Consultants Pte Ltd<br>Web URL: https://www.bdo.com.sg/en-gb/services/advisory/management-consulting-services<br>Contact Name: Chris Kuang, Manager, Management Consulting Services<br>Contact Hotline: DID 65 6990 2851 / Mobile 65 9846 6617<br>Contact Email: chriskuang@bdo.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

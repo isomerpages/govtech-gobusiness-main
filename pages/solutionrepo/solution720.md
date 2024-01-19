@@ -1,15 +1,15 @@
 ---
-title: 'Stump Grinder'
+title: 'Robot Cleaner'
 permalink: /productivity-solutions-grant/solutionrepo/solution720
 ---
 
-## Stump Grinder
+## Robot Cleaner
 
 ## Overview
 
 **Description**
 
-A mobile machine with power tool or as at attachment that removes tree stumps by means of a rotating cutting disc that chips away tree stump for easy removal.
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A mobile machine with power tool or as at attachment that removes tree stumps by
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Stump Grinder</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Robot Cleaner </td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase, Hire Purchase
+ - Direct Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

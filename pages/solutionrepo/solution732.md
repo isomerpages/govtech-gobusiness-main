@@ -1,15 +1,15 @@
 ---
-title: 'Smart irrigation systems'
+title: 'HVAC system'
 permalink: /productivity-solutions-grant/solutionrepo/solution732
 ---
 
-## Smart irrigation systems
+## HVAC system
 
 ## Overview
 
 **Description**
 
-A system and application of watering devices and instrumentation used to control the amount of water for plants or shrubs.
+Heating, Ventilation and Air-conditioning (HVAC) system used for moving air between indoor and outdoor areas, along with heating and cooling buildings. 
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ A system and application of watering devices and instrumentation used to control
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Smart irrigation systems</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>HVAC system</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase, Hire Purchase
+ - Direct Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

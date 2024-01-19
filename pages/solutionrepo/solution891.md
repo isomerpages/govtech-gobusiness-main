@@ -1,15 +1,16 @@
 ---
-title: 'EPOINT Version 9'
+title: 'SAP Business One SQL & HANA Version 10.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution891
 ---
 
-## EPOINT Version 9
+## SAP Business One SQL & HANA Version 10.0
 
 ## Overview
 
 **Description**
 
-Epoint provides a suite of modules for F&B segment such as E-waiter mobile ordering, 'Incontact' CRM, Kitchen Display System, 'EatTogetherNow' Bring Your Own Device (BYOD) ordering for customer and self-ordering kiosks. The system allows F&B Owners to generate various reports and optimize the business operations.
+Optimize your business processes with SAP Business One, Deliver right information to the right person at the right time.
+SAP Business One is an ERP software that lets you gain insights across the business on one single platform. That means, you can integrate your various business functions such as inventory, marketing, accounts, invoicing into one platform. The real-time access to information of your entire business helps you to understand and make decisions more efficiently and swiftly.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +24,38 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Basic</td>
-<td style='padding: 10px;'>$6,400.00</td>
-<td style='padding: 10px;'>$5,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (1 License)</td>
+<td style='padding: 10px;'>$14,850.00</td>
+<td style='padding: 10px;'>$14,850.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance</td>
-<td style='padding: 10px;'>$7,456.00</td>
-<td style='padding: 10px;'>$6,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (2 Licenses)</td>
+<td style='padding: 10px;'>$28,900.00</td>
+<td style='padding: 10px;'>$24,500.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>EatTogetherNow - Advance+</td>
-<td style='padding: 10px;'>$8,256.00</td>
-<td style='padding: 10px;'>$7,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (3 Licenses)</td>
+<td style='padding: 10px;'>$37,350.00</td>
+<td style='padding: 10px;'>$30,450.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>eKiosk - Basic</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'>$3,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Epoint_Systems_Epoint_Version9_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (4 Licenses)</td>
+<td style='padding: 10px;'>$49,800.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package (5 Licenses)</td>
+<td style='padding: 10px;'>$54,250.00</td>
+<td style='padding: 10px;'>$32,100.00</td>
+<td style='padding: 10px;'><a href='/images/psg/MPS_Solutions_SAP_Business_One_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +65,7 @@ Epoint provides a suite of modules for F&B segment such as E-waiter mobile order
 
 ## Vendor Information
 
- Company Name: Epoint Systems Pte Ltd<br>Web URL: www.epoint.com.sg <br>Contact Hotline: 61006300 <br>Contact Email: darren.sim@epointpos.com <br>
+ Web URL: www.mpssolutions.com.sg <br><br>Contact Hotline: 68469109 <br><br>Contact Email: kelvin@mclinkgroup.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

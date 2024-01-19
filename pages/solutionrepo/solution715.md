@@ -1,15 +1,15 @@
 ---
-title: 'Electric powered/hybrid landscape equipment'
+title: 'Milking Machine'
 permalink: /productivity-solutions-grant/solutionrepo/solution715
 ---
 
-## Electric powered/hybrid landscape equipment
+## Milking Machine
 
 ## Overview
 
 **Description**
 
-Electric powered/hybrid landscape equipment e.g. electric excavator, electric wood chipper, but excluding electric buggy and handheld tools.
+A machine that provides an efficient and convenient way of milking livestocks, with minimal stress. 
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Electric powered/hybrid landscape equipment e.g. electric excavator, electric wo
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Electric powered/hybrid landscape equipment</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Milking Machine</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase, Hire Purchase
+ - Direct Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

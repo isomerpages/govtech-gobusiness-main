@@ -1,15 +1,15 @@
 ---
-title: 'Fleet Management System i.e. hardware'
+title: 'Multi-tier Cultivation System'
 permalink: /productivity-solutions-grant/solutionrepo/solution716
 ---
 
-## Fleet Management System i.e. hardware
+## Multi-tier Cultivation System
 
 ## Overview
 
 **Description**
 
-Fleet management system consists of GPS tracking devices, cameras and other sensors installed in the vehicles to record and transmit data or provide constant, real-time updates into the exact location of fleet assets.
+Multi-tier growing system with racks, irrigation and dosing system, LED grow lights and ventilation system.
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Fleet management system consists of GPS tracking devices, cameras and other sens
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Fleet Management System i.e. hardware</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Multi-tier Cultivation System</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase, Hire Purchase
+ - Direct Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

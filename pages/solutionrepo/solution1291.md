@@ -1,15 +1,15 @@
 ---
-title: 'WLP Digital Ecommerce Web Development (WooCommerce)'
+title: 'DM 3D Digital Booster'
 permalink: /productivity-solutions-grant/solutionrepo/solution1291
 ---
 
-## WLP Digital Ecommerce Web Development (WooCommerce)
+## DM 3D Digital Booster
 
 ## Overview
 
 **Description**
 
-Development of an Ecommerce online website complete with integrated functionality to perform and automate online sales transactions, management of customers' orders and sales revenue data, track and analyse statistics of product sales performance in real-time, online marketing of products and provision of consultancy to attempt integration with peripheral platforms to further increase the reach digitally, transforming businesses from offline to online seamlessly.
+3D Brand Agency's 3D Digital Booster is an online marketing solution that comprises SEO/5C Analysis, Digital Marketing Strategy, Marketing Campaign Planning and Execution, Digital Assets Creation, and Live Analytics Reporting, for Facebook/Instagram and SEM/SEO.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,17 @@ Development of an Ecommerce online website complete with integrated functionalit
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP Digital Ecommerce</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$5,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1: Facebook / Instagram (3 Months)</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'>$9,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3D_BRANDAGENCY_DM_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Standard)</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'>$5,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>WLP WooCommerce (Starter)</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'>$4,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WLP_Ecommerce_16112023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2: SEO / SEM (3 Months)</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'>$8,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/3D_BRANDAGENCY_DM_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +43,7 @@ Development of an Ecommerce online website complete with integrated functionalit
 
 ## Vendor Information
 
- Company name:W.L.P CONSULTANTS PTE LTD<br>Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 67979149 <br>Contact Email: info@digitalsolutions.com.sg 
+ Company Name: 3D BRAND AGENCY<br>Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 88812881 <br>Contact Email: hello@3dbrandagency.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

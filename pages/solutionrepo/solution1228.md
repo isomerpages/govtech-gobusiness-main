@@ -1,15 +1,15 @@
 ---
-title: 'Odoo Enterprise Version 16'
+title: 'DM Cleverly Digital Marketing Packages'
 permalink: /productivity-solutions-grant/solutionrepo/solution1228
 ---
 
-## Odoo Enterprise Version 16
+## DM Cleverly Digital Marketing Packages
 
 ## Overview
 
 **Description**
 
-Odoo is a suite of business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc. Odoo's unique value proposition is to be at the same time very easy to use and fully integrated.
+Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,24 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users Package</td>
-<td style='padding: 10px;'>$8,675.00</td>
-<td style='padding: 10px;'>$7,275.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SEM</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'>$9,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users Package</td>
-<td style='padding: 10px;'>$11,350.00</td>
-<td style='padding: 10px;'>$9,750.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEO SM</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users Package</td>
-<td style='padding: 10px;'>$16,025.00</td>
-<td style='padding: 10px;'>$13,825.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users Package</td>
-<td style='padding: 10px;'>$24,700.00</td>
-<td style='padding: 10px;'>$18,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/PORT_CITIES_Odoo_Enterprise_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Cleverly 3 Months Campaign SEM SM</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$10,000.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cleverly_SG_Digital_Marketing_Packages_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +50,7 @@ Odoo is a suite of business apps that cover all your company needs: CRM, eCommer
 
 ## Vendor Information
 
- Company name:PORT CITIES SINGAPORE PTE LTD<br>Web URL: https://portcities.net/en_sg/erp-system-odoo <br>Contact Hotline: +6589275907<br>Contact Email: singapore@portcities.net 
+ Company Name: Cleverly SG Pte. Ltd.<br>Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678935 <br>Contact Email: ernest@cleverly.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -1,15 +1,15 @@
 ---
-title: 'LED grow lights'
+title: 'Automated Vaccination'
 permalink: /productivity-solutions-grant/solutionrepo/solution690
 ---
 
-## LED grow lights
+## Automated Vaccination
 
 ## Overview
 
 **Description**
 
-LED grow lights with smart dynamic lighting control to help plants grow.
+Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on produce.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ LED grow lights with smart dynamic lighting control to help plants grow.
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>LED grow lights</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Vaccination</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

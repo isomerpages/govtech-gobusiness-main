@@ -1,15 +1,16 @@
 ---
-title: 'Tisch Global - QuickBooks Online'
+title: 'E-Commerce Portal Development (WooCommerce)'
 permalink: /productivity-solutions-grant/solutionrepo/solution1219
 ---
 
-## Tisch Global - QuickBooks Online
+## E-Commerce Portal Development (WooCommerce)
 
 ## Overview
 
 **Description**
 
-Tisch Global Corporate Advisory is offering QuickBooks Online , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with QuickBooks Online's market-leading professional suite of solutions.
+WooCommerce is an open-source & customizable eCommerce platform developed in Wordpress CMS. By May 2023, it's estimated that more than 6.5 million websites worldwide are powered by Woocommerce.
+WooCommerce is  friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing, reporting and shipping integration. Apart from physical products, it allows merchants to sell digital products, subscriptions, appointments, and much more.
 
 ## Solution Packages Option(s)
 
@@ -23,48 +24,41 @@ Tisch Global Corporate Advisory is offering QuickBooks Online , a seamless cloud
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package (Subscription and Basic Setup)</td>
-<td style='padding: 10px;'>$1,517.00</td>
-<td style='padding: 10px;'>$1,415.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Starter Package</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'>$4,900.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Lite Package (Subscription, Setup and Training)</td>
-<td style='padding: 10px;'>$2,017.00</td>
-<td style='padding: 10px;'>$1,915.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Basic Package</td>
+<td style='padding: 10px;'>$6,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Standard Package (Subscription, Setup, Basic Migration and Training)</td>
-<td style='padding: 10px;'>$3,642.00</td>
-<td style='padding: 10px;'>$3,540.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Intermediate Package</td>
+<td style='padding: 10px;'>$8,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Medium Package (Subscription, Setup, Training, Detailed Migration & Customisation)</td>
-<td style='padding: 10px;'>$6,142.00</td>
-<td style='padding: 10px;'>$6,040.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Large Package (Subscription, Setup, Training, Detailed Migration & Customisation)</td>
-<td style='padding: 10px;'>$8,142.00</td>
-<td style='padding: 10px;'>$7,290.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Tisch_Global_QuickBooks_Online_26102023_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Advanced Package</td>
+<td style='padding: 10px;'>$10,500.00</td>
+<td style='padding: 10px;'>$5,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/IPRO_DEZIGN_ECommerce_Portal_Development_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
 ## Vendor Information
 
- Company Name: Tisch Global Private Limited<br>Web URL: www.tischglobal.com <br>Contact Hotline: 88153634 <br>Contact Email: hello@tischglobal.com <br>
+ Company Name: IPRO DEZIGN PTE. LTD.<br>Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

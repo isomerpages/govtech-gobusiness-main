@@ -1,57 +1,41 @@
 ---
-title: 'NMTODOO'
+title: 'Combi Oven'
 permalink: /productivity-solutions-grant/solutionrepo/solution1435
 ---
 
-## NMTODOO
+## Combi Oven
 
 ## Overview
 
 **Description**
 
-NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centric CRM that allows the company's sales teams to track leads, close opportunities and get accurate forecasts. Schedule activities based on the company sales scripts: calls, meetings, mailing, and quotations. Organize work based on scheduled next actions. Generate leads and opportunities via events and email marketing campaigns.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
+
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes. 
+
+Cost of equipment capped at $37,500 per unit 
+
+
 
 ## Solution Packages Option(s)
 
 <table>
 <tr>
-<th><b>No.</b></th>
-<th><b>Package Name</b></th>
-<th><b>Total Package Cost</b></th>
-<th><b>Total Qualifying Cost</b></th>
-<th><b>Solution Details</b></th>
+<th><b>Equipment Name</b></th>
+<th><b>Cost Cap</b></th>
+<th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Essential)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Business)</td>
-<td style='padding: 10px;'>$7,840.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Enterprise)</td>
-<td style='padding: 10px;'>$10,240.00</td>
-<td style='padding: 10px;'>$5,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Combi Oven</td>
+<td style='padding: 10px;'>$37,500.00</td>
+<td style='padding: 10px;'>1. Unit is programmable for convection, steam, and combination cooking.<br><br>2. Minimum capacity of 5GN</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Subscription / Leasing
+ - Direct Purchase
 
-## Vendor Information
-
- Company Name: Neu Media Technology LLP<br>Web URL: https://neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com <br>
-
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
 <script src="/jquery/resize-tables.js"></script>

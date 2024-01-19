@@ -1,15 +1,15 @@
 ---
-title: 'AGERE - Xero Cloud Accounting Software'
+title: 'Cococart Storefront Version 1.0'
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
-## AGERE - Xero Cloud Accounting Software
+## Cococart Storefront Version 1.0
 
 ## Overview
 
 **Description**
 
-Xero is an online accounting software for SMEs, to be able to automate their everyday business tasks, get up-to-date financials and run their business in real-time. As Xero is cloud-based, business owners can access their finances right away from any internet-connected device - phone, tablet, or computer instead of waiting for their accountants to send them the information. Using Xero encompasses increased capabilities, better productivity, ease-of-use and better responsiveness.
+Cococart is empowering over 40,000 local entrepreneurs in more than 100 countries to make online business simple, easy, and delightful. Cococarts no-code, no-learning curve platform enables businesses to create beautiful storefronts, manage orders, and launch marketing promotions on their own or with Coco+, Cococarts signature managed marketing program.
 
 ## Solution Packages Option(s)
 
@@ -23,31 +23,17 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium, Subcription Only</td>
-<td style='padding: 10px;'>$800.00</td>
-<td style='padding: 10px;'>$800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Business Package</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'>$1,320.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation </td>
-<td style='padding: 10px;'>$1,800.00</td>
-<td style='padding: 10px;'>$1,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation & Training</td>
-<td style='padding: 10px;'>$3,300.00</td>
-<td style='padding: 10px;'>$3,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero Premium w/Implementation, Migration & Training</td>
-<td style='padding: 10px;'>$5,400.00</td>
-<td style='padding: 10px;'>$5,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Agere_XeroCloudAccounting_07122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>VIP Package</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'>$4,995.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Cococart_CococartStorefront_16112023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -57,7 +43,7 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 
 ## Vendor Information
 
- Company Name: Agere Accounting & Advisory Pte. Ltd.<br>Web URL: https://www.agere-ca.com <br>Contact Hotline: 63850609<br>Contact Email: elainelim@agere-ca.com <br>
+ Company Name: Cococart Pte. Ltd.<br>Web URL: https://cococart.co <br>Contact Hotline: +18336202626 <br>Contact Email: business@cococart.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

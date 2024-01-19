@@ -1,15 +1,15 @@
 ---
-title: 'Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.'
+title: 'Vacuum Cooler Equipment'
 permalink: /productivity-solutions-grant/solutionrepo/solution724
 ---
 
-## Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.
+## Vacuum Cooler Equipment
 
 ## Overview
 
 **Description**
 
-Equipment used in cleaning so as to destroy bacterial. Also include high pressure washer or other cleaning machines that provide better efficiency as compared to manual cleaning and lightings of special wavelength for culturing of produce.
+A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
 
 ## Solution Packages Option(s)
 
@@ -20,15 +20,15 @@ Equipment used in cleaning so as to destroy bacterial. Also include high pressur
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Biosecurity equipment e.g. disinfection, UV lights, Ozone, etc.</td>
-<td style='padding: 10px;'></td>
-<td style='padding: 10px;'></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Vacuum Cooler Equipment</td>
+<td style='padding: 10px;'> </td>
+<td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>
 </table>
 
 ## Mode and Schedule of Payment
 
- - Direct Purchase, Hire Purchase
+ - Direct Purchase
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

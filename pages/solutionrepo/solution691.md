@@ -1,15 +1,15 @@
 ---
-title: 'Rainwater harvesting system and storage tank'
+title: 'Automated Irrigation & Dosing System'
 permalink: /productivity-solutions-grant/solutionrepo/solution691
 ---
 
-## Rainwater harvesting system and storage tank
+## Automated Irrigation & Dosing System
 
 ## Overview
 
 **Description**
 
-A system with pumps, tanks and purification systems that collects and stores rainwater for farm's use.
+Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
 ## Solution Packages Option(s)
 
@@ -20,7 +20,7 @@ A system with pumps, tanks and purification systems that collects and stores rai
 <th><b>Mandatory Specifications</b></th>
 </tr>
 <tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Rainwater harvesting system and storage tank</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Automated Irrigation & Dosing System</td>
 <td style='padding: 10px;'> </td>
 <td style='padding: 10px;'>Holding Period of 3 years</td>
 </tr>

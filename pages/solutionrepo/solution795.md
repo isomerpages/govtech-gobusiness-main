@@ -1,15 +1,15 @@
 ---
-title: 'VisionMan'
+title: 'MSSP for Asset Based Cyber Defence Version 1.2'
 permalink: /productivity-solutions-grant/solutionrepo/solution795
 ---
 
-## VisionMan
+## MSSP for Asset Based Cyber Defence Version 1.2
 
 ## Overview
 
 **Description**
 
-VisionMan Maintenance Management is an easy to use and powerful system, designed & developed with valuable inputs from industry's professionals. The solution comes with powerful features to schedule/track/monitor due dates of maintenance services & manage inventory. The Mobile application allows users to sign off work orders on-site & the Job Scheduler enables company to plan jobs & manpower more efficiently, leading to higher productivity, improved operational efficiency and cost savings.
+TOFFS MSSP for Asset Based Cyber Defence provides 24x7 managed cybersecurity services based on CSA Cyber Essential/Trust mark framework. We equip and train the organisation to Identify, Secure, Protect and Update the Assets. Through onboarding the programme, organisations can work towards attaining the CSA Cyber Essentials Mark certification and meet the compliance cybersecurity requirements of PDPA, MAS TRM and MOH advisories etc.
 
 ## Solution Packages Option(s)
 
@@ -23,38 +23,38 @@ VisionMan Maintenance Management is an easy to use and powerful system, designed
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Quick Start Package (1 Web User and 2 Mobile User)</td>
-<td style='padding: 10px;'>$8,000.00</td>
-<td style='padding: 10px;'>$7,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Mini with Next Day Business Support</td>
+<td style='padding: 10px;'>$5,450.00</td>
+<td style='padding: 10px;'>$5,050.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Foundation Package (2 web users and 4 mobile user)</td>
-<td style='padding: 10px;'>$12,380.00</td>
-<td style='padding: 10px;'>$11,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Lite with Next Day Business Support</td>
+<td style='padding: 10px;'>$8,700.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Professional Package (4 web users and 8 mobile users)</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'>$16,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Small with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$31,700.00</td>
+<td style='padding: 10px;'>$31,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Advance Package (8 web users and 12 mobile users)</td>
-<td style='padding: 10px;'>$22,800.00</td>
-<td style='padding: 10px;'>$21,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) SME Medium with 24x7 Managed Security Support</td>
+<td style='padding: 10px;'>$39,700.00</td>
+<td style='padding: 10px;'>$39,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SME Premier Package (12 web users and 15 mobile users)</td>
-<td style='padding: 10px;'>$30,800.00</td>
-<td style='padding: 10px;'>$24,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/ECSTechnoSys_Visionman_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Security-as-a-Service (SaaS) Internet & Malware Defence SME Large with 24 x 7 Managed Support</td>
+<td style='padding: 10px;'>$44,200.00</td>
+<td style='padding: 10px;'>$42,800.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Toffs_Technologies_MSSP_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ VisionMan Maintenance Management is an easy to use and powerful system, designed
 
 ## Vendor Information
 
- Company Name: ECS Techno_Sys (Asia Pacific) Pte Ltd<br>Web URL: www.ecss.com.sg <br>Contact Hotline: 62953566 <br>Contact Email: alan@ecss.com.sg <br>
+ Company Name: Toffs Technologies Pte Ltd<br>Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
