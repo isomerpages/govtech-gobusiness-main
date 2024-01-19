@@ -11,7 +11,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
 
-| 19 Jan, 10pm - 20 Jan, 3am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period |
+| 19 Jan, 10pm - 20 Jan, 3am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |              
 | 20 Jan, 12am - 6am<br>20 Jan, 10pm - 21 Jan, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |        
 | 20 Jan, 2pm - 22 Jan, 8am<br>27 Jan, 2pm - 29 Jan, 8am | **Applications for Registration of Precious Stones and Metal Dealers** will be unavailable during the upcoming scheduled maintenance. | 
 
