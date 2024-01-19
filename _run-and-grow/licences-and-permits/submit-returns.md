@@ -25,18 +25,18 @@ After you apply, the relevant government agencies will advise you on submitting 
 <tr>
 <td>National Environment Agency (NEA)</td>
 <td>Aquatic Facility Licence</td>
-<td><a href='www.placeholder.com' target='_blank'>Aquatic Facility Lab Results</a></td>
+<td><a href='https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylabresultsubmission' target='_blank'>Aquatic Facility Lab Results</a></td>
 </tr>
 <tr>
 <td>National Environment Agency (NEA)</td>
 <td>Toxic Industrial Waste (TIW) Collector's Licence</td>
-<td><a href='www.placeholder.com' target='_blank'>Returns by TIW Collectors</a></td>
+<td>Returns by TIW Collectors</td>
 </tr>
 </table>
 
 Login to GoBusiness Dashboard to submit returns for the above licences.
 
-{% include button.html text="Submit Returns on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/home" type="primary" %}
+{% include button.html text="Submit Returns on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/mylicences/submitReturns" type="primary" %}
 
 -----
 
