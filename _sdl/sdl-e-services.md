@@ -23,31 +23,23 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment" target="_blank" rel="noopener">SDL Payment & Declaration via GoBusiness Dashboard</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl" target="_blank" rel="noopener">View Payment History and Notifications</a>
     </td> 
     <td>
-        Make payment for outstanding SDL, or pay SDL on your foreign employees. Login to GoBusiness Dashboard required.
+        View SDL payment history, or retrieve and download SDL notification letters. Login to GoBusiness Dashboard required.
     </td>
 </tr>
 <tr>
     <td> 
-        <a href="https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">SDL Payment with CPF Contributions</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/make-payment" target="_blank" rel="noopener">Submit SDL Payment & Declaration via GoBusiness Dashboard</a>
     </td> 
     <td>
-        Pay SDL together with your employees’ monthly CPF contributions via CPF EZPay. Login to CPF required.
+        Make payment for past outstanding SDL or make payment if you only have Foreign Employees and do not pay SDL via CPFB. For employers who have been making monthly payments for your local and foreign employers to CPFB, please continue to do so.
     </td>
 </tr>
 <tr>
     <td> 
-        <a href="https://dashboard.gobusiness.gov.sg/sdl/request-refund" target="_blank" rel="noopener">Refund of Overpaid SDL</a>
-    </td> 
-    <td>
-        Submit refund request for overpayment of SDL. Login to GoBusiness Dashboard required.
-    </td>
-</tr>
-<tr>
-    <td> 
-        <a href="https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object" target="_blank" rel="noopener">Notice of Objection (NOO) for SDL</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/file-notice-of-object" target="_blank" rel="noopener">Lodge Notice of Objection (NOO) for SDL</a>
     </td> 
     <td>
         Submit an objection if your calculated SDL payable differs from the amount stated in the SDL Notice of Assessment (NOA). Login to GoBusiness Dashboard required.
@@ -55,10 +47,18 @@ permalink: /sdl-e-services/
 </tr>
 <tr>
     <td> 
-        <a href="https://dashboard.gobusiness.gov.sg/sdl" target="_blank" rel="noopener">View Payment History and Notifications</a>
+        <a href="https://dashboard.gobusiness.gov.sg/sdl/request-refund" target="_blank" rel="noopener">Request Refund of Overpaid SDL</a>
     </td> 
     <td>
-        View SDL payment history, or retrieve and download SDL notification letters. Login to GoBusiness Dashboard required.
+        Submit refund request for overpayment of SDL. Login to GoBusiness Dashboard required.
+    </td>
+</tr>
+<tr>
+    <td> 
+        <a href="https://www.cpf.gov.sg/employer/login" target="_blank" rel="noopener">Submit Monthly SDL Payment with CPF Contributions</a>
+    </td> 
+    <td>
+        Pay SDL together with your employees’ monthly CPF contributions via CPF EZPay. Login to CPF required.
     </td>
 </tr>
 </table>
