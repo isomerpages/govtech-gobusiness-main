@@ -10,7 +10,8 @@ image: /images/news/SDLonGoBusiness.png
 
 ### Skills Development Levy now on GoBusiness
 
-![](/images/news/SDLonGoBusiness.png)
+![](/images/news/SDLonGoBusiness.jpg)
+Information and services for the Skills Development Levy will be moved to GoBusiness.
 
 Starting from 31 January 2024, information and resources for Skills Development Levy (SDL) will be available on GoBusiness.
 
