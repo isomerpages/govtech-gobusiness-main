@@ -14,7 +14,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 
 -----
 
-## Licences with retuns submission on GoBusiness Dashboard
+## Licences with returns submission on GoBusiness Dashboard
 
 <table>
 <tr>
