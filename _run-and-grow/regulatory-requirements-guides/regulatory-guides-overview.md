@@ -10,7 +10,7 @@ third_nav_title: Regulatory Requirements Guides
 
 There are essential tax and compliance rules that every business in Singapore needs to know, depending on your business structure.
 
-{% include panels-aboutus.html panels=site.data.acc200-run-and-grow-overview %}
+{% include panels-featurelink-image.html panels=site.data.acc200-run-and-grow-overview %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
