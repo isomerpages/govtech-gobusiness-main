@@ -32,19 +32,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution37' target='_blank'>FLEETEYE</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/53392060D-FLEETEYE-G' target='_blank'>FLEETEYE</a><br></td>
 <td>ACE PRIME ROBOTICS</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution99' target='_blank'>ZoneSafe Proximity Warning Systems Version V03</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200500005K-ZonSf-Proxmty-Wrnng-Systms-v-V03-G' target='_blank'>ZoneSafe Proximity Warning Systems Version V03</a><br></td>
 <td>Automation Support Services Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution612' target='_blank'>T-GUARD</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201130424H-TGUARD-G' target='_blank'>T-GUARD</a><br></td>
 <td>TNT Surveillance Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1084' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200411834E-Advncd-Humn-Hzrd-Avodnc-&-Alrt-Systms-v-01-G' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
 <td>Solaris CES Pte Ltd</td>
 </tr>
 </table>
