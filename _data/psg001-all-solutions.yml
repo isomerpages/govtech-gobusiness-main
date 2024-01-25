@@ -7,8 +7,9 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Accountancy/Corporate-Secretariat-Management'>Corporate Secretariat Management</a>
         - <a href='/browse-all-solutions-Accountancy/External-Audit-Management'>External Audit Management</a>
-        - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
         - <a href='/browse-all-solutions-Accountancy/Practice-Management-System'>Practice Management System</a>
+        - <a href='/browse-all-solutions-Accountancy/External-Audit-Management-[Audit-Confirmation]'>External Audit Management [Audit Confirmation]</a>
+        - <a href='/browse-all-solutions-Accountancy/Taxation-Management'>Taxation Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Advanced Manufacturing
@@ -29,7 +30,6 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Building-Construction/3D-Modelling--Immersive-Visualisation-Analysis'>3D Modelling, Immersive Visualisation & Analysis</a>
-        - <a href='/browse-all-solutions-Building-Construction/Integrated-and-Smart-Worksite-Monitoring-and-Inspection'>Integrated and Smart Worksite Monitoring and Inspection</a>
         - <a href='/browse-all-solutions-Building-Construction/FM-Workflow-Automation'>FM Workflow Automation</a>
         - <a href='/browse-all-solutions-Building-Construction/e-Permit-to-work--e-PTW-'>e-Permit-to-work (e-PTW)</a>
         - <a href='/browse-all-solutions-Building-Construction/Quantity-Surveying-and-Valuation'>Quantity Surveying and Valuation</a>
@@ -42,8 +42,6 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
         - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Data-Analytics-for-Centre-Operations'>Data Analytics for Centre Operations</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Pre-schools--Centre-Operations-'>Data Mining & Analytics for Pre-schools (Centre Operations)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Child-Development-'>Data Mining & Analytics for Preschools (Child Development)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-'>Data Mining & Analytics for Preschools (Centre Operations and Child Development)</a>
@@ -51,6 +49,9 @@
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
       content: |
+        
+        **IT Solution**
+        - <a href='/browse-all-solutions-Engineering-Services/Project-Management-System'>Project Management System</a>
         
         **Equipment**
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
@@ -60,8 +61,8 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Estate-Agency/Document-Management-and-Transaction-Records-Submission-for-Estate-Agents'>Document Management and Transaction Records Submission for Estate Agents</a>
         - <a href='/browse-all-solutions-Estate-Agency/Document-Management-for-Estate-Agents'>Document Management for Estate Agents</a>
+        - <a href='/browse-all-solutions-Estate-Agency/Document-Management-and-Transaction-Records-Submission-for-Estate-Agents'>Document Management and Transaction Records Submission for Estate Agents</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Food
@@ -112,9 +113,6 @@
         - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Logistics/General-Logistics-Equipment'>General Logistics Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Marine & Offshore
@@ -171,13 +169,6 @@
         - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Travel Agents
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--E-Commerce-'>Travel Management System (E-Commerce)</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
       content: |
         
@@ -185,9 +176,6 @@
         - <a href='/browse-all-solutions-Wholesale-Trade/Sales-Management'>Sales Management</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Enterprise-Resource-Planning--ERP--Software-for-Wholesale'>Enterprise Resource Planning (ERP) Software for Wholesale</a>
         - <a href='/browse-all-solutions-Wholesale-Trade/Inventory-Management-System'>Inventory Management System</a>
-        
-        **Equipment**
-        - <a href='/browse-all-solutions-Wholesale-Trade/General-Wholesale-Trade-Equipment'>General Wholesale Trade Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
 - accordion:
@@ -271,9 +259,9 @@
         - <a href='/browse-all-solutions-E-Commerce-solutions/E-Commerce---Online-Shop--B2C-'>E-Commerce - Online Shop (B2C)</a>
     - title: Cyber Security solutions
       content: |
-        - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/Managed-Detection-and-Response'>Managed Detection and Response</a>
         - <a href='/browse-all-solutions-Cyber-Security-solutions/EndPoint-Protection-Platform'>EndPoint Protection Platform</a>
+        - <a href='/browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Management'>Unified Threat Management</a>
 - accordion:
   letter: c
   data:
