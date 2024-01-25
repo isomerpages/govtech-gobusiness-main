@@ -1618,10 +1618,9 @@
         -----
         **Aquatic Facility Licence**
 
-        For operating a public aquatic facility.
+        <p>For operating a public aquatic facility.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=61" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence">View Licence Details</a>
 
         -----
         **Cleaning Business Licence**
@@ -1656,10 +1655,9 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.
+        <p>Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=157" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fumigationpermit" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit">View Licence Details</a>
 
         -----
         **Fumigator Licence**
@@ -1847,20 +1845,18 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For the application and registration of Vector Control Operator Certificate.
+        <p>For the application and registration of Vector Control Operator Certificate.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroloperatorcertificate" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate">View Licence Details</a>
 
         -----
         **Vector Control Technician Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.
+        <p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or&nbsp;certified as&nbsp;Vector Control Workers to conduct any vector control activity.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
 
         -----
         **Vector Control Worker Certificate**
