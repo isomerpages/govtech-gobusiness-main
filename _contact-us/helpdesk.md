@@ -16,7 +16,7 @@ permalink: /contact-us/
 
 <h3>Contact a helpdesk</h3>
 
-{% include panels-featurelink-image.html panels=site.data.acc013-helpdesk %}
+{% include panels-aboutus.html panels=site.data.acc013-helpdesk %}
 
 ----
 
