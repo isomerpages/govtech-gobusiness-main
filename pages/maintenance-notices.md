@@ -12,7 +12,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 | 26 Jan, 8pm - 11pm<br>27 Jan, 12am - 8am | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |           
-| 26 Jan, 10pm - 27 Jan, 8am<br>27 Jan, 10pm - 28 Jan, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |        
+| 26 Jan, 10pm - 27 Jan, 8am<br>27 Jan, 10pm - 28 Jan, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |    
+| 26 Jan, 10:30pm - 27 Jan, 12am | **Progressive Wage (PW) Mark Services** will be unavailable during the upcoming scheduled maintenance. |  
 | 27 Jan, 2pm - 29 Jan, 8am | **Applications for Registration of Precious Stones and Metal Dealers** will be unavailable during the upcoming scheduled maintenance. | 
 
 
