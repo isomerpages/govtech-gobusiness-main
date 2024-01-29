@@ -211,6 +211,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Natflow - NRV-310
 - Natflow - NRV-312
 - Natflow - NRV-314
+- Natflow - NRV-322
 - Panasonic - CU-2XU20YBZ
 - Panasonic - CU-2XU20YBZ-H
 - Panasonic - CU-3XU28YBZ
