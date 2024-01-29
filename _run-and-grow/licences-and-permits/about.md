@@ -22,7 +22,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Featured licence guides
 
-{% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
+{% include panels-featurelink-image.html panels=site.data.rgp002_licences-guides %}
 
 ----
 
