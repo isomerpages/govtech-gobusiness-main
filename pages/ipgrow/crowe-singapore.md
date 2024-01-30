@@ -55,7 +55,6 @@ As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Tr
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 25%</li></ul>
 
-
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
