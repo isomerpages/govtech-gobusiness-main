@@ -28,31 +28,31 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1432' target='_blank'>Automated Dishwasher</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dshwshr-Food-Srvcs' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1433' target='_blank'>High Speed Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hgh-Spd-Ovn-Food-Srvcs' target='_blank'>High Speed Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1435' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Comb-Ovn-Food-Srvcs' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1436' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Noodl-Bolr-Food-Srvcs' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1437' target='_blank'>Automated Deep Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-Food-Srvcs' target='_blank'>Automated Deep Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1438' target='_blank'>Blast Chiller</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-Food-Srvcs' target='_blank'>Blast Chiller</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1479' target='_blank'>Autonomous Robotic Servers</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Robotc-Srvrs-Food-Srvcs' target='_blank'>Autonomous Robotic Servers</a><br></td>
 <td></td>
 </tr>
 </table>

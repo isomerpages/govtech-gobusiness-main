@@ -8,8 +8,6 @@ third_nav_title: Licences and Permits
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
-{% include banner-improve-eadviser.html %}
-
 {% include overview.html anchorlinks=site.data.ov002-licence %}
 
 ----
@@ -22,7 +20,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Featured licence guides
 
-{% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
+{% include panels-featurelink-image.html panels=site.data.rgp002_licences-guides %}
 
 ----
 
