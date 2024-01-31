@@ -30,4 +30,10 @@ permalink: /dashboard-faqs/
 
 ----
 
-{% include panels-featurelink.html panels=site.data.faqdb004-about %}
+### Levies
+
+{% include panels-featurelink.html panels=site.data.faqdb006-dashboard-sdl %}
+
+----
+
+{% include panels-featurelink.html panels=site.data.faqdb003-about %}
