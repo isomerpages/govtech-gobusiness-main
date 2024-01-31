@@ -3,16 +3,22 @@ collections:
     output: true
     order:
       - 01-hub.md
-      - 02-account-access-local.md
-      - 03-account-access-foreign.md
-      - 04-apply-new-licence.md
-      - 05-find-approved-licences.md
-      - 06-view-licence-statuses.md
-      - 07-submit-returns.md
-      - 08-view-application-statuses.md
-      - 09-payment.md
-      - 10a-third-party-bizuser.md
-      - 10b-third-party-individualuser.md
-      - 11-accreditation.md
-      - 12-about.md
-      - 13-contact-helpdesk.md
+
+      - 02-apply-new-licence.md
+      - 03-find-approved-licences.md
+      - 04-view-licence-statuses.md
+      - 05-submit-returns.md
+      - 06-view-application-statuses.md
+      - 07-payment.md
+      - 8a-third-party-bizuser.md
+      - 8b-third-party-individualuser.md
+      - 09-accreditation.md
+      - 09a-sdl-on-gobusiness.md
+      - 09b-sdl-payment-and-declaration.md
+      - 09c-sdl-refund.md
+      - 09d-sdl-notice-of-objection.md
+      - 09e-sdl-notifications.md
+      - 10-about.md
+      - 11-account-access.md
+      - 12-contact-helpdesk.md
+

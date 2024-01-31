@@ -1,6 +1,6 @@
 ---
 title: 'Simpliify''s E-commerce Version 1'
-permalink: /productivity-solutions-grant/solutionrepo/201415816M-Smplfy's-Ecommrc-v-1-G
+permalink: /productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G
 ---
 
 ## Simpliify''s E-commerce Version 1
