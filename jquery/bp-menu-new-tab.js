@@ -9,8 +9,7 @@ const listOfLinks = [
   "For new food service business owners",
   "Dashboard",
   "SkillsFuture for Enterprise",
-  "Intellectual Property",
-  "Skills Development Levy"
+  "Intellectual Property"
 ];
 
 const main = ".bp-menu-list>li>a";
