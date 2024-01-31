@@ -4,7 +4,7 @@ title: Skills Development Levy now on GoBusiness
 permalink: /news-and-updates/updates/sdl-on-gobusiness
 published: true
 preview: |
-  The Skills Development Levy (SDL) website will be moving to GoBusiness portal with effect from 1 April 2023
+  The Skills Development Levy (SDL) website will be moving to GoBusiness portal with effect from 31 January 2024
 image: /images/news/SDLonGoBusiness.jpg
 ---
 
