@@ -88,7 +88,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VUE TECH PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfy's-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
