@@ -41,7 +41,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -51,7 +51,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 1 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -61,7 +61,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -81,7 +81,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -91,7 +91,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 61 to 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -101,7 +101,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $801 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 21 to 40</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: Above 100</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  To be quoted upon review of work required</li>
 </ul>
 
@@ -115,7 +115,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s):Malaysia, Indonesia, Philippines, Thailand, Myanmar,Vietnam, Cambodia</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office(s): Malaysia, Indonesia, Philippines, Thailand, Myanmar, Vietnam, Cambodia</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -136,7 +136,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 **Keoy Soo Earn**
 
 - Job Title: Deloitte Private Leader & Private Equity Leader, Southeast Asia
-- Years of Experience: 20+ years
+- Years of Experience: 30+ years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Graduate Certificate in Intellectual Property, Chartered Financial Analyst, Certified Practicing Management Consultant - a Singapore recognised certification programme
@@ -145,7 +145,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 
 **Leonard Woo**
 - Job Title: Valuation Partner, Southeast Asia
-- Years of Experience: 30+
+- Years of Experience: 30+ years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Valuation, IP Strategy Consulting
 - Certifications/Qualifications: Fellow Chartered Accountant of the Chartered Accountants Australia and New Zealand, Chartered Accountant of the Institute of Singapore Chartered Accountants, Chartered Valuer & Appraiser of the Institute of Valuers and Appraisers Singapore, Chartered Accountant of the Malaysian Institute of Accountants
@@ -158,7 +158,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - Location: Singapore
 - IA/IP-Related Expertise: IP Intelligence and Search, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing
 - Certifications/Qualifications: RMC (Registered Management Consultant)
-- Awards/Accolades: Recognised as one of the world�s leading 300 IP Strategists in 2019 to 2023 by the Intellectual Asset Management Publication
+- Awards/Accolades: Recognised as one of the world's leading 300 IP Strategists in 2019 to 2023 by the Intellectual Asset Management Publication
 - URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/michetan.html]( https://www2.deloitte.com/sg/en/profiles/michetan.html)  
 
 ---
