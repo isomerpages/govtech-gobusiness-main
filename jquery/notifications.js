@@ -8,6 +8,8 @@ const custom_notifications = [
   "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused." ,
 "<b>[Attention: System Maintenance]</b> Our payment services are undergoing maintenance. If you experience payment errors, kindly bear with us. We apologise for the inconvenience caused."
   //"<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
+  "<b>[Attention]</b> If you have received a Notification of Expired or Cancelled Liquor Licence, please note that these alerts are for your old licences. The old licence number would be indicated clearly in the email.
+If you have recently applied and has been issued a new licence, please be assured that your new licence is not affected."
   
 ];
 
