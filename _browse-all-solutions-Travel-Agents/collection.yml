@@ -1,0 +1,6 @@
+collections:
+  browse-all-solutions-Travel-Agents:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Travel-Management-System--E-Commerce-.md

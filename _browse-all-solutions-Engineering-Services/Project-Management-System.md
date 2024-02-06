@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201410722E-GncTms-Projct-MGT-Softwr-v-V2-G' target='_blank'>GenicTeams - Project Management Software Version V2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1484' target='_blank'>GenicTeams - Project Management Software Version V2</a><br></td>
 <td>Business Thrust Pte Ltd</td>
 </tr>
 </table>

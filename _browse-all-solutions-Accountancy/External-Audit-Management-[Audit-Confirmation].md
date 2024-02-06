@@ -20,7 +20,7 @@ This solution is supported by ACRA.
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199606134Z-Confrmtoncom-G' target='_blank'>Confirmation.com</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1533' target='_blank'>Confirmation.com</a><br></td>
 <td>Thomson Reuters Corporation Pte. Ltd.</td>
 </tr>
 </table>

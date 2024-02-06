@@ -459,7 +459,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LEDVANCE - SMART + WIFI CLA60 TW
 - LEDVANCE - SMART + WIFI CLA70 14W TW
 - Lighting - T140-LED-45W-65
-- Lighting - T8-LED-20W-65
 - Lighting Hub - WA29-12-aak-F
 - Lighting Hub - WA29-15-aak-F
 - Lighting Hub - WA29-3-aak-F
@@ -1129,7 +1128,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718696844960
 - Philips - 8718696844984
 - Philips - 8718696845004
-- Philips - 8718699594626(UPDATED)
 - Philips - 8718699594749
 - Philips - 8718699594763
 - Philips - 8718699594787
@@ -1142,10 +1140,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699607449
 - Philips - 8718699618964
 - Philips - 8718699618988
-- Philips - 8718699618988(NEW)
 - Philips - 8718699619008
 - Philips - 8718699619022
-- Philips - 8718699619022(NEW)
 - Philips - 8718699619046
 - Philips - 8718699619060
 - Philips - 8718699619060 (NEW)
@@ -1174,18 +1170,13 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699780579
 - Philips - 8718699780579 (UPDATED)
 - Philips - 8718699780593
-- Philips - 8718699780593(UPDATED)
 - Philips - 8718699780616
-- Philips - 8718699780616(UPDATED)
-- Philips - 8718699780630(UPDATED)
 - Philips - 8718699780654
 - Philips - 8718699780654 (UPDATED)
 - Philips - 8718699780678
 - Philips - 8718699780678 (UPDATED)
 - Philips - 8718699780692
-- Philips - 8718699780692(UPDATED)
 - Philips - 8718699780715
-- Philips - 8718699780715(UPDATED)
 - Philips - 8718699780753
 - Philips - 8718699780791
 - Philips - 8719514252851
@@ -1833,7 +1824,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 25W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
-- Racer - LED HIGH WATT MEGA BRIGHT 22W 6500K E27
 - Racer - LED HIGH WATT MEGA BRIGHT 33W 6500K E27
 - Racer - LED HIGH WATT MEGA BRIGHT 45W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
@@ -1899,7 +1889,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SL LED - WA2C42-9F
 - SL LED - WA2C48-18-F
 - SL LED - WA2C48-28-F
-- SoLED - SL-1.2-10-160-65
 - STANFORD - SL252C01
 - STANFORD - SL252C02
 - STANFORD - SL252C03
@@ -2178,7 +2167,6 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - VIVE - VI-UFO-15WESCW
 - VIVE - VI-UFO-15WESDL
 - VIVE - VI-UFO-15WESWW
-- Wiselite - EG-WT8-18W12ME
 - Yeelight - Pro E20 YP0046
 - Yeelight - Pro M20 Smart Downlight (3 in)
 - Yeelight - Pro M20 YLP032

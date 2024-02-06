@@ -277,7 +277,6 @@ Commercial refrigerator: Inverter technology
 - EuropAce - ER 5461W
 - EuropAce - ER 5501A
 - EuropAce - ER 7256W
-- Farfalla - FR-103R2
 - Farfalla - FR-47R2
 - FHIABA - S8990TST6i
 - FHIABA - S8991TST3I
@@ -333,7 +332,6 @@ Commercial refrigerator: Inverter technology
 - Hitachi - R-B570P7MS
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-G500GS
-- Hitachi - R-GWC670TS
 - Hitachi - R-HV480NS
 - Hitachi - R-HV490RS
 - Hitachi - R-HW530NS
@@ -484,9 +482,7 @@ Commercial refrigerator: Inverter technology
 - LG - GB-B4453MC
 - LG - GB-B4459GV
 - LG - GF-B4539PZ
-- LG - GF-B4544EP
 - LG - GF-B6012MC
-- LG - GF-B6014EV
 - LG - GS-B6267GV
 - LG - GS-B6269PZ
 - LG - GS-B6472MC
