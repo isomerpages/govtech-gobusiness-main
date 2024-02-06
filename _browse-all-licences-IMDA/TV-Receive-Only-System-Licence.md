@@ -18,7 +18,6 @@ Infocomm Media Development Authority (IMDA)
 <span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
 <a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=9" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
 </div>
-
 <H3>Application Details</H3>
 
 <p>The Info-communications Media Development Authority issues TV Receive-Only (TVRO) System Licences to organisations that need to access time sensitive information for business decisions. These organisations include financial institutions endorsed by the Monetary Authority of Singapore (MAS), commercial institutions endorsed by the Economic Development Board (EDB) or IE Singapore, media organisations endorsed by the Ministry of Communications and Information (MCI), foreign embassies endorsed by the Ministry of Foreign Affairs (MFA), statutory boards, hotels endorsed by the Singapore Tourism Board (STB), foreign tertiary education institutions and international schools endorsed by EDB and local tertiary education institutions.</p>

@@ -8,14 +8,12 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-{% include spcp-text.html type="cp" %}
-
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/167f206a-4a77-42cc-8302-c26b5b583811" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=28" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>You require a Localised Radio-communication Station Licence if you intend to operate a short range radio-communication equipment such as remote control device or wireless data or voice system.
-</p><p>
-For more information on the Localised Radio-communication Station Licence, please access <a href="https://iris.imda.gov.sg/application/localised-radio-communication-station-licence">https://iris.imda.gov.sg/application/localised-radio-communication-station-licence</a>.
-</p>
+<p>For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).</p>
 
+<strong>Additional Information</strong>
+
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
