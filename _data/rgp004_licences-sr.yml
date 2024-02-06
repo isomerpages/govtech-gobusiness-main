@@ -3,5 +3,4 @@
   description: Returns can be submitted by logging in to GoBusiness Licensing or Dashboard. 
   url: /licences/submit-returns/
   url-new-tab: true
-  text: Log In to GoBusiness Licensing
-
+  text: Go to Submit Returns
