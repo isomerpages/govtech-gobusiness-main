@@ -19,15 +19,12 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For operating and possession of radio communication equipment which does not fall under any licence category.</p>
-
-<strong>Additional Information</strong>
-
-<p><strong>Fee</strong><br />Licence fee: $50.00 per annum per station<br />Frequency fee: Depending on the bandwidth of the frequencies<br />Application & Processing fee: Depending on the bandwidth of the frequencies</p>
-
-<H3>Documents Needed</H3>
-
+<p>You require a Special Purpose Station Licence if you intend to operate and possess a radio communication equipment that meets the following criteria:
 <ul>
- <li><strong>Justification</strong></li>
- </ul>
+<li>It is not categorised within any other station licence in the Telecommunications (Radio-communication) Regulations</li>
+<li>It is established exclusively for its purpose</li>
+</ul> 
+</p><p>
+For more information on the Special Purpose Station Licence, please access <a href="https://iris.imda.gov.sg/application/special-purpose-station-licence">https://iris.imda.gov.sg/application/special-purpose-station-licence</a>.
+</p>
 
