@@ -10,12 +10,8 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 ### 2023 
 
 | **Scheduled Date** | **Remarks** |  
-|  -----------   | ---------------- | 
-| 12 Jan, 10pm - 13 Jan, 2am<br>19 Jan, 10pm - 20 Jan, 3am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period |
-| 13 Jan, 12am - 6am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |
-| 13 Jan, 2pm - 15 Jan, 8am<br>20 Jan, 2pm - 22 Jan, 8am<br>27 Jan, 2pm - 29 Jan, 8am | **Applications for Registration of Precious Stones and Metal Dealers** will be unavailable during the upcoming scheduled maintenance. | 
 
-
+| 5 Feb, 8pm - 6 Feb, 3am | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. | 
 
 
 <script src="/jquery/jquery.min.js"></script>

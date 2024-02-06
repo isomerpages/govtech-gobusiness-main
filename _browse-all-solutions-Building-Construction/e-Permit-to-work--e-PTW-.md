@@ -28,12 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution132' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201114849R-InSght-QSE-Elctronc-PrmtToWork-PTW-&-Sfty-Systm-BC' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1363' target='_blank'>Hubble Safety Management System - Electronic Permit to Work (ePTW) and Safety Inspection</a><br></td>
-<td>Hubble Pte Ltd</td>
 </tr>
 </table>
 
