@@ -28,6 +28,7 @@ Infocomm Media Development Authority (IMDA)
 <p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
 <H3>Documents Needed</H3>
+
 <ul>
  <li><strong>Please provide the following: Purpose of proposed network and supporting documents; Alternate frequency(s) if desired frequency(s) are unavailable; Number of mobile or portable units in the network; and implementation plan (including start/end date).</strong></li>
  <li><strong>This attachment is for any supporting documents required to be submitted.</strong></li>
