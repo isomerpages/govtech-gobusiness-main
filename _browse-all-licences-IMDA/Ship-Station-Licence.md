@@ -31,4 +31,4 @@ Infocomm Media Development Authority (IMDA)
  <li><strong>Letter from Singtel on the assignment of maritime mobile service identity (MMSI) number</strong></li>
  <li><strong>Other supporting document</strong></li>
  </ul>
- 
+
