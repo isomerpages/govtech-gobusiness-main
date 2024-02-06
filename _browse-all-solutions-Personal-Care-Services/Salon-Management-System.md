@@ -28,31 +28,31 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution67' target='_blank'>BOTG</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201819295R-BOTG-G' target='_blank'>BOTG</a><br></td>
 <td>ANTSCOLONY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1563' target='_blank'>Studio Manager Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200100911R-Studo-Mngr-v-8-G' target='_blank'>Studio Manager Version 8</a><br></td>
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1568' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-SLNs-v-3-G' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1572' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-Buty-&-Wllnss-G' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1577' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RvnPOS-Prsonl-Wllnss-MGT-Systm-v-12-G' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1582' target='_blank'>Beautec centralized version</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200900723K-Butc-cntrlzd-v-G' target='_blank'>Beautec centralized version</a><br></td>
 <td>Beautec Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1583' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-V6372-G' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>SEQUOIA PTE LTD</td>
 </tr>
 </table>

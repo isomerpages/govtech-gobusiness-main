@@ -1,0 +1,38 @@
+<style>
+  #main-content div.notice-container {
+    display: grid;
+    grid-auto-rows: auto auto 1fr;
+    background: #E6F2F3;
+    border: 1px solid #B3D8DC;
+    box-shadow: 0px 0px 0px rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+    border-radius: 5px;
+    padding: 24px;
+  }
+
+  #main-content  .notice-title {
+        font-family: hknova-regular;
+    }
+
+  #main-content .notice-content>p {
+    margin: 0 0 24px 0;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'hknova-regular';
+  }
+</style>
+
+{% if include.notice.show %}
+  {% if include.notice.button %}
+  <div class="notice-container">
+    <p class="notice-title"><strong>{{include.notice.title}}</strong></p>
+    <div class="notice-content">{{include.notice.content}}</div>
+    {% include button.html text=include.notice.text src=include.notice.href
+    target=include.notice.target rel=include.notice.rel %}
+  </div>
+  {% else %}
+  <div class="notice-container">
+    <p class="notice-title"><strong>{{include.notice.title}}</strong></p>
+    <div class="notice-content">{{include.notice.content}}</div>
+  </div>
+  {% endif %}
+{% endif %}
