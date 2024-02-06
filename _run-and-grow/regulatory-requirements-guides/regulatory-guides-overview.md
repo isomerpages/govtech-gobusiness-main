@@ -14,4 +14,3 @@ There are essential tax and compliance rules that every business in Singapore ne
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-{% include trackingtag-pgviews.html %}

@@ -40,4 +40,3 @@ https://eadviser.gobusiness.gov.sg/govassist?src=about_govassist
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-{% include trackingtag-pgviews.html %}

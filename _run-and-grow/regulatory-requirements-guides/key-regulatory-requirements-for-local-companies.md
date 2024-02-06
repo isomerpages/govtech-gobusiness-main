@@ -20,4 +20,4 @@ The content made available or accessible through this page may not be correct, c
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
-{% include trackingtag-pgviews.html %}
+
