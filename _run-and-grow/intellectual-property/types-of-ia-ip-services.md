@@ -15,7 +15,7 @@ GoBusiness IP Grow features 20 IA/IP service directories grouped into 4 key cate
 ---
 <a name='recommendations-for-ia-ip'></a>
 
-{% include panel-stretched-featurelink.html image="<img style='width:59px; height:auto; float:left;'  src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Get recommendations for your IA/IP needs" description="Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink.html panels=site.data.acc203-run-and-grow-overview %}
 
 <a name='ip-search-and-registration'></a>
 

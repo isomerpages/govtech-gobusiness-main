@@ -1,8 +1,8 @@
 - image: <img src="/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png" aria-hidden="true">
-  title: IA/IP Resources
-  description: Learn more about leveraging IA/IP for your business or browse a list of available grants.
-  url: /intellectual-property/ip-grow/resources/
-  text: Go to IA/IP Resources
+  title: Get recommendations for your IA/IP needs
+  description: Not sure which IA/IP services your business needs? Answer a few simple questions to get recommendations in under 2 minutes.
+  url: https://eadviser.gobusiness.gov.sg/ipservice
+  text: Go to e-Adviser for IP Service
 
 - image: <img src="/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png" aria-hidden="true">
   title: Ask an IP Question
