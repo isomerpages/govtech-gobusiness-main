@@ -15,7 +15,7 @@ GoBusiness IP Grow features 20 IA/IP service directories grouped into 4 key cate
 ---
 <a name='recommendations-for-ia-ip'></a>
 
-{% include panels-featurelink.html panels=site.data.acc203-run-and-grow-overview %}
+{% include panels-featurelink.html panels=site.data.rgp008c_ipgrow-types-of-services %}
 
 <a name='ip-search-and-registration'></a>
 
