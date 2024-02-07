@@ -60,10 +60,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Coobiz IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVENPOS-DIGITAL-ORDERING-SLN-v-12-FS' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
-<td>Nspire Group Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-F&B-SLNs-v-50-FS' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
@@ -120,12 +116,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201230283H-RAVENPOS-DIGITAL-ORDERING-SLN-v-12-FS' target='_blank'>RAVENPOS DIGITAL ORDERING SOLUTION Version 12</a><br></td>
+<td>Nspire Group Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201220029K-NPOS-v-21-FS' target='_blank'>NPOS Version 2.1</a><br></td>
 <td>NSTORY PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201436957C-Rvl-Systms-v-2-FS' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201606474N-CHEF-Dgtl-Ordrng-FS' target='_blank'>iCHEF Digital Ordering</a><br></td>
+<td>iCHEF SG PTE LTD</td>
 </tr>
 </table>
 
