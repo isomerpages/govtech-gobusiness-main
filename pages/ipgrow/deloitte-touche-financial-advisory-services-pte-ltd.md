@@ -154,7 +154,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 **Michelle Tan**
 
 - Job Title: Partner, M&A Transaction Service, Technology & IP Advisory, Southeast Asia
-- Years of Experience: 10+ years
+- Years of Experience: 20 years
 - Location: Singapore
 - IA/IP-Related Expertise: IP Intelligence and Search, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing
 - Certifications/Qualifications: RMC (Registered Management Consultant)
