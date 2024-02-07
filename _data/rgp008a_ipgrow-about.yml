@@ -1,11 +1,11 @@
-- image: <img src="/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png" aria-hidden="true">
+- image: <img src="/images/ipgrow/ipservices/iaip_resources.png" aria-hidden="true">
   title: Discover IA/IP services for my business
   description: Get recommendations on the IA/IP services your business might need.
   url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
   url-new-tab: true
   text: Go to e-Adviser for IP Service
 
-- image: <img src="/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png" aria-hidden="true">
+- image: <img src="/images/ipgrow/ipservices/ask_ip_question.png" aria-hidden="true">
   title: Find IA/IP service providers
   description: Already know which IA/IP services your business needs? Use this to get recommendations on the most suitable service providers.
   url: https://eadviser.gobusiness.gov.sg/ipserviceprovider?src=ipgrow-about

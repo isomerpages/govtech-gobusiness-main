@@ -21,6 +21,8 @@ By working with an innovation consultant, your business can gain fresh perspecti
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs innovation consultancy services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
+{% include panels-featurelink.html panels=site.data.rgp008c_ipgrow-types-of-services %}
+
 ---
 
 ### Connect with relevant service providers for innovation consultancy services
