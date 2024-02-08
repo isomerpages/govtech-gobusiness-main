@@ -5,7 +5,8 @@ const custom_notifications = [
   //1 system downtime only
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable due to maintenance on 07 Nov from 3:30pm to 11:59pm. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-  "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused." ,
+  "<b>[Announcement]</b> Please note that GoBusiness Helpdesk operating hours will be between 8:00 am and 1:00 pm on 09 Feb 2024, Chinese New Year Eve. For urgent assistance, try Ask GoBiz (our online bot). Else please email to us at AskGoBiz@crimsonlogic.com.sg, and we will respond the next working day.",
+  "<b>[Attention: System Maintenance]</b> GoBusiness Portal is temporarily refining our search capabilities for a better experience. Please bear with us as you may encounter some limitations in searching for records during this time. We apologise for the inconvenience caused.",
 "<b>[Attention: System Maintenance]</b> Multiple services will be unavailable while they are being upgraded. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details of affected services. We apologise for the inconvenience caused."
   
 ];
