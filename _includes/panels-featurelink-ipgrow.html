@@ -105,6 +105,7 @@
 
 </style>
 <div class="panels">
+    {% for panel in include.panels %}
     <div class="panel">
         {% if {{include.label}} %}
         <div class="panel-label">{% include label.html label=include.label %}</div>
@@ -178,4 +179,5 @@
         </div>
         {% endif %}
     </div>
+    {% endfor %}
 </div>
