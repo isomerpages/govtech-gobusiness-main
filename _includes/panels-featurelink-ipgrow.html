@@ -104,80 +104,26 @@
     }
 
 </style>
+
 <div class="panels">
-    {% for panel in include.panels %}
     <div class="panel">
-        {% if {{include.label}} %}
-        <div class="panel-label">{% include label.html label=include.label %}</div>
-        {% endif %}
-        {% if include.image %}
-        <div class="panel-image" aria-hidden="true">{{ include.image }}</div>
-        {% endif %}
-        {% if include.banner %}
-        <div class="panel-banner" aria-hidden="true">{{ include.banner }}</div>
-        {% endif %}
-        <h4 class="panel-title">{{ include.title }}
-        {% if include.is_new %}
-        <span style="margin-left: 8px;">
-          {% include new-tag.html %}
-        </span>
-        {% endif %}
-        </h4>
-        {% if include.description %}
-        <p class="panel-description">{{ include.description }}</p>
-        {% endif %}
-        {% if include.tel or include.email or include.url or include.text %}
-        <div class="panel-links-container">
-            {% if include.tel %}
-            <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-group">
-                {% assign tels = include.tel | split: ',' %}
-                {% for tel in tels %}
-                <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
-            {% if include.email %}
-            <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-group">
-                {% assign emails = include.email | split: ',' %}
-                {% for email in emails %}
-                <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
-                {% endfor %}
-            </div>
-            {% endif %}
-            {% if include.url %}
-            <hr style="width:100%;text-align:left;margin:0">
-            <div class="panel-links-group">
-                {% assign urls = include.url | split: ',' %}
-                {% for url in urls %}
-                    {% if include.url-new-tab %}
-                        {%if url.endsWith(".pdf") %}
-                            <a class="panel-pdf-link"
-                                href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}"
-                                target="_blank" rel="noopenner">
-                        {% else %}
-                            <a class="panel-link"
-                                href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}"
-                                target="_blank" rel="noopenner">
-                    {% endif %}
-                    {% else %}
-                        <a class="panel-link" href="{% if include.protocol %}{{include.protocol}}://{% else %}{% endif %}{{url}}">
-                    {% endif %}
-                    {% if include.pdf-icon %}<img style='width:21px; height:auto; margin-right: 8px; display: inline-flex; vertical-align: middle;' src="/images/pdficon.png">{% endif %}{% if include.text %}<span style='font-size: 18px; font-family: hknova-regular; line-height: 27px;'>{{include.text}}</span>
-                        {% else %}{{url}}{% endif %}</a>
-                {% endfor %}
-            </div>
-            {% else %}
-                {% if include.text %}
-                <hr style="width:100%;text-align:left;margin:0">
-                <div class="panel-info">
-                    {{include.text}}
-                </div>
-                {% endif %}
-            {% endif %}
+        <div class="panel-image">
+            <img src="/images/ipgrow/ipservices/iaip_resources.png" aria-hidden="true">
         </div>
-        {% endif %}
+        <h4 class="panel-title">Get recommendations for patent agent service providers</h4>
+        <p class="panel-description">Find suitable service providers based on your industry, countries of interest, and preferences for service providers.  Go to e-Adviser for IP Service Provider</p>
+        <div class="panel-links-container">
+            <a class="panel-link" href="https://eadviser.gobusiness.gov.sg/ipservice">Go to e-Adviser for IP Service</a>
+        </div>
     </div>
-    {% endfor %}
+    <div class="panel">
+        <div class="panel-image">
+            <img src="/images/ipgrow/ipservices/ask_ip_question.png" aria-hidden="true">
+        </div>
+        <h4 class="panel-title">Ask the {{ ipTitle }} experts an IP Question</h4>
+        <p class="panel-description">Got questions about {{ secondTitle }}? Get free, on-demand answers from the experts on GoBusiness IP Grow.</p>
+        <div class="panel-links-container">
+            <a class="panel-link" href="https://form.gov.sg/65b067cabde7010012240c03">Ask a pro</a>
+        </div>
+    </div>
 </div>
