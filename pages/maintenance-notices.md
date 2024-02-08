@@ -15,5 +15,6 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | 8 Feb, 10pm - 9 Feb, 12am | **Bizfile+** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. | 
 
 
+
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
