@@ -20,7 +20,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? 
 3 methods to value your IP assets are: 1. Cost: Considers the cost to re-create or replace your IP. 2. Market: Considers comparisons with similar IP-related transactions. 3. Income: Considers the contribution of your IP to past, present, or future profits. This is the most widely used method.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs valuation services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="valuation services (with IA/IP considerations)" secondTitle="valuation services (with IA/IP considerations)" %}
 
 ---
 

@@ -21,7 +21,7 @@ The scope of protection you receive is determined by how you represent your prod
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Registered Design Agent.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Registered designs cover a wide range of products, including furniture, clothing, jewellery, electronics, and even digital interfaces like the Apple iPhone home screen for widgets!</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs a registered design agent?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="registered design agent" secondTitle="registered design" %}
 
 ---
 

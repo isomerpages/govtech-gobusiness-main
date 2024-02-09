@@ -19,7 +19,7 @@ With these insights, your business can identify areas in its IP management that 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Audit.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? An IP audit is a great way for a business to understand its key IP assets, their contribution to the business, and how best to optimise them for business success. </figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP audit services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP audit" secondTitle="IP audit" %}
 
 ---
 

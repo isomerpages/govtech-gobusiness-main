@@ -21,7 +21,7 @@ Conducting IP due diligence empowers your business with valuable information to 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Due Diligence.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? IP due diligence is often conducted before specific corporate activities like licensing brands or technologies, or investment or acquisition of another company. It helps to uncover potential risks related to a company's IP.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP due diligence services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP due diligence" secondTitle="IP due diligence" %}
 
 ---
 

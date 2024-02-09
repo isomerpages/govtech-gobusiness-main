@@ -19,7 +19,7 @@ Businesses often miss out on identifying valuable IP due to a lack of IP awarene
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Training.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? In a survey conducted by IPOS, nearly 40% of the surveyed companies expressed a preference for hiring candidates with IP skills, while 15% made it a requirement for their employees.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP training services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP training" secondTitle="IP training" %}
 
 ---
 

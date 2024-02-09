@@ -21,6 +21,9 @@ By working with an experienced tax advisor, businesses can identify tax-saving o
 
 {% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs tax advisory services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
 
+{% include panels-featurelink-ipgrow.html ipTitle="tax advisory services (with IA/IP considerations)" secondTitle="tax advisory services (with IA/IP considerations)" %}
+
+
 ---
 
 ### Connect with relevant service providers for tax advisory services (with IA/IP considerations)

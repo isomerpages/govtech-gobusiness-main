@@ -23,7 +23,8 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Brokerage and Licensing.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? You can license IP in 3 ways. 1. Non-exclusive: Multiple companies who may be competitors can use the IP. 2. Exclusive: Only the licensee gets exclusive rights to use the IP. 3. Sole: The licensor and one licensee both get rights to use the IP.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP brokerage and licensing services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP brokerage and licensing" secondTitle="IP brokerage and licensing" %}
+
 
 ---
 
