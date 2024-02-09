@@ -26,17 +26,3 @@ Infocomm Media Development Authority (IMDA)
 For more information on the Experimental Station Licence, please access <a href="https://iris.imda.gov.sg/application/experimental-station-licence">https://iris.imda.gov.sg/application/experimental-station-licence</a>.
 </p>
 
-<strong>Additional Information</strong>
-
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
-
-<H3>Documents Needed</H3>
-
-<ul>
-<li><strong>Purpose of Application</strong></li>
-</ul>
-
-<H3>Requirements</H3>
-
-Applicant must be ACRA registered company/business
-
