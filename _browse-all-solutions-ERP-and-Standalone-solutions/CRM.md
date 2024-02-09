@@ -48,10 +48,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
-<td>Neu Media Technology LLP</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202039751G-Flvor-Customr-Rltonshp-MGT-Systm-v-1-G' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
 <td>FLAVOR PTE. LTD.</td>
 </tr>
