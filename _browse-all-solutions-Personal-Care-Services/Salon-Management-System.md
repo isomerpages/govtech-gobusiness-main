@@ -55,6 +55,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-V6372-G' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>SEQUOIA PTE LTD</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td>Refine Solutions Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
