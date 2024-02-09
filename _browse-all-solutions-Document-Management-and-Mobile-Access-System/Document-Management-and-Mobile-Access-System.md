@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199000721C-M365-ShrPont-Pckg-G' target='_blank'>M365 SharePoint Package</a><br></td>
-<td>JK Technology Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-G' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>

@@ -42,20 +42,6 @@ Advocado Cloud Loyalty Customer Relationship Management(CRM) software empowers S
 <td style='padding: 10px;'>$8,025.00</td>
 <td style='padding: 10px;'><a href='/images/psg/Advocado_CloudLoyaltyCRM_01122023_Desensitised_Annex3_Part3.pdf ' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(5 Users)</td>
-<td style='padding: 10px;'>$10,600.00</td>
-<td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>(12 Users)</td>
-<td style='padding: 10px;'>$18,200.00</td>
-<td style='padding: 10px;'>$8,200.00</td>
-<td style='padding: 10px;'><a href='/images/psg/EPOS_EPOSMarkerting_01122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment
