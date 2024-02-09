@@ -58,7 +58,7 @@ We just happen to be a likeable small boutique firm.
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 100%</li></ul>
+'- Small and medium-sized enterprises - 100%
 
 ---
 <a name='key-practice-experts'></a>

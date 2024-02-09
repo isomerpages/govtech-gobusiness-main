@@ -1,33 +1,3 @@
-<style>
-div#webchat #webchat-container > div:first-child {
-    height: 55px;
-    width: 55px;
-    bottom: 10px;
-    right: 10px;
-    box-shadow:
-        rgba(0, 0, 0, 0.06) 0 1px 6px 0,
-        rgba(0, 0, 0, 0.16) 0 2px 32px 0;
-    border-radius: 50%;
-}
-
-div#webchat img[alt="Bot Launcher"] {
-    height: 55px;
-    width: 55px;
-}
-
-div#webchat img[alt="Bot Launcher"]:hover {
-    opacity: 0;
-}
-
-img#webchat-hover {
-    cursor: pointer;
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    height: 55px;
-    width: 55px;
-}
-</style>
 <div
     id="webchat"
     app-id="gt-ask-gobiz"
@@ -44,16 +14,11 @@ img#webchat-hover {
     app-auto-launch="false"
     app-quick-launch-event="welcome"
     app-bot-response-trigger-event="false"
-    app-icon="/images/VICA-55px-default.svg"
+    app-icon="https://www.gobusiness.gov.sg/images/VICA-avatar-210px.png" 
     app-subtitle="Chat with us"
     role="region"
     aria-label="chatbot"
 ></div>
-<img
-    id="webchat-hover"
-    src="/images/VICA-55px-hover.svg"
-    alt="vica-hover"
-/>
 <script
     type="text/javascript" 
     src="https://webchat.vica.gov.sg/static/js/chat.js" 

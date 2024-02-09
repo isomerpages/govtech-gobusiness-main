@@ -124,7 +124,7 @@ We help companies unlock their competitive edge by identifying, valuing and mone
 **IP Training Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200  to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 61 to 65</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 11 to 20</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 21 to 40</li>
