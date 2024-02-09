@@ -61,4 +61,4 @@ panels:
         is_new: false
       - text: SGSecure @ Workplaces
         href: /sgsecure/?src=eservices
-        is_new: false
+        is_new: true

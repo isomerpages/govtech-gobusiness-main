@@ -21,19 +21,8 @@ Infocomm Media Development Authority (IMDA)
 
 <H3>Application Details</H3>
 
-<p>For establishing and providing Fixed Wireless Network (such as use of multiple high power base or fixed station within a cluster).</p>
-
-<strong>Additional Information</strong>
-
-<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
-
-<H3>Documents Needed</H3>
-
-<ul>
- <li><strong>Purpose of proposed network and supporting documents</strong></li>
- </ul>
-
-<H3>Requirements</H3>
-
-Applicant must be ACRA registered company/business
+<p>You require a Fixed Wireless Network Licence if you intend to establish and operate the network or provide fixed wireless network services (such as use of multiple high-power base or fixed station within a cluster).
+</p><p>
+For more information on the Fixed Wireless Network Licence, please access <a href="https://iris.imda.gov.sg/application/fixed-wireless-network-licence">https://iris.imda.gov.sg/application/fixed-wireless-network-licence</a>.
+</p>
 
