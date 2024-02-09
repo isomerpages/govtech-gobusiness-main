@@ -21,7 +21,7 @@ With a successful brand strategy, your business can enhance the appeal of its pr
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Branding Strategy.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Valuable brands tend to evoke various emotions and make us recall certain qualities. For example, these brands may prompt feelings of relaxation or excitement, and be associated with attributes like luxury and comfort.</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="branding strategy" secondTitle="branding strategy" %}
+{% include panels-featurelink-ipgrow.html ipTitle="branding strategy" secondTitle="branding strategies" %}
 
 ---
 

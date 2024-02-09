@@ -21,7 +21,7 @@ The scope of protection provided by a trade mark relies heavily on how the mark 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Trade Mark Agent.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Having a registered trade mark in Singapore does not automatically grant you rights overseas. Trade mark registration is territorial, so you should seek registration in all your targeted markets!</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="Trade mark agent" secondTitle="trade marks" %}
+{% include panels-featurelink-ipgrow.html ipTitle="trade mark agent" secondTitle="trade marks" %}
 
 ---
 

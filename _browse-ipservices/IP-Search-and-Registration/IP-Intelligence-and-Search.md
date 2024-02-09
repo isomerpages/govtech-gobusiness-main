@@ -31,7 +31,7 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Intelligence and Search.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? IP intelligence can sometimes reveal interesting information about a company's future plans and products. For instance, Sony has filed a technology patent where gamers can use fruits or household objects as game controllers, while Apple has obtained registered designs for floor tiles.</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="IP database" secondTitle="IP database" %}
+{% include panels-featurelink-ipgrow.html ipTitle="IP intelligence and search" secondTitle="IP intelligence and search" %}
 
 ---
 

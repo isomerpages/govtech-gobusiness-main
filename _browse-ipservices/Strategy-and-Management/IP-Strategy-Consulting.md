@@ -21,7 +21,7 @@ With a well-crafted IP strategy, your business is better placed to strengthen it
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Strategy Consulting.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Your IP strategy should be aligned with your business strategy. This means that your IP strategy should factor in your competitors' developments, your competitive advantages and business model, IP costs and potential returns, and an assessment of your most valuable IP assets.</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="IP Strategy consulting" secondTitle="IP strategy consulting" %}
+{% include panels-featurelink-ipgrow.html ipTitle="IP Strategy consulting" secondTitle="IP strategy consultancies" %}
 
 ---
 

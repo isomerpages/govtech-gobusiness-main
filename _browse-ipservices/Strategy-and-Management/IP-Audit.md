@@ -19,7 +19,7 @@ With these insights, your business can identify areas in its IP management that 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Audit.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? An IP audit is a great way for a business to understand its key IP assets, their contribution to the business, and how best to optimise them for business success. </figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="IP audit" secondTitle="IP audit" %}
+{% include panels-featurelink-ipgrow.html ipTitle="IP audit" secondTitle="IP audits" %}
 
 ---
 

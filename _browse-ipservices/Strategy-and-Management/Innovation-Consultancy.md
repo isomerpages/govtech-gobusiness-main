@@ -19,7 +19,7 @@ By working with an innovation consultant, your business can gain fresh perspecti
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Innovation Consultancy.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? Singapore consistently ranks among the top countries in innovation performance on the Global Innovation Index. This shows that Singapore has a supportive environment for innovative companies!</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="innovation consultancy" secondTitle="innovation consultancy" %}
+{% include panels-featurelink-ipgrow.html ipTitle="innovation consultancy" secondTitle="innovation consultancies" %}
 
 {% include panels-featurelink.html panels=site.data.rgp008c_ipgrow-types-of-services %}
 
