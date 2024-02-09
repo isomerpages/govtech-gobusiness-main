@@ -19,7 +19,7 @@ Singapore Food Agency (SFA)
 
 <H3>Application Details</H3>
 
-<p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. It is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.<br>You may refer below on the steps for application of Supermarket Licence.</p>
+<p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.<br>You may refer below on the steps for application of Supermarket Licence.</p>
 <p><strong><span style="text-decoration: underline;">Overview of Licence Application:</span></strong></p>
 <p><strong>Step 1: Obtain In-Principle Approval</strong></p>
 <ul>
@@ -57,7 +57,7 @@ Singapore Food Agency (SFA)
 <p><strong>Step 4: Complete Payment for Licence</strong></p>
 <ul>
 <li>Upon compliance with all pre-licensing requirements, applicants will receive a payment notification via email / in GoBusiness. The applicant may proceed to make payment for the licence within 28 days. Otherwise, the application will lapse and be considered null and void. A new application will be needed if the applicant still intends to operate the food business.<br>- For applicants with an existing GIRO arrangement with SFA, the applicant may start operations after receiving SFA's approval email.<br>- For applicants without GIRO arrangements, the applicant may only commence operations after payment has been made via AXS or GoBusiness.</li>
-<li>Applicants are encouraged to sign up for <a href="https://www.sfa.gov.sg/e-services/payment-modes/giro" target="_blank" rel="noopener">GIRO</a> auto-payment as a convenient way to pay the fees for the renewal of their licence. Auto-renewal of licence takes place two months before the licence expires.</li>
+<li>Applicants are encouraged to sign up for <a href="https://www.sfa.gov.sg/e-services/payment-modes/giro" target="_blank" rel="noopener">GIRO</a> payment as a convenient way to pay the fees for the renewal of their licence. Renewal of licence takes place two months before the licence expires.</li>
 <li>Licences paid for on or after 1 Jan 2022 must be self-printed directly via GoBusiness. The applicant may refer to the <a href="https://www.sfa.gov.sg/docs/default-source/food-retailing/gobusiness_licence-self-print-guide.pdf" target="_blank" rel="noopener">self-printing guide</a>. The list of Community Centres with Citizen Connect Centres, including those with printing facilities can be access <a href="https://www.sfa.gov.sg/docs/default-source/food-retailing/list-of-ccs-with-citizenconnect-centres.pdf" target="_blank" rel="noopener">here</a>.</li>
 <li>Service standard: Exact time taken is dependent on the applicant</li>
 </ul>
