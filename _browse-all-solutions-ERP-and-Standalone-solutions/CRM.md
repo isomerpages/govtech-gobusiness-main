@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201435966G-WEB360-v-200-G' target='_blank'>WEB360 Version 2.0.0</a><br></td>
-<td>Quality Zone Technologies Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-2-G' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
@@ -50,10 +46,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201536042G-Crystl-Dsh-CRM-G' target='_blank'>Crystal Dash CRM</a><br></td>
 <td>Crystal Net Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
-<td>Neu Media Technology LLP</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202039751G-Flvor-Customr-Rltonshp-MGT-Systm-v-1-G' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
