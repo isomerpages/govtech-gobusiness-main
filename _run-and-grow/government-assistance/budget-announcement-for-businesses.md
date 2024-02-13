@@ -1,11 +1,11 @@
 ---
-title: Budget 2023
+title: Budget 2024
 permalink: /gov-assist/budget-announcement-for-businesses/
 third_nav_title: Government Assistance
-description: Budget 2023 for Businesses
+description: Budget 2024 for Businesses
 ---
 
-## Budget 2023
+## Budget 2024
 
 Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2023 Budget Statement on Tuesday, 14 February 2023 at 3.30pm in Parliament.
 
@@ -42,9 +42,21 @@ Simply answer a few questions about your business needs to get our recommendatio
 {% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 ---
 
-### Budget 2023 for citizens
+<b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
 
-{% include panels.html panels=site.data.budget_related_links %}
+### Want to be notified when this page is updated?
+
+Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more.
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+
+<br>
+
+### Find relevant schemes for your businesses
+
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2022 support schemes and programmes.
+
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
