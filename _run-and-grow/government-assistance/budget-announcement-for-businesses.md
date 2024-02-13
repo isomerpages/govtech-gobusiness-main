@@ -39,18 +39,18 @@ Simply answer a few questions about your business needs to get our recommendatio
 
 <br>
 
-{% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 ---
 
-<b>Stay Tuned: More information related to Budget 2022 for Businesses will be updated here progressively.</b>
+<b>Stay Tuned: More information related to Budget 2024 for Businesses will be updated here progressively.</b>
 
 ### Want to be notified when this page is updated?
 
 Subscribe to our mailing list to get emails on the latest content, new features, important announcements and more.
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
+{% include button.html text="Subscribe to GoBusiness Mailing List" src="https://go.gov.sg/gobusiness-mailing-list" type="primary" %}
 
-<br>
+{% include subscribe-mailer.html title="Want to get the latest updates?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
+
 
 ### Find relevant schemes for your businesses
 
