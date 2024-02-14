@@ -31,6 +31,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201114849R-InSght-QSE-Elctronc-PrmtToWork-PTW-&-Sfty-Systm-BC' target='_blank'>InSight QSE Electronic Permit-To-Work (ePTW) & Safety System</a><br></td>
 <td>Capps Solutions Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202015121Z-EPrmtToWork-BC' target='_blank'>E-Permit-To-Work</a><br></td>
+<td>DigitalBuild Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}

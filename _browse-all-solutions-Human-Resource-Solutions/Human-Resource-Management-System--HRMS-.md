@@ -103,6 +103,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-12330-G' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-HR-MGT-Systm-G' target='_blank'>Million Human Resource Management System</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
