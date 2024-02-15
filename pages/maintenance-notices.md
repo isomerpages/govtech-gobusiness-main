@@ -1,4 +1,4 @@
-![image](https://github.com/isomerpages/govtech-gobusiness-main/assets/139197306/3f11e994-0ead-4387-ab33-e529ea5f953b)---
+---
 title: 'GoBusiness Maintenance Notices'
 permalink: /maintenance-notices/
 ---
