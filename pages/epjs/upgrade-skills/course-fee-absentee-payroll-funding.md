@@ -85,7 +85,7 @@ Absentee Payroll (AP) funding is a grant to help defray some manpower costs incu
 
 ### Resources
 
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/TGS_CM_Absentee_Payroll_Onboarding_Guide_v21.0.pdf" target="_blank" rel="noopener">Information and guide to claim Absentee Payroll Funding (PDF,1643kb)</a>
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/TGS_CM_Absentee%20Payroll%20Onboarding%20Guide_v18.0.pdf" target="_blank" rel="noopener">Information and guide to claim Absentee Payroll Funding (PDF,1643kb)</a>
 
 ---
 
