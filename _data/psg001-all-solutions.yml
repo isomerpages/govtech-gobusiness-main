@@ -16,7 +16,6 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Advanced-Manufacturing/Manufacturing-Quality-Management'>Manufacturing Quality Management</a>
         - <a href='/browse-all-solutions-Advanced-Manufacturing/Computer-aided-design-Computer-aided-manufacturing--CAD-CAM-'>Computer-aided design & Computer-aided manufacturing (CAD/CAM)</a>
         
         **Equipment**
@@ -41,11 +40,10 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Early-Childhood/E-enrolment-Form'>E-enrolment Form</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
-        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System-and-e-Enrolment-Forms-for-Preschools'>Pre-School Management System and e-Enrolment Forms for Preschools</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Pre-schools--Centre-Operations-'>Data Mining & Analytics for Pre-schools (Centre Operations)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Child-Development-'>Data Mining & Analytics for Preschools (Child Development)</a>
         - <a href='/browse-all-solutions-Early-Childhood/Data-Mining-Analytics-for-Preschools--Centre-Operations-and-Child-Development-'>Data Mining & Analytics for Preschools (Centre Operations and Child Development)</a>
+        - <a href='/browse-all-solutions-Early-Childhood/Pre-School-Management-System'>Pre-School Management System</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Engineering Services
@@ -63,7 +61,6 @@
         
         **IT Solution**
         - <a href='/browse-all-solutions-Estate-Agency/Document-Management-for-Estate-Agents'>Document Management for Estate Agents</a>
-        - <a href='/browse-all-solutions-Estate-Agency/Document-Management-and-Transaction-Records-Submission-for-Estate-Agents'>Document Management and Transaction Records Submission for Estate Agents</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Food
@@ -111,9 +108,9 @@
       content: |
         
         **IT Solution**
-        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
         - <a href='/browse-all-solutions-Logistics/Freight-Management'>Freight Management</a>
         - <a href='/browse-all-solutions-Logistics/Transport-Management'>Transport Management</a>
+        - <a href='/browse-all-solutions-Logistics/Warehouse-Management'>Warehouse Management</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Marine & Offshore
@@ -168,13 +165,6 @@
         **IT Solution**
         - <a href='/browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Management'>Mobile-Enabled Patrol and Incident Management</a>
         - <a href='/browse-all-solutions-Security/Automated-Visitor-Management'>Automated Visitor Management</a>
-
-        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Travel Agents
-      content: |
-        
-        **IT Solution**
-        - <a href='/browse-all-solutions-Travel-Agents/Travel-Management-System--E-Commerce-'>Travel Management System (E-Commerce)</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Wholesale Trade
