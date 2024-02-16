@@ -7,7 +7,7 @@ description: Budget 2024 for Businesses
 
 ## Budget 2024
 
-Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2024 Budget Statement on Friday, 16 February 2023 at 3.30pm in Parliament.
+Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2024 Budget Statement on Friday, 16 February 2024 at 3.30pm in Parliament.
 
 <b>Stay Tuned: More information related to Budget 2024 for Businesses will be updated here progressively.</b>
 
