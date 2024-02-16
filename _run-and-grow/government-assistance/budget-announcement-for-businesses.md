@@ -20,7 +20,6 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include subscribe-mailer.html title="Want to be notified when this page is updated?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 
-
 ### Find relevant schemes for your businesses
 
 Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance.
