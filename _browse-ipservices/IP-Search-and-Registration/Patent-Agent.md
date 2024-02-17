@@ -26,7 +26,7 @@ How you craft and file your patent application can greatly affect the scope of y
 
 Select a service provider below to view their profile and connect with them.
 
-{% include panels-featurelink-ipgrow.html ipTitle="Patent Agent" secondTitle="patents" %}
+{% include panels-featurelink-ipgrow.html ipTitle="patent agent" secondTitle="patents" %}
 
 #### Viering, Jentschura & Partner LLP
 

@@ -23,9 +23,6 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Brokerage and Licensing.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? You can license IP in 3 ways. 1. Non-exclusive: Multiple companies who may be competitors can use the IP. 2. Exclusive: Only the licensee gets exclusive rights to use the IP. 3. Sole: The licensor and one licensee both get rights to use the IP.</figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="IP brokerage and licensing" secondTitle="IP brokerage and licensing" %}
-
-
 ---
 
 ### Connect with relevant service providers for IP brokerage and licensing services
@@ -33,9 +30,7 @@ This is where IP brokerage and licensing professionals can come in. They act as 
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP brokerage and licensing service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP brokerage and licensing" secondTitle="IP brokerage and licensing" %}
 
 #### EverEdge Global
 
