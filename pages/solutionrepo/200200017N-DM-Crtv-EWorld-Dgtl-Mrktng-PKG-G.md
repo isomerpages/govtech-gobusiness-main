@@ -26,14 +26,28 @@ Digital Marketing is the new way of advertising 24/7 to reach out to where custo
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 1 -  Lite SEO & SEM 6 months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CreativeEworld_DM_08022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 2 -  Basic SEO & SM 6 months</td>
 <td style='padding: 10px;'>$10,000.00</td>
 <td style='padding: 10px;'>$10,000.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Creative_E_World_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/CreativeEworld_DM_08022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 3 -  Lite SEO & SEM 3 months</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CreativeEworld_DM_08022024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package 4 -  Basic SEO & SM 3 months</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'>$6,250.00</td>
+<td style='padding: 10px;'><a href='/images/psg/CreativeEworld_DM_08022024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
