@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/crowe-singapore/
 
 ## Crowe Singapore
 
-As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Trust ("Crowe Singapore") is an award-winning firm that leverages its core strengths in Audit, Advisory, Tax, Transfer Pricing, Risk Advisory, Corporate Services, Outsourcing, Fund Administration, Corporate Finance, and Valuation to bring smart decisions that create lasting value for its clients. With a global reach, and a local expertise, Crowe Singapore is well positioned as a one-stop, integrated solutions' provider of a full suite of professional services to a diverse and international clientele, including public-listed entities, multinational corporations, and financial institutions. Led by hands-on, approachable, and forward-looking partners - all of whom are heavily involved in the day-to-day client work - Crowe Singapore delivers value by helping clients navigate the regulatory landscape and break down complex issues into fresh, practical insights and advice.
+As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Trust (“Crowe Singapore”) is an award-winning firm that leverages its core strengths in Audit, Advisory, Tax, Transfer Pricing, Risk Advisory, Corporate Services, Outsourcing, Fund Administration, Corporate Finance, and Valuation to bring smart decisions that create lasting value for its clients. With a global reach, and a local expertise, Crowe Singapore is well positioned as a one-stop, integrated solutions' provider of a full suite of professional services to a diverse and international clientele, including public-listed entities, multinational corporations, and financial institutions. Led by hands-on, approachable, and forward-looking partners - all of whom are heavily involved in the day-to-day client work - Crowe Singapore delivers value by helping clients navigate the regulatory landscape and break down complex issues into fresh, practical insights and advice.
 
 <b>Year established in Singapore:</b> 2017
 
@@ -54,7 +54,6 @@ As a member of Crowe Global, a top-10 accounting network, Crowe Horwath First Tr
 **Percentage of clients by country, based on previous calendar year:**
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 25%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 25%</li></ul>
-
 
 ---
 <a name='key-practice-experts'></a>
