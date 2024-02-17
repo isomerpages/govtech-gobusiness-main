@@ -19,8 +19,6 @@ How you craft and file your patent application can greatly affect the scope of y
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/Patent Agent.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know what do Michael Jackson and Albert Einstein have in common? Both are inventors who owned a patent in their name. Michael Jackson owned one for his anti-gravity shoes! Goes to show that protecting your unique inventions is worthwhile no matter what your field. </figcaption>
 
-{% include panels-featurelink-ipgrow.html ipTitle="Patent Agent" secondTitle="patents" %}
-
 ---
 
 ### Connect with relevant service providers for patent agents
@@ -28,9 +26,7 @@ How you craft and file your patent application can greatly affect the scope of y
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for patent agent service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="Patent Agent" secondTitle="patents" %}
 
 #### Viering, Jentschura & Partner LLP
 
