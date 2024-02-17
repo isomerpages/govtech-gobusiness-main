@@ -43,7 +43,7 @@ Business owners who are unsure of how to file income tax or when they need to do
 
 The Kit provides a how-to guide to filing for taxes, and includes a comprehensive timeline of important due dates you need to take note of. 
 
-Employers can also check out the GoBusiness page on [Taxes and GST](/e-services/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information. 
+Employers can also check out the GoBusiness page on [Taxes, Levy, and GST](/e-services/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information. 
 
 ### 3. Hiring employees 
 
