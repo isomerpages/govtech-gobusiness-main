@@ -1,7 +1,8 @@
 - image: <img src="/images/ipgrow/ipservices/iaip_resources.png" aria-hidden="true">
   title: Get recommendations for your IA/IP needs
-  description: Not sure which IA/IP services your business needs? Answer a few quick questions for IA/IP guidance
+  description: Not sure which IA/IP services your business needs? Answer a few quick questions for IA/IP guidance.
   url: https://eadviser.gobusiness.gov.sg/ipservice
+  url-new-tab: true
   text: Go to e-Adviser for IP Service
 
 - image: <img src="/images/ipgrow/ipservices/ask_ip_question.png" aria-hidden="true">
