@@ -32,6 +32,11 @@ After you apply, the relevant government agencies will advise you on submitting 
 <td>Toxic Industrial Waste (TIW) Collector's Licence</td>
 <td>Returns by TIW Collectors</td>
 </tr>
+<tr>
+<td>Ministry of Culture, Community and Youth (MCCY)</td>
+<td><a href = "https://dashboard.gobusiness.gov.sg/task-details/application-for-permit-to-conduct-fund-raising-appeal-for-foreign-charitable-purposes"  target="_blank" rel="noopener" >Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes</a></td>
+<td>Statement of accounts</td>
+</tr>
 </table>
 
 Login to GoBusiness Dashboard to submit returns for the above licences.
@@ -52,11 +57,6 @@ Login to GoBusiness Dashboard to submit returns for the above licences.
 <td>Energy Market Authority (EMA)</td>
 <td>Electricity Generation<br><br>Electricity Retailer<br><br>Electricity Wholesaler<br><br>Gas Shipper, Retailer or Importer<br><br>Other Electricity and Gas Licences</td>
 <td>Compliance declarations and Update contact list</td>
-</tr>
-<tr>
-<td>Ministry of Culture, Community and Youth (MCCY)</td>
-<td><a href = "https://dashboard.gobusiness.gov.sg/task-details/application-for-permit-to-conduct-fund-raising-appeal-for-foreign-charitable-purposes"  target="_blank" rel="noopener" >Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes</a></td>
-<td>Statement of accounts</td>
 </tr>
 <tr>
 <td>Ministry of Manpower (MOM)</td>
