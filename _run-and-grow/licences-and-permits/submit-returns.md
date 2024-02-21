@@ -34,7 +34,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 </tr>
 <tr>
 <td>Ministry of Culture, Community and Youth (MCCY)</td>
-<td><a href = "https://dashboard.gobusiness.gov.sg/task-details/application-for-permit-to-conduct-fund-raising-appeal-for-foreign-charitable-purposes"  target="_blank" rel="noopener" >Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes</a></td>
+<td>Application for Permit to conduct Fund-Raising Appeal for Foreign Charitable Purposes</td>
 <td>Statement of accounts</td>
 </tr>
 </table>
