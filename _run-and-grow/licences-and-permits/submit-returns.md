@@ -25,7 +25,7 @@ After you apply, the relevant government agencies will advise you on submitting 
 <tr>
 <td>National Environment Agency (NEA)</td>
 <td>Aquatic Facility Licence</td>
-<td>Aquatic Facility Lab Results</td>
+<td><a href = "https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylabresultsubmission" target="_blank" rel="noopener">Aquatic Facility Lab Results</a></td>
 </tr>
 <tr>
 <td>National Environment Agency (NEA)</td>

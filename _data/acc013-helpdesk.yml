@@ -11,12 +11,12 @@
 
 - image: <img style="width:200px; height:144px;" src="/images/gobusiness_licensing.png">
   title: GoBusiness Licensing
-  description: For support transacting on GoBusiness Licensing platform.
+  description: For support transacting on GoBusiness Licensing platform.<br><br><br><br>
   secondTitle: Helpdesk Operating Hours
   secondDescription: |+
     Monday - Friday: 8:00am - 8.00pm
     Saturdays: 8.00m - 2:00pm<br>
-    Closed on Sundays and public holidays<br><br><br>
+    Closed on Sundays and public holidays
   call: +65 6774 1430 
   email: licences-helpdesk@crimsonlogic.com.sg
 
@@ -29,3 +29,14 @@
     Closed on weekends and public holidays
   call: +65 6708 7288 
   contactForm: https://go.gov.sg/bgphelpdesk
+
+- image: <img style="width:200px; height:144px;" src="/images/skillsdevelopmentlevy.png">
+  title: Skills Development Levy (SDL)
+  description: For enquiries about SDL contributions.
+  secondTitle: SSG Hotline Operating Hours
+  secondDescription: |
+    Monday - Friday: 8:30am - 5.30pm
+    Saturdays: 8:30am - 1:00pm<br>
+    Closed on Sundays and public holidays
+  call: +65 6785 5785
+  contactForm: https://service-portal.skillsfuture.gov.sg/

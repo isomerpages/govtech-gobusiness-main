@@ -13,7 +13,7 @@ panels:
     links:
       - text: Government assistance for businesses
         href: /e-services/gov-assist-biz/?src=eservices
-      - text: Taxes and GST
+      - text: Taxes, Levy, and GST
         href: /e-services/taxes-and-gst/?src=eservices
   - title: Business Administration
     image: /images/business admin.svg
