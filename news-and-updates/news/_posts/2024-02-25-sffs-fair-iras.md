@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calling All Employers: Join the #SFFS Event and Submit Employment Income if you are on Auto-Inclusion Scheme (AIS)'
+title: 'Calling All Employers: Join the #SFFS Event and Submit Employment Income if you are on AIS'
 permalink: /news-and-updates/news/iras-sffs-fair
 published: true
 preview: |
