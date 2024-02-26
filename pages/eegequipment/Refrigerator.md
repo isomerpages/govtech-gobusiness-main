@@ -277,6 +277,7 @@ Commercial refrigerator: Inverter technology
 - EuropAce - ER 5461W
 - EuropAce - ER 5501A
 - EuropAce - ER 7256W
+- Farfalla - FR-103R2
 - Farfalla - FR-47R2
 - FHIABA - S8990TST6i
 - FHIABA - S8991TST3I
@@ -307,6 +308,8 @@ Commercial refrigerator: Inverter technology
 - Flomatic - FC-RF1500L(E)
 - Flomatic - FC-RF1800(E)
 - Flomatic - FC-RF1800L(E)
+- Flomatic - FDR-F1210(E)
+- Flomatic - FDR-F610(E)
 - Flomatic - FDR-R1076(E)
 - Flomatic - FDR-R376(E)
 - Flomatic - FDR-R500(E)
@@ -329,9 +332,88 @@ Commercial refrigerator: Inverter technology
 - Gaggenau - RB492305
 - Gaggenau - RC462304
 - Gaggenau - RC472304
+- Galilei - GRD-060RM
+- Galilei - GRD-061PM
+- Galilei - GRD-062FM
+- Galilei - GRD-090RM
+- Galilei - GRD-090RM-F
+- Galilei - GRD-092PM2
+- Galilei - GRD-094FM
+- Galilei - GRD-120RM
+- Galilei - GRD-120RM-F
+- Galilei - GRD-121PM2
+- Galilei - GRD-122PM2
+- Galilei - GRD-124FM
+- Galilei - GRD-124FM-F
+- Galilei - GRD-150RM
+- Galilei - GRD-150RM-F
+- Galilei - GRD-151PM2
+- Galilei - GRD-152PM2
+- Galilei - GRD-154FMD
+- Galilei - GRD-154FMD-F
+- Galilei - GRD-180RM
+- Galilei - GRD-182PM
+- Galilei - GRD-186FMD
+- Galilei - GRN-060RM
+- Galilei - GRN-061PM
+- Galilei - GRN-062FM
+- Galilei - GRN-090RM
+- Galilei - GRN-090RM-F
+- Galilei - GRN-092PM2
+- Galilei - GRN-094FM
+- Galilei - GRN-094FM-F
+- Galilei - GRN-120RM
+- Galilei - GRN-121PM2
+- Galilei - GRN-122PM2
+- Galilei - GRN-124FM
+- Galilei - GRN-124FMD-F
+- Galilei - GRN-150RM
+- Galilei - GRN-150RM-F
+- Galilei - GRN-151PM2
+- Galilei - GRN-152PM2
+- Galilei - GRN-154FMD
+- Galilei - GRN-180RM
+- Galilei - GRN-182PM
+- Galilei - GRN-186FMD
+- Galilei - LRC-090RM
+- Galilei - LRC-091FM
+- Galilei - LRC-120RM
+- Galilei - LRC-120RM-F
+- Galilei - LRC-121PM
+- Galilei - LRC-122FM
+- Galilei - LRC-122FM-F
+- Galilei - LRC-150RM
+- Galilei - LRC-150RM-F
+- Galilei - LRC-151PM
+- Galilei - LRC-151PM-E
+- Galilei - LRC-152FM
+- Galilei - LRC-152FM-F
+- Galilei - LRC-180RM
+- Galilei - LRC-180RM-F
+- Galilei - LRC-181PM
+- Galilei - LRC-183FM
+- Galilei - LRC-210RM
+- Galilei - LRW-090RM
+- Galilei - LRW-091FM
+- Galilei - LRW-120RM
+- Galilei - LRW-120RM-F
+- Galilei - LRW-121PM
+- Galilei - LRW-122FM
+- Galilei - LRW-122FM-F
+- Galilei - LRW-150RM
+- Galilei - LRW-150RM-F
+- Galilei - LRW-151PM
+- Galilei - LRW-152FM
+- Galilei - LRW-152FM-F
+- Galilei - LRW-180RM
+- Galilei - LRW-180RM-F
+- Galilei - LRW-181PM
+- Galilei - LRW-183FM
+- Galilei - LRW-210RM
 - Hitachi - R-B570P7MS
 - Hitachi - R-BG415P6MSX
 - Hitachi - R-G500GS
+- Hitachi - R-GWC670TS
 - Hitachi - R-HV480NS
 - Hitachi - R-HV490RS
 - Hitachi - R-HW530NS
@@ -440,6 +522,14 @@ Commercial refrigerator: Inverter technology
 - Kadeka - KS140TR
 - Kadeka - KS194TL
 - Kadeka - KS194TR
+- KANG JIE - KJ126F-ES
+- KANG JIE - KJ128F-ES
+- KANG JIE - KJ156F-ES
+- KANG JIE - KJ158F-ES
+- KANG JIE - KJ186F-ES
+- KANG JIE - KJ188F-ES
+- KANG JIE - KJHF128-ES
+- KANG JIE - KJHF78-ES
 - Kerry - KR-190B-IVT
 - Kerry - KR-249B-IVT
 - Kerry - KR-2OPC-15-B
@@ -482,7 +572,9 @@ Commercial refrigerator: Inverter technology
 - LG - GB-B4453MC
 - LG - GB-B4459GV
 - LG - GF-B4539PZ
+- LG - GF-B4544EP
 - LG - GF-B6012MC
+- LG - GF-B6014EV
 - LG - GS-B6267GV
 - LG - GS-B6269PZ
 - LG - GS-B6472MC
@@ -538,9 +630,13 @@ Commercial refrigerator: Inverter technology
 - Liebherr - SUIKo1550
 - Midea - CE-BCD640WE-JT
 - Midea - MDRB470MGD28
+- Midea - MDRD86FGD01-SG
+- Midea - MDRD86FGD34-SG
 - Midea - MDRF698FIC28SG
 - Midea - MDRF698FIC45SG
 - Midea - MDRF698FIC46SG
+- Midea - MDRS710FIE28SG
+- Midea - MDRS710FIE61SG
 - Midea - MDRS791MYC02SG
 - Midea - MDRS791MYC28SG
 - Midea - MDRS791MYC45SG
@@ -828,8 +924,11 @@ Commercial refrigerator: Inverter technology
 - Polariz - PGR-1600-TA-EC
 - Polariz - PGR-500-TA-EC
 - PowerPac - PPBF555A
+- PRISM+ - FT4201SABI
 - Ryker - TF24101
 - Samsung - RB34T6054B1
+- Samsung - RB45DG600EB1
+- Samsung - RB45DG600ES9
 - Samsung - RF59A70T3S9
 - Samsung - RF59A70T4S9
 - Samsung - RF60N9011SG

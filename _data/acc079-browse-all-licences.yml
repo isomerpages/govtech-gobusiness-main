@@ -77,7 +77,7 @@
 
         <p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/62e873a8-7c33-45ec-9162-9d471a590043" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Licence-to-Import-or-Export-Ornamental-Fish">View Licence Details</a>
 
         -----
         **Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics**
@@ -286,7 +286,7 @@
 
         The permit issued by CAAS applies to all civil aircraft flying to, from or over the Republic of Singapore and to Singapore registered aircraft wherever they may be. This permit, if given, is subject to air operators' compliance with ICAO Annex 18 and the latest edition of the ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air.
 
-        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods">View Licence Details</a>
+        <a class="primary-btn" href="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/" target="_blank" rel="noopener">Apply on CAAS</a>&emsp;<a href = "/browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Permits-for-Carriage-of-Dangerous-Goods">View Licence Details</a>
 
     - title: Council for Estate Agencies (CEA)
       content: |
@@ -554,10 +554,9 @@
         -----
         **Amateur Station Licence**
 
-        For establishing and setting up of radio communication equipment for the purpose of radio amateur on a General Class basis.
+        You should apply for an Amateur Station Licence if you are a qualified radio amateur intending to operate radio-communication equipment solely for pleasure and for the furtherance of radio-communication techniques and not for pecuniary gain.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10012" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ec06af2b-b84f-4743-ae06-784792dc672a" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Amateur-Station-Licence">View Licence Details</a>
 
         -----
         **Application for Confirmation of Conformity (COFC)**
@@ -812,7 +811,7 @@
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
         For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.
-
+        
         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10062" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Public-Mobile-Network">View Licence Details</a>
 
@@ -871,7 +870,7 @@
 
         For leasing telecommunication network elements from any Facilities-Based Operator (FBO) licensed by the Info-communications Media Development Authority(IMDA) so as to provide their own telecommunication services or to resell the telecommunication services of FBOs or Services-Based Operators (SBOs) to third parties.
 
-         <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=29" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence" style="margin-left: 1em;">View Licence Details</a>
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Services-Based-Operator-(Class)-Licence">View Licence Details</a>
 
         -----
@@ -1338,9 +1337,8 @@
 
         For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=273" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers">View Licence Details</a>
-
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/psmd" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Ministry-of-Law-(MINLAW)/Registration-of-Precious-Stones-and-Precious-Metals-Dealers">View Licence Details</a>
+        
     - title: Ministry of Education (MOE)
       content: |
         **Certificate of Registration of School**
@@ -1618,10 +1616,9 @@
         -----
         **Aquatic Facility Licence**
 
-        For operating a public aquatic facility.
+        <p>For operating a public aquatic facility.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=61" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/aquaticfacilitylicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Aquatic-Facility-Licence">View Licence Details</a>
 
         -----
         **Cleaning Business Licence**
@@ -1642,24 +1639,40 @@
         <a class="primary-btn" href="https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Enhanced-Clean-Mark-Accreditation-Scheme">View Licence Details</a>
 
         -----
-        **Environmental Control Officer and Environmental Coordinator Certificate**
+        **Environmental Control Coordinator Certificate of Registration**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        <p>For the application of Environmental Control Officer and Environmental Coordinator Certificate of Registration.</p>
+        <p>For the application of Environmental Control Coordinator Certificate of Registration.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10079" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Officer-and-Environmental-Coordinator-Certificate" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Officer-and-Environmental-Coordinator-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolcoordinator" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Coordinator-Certificate-of-Registration">View Licence Details</a>
+
+        -----
+        **Environmental Control Officer (Specific Premises) [ECO(SP)] Certificate of Registration**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        <p>For the application of Environmental Control Officer (Specific Premises) [ECO(SP)] Certificate of Registration</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolofficerspecificpremises" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Officer-(Specific-Premises)-[ECO(SP)]-Certificate-of-Registration">View Licence Details</a>
+
+        -----
+        **Environmental Control Officer (Specified Construction Sites) [ECO(SCS)] Certificate of Registration**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
+
+        <p>For the application of Environmental Control Officer (Specified Construction Sites) [ECO(SCS)] Certificate of Registration</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/environmentalcontrolofficerspecifiedconstructionsites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Environmental-Control-Officer-(Specified-Construction-Sites)-[ECO(SCS)]-Certificate-of-Registration">View Licence Details</a>
 
         -----
         **Fumigation Permit**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.
+        <p>Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=157" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fumigationpermit" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Fumigation-Permit">View Licence Details</a>
 
         -----
         **Fumigator Licence**
@@ -1668,9 +1681,8 @@
 
         For individuals wishing to become licensed fumigators.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=157" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence">View Licence Details</a>
-        
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/fumigatorlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Fumigator-Licence">View Licence Details</a>
+
         -----
         **Funeral Parlour Licence**
 
@@ -1697,13 +1709,6 @@
         Construct or operate a general waste disposal facility.
 
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/generalwastedisposalfacilitylicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Disposal-Facility-Licence">View Licence Details</a>
-
-        -----
-        **Hawker Stall Licence**
-
-        <p>Stallholder in hawker centres.</p>
-
-        <a class="primary-btn" href="https://www.nea.gov.sg/our-services/hawker-management/overview" target="_blank" rel="noopener">Apply on NEA</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Hawker-Stall-Licence">View Licence Details</a>
 
         -----
         **Hazardous Substances (HS) Licence**
@@ -1829,50 +1834,45 @@
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Licence to collect, treat, and/or dispose of toxic industrial waste controlled under the Environmental Public Health (Toxic Industrial Waste) Regulations.
+        <p>Licence to collect, treat, and/or dispose of toxic industrial waste controlled under the Environmental Public Health (Toxic Industrial Waste) Regulations.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=175" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Collector's-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Collector's-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastecollectorslicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Collector's-Licence">View Licence Details</a>
 
         -----
         **Toxic Industrial Waste (TIW) Transport Approval**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        Approval to transport toxic industrial waste in an amount exceeding quantities prescribed in the Environmental Public Health (Toxic Industrial Waste) Regulations.
+        <p>Approval to transport toxic industrial waste in an amount exceeding quantities prescribed in the Environmental Public Health (Toxic Industrial Waste) Regulations.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=176" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Transport-Approval" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Transport-Approval">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/toxicindustrialwastetransportapproval" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Toxic-Industrial-Waste-(TIW)-Transport-Approval">View Licence Details</a>
 
         -----
         **Vector Control Operator Certificate**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        For the application and registration of Vector Control Operator Certificate.
+        <p>For the application and registration of Vector Control Operator Certificate.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroloperatorcertificate" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Operator-Certificate">View Licence Details</a>
 
         -----
         **Vector Control Technician Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.
+        <p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or&nbsp;certified as&nbsp;Vector Control Workers to conduct any vector control activity.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Apply on GoBusiness Licencing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Technician-Licence">View Licence Details</a>
 
         -----
         **Vector Control Worker Certificate**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 150px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/sp-mini.png" alt="For Individual Users"> For Individual Users </span>
 
-        Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.
+        <p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Worker-Certificate" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Worker-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/vectorcontrolworkercertificate" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Environment-Agency-(NEA)/Vector-Control-Worker-Certificate">View Licence Details</a>
 
         -----
         **Written Permission to Discharge Trade Effluent into a Watercourse**
@@ -1889,14 +1889,14 @@
 
         <p>The CITES Permit allows importers, exporters and re-exporters to get National Parks Board approval for CITES specimens intended for import, export and re-export. This permit is required for both commercial consignments and personal effects.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/f974af78-db42-403d-8eac-48895a32deb6" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/cites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/CITES-Permit">View Licence Details</a>
 
         -----
         **Non-CITES Certificate**
 
         <p>The Non-CITES Certificate allows individual or commercial exporters/re-exporters to get National Parks Board approval for commercial export/re-export of non-CITES specimens such as non-CITES ostrich skins and its manufactured products.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/b1bdb659-b527-498e-9997-3e21afc8ebf8" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/noncites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Phytosanitary Certification**
@@ -1911,14 +1911,14 @@
 
         <p>A pre-signed CITES permit is issued for tourist manufactured products made from CITES reptilian/non-reptilian species, like handbags, wallets/purses, belts, key holder/chains etc. A retailer of such products may apply for pre-signed CITES permits.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/55b175d7-5edf-49bd-ae87-cef088dc21e1" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/presignedcites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-CITES-Permit">View Licence Details</a>
 
         -----
         **Pre-signed non-CITES Certificate**
 
         <p>The Pre-signed non-CITES Certificate allows exporters and re-exporters to get National Parks Board approval for exporting and re-exporting tourist manufactured products made from non-CITES wildlife such as non-CITES ostrich skins and its manufactured products. A retailer of such products may apply for Pre-signed non-CITES Certificate. These permits are pre-approved with no quantity of products listed. The retailer will have to indicate on the Pre-signed non-CITES Certificate, the quantity for the items and complete the consignee details, when a walk-in customer makes a purchase.</p>
 
-        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ccc723f1-c0ab-49c6-ad41-20fca2ba0a6c" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/presignednoncites" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Pre-signed-non-CITES-Certificate">View Licence Details</a>
 
         -----
         **Stock Card Application Form**
@@ -1932,7 +1932,7 @@
 
         <p>To use any premises in the parks for an event, you need approval from NParks.</p>
 
-        <a class="primary-btn" href="https://www2.nparks.gov.sg/vbs/" target="_blank" rel="noopener">Apply on NPARKS</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Usage-of-Premises-in-Parks">View Licence Details</a>
+        <a class="primary-btn" href="https://www2.vbs.nparks.gov.sg/vbs/" target="_blank" rel="noopener">Apply on NPARKS</a>&emsp;<a href = "/browse-all-licences/National-Parks-Board-(NPARKS)/Usage-of-Premises-in-Parks">View Licence Details</a>
 
 - accordion:
   letter: p
@@ -1966,7 +1966,7 @@
         
         The completed Event Permit Application form and required supporting documents must be submitted in full to PUB at least five (5) weeks before event set-up. Any late or incomplete submission may result in the event not being able to take place on the scheduled date.
 
-        <a class="primary-btn" href="https://www.pub.gov.sg/marinabarrage/Documents/Event_Permit_Application_Form.docx" target="_blank" rel="noopener">Apply on PUB</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Event-Permit-Application-for-Use-of-Reservoir">View Licence Details</a>
+        <a class="primary-btn" href="https://form.gov.sg/61552febb79fa60012336dca" target="_blank" rel="noopener">Apply on PUB</a>&emsp;<a href = "/browse-all-licences/Public-Utilities-Board-(PUB)/Event-Permit-Application-for-Use-of-Reservoir">View Licence Details</a>
 
         -----
         **Plumber Licence**

@@ -36,128 +36,124 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution57' target='_blank'>ABSS Premier Version 30</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200918692D-ABSS-Prmr-v-30-G' target='_blank'>ABSS Premier Version 30</a><br></td>
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution89' target='_blank'>ABSS</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200914556R-ABSS-G' target='_blank'>ABSS</a><br></td>
 <td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution153' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
 <td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution166' target='_blank'>Autocount Accounting Version 2.0</a><br></td>
-<td>Creative E-World Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution282' target='_blank'>Highnix ERP Plus2 Version 4-3-35</a><br></td>
-<td>Highnix Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution300' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Illum (9) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution330' target='_blank'>SAP Business One Version 10</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201109918E-SAP-Busnss-On-v-10-G' target='_blank'>SAP Business One Version 10</a><br></td>
 <td>Integrated Information Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution380' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200610863D-Mdsoft-SLNs-GST-API-v-320-G' target='_blank'>Madsoft Solutions GST API Version 320</a><br></td>
 <td>Madsoft Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution412' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200706402C-Ntqutt-Cloud-Busnss-Sut-G' target='_blank'>Netiquette Cloud Business Suite</a><br></td>
 <td>Netiquette Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution441' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200601493C-OC-Sls-&-ACC-MGT-Systm-SAM-G' target='_blank'>OCi Sales & Accounting Management System (SAM)</a><br></td>
 <td>OCi System Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution475' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200106330C-EASPAC-Entrprs-Softwr-v-1011-G' target='_blank'>EASPAC Enterprise Software Version 10.1.1</a><br></td>
 <td>Prosperage Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution499' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723943H-REACH-MOIBOO-v-26-G' target='_blank'>REACH MOIBOO Version 2.6</a><br></td>
 <td>Reach Process Outsourcing Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution607' target='_blank'>Globe3 ERP V5.6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700712E-Glob3-ERP-V56-G' target='_blank'>Globe3 ERP V5.6</a><br></td>
 <td>TNO Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution690' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201206718K-ZETTAPPS-Fnnc-&-Ordr-Procssng-v-45-G' target='_blank'>ZETTAPPS Finance & Order Processing Version 4.5</a><br></td>
 <td>Zetta Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution882' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>AFON Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution887' target='_blank'>SAP Business One, version for HANA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200402768K-SAP-Busnss-On,-v-for-HANA-G' target='_blank'>SAP Business One, version for HANA</a><br></td>
 <td>Inecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution892' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
 <td>Dalstech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution897' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100--G' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution922' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201117204M-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Microlabs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution932' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201912702K-AM8ZE-ERP-VISTA-G' target='_blank'>AM8ZE ERP: VISTA</a><br></td>
 <td>AM8ZE PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution945' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200615630E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Winspire Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution993' target='_blank'>SAP Business One Version 10.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201309175Z-SAP-Busnss-On-v-100-G' target='_blank'>SAP Business One Version 10.0</a><br></td>
 <td>Axxis Consulting (S) Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200703060H-Sg-300-InvocNOW-G' target='_blank'>Sage 300 InvoiceNOW</a><br></td>
 <td>Databit Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1100' target='_blank'>SAGE 300</a><br></td>
-<td>SEG IT Services Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1140' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-ACC-nd-Stock-Control-Systm-v-3-G' target='_blank'>Million Accounting and Stock Control System Version 3</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1248' target='_blank'>Adaptive BizApp Version 5</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-BzApp-v-5-G' target='_blank'>Adaptive BizApp Version 5</a><br></td>
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1310' target='_blank'>MetroERP Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415107H-MtroERP-v-10-G' target='_blank'>MetroERP Version 1.0</a><br></td>
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1313' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-v-2024-G' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
 <td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1510' target='_blank'>Sage 300 Advance Edition</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198000012M-Sg-300-Advnc-Edton-G' target='_blank'>Sage 300 Advance Edition</a><br></td>
 <td>The World Management Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1520' target='_blank'>IT Infinity Sage 300 Version IT Infinity Sage 300</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199204792N-IT-Infnty-Sg-300-v-IT-Infnty-Sg-300-G' target='_blank'>IT Infinity Sage 300 Version IT Infinity Sage 300</a><br></td>
 <td>IT Infinity Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199609132G-Synrgx-Sls,-ACC,-Invntory-G' target='_blank'>Synergix Sales, Accounting, Inventory</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199602373D-A2000ERP-v-12-G' target='_blank'>A2000ERP Version 12</a><br></td>
+<td>A2000 Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200507412D-SAGE-300-G' target='_blank'>SAGE 300</a><br></td>
+<td>SEG IT Services Pte Ltd</td>
 </tr>
 </table>
 

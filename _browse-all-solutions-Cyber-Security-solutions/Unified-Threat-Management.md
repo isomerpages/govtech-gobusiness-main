@@ -37,48 +37,48 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution337' target='_blank'>Invisiron Cyber Defence</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201934693K-Invsron-Cybr-Dfnc-G' target='_blank'>Invisiron Cyber Defence</a><br></td>
 <td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution348' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Stormshld-UTM-Frwll-Scurty-G' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution485' target='_blank'>Firewall Security Protection</a><br></td>
-<td>Rah Tech Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution525' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200005376W-Roycmd-CybrscurtyFrwll-G' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
 <td>Roycemedia Technologies Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution681' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution747' target='_blank'>Managed Firewall Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-SLN-G' target='_blank'>Managed Firewall Solution</a><br></td>
 <td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution809' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1075' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1135' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-10-G' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
 <td>Nucleo Consulting Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1212' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202119271G-Csco-Mrk-Unfd-Thrt-MGT-v-FS20230315-G' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1540' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
 <td>NETWORK BOX (SIN) PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
+<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
 </tr>
 </table>
 

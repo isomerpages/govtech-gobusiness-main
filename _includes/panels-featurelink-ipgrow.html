@@ -1,0 +1,135 @@
+
+<style> 
+    .content .panels {
+        display: grid;
+        grid-gap: 20px;
+        grid-template-columns: 1fr 1fr;
+        margin: 24px 0;
+    }
+
+    .content .panel {
+        display: grid;
+        row-gap: 16px;
+        border: 1px solid #dbdfe4;
+        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+        border-radius: 5px;
+        word-break: break-word;
+        grid-auto-rows: auto;
+    }
+
+    .content .panel .panel-image {
+        font-family: hknova-semibold;
+        font-size: 24px;
+        font-weight: 600;
+        width: auto;
+        height: 60px;
+    }
+
+    .content .panel .panel-banner>img {
+        width: 498px;
+        height: 200px;
+        margin: 0;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-image>img {
+        width: auto;
+        height: 100%;
+        margin: 29px 0 0 29px;
+        object-fit: cover;
+    }
+
+    .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
+        width: 150px;
+        object-fit: cover;
+        object-position: 90% 10%;
+    }
+
+    .content .panel .panel-title {
+        font-family: hknova-semibold;
+        margin: 32px 29px 20px 29px;
+    }
+
+    .content .panel .panel-description,
+    .content [class*="panel-"]>div {
+        font-family: hknova-regular;
+        margin: 0 29px 20px 29px;
+    }
+
+    .content .panel .panel-links-container {
+        display: grid;
+        row-gap: 8px;
+        height: fit-content;
+        align-self: end;
+    }
+
+    .content .panel .panel-link {
+        font-size: 18px;
+        font-family: hknova-regular;
+        line-height: 27px;
+        display: block;
+        margin: 10px 0 5px 0;
+    }
+    .content .panel .panel-pdf-link {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        display: block;
+        margin: 10px 20px 5px 0;
+    }
+
+    .content .panel .panel-link::before{
+        display:none;
+    }
+    
+    .content .panel .panel-info {
+        font-family: hknova-regular;
+        font-size: 18px;
+        line-height: 27px;
+        color: #647283;
+        text-decoration: none;
+    }
+
+    .pdficon {
+        width: 21px;
+        height: 28px;
+        margin-left: 10px;
+        vertical-align: middle;
+    }
+
+    @media (max-width: 600px) {
+        .content .panels {
+            grid-template-columns: 1fr;
+        }
+    }
+
+</style>
+
+<div class="panels">
+    <div class="panel">
+        <div class="panel-image">
+            <img src="/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png" aria-hidden="true">
+        </div>
+        <h4 class="panel-title">Get recommendations for {{ include.ipTitle }} service providers</h4>
+        <p class="panel-description">Find suitable service providers based on your industry, countries of interest, and preferences for service providers.</p>
+        <hr style="width:100%;text-align:left;margin:0">
+        <div class="panel-links-container">
+            <div class="panel-links-group">
+            <a class="panel-link" href="https://eadviser.gobusiness.gov.sg/ipserviceprovider" target="_blank" rel="noopenner">Go to e-Adviser for IP Service Provider</a>
+            </div>
+        </div>
+    </div>
+    <div class="panel">
+        <div class="panel-image">
+            <img src="/images/ipgrow/ipservices/ask_ip_question.png" aria-hidden="true">
+        </div>
+        <h4 class="panel-title">Ask the {{ include.ipTitle }} experts an IP question</h4>
+        <p class="panel-description">Got questions about {{ include.secondTitle }}? Get free, on-demand answers from the experts on GoBusiness IP Grow.</p>
+        <hr style="width:100%;text-align:left;margin:0">
+        <div class="panel-links-container">
+            <div class="panel-links-group">
+            <a class="panel-link" href="https://form.gov.sg/65b067cabde7010012240c03" target="_blank" rel="noopenner">Ask a pro</a>
+            </div>
+        </div>
+    </div>
+</div>
