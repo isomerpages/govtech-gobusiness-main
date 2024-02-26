@@ -32,6 +32,12 @@ Heat pump technology
 - Asun - Asun-S/N-200L
 - Asun - Asun-S/N-300L
 - Asun - Asun-S/N-500L
+- ECOSTAR - EN-10GW
+- ECOSTAR - EN-15GW
+- ECOSTAR - EN-20GW
+- ECOSTAR - EN-30GW
+- ECOSTAR - EN-40GW
+- ECOSTAR - EN-7.5GW
 - F&BSAS - FB1P420
 - F&BSAS - FB5P1850
 - Rheem - ProTerra 50 Gallon
