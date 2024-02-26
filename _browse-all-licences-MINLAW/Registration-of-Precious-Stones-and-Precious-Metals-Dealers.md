@@ -10,7 +10,7 @@ Ministry of Law (MINLAW)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/psmd" type="primary" %}
+<b>Due to system maintenance, this application will not be available from 23 Feb 2024 1800hrs to 26 Feb 2024 1400hrs.</b>
 
 <H3>Application Details</H3>
 
