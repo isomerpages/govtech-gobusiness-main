@@ -4,7 +4,7 @@ title: 'The Seamless Filing From Software (#SFFS) Fair is back!'
 permalink: /news-and-updates/news/iras-sffs-fair
 published: true
 preview: |
-  Join the Seamless Filing From Software (SFFS) Fair and Submit Employees’ Income Data to IRAS for Employers on the Auto-Inclusion Scheme (AIS) 
+  Join the Seamless Filing From Software (#SFFS) Fair and Submit Employees’ Income Data to IRAS for Employers on the Auto-Inclusion Scheme (AIS) 
 image: /images/news/News_SFFSFair.jpg
 ---
 
@@ -14,9 +14,9 @@ Discover streamlined tax compliance methods via #SFFS and enhance your efficienc
 
 ---
  
-The Seamless Filing From Software (SFFS) Fair is back!
+The Seamless Filing From Software (#SFFS) Fair is back!
 
-Join the SFFS Fair and learn how you can enjoy the benefits of #SFFS. Enjoy exclusive offers from exhibiting software partners and gain insights from various agencies such as IMDA, GovTech, and MOM on digital solutions designed to streamline transactions with the Government. 
+Join the #SFFS Fair and learn how you can enjoy the benefits of #SFFS. Enjoy exclusive offers from exhibiting software partners and gain insights from various agencies such as IMDA, GovTech, and MOM on digital solutions designed to streamline transactions with the Government. 
 
 **SFFS Fair details**<br>
 Date: 29 February 2024, Thursday<br>
