@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Join the Seamless Filing From Software (SFFS) Fair and Submit Employees’ Income Data to IRAS for Employers on the Auto-Inclusion Scheme (AIS)'
+title: 'The Seamless Filing From Software (#SFFS) Fair is back!'
 permalink: /news-and-updates/news/iras-sffs-fair
 published: true
 preview: |
@@ -18,10 +18,9 @@ The Seamless Filing From Software (SFFS) Fair is back!
 
 Join the SFFS Fair and learn how you can enjoy the benefits of #SFFS. Enjoy exclusive offers from exhibiting software partners and gain insights from various agencies such as IMDA, GovTech, and MOM on digital solutions designed to streamline transactions with the Government. 
 
-**SFFS Fair details**
-
-Date: 29 February 2024, Thursday
-Time: 10:00am- 5:00pm
+**SFFS Fair details**<br>
+Date: 29 February 2024, Thursday<br>
+Time: 10:00am- 5:00pm<br>
 Venue: Revenue House, Level 5, Multi Purpose Hall.
 
 Admission to the #SFFS Fair is free, and you may register at [https://go.gov.sg/sffs-fair](https://go.gov.sg/sffs-fair){:target="_blank"}{:rel="noopener"}.
