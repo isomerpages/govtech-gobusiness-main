@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Seamless Filing From Software (#SFFS) Fair is back!'
+title: 'Calling All Employers: Join the #SFFS Event and Submit Employment Income if you are on Auto-Inclusion Scheme (AIS)'
 permalink: /news-and-updates/news/iras-sffs-fair
 published: true
 preview: |
