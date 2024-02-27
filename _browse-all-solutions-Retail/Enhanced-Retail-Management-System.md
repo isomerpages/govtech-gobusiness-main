@@ -87,6 +87,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSUITE-v-6-G' target='_blank'>LFSUITE Version 6</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Smrt-Rtl-MGT-POS-v-20-G' target='_blank'>SHOPLINE Smart Retail Management POS Version 2.0</a><br></td>
+<td>Shopline Commerce Pte. Ltd.</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
