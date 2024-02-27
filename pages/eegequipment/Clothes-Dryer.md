@@ -22,6 +22,9 @@ Heat pump technology
 - Electrolux - EDH804H3WB
 - Electrolux - EDH804H5WB
 - Electrolux - EDH903R9WB
+- Imesa - GL ES 10 EC
+- Imesa - GL ES 14 EC
+- Imesa - GL ES 18 EC
 - Midea - MDK888HP
 
 ### Mode and Schedule of Payment 
