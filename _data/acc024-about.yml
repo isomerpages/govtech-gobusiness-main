@@ -55,7 +55,7 @@
 
         However, as we are eventually moving all licences to GoBusiness Dashboard, we recommend you start using GoBusiness Dashboard instead.
 
-    - title: Why do I get redirected to another page while filling up an application form?
+    - title: Why do I get redirected to another section while filling up an application form?
       content: |
         We are currently experiencing a bug that redirects users to another section within the same page when they click the “Add” button in an addable section of the form. You may refer to the following screenshots to understand better. We apologise for the inconvenience and are currently investigating the issue.
 
