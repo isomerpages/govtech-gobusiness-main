@@ -23,8 +23,6 @@ IP portfolio management enables your business to identify cost-saving opportunit
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Portfolio Management.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know how to keep track of your IP portfolio in 3 easy steps? 1. Identify your assets and list key legal contracts. 2. Identify necessary actions (e.g. renewals of contracts and IP rights). 3. Keep records up-to-date and stored in a safe place!</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP portfolio management services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
-
 ---
 
 ### Connect with relevant service providers for IP portfolio management services
@@ -32,9 +30,7 @@ IP portfolio management enables your business to identify cost-saving opportunit
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP portfolio management service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP portfolio management" secondTitle="IP portfolio management" %}
 
 #### Gateway Law Corporation
 
