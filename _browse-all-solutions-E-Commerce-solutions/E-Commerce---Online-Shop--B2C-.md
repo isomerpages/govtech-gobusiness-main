@@ -76,10 +76,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Efusion Technology Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_SLN-G' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
-<td>OOm Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
 <td>VUE TECH PTE LTD</td>
 </tr>

@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Rah Tech Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201729160D-Est-Protct-Entry-G' target='_blank'>Eset Protect Entry</a><br></td>
-<td>Rentalworks (SG) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Btdfndr-GrvtyZon-Busnss-Scurty-Prmum-G' target='_blank'>Bitdefender GravityZone Business Security Premium</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>

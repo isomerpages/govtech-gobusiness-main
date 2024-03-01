@@ -56,10 +56,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200709074D-BIZ-FNB-DIGITAL-ORDERING-FS' target='_blank'>BIZ FNB DIGITAL ORDERING</a><br></td>
-<td>Coobiz IT Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201309369Z-F&B-SLNs-v-50-FS' target='_blank'>F&B Solutions Version 5.0</a><br></td>
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
