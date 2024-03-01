@@ -33,7 +33,7 @@ Operating a business in Singapore involves complying with various regulations.
 
 ### Other services
 
-{% include panels-featurelink.html panels=site.data.rgp008b_ipgrow-types-of-services.yml %}
+{% include panels-featurelink.html panels=site.data.acc203-run-and-grow-overview %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
