@@ -7,6 +7,8 @@ permalink: /energy-efficiency-grant/
 
 ![Energy Efficiency Grant Overview](/images/grow/eeg/eeg_overview_banner.jpg)
 
+{% include notice.html notice=site.data.eeg_notice%} 
+
 The Energy Efficiency Grant (EEG) was launched September 2022 and aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy efficient equipment.
 
 It provides financial support for SMEs to adopt pre-approved energy efficient equipment in the following categories: LED lighting, air-conditioners, cooking hobs, refrigerators, water heaters and clothes dryers. 
