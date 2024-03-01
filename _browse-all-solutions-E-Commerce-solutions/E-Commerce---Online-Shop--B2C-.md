@@ -68,10 +68,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Mgnto,-WooCommrc-&-Shopfy-SLNs-G' target='_blank'>Verz Design Magento, WooCommerce & Shopify Solutions</a><br></td>
-<td>Verz Design Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201822015H-3D-Omn-Commrc-G' target='_blank'>3D Omni Commerce</a><br></td>
 <td>3D BRAND AGENCY PTE LTD</td>
 </tr>
@@ -88,7 +84,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>VUE TECH PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfy's-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
 <td>Simpliify Pte Ltd</td>
 </tr>
 <tr>
@@ -102,10 +98,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201016666H-Shopcd-Ecommrc-G' target='_blank'>Shopcada Ecommerce</a><br></td>
 <td>Webcada Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201435868N-Shopmtc-G' target='_blank'>Shopmatic</a><br></td>
-<td>Shopmatic Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-Commrc-Mstrpln-v-20-G' target='_blank'>eCommerce Masterplan Version 2.0</a><br></td>
@@ -178,6 +170,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201841781R-Cub3commrc-G' target='_blank'>Cub3commerce</a><br></td>
 <td>DUCB3 PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
+<td>Verz Design Pte Ltd</td>
 </tr>
 </table>
 
