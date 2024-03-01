@@ -54,3 +54,18 @@
         Yes, you can still use GoBusiness Licensing while we are in the midst of merging the GoBusiness Singapore and GoBusiness Licensing systems.
 
         However, as we are eventually moving all licences to GoBusiness Dashboard, we recommend you start using GoBusiness Dashboard instead.
+
+    - title: Why do I get redirected to another page while filling up an application form?
+      content: |
+        We are currently experiencing a bug that redirects users to another page when they click the “Add” button in an addable section of the form. You may refer to the following screenshots to understand better. We apologise for the inconvenience and are currently investigating the issue.
+
+        1. You are filling up an application form.
+        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm1.jpg)
+
+        2. This is an addable section. To enter your information here, you will need to click on “Add”.
+        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm2.jpg)
+
+        3. Upon clicking “Add”, you will see a pop-up at the top right corner indicating your information in the section has been added successfully. However, your cursor gets redirected to another section.
+        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm3.jpg)
+
+        4. Kindly do not be alarmed and scroll back to the section that you left off from. The GoBusiness team is currently aware of this problem and is working on a solution.
