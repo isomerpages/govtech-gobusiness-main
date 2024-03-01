@@ -70,6 +70,10 @@ const customTables = [
   {
     path: "/haze/",
     columns: ["50%","50%"]
+  },
+  {
+    path: "/energy-efficiency-grant/",
+    columns: ["20%","auto"]
   }
 ];
 

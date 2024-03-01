@@ -31,8 +31,6 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 <img style='width:800px; height:auto;' src='/images/ipgrow/ipservices/IP Intelligence and Search.png' aria-hidden='true'>
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? IP intelligence can sometimes reveal interesting information about a company's future plans and products. For instance, Sony has filed a technology patent where gamers can use fruits or household objects as game controllers, while Apple has obtained registered designs for floor tiles.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs IP intelligence and search services?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
-
 ---
 
 ### Connect with relevant service providers for IP intelligence and search services
@@ -40,9 +38,7 @@ There are public IP databases that you can tap on to perform your analyses. Perf
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for IP intelligence and search service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="IP intelligence and search" secondTitle="IP intelligence and search" %}
 
 #### Questel
 
