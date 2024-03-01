@@ -11,7 +11,7 @@ permalink: /energy-efficiency-grant/
 
 |--|--|
 |![Budget 2024](/images/budget2024/budget2024.png)|As announced in **Budget 2024**, the EEG will be enhanced. More details on the grant parameters will be available on 1 April 2024.|
----
+|--|--|
 
 The Energy Efficiency Grant (EEG) was launched September 2022 and aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy efficient equipment.
 
