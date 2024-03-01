@@ -79,7 +79,7 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-‘**Kok Wei Chia**
+**Kok Wei Chia**
 
 - Job Title: CEO & Lead Consultant
 - Years of Experience: 10 years
