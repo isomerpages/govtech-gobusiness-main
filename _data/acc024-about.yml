@@ -60,12 +60,12 @@
         We are currently experiencing a bug that redirects users to another page when they click the “Add” button in an addable section of the form. You may refer to the following screenshots to understand better. We apologise for the inconvenience and are currently investigating the issue.
 
         1. You are filling up an application form.
-        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm1.jpg)
+        ![Screenshot of NEA N2 application](/images/FAQ/db/JumpingForm1.png)
 
         2. This is an addable section. To enter your information here, you will need to click on “Add”.
-        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm2.jpg)
+        ![Screenshot of ading a sub-addable row](/images/FAQ/db/JumpingForm2.png)
 
         3. Upon clicking “Add”, you will see a pop-up at the top right corner indicating your information in the section has been added successfully. However, your cursor gets redirected to another section.
-        ![Screenshot of withdraw an application](/images/FAQ/db/JumpingForm3.jpg)
+        ![Screenshot of adding an addable row and getting displaced](/images/FAQ/db/JumpingForm3.png)
 
         4. Kindly do not be alarmed and scroll back to the section that you left off from. The GoBusiness team is currently aware of this problem and is working on a solution.
