@@ -107,6 +107,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-HR-MGT-Systm-G' target='_blank'>Million Human Resource Management System</a><br></td>
 <td>Rockbell International Software Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
