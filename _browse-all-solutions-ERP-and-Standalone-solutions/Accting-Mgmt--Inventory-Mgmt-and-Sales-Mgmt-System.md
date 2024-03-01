@@ -44,6 +44,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Asian Business Software Solutions Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Illum (9) Pte Ltd</td>
 </tr>
