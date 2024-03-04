@@ -44,7 +44,7 @@ Work with SSG's approved training partners, such as the CET Centres and Institut
 ### Resources
 
 - <a href="https://www.nace.edu.sg/" target="_blank" rel="noopener">National Centre of Excellence for Workplace Learning (NACE)</a>
-- [Frequently Asked Questions](WPSR Expansion FAQs as at 04 Mar 2024.pdf)
+- <a href="/images/epjs/programmes-and-initiatives/learn-at-the-workplace/WPSR_Expansion_FAQs_as_at_04_Mar_2024.pdf" target="_blank" rel="noopener">Frequently Asked Questions (PDF,435 KB)</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
