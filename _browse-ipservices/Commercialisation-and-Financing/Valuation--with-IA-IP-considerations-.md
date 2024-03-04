@@ -20,8 +20,6 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 <figcaption style="position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden;">Did you know? 
 3 methods to value your IP assets are: 1. Cost: Considers the cost to re-create or replace your IP. 2. Market: Considers comparisons with similar IP-related transactions. 3. Income: Considers the contribution of your IP to past, present, or future profits. This is the most widely used method.</figcaption>
 
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png' aria-hidden='true'>" title="Unsure if your business needs valuation services (with IA/IP considerations)?" description="Use our e-Adviser for IP Service to get recommendations on your IA/IP needs." url="https://eadviser.gobusiness.gov.sg/ipservice" url-new-tab=true text="Go to e-Adviser for IP Service"%}
-
 ---
 
 ### Connect with relevant service providers for valuation services (with IA/IP considerations)
@@ -29,9 +27,7 @@ One major benefit of valuation services that incorporate IA/IP considerations is
 
 Select a service provider below to view their profile and connect with them.
 
-If you wish to connect with multiple IA/IP service providers, please use the <a href="https://form.gov.sg/650798303f8acf0012c84520" target="_blank" rel="noopener">multi-provider form</a>.
-
-{% include panel-stretched-featurelink.html image="<img src='/images/ipgrow/ipservices/ipgrow_findspecificlicence_icon.png' aria-hidden='true'>" title="Get recommendations for valuation (with IA/IP considerations) service providers" description="Find suitable service providers based on your industry, countries of interest, and preferences for service providers." url="https://eadviser.gobusiness.gov.sg/ipserviceprovider" url-new-tab=true text="Go to e-Adviser for IP Service Provider"%}
+{% include panels-featurelink-ipgrow.html ipTitle="valuation (with IA/IP considerations)" secondTitle="IP NIL" %}
 
 #### Crowe Singapore
 
