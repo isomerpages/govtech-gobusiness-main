@@ -1,0 +1,5 @@
+collections:
+  haze:
+    output: true
+    order:
+      - gatesting.md
