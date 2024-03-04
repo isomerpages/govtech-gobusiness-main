@@ -114,8 +114,7 @@ Please visit our website at <a href='http://www.xavierlegal.com/' target='_blank
 - Years of Experience: 22 years
 - Location: Singapore
 - IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
-<a href="https://www.xavierlegal.com" target="_blank" rel="noopener">https://www.xavierlegal.com</a>  
+- URL of LinkedIn/Company Profile: <a href="https://www.xavierlegal.com" target="_blank" rel="noopener">https://www.xavierlegal.com</a>  
 
 
 ---
