@@ -1,5 +1,0 @@
-collections:
-  gatesting:
-    output: true
-    order:
-      - gatesting.md
