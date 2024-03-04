@@ -40,7 +40,7 @@ This is a pilot collaboration by SSG and JobKred, a homegrown HRTech start-up sp
 
 - Watch: <a href="https://youtu.be/3oFO0m1btLw" target="_blank" rel="noopener">How to set-up your organisational profile and conduct skills profiling on Lithium</a>
 
-- [Frequently Asked Questions - Skills Profiling](FAQs on Skills Profiler Expansion Mar 2024.pdf)
+- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/FAQs_on_Skills_Profiler_Expansion_Mar_2024.pdf" target="_blank" rel="noopener">Frequently Asked Questions - Skills Profiling (PDF,182kb)</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
