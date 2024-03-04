@@ -7,8 +7,8 @@ permalink: /intellectual-property/ip-grow/ddd-technology-pte-ltd/
 
 DDD Technology Pte Ltd is an ICANN-accredited domain name registrar, IANA No. 3247. DDD provides customers with one-stop domain name services including domain name registration, management and trading.
 
-In our daily business operations, we are involved in major businesses including:
-Domain name registration and hosting services: We provide customers with services to register domain names worldwide, including selecting domain names, checking domain name availability, and handling registration procedures; at the same time, we help customers manage their registered domain names, including domain name renewals, domain name information updates, and domain name resolution settings.
+In our daily business operations, we are involved in major businesses including:<br>
+Domain name registration and hosting services: We provide customers with services to register domain names worldwide, including selecting domain names, checking domain name availability, and handling registration procedures; at the same time, we help customers manage their registered domain names, including domain name renewals, domain name information updates, and domain name resolution settings.<br>
 Domain Name Brokerage and Transaction Service: We act as an intermediary organisation to assist customers in buying, selling and trading domain names. We help customers find buyers or sellers, negotiate the terms of the transaction, and ensure that the transaction is safe and smooth.
 
 <b>Year established in Singapore:</b> 2021
@@ -71,7 +71,7 @@ Domain Name Brokerage and Transaction Service: We act as an intermediary organis
 <a name='office-locations'></a>
 ### Office locations
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office: HongKong, China</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Head Office: Singapore</li><li style='line-height: 27px; margin: 0px 0px !important'>Regional Office: Hong Kong, China</li></ul>
 
 ---
 <a name='client-segments'></a>
@@ -89,7 +89,7 @@ Domain Name Brokerage and Transaction Service: We act as an intermediary organis
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-** miumiu hong **
+**miumiu hong**
 
 - Job Title: Vice President
 - Years of Experience: 8 years
