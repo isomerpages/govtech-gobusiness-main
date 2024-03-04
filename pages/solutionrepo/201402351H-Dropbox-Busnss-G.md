@@ -23,38 +23,38 @@ Dropbox Business offers unlimited storage capacity that allows businesses to sto
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - 3 Users</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'>$1,700.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Desensitised_Annex_3_Part_1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 Users</td>
+<td style='padding: 10px;'>$1,235.00</td>
+<td style='padding: 10px;'>$1,235.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WebImp_Dropbox_29022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - 5 Users</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'>$2,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Desensitised_Annex_3_Part_2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>5 Users</td>
+<td style='padding: 10px;'>$1,725.00</td>
+<td style='padding: 10px;'>$1,725.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WebImp_Dropbox_29022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - 10 Users</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'>$4,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Desensitised_Annex_3_Part_3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>10 Users</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'>$4,400.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WebImp_Dropbox_29022024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - 15 Users</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'>$6,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Desensitised_Annex_3_Part_4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>15 Users</td>
+<td style='padding: 10px;'>$6,350.00</td>
+<td style='padding: 10px;'>$6,350.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WebImp_Dropbox_29022024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Dropbox Business - 20 Users</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'>$8,500.00</td>
-<td style='padding: 10px;'><a href='/images/psg/WEB_IMP_Desensitised_Annex_3_Part_5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>20 Users</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'>$8,300.00</td>
+<td style='padding: 10px;'><a href='/images/psg/WebImp_Dropbox_29022024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
