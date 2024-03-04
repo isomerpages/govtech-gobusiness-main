@@ -15,7 +15,7 @@ We are a communication design firm dedicated to creating Good Design that is rel
 
 <b>Address in Singapore:</b> 323A Beach Road Singapore 199558
 
-<b>Website:</b> <a href='aug.ht'>aug.ht</a>
+<b>Website:</b> <a href='aug.ht' target='_blank' rel='noopener'>aug.ht</a>
 
 <a class='btn' href='https://form.gov.sg/65d6b7b4cf6e2d15a5920f9e' target='_blank' rel='noopener'>Get in touch</a>
 

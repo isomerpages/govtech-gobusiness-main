@@ -23,7 +23,7 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and Bel
 
 <b>Address in Singapore:</b> 52 Kent Road, #06-21, Singapore 210052
 
-<b>Website:</b> <a href='https://georgehwangllc.com'>https://georgehwangllc.com</a>
+<b>Website:</b> <a href='https://georgehwangllc.com' target='_blank' rel='noopener'>https://georgehwangllc.com</a>
 
 <a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>
 

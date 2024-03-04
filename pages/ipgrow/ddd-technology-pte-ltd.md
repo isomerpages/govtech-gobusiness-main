@@ -19,7 +19,7 @@ Domain Name Brokerage and Transaction Service: We act as an intermediary organis
 
 <b>Address in Singapore:</b> 6 Raffles Quay,#14-06 Singapore
 
-<b>Website:</b> <a href='WWW.DDD.COM'>WWW.DDD.COM</a>
+<b>Website:</b> <a href='WWW.DDD.COM' target='_blank' rel='noopener'>WWW.DDD.COM</a>
 
 <b>Offer:</b> Free Consultation
 
