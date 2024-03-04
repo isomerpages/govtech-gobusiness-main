@@ -42,7 +42,7 @@ Search for Skills Training Programmes to support your business transformation.
 
 ### Quick Links
 
-- [Skills Development Levy](https://sdl.ssg.gov.sg/){:target="_blank"}{:rel="noopener"}
+- [Skills Development Levy](/about-skills-development-levy/){:target="_blank"}{:rel="noopener"}
 
 - [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home){:target="_blank"}{:rel="noopener"}
 

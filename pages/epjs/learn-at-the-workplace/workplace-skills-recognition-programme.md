@@ -27,9 +27,8 @@ Attaining the WPL:READY Mark means that an enterprise has a structured workplace
 
 ---
 
-<i>*All fees shown here exclude prevailing GST. </i>
-
 <img src="/images/epjs/WPLR_Certification_Fees_Chart_Mar_2024.png" aria-hidden="true">
+<i>*All fees shown here exclude prevailing GST. </i>
 
 ---
 
