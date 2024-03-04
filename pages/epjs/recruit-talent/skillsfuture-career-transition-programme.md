@@ -23,8 +23,6 @@ As an employer, you can partner the training providers to offer industry attachm
 
 The SCTP courses are for self-sponsored individuals and will be subsidised at SSG's prevailing funding rates.
 
-Enterprises will be eligible for the Jobs Growth Incentive (JGI) when you hire the mid-career individuals and upon meeting the JGI conditions.
-
 ---
 
 ### How to apply:
