@@ -31,9 +31,6 @@ Attaining the WPL:READY Mark means that an enterprise has a structured workplace
 
 <img src="/images/epjs/WPLR_Certification_Fees_Chart_Mar_2024.png" aria-hidden="true">
 
-
-[Sing Swee Kee Chicken Rice Director of Operations Eliss Pang](/images/blog/content/SSK 1.png)
-
 ---
 
 **Step 2: Certify employees' skills acquired at the workplace**
