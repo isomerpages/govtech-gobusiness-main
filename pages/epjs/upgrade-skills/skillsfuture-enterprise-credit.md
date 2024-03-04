@@ -19,7 +19,7 @@ The SFEC supports programmes under two broad categories:
 
 ---
 
-### For the full list of SFEC-supportable programmes, visit <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>.
+### For the full list of SFEC-supportable programmes, please visit our <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet/" target="_blank" rel="noopener">Course Directory</a>.
 
 ---
 

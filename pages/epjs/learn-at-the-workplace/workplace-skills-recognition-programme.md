@@ -28,7 +28,7 @@ Attaining the WPL:READY Mark means that an enterprise has a structured workplace
 ---
 
 <img src="/images/epjs/WPLR_Certification_Fees_Chart_Mar_2024.png" aria-hidden="true">
-<i>*All fees shown here exclude prevailing GST. </i>
+<i>*All fees shown here exclude prevailing GST.</i>
 
 ---
 
@@ -43,7 +43,7 @@ Work with SSG's approved training partners, such as the CET Centres and Institut
 ### Resources
 
 - <a href="https://www.nace.edu.sg/" target="_blank" rel="noopener">National Centre of Excellence for Workplace Learning (NACE)</a>
-- <a href="/images/epjs/programmes-and-initiatives/learn-at-the-workplace/WPSR_Expansion_FAQs_as_at_04_Mar_2024.pdf" target="_blank" rel="noopener">Frequently Asked Questions (PDF,435 KB)</a>
+- <a href="/images/epjs/programmes-and-initiatives/learn-at-the-workplace/WPSR_Expansion_FAQs_as_at_04_Mar_2024.pdf" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
