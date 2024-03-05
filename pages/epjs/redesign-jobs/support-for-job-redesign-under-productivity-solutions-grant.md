@@ -27,24 +27,18 @@ Developed by WSG as part of the enhancement to the existing Productivity Solutio
 
 ### Subsidies and funding:
 
-- Eligible enterprises will receive up to 70% funding for consultancy services, capped at $30,000 per enterprise. Funding is on a reimbursement basis upon completion of PSG-JR project. You will have up to one year to complete the project.
-
-- On top of the above funding support, you can also tap on the SkillsFuture Enterprise Credit (SFEC) to defray out-of-pocket (OOP) expenses. Eligible enterprises will receive a one-off $10,000 credit to cover up to 90% of OOP expenses.
-
+-	Eligible enterprises can receive funding for consultancy services, capped at $30,000 per enterprise. Funding is on a reimbursement basis upon completion of PSG-JR project. Enterprises will have up to one year to complete their project.
+-	On top of the above funding support, eligible enterprises can also tap on their SkillsFuture Enterprise Credit (SFEC) to defray 90% of their out-of-pocket (OOP) expenses.
 
 ---
 
 ### Eligibility criteria:
 
-- Your organisation must be registered or incorporated and operating in Singapore
-
-- You must have at least 3 local employees at the point of application
-
-- At the point of application, you must not have:
-
-     - Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and
-
-     - Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service
+-	Your organisation must be registered or incorporated and operating in Singapore
+-	You must have at least 3 local employees at the point of application
+-	At the point of application, you must not have:
+o	Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and
+o	Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service
 
 ---
 
