@@ -19,7 +19,7 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 
 <b>Address in Singapore:</b> 1 North Bridge Road, High Street Centre, #22-05 Singapore 179094
 
-<b>Website:</b> <a href='www.finnex.com.sg' target='_blank' rel='noopener'>www.finnex.com.sg</a>
+<b>Website:</b> <a href='https://www.finnex.com.sg' target='_blank' rel='noopener'>www.finnex.com.sg</a>
 
 <b>Offer:</b> Complimentary Initial Consultation (1 hour)
 
