@@ -44,7 +44,7 @@ Search for Skills Training Programmes to support your business transformation.
 
 - [Skills Development Levy](/about-skills-development-levy/){:target="_blank"}{:rel="noopener"}
 
-- [SkillsFuture Enterprise Credit Microsite](https://sfec-microsite.enterprisejobskills.gov.sg/home){:target="_blank"}{:rel="noopener"}
+- [SkillsFuture Enterprise Credit Microsite](https://go.gov.sg/sfec-ssg){:target="_blank"}{:rel="noopener"}
 
 - [SkillsFuture Work-Study Programmes](https://programmes.enterprisejobskills.gov.sg/WorkStu
 dyEmployerProgrammes/Programme_Summary.aspx){:target="_blank"}{:rel="noopener"}
