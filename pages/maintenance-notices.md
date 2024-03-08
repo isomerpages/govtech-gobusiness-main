@@ -20,11 +20,5 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 
 
-  
-
-
-
-
-
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
