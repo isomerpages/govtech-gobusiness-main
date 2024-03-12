@@ -31,7 +31,11 @@
 
         <a href="/energy-efficiency-grant/">Find Out More</a>
 
+<<<<<<< Updated upstream
     - title: Small Business Recovery Grant <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">
+=======
+    - title: Uplifting Employment Credit <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">
+>>>>>>> Stashed changes
       content: |
         The Uplifting Employment Credit provides wage offsets to employers hiring ex-offenders.
 
@@ -42,10 +46,11 @@
   data:
     - title: Enhanced Enterprise Financing Scheme - Project Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">
       content: |
-        Extension of support for domestic projects for construction sector from 1 April 2023 to 31 March 2024.
+        Extension of support for domestic projects for construction sector until 31 March 2025.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---project-loan" target="_blank" rel="noopener">Find Out More</a>
 
+<<<<<<< Updated upstream
     - title: Enhanced Enterprise Financing Scheme - SME Working Capital Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">
       content: |
         Receive greater financing support to bridge your working capital gaps. Maximum supported loan of $500,000.
@@ -58,6 +63,8 @@
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---trade-loan" target="_blank" rel="noopener">Find Out More</a>
 
+=======
+>>>>>>> Stashed changes
 - accordion:
   letter: c
   data:
