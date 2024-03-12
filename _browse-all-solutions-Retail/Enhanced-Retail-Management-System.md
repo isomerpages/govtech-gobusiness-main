@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>DCS Synthesis Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-Plus-v-4-G' target='_blank'>MyRetailer Plus Version 4</a><br></td>
-<td>DCS Synthesis Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Rtl-SLNs-v-3-G' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
@@ -86,6 +82,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200816700E-LFSUITE-v-6-G' target='_blank'>LFSUITE Version 6</a><br></td>
 <td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Smrt-Rtl-MGT-POS-v-20-G' target='_blank'>SHOPLINE Smart Retail Management POS Version 2.0</a><br></td>
+<td>Shopline Commerce Pte. Ltd.</td>
 </tr>
 </table>
 

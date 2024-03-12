@@ -48,10 +48,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Craft Creative Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
-<td>Creative E-World Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201900904K-DM-Dgtl-M-Dgtl-Mrktng-PKG-v-01-G' target='_blank'>DM Digital M Digital Marketing Packages Version 0.1</a><br></td>
 <td>Digital M Pte. Ltd.</td>
 </tr>
@@ -74,10 +70,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201529118Z-DM-IPRO-Dzgn-Dgtl-Mrktng-PKG-G' target='_blank'>DM IPRO Dezign Digital Marketing Packages</a><br></td>
 <td>IPRO DEZIGN PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
-<td>Leading Solution Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
@@ -106,10 +98,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202005828Z-DM-Gt-Customrs-Dgtl-Mrktng-PKG-v-v102-G' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
 <td>Get Customers Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
-<td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-DM-AKS-TECH-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
@@ -188,10 +176,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Orfeostory Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201718726K-DM-RHAD-Dgtl-Mrktng-Pckg-v-1-G' target='_blank'>DM RHAD Digital Marketing Package Version 1</a><br></td>
-<td>RHAD Pte. Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201610836D-DM-Roots-Dgtl-Mrktng-PKG-G' target='_blank'>DM Roots Digital Marketing Packages</a><br></td>
 <td>Roots Digital Pte. Ltd.</td>
 </tr>
@@ -214,6 +198,22 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201930699K-DM-Socl-Md-Mrktng-Brnd-Awrnss-&-Ld-Gnrton-G' target='_blank'>DM Social Media Marketing (Brand Awareness & Lead Generation)</a><br></td>
 <td>W.L.P CONSULTANTS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
+<td>Creative eWorld Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
+<td>Corsiva Lab Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
+<td>Wolfgang Creatives Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
+<td>Leading Solution Pte Ltd</td>
 </tr>
 </table>
 

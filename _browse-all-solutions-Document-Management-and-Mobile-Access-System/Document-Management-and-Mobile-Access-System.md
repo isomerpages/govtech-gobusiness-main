@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Business Thrust Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199000721C-M365-ShrPont-Pckg-G' target='_blank'>M365 SharePoint Package</a><br></td>
-<td>JK Technology Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201100152G-Evolvcloud-G' target='_blank'>Evolvecloud</a><br></td>
 <td>K&K IT Private Limited</td>
 </tr>
@@ -56,10 +52,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Tessaract Technologies Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Dropbox-Busnss-G' target='_blank'>Dropbox Business</a><br></td>
-<td>WEB IMP PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/197903098R-Thrfor-Onln-G' target='_blank'>Therefore Online</a><br></td>
 <td>CANON SINGAPORE PTE. LTD</td>
 </tr>
@@ -70,6 +62,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201809937E-Mcrosoft-365-ShrPont-Onln-G' target='_blank'>Microsoft 365 SharePoint Online</a><br></td>
 <td>Tisch Global Private Limited</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201402351H-Dropbox-Busnss-G' target='_blank'>Dropbox Business</a><br></td>
+<td>WEB IMP PTE LTD</td>
 </tr>
 </table>
 

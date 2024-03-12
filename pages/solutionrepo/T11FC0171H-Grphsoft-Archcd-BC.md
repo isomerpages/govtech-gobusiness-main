@@ -43,7 +43,7 @@ Graphisoft empowers teams to design great buildings through award-winning softwa
 
 ## Vendor Information
 
- Company Name: Graphisoft Asia Limited<br>Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
+ Company Name: Graphisoft Asia Limited<br>Web URL: https://graphisoft.com/sg/solutions<br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

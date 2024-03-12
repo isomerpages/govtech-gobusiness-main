@@ -231,6 +231,9 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - DYCORRA - DY-PIN-7E27
 - DYCORRA - DY-PIN-7G24
 - DYCORRA - DY-PIN-9G24
+- DYCORRA - DY-PINA-7E14
+- DYCORRA - DY-PINA-9B22
+- DYCORRA - DY-PINA-9E14
 - DYCORRA - DY-PINW-9E27
 - DYCORRA - DY-R63A-12E27
 - DYCORRA - DY-T8A-30
@@ -245,6 +248,8 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - ECOLINK - 8719514683839
 - ECOLINK - 8719514683853
 - ECOLINK - 8719514683877
+- EG LIGHTING - EG2835-12V-8MM
+- EG LIGHTING - EG5050-12V-10MM
 - ESSEN - GD-1355-10W-24D 2700K BK c/w PHILIPS MINI CERTA DRIVER
 - ESSEN - XT TD 013A 1024 Black 2700K Warm White c/w Non dim ledVANCE driver
 - First LED - DL-T8-10w-3000k
@@ -459,6 +464,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - LEDVANCE - SMART + WIFI CLA60 TW
 - LEDVANCE - SMART + WIFI CLA70 14W TW
 - Lighting - T140-LED-45W-65
+- Lighting - T8-LED-20W-65
 - Lighting Hub - WA29-12-aak-F
 - Lighting Hub - WA29-15-aak-F
 - Lighting Hub - WA29-3-aak-F
@@ -1087,9 +1093,13 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 7.5W E27 3000K 8718696762424
 - Philips - 7.5W E27 6500K 8718696762448
 - Philips - 8718696567111
+- Philips - 8718696567111 Updated
 - Philips - 8718696567135
+- Philips - 8718696567135 Updated
 - Philips - 8718696567272
+- Philips - 8718696567272 Updated
 - Philips - 8718696567296
+- Philips - 8718696567296 Updated
 - Philips - 8718696706619
 - Philips - 8718696707098
 - Philips - 8718696707111
@@ -1100,6 +1110,18 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718696819210
 - Philips - 8718696819234
 - Philips - 8718696819258
+- Philips - 8718696820605 Updated
+- Philips - 8718696820629 Updated
+- Philips - 8718696820681 Updated
+- Philips - 8718696820704 Updated
+- Philips - 8718696820728 Updated
+- Philips - 8718696820742 Updated
+- Philips - 8718696821763 Updated
+- Philips - 8718696821787 Updated
+- Philips - 8718696821800 Updated
+- Philips - 8718696821824 Updated
+- Philips - 8718696821862 Updated
+- Philips - 8718696821909 Updated
 - Philips - 8718696822982
 - Philips - 8718696823002
 - Philips - 8718696823026
@@ -1117,17 +1139,28 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718696827376
 - Philips - 8718696827390
 - Philips - 8718696844601
+- Philips - 8718696844601 Updated
 - Philips - 8718696844687
 - Philips - 8718696844731
+- Philips - 8718696844731 Updated
 - Philips - 8718696844755
+- Philips - 8718696844755 Updated
 - Philips - 8718696844779
 - Philips - 8718696844823
+- Philips - 8718696844823 Updated
 - Philips - 8718696844878
+- Philips - 8718696844878 Updated
 - Philips - 8718696844892
+- Philips - 8718696844892 Updated
 - Philips - 8718696844946
+- Philips - 8718696844946 Updated
 - Philips - 8718696844960
+- Philips - 8718696844960 Updated
 - Philips - 8718696844984
+- Philips - 8718696844984 Updated
 - Philips - 8718696845004
+- Philips - 8718696845004 Updated
+- Philips - 8718699594626(UPDATED)
 - Philips - 8718699594749
 - Philips - 8718699594763
 - Philips - 8718699594787
@@ -1137,27 +1170,41 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699594862
 - Philips - 8718699594886
 - Philips - 8718699607425
+- Philips - 8718699607425 Updated
 - Philips - 8718699607449
+- Philips - 8718699607449 Updated
 - Philips - 8718699618964
 - Philips - 8718699618988
+- Philips - 8718699618988(NEW)
 - Philips - 8718699619008
 - Philips - 8718699619022
+- Philips - 8718699619022(NEW)
 - Philips - 8718699619046
 - Philips - 8718699619060
 - Philips - 8718699619060 (NEW)
 - Philips - 8718699619084
 - Philips - 8718699619107
 - Philips - 8718699619107 (NEW)
+- Philips - 8718699623050 Updated
 - Philips - 8718699623098
+- Philips - 8718699623098 Updated
+- Philips - 8718699623111 Updated
 - Philips - 8718699623135
+- Philips - 8718699623135 Updated
+- Philips - 8718699623159 Updated
+- Philips - 8718699623210 Updated
+- Philips - 8718699623272 Updated
 - Philips - 8718699631024
 - Philips - 8718699631086
+- Philips - 8718699647551 Updated
+- Philips - 8718699647575 Updated
 - Philips - 8718699658120
 - Philips - 8718699658144
 - Philips - 8718699663957
 - Philips - 8718699663971
 - Philips - 8718699663995
 - Philips - 8718699664015
+- Philips - 8718699669072
 - Philips - 8718699701635
 - Philips - 8718699701659
 - Philips - 8718699701673
@@ -1170,15 +1217,23 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8718699780579
 - Philips - 8718699780579 (UPDATED)
 - Philips - 8718699780593
+- Philips - 8718699780593(UPDATED)
 - Philips - 8718699780616
+- Philips - 8718699780616(UPDATED)
+- Philips - 8718699780630(UPDATED)
 - Philips - 8718699780654
 - Philips - 8718699780654 (UPDATED)
 - Philips - 8718699780678
 - Philips - 8718699780678 (UPDATED)
 - Philips - 8718699780692
+- Philips - 8718699780692(UPDATED)
 - Philips - 8718699780715
+- Philips - 8718699780715(UPDATED)
 - Philips - 8718699780753
 - Philips - 8718699780791
+- Philips - 8719514252776
+- Philips - 8719514252813
+- Philips - 8719514252837
 - Philips - 8719514252851
 - Philips - 8719514252875
 - Philips - 8719514252899
@@ -1202,6 +1257,12 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Philips - 8719514449718, 9290030103A MAS LEDBulbDT5.9, 60W E27 927A60CL G
 - Philips - 8719514457898
 - Philips - 8719514457911
+- Philips - 8720169205543 Updated
+- Philips - 8720169205604 Updated
+- Philips - 8720169277007
+- Philips - 8720169277045
+- Philips - 8720169277083
+- Philips - 8720169277120
 - Philips - 9290011398
 - Philips - 929001139808
 - Philips - 929001139808 MAS LEDcandle DT 4-25W E14 B38 CL_AP
@@ -1824,6 +1885,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - Racer - LED HIGH WATT BIG BRIGHT 25W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 35W 6500K
 - Racer - LED HIGH WATT BIG BRIGHT 45W 6500K
+- Racer - LED HIGH WATT MEGA BRIGHT 22W 6500K E27
 - Racer - LED HIGH WATT MEGA BRIGHT 33W 6500K E27
 - Racer - LED HIGH WATT MEGA BRIGHT 45W 6500K E27
 - Racer - LED HIGH WATT SUN BRIGHT 22W 6500K E27
@@ -1889,6 +1951,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - SL LED - WA2C42-9F
 - SL LED - WA2C48-18-F
 - SL LED - WA2C48-28-F
+- SoLED - SL-1.2-10-160-65
 - STANFORD - SL252C01
 - STANFORD - SL252C02
 - STANFORD - SL252C03
@@ -2167,6 +2230,7 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 - VIVE - VI-UFO-15WESCW
 - VIVE - VI-UFO-15WESDL
 - VIVE - VI-UFO-15WESWW
+- Wiselite - EG-WT8-18W12ME
 - Yeelight - Pro E20 YP0046
 - Yeelight - Pro M20 Smart Downlight (3 in)
 - Yeelight - Pro M20 YLP032

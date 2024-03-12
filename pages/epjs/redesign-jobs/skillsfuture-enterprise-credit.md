@@ -19,7 +19,7 @@ The SFEC supports programmes under two broad categories:
 
 ---
 
-### For the full list of SFEC-supportable programmes, visit <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>.
+### For the full list of SFEC-supportable programmes, visit <a href="https://go.gov.sg/sfec-ssg" target="_blank" rel="noopener">SFEC Microsite</a>.
 
 ---
 
@@ -68,7 +68,7 @@ Please refer to the table below for the qualifying periods and the respective el
 
 A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.
 
-Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.
+Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2025. Claims can be submitted only for training which has been completed.
 
 For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">here</a> for assistance.
 
@@ -88,7 +88,7 @@ For further questions on SFEC and on your eligibility, you may contact Enterpris
 
 ### Related Digital Services
 
-- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>
+- <a href="https://go.gov.sg/sfec-ssg" target="_blank" rel="noopener">Submit a SFEC claim</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
