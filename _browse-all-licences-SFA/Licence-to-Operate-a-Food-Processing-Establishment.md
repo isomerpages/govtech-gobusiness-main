@@ -27,6 +27,11 @@ Singapore Food Agency (SFA)
 <li><strong>Where can I get more information for Licence to Operate a Food Processing Establishment?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
 </ol>
 
+<strong>Additional Information</strong>
+
+<p><strong>Fee<br></strong>Application Fees: $147.20</p> 
+<p>Meat/Fish: $260.00<br>Canning: $840.00<br>Other Processed Food Small (total floor area &lt; 200 square meter): $180.00<br>Other Processed Food Medium (total floor area &gt;= 200 square meter and 750 square meter): $360.00<br>Other Processed Food Large (total floor area &gt;= 750 square meter): $600.00</p>
+
 <H3>Documents Needed</H3>
 
 <ul>

@@ -27,6 +27,10 @@ Singapore Food Agency (SFA)
 <li><strong>Where can I get more information for Licence to Operate a Slaughterhouse?</strong> <br />You can find more information on <a href="https://www.sfa.gov.sg/food-manufacturers/setting-up-food-establishments" target="_blank" rel="noopener">SFA website</a>.</li>
 </ol>
 
+<strong>Additional Information</strong>
+
+<p><strong>Fees</strong><br><u>Livestock</u><br>Application fees: $147.20<br>Licence fees: $4000.00<br><u>Poultry</u><br>Application fees: $147.20<br>Licence fees: $1575.00</p>
+
 <H3>Documents Needed</H3>
 
 <ul>

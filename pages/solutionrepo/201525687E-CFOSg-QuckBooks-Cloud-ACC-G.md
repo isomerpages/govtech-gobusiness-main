@@ -49,27 +49,6 @@ Quickbooks is an universal accounting software that provides a complete list of 
 <td style='padding: 10px;'>$5,740.00</td>
 <td style='padding: 10px;'><a href='/images/psg/CloudAccounting_CFOsg_28122023_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Essential)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 6</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Business)</td>
-<td style='padding: 10px;'>$7,840.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
-</tr>
-<tr>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 7</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Enterprise)</td>
-<td style='padding: 10px;'>$10,240.00</td>
-<td style='padding: 10px;'>$5,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
-</tr>
 </table>
 
 ## Mode and Schedule of Payment

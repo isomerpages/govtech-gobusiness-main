@@ -11,10 +11,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
     
-                                  
-| 16 Feb, 10pm - 17 Feb, 5am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |        
-| 17 Feb, 12am - 6am<br>17 Feb, 10pm - 18 Feb, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |   
-
+                                                 
+| 8 Mar, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of MInistry of Law (MINLAW) licences** will be unavailable during the upcoming scheduled maintenance. |           
+| 8 Mar, 7pm - 9 Mar, 1am | **Bizfile+** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |       
+| 8 Mar, 10pm - 9 Mar, 6am<br>9 Mar, 10pm - 10 Mar, 10am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |         
+| 11 Mar, 10pm - 12 Mar, 2am | **APIMall** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. | 
 
 
 

@@ -125,7 +125,14 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
+- LG - ZRUV030GSD5
+- LG - ZRUV040GSD5
+- LG - ZRUV050GSD5
+- LG - ZRUV060GSD5
 - LG - ZUUQ36GH0
+- Midea - M4OA-28CRFN8E
+- Midea - M4OA-32CRFN8E
+- Midea - M5OA-40CRFN8E
 - Midea - MAE-2M18E
 - Midea - MAE-3M25E
 - Midea - MAE-4M30E
@@ -137,9 +144,12 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 - Midea - MDVC-V170W/DN1
 - Midea - MDVC-V72W/DN1
 - Midea - MDVC-V92W/DN1
+- Midea - MDV-V42WDHN1(SG)
+- Midea - MDV-V48WDHN1(SG)
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
+- Midea - MVC-M280WV2GN1(G)
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
