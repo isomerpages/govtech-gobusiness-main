@@ -39,7 +39,7 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 ### Equipment for specific sectors
 
-{% include letter-accordion.html accordions=site.data.psg001-all-solutions letter="b" %}
+{% include letter-accordion.html accordions=site.data.eeg-all-solutions letter="a" %}
 
 ----
 
