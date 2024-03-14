@@ -37,21 +37,9 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 <a name='type-of-eeg-soln'></a>
 
-### Types of EE Equipment
+### Equipment for specific sectors
 
-The following equipment categories are supported under the EEG:
-
-- [Air-Conditioner](/energy-efficiency-grant/solutionrepo/Air-Conditioner)
-
-- [Clothes Dryer](/energy-efficiency-grant/solutionrepo/Clothes-Dryer)
-
-- [Cooking Hob](/energy-efficiency-grant/solutionrepo/Cooking-Hob)
-
-- [LED Lighting](/energy-efficiency-grant/solutionrepo/LED-Lighting)
-
-- [Refrigerator](/energy-efficiency-grant/solutionrepo/Refrigerator)
-
-- [Water Heater](/energy-efficiency-grant/solutionrepo/Water-Heater)
+{% include letter-accordion.html accordions=site.data.psg001-all-solutions letter="b" %}
 
 ----
 
