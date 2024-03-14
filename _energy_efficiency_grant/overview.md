@@ -34,7 +34,7 @@ More details in the table below:
     <td>Government will support up to 70% and up to 30% for SMEs and non-SMEs respectively until 31 March 2026.</td>
   </tr>
   <tr>
-    <td>Advanced tier (**only available for selected sectors***)</td>
+    <td>Advanced tier (<b>only available for selected sectors*</b>)</td>
     <td>Up to S$350,000 across base and enhanced tiers</td>
     <td>EE equipment need not be pre-approved, but must demonstrate energy savings above 350t lifetime carbon abatement</td>
     <td>Lower of:<br>
@@ -43,6 +43,7 @@ More details in the table below:
   </tr>
 </table>
 *only applicable for companies in the Manufacturing sector.
+
 ----
 
 <a name='eeg-eligibility'></a>
@@ -61,7 +62,7 @@ More details in the table below:
 
 <a name='type-of-eeg-soln'></a>
 
-### Types of EEG Equipment
+### Equipment for specific sectors
 
 {% include letter-accordion.html accordions=site.data.eeg-all-solutions letter="a" %}
 
