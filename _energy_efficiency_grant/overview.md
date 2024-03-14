@@ -11,12 +11,38 @@ permalink: /energy-efficiency-grant/
 |![Budget 2024](/images/budget2024/budget2024.png)|As announced in **Budget 2024**, the EEG will be enhanced. More details on the grant parameters will be available on 1 April 2024.|
 
 ---
-The Energy Efficiency Grant (EEG) was launched September 2022 and aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy efficient equipment.
 
-It provides financial support for SMEs to adopt pre-approved energy efficient equipment in the following categories: LED lighting, air-conditioners, cooking hobs, refrigerators, water heaters and clothes dryers. 
+### Overview - Energy Efficiency Grant (EEG)
 
-{% include overview.html anchorlinks=site.data.ov005-grow-eeg %}
+The Energy Efficiency Grant (EEG) aims to support businesses in their sustainability journey by co-funding investment in energy-efficient (EE) equipment.
+ 
+The EEG will provide two tiers of support – a Base Tier to provide support for pre-approved EE equipment up to a $30,000 cap; and an Advanced Tier to support companies that wish to make larger investments to drive greater energy efficiency.
 
+More details in the table below:
+
+<table>
+  <tr>
+    <th>Tier</th>
+    <th>Support Cap Per Company</th>
+    <th>Qualifying Equipment</th>
+    <th>Support Rate</th>
+  </tr>
+  <tr>
+    <td>Base tier</td>
+    <td>Up to S$30,000</td>
+    <td>Pre-approved EE equipment</td>
+    <td>Government will support up to 70% and up to 30% for SMEs and non-SMEs respectively until 31 March 2026.</td>
+  </tr>
+  <tr>
+    <td>Advanced tier (**only available for selected sectors***)</td>
+    <td>Up to S$350,000 across base and enhanced tiers</td>
+    <td>EE equipment need not be pre-approved, but must demonstrate energy savings above 350t lifetime carbon abatement</td>
+    <td>Lower of:<br>
+    - Support levels under the base tier; or<br>
+    - Grant quantum computed based on EE equipment's expected lifetime energy savings</td>
+  </tr>
+</table>
+*only applicable for companies in the Manufacturing sector.
 ----
 
 <a name='eeg-eligibility'></a>
@@ -27,17 +53,15 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 **Note:**
 
-- From 1 Sep 2022 to 31 Mar 2024, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
+<u>**For EEG (Base Tier)**</u> 
 
-- Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
-
-- This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share their Corppass with the vendors to carry out submission of any grant applications or claims.
+- Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
 
 ----
 
 <a name='type-of-eeg-soln'></a>
 
-### Equipment for specific sectors
+### Types of EEG Equipment
 
 {% include letter-accordion.html accordions=site.data.eeg-all-solutions letter="a" %}
 
