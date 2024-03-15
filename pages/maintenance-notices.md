@@ -12,10 +12,11 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
     
                                                  
-| 14 Mar, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |             
-| 14 Mar, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |           
+         
 | 16 Mar, 12am - 6am <br> 16 Mar, 10pm - 17 Mar, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |                        
 | 16 Mar, 2pm - 6pm | **Bizfile+** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |       
+| 20 Mar, 10pm - 21 Mar, 5am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period |
+
 
 
 
