@@ -59,12 +59,12 @@ More details in the table below:
 - Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
 
 ----
-
 <a name='type-of-eeg-soln'></a>
 
-### Equipment for specific sectors
+|-|-|
+| **Sector-specific solutions** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by sector lead agencies in consultation with the industry and NEA. |
 
-{% include letter-accordion.html accordions=site.data.eeg-all-solutions letter="a" %}
+{% include button.html text="View All Solutions" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
 ----
 

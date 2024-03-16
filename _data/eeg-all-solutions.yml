@@ -9,7 +9,7 @@
         - <a href='/energy-efficiency-grant/solutionrepo/fs-LED-Lighting'>LED Lighting</a>
         - <a href='/energy-efficiency-grant/solutionrepo/fs-Refrigerator'>Refrigerator</a>
         - <a href='/energy-efficiency-grant/solutionrepo/fs-Water-Heater'>Water Heater</a>
-        <br>
+
     - title: Food Manufacturing
       content: |
         - <a href='/energy-efficiency-grant/solutionrepo/fm-Air-Conditioner'>Air-Conditioner</a>
@@ -18,7 +18,7 @@
         - <a href='/energy-efficiency-grant/solutionrepo/fm-LED-Lighting'>LED Lighting</a>
         - <a href='/energy-efficiency-grant/solutionrepo/fm-Refrigerator'>Refrigerator</a>
         - <a href='/energy-efficiency-grant/solutionrepo/fm-Water-Heater'>Water Heater</a>
-        <br>
+
     - title: Retail
       content: |
         - <a href='/energy-efficiency-grant/solutionrepo/r-Air-Conditioner'>Air-Conditioner</a>
@@ -27,4 +27,3 @@
         - <a href='/energy-efficiency-grant/solutionrepo/r-LED-Lighting'>LED Lighting</a>
         - <a href='/energy-efficiency-grant/solutionrepo/r-Refrigerator'>Refrigerator</a>
         - <a href='/energy-efficiency-grant/solutionrepo/r-Water-Heater'>Water Heater</a>
-        <br>
