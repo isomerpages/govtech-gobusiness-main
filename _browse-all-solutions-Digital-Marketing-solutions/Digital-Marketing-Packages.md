@@ -144,10 +144,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>APEC SOLUTIONS PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
-<td>Cleverly SG Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>
 <td>ROGUE DIGITAL PTE. LTD.</td>
 </tr>
@@ -204,16 +200,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Creative eWorld Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
-<td>Corsiva Lab Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
 <td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
 <td>Leading Solution Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
+<td>Cleverly SG Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/197903957E-DM-GSK-Group-Dgtl-Mrktng-PKG-G' target='_blank'>DM GSK Group Digital Marketing Packages</a><br></td>
+<td>GSK Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201426038W-DM-33-Dgrs-Dgtl-Mrktng-PKG-G' target='_blank'>DM 33 Degrees Digital Marketing Packages</a><br></td>
+<td>33 Degrees Pte Ltd</td>
 </tr>
 </table>
 
