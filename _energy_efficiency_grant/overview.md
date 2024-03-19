@@ -33,7 +33,7 @@ More details in the table below:
   <tr>
     <td>Advanced tier (<b>only available for selected sectors*</b>)</td>
     <td>Up to S$350,000 across base and enhanced tiers</td>
-    <td>EE equipment need not be pre-approved, but must demonstrate energy savings above 350t lifetime carbon abatement</td>
+    <td>EE equipment need not be pre-approved, but must demonstrate energy savings above 350tonnes lifetime carbon abatement</td>
     <td>Lower of:<br>
     - Support levels under the base tier; or<br>
     - Grant quantum computed based on EE equipment's expected lifetime energy savings</td>
@@ -41,6 +41,7 @@ More details in the table below:
 </table>
 *only applicable for companies in the Manufacturing sector.
 
+As announced at Budget 2024, EEG will be expanded to more sectors including Construction, Maritime, and Data Centres and their users by end 2024. More details will be released in due course. 
 ----
 
 <a name='eeg-eligibility'></a>
