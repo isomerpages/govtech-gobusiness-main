@@ -70,6 +70,71 @@
 
         <a href="https://web.smu.edu.sg/spring/" target="_blank" rel="noopener">Find Out More</a>
 
+<<<<<<< HEAD
+=======
+    - title: Help My Business through COVID-19
+      content: |
+        **Digital Solutions Directory - Bill and Pay Online**
+        <br>Adopt Bill and Pay Online solutions to execute transactions remotely e.g. electronic invoicing and digital payments. Listed solutions are either free, subsidised, or PSG-supported.
+
+        <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory" target="_blank" rel="noopener">Find Out More</a>
+
+        **Digital Solutions Directory - Remote Working**
+        <br>Adopt remote working solutions such as online collaboration, virtual meetings and e-signatures. Listed solutions are either free, subsidised, or PSG-supported. 
+
+        <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory" target="_blank" rel="noopener">Find Out More</a>
+
+        **Digital Solutions Directory - Visitor Management**
+        <br>Adopt visitor management solutions e.g. contact tracking, temperature screening, crowd management and queue management. Listed solutions are either free, subsidised, or PSG-supported. 
+
+        <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory" target="_blank" rel="noopener">Find Out More</a>
+
+        **Digital Solutions Directory - Workforce Management**
+        <br>Adopt workforce management solutions for staff scheduling, manpower resource allocation, staggered working hours, etc. Listed solutions are either free, subsidised, or PSG-supported. 
+
+        <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory" target="_blank" rel="noopener">Find Out More</a>
+
+        **National Centre of Excellence for Workplace Learning (NACE)**
+        <br>The NACE equips companies with the capability to develop best-in-class training practices to enhance learning at the workplace. 
+
+        <a href="/enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/national-centre-of-excellence-for-workplace-learning--nace-/" >Find Out More</a>
+
+        **Professional Conversion Programme (PCP)**
+        <br>Receive training and salary support to hire and reskill job seekers, including mid-career switchers. Receive up to 90% salary support capped at $6,000/month for every eligible new hire.
+
+        <a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" rel="noopener">Find Out More</a>
+
+        **SGUnited Jobs Initiative**
+        <br>Participate in the SGUnited Jobs Initiative by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg
+
+        <a href="https://www.mycareersfuture.gov.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" rel="noopener">Find Out More</a>
+
+        **SGUnited Mid-Career Pathways Programme**
+        <br>Host organisations can take on mid-career individuals who bring with them a wealth of work experience on attachments. Upon completion of the attachment, host organisations may consider hiring well-performing individuals as permanent employees when business conditions improve and when they have greater confidence to hire.
+
+        <a href="go.gov.sg/wsg-sgup-hostorganisations" target="_blank" rel="noopener">Find Out More</a>
+
+        **Skills Framework**
+        <br>The Skills Frameworks provide useful information on job roles, key tasks expected to be performed by each job role, as well as the skills that an individual should possess for each job role. 
+
+        <a href="/enterprisejobskills/programmes-and-initiatives/develop-human-capital/#skills-framework">Find Out More</a>
+
+        **SkillsFuture for Digital Workplace**
+        <br>Equip your staff the right mindset and skills to welcome emerging technologies and technological changes to the workplace, and to take advantage of new opportunities in the future economy. 
+
+        <a href="/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-for-digital-workplace/" >Find Out More</a>
+
+        **SkillsFuture Series "Tech-enabled Services"**
+        <br>This is a catalogue of SSG-supported courses on Tech-Enabled Services.
+
+        <a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2021-05-25T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=Tags%3A%22Tech-Enabled%20Services%20(SF%20Series)%22" target="_blank" rel="noopener">Find Out More</a>
+
+        **Total WSH A-I-ME Programme**
+        <br>Total WSH is a holistic and integrated approach to manage the interactions between work, safety and health, so as to promote the wellbeing of workers and employers.
+
+        <a href="https://www.wshc.sg/totalwsh" target="_blank" rel="noopener">Find Out More</a>
+
+>>>>>>> parent of ef509a7ff (GovAssist Updates)
     - title: Hire, Train, and Upskill Employees
       content: |
         **Digital Leaders Programme**
@@ -101,6 +166,13 @@
         <br>TeSA is a tripartite initiative between the Government, industry, and the National Trades Union Congress (NTUC), to build and develop a skilled Information and Communications Technology (ICT) workforce for the Singapore economy, and to enhance employability outcomes for individuals. The key programmes for companies and individuals are supported by IMDA, SSG, and WSG.
 
         <a href="https://www.go.gov.sg/tesa" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Improve My Customer Experience
+      content: |
+        **Digital Solutions Directory - Bill and Pay Online**
+        <br>Adopt Bill and Pay Online solutions to execute transactions remotely e.g. electronic invoicing and digital payments. Listed solutions are either free, subsidised, or PSG-supported.
+
+        <a href="https://www.imda.gov.sg/for-industry/Digital-Solutions-Package-For-Companies/Digital-Solutions-Directory" target="_blank" rel="noopener">Find Out More</a>
 
     - title: Improve My Financial Management
       content: |
