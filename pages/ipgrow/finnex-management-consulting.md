@@ -19,7 +19,7 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 
 <b>Address in Singapore:</b> 1 North Bridge Road, High Street Centre, #22-05 Singapore 179094
 
-<b>Website:</b> <a href='https://www.finnex.com.sg' target='_blank' rel='noopener'>www.finnex.com.sg</a>
+<b>Website:</b> <a href='https://www.finnex.com.sg'>https://www.finnex.com.sg</a>
 
 <b>Offer:</b> Complimentary Initial Consultation (1 hour)
 
@@ -55,7 +55,7 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li><li style='line-height: 27px; margin: 0px 0px !important'>Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li></ul>
+-Food Manufacturing <br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li><li style='line-height: 27px; margin: 0px 0px !important'>Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Precision Engineering</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li></ul>
 
 ---
 <a name='office-locations'></a>
