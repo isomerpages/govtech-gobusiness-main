@@ -126,7 +126,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 - Location: Singapore
 - IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, Trademark Agent Service, Contract Drafting, Dispute Resolution
 - Certifications/Qualifications: Advocate & Solicitor, Singapore, Registered Patent Agent, ISTMA (Institute of Singapore Registered Trademark Agents), LLB (Hons) National University of Singapore
-- Awards/Accolades: First President of Asian Patent Attorneys Association–Singapore Group and served on the main Group Council as a Councillor and Vice-President, Panelist on Singapore Domain Name Dispute Resolution Policy Service, IP Adjudicator of Hearings and Mediation Division of IPOS, Served on Singapore’s Franchise Advisory Committee, served as Advisory Committee Member of the National Patents and Innovation Centre
+- Awards/Accolades: First President of Asian Patent Attorneys Association Singapore Group and served on the main Group Council as a Councillor and Vice-President, Panelist on Singapore Domain Name Dispute Resolution Policy Service, IP Adjudicator of Hearings and Mediation Division of IPOS, Served on Singapore's Franchise Advisory Committee, served as Advisory Committee Member of the National Patents and Innovation Centre
 - URL of LinkedIn/Company Profile: <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
