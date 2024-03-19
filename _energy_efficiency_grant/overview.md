@@ -41,7 +41,6 @@ More details in the table below:
 </table>
 *only applicable for companies in the Manufacturing sector.
 
-As announced at Budget 2024, EEG will be expanded to more sectors including Construction, Maritime, and Data Centres and their users by end 2024. More details will be released in due course. 
 ----
 
 <a name='eeg-eligibility'></a>
