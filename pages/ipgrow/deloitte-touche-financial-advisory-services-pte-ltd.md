@@ -141,7 +141,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing, Valuation (with IA/IP considerations)
 - Certifications/Qualifications: Graduate Certificate in Intellectual Property, Chartered Financial Analyst, Certified Practicing Management Consultant - a Singapore recognised certification programme
 - Awards/Accolades: Recognized as one of the world top 300 IP Strategists (in 2013, 2014, 2017 to 2023) by the Intellectual Asset Management, Selected by Who's Who Legal from 2015 to 2018 as one of the leading Due Diligence Accountants
-- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/skeoy.html]( https://www2.deloitte.com/sg/en/profiles/skeoy.html)
+- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/skeoy.html](https://www2.deloitte.com/sg/en/profiles/skeoy.html)
 
 **Leonard Woo**
 - Job Title: Valuation Partner, Southeast Asia
@@ -149,7 +149,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - Location: Singapore
 - IA/IP-Related Expertise: IP Valuation, IP Strategy Consulting
 - Certifications/Qualifications: Fellow Chartered Accountant of the Chartered Accountants Australia and New Zealand, Chartered Accountant of the Institute of Singapore Chartered Accountants, Chartered Valuer & Appraiser of the Institute of Valuers and Appraisers Singapore, Chartered Accountant of the Malaysian Institute of Accountants
-- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/lwoo.html]( https://www2.deloitte.com/sg/en/profiles/lwoo.html)
+- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/lwoo.html](https://www2.deloitte.com/sg/en/profiles/lwoo.html)
 
 **Michelle Tan**
 
@@ -159,7 +159,7 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 - IA/IP-Related Expertise: IP Intelligence and Search, IP Audit, IP Due Diligence, IP Strategy Consulting, IP Brokerage and Licensing
 - Certifications/Qualifications: RMC (Registered Management Consultant)
 - Awards/Accolades: Recognised as one of the world's leading 300 IP Strategists in 2019 to 2023 by the Intellectual Asset Management Publication
-- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/michetan.html]( https://www2.deloitte.com/sg/en/profiles/michetan.html)  
+- URL of LinkedIn/Company Profile: [https://www2.deloitte.com/sg/en/profiles/michetan.html](https://www2.deloitte.com/sg/en/profiles/michetan.html)  
 
 ---
 <p>
