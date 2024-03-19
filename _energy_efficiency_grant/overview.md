@@ -7,9 +7,6 @@ permalink: /energy-efficiency-grant/
 
 ![Energy Efficiency Grant Overview](/images/grow/eeg/eeg_overview_banner.jpg)
 
-|--|--|
-|![Budget 2024](/images/budget2024/budget2024.png)|As announced in **Budget 2024**, the EEG will be enhanced. More details on the grant parameters will be available on 1 April 2024.|
-
 ---
 
 ### Overview - Energy Efficiency Grant (EEG)

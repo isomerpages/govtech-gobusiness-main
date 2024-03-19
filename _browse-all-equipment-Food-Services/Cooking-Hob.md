@@ -1,6 +1,6 @@
 ---
 title: 'Cooking Hob'
-permalink: /energy-efficiency-grant/solutionrepo/fm-Cooking-Hob
+permalink: /browse-all-equipment-Food-Services/fs-Cooking-Hob
 ---
 
 ## Cooking Hob

@@ -1,6 +1,6 @@
 ---
 title: 'LED Lighting'
-permalink: /energy-efficiency-grant/solutionrepo/fm-LED-Lighting
+permalink: /browse-all-equipment-Food-Manufacturing/fm-LED-Lighting
 ---
 
 ## LED Lighting

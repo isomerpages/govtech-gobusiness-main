@@ -1,6 +1,6 @@
 ---
 title: 'Water Heater'
-permalink: /energy-efficiency-grant/solutionrepo/fm-Water-Heater
+permalink: /browse-all-equipment-Food-Manufacturing/fm-Water-Heater
 ---
 
 ## Water Heater

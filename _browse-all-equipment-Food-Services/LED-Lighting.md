@@ -1,6 +1,6 @@
 ---
 title: 'LED Lighting'
-permalink: /energy-efficiency-grant/solutionrepo/fs-LED-Lighting
+permalink: /browse-all-equipment-Food-Services/fs-LED-Lighting
 ---
 
 ## LED Lighting

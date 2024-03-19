@@ -1,6 +1,6 @@
 ---
 title: 'Refrigerator'
-permalink: /energy-efficiency-grant/solutionrepo/Refrigerator
+permalink: /browse-all-equipment-Food-Services/fs-Refrigerator
 ---
 
 ## Refrigerator

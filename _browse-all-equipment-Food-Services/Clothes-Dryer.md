@@ -1,6 +1,6 @@
 ---
 title: 'Clothes Dryer'
-permalink: /energy-efficiency-grant/solutionrepo/fm-Clothes-Dryer
+permalink: /browse-all-equipment-Food-Services/fs-Clothes-Dryer
 ---
 
 ## Clothes Dryer
