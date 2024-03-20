@@ -1,6 +1,6 @@
 ---
 title: 'Refrigerator'
-permalink: /browse-all-equipment-Food-Services/fs-Refrigerator
+permalink: /browse-all-equipment-Food-Services/Refrigerator
 ---
 
 ## Refrigerator

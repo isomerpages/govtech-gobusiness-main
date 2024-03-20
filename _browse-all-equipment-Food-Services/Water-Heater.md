@@ -1,6 +1,6 @@
 ---
 title: 'Water Heater'
-permalink: /browse-all-equipment-Food-Services/fs-Water-Heater
+permalink: /browse-all-equipment-Food-Services/Water-Heater
 ---
 
 ## Water Heater

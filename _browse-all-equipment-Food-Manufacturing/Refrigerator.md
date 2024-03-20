@@ -1,6 +1,6 @@
 ---
 title: 'Refrigerator'
-permalink: /browse-all-equipment-Food-Manufacturing/fm-Refrigerator
+permalink: /browse-all-equipment-Food-Manufacturing/Refrigerator
 ---
 
 ## Refrigerator

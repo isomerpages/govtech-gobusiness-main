@@ -1,6 +1,6 @@
 ---
 title: 'Refrigerator'
-permalink: /browse-all-equipment-Retail/r-Refrigerator
+permalink: /browse-all-equipment-Retail/Refrigerator
 ---
 
 ## Refrigerator

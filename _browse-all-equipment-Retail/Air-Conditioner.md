@@ -1,6 +1,6 @@
 ---
 title: 'Air-Conditioner'
-permalink: /browse-all-equipment-Retail/r-Air-Conditioner
+permalink: /browse-all-equipment-Retail/Air-Conditioner
 ---
 
 ## Air-Conditioner

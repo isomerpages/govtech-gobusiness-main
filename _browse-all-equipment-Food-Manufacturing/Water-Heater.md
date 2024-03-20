@@ -1,6 +1,6 @@
 ---
 title: 'Water Heater'
-permalink: /browse-all-equipment-Food-Manufacturing/fm-Water-Heater
+permalink: /browse-all-equipment-Food-Manufacturing/Water-Heater
 ---
 
 ## Water Heater

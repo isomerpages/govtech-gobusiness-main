@@ -1,6 +1,6 @@
 ---
 title: 'Cooking Hob'
-permalink: /browse-all-equipment-Food-Services/fs-Cooking-Hob
+permalink: /browse-all-equipment-Food-Services/Cooking-Hob
 ---
 
 ## Cooking Hob

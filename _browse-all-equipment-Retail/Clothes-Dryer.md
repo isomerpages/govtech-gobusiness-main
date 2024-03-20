@@ -1,6 +1,6 @@
 ---
 title: 'Clothes Dryer'
-permalink: /browse-all-equipment-Retail/r-Clothes-Dryer
+permalink: /browse-all-equipment-Retail/Clothes-Dryer
 ---
 
 ## Clothes Dryer

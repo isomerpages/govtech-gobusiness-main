@@ -1,6 +1,6 @@
 ---
 title: 'Cooking Hob'
-permalink: /browse-all-equipment-Retail/r-Cooking-Hob
+permalink: /browse-all-equipment-Retail/Cooking-Hob
 ---
 
 ## Cooking Hob

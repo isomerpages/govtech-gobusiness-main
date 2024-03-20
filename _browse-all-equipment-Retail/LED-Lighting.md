@@ -1,6 +1,6 @@
 ---
 title: 'LED Lighting'
-permalink: /browse-all-equipment-Retail/r-LED-Lighting
+permalink: /browse-all-equipment-Retail/LED-Lighting
 ---
 
 ## LED Lighting
