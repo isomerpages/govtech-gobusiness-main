@@ -39,8 +39,8 @@
   title: Government Assistance
   id: 3
   href_1: /gov-assist/budget-announcement-for-businesses/
-  text_1: Budget 2023
-  is_new_1: false
+  text_1: Budget 2024
+  is_new_1: true
   href_2: 'https://eadviser.gobusiness.gov.sg/govassist?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank

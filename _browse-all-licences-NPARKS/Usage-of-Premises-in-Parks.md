@@ -8,7 +8,7 @@ third_nav_title: National Parks Board (NPARKS)
 
 National Parks Board (NPARKS)
 
-{% include button.html text="Apply on NPARKS" src="https://www2.nparks.gov.sg/vbs/" type="primary" %}
+{% include button.html text="Apply on NPARKS" src="https://www2.vbs.nparks.gov.sg/vbs/" type="primary" %}
 
 <H3>Application Details</H3>
 

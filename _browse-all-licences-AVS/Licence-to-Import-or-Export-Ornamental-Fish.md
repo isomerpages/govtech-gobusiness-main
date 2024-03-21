@@ -8,7 +8,7 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/62e873a8-7c33-45ec-9162-9d471a590043" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/importexportornamentalfish" type="primary" %}
 
 <H3>Application Details</H3>
 

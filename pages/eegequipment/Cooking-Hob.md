@@ -87,6 +87,11 @@ Induction technology
 - Hatco - IWRM-C1-1317-06
 - Hatco - IWRM-CD1-03
 - Hatco - IWRM-CD1-05
+- KANG JIE - BT500
+- KANG JIE - DWXC400
+- KANG JIE - PAJ300
+- KANG JIE - PAJ500
+- KANG JIE - XC300
 - Lincat (UK) - SLI42
 - Mantru.e - ZC2-C366A
 - Mantru.e - ZC2-C366A-Q
