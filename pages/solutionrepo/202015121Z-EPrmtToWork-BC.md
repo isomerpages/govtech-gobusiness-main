@@ -55,7 +55,7 @@ Configurable dashboards and Customized reports create personalized views and lay
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 

@@ -24,37 +24,37 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Gold (1 user)</td>
-<td style='padding: 10px;'>$1,395.00</td>
-<td style='padding: 10px;'>$1,295.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$1,585.00</td>
+<td style='padding: 10px;'>$1,585.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_21032024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Now (3 users)</td>
-<td style='padding: 10px;'>$5,740.00</td>
-<td style='padding: 10px;'>$5,440.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$6,090.00</td>
+<td style='padding: 10px;'>$6,090.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_21032024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users)</td>
-<td style='padding: 10px;'>$7,235.00</td>
-<td style='padding: 10px;'>$6,935.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$7,735.00</td>
+<td style='padding: 10px;'>$7,735.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_21032024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (3 users with integration and automation)</td>
-<td style='padding: 10px;'>$9,735.00</td>
-<td style='padding: 10px;'>$9,435.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$10,135.00</td>
+<td style='padding: 10px;'>$10,135.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_21032024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Datacentre (6 users with integration and automation)</td>
-<td style='padding: 10px;'>$11,385.00</td>
-<td style='padding: 10px;'>$11,085.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_Desensitised_Annex_3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$11,935.00</td>
+<td style='padding: 10px;'>$11,935.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Ostendo_Moneyworks_21032024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -64,7 +64,7 @@ Ostendo provides Moneyworks, an Accounting software suitable for businesses of a
 
 ## Vendor Information
 
- Web URL: www.ostendoasia.com <br><br>Contact Hotline: 68505150 <br><br>Contact Email: info.sg@ostendoasia.com <br><br>
+ Company Name: Ostendo Pte Ltd<br>Web URL: www.ostendoasia.com <br>Contact Hotline: 68505150 <br>Contact Email: info.sg@ostendoasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

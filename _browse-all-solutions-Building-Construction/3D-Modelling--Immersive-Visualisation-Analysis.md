@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199400358M-Autodsk-AEC-Collcton-BC' target='_blank'>Autodesk AEC Collection</a><br></td>
-<td>INNOCOM TECHNOLOGIES PTE LTD </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE-AUTODESK-COLLECTION-BC' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>

@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201412775N-APM-Smrt-Accss-Systm-v-10-BC' target='_blank'>APM Smart Access System Version 1.0</a><br></td>
-<td>APM Global Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201543300G-SmrtFM-v-20-BC' target='_blank'>SmartFM Version 2.0</a><br></td>
 <td>CHIMERIC TECHNOLOGIES PTE LTD</td>
 </tr>

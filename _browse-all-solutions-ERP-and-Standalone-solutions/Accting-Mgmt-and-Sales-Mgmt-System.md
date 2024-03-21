@@ -66,14 +66,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>ASL Advisory Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200900564D-BufortXro-Dgtl-SLNs-G' target='_blank'>Beaufort-Xero Digital Solutions</a><br></td>
-<td>Beaufort Tax Consultants Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201300570R-Xro-ACC-Systm-G' target='_blank'>Xero Accounting System</a><br></td>
-<td>EBOS SG PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202115139D-Evrydy-Corport-Xro-Cloud-ACC-Softwr-G' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
 <td>Everyday Corporate Pte. Ltd.</td>
 </tr>
@@ -166,10 +158,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>E-Click Solutions</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
-<td>Ostendo Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201426811M-Bmboo-S-Xro-G' target='_blank'>Bamboo Sea: Xero</a><br></td>
 <td>Bamboo Sea Pte Ltd</td>
 </tr>
@@ -234,8 +222,16 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>TIMCOLE PTE LTD</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201222896R-Monyworks-v-9-G' target='_blank'>Moneyworks Version 9</a><br></td>
+<td>Ostendo Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-Acc-Pro-Xro-G' target='_blank'>Acc Pro : Xero</a><br></td>
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Autocount-ACC-v-2-G' target='_blank'>Autocount Accounting Version 2</a><br></td>
+<td>Creative E-World Pte Ltd</td>
 </tr>
 </table>
 
