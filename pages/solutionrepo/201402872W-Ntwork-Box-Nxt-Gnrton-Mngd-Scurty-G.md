@@ -38,8 +38,8 @@ Network Box Next Generation Managed Security is a Managed Security Service Provi
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Package III - Higher Workload</td>
-<td style='padding: 10px;'>$10,028.00</td>
-<td style='padding: 10px;'>$10,028.00</td>
+<td style='padding: 10px;'>$10,082.00</td>
+<td style='padding: 10px;'>$10,082.00</td>
 <td style='padding: 10px;'><a href='/images/psg/NetworkBox_Security_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>

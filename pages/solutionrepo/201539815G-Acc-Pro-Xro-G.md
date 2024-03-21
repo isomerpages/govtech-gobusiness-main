@@ -24,37 +24,37 @@ Xero is the cloud accounting solution with all the time-saving tools you need to
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Digital Transformation Package - Basic</td>
-<td style='padding: 10px;'>$3,588.00</td>
 <td style='padding: 10px;'>$3,581.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_08022024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$3,581.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_21032024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Digital Transformation Package - Essential</td>
-<td style='padding: 10px;'>$4,788.00</td>
 <td style='padding: 10px;'>$4,781.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_08022024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$4,781.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_21032024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Digital Transformation Package - for Small Business</td>
-<td style='padding: 10px;'>$5,988.00</td>
 <td style='padding: 10px;'>$5,981.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_08022024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'>$5,981.00</td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_21032024_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Digital Transformation Package - for Micro Business - with customised training</td>
-<td style='padding: 10px;'>$6,988.00</td>
+<td style='padding: 10px;'>$6,981.00</td>
 <td style='padding: 10px;'>$6,681.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_08022024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_21032024_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Xero - Full Digital Transformation Package - for Small Business - With Customised Training</td>
-<td style='padding: 10px;'>$7,588.00</td>
+<td style='padding: 10px;'>$7,581.00</td>
 <td style='padding: 10px;'>$7,281.00</td>
-<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_08022024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/AccPro_Xero_21032024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
