@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
-<td>Carddio Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform--G' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
 <td>Eber Pte Ltd</td>
 </tr>
@@ -74,6 +70,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
 <td>Brew Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
+<td>Carddio Pte Ltd</td>
 </tr>
 </table>
 
