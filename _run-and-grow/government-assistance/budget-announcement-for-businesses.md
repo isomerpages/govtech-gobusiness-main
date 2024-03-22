@@ -11,6 +11,7 @@ Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Sing
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
+- Download the [Budget 2024 Business Booklet](/images/budget2024/MTI Business Budget Booklet 2024_21 Mar.pdf){:target="_blank"}{:rel="noopener"} 
 - Download the [Budget 2024 - Budget Navigator (for Businesses)](/images/budget2024/Budget Navigator (for Businesses) 2024.pdf){:target="_blank"}{:rel="noopener"} 
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2024.
