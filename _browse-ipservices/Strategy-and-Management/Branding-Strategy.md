@@ -170,7 +170,7 @@ We are an integrated creative agency who works with clients to realise their com
 
 #### Firefish Branding
 
-Leveraging NUS' research, Brandgrammar<sup>TM</sup>, we provide SMEs a one-stop branding and marketing solution.
+Leveraging NUS' research, Brandgrammar™, we provide SMEs a one-stop branding and marketing solution.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
