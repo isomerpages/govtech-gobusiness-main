@@ -72,10 +72,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>IPRO DEZIGN PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
-<td>Leading Solution Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202008698H-DM-Outrnkco-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Outrankco Digital Marketing Packages Version 1</a><br></td>
 <td>Outrankco Pte Ltd</td>
 </tr>
@@ -102,10 +98,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202005828Z-DM-Gt-Customrs-Dgtl-Mrktng-PKG-v-v102-G' target='_blank'>DM Get Customers Digital Marketing Packages Version v1.02</a><br></td>
 <td>Get Customers Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
-<td>Wolfgang Creatives Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201535836W-DM-AKS-TECH-DIGITAL-MARKETING-PACKAGES-v-10-G' target='_blank'>DM AKS TECH DIGITAL MARKETING PACKAGES Version 1.0</a><br></td>
@@ -150,10 +142,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201713785N-DM-APEC-SLNs-Dgtl-Mrktng-PKG-G' target='_blank'>DM APEC Solutions Digital Marketing Packages</a><br></td>
 <td>APEC SOLUTIONS PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
-<td>Cleverly SG Pte. Ltd.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201915397K-DM-Rogu-Dgtl-Mrktng-PKG-G' target='_blank'>DM Rogue Digital Marketing Packages</a><br></td>
@@ -208,20 +196,28 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>W.L.P CONSULTANTS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201834121D-DM-WECOFA-Dgtl-Mrktng-PKG-G' target='_blank'>DM WECOFA Digital Marketing Packages</a><br></td>
-<td>WECOFA PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
-<td>QIANYI TRADING PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200200017N-DM-Crtv-EWorld-Dgtl-Mrktng-PKG-G' target='_blank'>DM Creative E-World Digital Marketing Packages</a><br></td>
 <td>Creative eWorld Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201701817K-DM-Corsv-Lb-Dgtl-Mrktng-PKG-G' target='_blank'>DM Corsiva Lab Digital Marketing Packages</a><br></td>
-<td>Corsiva Lab Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202020389H-DM-Wolfgng-Crtvs-Dgtl-Mrktng-PKG-v-10-G' target='_blank'>DM Wolfgang Creatives Digital Marketing Packages Version 1.0</a><br></td>
+<td>Wolfgang Creatives Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201531216Z-DM-Ldng-SLN-Dgtl-Mrktng-PKG-v-1-G' target='_blank'>DM Leading Solution Digital Marketing Packages Version 1</a><br></td>
+<td>Leading Solution Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201734623N-DM-Clvrly-Dgtl-Mrktng-PKG-G' target='_blank'>DM Cleverly Digital Marketing Packages</a><br></td>
+<td>Cleverly SG Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/197903957E-DM-GSK-Group-Dgtl-Mrktng-PKG-G' target='_blank'>DM GSK Group Digital Marketing Packages</a><br></td>
+<td>GSK Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201426038W-DM-33-Dgrs-Dgtl-Mrktng-PKG-G' target='_blank'>DM 33 Degrees Digital Marketing Packages</a><br></td>
+<td>33 Degrees Pte Ltd</td>
 </tr>
 </table>
 

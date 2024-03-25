@@ -40,16 +40,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>DCS Synthesis Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-Plus-v-4-G' target='_blank'>MyRetailer Plus Version 4</a><br></td>
-<td>DCS Synthesis Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Rtl-SLNs-v-3-G' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br></td>
 <td>Edgeworks Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
-<td>EPOS Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200706756M-Eurostop-OmnChnnl-Rtl-MGT-Systm-v-10-G' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>
@@ -90,6 +82,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Smrt-Rtl-MGT-POS-v-20-G' target='_blank'>SHOPLINE Smart Retail Management POS Version 2.0</a><br></td>
 <td>Shopline Commerce Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
+<td>EPOS Pte. Ltd.</td>
 </tr>
 </table>
 

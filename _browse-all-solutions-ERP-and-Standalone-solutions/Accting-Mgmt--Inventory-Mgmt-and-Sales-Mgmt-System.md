@@ -40,14 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Andre Corporate Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914556R-ABSS-G' target='_blank'>ABSS</a><br></td>
-<td>Asian Business Software Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
-<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>Illum (9) Pte Ltd</td>
 </tr>
@@ -92,10 +84,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Inecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201611756K-Mcrosoft-Dynmcs-365-Busnss-Cntrl-v-Cloud-G' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br></td>
-<td>Dalstech Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201008943H-SAP-Busnss-On-SQL-&-HANA-v-100--G' target='_blank'>SAP Business One SQL & HANA Version 10.0 </a><br></td>
 <td>MPS Solutions Pte Ltd</td>
 </tr>
@@ -128,10 +116,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Adaptive Cloud Systems Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201415107H-MtroERP-v-10-G' target='_blank'>MetroERP Version 1.0</a><br></td>
-<td>METRO GROUP PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-v-2024-G' target='_blank'>Sage 300Cloud Version 2024</a><br></td>
 <td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
@@ -154,6 +138,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200507412D-SAGE-300-G' target='_blank'>SAGE 300</a><br></td>
 <td>SEG IT Services Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200415297M-Sg-300-Advncd-Edton-v-2022-G' target='_blank'>Sage 300 Advanced Edition Version 2022</a><br></td>
+<td>COMPTRAC SYSTEMS TECHNOLOGY PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201415107H-Mtro-ERP-v-10-G' target='_blank'>Metro ERP Version 1.0</a><br></td>
+<td>METRO GROUP PTE. LTD.</td>
 </tr>
 </table>
 

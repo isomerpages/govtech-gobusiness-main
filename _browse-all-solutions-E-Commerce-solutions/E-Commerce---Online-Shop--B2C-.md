@@ -72,14 +72,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>3D BRAND AGENCY PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-v-17-G' target='_blank'>ePSProfessional Version 1.7</a><br></td>
-<td>Efusion Technology Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200617554M-OOM_Ecommrc_SLN-G' target='_blank'>OOM_Ecommerce_Solution</a><br></td>
-<td>OOm Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
 <td>VUE TECH PTE LTD</td>
 </tr>
@@ -174,6 +166,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
 <td>Verz Design Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723984K-Sunpro-Ecommrc-SLN-G' target='_blank'>Sunpro E-commerce Solution</a><br></td>
+<td>SUNPRO INNO APPS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Crtv-EShop-G' target='_blank'>Creative EShop</a><br></td>
+<td>Creative E-World Pte Ltd</td>
 </tr>
 </table>
 

@@ -99,15 +99,6 @@ ABrandADay is a creative consulting agency versed in Strategy, Creative and Digi
 - Awards/Accolades: Most Dynamic Creative & Digital Agency CEO 2023 (Singapore) - APAC Insider, GOLD: Best Event (Sparks Award 2018), SILVER Appies Award (2015)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jas-seow-55100a5/" target="_blank" rel="noopener">https://www.linkedin.com/in/jas-seow-55100a5/</a>
 
-**Felicia Hong**
-
-- Job Title: Business Director / ESG Ambassador
-- Years of Experience: 15 years
-- Location: Singapore
-- IA/IP-Related Expertise: Branding Strategy
-- Certifications/Qualifications: SMU: Business and Climate Action, SMU: Trillion Dollar Question of Generational Wealth Transfer: The Alignment of Sustainable Investments NowGen and NextGen
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/felicia-hong-a1529197/" target="_blank" rel="noopener">https://www.linkedin.com/in/felicia-hong-a1529197/</a>
-
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/64ade4554f9e2800115509ec' target='_blank' rel='noopener'>Get in touch</a>
