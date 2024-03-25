@@ -76,6 +76,21 @@ Aequitas Law LLP is a full service law firm, specializing in commercial law and 
 
 ---
 
+#### hslegal LLP
+
+Our focus is to protect, enforce and commercialize our clients' intellectual property assets.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> Above 100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $2,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/hslegal-llp/){:target='_blank'}
+
+---
+
 #### ZYIP Pte Ltd
 
 ZYIP has offices in Singapore and China to assist clients with protection of their IP
@@ -518,6 +533,21 @@ George Hwang LLC is a boutique IP/IT and Media law firm with proven experience i
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
+
+---
+
+#### Vicki Heng Law Corporation
+
+We are committed to providing personalised support and guidance to our clients.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of cases completed in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vicki-heng-law-corporation/){:target='_blank'}
 
 ---
 
