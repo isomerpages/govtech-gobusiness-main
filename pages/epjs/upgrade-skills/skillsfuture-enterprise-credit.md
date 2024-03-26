@@ -88,7 +88,7 @@ Note: You will require a Corppass account with "EPJS_User" role assigned prior t
 
 ---
 
-### Submit SFEC claim
+{% include primary-btn.html href="https://cp.ssg-wsg.gov.sg/login?partnerID=https://cp.ssg-wsg.gov.sg&eserviceID=SFTS&type=CPOIDC" text="Submit SFEC claim" target="_blank" rel="noopener" %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
