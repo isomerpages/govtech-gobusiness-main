@@ -80,8 +80,6 @@ For further questions on SFEC and on your eligibility, you may contact Enterpris
 
 - <a href="https://go.gov.sg/sfec-claim-guide" target="_blank" rel="noopener">SFEC Claim How-To Guide</a>
 
-- <a href="/images/epjs/programmes-and-initiatives/upgrade-skills/SFEC_Infographic_2022_Final.pdf" target="_blank" rel="noopener">SFEC Infographic Guide (PDF,734KB)</a>
-
 ---
 
 Note: You will require a Corppass account with "EPJS_User" role assigned prior to login.
