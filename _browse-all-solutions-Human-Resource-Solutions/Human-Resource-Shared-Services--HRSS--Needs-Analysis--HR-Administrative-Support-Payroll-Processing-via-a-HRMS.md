@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200801526G-HR-dmnstrton-wth-pyroll-procssng-SS-SLNs-v-2131-G' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
-<td>MATCH RESOURCES PTE LTD</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201725862C-HR-Shrd-SVCs-by-RcrutSG-G' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
 <td>RECRUIT.COM.SG PTE. LTD.</td>
 </tr>
