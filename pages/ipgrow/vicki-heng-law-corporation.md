@@ -9,7 +9,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <b>Year established in Singapore:</b> 2013
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service,Contract Drafting,Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
@@ -104,7 +104,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 - Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trademark Agent Service, Registered Design Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- URL of LinkedIn/Company Profile: [https://vickiheng.com/our-team/vhsl/](https://vickiheng.com/our-team/vhsl/)
+- URL of LinkedIn/Company Profile: <a href="https://vickiheng.com/our-team/vhsl/" target="_blank" rel="noopener">https://vickiheng.com/our-team/vhsl/</a>
 
 
 
