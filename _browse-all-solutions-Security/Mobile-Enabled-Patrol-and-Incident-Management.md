@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Man
 ## Mobile-Enabled Patrol and Incident Management
 ## Overview
 
-**Description**
-
-SMEs will only be supported once for this category of solutions, regardless of deployment location. Repeated applications for this category will not be supported.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -30,10 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201228495E-REP-Scurty-Systm-v-40-G' target='_blank'>iREP Security System Version 4.0</a><br></td>
-<td>Gabkotech Innovations Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201328632H-Armfort-Scurty-Workforc-G' target='_blank'>Armfort Security Workforce</a><br></td>
