@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Axiom IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201805298E-Cybots-AMDR-G' target='_blank'>Cybots AMDR</a><br></td>
-<td>Cybots Pte. Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201504939N-Grn-Rdr-Eml-Scurty-G' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
