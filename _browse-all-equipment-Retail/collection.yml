@@ -1,0 +1,11 @@
+collections:
+  browse-all-equipment-Retail:
+    output: true
+    order:
+      - back-to-all-eeg-equipment.md
+      - Air-Conditioner.md
+      - Clothes-Dryer.md
+      - Cooking-Hob.md
+      - LED-Lighting.md
+      - Refrigerator.md
+      - Water-Heater.md

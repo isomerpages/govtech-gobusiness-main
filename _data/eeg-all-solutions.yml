@@ -1,0 +1,29 @@
+- accordion:
+  letter: a
+  data:
+    - title: Food Services
+      content: |
+        - <a href='/browse-all-equipment-Food-Services/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Food-Services/Clothes-Dryer'>Clothes Dryer</a>
+        - <a href='/browse-all-equipment-Food-Services/Cooking-Hob'>Cooking Hob</a>
+        - <a href='/browse-all-equipment-Food-Services/LED-Lighting'>LED Lighting</a>
+        - <a href='/browse-all-equipment-Food-Services/Refrigerator'>Refrigerator</a>
+        - <a href='/browse-all-equipment-Food-Services/Water-Heater'>Water Heater</a>
+
+    - title: Food Manufacturing
+      content: |
+        - <a href='/browse-all-equipment-Food-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Food-Manufacturing/Clothes-Dryer'>Clothes Dryer</a>
+        - <a href='/browse-all-equipment-Food-Manufacturing/Cooking-Hob'>Cooking Hob</a>
+        - <a href='/browse-all-equipment-Food-Manufacturing/LED-Lighting'>LED Lighting</a>
+        - <a href='/browse-all-equipment-Food-Manufacturing/Refrigerator'>Refrigerator</a>
+        - <a href='/browse-all-equipment-Food-Manufacturing/Water-Heater'>Water Heater</a>
+
+    - title: Retail
+      content: |
+        - <a href='/browse-all-equipment-Retail/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Retail/Clothes-Dryer'>Clothes Dryer</a>
+        - <a href='/browse-all-equipment-Retail/Cooking-Hob'>Cooking Hob</a>
+        - <a href='/browse-all-equipment-Retail/LED-Lighting'>LED Lighting</a>
+        - <a href='/browse-all-equipment-Retail/Refrigerator'>Refrigerator</a>
+        - <a href='/browse-all-equipment-Retail/Water-Heater'>Water Heater</a>

@@ -1,6 +1,6 @@
 ---
 title: 'Air-Conditioner'
-permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
+permalink: /browse-all-equipment-Retail/Air-Conditioner
 ---
 
 ## Air-Conditioner

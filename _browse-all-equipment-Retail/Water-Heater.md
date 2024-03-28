@@ -1,6 +1,6 @@
 ---
 title: 'Water Heater'
-permalink: /energy-efficiency-grant/solutionrepo/Water-Heater
+permalink: /browse-all-equipment-Retail/Water-Heater
 ---
 
 ## Water Heater
