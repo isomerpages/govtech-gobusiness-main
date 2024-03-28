@@ -19,9 +19,9 @@ From 1 April 2024, enterprises from Manufacturing (including Food Manufacturing)
 Eligible companies can find out more on our EEG page.
 
 GoBusiness page:
-https://www.gobusiness.gov.sg/energy-efficiency-grant/
+[https://www.gobusiness.gov.sg/energy-efficiency-grant/](https://www.gobusiness.gov.sg/energy-efficiency-grant/){:target='_blank'}{:rel='noopener'}
 
 EnterpriseSG page:
-https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant
+[https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
 
 NEA page:
