@@ -17,14 +17,12 @@
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
         -	Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail sector as defined below;
-        o	Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing) 
-        o	Food Services companies with valid Singapore Food Agency (SFA) licences and classified under SSICs 56 or 68104
-        o	Retail companies that are classified under SSIC 47
+        -	Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing) 
+        -	Food Services companies with valid Singapore Food Agency (SFA) licences and classified under SSICs 56 or 68104
+        -	Retail companies that are classified under SSIC 47
         -	Has a minimum of 30% local shareholding,
         -	Employ at least one local employee at the firm-level
         -	Has a Group Annual Sales Turnover no more than S$500 million
-
-
 
     - title: Where can I find the list of supported equipment under the EEG (Base)? 
       content: |
@@ -41,11 +39,11 @@
     - title: How to apply for the EEG (Base)?
       content: |
         For Manufacturing Companies 
-        Applications will be submitted through NEA_EEG@nea.gov.sg
+        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
         To apply for the EEG (Base), manufacturing companies will have to:
-        i.	Email NEA_EEG@nea.gov.sg to verify company's eligibility and request for application documents.
+        i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.
         ii.	Obtain quotations from the vendor.
-        iii.	Submit application via NEA_EEG@nea.gov.sg 
+        iii.	Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
 
         For Food Services and Retail Companies
         Applications will be submitted through the Business Grants Portal (BGP) which is a one-stop portal for business to apply for government grants.
@@ -57,7 +55,7 @@
     - title: How to claim for the EEG (Base)? 
       content: |
         For Manufacturing Companies 
-        Claims will be submitted through NEA_EEG@nea.gov.sg
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
         To claim for the EEG (Base), manufacturing companies will have to ensure:
         -	Claimant has purchased the equipment as approved in the application; and
         -	Claimant has deployed and installed the equipment; and
@@ -116,7 +114,7 @@
       content: |
         For more information on the EEG, you may wish to visit Enterprise Singapore's webpage or contact Enterprise Singapore.
 
-        For Manufacturing companies, you may wish to visit NEA's webpage or contact  <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+        For Manufacturing companies, you may wish to visit NEA's webpage or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
       
     - title: Who can I contact for CorpPass assistance?
       content: |
