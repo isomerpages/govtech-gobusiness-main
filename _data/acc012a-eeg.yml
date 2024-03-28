@@ -1,9 +1,13 @@
 - accordion:
   letter: a
   data:
-    - title: The Energy Efficiency Grant (EEG) helps businesses transition towards being more energy efficient through co-funding support to invest in energy-efficient equipment.
+    - title: What is the Energy Efficiency Grant?
       content: |
         The Energy Efficiency Grant (EEG) helps businesses transition towards being more energy efficient through co-funding support to invest in energy-efficient equipment.
+
+    - title: Why did the Government develop the Energy Efficiency Grant (EEG)? 
+      content: |
+        The Energy Efficiency Grant aims to support businesses in their sustainability journey by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. 
 
     - title: What is the objective of the EEG?
       content: |
@@ -26,9 +30,9 @@
 
     - title: Where can I find the list of supported equipment under the EEG (Base)? 
       content: |
-        The list of EEG equipment supported can be found on GoBusiness.
+        The list of EEG equipment supported can be found on [GoBusiness](https://www.gobusiness.gov.sg/energy-efficiency-grant/){:target="_blank"}{:rel="noopener"}.
 
-        Companies who wish to submit equipment models for selected categories can do so via this link. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
+        Companies who wish to submit equipment models for selected categories can do so via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"}. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
 
     - title: What is the duration of the EEG (Base)?
       content: |
@@ -46,7 +50,7 @@
         iii. Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
 
         For Food Services and Retail Companies
-        Applications will be submitted through the Business Grants Portal (BGP) which is a one-stop portal for business to apply for government grants.
+        Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.
         To apply for the EEG (Base), companies will have to:
         i. Visit GoBusiness to access the list of supported equipment brands and models. 
         ii. Obtain quotations from the vendor.  
@@ -61,19 +65,19 @@
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
         - Claimant has submitted all claim documentation including:
-        - Invoice
-        - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
-        - Delivery order
-        - Pictures
-        - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
-        - Serial number of equipment (if applicable)
+          - Invoice
+          - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
+          - Delivery order
+          - Pictures
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
+            - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
 
         Approved claims will be credited directly through GIRO bank account provided by the business entity.  
 
         For Food Services and Retail Companies
-        Claims will be submitted through the Business Grants Portal (BGP).
+        Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
         To claim for the EEG (Base), companies will have to ensure:
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
@@ -112,7 +116,7 @@
 
     - title: Where can I find more information on the EEG (Base)?
       content: |
-        For more information on the EEG, you may wish to visit Enterprise Singapore's webpage or contact Enterprise Singapore.
+        For more information on the EEG, you may wish to visit [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/EEG){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"}.
 
         For Manufacturing companies, you may wish to visit NEA's webpage or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
 
