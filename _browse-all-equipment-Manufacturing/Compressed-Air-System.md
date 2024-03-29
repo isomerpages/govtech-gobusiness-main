@@ -1,6 +1,6 @@
 ---
 title: 'Compressed Air System'
-permalink: /browse-all-equipment-Manufacturing/Compressed Air System
+permalink: /browse-all-equipment-Manufacturing/Compressed-Air-System
 ---
 
 ## Cooking Hob

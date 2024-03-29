@@ -1,6 +1,6 @@
 ---
 title: 'Boiler System'
-permalink: /browse-all-equipment-Manufacturing/Boiler System
+permalink: /browse-all-equipment-Manufacturing/Boiler-System
 ---
 
 ## Cooking Hob
