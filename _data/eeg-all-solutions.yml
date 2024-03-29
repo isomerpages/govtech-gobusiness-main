@@ -10,14 +10,14 @@
         - <a href='/browse-all-equipment-Food-Services/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Food-Services/Water-Heater'>Water Heater</a>
 
-    - title: Food Manufacturing
+    - title: Manufacturing
       content: |
-        - <a href='/browse-all-equipment-Food-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
-        - <a href='/browse-all-equipment-Food-Manufacturing/Clothes-Dryer'>Clothes Dryer</a>
-        - <a href='/browse-all-equipment-Food-Manufacturing/Cooking-Hob'>Cooking Hob</a>
-        - <a href='/browse-all-equipment-Food-Manufacturing/LED-Lighting'>LED Lighting</a>
-        - <a href='/browse-all-equipment-Food-Manufacturing/Refrigerator'>Refrigerator</a>
-        - <a href='/browse-all-equipment-Food-Manufacturing/Water-Heater'>Water Heater</a>
+        - <a href='/browse-all-equipment-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Manufacturing/Clothes-Dryer'>Clothes Dryer</a>
+        - <a href='/browse-all-equipment-Manufacturing/Cooking-Hob'>Cooking Hob</a>
+        - <a href='/browse-all-equipment-Manufacturing/LED-Lighting'>LED Lighting</a>
+        - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
+        - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
     - title: Retail
       content: |

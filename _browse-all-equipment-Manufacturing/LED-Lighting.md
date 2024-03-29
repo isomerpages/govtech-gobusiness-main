@@ -1,6 +1,6 @@
 ---
 title: 'LED Lighting'
-permalink: /browse-all-equipment-Food-Manufacturing/LED-Lighting
+permalink: /browse-all-equipment-Manufacturing/LED-Lighting
 ---
 
 ## LED Lighting

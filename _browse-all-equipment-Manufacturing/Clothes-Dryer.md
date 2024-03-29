@@ -1,6 +1,6 @@
 ---
 title: 'Clothes Dryer'
-permalink: /browse-all-equipment-Food-Manufacturing/Clothes-Dryer
+permalink: /browse-all-equipment-Manufacturing/Clothes-Dryer
 ---
 
 ## Clothes Dryer

@@ -1,6 +1,6 @@
 ---
 title: 'Air-Conditioner'
-permalink: /browse-all-equipment-Food-Manufacturing/Air-Conditioner
+permalink: /browse-all-equipment-Manufacturing/Air-Conditioner
 ---
 
 ## Air-Conditioner
