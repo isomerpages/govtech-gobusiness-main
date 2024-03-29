@@ -4,8 +4,11 @@ collections:
     order:
       - back-to-all-eeg-equipment.md
       - Air-Conditioner.md
+      - Boiler-System.md
       - Clothes-Dryer.md
+      - Compressed-Air-System.md
       - Cooking-Hob.md
       - LED-Lighting.md
+      - Motors.md
       - Refrigerator.md
       - Water-Heater.md

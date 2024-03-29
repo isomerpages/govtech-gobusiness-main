@@ -13,9 +13,12 @@
     - title: Manufacturing
       content: |
         - <a href='/browse-all-equipment-Manufacturing/Air-Conditioner'>Air-Conditioner</a>
+        - <a href='/browse-all-equipment-Manufacturing/Boiler-System'>Boiler System</a>
         - <a href='/browse-all-equipment-Manufacturing/Clothes-Dryer'>Clothes Dryer</a>
+        - <a href='/browse-all-equipment-Manufacturing/Compressed-Air-System'>Compressed Air System</a>
         - <a href='/browse-all-equipment-Manufacturing/Cooking-Hob'>Cooking Hob</a>
         - <a href='/browse-all-equipment-Manufacturing/LED-Lighting'>LED Lighting</a>
+        - <a href='/browse-all-equipment-Manufacturing/Motors'>Motors</a>
         - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
