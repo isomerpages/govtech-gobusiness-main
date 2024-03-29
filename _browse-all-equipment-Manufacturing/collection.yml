@@ -1,5 +1,5 @@
 collections:
-  browse-all-equipment-Food-Manufacturing:
+  browse-all-equipment-Manufacturing:
     output: true
     order:
       - back-to-all-eeg-equipment.md
