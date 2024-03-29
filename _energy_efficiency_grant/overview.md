@@ -59,9 +59,9 @@ Companies will have up to 1 year from the time an application is approved to pur
 <a name='type-of-eeg-soln'></a>
 
 |-|-|
-| **Sector-specific solutions** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
+| **Sector-specific equipment** | Sector-specific equipment are eligible for companies within the respective sectors only. These solutions are specially curated by agencies in consultation with the industry and NEA. |
 
-{% include button.html text="View All Solutions" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
+{% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
 ----
 

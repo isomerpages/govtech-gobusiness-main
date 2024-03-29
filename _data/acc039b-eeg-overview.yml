@@ -12,7 +12,7 @@ accordion:
           <th>Eligibility</th>
         </tr>
         <tr>
-          <td>Base tier</td>
+          <td>Base Tier</td>
           <td>
             <ul>
               <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services, and Retail sector as defined below:</li>
@@ -21,14 +21,14 @@ accordion:
                 <li>Food Services companies must have valid Singapore Food Agency (SFA) licence and be classified under SSIC 56 or 68104</li>
                 <li>Retail companies that are classified under SSIC 47</li>
                 <li>Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level</li>
-                <li>Has a group annual sales Turnover of no more than S$500mil</li>
+                <li>Has a group annual sales turnover of no more than S$500mil</li>
                 <li>The equipment purchased must be used in Singapore</li>
               </ul>
             </ul>
           </td>
         </tr>
         <tr>
-          <td>Advanced tier (<b>only available for selected sectors*</b>)</td>
+          <td>Advanced Tier (<b>only available for selected sectors*</b>)</td>
           <td>
             <ul>
               <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing) sector as defined below:</li>
@@ -44,7 +44,7 @@ accordion:
       </table>
       *only applicable for companies in the Manufacturing sector.
 
-      You may also wish to use our calculator to estimate your [EEG grant support]https://go.gov.sg/eeg-checker){:target="_blank"}{:rel="noopener"}.
+      You may also wish to use our [calculator to estimate your EEG grant support](https://go.gov.sg/eeg-checker){:target="_blank"}{:rel="noopener"}.
 
       As announced at Budget 2024, EEG will be expanded to more sectors including Construction, Maritime, and Data Centres and their users by end 2024. More details will be released in due course. 
 
