@@ -15,6 +15,12 @@ Heat pump technology
 - Hire Purchase
 - Lease
 
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+
 ### Pre-Approved Equipment Brands and Models
 
 - AO Smith - CAHP-120
