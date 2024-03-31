@@ -74,6 +74,10 @@ const customTables = [
   {
     path: "/energy-efficiency-grant/",
     columns: ["20%","auto"]
+  },
+  {
+    path: "/business-grants-portal-faq/eeg/",
+    columns: ["30%","auto"]
   }
 ];
 
