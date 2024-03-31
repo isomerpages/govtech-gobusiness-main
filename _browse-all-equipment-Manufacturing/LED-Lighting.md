@@ -14,8 +14,6 @@ permalink: /browse-all-equipment-Manufacturing/LED-Lighting
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
-- Hire Purchase
-- Lease
 
 ### Support Level and Conditions
 

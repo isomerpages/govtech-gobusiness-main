@@ -16,8 +16,6 @@ To note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storag
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
-- Hire Purchase
-- Lease
 
 ### Support Level and Conditions
 

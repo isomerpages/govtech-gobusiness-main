@@ -14,8 +14,6 @@ To note: After 1st April 2025, MELS/MEPS for household water heaters to be imple
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
-- Hire Purchase
-- Lease
 
 ### Support Level and Conditions
 

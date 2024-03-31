@@ -29,8 +29,6 @@ permalink: /browse-all-equipment-Manufacturing/Boiler-System
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
-- Hire Purchase
-- Lease
 
 ### Support Level and Conditions
 
