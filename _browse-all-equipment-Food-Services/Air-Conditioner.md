@@ -19,11 +19,7 @@ permalink: /browse-all-equipment-Food-Services/Air-Conditioner
 
 ### Support Level and Conditions
 
-Up to 70% for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
+Up to 70% for SMEs, 30% for non-SMEs
 
 ### Pre-Approved Equipment Brands and Models
 

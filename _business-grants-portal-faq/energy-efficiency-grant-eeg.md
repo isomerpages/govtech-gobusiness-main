@@ -18,3 +18,5 @@ permalink: /business-grants-portal-faq/eeg/
 <em>Updated as of April 2024.</em>
 
 [Back to Business Grants Portal Overview](/business-grants-portal/)
+
+<script src='/jquery/resize-tables.js'></script>
