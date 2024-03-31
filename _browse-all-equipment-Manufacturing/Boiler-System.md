@@ -3,7 +3,7 @@ title: 'Boiler System'
 permalink: /browse-all-equipment-Manufacturing/Boiler-System
 ---
 
-## Cooking Hob
+## Boiler System
 
 ### Supportable Solutions & Technical Requirements
 

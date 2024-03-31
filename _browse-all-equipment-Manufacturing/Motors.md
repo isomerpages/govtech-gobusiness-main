@@ -3,7 +3,7 @@ title: 'Motors'
 permalink: /browse-all-equipment-Manufacturing/Motors
 ---
 
-## Cooking Hob
+## Motors
 
 ### Technical Requirements
 
