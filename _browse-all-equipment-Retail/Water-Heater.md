@@ -15,6 +15,12 @@ Heat pump technology
 - Hire Purchase
 - Lease
 
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Applicants can apply for the EEG (Base Tier) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
+
 ### Pre-Approved Equipment Brands and Models
 
 - AO Smith - CAHP-120
