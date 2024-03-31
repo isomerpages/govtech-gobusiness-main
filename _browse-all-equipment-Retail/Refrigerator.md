@@ -11,6 +11,17 @@ Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
 
 Commercial refrigerator: Inverter technology
 
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, N.A. for non-SMEs
+
+Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
+
+Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -1430,16 +1441,6 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-X80FIF-BG-IVT
 - Yuda - YD-X80FIF-IVT
 
-### Mode and Schedule of Payment 
 
-- Direct Purchase
-
-### Support Level and Conditions
-
-Up to 70% for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>
