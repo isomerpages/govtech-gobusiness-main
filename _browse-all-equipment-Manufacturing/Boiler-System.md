@@ -14,7 +14,7 @@ permalink: /browse-all-equipment-Manufacturing/Boiler-System
 </tr>
 <tr>
     <td><b>Heat pump</b></td>
-    <td>As an energy efficient alternative to a NG boiler</td>
+    <td>As an energy efficient alternative to Natural Gas boiler</td>
 </tr>
 <tr>
     <td><b>Boiler</b></td>

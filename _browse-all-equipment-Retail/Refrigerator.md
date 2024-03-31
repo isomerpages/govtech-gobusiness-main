@@ -7,9 +7,12 @@ permalink: /browse-all-equipment-Retail/Refrigerator
 
 ### Technical Requirements
 
-Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
+- Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
 
-Commercial refrigerator: Inverter technology
+- Commercial refrigerator: Inverter technology
+
+Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
+
 
 ### Mode and Schedule of Payment 
 

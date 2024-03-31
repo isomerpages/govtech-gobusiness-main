@@ -7,7 +7,7 @@ permalink: /browse-all-equipment-Food-Services/Clothes-Dryer
 
 ### Technical Requirements
 
-Heat pump technology
+-Heat pump technology
 
 ### Mode and Schedule of Payment 
 

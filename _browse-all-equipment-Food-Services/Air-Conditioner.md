@@ -7,11 +7,12 @@ permalink: /browse-all-equipment-Food-Services/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) = 750 for split unit models (up to 10kW cooling capacity)
+- 5-ticks for multi/single split
 
-- Minimum 3-ticks and using refrigerant with GWP = 750 (if available) for split unit models (above 10kW cooling capacity)
+- Minimum 3-ticks for 3-phase variable refrigerant flow (VRF) models 
 
-- Minimum 3-ticks and using refrigerant with GWP = 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+Note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) will be raised to 5-tick for multi-split/ 4-tick for single split. The technical eligibility criteria will be reviewed in 4Q2024.
+
 
 ### Mode and Schedule of Payment 
 

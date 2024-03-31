@@ -9,7 +9,6 @@ permalink: /browse-all-equipment-Manufacturing/Cooking-Hob
 
 Induction technology
 
-
 ### Mode and Schedule of Payment 
 
 - Direct Purchase

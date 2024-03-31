@@ -7,13 +7,7 @@ permalink: /browse-all-equipment-Food-Services/LED-Lighting
 
 ### Technical Requirements
 
-- LED self-ballasted lamps
-
-- Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)
-
-- LED tube and strip lights
-
-- LED circular tube
+- LED lighting with 2 ticks and above under NEA’s Mandatory Energy Labelling Scheme 
 
 ### Mode and Schedule of Payment 
 
