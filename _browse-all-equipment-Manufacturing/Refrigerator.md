@@ -879,11 +879,13 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - Panasonic - SUF-K1261SB
 - Panasonic - SUF-K1261SB-R
 - Panasonic - SUF-K1271B
+- Panasonic - SUF-K1271SB
 - Panasonic - SUF-K1271SB-R
 - Panasonic - SUF-K1561B
 - Panasonic - SUF-K1561SB
 - Panasonic - SUF-K1561SB-R
 - Panasonic - SUF-K1571B
+- Panasonic - SUF-K1571SB
 - Panasonic - SUF-K1571SB-R
 - Panasonic - SUF-K1861SB
 - Panasonic - SUF-K1861SB-R
@@ -913,6 +915,7 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - Panasonic - SUR-K1271B
 - Panasonic - SUR-K1271CB
 - Panasonic - SUR-K1271CB-R
+- Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1271SB-R
 - Panasonic - SUR-K1561B
 - Panasonic - SUR-K1561CB
@@ -920,6 +923,7 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - Panasonic - SUR-K1561SB
 - Panasonic - SUR-K1561SB-R
 - Panasonic - SUR-K1571B
+- Panasonic - SUR-K1571SB 
 - Panasonic - SUR-K1571CB
 - Panasonic - SUR-K1571CB-R
 - Panasonic - SUR-K1571SB-R
@@ -940,6 +944,9 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - Polariz - PGR-500-TA-EC
 - PowerPac - PPBF555A
 - PRISM+ - FT4201SABI
+- PRISM+ - FT3301SABI
+- PRISM+ - FT4201GAGB
+- PRISM+ - FT4201SAIN
 - Ryker - TF24101
 - Samsung - RB34T6054B1
 - Samsung - RB45DG600EB1
@@ -1031,6 +1038,16 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - SHARP - SJ-VX57ES-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
+- Singmah - LGZ-150W
+- Singmah - LD-460W
+- Singmah - LG-960M2WP
+- Singmah - LG-882M2W
+- Singmah - LG-882M2WP
+- Singmah - LG-1000M2WP
+- Singmah - LG-1200M3WP
+- Singmah - LG-1400M3WP
+- Singmah - LG-1800M4WP
+- Singmah - WD4-297H
 - SMEG -  FAB5LBL5
 - SMEG -  FAB5LCR3
 - SMEG -  FAB5LCR5
@@ -1397,6 +1414,10 @@ Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this em
 - YUDA - YD-022FS-IVTH
 - YUDA - YD-022FS-IVTH-BK
 - YUDA - YD-022FS-IVTH-BK-FD
+- YUDA - YD-022GDC-UN-BB-IVT
+- YUDA - YD-023GDC-UN-BB-IVT
+- YUDA - YD-022GDC-BB-IVT
+- YUDA - YD-023GDC-BB-IVT
 - YUDA - YD-1GDF-UN-B
 - YUDA - YD-1GDF-UN-W
 - YUDA - YD-2GDC-IVT
