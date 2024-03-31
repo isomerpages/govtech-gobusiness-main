@@ -113,7 +113,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Mantru.e - ZC-C405A
 - Mantru.e - ZC-C408B
 - Mantru.e - ZT2-C07A-DZ
-- Mantru.E - ZT2-C30A
+- Mantru.e - ZT2-C30A
 - Mantru.e - ZT2-C366A
 - Mantru.e - ZT2-C366A-Q
 - Mantru.e - ZT2-C366B
@@ -121,7 +121,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Mantru.e - ZT4-C14A-DZ
 - Mantru.e - ZT4-C8014A
 - Mantru.e - ZT6-C8021A
-- Mantru.E - ZT-C15A
+- Mantru.e - ZT-C15A
 - Mantru.e - ZT-C333A
 - Mantru.e - ZT-C333A-Q
 - Mantru.e - ZT-C405A
@@ -136,7 +136,15 @@ Up to 70% for SMEs, 30% for non-SMEs
 - RATIONAL - iVario Pro 2-S
 - RATIONAL - iVario Pro L
 - RATIONAL - iVario Pro XL 
+- ROLLER GRILL Sia-Huat - (238SD-PIC25)
+- ROLLER GRILL Sia-Huat - (238SD-PID30)
+- ROLLER GRILL Sia-Huat - (238SD-PID700)
+- ROLLER GRILL Sia-Huat - (238SD-PIS30)
+- ROLLER GRILL Sia-Huat - (238SD-PIW30)
+- SAFICO PRO Sia-Huat - (1101SF-ABB-18T)
 - SAFICO PRO Sia-Huat - (1101SF-AT-25A)
+- SAFICO PRO Sia-Huat - (1101SF-CB-28A)
+- SAFICO PRO Sia-Huat - (1101SF-CW-28A)
 - SAFICO PRO Sia-Huat - (1101SF-DT-28T)
 - Sia-Huat - (217BH-BT-180G6)
 - Sia-Huat - (217BH-BT-350A-G)

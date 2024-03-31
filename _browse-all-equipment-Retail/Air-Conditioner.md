@@ -24,8 +24,6 @@ permalink: /browse-all-equipment-Retail/Air-Conditioner
 Up to 70% for SMEs, 30% for non-SMEs
 
 
-### Pre-Approved Equipment Brands and Models
-
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
@@ -35,15 +33,6 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
-- Daikin - RXMQ4AAVEG
-- Daikin - RXMQ4AVE
-- Daikin - RXMQ5AAVEG
-- Daikin - RXMQ5AVE
-- Daikin - RXMQ6AAVEG
-- Daikin - RXMQ6AVE
-- Daikin - RXMUQ4AVEG
-- Daikin - RXMUQ5AVEG
-- Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
 - Daikin - RXQ10AYMW
 - Daikin - RXQ12AYM
@@ -62,19 +51,15 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Daikin - RXUQ6AYMW
 - Daikin - RXUQ8AYM
 - Daikin - RXUQ8AYMW
-- Daikin - RXZ25NVMG
-- Daikin - RXZ35NVMG
 - Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
 - Enovatek Energy - EES-ADC18GW-XA-32R+5
 - Enovatek Energy - EES-ADX24GW-XA-32R+5
 - EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
-- Fujitsu - AJA040LBLAH
+- EuropAce - ESAC28CUD
 - Fujitsu - AJA040LELBH
-- Fujitsu - AJA045LBLAH
 - Fujitsu - AJA045LELBH
-- Fujitsu - AJA054LBLAH
 - Fujitsu - AOAG09CMTA
 - Fujitsu - AOAG12CMTA
 - Fujitsu - AOAH24CBTA
@@ -83,8 +68,7 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Fujitsu - AOAH36CBTA
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
-- GREE - GULD18W/NhB1-K(P)
-- GREE - GULD24W/NhB-K(P)
+- GREE - GWC09ATDXD-K6DNA3A/O
 - GREE - GWC12ATDXE-K6DNA3A/O
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
@@ -105,10 +89,6 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Hitachi - RAS-140HNCBLW
 - Hitachi - RAS-160HNCBLW
 - Hitachi - RAS-180HNCBLW
-- Hitachi - RAS-3.0HNBRKQ
-- Hitachi - RAS-4.0HNBRKQ
-- Hitachi - RAS-5.0HNBRKQ
-- Hitachi - RAS-6.0HNBRKQ
 - LG - ARUN080LTE5
 - LG - ARUN082LTE6
 - LG - ARUN100LTE5
@@ -121,25 +101,9 @@ Up to 70% for SMEs, 30% for non-SMEs
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
-- LG - ARUN202LTE6
-- LG - ARUN222LTE6
-- LG - ARUN242LTE6
-- LG - ARUN262LTE6
-- LG - ARUV030GSD0
-- LG - ARUV030GSD5
-- LG - ARUV040GSD0
-- LG - ARUV040GSD5
-- LG - ARUV050GSD5
-- LG - ARUV060GSD0
-- LG - ARUV060GSD5
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
-- LG - ZRUV030GSD5
-- LG - ZRUV040GSD5
-- LG - ZRUV050GSD5
-- LG - ZRUV060GSD5
-- LG - ZUUQ36GH0
 - Midea - M4OA-28CRFN8E
 - Midea - M4OA-32CRFN8E
 - Midea - M5OA-40CRFN8E
@@ -149,30 +113,19 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Midea - MAS-1S09E
 - Midea - MCE-2M16E
 - Midea - MCE-4M28E
-- Midea - MDVC-V110W/DN1
-- Midea - MDVC-V145W/DN1
-- Midea - MDVC-V170W/DN1
-- Midea - MDVC-V72W/DN1
-- Midea - MDVC-V92W/DN1
-- Midea - MDV-V42WDHN1(SG)
-- Midea - MDV-V48WDHN1(SG)
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Midea - MVC-M280WV2GN1(G)
+- Midea - MVC-M335WV2GN1(G)
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
 - Mitsubishi Electric - MXY-3H28VG2
-- Mitsubishi Electric - MXY-4C100VA
 - Mitsubishi Electric - MXY-4H33VG
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
-- Mitsubishi Electric - MXY-5C125VA
 - Mitsubishi Electric - MXY-5H48VG
-- Mitsubishi Electric - MXY-6C140VA
-- Mitsubishi Electric - MXY-6C53VAM
-- Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-EP250YKE.TH-SG
@@ -217,13 +170,12 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Mitsubishi Electric - PUMY-CP225YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
-- Mitsubishi Electric - PUY-M125VKA-SG
 - Mitsubishi Electric - SUY-ZM50VA-SG
-- Mitsubishi Heavy Industries - FDC100YNA-W
-- Mitsubishi Heavy Industries - FDC112KXEN6
 - Mitsubishi Heavy Industries - FDC280CKXZA2-S8
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
+- Mitsubishi Heavy Industries - FDCS335CKXZA2
+- Mitsubishi Heavy Industries - FDCS400CKXZA2
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
@@ -242,20 +194,14 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Panasonic - CU-4XU38YBZ-H
 - Panasonic - CU-XU9XKZ
 - Panasonic - U-10ME2R8
-- Panasonic - U-43PRH1Z5
-- Panasonic - U-4LE2R5
-- Panasonic - U-5LE2R5
-- Panasonic - U-6LE2R5
+- Panasonic - U-10ME2R8E
 - Panasonic - U-8ME2R8
+- Panasonic - U-8ME2R8E
 - PRISM+ - PRCZ28
 - PRISM+ - PRCZ36
-- Samsung - AR09TYEAFWKX
-- Toshiba - MCY-MAP0401TP-SG
-- Toshiba - MCY-MAP0501TP-SG
-- Toshiba - MCY-MAP0601TP-SG
-- Toshiba - MCY-MHP0404HT-SG
-- Toshiba - MCY-MHP0504HT-SG
-- Toshiba - MCY-MHP0604HT-SG
+- Samsung - AJ045DCJ2KF/SP
+- Samsung - AJ065DCJ3KF/SP
+- Samsung - AJ070DCJ4KF/SP
 - Toshiba - MCY-MHP0805HT8-SG
 - Toshiba - MMY-MAP0807T8P-SG
 - Toshiba - MMY-MAP1007T8P-SG
@@ -272,8 +218,8 @@ Up to 70% for SMEs, 30% for non-SMEs
 - Toshiba - RAS-3M41U2ACVG-SG
 - Toshiba - RAS-4M41U2ACVG-SG
 - Toshiba - RAS-5M51U2ACVG-SG
-- Toshiba - RAV-GE4201AP-SG
-
+- Tosot - TR32SAC18CUD
+- Tosot - TR32SAC21CUD
 
 
 <script src='/jquery/resize-tables.js'></script>
