@@ -7,6 +7,14 @@ permalink: /business-grants-portal-faq/eeg/
 
 {% include letter-accordion.html accordions=site.data.acc012a-eeg letter="a" %}
 
-**Updated as of March 2024.**
+### EEG (Base)
+
+{% include letter-accordion.html accordions=site.data.acc012a-eeg letter="b" %}
+
+### EEG (Advanced)
+
+{% include letter-accordion.html accordions=site.data.acc012a-eeg letter="c" %}
+
+**Updated as of April 2024.**
 
 [Back to Business Grants Portal Overview](/business-grants-portal/)
