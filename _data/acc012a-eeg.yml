@@ -187,20 +187,38 @@
       content: |
         The list of whitelisted third-party qualified assessors for manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
 
->>>> to be fixed
+        <table>
+        <tr>
+          <th><b>Whitelisted third party assessors</b></th>
+          <th><b>Website and contact details</b></th>
+        </tr>
 
-        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
-        To apply for the EEG (Base), manufacturing companies will have to:
-        i. Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.
-        ii. Obtain quotations from the vendor.
-        iii. Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
+        <tr>
+          <td>Accredited ESCOs</td>
+          <td><a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank" rel="noopener">NEA | ESCO Accreditation</a></td>
+        </tr>
 
-        For Food Services and Retail Companies
-        Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.
-        To apply for the EEG (Base), companies will have to:
-        i. Visit GoBusiness to access the list of supported equipment brands and models. 
-        ii. Obtain quotations from the vendor.  
-        iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.
+        <tr>
+          <td>EEO Assessor (independent)</td>
+          <td><a href="https://eeoa.sg/certified-eeo-assessors/" target="_blank" rel="noopener">Certified EEO Assessors – Energy Efficiency Opportunities Assessor (EEO Assessors)</a><br>Note: EEO Assessor (Independent) is denoted by -SP in their EEOA ID. EEO Assessor (Independent)‘s certification should be valid (i.e. certification has not expired) before or on the sign off date of the third party assessment report.</td>
+        </tr>
+
+        <tr>
+          <td>Singapore Institute of Technology (SIT) - Energy Efficiency Technology Centre (EETC)</td>
+          <td>Website: <br><a href="https://www.singaporetech.edu.sg/energy-efficiency-technology-centre" target="_blank" rel="noopener">Energy Efficiency Technology Centre | Singapore Institute of Technology (singaporetech.edu.sg)</a><br>Contact details: <br><a href="mailto:EETC@singaporetech.edu.sg">EETC@singaporetech.edu.sg</a></td>
+        </tr>
+
+        <tr>
+          <td>Singapore Polytechnic (SP) – Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
+          <td>Website:<br><a href="https://www.sp.edu.sg/industry/esee" target="_blank" rel="noopener">Centre ESEE - Industry and Partnerships | SP</a><br>Contact details: <br><a href="mailto:Lam_Kok_Seng@sp.edu.sg">Lam_Kok_Seng@sp.edu.sg</a></td>
+        </tr>
+
+        <tr>
+          <td>Ngee Ann Polytechnic (NP) – The Environmental & Water Technology Centre of Innovation (EWTCOI)</td>
+          <td>Website: <br><a href="https://www.np.edu.sg/connect/industry-partners/ewtcoi" target="_blank" rel="noopener">EWTCOI (np.edu.sg)</a><br>Contact details: <br><a href="mailto:ewtcoi@np.edu.sg">ewtcoi@np.edu.sg</a><br><a href="mailto:Jin_Weixin@np.edu.sg">Jin_Weixin@np.edu.sg</a></td>
+        </tr>
+
+        </table>
 
     - title: What is the duration of the EEG (Advanced)?
       content: |
