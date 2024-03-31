@@ -9,6 +9,8 @@ permalink: /browse-all-equipment-Manufacturing/Water-Heater
 
 Heat pump technology 
 
+To note: After 1st April 2025, MELS/MEPS for household water heaters to be implemented. The technical criteria will be reviewed in 4Q2024.
+
 ### Mode and Schedule of Payment 
 
 - Direct Purchase

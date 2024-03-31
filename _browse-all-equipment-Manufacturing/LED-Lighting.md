@@ -11,8 +11,6 @@ permalink: /browse-all-equipment-Manufacturing/LED-Lighting
 
 - LED lighting for non-regulated lightings under NEA’s Mandatory Energy Labelling Scheme with an efficacy of at least 110 lumens/watt(technical specification of proposed equipment to be provided during application)
 
-- LED circular tube
-
 ### Mode and Schedule of Payment 
 
 - Direct Purchase

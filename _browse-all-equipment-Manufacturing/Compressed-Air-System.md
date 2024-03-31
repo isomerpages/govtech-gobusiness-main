@@ -22,11 +22,11 @@ permalink: /browse-all-equipment-Manufacturing/Compressed-Air-System
 </tr>
 <tr>
     <td><b>Air blowers</b></td>
-    <td>Energy efficient air blowers as a replacement for existing compressed air system</td>
+    <td>Energy efficient air blowers as a replacement for existing compressed air system<br>tocheck: Replacement of compressed air system with energy efficient air blowers.<br>This would only be retrofit works, not new facility installation</td>
 </tr>
 <tr>
     <td><b>Compressed air system with air receivers</b></td>
-    <td>Replacement of existing compressed air system without air receivers(proof of fluctuating load to be provided during application)</td>
+    <td>Replacement of existing compressed air system without air receivers(proof of fluctuating load to be provided during application)<br>tocheck:</td>
 </tr>
 </table>
 

@@ -7,7 +7,7 @@ permalink: /browse-all-equipment-Manufacturing/Motors
 
 ### Technical Requirements
 
-Induction technology
+IE4 or better single speed three-phase 50 Hz induction motor
 
 ### Mode and Schedule of Payment 
 
