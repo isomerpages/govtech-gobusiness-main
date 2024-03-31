@@ -196,12 +196,12 @@
         The list of whitelisted third-party qualified assessors for manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
 
         <table>
-        <tr width="30%">
-          <th><b>Whitelisted third party assessors</b></th>
-          <th><b>Website and contact details</b></th>
+        <tr>
+          <th width="30%"><b>Whitelisted third party assessors</b></th>
+          <th width="auto"><b>Website and contact details</b></th>
         </tr>
 
-        <tr width="auto">
+        <tr>
           <td>Accredited ESCOs</td>
           <td><a href="https://www.nea.gov.sg/programmes-grants/schemes/esco-accreditation" target="_blank" rel="noopener">NEA | ESCO Accreditation</a></td>
         </tr>
