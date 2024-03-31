@@ -51,7 +51,7 @@ More details in the table below:
 
 **Note:**
 
-<u><b>For EEG (Base Tier)</b></u> 
+<u><b>For EEG (Base)</b></u> 
 
 Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to collude with vendors to carry out submission of any grant applications or claims.
 

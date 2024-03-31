@@ -21,7 +21,7 @@ To note: From 1st April 2025, the Minimum Energy Performance Standards (MEPS) wi
 
 Up to 70% for SMEs, 30% for non-SMEs
 
-Applicants can apply for the EEG (Base Tier) and EEG (Advanced Tier) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
 
 
 ### Pre-Approved Equipment Brands and Models

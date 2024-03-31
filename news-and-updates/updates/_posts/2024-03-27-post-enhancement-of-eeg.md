@@ -22,7 +22,7 @@ GoBusiness page:
 [https://www.gobusiness.gov.sg/energy-efficiency-grant/](/energy-efficiency-grant/)
 
 EnterpriseSG page:
-[https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
+[https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant](https://www.enterprisesg.gov.sg/financial-support/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
 
 NEA page:
 [https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant](https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant){:target='_blank'}{:rel='noopener'}
