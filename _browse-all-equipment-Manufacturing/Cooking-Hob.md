@@ -7,7 +7,7 @@ permalink: /browse-all-equipment-Manufacturing/Cooking-Hob
 
 ### Technical Requirements
 
-Induction technology
+- Induction technology
 
 ### Mode and Schedule of Payment 
 
