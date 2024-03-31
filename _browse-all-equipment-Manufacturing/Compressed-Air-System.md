@@ -27,7 +27,6 @@ permalink: /browse-all-equipment-Manufacturing/Compressed-Air-System
 <tr>
     <td><b>Compressed air system with air receivers</b></td>
     <td>Replacement of existing compressed air system without air receivers(proof of fluctuating load to be provided during application)</td>
-</td>
 </tr>
 </table>
 
