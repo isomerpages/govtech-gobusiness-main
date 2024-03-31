@@ -9,6 +9,11 @@ permalink: /browse-all-equipment-Manufacturing/Water-Heater
 
 Heat pump technology 
 
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Pre-Approved Equipment Brands and Models
 

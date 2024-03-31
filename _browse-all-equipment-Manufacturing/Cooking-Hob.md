@@ -13,6 +13,8 @@ Induction technology
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Support Level and Conditions
 

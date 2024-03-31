@@ -7,11 +7,13 @@ permalink: /browse-all-equipment-Manufacturing/Clothes-Dryer
 
 ### Technical Requirements
 
-Heat pump technology
+IE4 or better Single speed three-phase 50 Hz induction motor
 
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Support Level and Conditions
 

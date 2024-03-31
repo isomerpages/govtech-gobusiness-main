@@ -7,17 +7,17 @@ permalink: /browse-all-equipment-Manufacturing/LED-Lighting
 
 ### Technical Requirements
 
-- LED self-ballasted lamps
+- LED lighting with 2 ticks and above under NEA’s Mandatory Energy Labelling Scheme (see list of equipment brands and models below) or
 
-- Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)
-
-- LED tube and strip lights
+- LED lighting for non-regulated lightings under NEA’s Mandatory Energy Labelling Scheme with an efficacy of at least 110 lumens/watt(technical specification of proposed equipment to be provided during application)
 
 - LED circular tube
 
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Support Level and Conditions
 

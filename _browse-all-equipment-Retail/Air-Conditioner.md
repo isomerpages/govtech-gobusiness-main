@@ -16,6 +16,8 @@ permalink: /browse-all-equipment-Retail/Air-Conditioner
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Support Level and Conditions
 

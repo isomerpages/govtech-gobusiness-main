@@ -18,6 +18,8 @@ permalink: /browse-all-equipment-Retail/LED-Lighting
 ### Mode and Schedule of Payment 
 
 - Direct Purchase
+- Hire Purchase
+- Lease
 
 ### Support Level and Conditions
 
