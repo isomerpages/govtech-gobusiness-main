@@ -278,6 +278,21 @@ Gateway IP Services is a regional IP boutique which specialises in patents, trad
 
 ---
 
+#### hslegal LLP
+
+Our focus is to protect, enforce and commercialize our clients' intellectual property assets.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 501 to 750</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $500</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/hslegal-llp/){:target='_blank'}
+
+---
+
 #### W.P. Lai & Company
 
 The Firm has served and helped many SMEs in Singapore as well as entrepreneurs for the past 40 years.
@@ -428,6 +443,21 @@ A patent law agency offering certified services with fast turnaround times, at f
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/schweiger-partners/){:target='_blank'}
+
+---
+
+#### Singapore FOZL Group Pte Ltd
+
+Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 251 to 500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/){:target='_blank'}
 
 ---
 
@@ -922,21 +952,6 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 
 ---
 
-#### Singapore FOZL Group Pte Ltd
-
-Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $900</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/){:target='_blank'}
-
----
-
 #### Adastra IP Pte. Ltd.
 
 Adastra has been in existence since 2004 and is formed by a team of technical and legal expertise.
@@ -975,7 +990,7 @@ Excellence Singapore - ISO-Certified and over 5,000 Clients Served & SME 500 Win
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $100</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free consultation and limited time offer of 10% off if you quote GOBUSINESS IP GROW</li>
 </ul>
 
@@ -1010,6 +1025,21 @@ George Hwang LLC is a boutique IP/IT and Media law firm with proven experience i
 </ul>
 
 <a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/george-hwang-llc/){:target='_blank'}
+
+---
+
+#### Vicki Heng Law Corporation
+
+We are committed to providing personalised support and guidance to our clients.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of classes completed in previous calendar year:</b> 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $800</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/vicki-heng-law-corporation/){:target='_blank'}
 
 ---
 

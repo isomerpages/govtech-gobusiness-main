@@ -11,8 +11,7 @@ We are a Singapore-based law firm specialising in legal services in the followin
 - Compliance
 - Intellectual Property
 - Information Technology 
-
-Please visit our website at <a href='http://www.xavierlegal.com/' target='_blank' rel='noopener'>http://www.xavierlegal.com/</a>for more details.
+Please visit our website at www.xavierlegal.com for more details.
 
 <b>Year established in Singapore:</b> 2014
 
@@ -22,7 +21,7 @@ Please visit our website at <a href='http://www.xavierlegal.com/' target='_blank
 
 <b>Address in Singapore:</b> 1 Maritime Square, #09-57B, Harbourfront Centre, Singapore 099253
 
-<b>Website:</b> <a href='http://www.xavierlegal.com/' target='_blank' rel='noopener'>http://www.xavierlegal.com/</a>
+<b>Website:</b> <a href='http://www.xavierlegal.com/'>http://www.xavierlegal.com/</a>
 
 <a class='btn' href='https://form.gov.sg/65cad40116a0c0b769481765' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -90,7 +89,7 @@ Please visit our website at <a href='http://www.xavierlegal.com/' target='_blank
 
 *"You don't get many IP lawyers who understand tech so well. At Xavier & Associates LLC, you have a team of top notch advisors who work with you every step of the way anticipating the risks and opportunities. Through the connections provided, we have been able to gain access to talent and capital. Yes there are free online legal resources... but let's not be penny wise pound foolish. Work with the best without burning your budget. Don't just trust what I say, speak to Byron Xavier."* - 3DLantis
 
-*"Exceptional legal advisory services for our corporate and IP contracts. We have been able to negotiate for better terms as well as understand certain risks & requirements. Their expertise has been crucial for reducing our risk exposure in both client and vendor contracts; truly essential for project and operational processes."* - Mae Urquhart, Nokomai Studios
+*"Exceptional legal advisory services for our corporate and IP contracts. We have been able to negotiate for better terms as well as understand certain risks & requirements. Their expertise has been crucial for reducing our risk exposure in both client and vendor contracts; truly essential for project and operational processes."* - Mae Urquhart,Nokomai Studios
 
 
 
@@ -108,13 +107,14 @@ Please visit our website at <a href='http://www.xavierlegal.com/' target='_blank
 <a href="https://www.xavierlegal.com" target="_blank" rel="noopener">https://www.xavierlegal.com</a>  
 
 
-**Byron, Xavier**
+'**Byron, Xavier**
 
 - Job Title: Managing Director
 - Years of Experience: 22 years
 - Location: Singapore
-- IA/IP-Related Expertise: Contract Drafting, Dispute Resolution
-- URL of LinkedIn/Company Profile: <a href="https://www.xavierlegal.com" target="_blank" rel="noopener">https://www.xavierlegal.com</a>  
+- IA/IP-Related Expertise: Trademark Agent Service, Contract Drafting
+- URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
+<a href="https://www.xavierlegal.com" target="_blank" rel="noopener">https://www.xavierlegal.com</a>  
 
 
 ---
