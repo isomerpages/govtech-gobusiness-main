@@ -149,8 +149,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 - Location: Singapore
 - IA/IP-Related Expertise: Registered Design Agent Service, Trademark Agent Service, IP Due Diligence, Dispute Resolution, Contract Drafting
 - Certifications/Qualifications: Advocate & Solicitor, Singapore, Solicitor of England and Wales, University of Oxford BA (Jurisprudence) and MA (Jurisprudence)
-- URL of LinkedIn/Company Profile: Contract Drafting, Dispute Resolution
-<a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
+- URL of LinkedIn/Company Profile: <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
 ---

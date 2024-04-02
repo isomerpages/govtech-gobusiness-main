@@ -95,6 +95,11 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 85%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 15%</li></ul>
 
+**Percentage of revenue by organisational type, based on previous calendar year:**
+
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Non-Profit Organisations  - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 80%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 15%</li></ul>
+
+
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts

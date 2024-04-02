@@ -9,7 +9,7 @@ FOZL Group, headquartered in Singapore's Raffles Place financial district, is an
 
 <b>Year established in Singapore:</b> 2011
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service,Tax Advisory (with IA/IP considerations),Valuation (with IA/IP considerations)
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Tax Advisory (with IA/IP considerations), Valuation (with IA/IP considerations)
 
 <b>Type of organization:</b> SME
 
