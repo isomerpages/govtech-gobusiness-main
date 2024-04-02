@@ -5,7 +5,7 @@ permalink: /intellectual-property/ip-grow/baker-tilly-singapore/
 
 ## Baker Tilly Singapore
 
-Baker Tilly Singapore is a leading full-service accounting and advisory firm that provides a range of professional services including audit and assurance, tax, deal advisory, risk advisory, business restructuring and corporate recovery
+Baker Tilly Singapore is a leading full-service accounting and advisory firm that provides a range of professional services including audit and assurance, tax, deal advisory, risk advisory, business restructuring and corporate recovery.
 
 <b>Year established in Singapore:</b> 2007
 
@@ -69,7 +69,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 - Location: Singapore
 - IA/IP-Related Expertise: Valuation (with IA/IP considerations), Patent Agent Service
 - Certifications/Qualifications: Fellow of Association of Chartered Certified Accountant (ACCA), Chartered Financial Analyst (CFA) charter holder, Associate Chartered Valuer and Appraiser (CVA)
-- URL of LinkedIn/Company Profile: <a href="https://www. linkedin.com/in/adrian-cheow-sg" target="_blank" rel="noopener">https://www.linkedin.com/in/adrian-cheow-sg</a>
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/adrian-cheow-sg" target="_blank" rel="noopener">https://www.linkedin.com/in/adrian-cheow-sg</a>
 
 ---
 <p>

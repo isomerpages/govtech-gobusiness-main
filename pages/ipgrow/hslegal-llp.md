@@ -9,7 +9,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 
 <b>Year established in Singapore:</b> 1997
 
-<b>Top focus areas for IA/IP services:</b> Patent Agent Service,Registered Design Agent Service,Trade Mark Agent Service,Contract Drafting,Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Patent Agent Service, Registered Design Agent Service, Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
@@ -130,7 +130,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 - URL of LinkedIn/Company Profile: <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
-'**Tasneem Haq**
+**Tasneem Haq**
 
 - Job Title: Partner
 - Years of Experience: 25 years
@@ -142,7 +142,7 @@ We are specialist intellectual property lawyers and agents. Our practice started
 <a href="https://hslegal.com.sg/profile/" target="_blank" rel="noopener">https://hslegal.com.sg/profile/</a>  
 
 
-'**Ferzana Haq**
+**Ferzana Haq**
 
 - Job Title: Partner
 - Years of Experience: 20 years
