@@ -39,7 +39,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 <a name='industry-focus'></a>
 ### Industry focus
 
- - Valuation (with IA/IP considerations),Patent Agent Service
+ - Valuation (with IA/IP considerations), Patent Agent Service
 
 ---
 <a name='office-locations'></a>

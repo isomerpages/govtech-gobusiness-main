@@ -177,7 +177,7 @@ Leveraging NUS' research, Brandgrammar™, we provide SMEs a one-stop branding a
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 21 to 25</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $1200</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $41,500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Get a complimentary consultation</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).</li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}

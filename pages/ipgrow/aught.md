@@ -71,7 +71,7 @@ We are a communication design firm dedicated to creating Good Design that is rel
 - IA/IP-Related Expertise: Branding Strategy
 - Certifications/Qualifications: Registered Management Consultant by IMC Singapore
 - Awards/Accolades: Red Dot Design Awards Winner 2020, Singapore Good Design Awards Winner 2021, Golden Pin Design Awards Winner 2022
-- URL of LinkedIn/Company Profile: [https://www.linkedin.com/in/tomazgoh](https://www.linkedin.com/in/tomazgoh)
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/tomazgoh" target="_blank" rel="noopener">https://www.linkedin.com/in/tomazgoh</a>
 
 
 ---

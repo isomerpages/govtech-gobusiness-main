@@ -15,7 +15,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <b>Address in Singapore:</b> 140 Upper Bukit Timah Road #03-08 Beauty World Plaza Singapore 588176
 
-<b>Website:</b> <a href='www.vickiheng.com'>www.vickiheng.com</a>
+<b>Website:</b> <a href='https://www.vickiheng.com/'>https://www.vickiheng.com/</a>
 
 <a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -97,8 +97,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Non-Profit Organisations  - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 80%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 15%</li></ul>
-
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Non-Profit Organisations - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 80%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 15%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
