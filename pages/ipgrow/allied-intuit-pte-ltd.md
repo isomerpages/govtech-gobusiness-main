@@ -109,7 +109,7 @@ Allied Intuit Pte Ltd (Allied) is an Intellectual Property (IP) firm providing I
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'>Patent Agent Service<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Registered Design Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>IP Intelligence and Search</li><li style='line-height: 27px; margin: 0px 0px !important'>IP Portfolio Management</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'>Patent Agent Service<br><li style='line-height: 27px; margin: 0px 0px !important'>Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Registered Design Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>IP Intelligence and Search</li><li style='line-height: 27px; margin: 0px 0px !important'>IP Portfolio Management</li></ul>
 
 ---
 <a name='office-locations'></a>
