@@ -1,0 +1,17 @@
+- image: <img src="/images/ipgrow/ipservices/ipgrow_licenceguide_icon.png" aria-hidden="true">
+  title: Get recommendations for your IA/IP needs
+  description: Not sure which IA/IP services your business needs? Answer a few quick questions for IA/IP guidance.
+  url: https://eadviser.gobusiness.gov.sg/ipservice
+  url-new-tab: true
+  text: Go to e-Adviser for IP Service
+
+- image: <img src="/images/ipgrow/ipservices/ask_ip_question.png" aria-hidden="true">
+  title: Ask an IP Question
+  description: Got questions about IP? Use our Q&A feature to get answers from our directory of IP professionals. 
+  url: https://form.gov.sg/65b067cabde7010012240c03
+  url-new-tab: true
+  text: Ask a pro
+
+
+ 
+ 

@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G
 
 **Description**
 
-NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centric CRM that allows the company's sales teams to track leads, close opportunities and get accurate forecasts. Schedule activities based on the company sales scripts: calls, meetings, mailing, and quotations. Organize work based on scheduled next actions. Generate leads and opportunities via events and email marketing campaigns.
+The solution is an integrated, cohesive, user-friendly CRM, sales and financial accounting solutions. The system offers users the capability to enforce strategic sales pricing policies while capturing vital business performance data directly into a full-fledged, IRAS-approved financial accounting system that generates professional, traceable formal documentation complete with audit trails. The system alleviates mundane administrative work effort to help businesses focus on their value chain.
 
 ## Solution Packages Option(s)
 
@@ -23,24 +23,38 @@ NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centri
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 1</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Essential)</td>
-<td style='padding: 10px;'>$4,800.00</td>
-<td style='padding: 10px;'>$4,100.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 5 Users (Basic)</td>
+<td style='padding: 10px;'>$9,353.00</td>
+<td style='padding: 10px;'>$9,353.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Business)</td>
-<td style='padding: 10px;'>$7,840.00</td>
-<td style='padding: 10px;'>$4,900.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 8 Users (Standard)</td>
+<td style='padding: 10px;'>$13,043.00</td>
+<td style='padding: 10px;'>$13,043.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>CRM for 5 users (Enterprise)</td>
-<td style='padding: 10px;'>$10,240.00</td>
-<td style='padding: 10px;'>$5,220.00</td>
-<td style='padding: 10px;'><a href='/images/psg/NeuMedia_NMTODOO_28122023_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 10 Users (Premium)</td>
+<td style='padding: 10px;'>$15,316.00</td>
+<td style='padding: 10px;'>$15,316.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 4</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accounting and Sales for 12 Users (Professional)</td>
+<td style='padding: 10px;'>$19,620.00</td>
+<td style='padding: 10px;'>$17,680.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part4.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Accountng and Sales for 15 Users (Enterprise)</td>
+<td style='padding: 10px;'>$21,681.00</td>
+<td style='padding: 10px;'>$18,640.00</td>
+<td style='padding: 10px;'><a href='/images/psg/NMT_ODOO_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
@@ -50,7 +64,7 @@ NMTODOO is an integrated, cohesive, user-friendly, comprehensive customer centri
 
 ## Vendor Information
 
- Company Name: Neu Media Technology LLP<br>Web URL: https://neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com <br>
+ Company name:Neu Media Technology LLP<br>Web URL: www.neumediatechnology.com <br>Contact Hotline: 67018202 <br>Contact Email: info@neumediatechnology.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

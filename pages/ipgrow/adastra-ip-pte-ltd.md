@@ -172,7 +172,7 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $5,000</li>
 </ul>
@@ -196,7 +196,6 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 **Percentage of clients by country, based on previous calendar year:**
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Malaysia - 50%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Philippines - 6%</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Vietnam -  6%</li><li style='line-height: 27px; margin: 0px 0px !important'>Singapore - 7%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>New Zealand - 2%</li></ul>
-
 
 ---
 <a name='key-practice-experts'></a>

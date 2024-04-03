@@ -41,18 +41,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Stormshld-UTM-Frwll-Scurty-G' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
-<td>Juss Solutions Group Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201309957M-Frwll-Scurty-Protcton-G' target='_blank'>Firewall Security Protection</a><br></td>
-<td>Rah Tech Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200005376W-Roycmd-CybrscurtyFrwll-G' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
-<td>Roycemedia Technologies Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
 </tr>
@@ -79,6 +67,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
 <td>NETWORK BOX (SIN) PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
+<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Stormshld-UTM-Frwll-Scurty-G' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>
 

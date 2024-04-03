@@ -28,16 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201435966G-WEB360-v-200-G' target='_blank'>WEB360 Version 2.0.0</a><br></td>
-<td>Quality Zone Technologies Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-2-G' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
-<td>Carddio Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform--G' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
@@ -52,7 +44,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOO-G' target='_blank'>NMTODOO</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOOCRM-G' target='_blank'>NMTODOO</a><br></td>
 <td>Neu Media Technology LLP</td>
 </tr>
 <tr>
@@ -70,6 +62,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-G' target='_blank'>TWCSS</a><br></td>
+<td>teamWork APAC Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
+<td>Brew Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
+<td>Carddio Pte Ltd</td>
 </tr>
 </table>
 

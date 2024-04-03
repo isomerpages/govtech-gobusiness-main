@@ -10,58 +10,48 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="sp" %}
 
-{% include licence-apply-button.html %}
-<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
-<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
-<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
-<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
-<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
-<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=162" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
-</div>
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/vectorcontroltechnicianlicence" type="primary" %}
 
 <H3>Application Details</H3>
 
-<p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.</p>
+<p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or&nbsp;certified as&nbsp;Vector Control Workers to conduct any vector control activity.</p>
 <h3>FAQ</h3>
 <ol>
 <li>
-<p><strong>What documents do I need before I submit my application online?</strong><br />The following documents are required:<br />i. NRIC/Employment Pass/Work Permit/S-Pass/Dependent pass (minimum 18 years old) (also required for renewal). For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="https://www.mom.gov.sg/eservices/sgworkpass" target="_blank" rel="noopener">MOM's website</a>.<br />ii. A recent digital coloured passport size photo (with white background) (also required for renewal)<br />iii. Highest Educational Qualification Certification (minimum 4 'N' Level passes or equivalent)<br />iv. Completed the Joint ITE - NEA Certificate in Pest Management.<br /><br />Documents can be uploaded in the "Supporting Documents" section towards the end of the online application.</p>
+<p><strong>What documents do I need to apply for a Vector Control Technician licence?<br></strong>To apply for a Vector Control Technician licence, the following documents are required:<br>(a) NRIC/Employment Pass/Work Permit/S-Pass/Dependent pass (minimum 18 years old) (also required for renewal)<br>For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at www.mom.gov.sg/sgworkpass.</p>
+<p>(b) Prepare a photo ID meeting NEA's requirements:<br>i. Recent coloured digital photograph with white background<br>ii. Dimension of 35 mm wide by 45 mm high<br>iii. Showing full face with visible upper shoulders and uniform lighting exposure<br>iv. No filter or modification of the face<br>v. Image file in jpg, jpeg or png file extension and no more than 5 MB</p>
+<p>(c) Highest Educational Qualification Certification (Completed GCE 'N' Level passes or equivalent). If you do not meet the educational requirement, you may provide supporting documents such as testimonial/employment letter from the employer, etc. which include the field of work related to vector control and the duration of employment of the applicant, and it should be within three years from the date of application, where possible.</p>
+<p>(d) Joint ITE &ndash; NEA Certificate in Pest Management.</p>
+<p>Documents can be uploaded in the &ldquo;Supporting Documents&rdquo; section towards the end of the online application.</p>
 </li>
 <li>
-<p><strong>What are the payment modes for this certificate?<br /></strong>Payment can be made via the following channels:<br />i. PayPal (Credit card and PayPal wallet) in the GoBusiness Licensing Portal<br />ii. AXS kiosks<br />iii. e-Stations<br />iv. m-Stations</p>
+<p><strong>What are the payment modes available for this licence?<br></strong>Payment can be made via the following channels:<br>(a) Card Payment Online in the GoBusiness Portal<br>(b) AXS kiosks, e-Stations and m-Stations</p>
 </li>
 <li>
-<p><strong>When can I make payment? </strong><br />Payment can be made after the application has been approved.</p>
+<p><strong>When can I make payment? </strong><br>Payment can be made after the application has been approved.</p>
 </li>
 <li>
-<p><strong>How soon can my application be processed? </strong><br />Please be informed that due to technical issues and high volume of applications received, a slightly longer processing time may be expected during this period. We seek your understanding and patience during this challenging period, as we work to improve our system services.</p>
+<p><strong>How soon can my application be processed? </strong><br>We will respond to you within 7 working days of your application submission. Please respond to any clarifications and submit the necessary documents as soon as possible. Your application will only be processed upon complete submission of all the required documents. Your application may be deemed unsuccessful if any outstanding documents and/or clarifications are not submitted within 3 months from the date of your application.</p>
 </li>
 <li>
-<p><strong>How can I receive my certificate of registration for Vector Control Operator? </strong><br />The electronic Vector Control Technician will be emailed to you. There shall be no responsibility on the part of NEA should there be any loss/damage of the certificate of registration in the transition.</p>
+<p><strong>How can I receive my Vector Control Technician Licence? </strong><br>The electronic Vector Control Technician licence (e-licence) will be emailed to you. Please ensure that you have provided a valid email address in your application.</p>
 </li>
 <li>
-<p><strong>What should I do if my computer hangs while I am making payment?</strong><br />If your computer hangs before reaching the acknowledgement page, your payment is considered unsuccessful. You may verify that is no deduction was made from your Bank Account through Internet Banking. Thereafter, proceed to make payment again.</p>
+<p><strong>What should I do if my computer hangs while I am making payment?</strong><br>If your computer hangs before reaching the acknowledgement page, your payment is considered to be unsuccessful. You may verify that there is no deduction from your Bank Account through Internet Banking. Thereafter, proceed to make payment again.</p>
 </li>
 <li>
-<p><strong>What documents/requirements do I need for a Provisional Vector Control Technician (VCT) Licence?</strong><br />Applicants may apply for a Provisional VCT licence to perform vector control work while undergoing training at the ITE-NEA Pest Management (for Vector Control Technicians) course. The licence is valid for 9 months which provides sufficient time to complete the training. It may be renewed once, only if there is a valid Provisional VCT licence with supporting documentation to show that he or she has enrolled or, is attending the joint ITE-NEA Pest Management course.<br /><br />The following documents are required:<br />i. NRIC/ Employment Pass/Work Permit/S-Pass/Dependent pass (minimum 18 years old). For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="https://www.mom.gov.sg/eservices/sgworkpass" target="_blank" rel="noopener">MOM's website</a>.<br />ii. A recent coloured passport size photo(with white background)<br />iii. Highest Educational Qualification Certification (minimum 4 'N' Level passes or equivalent)<br /><br />Applicants may apply for a Full Vector Control Technician Licence upon completing the ITE-NEA Pest Management (for Vector Control Technicians) course.</p>
+<p><strong>What documents do I need to apply for a Provisional Vector Control Technician licence?<br></strong>New applicants may apply for a provisional VCT licence to perform vector control work while undergoing training for the Joint ITE-NEA Certificate in Pest Management A provisionally licensed VCT should quickly complete and attain the Joint ITE-NEA Certificate in Pest Management as soon as possible within their provisional licence validity to apply for a full VCT licence thereafter. The provisional licence may only be renewed once before its expiry. Strong justification and supporting documentation to show proof of enrolment or attendance of the joint ITE-NEA Certificate in Pest Management, are required for renewal.&nbsp;</p>
+<p>The following documents are required,<br>(a) NRIC/ Employment Pass/Work Permit/S-Pass/Dependent pass (minimum 18 years old)<br>For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="http://www.mom.gov.sg/sgworkpass" target="_blank" rel="noopener">www.mom.gov.sg/sgworkpass</a>.</p>
+<p>(b) Prepare a photo ID meeting NEA's requirements.<br>i. Recent coloured digital photograph with white background<br>ii. Dimension of 35 mm wide by 45 mm high<br>iii. Showing full face with visible upper shoulders and uniform lighting exposure<br>iv. No filter or modification of the face<br>v. Image file in jpg, jpeg or png file extension and no more than 5 MB</p>
+<p>(c) Highest Educational Qualification Certification (Completed GCE &lsquo;N&rsquo; Level passes or equivalent). If you do not meet the educational requirement, you may provide supporting documents such as testimonial/employment letter from the employer, etc. which include the field of work related to vector control and the duration of employment of the applicant, and it should be within three years from the date of application, where possible.</p>
+<p>Applicants may apply for a full Vector Control Technician Licence upon completing the Joint ITE-NEA Certificate in Pest Management.</p>
 </li>
-<li><strong>What if I have to replace my licence?</strong><br />Please send the following items:<br />i. Letter stating the reason for replacement. If you have lost your licence, it is recommended to make a police report.<br />ii. Copy of NRIC/Employment Pass/Work Permit/S-Pass/Dependent pass. For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="https://www.mom.gov.sg/eservices/sgworkpass" target="_blank" rel="noopener">MOM's website</a>.<br />iii. A recent digital coloured passport size photo (with white background).<br /><br />A replacement fee of $20 will be required upon approval.</li>
+<li><strong>What if I have to replace my licence?<br></strong>Please send the following items:<br>(a) Letter stating the reason for replacement. If you have lost your licence, it is recommended to make a police report.<br>(b) Copy of NRIC/Employment Pass/Work Permit/S-Pass/Dependent pass<br>&nbsp; (i) For Employment Pass/Work Permit/S-Pass/Dependent pass holders, please submit the QR code details in the stipulated format using the new SGWorkPass app. More information on the QR code details and the new SGWorkPass app is available at <a href="http://www.mom.gov.sg/sgworkpass" target="_blank" rel="noopener">www.mom.gov.sg/sgworkpass</a>.<br>(c) A recent digital coloured passport size photo (with white background). Prepare a photo ID meeting NEA's requirements.
+<p>A replacement fee of $20 may be will be required upon approval.</p>
+</li>
 </ol>
 
 <strong>Additional Information</strong>
 
-<p><strong>Fees</strong><br />Licence Fees (Full):  $28.00<br />Licence Fees (Provisional):  $16.50</p>
-
-<H3>Documents Needed</H3>
-
-<ul>
-<li><strong>Joint ITE-NEA Certificate in Pest Management</strong><br />Mandatory to upload this document if applying for Full Vector Control Technician Licence<br /><br /></li>
-<li><strong>Front and back copies of NRIC/Employment Pass/S Pass/Work Permit/FIN<br /></strong></li>
-<li><strong>Highest Educational Qualifications<br /></strong></li>
-<li><strong>Passport Size Photo</strong></li>
-</ul>
-
-<H3>Requirements</H3>
-
-<p><strong>Related licence(s)</strong><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=237" target="_blank" rel="noopener">Vector Control Operator Certificate</a><br />NEA <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" target="_blank" rel="noopener">Vector Control Worker Certificate</a></p>
+<p><strong>Fees<br></strong>S$28.00 (Full)<br>S$16.50 (Provisional)</p>
 

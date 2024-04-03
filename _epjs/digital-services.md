@@ -47,16 +47,16 @@ permalink: /enterprisejobskills/digital-services/
 <td style="width:auto;">The OpenCerts digital service provides a common standard for the issuance of digital certificates and a means to verify the authenticity of those certificates.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://sdl.ssg.gov.sg/" target="_blank" rel="noopener">Skills Development Levy</a></td>
-<td style="width:auto;">The Skills Development Levy (SDL) Portal allows employers to make e-Payments, submit SDL e-Refund requests, upload/submit documentation as well as other SDL services.</td>
+<td style="width:30%;"><a href="https://www.gobusiness.gov.sg/sdl-e-services/" target="_blank" rel="noopener">Skills Development Levy</a></td>
+<td style="width:auto;">The Skills Development Levy (SDL) Portal allows employers to get SDL information and perform SDL transactions, such as submitting payment or filing a Notice of Objection, directly on GoBusiness.</td>
 </tr>
 <tr>
 <td style="width:30%;"><a href="https://ssg.lithium-ssg.jobkred.com/registration" target="_blank" rel="noopener">Skills Profiling for SMEs</a></td>
 <td style="width:auto;">Small and Medium Enterprises (SMEs) can now benchmark your employees' competencies to discover their strengths and skills gaps and identify training courses personalised to their skill needs. This is a pilot collaboration by SSG and JobKred, a homegrown HRTech start-up specialising in talent management.</td>
 </tr>
 <tr>
-<td style="width:30%;"><a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SkillsFuture Enterprise Credit (Training Programme)</a></td>
-<td style="width:auto;">Companies can tap on SkillsFuture Enterprise Credit (Training Programme) to claim up to 90% of out of pocket expenses for supportable courses when they send their employees for training.</td>
+<td style="width:30%;"><a href="https://cp.ssg-wsg.gov.sg/login?partnerID=https://cp.ssg-wsg.gov.sg&eserviceID=SFTS&type=CPOIDC" target="_blank" rel="noopener">SkillsFuture Enterprise Credit (SFEC)</a></td>
+<td style="width:auto;">Companies can tap on SkillsFuture Enterprise Credit for Workforce Transformation programmes and courses to claim up to 90% of out of pocket expenses for supportable courses when they send their employees for training.</td>
 </tr>
 <tr>
 <td style="width:30%;"><a href="https://sfec.enterprisejobskills.gov.sg/" target="_blank" rel="noopener">Small Medium Enterprise (SME) Declaration</a></td>
