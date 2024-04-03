@@ -4,6 +4,8 @@ permalink: /sgsecure/
 third_nav_title: Overview
 ---
 
+<meta http-equiv='Refresh' content='0;url=https://www.google.com.sg'>
+
 ![](/images/news/SGSecure_page_banner.jpg)
 
 ## What is SGSecure @ Workplaces?
