@@ -39,7 +39,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 <a name='industry-focus'></a>
 ### Industry focus
 
- - Valuation (with IA/IP considerations)
+ - Healthcare<br><ul><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -67,7 +67,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 - Job Title: Executive Director
 - Years of Experience: 15 years
 - Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
+- IA/IP-Related Expertise: Valuation (with IA/IP considerations), Patent Agent Service
 - Certifications/Qualifications: Fellow of Association of Chartered Certified Accountant (ACCA), Chartered Financial Analyst (CFA) charter holder, Associate Chartered Valuer and Appraiser (CVA)
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/adrian-cheow-sg" target="_blank" rel="noopener">https://www.linkedin.com/in/adrian-cheow-sg</a>
 

@@ -79,7 +79,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Dispute Resolution</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>
