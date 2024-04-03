@@ -56,7 +56,7 @@ Steven is already reaping the rewards of the leap he took on disability hiring, 
 
 Now, Steven is himself armed with the skills he will need to tackle the new frontiers he hopes to explore: expanding O’Brew Culture, and spreading the fragrance of his signature dalgona coffee to other locations in Singapore.
 
-**Keen to invest in training and upskilling your own employees? Check out the [Enterprise Portal for Jobs and Skills (EPJS)](https://www.enterprisejobskills.gov.sg/){:target="_blank"}{:rel="noopener"}, a one-stop portal for enterprises to find jobs and skills information, and access digital services related to workforce training and grant applications.**
+**Keen to invest in training and upskilling your own employees? Check out the [Enterprise Portal for Jobs and Skills (EPJS)](/enterprisejobskills/){:target="_blank"}{:rel="noopener"}, a one-stop portal for enterprises to find jobs and skills information, and access digital services related to workforce training and grant applications.**
 
 <em>This article is accurate as at 9 Nov 2022</em>
 

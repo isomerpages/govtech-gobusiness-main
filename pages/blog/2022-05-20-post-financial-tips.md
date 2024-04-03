@@ -43,7 +43,7 @@ Business owners who are unsure of how to file income tax or when they need to do
 
 The Kit provides a how-to guide to filing for taxes, and includes a comprehensive timeline of important due dates you need to take note of. 
 
-Employers can also check out the GoBusiness page on [Taxes and GST](/e-services/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information. 
+Employers can also check out the GoBusiness page on [Taxes, Levy, and GST](/e-services/taxes-and-gst/?src=gobiz_blog){:target="_blank"}{:rel="noopener"} for more information. 
 
 ### 3. Hiring employees 
 
@@ -79,7 +79,7 @@ This [infographic](https://www.iras.gov.sg/taxes/individual-income-tax/self-empl
 
 As tedious as finances can be, they are necessary and unavoidable. But with proper bookkeeping, the numerous processes of tax filing, paying wages, and CPF contributions can be streamlined – allowing business owners to focus their time on building the business.  
 
-**Are you an aspiring entrepreneur looking to start your very first business? Use the GoBusiness [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=gobiz_blog){:target="_blank"}{:rel="noopener"} to take you through your first steps!**
+**Are you a new business owner or looking to start a new business? Try using the [Regulatory Requirement Guides](/regulatory-requirements-guides/?src=gobiz_blog) on GoBusiness to help you better understand and navigate the government regulations that your business need to comply with.**
 
-<em> This article is accurate as at 20 May 2022</em>
+<em> This article is accurate as at 7 Jul 2023</em>
 

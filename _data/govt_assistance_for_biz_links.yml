@@ -7,7 +7,7 @@
 - label: e-Adviser
   title: e-Adviser for Government Assistance
   description: Get personalised recommendations for government assistance schemes you can apply for.
-  url: https://eadviser.gobusiness.gov.sg/govassist/?src=eservices_govassist_related
+  url: https://eadviser.gobusiness.gov.sg/govassist?src=eservices_govassist_related
   url-new-tab: true
   text: Find Out More
 

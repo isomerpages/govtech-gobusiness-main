@@ -48,11 +48,6 @@ Find out the full list of e-Services in our [Run and Grow guide](/run-and-grow/)
 - [Systemic Risk and Resilience (SR2)](https://www.nrf.gov.sg/funding-grants/systemic-risk-and-resilience){:target="_blank"}{:rel="noopener"}
   <br>Apply to get funding support for activities to grow and strengthen Singapore's research capabilities and manpower in relevant research areas.
 
-**Social Development Network (SDN)**
-
-- [Partner Connection Fund](https://www.sdn.sg/fordatingindustry/Pages/PartnerConnectionFund.aspx){:target="_blank"}{:rel="noopener"}
-  <br>Apply for funding support to upgrade or professionalise as a business in the dating industry.
-
 **Singapore Food Agency (SFA)**
 
 - <a href="https://www.sfa.gov.sg/e-services?type=food-farming&page=1" target="_blank" rel="noopener">Basic Capability Upgrading (BCU) Scheme</a>

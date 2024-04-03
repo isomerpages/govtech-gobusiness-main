@@ -1,0 +1,15 @@
+- image: <img src="/images/start/questionmark-icon.png" aria-hidden="true">
+  title: I need recommendations for a business structure
+  description: Use this e-Adviser to get recommendations for a suitable business structure, based on your business requirements.
+  url: https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure
+  url-new-tab: true
+  pdf-icon: false
+  text: Go to e-Adviser for Business Structure
+
+- image: <img src="/images/start/view-icon.png" aria-hidden="true">
+  title: I want to compare business structures
+  description: Understand the different business structures at a glance with a side-by-side comparison.
+  url: https://www.gobusiness.gov.sg/images/start/Types%20of%20Business%20Structures%20SG%2025Nov2021.pdf
+  url-new-tab: true 
+  pdf-icon: true
+  text: Download Business Structure Comparison Table 

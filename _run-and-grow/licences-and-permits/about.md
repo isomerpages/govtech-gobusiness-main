@@ -1,10 +1,10 @@
 ---
-title: About
+title: About business licences
 permalink: /licences/
 third_nav_title: Licences and Permits
 ---
 
-## About
+## About business licences
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
@@ -20,7 +20,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Featured licence guides
 
-{% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
+{% include panels-featurelink-image.html panels=site.data.rgp002_licences-guides %}
 
 ----
 
@@ -45,6 +45,17 @@ Returns are additional information you may need to submit for certain licences. 
 After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
 
 {% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
+
+----
+
+<a name="verify-licence-or-accreditation"></a>
+
+### Verify an entity’s licence or accreditation
+
+Find out if a company or person has a specific licence or accreditation by doing a search with our tools below.
+
+{% include panels-featurelink.html panels=site.data.rgp004a_licences-verify %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

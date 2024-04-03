@@ -29,15 +29,15 @@ The new GoBusiness Dashboard is now available, and it is packed with features th
 
 For users looking to start a new business, these features can help ensure a smooth transition:
 
-**Step-by-step-guidance** Users just have to answer a few questions on the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=news){:target="\_blank"}{:rel="noopener"}, to generate their very own Guided Journey - a detailed walkthrough for registering a business before completing the registration process<sup>*</sup>, all on GoBusiness. Each application form also comes with a summary of essential information and required documents to guide first-time business owners. Users can also read the [Start-up Guide](/start-a-business/?src=news) to obtain a clearer idea on what to prepare.
+**Step-by-step-guidance** Users just have to answer a few questions on the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=news){:target="\_blank"}{:rel="noopener"}, to generate their very own Guided Journey - a detailed walkthrough for registering a business before completing the registration process<sup>*</sup>, all on GoBusiness. Each application form also comes with a summary of essential information and required documents to guide first-time business owners. Users can also read the [Start-up Guide](/start-a-business/?src=news) to obtain a clearer idea on what to prepare.
 
 ###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
 **Brand name availability** The e-Adviser for Starting a Business allows users to see whether their brand name is available as a trademark, social media handles, and more.
 
-**Wide range of e-Advisers available** GoBusiness has e-Advisers to guide new business owners at every step of the way. Users can start out by finding out the most suitable business structure for their business using the [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure/?src=news){:target="\_blank"}{:rel="noopener"} before embarking on the business registration process<sup>*</sup> using the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness/?src=news){:target="\_blank"}{:rel="noopener"}.
+**Wide range of e-Advisers available** GoBusiness has e-Advisers to guide new business owners at every step of the way. Users can start out by finding out the most suitable business structure for their business using the [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=news){:target="\_blank"}{:rel="noopener"} before embarking on the business registration process<sup>*</sup> using the [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=news){:target="\_blank"}{:rel="noopener"}.
 
-They can also use the [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="\_blank"}{:rel="noopener"}.
+They can also use the [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck?src=start_using_commercial_space/?src=news){:target="\_blank"}{:rel="noopener"} to check if their premises are currently approved for the intended use, or even find out which licences to apply for with this directory of [e-Advisers for Licences](/licences/find-licence-by-sector/?src=news){:target="_blank"}{:rel="noopener"}.
 
 ###### <sup>*</sup>This currently applies only to sole proprietorships and partnerships.
 
@@ -49,7 +49,7 @@ They can also use the [e-Adviser for Premises Use](https://eadviser.gobusiness.g
 
 ![e-Adviser for Government Assistance](/images/news/e-Adviser for Government Assistance.jpg)
 
-It is now even easier to find and apply for the relevant government assistance schemes with these enhancements to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=news){:target="\_blank"}{:rel="noopener"}:
+It is now even easier to find and apply for the relevant government assistance schemes with these enhancements to the [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=news){:target="_blank"}{:rel="noopener"}:
 
 **Improved recommendations** With an enhanced interface, it is now easier to navigate the e-Adviser for Government Assistance. Users can also select sub-sectors for more specific and relevant recommendations.
 

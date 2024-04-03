@@ -14,6 +14,10 @@ Whether you're running the business on your own or with partners, choose the str
 
 {% include accordion.html accordions=site.data.acc083-choose-a-business-structure.accordion %}
 
+### Not sure which business structure to choose?
+
+{% include panels-featurelink.html panels=site.data.rgp010a_business-structure %}
+
 ### How to choose your business structure
 
 Here are some questions to help you decide:
@@ -30,18 +34,6 @@ Here are some questions to help you decide:
 ### Filing Obligations
 
 There will be different filing obligations depending on your business structure. Find out more about [Annual Filing with ACRA](/run-and-grow/annual-returns/) and [Tax Returns Filing with IRAS](/run-and-grow/taxes-and-gst/).
-
-### Not sure which business structure to choose?
-
-There are 2 ways to find out which business structure suits you best:
-
-1.  Use our e-Adviser for Business Structure to get recommendations on the suitable business structure based on your business preferences.
-
-{% include button.html text="Go to e-Adviser for Business Structure" src="https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure" type="primary" %}
-
-{:start="2"}
-
-2.  Download a [Business Structure Comparison Table](/images/start/Types of Business Structures SG 25Nov2021.pdf){:target="_blank"} to find out the differences amongst the different business structures.
 
 ---
 

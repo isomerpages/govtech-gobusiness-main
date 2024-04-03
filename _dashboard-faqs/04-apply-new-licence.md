@@ -1,6 +1,7 @@
 ---
 title: Apply new / amend / renew licence
 permalink: /dashboard-faqs/apply-new-licences/
+third_nav_title: Licences
 ---
 
 ### Apply new / amend / renew licence

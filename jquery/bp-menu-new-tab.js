@@ -4,11 +4,13 @@
 const listOfLinks = [
   "Start Business",
   "Business Grants Portal",
-  "Covid-19",
   "Licences and Permits",
   "For event organisers",
   "For new food service business owners",
-  "Dashboard"
+  "Dashboard",
+  "SkillsFuture for Enterprise",
+  "Intellectual Property",
+  "Skills Development Levy"
 ];
 
 const main = ".bp-menu-list>li>a";

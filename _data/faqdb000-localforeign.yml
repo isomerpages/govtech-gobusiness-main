@@ -1,0 +1,9 @@
+- title: Local users
+  description: For NRIC & FIN holders, or businesses with a UEN.
+  url: /dashboard-faqs/account-access/local-users?src=faqdb_hub
+  text: View questions
+
+- title: Foreign users 
+  description: For users who log into GoBusiness with a "Singpass Foreign Account".
+  url: /dashboard-faqs/account-access/foreign-users?src=faqdb_hub
+  text: View questions

@@ -1,6 +1,7 @@
 ---
 title: Find approved licences
 permalink: /dashboard-faqs/find-approved-licences/
+third_nav_title: Licences
 ---
 
 ### Find approved licences

@@ -8,9 +8,9 @@ permalink: /browse-all-solutions-Building-Construction/3D-Modelling--Immersive-V
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
-This solution is supported by Building and Construction Authority (BCA).
+This solution is supported by BCA.
 
 **Recommended courses**
 
@@ -28,19 +28,19 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1559' target='_blank'>Tekla Solutions</a><br></td>
-<td>Trimble Solutions SEA Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Mttrport-Pro2-3D-SLN-BC' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td>CSG Software Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2500' target='_blank'>SAP2000 Ultimate Suite</a><br></td>
-<td>OTTE INTERNATIONAL PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE-AUTODESK-COLLECTION-BC' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
+<td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2746' target='_blank'>BricsCAD A.I Design Technologies</a><br></td>
-<td>ACA PACIFIC TECHNOLOGY (SINGAPORE) PTE. LTD.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/T11FC0171H-Grphsoft-Archcd-BC' target='_blank'>Graphisoft Archicad</a><br></td>
+<td>Graphisoft Asia Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2885' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Autodsk-Collcton-BC' target='_blank'>CSG - Autodesk Collection</a><br></td>
 <td>CSG Software Pte Ltd</td>
 </tr>
 </table>

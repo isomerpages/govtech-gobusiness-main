@@ -16,15 +16,6 @@ Now that you've registered your business, the next thing you must have to transa
 - Customise digital service access of individual users within the entity
 - Authorise third party service providers to transact on your behalf for selected digital services
 
-There are two ways to register for a Corppass
-Administrator Account:
+### There are two ways to register for a Corppass Administrator Account
 
-1) [Register via GoBusiness](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"};
-        
-- Log in using your Singpass
-        
--  Use the e-Advisor for Starting a Business to create a Guided Journey
-        
-- Apply for Corppass Administrator Account.
-    
-2) [Register via Corppass portal](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2FCorppass%2Fcommon%2Ffindoutmore&amp;TAM_OP=login){:target="_blank"}{:rel="noopener"}
+{% include panels-featurelink.html panels=site.data.rgp010d_corppass-admin %}

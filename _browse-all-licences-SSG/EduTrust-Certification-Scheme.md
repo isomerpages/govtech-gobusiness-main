@@ -10,8 +10,14 @@ SkillsFuture Singapore (SSG)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" type="primary" %}
-
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 <H3>Application Details</H3>
 
 <p>Private education institutions can apply to be certified under the EduTrust Certification Scheme. It is a quality assurance scheme which distinguishes private schools that consistently maintain a high standard of quality in the overall provision of education services and make continual improvements that lead to positive student outcomes.</p>

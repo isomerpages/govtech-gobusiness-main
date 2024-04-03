@@ -1,9 +1,6 @@
 button: false
 title: "Announcement:"
 content: |
-  <p>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.</p>
-  
-text: Log In to Declare Onsite Manpower Details
-href: https://go.gov.sg/covidbusinessresumptions
-target: _blank
-rel: noopener
+  <p>Singapore's COVID-19 situation has remained stable in recent months and the population has developed a high level of hybrid immunity. As such, the MTF has adjusted the current DORSCON level from Yellow to Green w.e.f. 13 February 2023.<br><br>
+  We are in the midst of updating the COVID-19 related guidelines.<br><br>
+  For the latest COVID-19 information, please refer to <a href="https://www.moh.gov.sg" target="_blank" rel="noopener">MOH website</a>.</p>

@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Early-Childhood/E-enrolment-Form
 
 **Support Level and Conditions**
 
-Up to 70% for SMEs, 50% for non-SMEs
+Up to 50% for SMEs, 30% for non-SMEs
 
 This solution is supported by Early Child Development Agency (ECDA).
 
@@ -28,19 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2574' target='_blank'>LittleLives School Management System (e-form)</a><br></td>
-<td>LittleLives Inc Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199905781M-Qoqolo-PrSCH-EForm-EC' target='_blank'>Qoqolo Preschool E-Form</a><br></td>
+<td>CommonTown Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2616' target='_blank'>Taidii Smart E-Form Solution</a><br></td>
-<td>Taidii Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2698' target='_blank'>e-Forms for Preschool Version 1.0</a><br></td>
-<td>Cyberland Consultancy Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3651' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/T14LL1727F-EForm-HAVSCH-v-41-EC' target='_blank'>E-Form (HAVSchool) Version 4.1</a><br></td>
 <td>HAVENCE PORTAL LLP</td>
 </tr>
 </table>

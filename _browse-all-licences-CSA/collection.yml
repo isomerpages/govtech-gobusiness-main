@@ -1,0 +1,13 @@
+collections:
+  browse-all-licences-CSA:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Cybersecurity-Labelling-Scheme-for-IoT--Level-1-.md
+      - Cybersecurity-Labelling-Scheme-for-IoT--Level-2-.md
+      - Cybersecurity-Labelling-Scheme-for-IoT--Level-3-.md
+      - Cybersecurity-Labelling-Scheme-for-IoT--Level-4-.md
+      - Cybersecurity-Labelling-Scheme-for-Medical-Devices--Level-1-.md
+      - Cybersecurity-Labelling-Scheme-for-Medical-Devices--Level-2-.md
+      - Cybersecurity-Labelling-Scheme-for-Medical-Devices--Level-3-.md
+      - Cybersecurity-Labelling-Scheme-for-Medical-Devices--Level-4-.md

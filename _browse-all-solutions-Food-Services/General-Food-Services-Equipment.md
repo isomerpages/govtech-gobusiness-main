@@ -8,9 +8,17 @@ permalink: /browse-all-solutions-Food-Services/General-Food-Services-Equipment
 
 **Support Level and Conditions**
 
-Up to 80% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
+
+**Recommended courses**
+
+
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021005580'  target='_blank' rel='noopener'>1. Practical Skills and Tools to Facilitate Productivity Improvement at Your Workplace</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2022014583'  target='_blank' rel='noopener'>2. Consumer and Sensory Studies for Food Products</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019502180'  target='_blank' rel='noopener'>3. Apply Principles of Food and Beverages Concepts and Setup</a><br>
 
 ## Pre-Approved Solutions
 
@@ -20,31 +28,31 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution79' target='_blank'>High Speed Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dshwshr-Food-Srvcs' target='_blank'>Automated Dishwasher</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution425' target='_blank'>Combi Oven</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Hgh-Spd-Ovn-Food-Srvcs' target='_blank'>High Speed Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2534' target='_blank'>Automated Deep Fryer</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Comb-Ovn-Food-Srvcs' target='_blank'>Combi Oven</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2535' target='_blank'>Blast Chiller</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Noodl-Bolr-Food-Srvcs' target='_blank'>Automated Noodle Boiler</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2536' target='_blank'>Ozonised Air + Surface Sterilization System</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Automtd-Dp-Fryr-Food-Srvcs' target='_blank'>Automated Deep Fryer</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3158' target='_blank'>Automated Dishwasher</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Blst-Chllr-Food-Srvcs' target='_blank'>Blast Chiller</a><br></td>
 <td></td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3159' target='_blank'>Automated Noodle Boiler</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/eqt-Autonomous-Robotc-Srvrs-Food-Srvcs' target='_blank'>Autonomous Robotic Servers</a><br></td>
 <td></td>
 </tr>
 </table>

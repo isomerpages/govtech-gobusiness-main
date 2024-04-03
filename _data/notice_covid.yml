@@ -1,0 +1,10 @@
+show: true
+button: false
+title: "Announcement:"
+content: |
+  <p>All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.</p>
+  
+text: Log In to Declare Onsite Manpower Details
+href: https://go.gov.sg/covidbusinessresumptions
+target: _blank
+rel: noopener

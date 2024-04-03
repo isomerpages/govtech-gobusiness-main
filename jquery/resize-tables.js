@@ -1,39 +1,27 @@
 const customTables = [
   {
     path: "/start-a-business/open-a-corporate-bank-account/",
-    columns: ["32%", "auto"],
+    columns: ["32%", "auto"]
   },
   {
     path: "/contact-us/",
-    columns: ["32%", "auto"],
+    columns: ["32%", "auto"]
   }, 
   {
     path: "/timelimitedrrt/",
-    columns: ["32%", "auto"],
+    columns: ["32%", "auto"]
   }, 
   {
-    path: "/covid-19-faqs/time-limited-rrt-for-workplaces",
-    columns: ["32%", "auto"],
-  },
-  {
     path: "/covid-19-faqs/workplace-safe-management-measures",
-    columns: ["32%", "auto"],
-  },
-  {
-    path: "/licences/find-licence-by-agency/",
-    columns: ["auto", "200px"],
+    columns: ["32%", "auto"]
   },
   {
     path: "/licensing-faqs/food-shop-licence/",
-    columns: ["12%", "70%", "auto"],
+    columns: ["12%", "70%", "auto"]
   },
   {
     path: "/licensing-faqs/food-stall-licence/",
-    columns: ["12%", "70%", "auto"],
-  },
-  {
-    path: "/covid-19-faqs/for-sector-specific-queries/marriage-solemnizations-and-receptions",
-    columns: ["50%", "50%"],
+    columns: ["12%", "70%", "auto"]
   },
   {
     path: "/productivity-solutions-grant/",
@@ -52,8 +40,40 @@ const customTables = [
     columns: ["10%", "auto", "10%"]
   },
   {
-    path: "/business-grants-portal/apply-for-a-bgp-grant/",
-    columns: ["20%", "auto"]
+    path: "/enterprise-innovation-scheme/",
+    columns: ["50%", "auto"]
+  },
+  {
+    path: "/maintenance-notices/",
+    columns: ["35%", "auto"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/sgunited-jobs-and-skills-placement-partners-initiative/",
+    columns: ["30%", "auto"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-series/",
+    columns: ["10%", "20%", "20%", "20%", "20%"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/upgrade-skills/skillsfuture-enterprise-credit/",
+    columns: ["20%", "30%", "30%"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/redesign-jobs/skillsfuture-enterprise-credit/",
+    columns: ["20%", "30%", "30%"]
+  },
+  {
+    path: "/enterprisejobskills/programmes-and-initiatives/recruit-talent/hiring-incentive-enhanced-hiring-incentive/",
+    columns: ["50%","50%"]
+  },
+  {
+    path: "/haze/",
+    columns: ["50%","50%"]
+  },
+  {
+    path: "/energy-efficiency-grant/",
+    columns: ["20%","auto"]
   }
 ];
 

@@ -45,11 +45,6 @@
   email: ema_erl@ema.gov.sg
 
 - title: Enterprise Singapore
-  description: Call Centre - Rice
-  tel: +65 6898 1800
-  email: rice@enterprisesg.gov.sg
-
-- title: Enterprise Singapore
   description: Call Centre - Rubber
   tel: +65 6898 1800
   email: indriyanti_ismail@enterprisesg.gov.sg, vivian_sia@enterprisesg.gov.sg
@@ -194,10 +189,11 @@
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  tel: +65 6848 1439
+  tel: +65 6848 1483, +65 6848 1481
+  email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
 
 - title: Singapore Food Agency (SFA)
-  description: Contact Centre
+  description: Contact Centre<br>(including Rice Licence)
   tel: +65 6805 2871
   url: csp.sfa.gov.sg/feedback
   url-new-tab: true
@@ -213,10 +209,10 @@
   tel: +65 6547 0000
   email: tp_roadclosurepermit@spf.gov.sg
 
-- title: SkillsFuture Singapore Agency (SSG)
-  description: SSG Contact
+- title: SkillsFuture Singapore (SSG)
+  description: SSG Service Portal
   tel: +65 6785 5785
-  url: portal.ssg-wsg.gov.sg/
+  url: service-portal.skillsfuture.gov.sg
   url-new-tab: true
   protocol: https
 
@@ -230,3 +226,10 @@
   description: Customer Service Hotline
   tel: +65 6223 4811
   email: ura_dcd@ura.gov.sg
+
+- title: WorkForce Singapore (WSG)
+  description: WSG Service Portal
+  tel: +65 6883 5885
+  url: service-portal.skillsfuture.gov.sg
+  url-new-tab: true
+  protocol: https

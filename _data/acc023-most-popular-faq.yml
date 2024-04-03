@@ -45,7 +45,7 @@ accordion:
 
   - title: I am not sure which government schemes to apply for. What should I do?
     content: |
-      Find out with [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=most_pop_faq){:target="_blank"}, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
+      Find out with [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=most_pop_faq){:target="_blank"}, a free online tool to help you select the relevant assistance schemes for your business. Simply answer a few questions about your business needs to get our recommendations.
 
   - title: I'm not sure which licences my business needs. How do I get started?
     content: |  

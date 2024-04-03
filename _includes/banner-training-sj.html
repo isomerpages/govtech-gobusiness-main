@@ -1,0 +1,128 @@
+<style>
+[class*="campaigncard"] {
+  font-family: hknova-regular;
+}
+
+.campaigncard__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border: 1px solid #dbdfe4;
+  border-radius: 5px;
+  padding: 24px;
+  padding-left: 10px;
+  max-width: 1140px;
+  margin: auto;
+  font-family: 'HK Nova';
+}
+
+.campaigncard__contents {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .campaigncard__container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .campaigncard__contents {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.campaigncard__img {
+  width: 130px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.campaigncard__img img {
+  width: 100%;
+}
+
+.campaigncard__text {
+  max-width: 600px;
+}
+
+.campaigncard__title {
+  font-family: hknova-semibold;
+  color: #037e8a;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.campaigncard__body {
+  color: #313840;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 0 0 0 0;
+}
+
+#main-content a.epjs-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12.5px 24px;
+    border: 1px solid #037e8a;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #037e8a;
+    font-size: 18px;
+    line-height: 27px;
+    height: 73px;
+    width: 150px;
+    width: -moz-fit-content;
+    cursor: pointer;
+  }
+
+  #main-content a.epjs-btn:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  #main-content a.epjs-btn:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  #main-content a.epjs-btn:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
+
+</style>
+
+<div class="campaigncard__container">
+  <div class="campaigncard__contents">
+    <div class="campaigncard__img">
+      <img src="/images/epjs/panel-icon.png">
+    </div>
+    <div class="campaigncard__text">
+      <p id="status-border" class="tealearly">Early Access</p>
+      <div class="campaigncard__title">{{include.title}}</div>
+      <div class="campaigncard__body">{{include.body}}
+      </div>
+    </div>
+  </div>
+  <div class="campaigncard__CTA">
+    <a href="{{include.url}}" class="epjs-btn" target="_blank" style="margin-bottom: 10px;">Login to Sign Up</a>
+  </div>
+</div>
+
+{% include status-border.html %}

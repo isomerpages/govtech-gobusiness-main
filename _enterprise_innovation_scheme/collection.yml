@@ -1,0 +1,5 @@
+collections:
+  enterprise_innovation_scheme:
+    output: true
+    order:
+      - overview.md

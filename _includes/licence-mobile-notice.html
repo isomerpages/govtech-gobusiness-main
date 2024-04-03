@@ -1,0 +1,116 @@
+ <style>
+  .mobilecontent .mobilepanels {
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: 1fr;
+      margin: 24px 0;
+  }
+
+  .mobilecontent .mobilepanels {
+      display: grid;
+      row-gap: 16px;
+      background-color: #F9FAFA;
+      border: 1px solid #EEF0F2;
+      box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
+      border-radius: 5px;
+      padding: 24px;
+      word-break: break-word;
+      grid-auto-rows: auto;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-image {
+      font-family: hknova-semibold;
+      font-size: 24px;
+      font-weight: 700;
+      width: auto;
+      height: 60px;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-image>img {
+      width: auto;
+      height: 100%;
+      margin: 0;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-title {
+      font-family: hknova-semibold;
+      margin: 0;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-description,
+  .mobilecontent [class*="mobilepanels-"]>div {
+      font-family: hknova-regular;
+      margin: 0;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-links-container {
+      display: grid;
+      row-gap: 8px;
+      height: fit-content;
+      align-self: end;
+  }
+
+  .mobilecontent .mobilepanels .mobilepanels-link {
+      font-size: 18px;
+      line-height: 27px;
+      display: block;
+      margin: 0;
+  }
+
+  /* Desktop view style, hide mobilepanels */
+  @media (min-width: 768px) {
+      .mobilecontent .mobilepanels {
+        display: none;
+      }
+  }
+  
+</style>
+<div class="mobilepanels">
+  {% for mobilepanels in include.panels %}
+  <div class="mobilepanels">
+      {% if {{mobilepanels.label}} %}
+      <div class="mobilepanels-label">{% include label.html label=mobilepanels.label %}</div>
+      {% endif %}
+      {% if mobilepanels.image %}
+      <div class="mobilepanels-image">{{ mobilepanels.image }}</div>
+      {% endif %}
+      <h4 class="mobilepanels-title">{{ mobilepanels.title }}</h4>
+      {% if mobilepanels.description %}
+      <p class="mobilepanels-description">{{ mobilepanels.description }}</p>
+      {% endif %}
+      {% if mobilepanels.tel or mobilepanels.email or mobilepanels.url %}
+      <div class="mobilepanels-links-container">
+          {% if mobilepanels.tel %}
+          <div class="mobilepanels-links-group">
+              {% assign tels = mobilepanels.tel | split: ',' %}
+              {% for tel in tels %}
+              <a class="mobilepanels-link" href="tel:{{ tel }}">{{ tel }}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+          {% if mobilepanels.email %}
+          <div class="mobilepanels-links-group">
+              {% assign emails = mobilepanels.email | split: ',' %}
+              {% for email in emails %}
+              <a class="mobilepanels-link" href="mailto:{{ email }}">{{ email }}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+          {% if mobilepanels.url %}
+          <div class="mobilepanels-links-group">
+              {% assign urls = mobilepanels.url | split: ',' %}
+              {% for url in urls %}
+              <a class="mobilepanels-link"
+                  rel="noopener"
+                  href="{% if mobilepanels.protocol %}{{mobilepanels.protocol}}://{% else %}{% endif %}{{url}}"
+                  target="{% if mobilepanels.url-new-tab %}_blank{% else %}{% endif %}"  rel="noopener">
+                  {% if mobilepanels.text %}{{mobilepanels.text}}
+                  {% else %}{{url}}{% endif %}</a>
+              {% endfor %}
+          </div>
+          {% endif %}
+      </div>
+      {% endif %}
+  </div>
+  {% endfor %}
+</div>

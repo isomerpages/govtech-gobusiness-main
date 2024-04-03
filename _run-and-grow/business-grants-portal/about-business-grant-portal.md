@@ -22,10 +22,10 @@ The Business Grants Portal (BGP) brings government grants for businesses into on
 
 There are nine grants you can apply for on BGP, each meant to support different sectors and needs:
 
-- [Productivity Solutions Grant](/productivity-solutions-grant/?src=run&grow_bgp)
-- [Energy Efficiency Grant](/energy-efficiency-grant/?src=run&grow_bgp)
-- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview){:target="_blank"}
-- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant){:target="_blank"}
+- [Productivity Solutions Grant](/productivity-solutions-grant/?src=rungrow-bgp)
+- [Energy Efficiency Grant](/energy-efficiency-grant/?src=rungrow-bgp)
+- [Market Readiness Assistance](https://www.enterprisesg.gov.sg/financial-support/market-readiness-assistance-grant){:target="_blank"}
+- [Enterprise Development Grant](https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant){:target="_blank"}
 - [Business Improvement Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html){:target="_blank"}
 - [Experience Step-Up Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html){:target="_blank"}
 - [Aviation Development Fund](https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund){:target="_blank"}
@@ -36,7 +36,7 @@ There are nine grants you can apply for on BGP, each meant to support different 
 Get recommendations on suitable grants for your business with just a few steps on our e-Adviser for Government Assistance:
 
 <p>
-{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=run&grow_bgp" type="primary" %}
+{% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist?src=run&grow_bgp" type="primary" %}
 </p>
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for.

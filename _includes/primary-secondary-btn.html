@@ -1,0 +1,80 @@
+<style>
+  #main-content a.ps-primary-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12.5px 24px;
+    border: 1px solid #037e8a;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #037e8a;
+    font-size: 18px;
+    line-height: 27px;
+    height: 52px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+
+  #main-content a.ps-primary-btn:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  #main-content a.ps-primary-btn:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  #main-content a.ps-primary-btn:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
+
+  #main-content a.ps-secondary-btn {
+    font-family: hknova-semibold;
+    font-weight: 600;
+    text-decoration: none;
+    color: #037E8A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #b3d8dc;
+    box-sizing: border-box;
+    border-radius: 3px;
+    background-color: #fafdfd;
+    font-size: 18px;
+    line-height: 27px;
+    color: #037e8a;
+    height: 52px;
+    width: fit-content;
+    width: -moz-fit-content;
+    cursor: pointer;
+    padding: 12.5px 24px;
+  }
+
+  #main-content a.ps-secondary-btn:hover {
+    border: 1px solid #026770;
+    color: #026770;
+  }
+
+  #main-content a.ps-secondary-btn:active {
+    border: 1px solid #025b63;
+    color: #025b63;
+  }
+
+  #main-content a.ps-secondary-btn:focus {
+    outline: 2px solid #1c8b95;
+  }
+</style>
+
+<div style="overflow: hidden;">
+  <div style="float: left; margin-right:20px;"> <a class="ps-primary-btn" href="{{include.pri_href}}" target="{{include.pri_target}}" rel="{{include.pri_rel}}">{{include.pri_text}}</a>  </div>
+  <div> <a class="ps-secondary-btn" href="{{include.sec_href}}" target="{{include.sec_target}}" rel="{{include.sec_rel}}">{{include.sec_text}}</a> </div>
+</div>
+ 

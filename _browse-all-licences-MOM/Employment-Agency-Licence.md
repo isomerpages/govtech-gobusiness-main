@@ -10,7 +10,14 @@ Ministry of Manpower (MOM)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" type="primary" %}
+{% include licence-apply-button.html %}
+<a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>
+<div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-size: 18px; color: #313840;">
+<img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;">
+<span style="font-weight: bold; font-family: hknova-bold; font-size: 18px; ">Please use desktop / laptop to apply for this licence.</span><br>
+<span style="font-family: hknova-regular;">You can only view application details and make payment via mobile. Please use GoBusiness Licensing on desktop to use all features.</span><br><br>
+<a id="mobileNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" target="_blank" rel="noopener">Continue to GoBusiness Licencing anyway</a>
+</div>
 
 <H3>Application Details</H3>
 
@@ -56,7 +63,9 @@ Ministry of Manpower (MOM)
  <li><Strong>How do I register to attend the Certificate of Employment Intermediaries (CEI) Course?</Strong><br>
  The CEI (Basic) and CEI (KAH) courses are conducted by Absolute Kinetics Consultancy Pte Ltd, Grace Management & Consultancy Services Pte Ltd and Singapore Polytechnic. EA personnel may choose from any of the course provider and may register with them directly. For further information of the course, please visit the <a href="http://www.mom.gov.sg/foreign-manpower/employment-agencies/Pages/CEI.aspx" target="_blank" rel="noopener">CEI website</a>.<br>
  The CEI Test Administrator for both the CEI (Basic) and CEI (KAH) is the NTUC LearningHub Pte Ltd. EA personnel sitting for the test must register directly with the Test Administrator.</li>
+ </ol>
  <p><u>Declaration of Affiliation</u></p>
+ <ol>
  <li><Strong>Do I need to declare affiliation?</Strong><br>
  You are required to declare your affiliation with family member(s) (i.e. Parent, Sibling, Spouse, Child, Parent-in-law, Son-in-law and Daughter-in-law) who are also holding key positions in an EA. Failing to declare your affiliation is a breach in the Employment Agency Licence Condition. Enforcement and administrative actions may be taken against you.</li>
  <li><Strong>Do I have to declare if I am already holding an existing licence? Or is this requirement only for new entrants?</Strong><br>

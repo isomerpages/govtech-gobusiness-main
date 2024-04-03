@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - overview.md
+      - all-eeg-equipment.md
       - faq.md

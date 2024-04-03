@@ -35,7 +35,7 @@ You may refer to more detailed guidelines by IRAS for [taxation matters](https:/
 <a name="gov_grants_n_assistance"></a>
 ### Government Grants and Assistance
 
-From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness can help you find the government assistance you need. Find out with [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist/?src=hbb){:target="_blank"}{:rel="noopener"}, a free online tool to help you select the relevant assistance schemes for your business.
+From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness can help you find the government assistance you need. Find out with [e-Adviser for Government Assistance](https://eadviser.gobusiness.gov.sg/govassist?src=hbb){:target="_blank"}{:rel="noopener"}, a free online tool to help you select the relevant assistance schemes for your business.
 
 Below are some government support schemes that you may find useful. This list is not exhaustive and serves as a guide.
 

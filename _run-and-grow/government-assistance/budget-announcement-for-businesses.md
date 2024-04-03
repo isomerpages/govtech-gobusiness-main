@@ -1,48 +1,30 @@
 ---
-title: Budget 2022
+title: Budget 2024
 permalink: /gov-assist/budget-announcement-for-businesses/
 third_nav_title: Government Assistance
-description: Budget 2022 for Businesses
+description: Budget 2024 for Businesses
 ---
 
-## Budget 2022
+## Budget 2024
 
-Minister for Finance, Mr Lawrence Wong, delivered Singapore's FY2022 Budget Statement on Friday, 18 February 2022 at 3.30pm in Parliament.
+Deputy Prime Minister and Minister for Finance, Mr Lawrence Wong, delivered Singapore’s FY2024 Budget Statement on Friday, 16 February 2024 at 3.30pm in Parliament.
 
 Find out which schemes you may be eligible for, and how you can apply for them in the links below.
 
-- Download the [Budget 2022 Business Booklet](/images/budget2022/MTI Business Budget Booklet 2022_Final.pdf){:target="_blank"}.
+- Download the [Budget 2024 Business Booklet](/images/budget2024/MTI Business Budget Booklet 2024_21 Mar.pdf){:target="_blank"}{:rel="noopener"} 
+- Download the [Budget 2024 - Budget Navigator (for Businesses)](/images/budget2024/Budget Navigator (for Businesses) 2024.pdf){:target="_blank"}{:rel="noopener"} 
 
-- Download the [Budget 2022 - Budget Navigator (for Businesses)](/images/budget2022/Budget Navigator - for Businesses.pdf){:target="_blank"}.
+Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2024.
 
-Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2022.
+<b>Stay Tuned: More information related to Budget 2024 for Businesses will be updated here progressively.</b>
 
-#### List of Government Assistance related schemes:
-
-#### Grants
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="a" %}
-
-#### Loans
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="b" %}
-
-#### Toolkits / Programmes
-
-{% include letter-accordion.html accordions=site.data.acc074-budget-2022 letter="c" %}
+{% include subscribe-mailer.html title="Want to be notified when this page is updated?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 
 ### Find relevant schemes for your businesses
 
-Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance, now updated with the latest Budget 2022 support schemes and programmes.
+Simply answer a few questions about your business needs to get our recommendations from our e-Adviser for Government Assistance.
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="https://eadviser.gobusiness.gov.sg/govassist/?src=rungrow_overview" type="primary" %}
-
----
-
-### Budget 2022 for citizens
-
-{% include panels.html panels=site.data.budget_related_links %}
-
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

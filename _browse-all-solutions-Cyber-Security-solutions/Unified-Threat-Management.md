@@ -6,9 +6,18 @@ permalink: /browse-all-solutions-Cyber-Security-solutions/Unified-Threat-Managem
 ## Unified Threat Management
 ## Overview
 
+**Description**
+
+Unified Threat Management (UTM) is a converged platform of point security products, particularly suited to small and middle-sized businesses. 
+
+Typical feature sets fall into three main subsets: 
+(a) firewall/intrusion prevention system (IPS)/virtual private network; 
+(b) secure Web gateway security (URL filtering, Web antivirus [AV]); and 
+(c) messaging security (anti-spam, mail AV).
+
 **Support Level and Conditions**
 
-Up to 70% for SMEs, N.A. for non-SMEs
+Up to 50% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -28,68 +37,44 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution4' target='_blank'>Netpluz Managed Firewall </a><br></td>
-<td>Netpluz Asia Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201934693K-Invsron-Cybr-Dfnc-G' target='_blank'>Invisiron Cyber Defence</a><br></td>
+<td>Invisiron Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1823' target='_blank'>Adventus Managed Firewall - Fortinet </a><br></td>
-<td>Adventus Singapore Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
+<td>Zebedee Solution Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1832' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F</a><br></td>
-<td>DATA CONNECT TECHNOLOGIES PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-SLN-G' target='_blank'>Managed Firewall Solution</a><br></td>
+<td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1932' target='_blank'>Fortinet Fortigate (Next Generation Firewall)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>
 <td>AWECREATION PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2402' target='_blank'>Eminet Sophos XGS Firewall</a><br></td>
-<td>EMINET PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2418' target='_blank'>Fortigate Firewall for IT Security or VPN - CARE IT</a><br></td>
-<td>Computer Analysts and Recovery Experts Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2528' target='_blank'>Sonicwall Firewall with 1 Year EPSS, NSM and VPN Version 1</a><br></td>
-<td>Nucleo Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2560' target='_blank'>Network Box Next Generation Managed Security Version 5.5</a><br></td>
-<td>Network Box (Sin) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2618' target='_blank'>Firewalla Gold Package</a><br></td>
-<td>Anzen Global Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2666' target='_blank'>Singtel-Fortinet Unified Threat Management Version 1</a><br></td>
-<td>Singapore Telecommunications Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2722' target='_blank'>Firewall Security Protection</a><br></td>
-<td>Rah Tech Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2769' target='_blank'>Roycemedia Cybersecurity-Firewall</a><br></td>
-<td>Roycemedia Technologies Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2836' target='_blank'>Sophos Firewall</a><br></td>
-<td>Centrics Networks Ptd Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3054' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
-<td>Juss Solutions Group Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3131' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/199700517K-SPTlFortntMngd-Frwll-SLNs-G' target='_blank'>SPTel-Fortinet-Managed Firewall Solutions</a><br></td>
 <td>SPTEL PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3533' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
-<td>Zebedee Solution Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201214085K-Chckpont-SMB-Scurty-Sut-v-10-G' target='_blank'>Checkpoint SMB Security Suite Version 1.0</a><br></td>
+<td>Nucleo Consulting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202119271G-Csco-Mrk-Unfd-Thrt-MGT-v-FS20230315-G' target='_blank'>Cisco Meraki Unified Threat Management Version FS20230315</a><br></td>
+<td>Contfinity Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201402872W-Ntwork-Box-Nxt-Gnrton-Mngd-Scurty-G' target='_blank'>Network Box Next Generation Managed Security</a><br></td>
+<td>NETWORK BOX (SIN) PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
+<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Stormshld-UTM-Frwll-Scurty-G' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
+<td>Juss Solutions Group Pte Ltd</td>
 </tr>
 </table>
 
