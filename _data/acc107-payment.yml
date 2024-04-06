@@ -1,9 +1,9 @@
 accordion:
   - title: What payment modes do you accept?
     content: |
-      GoBusiness Dashboard currently accepts VISA and MasterCard. We are working to add more payment methods in the future. 
+      GoBusiness Dashboard currently accepts VISA, MasterCard, and American Express credit and debit cards. 
 
-      Check with the licensing agency if you are able to make payment for your licences at the respective government agency headquarters, if you prefer.
+      Certain licences accept offline payment methods. For more details, please check with the respective licensing agency.
 
   - title: Why do some applications require more than one payment?
     content: |
@@ -41,7 +41,7 @@ accordion:
 
       A tax invoice will also be sent to your email.
 
-      Tax invoices will only be generated for successful transactions, and the invoice might take some time to appear on the payment history page."
+      Tax invoices will only be generated for successful transactions, and the invoice might take some time to appear on the payment history page.
       
       
       
