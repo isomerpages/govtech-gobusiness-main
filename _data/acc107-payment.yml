@@ -21,6 +21,7 @@ accordion:
     content: |
       Please verify your payment details and try again. If you are still having issues, you can try the following:
 
+      - Use a different payment method
       - Make payment at a later time
       - Make payment on a different browser
       - Check your proxy settings
@@ -34,11 +35,13 @@ accordion:
 
   - title: Where can I find the tax invoice for my application?
     content: |
-      You can download your tax invoice on the payment confirmation page, once you have made payment.
+      You can download your tax invoice from the following pages: 
+      - Payment confirmation page, once you have made payment.
+      - [Payment history page.](https://www.dashboard.gobusiness.gov.sg/paymenthistory)
 
-      A tax invoice will also be attached to the reciept sent to your email.
-      
-      
+      A tax invoice will also be sent to your email.
+
+      Tax invoices will only be generated for successful transactions, and the invoice might take some time to appear on the payment history page."
       
       
       
