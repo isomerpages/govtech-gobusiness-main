@@ -13,7 +13,7 @@ George has been commissioned by World Intellectual Property Organisation and pre
 
 He is the co-chair of Copyright Committee, LESI.
 
-Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and Belgium. He speaks English, French and Chinese.
+Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and the Belgium. He speaks English, French and Chinese.
 
 <b>Year established in Singapore:</b> 2012
 
@@ -23,7 +23,7 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and Bel
 
 <b>Address in Singapore:</b> 52 Kent Road, #06-21, Singapore 210052
 
-<b>Website:</b> <a href='https://georgehwangllc.com' target='_blank' rel='noopener'>https://georgehwangllc.com</a>
+<b>Website:</b> <a href='https://georgehwangllc.com'>https://georgehwangllc.com</a>
 
 <a class='btn' href='https://form.gov.sg/65dc2d40fb3b748399692075' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -77,7 +77,7 @@ Besides Singapore, George has worked in Hong Kong, Bulgaria, the Bahamas and Bel
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel- ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>

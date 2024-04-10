@@ -5,57 +5,42 @@ permalink: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/securit
 
 ### Implement job redesign to create quality and meaningful careers in the Security Industry
 
-The Security Productivity Initiative (SPI) was introduced in September 2017 as part of WSG's efforts to support the Security Industry Transformation Map (ITM). With a structured Job Redesign (JR) Framework, the SPI aims to guide and support security organisations in workforce transformation through job redesign and human capital development.
+The Security Productivity Initiative (SPI) is part of WSG’s efforts to support the Security Industry Transformation Map (ITM). With a structured Job Redesign (JR) Framework, the SPI aims to <u>guide companies to become manpower-lean with security technology adoption, job redesign and adoption of human capital best practices.</u>
 
-As the Security Industry transforms itself to deliver advanced services through adopting technology and better security outcomes, the SPI will further encourage security organisations to develop your security personnel, as well as create better and quality jobs to sustain the changes in your business operations.
+Since the implementation of the Security ITM, the Security Industry has been transforming to deliver advanced services through technology adoption and better security outcomes. This encourages companies to further develop their security personnel and to create better and quality jobs in order to sustain the changes in business operations.  
 
 ---
 
 ### Who is this for:
 
-The SPI is for security organisations who are keen to create quality jobs and meaningful careers for your workforce through job redesign. Security service buyers may also benefit from the strategies and resources related to Outcome-Based Contracting (OBC).
+The SPI is for security companies who are keen to create quality jobs and meaningful careers for their workforce through job redesign. Security service buyers may also benefit from the strategies and resources related to Outcome-Based Contracting (OBC).
+
+For more information and resources on Security outcome-based contracting, please click <a href="https://www.police.gov.sg/Advisories/Security-Outcome-Based-Contracting/Security-Outcome-Based-Contracting" target="_blank" rel="noopener">here</a>
 
 ---
 
 ### How you can benefit:
 
-- Implement job redesign solutions to enhance productivity and security outcomes
+- Self-Help Guide for companies on job redesign techniques to enhance productivity and security outcomes
 
-- Equip employees with the right skills to support your business transformation
+- Government funding to help companies redesign job roles and reskill their workforce as part of business transformation
 
-- Attract and retain talent through redesigned, quality job roles and progressive human capital (HC) practices
 
 ---
 
 ### Implementation resources:
 
-The following resources are available to help you embark on and sustain job redesign efforts. Those requiring funding support can access the list of government support programmes through the "Guide to Security Workforce Transformation", or get in touch with WSG via the contact information provided below.
+The <a href="https://www.form.gov.sg/5ba20e96ec6d40000f3bfd77" target="_blank" rel="noopener">Guide for Security Workforce Transformation</a> includes comprehensive self-help resources to guide companies in JR techniques, as well as methodologies to transform their workforce. The guide can be downloaded after filling up a form on the website.
 
-- Guide for Security Workforce Transformation includes comprehensive self-help resources to guide you in JR techniques, as well as methodologies to transform your workforce
-
-- Job Redesign Workshop aims to guide security organisations in adopting technology solutions, redesigning jobs and improving HC practices
+You may also get in touch with WSG via the contact information provided below.
 
 ---
 
 ### Subsidies and funding:
 
-- Up to 80% funding, capped at S$30,000 per organisation under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities
+- From 1 April 2024, eligible companies will receive up to 50% (for SMEs) and 30% (for non-SMEs), capped at $30,000 per company, under the <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" rel="noopener">Support for Job Redesign under Productivity Solutions Grant (PSG-JR)</a> to work with pre-approved consultants to redesign work processes, tasks and responsibilities.
 
-- Participating companies will receive up to 80% funding, capped at S$30,000 per organisation till 31 May 2022. Thereafter, the PSG-JR funding rate will revert back to up to 70%, capped at S$30,000 per organisation.
-
-- Up to 90% funding for course fees and salary support under the Job Redesign Reskilling Programme for Security Officers (SOs) to redesign SO's job roles and reskill them for more effective operations on OBC sites
-
-{% include secondary-btn.html href="https://www.wsg.gov.sg/programmes-and-initiatives/security-productivity-initiative.html" text="Read More" target="_blank" rel="noopener" %}
-
----
-
-### Resources
-
-- <a href="https://www.form.gov.sg/#!/5ba20e96ec6d40000f3bfd77" target="_blank" rel="noopener">Guide for Security Workforce Transformation</a>
-
----
-
-Apply at [WSG_Biz_Service@wsg.gov.sg](mailto:WSG_Biz_Service@wsg.gov.sg)
+- Up to 90% salary support funding under the Career Conversion Programme (CCP) for Security Officers (SOs) to redesign SO’s job roles and reskill them for more effective operations on sites.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

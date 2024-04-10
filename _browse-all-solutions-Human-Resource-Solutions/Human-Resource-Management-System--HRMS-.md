@@ -60,10 +60,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Net Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G' target='_blank'>Payboy HRMS</a><br></td>
-<td>Payboy Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-SYNERGIX-v-TH6-G' target='_blank'>SYNERGIX Version TH6</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
