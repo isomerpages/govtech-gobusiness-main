@@ -23,7 +23,6 @@ Singapore Police Force (SPF)
 
 <p>Under the Massage Establishments (ME) Act, a ME licence is required if any premises is used or intended to be used for the receiption or treatment of persons seeking massage, unless otherwise exempted. Massage is defined as the act of rubbing, kneading, or manipulating the human body or any part of it, by any person (whether or not using any hand-held equipment), for the purpose of relaxing muscle tension, stimulating circulation, increasing suppleness or otherwise.</p>
 
-
 <h3>FAQ</h3>
 
 <ol>
