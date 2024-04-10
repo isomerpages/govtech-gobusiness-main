@@ -11,12 +11,12 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
     
-                                                  
+| 11 Apr, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |           
+| 3 May, 3pm - 4 May, 8am<br>4 May, 5pm - 5 May, 8am<br>23 May, 6pm - 27 May, 8am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |             
+
+
+
  
-| 27 Mar, 4pm - 5:30pm | **GoBusiness Dashboard** will be unavailable due to scheduled maintenance. Some services may not be available during this period. |       
-| 27 Mar, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |    
-| 27 Mar, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |                
-| 27 Mar, 8pm - 11pm | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |   
 
 
 

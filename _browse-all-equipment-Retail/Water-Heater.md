@@ -1,14 +1,27 @@
 ---
 title: 'Water Heater'
-permalink: /energy-efficiency-grant/solutionrepo/Water-Heater
+permalink: /browse-all-equipment-Retail/Water-Heater
 ---
 
 ## Water Heater
 
 ### Technical Requirements
 
-Heat pump technology 
+- Heat pump technology
 
+Note: After 1st April 2025, MELS/MEPS for household water heaters to be implemented. The technical criteria will be reviewed in 4Q2024.
+
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
 ### Pre-Approved Equipment Brands and Models
 

@@ -1,16 +1,30 @@
 ---
 title: 'Refrigerator'
-permalink: /energy-efficiency-grant/solutionrepo/Refrigerator
+permalink: /browse-all-equipment-Retail/Refrigerator
 ---
 
 ## Refrigerator
 
 ### Technical Requirements
 
-Household refrigerator: Minimum 3-ticks and using refrigerant with GWP = 15
+- Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
 
-Commercial refrigerator: Inverter technology
+- Commercial refrigerator: Inverter technology
 
+Note: From 1st April 2025,  MEPS/MEPS to be implemented for commercial storage refrigerators. The technical criteria will be reviewed in 4Q2024.
+
+
+### Mode and Schedule of Payment 
+
+- Direct Purchase
+- Hire Purchase
+- Lease
+
+### Support Level and Conditions
+
+Up to 70% for SMEs, 30% for non-SMEs
+
+Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}
 
 ### Pre-Approved Equipment Brands and Models
 
@@ -864,11 +878,13 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUF-K1261SB
 - Panasonic - SUF-K1261SB-R
 - Panasonic - SUF-K1271B
+- Panasonic - SUF-K1271SB
 - Panasonic - SUF-K1271SB-R
 - Panasonic - SUF-K1561B
 - Panasonic - SUF-K1561SB
 - Panasonic - SUF-K1561SB-R
 - Panasonic - SUF-K1571B
+- Panasonic - SUF-K1571SB
 - Panasonic - SUF-K1571SB-R
 - Panasonic - SUF-K1861SB
 - Panasonic - SUF-K1861SB-R
@@ -898,6 +914,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUR-K1271B
 - Panasonic - SUR-K1271CB
 - Panasonic - SUR-K1271CB-R
+- Panasonic - SUR-K1271SB
 - Panasonic - SUR-K1271SB-R
 - Panasonic - SUR-K1561B
 - Panasonic - SUR-K1561CB
@@ -905,6 +922,7 @@ Commercial refrigerator: Inverter technology
 - Panasonic - SUR-K1561SB
 - Panasonic - SUR-K1561SB-R
 - Panasonic - SUR-K1571B
+- Panasonic - SUR-K1571SB 
 - Panasonic - SUR-K1571CB
 - Panasonic - SUR-K1571CB-R
 - Panasonic - SUR-K1571SB-R
@@ -925,6 +943,9 @@ Commercial refrigerator: Inverter technology
 - Polariz - PGR-500-TA-EC
 - PowerPac - PPBF555A
 - PRISM+ - FT4201SABI
+- PRISM+ - FT3301SABI
+- PRISM+ - FT4201GAGB
+- PRISM+ - FT4201SAIN
 - Ryker - TF24101
 - Samsung - RB34T6054B1
 - Samsung - RB45DG600EB1
@@ -1016,6 +1037,16 @@ Commercial refrigerator: Inverter technology
 - SHARP - SJ-VX57ES-DS
 - SHARP - SJ-VX57PG-BK
 - SHARP - SJ-VX57PG-DM
+- Singmah - LGZ-150W
+- Singmah - LD-460W
+- Singmah - LG-960M2WP
+- Singmah - LG-882M2W
+- Singmah - LG-882M2WP
+- Singmah - LG-1000M2WP
+- Singmah - LG-1200M3WP
+- Singmah - LG-1400M3WP
+- Singmah - LG-1800M4WP
+- Singmah - WD4-297H
 - SMEG -  FAB5LBL5
 - SMEG -  FAB5LCR3
 - SMEG -  FAB5LCR5
@@ -1382,6 +1413,10 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-022FS-IVTH
 - YUDA - YD-022FS-IVTH-BK
 - YUDA - YD-022FS-IVTH-BK-FD
+- YUDA - YD-022GDC-UN-BB-IVT
+- YUDA - YD-023GDC-UN-BB-IVT
+- YUDA - YD-022GDC-BB-IVT
+- YUDA - YD-023GDC-BB-IVT
 - YUDA - YD-1GDF-UN-B
 - YUDA - YD-1GDF-UN-W
 - YUDA - YD-2GDC-IVT
@@ -1430,16 +1465,6 @@ Commercial refrigerator: Inverter technology
 - YUDA - YD-X80FIF-BG-IVT
 - Yuda - YD-X80FIF-IVT
 
-### Mode and Schedule of Payment 
 
-- Direct Purchase
-
-### Support Level and Conditions
-
-Up to 70% for SMEs, N.A. for non-SMEs
-
-Only for businesses within the Food Services, Food Manufacturing or Retail sectors.
-
-Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [https://www.enterprisesg.gov.sg/eeg](https://www.enterprisesg.gov.sg/eeg){:target='_blank'}{:rel='noopener'}
 
 <script src='/jquery/resize-tables.js'></script>
