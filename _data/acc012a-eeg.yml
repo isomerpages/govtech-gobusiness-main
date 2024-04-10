@@ -3,26 +3,18 @@
   data:
     - title: What is the Energy Efficiency Grant?
       content: |
-        The Energy Efficiency Grant (EEG) helps businesses transition towards being more energy efficient through co-funding support to invest in energy-efficient equipment.
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
 
-    - title: Why did the Government develop the Energy Efficiency Grant (EEG)? 
-      content: |
-        The Energy Efficiency Grant aims to support businesses in their sustainability journey by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. 
-
-    - title: What is the objective of the EEG?
-      content: |
-        The Energy Efficiency Grant (EEG) aims to help businesses to adopt energy-efficient  equipment. The expanded EEG will streamline EEG applications for all sectors under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
-
-    - title: Will the Government consider expanding the Energy Efficiency Grant to more sectors?
+    - title: Which sectors are covered by the EEG?
       content: |
         As announced at Budget 2024, the EEG will be expanded to more sectors. From 1 April 2024, companies in the Manufacturing, Food Services and Retail sectors<sup>1</sup> can apply for the EEG. We will further expand EEG to cover maritime, construction, data centres and their users by end 2024. More information will be available in due course.
 
-        <sup>1</sup> Based on company’s ACRA registered SSIC code.
+        <sup>1</sup>Based on company’s ACRA registered SSIC code.
 
 - accordion:
   letter: b
   data:
-    - title: What is the eligibility criteria for EEG (Base)?
+    - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
         - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail sector as defined below;
@@ -32,9 +24,11 @@
         <br><br>
         - Has a minimum of 30% local shareholding,
         - Employ at least one local employee at the firm-level
-        - Has a Group Annual Sales Turnover no more than S$500 million
+        - Has a Group Annual Sales Turnover no more than S$500 million<sup>3</sup>
 
-        Note that SME is defined as having:
+         <sup>2</sup>Companies may be requested to furnish supporting documents as part of the grant application process.
+
+        <sup>3</sup>SME is defined as having:
         - <b>Group Annual Sales Turnover</b> of no more than S$100 million; <b><u>or</u></b>
         - <b>Group Employment Size</b> of not more than 200 workers
 
@@ -48,9 +42,9 @@
       content: |
         The grant application window for the EEG (Base) is from 1 April 2024 to 31 March 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>2</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>4</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
 
-        <sup>2</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
+        <sup>4</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: How to apply for the EEG (Base)?
       content: |
