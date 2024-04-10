@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
-<td>EPOS Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200706756M-Eurostop-OmnChnnl-Rtl-MGT-Systm-v-10-G' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>
 <td>Eurostop Singapore Pte Ltd</td>
 </tr>
@@ -86,6 +82,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202013665N-SHOPLINE-Smrt-Rtl-MGT-POS-v-20-G' target='_blank'>SHOPLINE Smart Retail Management POS Version 2.0</a><br></td>
 <td>Shopline Commerce Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201529028W-EPOS-Enhncd-POS-v-20-G' target='_blank'>EPOS Enhanced POS Version 2.0</a><br></td>
+<td>EPOS Pte. Ltd.</td>
 </tr>
 </table>
 

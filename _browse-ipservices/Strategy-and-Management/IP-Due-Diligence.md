@@ -290,22 +290,6 @@ A full-service law firm that provides legal advice on corporate, IP, family, and
 
 ---
 
-#### Firefish Branding
-
-Since 1998, Firefish is an award-winning branding agency and consultancy headquartered in Singapore.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $20,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Get a complimentary consultation</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/firefish-branding/){:target='_blank'}
-
----
-
 #### MOI Law Corporation
 
 A boutique law firm specialising in IP, media, entertainment, technology, business and consumer laws.
@@ -609,6 +593,36 @@ Deloitte is a leading specialist in Intellectual Property Advisory with a broad 
 </ul>
 
 <a class='btn' href='https://form.gov.sg/6565ab82991ea30012d09901' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/deloitte-touche-financial-advisory-services-pte-ltd/){:target='_blank'}
+
+---
+
+#### Singapore FOZL Group Pte Ltd
+
+Since 2011, FOZL Group operate and served over 1000 companies to set up their companies in Singapore.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> NA</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/singapore-fozl-group-pte-ltd/){:target='_blank'}
+
+---
+
+#### hslegal LLP
+
+Our focus is to protect, enforce and commercialize our clients' intellectual property assets.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> -</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects on database in previous calendar year:</b> 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $1,000</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/hslegal-llp/){:target='_blank'}
 
 ---
 

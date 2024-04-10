@@ -34,10 +34,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201721766E-Applvon-Odoo-G' target='_blank'>Applivon - Odoo</a><br></td>
-<td>Applivon Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-&-Sls-MGT-Systm-G' target='_blank'>MuRho Inventory Management & Sales Management System</a><br></td>
 <td>MuRho Pte Ltd </td>
 </tr>
@@ -54,8 +50,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SF TECHNOLOGIES PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201915635R-Odoo-Entrprs-v-16-G' target='_blank'>Odoo Enterprise Version 16</a><br></td>
-<td>PORT CITIES SINGAPORE PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/200208117Z-MuRho-Invntory-MGT-nd-Sls-MGT-Systm-G' target='_blank'>MuRho Inventory Management and Sales Management System</a><br></td>
+<td>MURHO PTE LTD</td>
 </tr>
 </table>
 

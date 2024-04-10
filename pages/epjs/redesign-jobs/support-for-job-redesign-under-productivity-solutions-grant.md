@@ -36,9 +36,9 @@ Developed by WSG as part of the enhancement to the existing Productivity Solutio
 
 -	Your organisation must be registered or incorporated and operating in Singapore
 -	You must have at least 3 local employees at the point of application
--	At the point of application, you must not have:
-o	Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and
-o	Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service
+-	At the point of application, you must not have: 
+i) Made any payment to a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service; and 
+ii) Signed or confirmed any contract or purchase order with a pre-approved JR consultant or third party in relation to the engagement of JR-related consultancy service
 
 ---
 
