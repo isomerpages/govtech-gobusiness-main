@@ -36,7 +36,7 @@
       content: |
         The list of EEG equipment supported can be found on [GoBusiness](/energy-efficiency-grant/).
 
-        Companies who wish to submit equipment models for selected categories can do so via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"}. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
+        Companies can submit equipment models under selected categories via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"} to be considered for support. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
 
     - title: What is the duration of the EEG (Base)?
       content: |
@@ -48,10 +48,9 @@
 
     - title: How to apply for the EEG (Base)?
       content: |
-        <u>For Manufacturing Companies</u><br>
+        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
         Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
         To apply for the EEG (Base), manufacturing companies will have to:
-        
         i. Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
         ii. Obtain quotations from the vendor.<br>
         iii. Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
@@ -59,15 +58,14 @@
         <u>For Food Services and Retail Companies</u><br>
         Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.<br>
         To apply for the EEG (Base), companies will have to:
-
         i. Visit GoBusiness to access the list of supported equipment brands and models. <br>
         ii. Obtain quotations from the vendor.  <br>
         iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.
 
     - title: How to claim for the EEG (Base)? 
       content: |
-        <u>For Manufacturing Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
+        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
         To claim for the EEG (Base), manufacturing companies will have to ensure:
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
@@ -128,14 +126,14 @@
 
         For Manufacturing companies, you may wish to visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
 
-    - title: Who can I contact for CorpPass assistance?
+    - title: How can I enquire for CorpPass assistance?
       content: |
         E: <a title="" href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a><br>
         T: [+65 6643 0577](tel:+6566430577)
 
         The operating hours are from 8:00 am to 8:00 pm (Mondays to Fridays) and from 8:00 am to 2:00 pm (Saturdays).
 
-    - title: Who can I contact for Business Grants Portal assistance?
+    - title: How can I enquire for Business Grants Portal assistance?
       content: |
         Enquiry Form: [go.gov.sg/bgphelpdesk](https://go.gov.sg/bgphelpdesk){:target="_blank"}{:rel="noopener"}<br>
         T: [+65 6708 7288](tel:+6567087288)
