@@ -6,10 +6,6 @@ permalink: /browse-all-solutions-ERP-and-Standalone-solutions/CRM
 ## Customer Relationship Management (CRM)
 ## Overview
 
-**Description**
-
-Offers ability to track all sales leads, assign to sales reps, setup sales targets, generate quotations, setup customers and generate detailed sales reports.
-
 **Support Level and Conditions**
 
 Up to 50% for SMEs, N.A. for non-SMEs
@@ -32,64 +28,48 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution183' target='_blank'>1SME</a><br></td>
-<td>Bona Technologies Systems Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution215' target='_blank'>CARDDIO Version 1</a><br></td>
-<td>Carddio Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution270' target='_blank'>Crystal Dash CRM</a><br></td>
-<td>Crystal Net Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution310' target='_blank'>Eber Smart Members Solution</a><br></td>
-<td>Eber Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution371' target='_blank'>FirstCRM</a><br></td>
-<td>Firstcom Solutions Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution373' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
-<td>FLAVOR PTE. LTD.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution714' target='_blank'>WEB360 Version 2.0.0</a><br></td>
-<td>Quality Zone Technologies Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution715' target='_blank'>QuickDesk Marketing</a><br></td>
-<td>QuickDesk Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution854' target='_blank'>TWCSS - teamWork CRM</a><br></td>
-<td>teamWork APAC Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1230' target='_blank'>WarelyCRM Version 1.2</a><br></td>
-<td>Plus 65 Marketing Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1263' target='_blank'>AIO CRM</a><br></td>
-<td>AIO Interactive Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1299' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/198800014D-ClndrOn-CRM-SLN-v-2-G' target='_blank'>CalendarOne CRM Solution Version 2</a><br></td>
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1343' target='_blank'>Alitec odoo CRM Version 16</a><br></td>
-<td>Alitec Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
+<td>QuickDesk Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1588' target='_blank'>Zoho CRM</a><br></td>
-<td>Zoho Corporation Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201536042G-Crystl-Dsh-CRM-G' target='_blank'>Crystal Dash CRM</a><br></td>
+<td>Crystal Net Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1674' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/T13LL1562D-NMTODOOCRM-G' target='_blank'>NMTODOO</a><br></td>
+<td>Neu Media Technology LLP</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/202039751G-Flvor-Customr-Rltonshp-MGT-Systm-v-1-G' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br></td>
+<td>FLAVOR PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201400012M-AIO-CRM-G' target='_blank'>AIO CRM</a><br></td>
+<td>AIO Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyCRM-v-12-G' target='_blank'>WarelyCRM Version 1.2</a><br></td>
+<td>PLUS 65 MARKETING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201702434C-Pppr-Cloud-CRM-v-140-G' target='_blank'>Pepper Cloud CRM Version 14.0</a><br></td>
 <td>Pepper Cloud Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201826102D-TWCSS-G' target='_blank'>TWCSS</a><br></td>
+<td>teamWork APAC Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201705156N-HubSpot-G' target='_blank'>HubSpot</a><br></td>
+<td>Brew Interactive Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201718654M-CARDDIO-v-1-G' target='_blank'>CARDDIO Version 1</a><br></td>
+<td>Carddio Pte Ltd</td>
 </tr>
 </table>
 

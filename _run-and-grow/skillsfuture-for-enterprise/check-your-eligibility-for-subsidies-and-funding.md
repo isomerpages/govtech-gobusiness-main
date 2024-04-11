@@ -58,7 +58,7 @@ To find out about Absentee Payroll funding claims, please proceed to [step 4](/s
 
 The SkillsFuture Enterprise Credit (SFEC) is a S$10,000 credit provided by the government to further encourage enterprises to embark on business and workforce transformation (i.e. training). 
 
-SFEC provides an additional 90% funding support for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses. Find out your SFEC balance by logging in to the [SkillsFuture Singapore's SFEC microsite](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}.
+SFEC provides an additional 90% funding support for out-of-pocket expenses when eligible enterprises send their employees for SSG-funded training courses. Find out your SFEC balance by logging in to the [SkillsFuture Enterprise Credit system](https://www.gobusiness.gov.sg/enterprisejobskills/digital-services/){:target="_blank"}{:rel="noopener"}.
 
 There is no application required for SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing.  
 

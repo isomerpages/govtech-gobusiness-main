@@ -1,22 +1,23 @@
 ---
-title: Income Taxes, Levy, and GST
+title: Income Taxes, Levy and GST
+
 permalink: /run-and-grow/taxes-and-gst/
 third_nav_title: Taxes, GST and Customs
 ---
 
-### Income Taxes, Levy, and GST
+
+## Income Taxes, Levy, and GST
 
 ![Taxes GST](/images/grow/RunandGrow_TaxesGST.jpg)
 
-{% include overview.html anchorlinks=site.data.ov003-taxes-gst %}
+{% include overview.html anchorlinks=site.data.ov016-taxes-gst-overview %}
 
-----
+---
 
-<a name="income-tax"></a>
+<a name="file_income_tax_return"></a>
+### File income tax return
 
-## File income tax return with Inland Revenue Authority of Singapore (IRAS)
-
-Unsure about the tax filing obligations for your business/company?
+Income tax is filed with Inland Revenue Authority of Singapore (IRAS). Unsure about the tax filing obligations for your business/company?
 
 **Income tax filing for sole proprietorship/partnership/limited partnership/limited liability partnership**
 
@@ -41,8 +42,9 @@ After incorporating your company, access the Start-Up Kit for customised informa
 
 Learn more about your company's Corporate Income Tax filing obligations from this [video](https://www.youtube.com/watch?v=CLT0Qc9abbg&feature=youtu.be){:target="_blank"}{:rel="noopener"}.
 
-<a name="reg-for-gst"></a>
+---
 
+<a name="register_for_gst"></a>
 ### Register for GST
 
 You will need to register for GST if:
@@ -93,16 +95,17 @@ Check out the following webpages and video to learn more.
 - [Factors to Consider Before Registering Voluntarily](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/factors-to-consider-before-registering-voluntarily-for-gst){:target="_blank"}{:rel="noopener"}
 - [Overview of GST](https://elearn.iras.gov.sg/gst/overviewofgst/){:target="_blank"}{:rel="noopener"}
 
+---
 
-<a name="pay-sdl"></a>
-
+<a name="pay_sdl"></a>
 ### Pay Skills Development Levy (SDL)
 
-The SDL is a compulsory monthly levy that businesses have to pay on <b>all employees</b>, to support workforce upgrading programmes and to provide training grants. It is administered by the SkillsFuture Singapore Agency (SSG).
+The SDL is a compulsory monthly levy that businesses have to pay on **all employees**, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).
 
 Learn more about SDL and how to calculate and make payment at the links below.
 
-{% include panels-featurelink.html panels=site.data.rgp009_taxes-gst %}
+{% include panels-featurelink.html panels=site.data.rgp005b_skillsdevelopmentlevy-overview %}
+
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

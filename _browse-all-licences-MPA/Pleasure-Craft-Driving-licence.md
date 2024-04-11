@@ -8,7 +8,7 @@ third_nav_title: Maritime and Port Authority (MPA)
 
 Maritime and Port Authority (MPA)
 
-{% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft" type="primary" %}
 
 <H3>Application Details</H3>
 

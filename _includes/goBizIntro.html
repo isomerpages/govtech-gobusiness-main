@@ -30,11 +30,10 @@
     display: grid;
     grid-template-areas:
       "content-1"
-      "content-2"
-      "content-3"
-      "content-4";
+      "content-2";
     grid-gap: 25px;
-    grid-template-rows: 1fr 1fr auto auto;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 
   .goBizIntro__media {
@@ -50,14 +49,6 @@
 
   .goBizIntro__right-upper {
     grid-area: content-2;
-  }
-
-  .goBizIntro__left-bottom {
-    grid-area: content-3;
-  }
-
-  .goBizIntro__right-bottom {
-    grid-area: content-4;
   }
 
   .goBizIntro__bold {
@@ -133,8 +124,7 @@
     .goBizIntro__contents {
       display: grid;
       grid-template-areas:
-        "content-1 content-2"
-        "content-3 content-4";
+        "content-1 content-2";
       row-gap: 25px;
       max-width: 1140px;
       margin: 0 auto;
@@ -181,37 +171,6 @@
         </div>
         <div class="goBizIntro__normal">
           Apply for licences, keep track of them, and more with your personal dashboard. <a class="goBizIntro__url" href="https://dashboard.gobusiness.gov.sg/login?src=home_about" target="_blank" rel="noopener">Log in</a> to try it!
-        </div>
-      </div>
-      <div class="goBizIntro__left-bottom">
-        <div class="goBizIntro__card">
-          <div class="goBizIntro__logoWrapper">
-            <img class="goBizIntro__logo" src="/images/Partnership.png" alt="logo" />
-          </div>
-          <div class="goBizIntro__card--title">Partner with GoBusiness</div>
-          <div class="goBizIntro__card--body">
-            Do you help local businesses set up and operate? Get in touch with
-            us, and your business could be featured on our portal.
-          </div>
-          <div class="goBizIntro__card--line"></div>
-          <div class="goBizIntro__card--button">
-            <a class="goBizIntro__url" href="https://go.gov.sg/gobizcollab/?src=home_about" target="_blank" rel="noopener">Contact us with your proposal </a>
-          </div>
-        </div>
-      </div>
-      <div class="goBizIntro__right-bottom">
-        <div class="goBizIntro__card">
-          <div class="goBizIntro__logoWrapper">
-            <img class="goBizIntro__logo" src="/images/Feedback.png" alt="logo" />
-          </div>
-          <div class="goBizIntro__card--title">Help GoBusiness Improve</div>
-          <div class="goBizIntro__card--body">
-            If you're a current or upcoming business owner, or have transacted
-            with the government for business purposes, we want you (to provide
-            feedback)!
-          </div>
-          <div class="goBizIntro__card--line"></div>
-          <div class="goBizIntro__card--button"><a class="goBizIntro__url" href="https://go.gov.sg/joinresearch/?src=home_about" target="_blank" rel="noopener">Participate in our research</a></div>
         </div>
       </div>
     </div>

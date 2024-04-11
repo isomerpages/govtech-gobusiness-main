@@ -28,3 +28,7 @@ accordion:
     content: |
       No, GoBusiness is currently an online portal that you can access with your web   
       browser only.
+
+  - title: Where can I go to learn more about the technical aspects of GoBusiness such as the product’s features, benefits, documentations etc?
+    content: |
+      You can find out more at the GoBusiness product page in the Singapore Government Developer Portal. Click [here](https://www.developer.tech.gov.sg/products/categories/platform/gobusiness/overview.html){:target="_blank"}{:rel="noopener"} to access it.

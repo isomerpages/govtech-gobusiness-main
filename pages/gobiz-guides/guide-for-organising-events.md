@@ -24,6 +24,6 @@ Can't find a proposal box for your event type? <a href='https://go.gov.sg/x2ds1b
 
 Are you an event organiser organising Sports, MICE, Arts/Culture, and/or Business-to-Consumer (B2C) events such as marathons, conferences, festivals, travel fairs etc?
 
-The e-Adviser for Events is designed to help you understand which licences and permits you need to organise your event. Answer questions about the nature of your event, and receive personalised recommendations for licences. From there, you can access the relevant application forms directly.
+The e-Adviser for Events is designed to help you understand which licences and permits you need to organise your event. Answer questions about the nature of your event, and receive personalised recommendations for licences. From there, you can then access the relevant application forms directly on your dashboard, and be guided through a recommended application sequence.
 
 {% include button.html text="Go to e-Adviser for Events" src="https://eadviser.gobusiness.gov.sg/events?src=guide-for-organising-events" type="primary" %}

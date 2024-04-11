@@ -48,13 +48,14 @@ panels:
       - text: Verify an entity's licence
         href: https://dashboard.gobusiness.gov.sg/verify-licence?src=eservices
         target: _blank
-        is_new: true
+        is_new: false
   - title: Emergency Preparedness
-    image: /images/Covid.svg
+    image: /images/Emergency.svg
     alt: ""
     links:
       - text: Haze
         href: /haze/?src=eservices
         is_new: false
-      - text: Covid-19
-        href: /covid/?src=eservices
+      - text: SGSecure @ Workplaces
+        href: /sgsecure/?src=eservices
+        is_new: false

@@ -28,8 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution89' target='_blank'>AirGo 360- Virtual Sites platform</a><br></td>
-<td>Airsquire Pte. Ltd.</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/202116187C-Alyss-BC' target='_blank'>Ailyssa</a><br></td>
+<td>Ailytics Pte. Ltd.</td>
 </tr>
 </table>
 

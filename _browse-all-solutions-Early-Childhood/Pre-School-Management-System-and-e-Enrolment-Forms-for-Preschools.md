@@ -10,7 +10,7 @@ permalink: /browse-all-solutions-Early-Childhood/Pre-School-Management-System-an
 
 Up to 50% for SMEs, 30% for non-SMEs
 
-This solution is supported by Early Child Development Agency (ECDA).
+This solution is supported by ECDA.
 
 **Recommended courses**
 
@@ -28,23 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution231' target='_blank'>Qoqolo School Management System Version 4.3</a><br></td>
-<td>CommonTown Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution278' target='_blank'>Pre-school Management System + E-forms for Preschool Version BridgED 3.0</a><br></td>
-<td>Cyberland Consultancy Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution415' target='_blank'>HAVSchool + E-Form Version 4.1</a><br></td>
-<td>HAVENCE PORTAL LLP</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution546' target='_blank'>LittleLives School Management System (PMS + e-form)</a><br></td>
-<td>LittleLives Inc Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution847' target='_blank'>Taidii SMART IT Solution for Preschool (PMS + E-form)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/201304337W-Td-SMART-IT-SLN-for-PrSCH-PMS-Eform-EC' target='_blank'>Taidii SMART IT Solution for Preschool (PMS + E-form)</a><br></td>
 <td>Taidii Pte Ltd</td>
 </tr>
 </table>
