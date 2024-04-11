@@ -12,8 +12,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
     
 | 11 Apr, 6:30pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |  
-| 11 Apr, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |     
-| 3 May, 3pm - 4 May, 8am<br>4 May, 5pm - 5 May, 8am<br>23 May, 6pm - 27 May, 8am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |             
+| 11 Apr, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |                  
 
 
 
