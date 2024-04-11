@@ -466,6 +466,16 @@
 
     - title: Enterprise Singapore (EnterpriseSG)
       content: |
+        **Representative Office**
+
+        <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
+
+        <p>Foreign entities that are keen to explore opportunities in the region may wish to set up a Representative Office (RO) in Singapore.</p>
+        <p>Foreign entities from the manufacturing, international trading, wholesale, trade and trade-related business sectors that are keen on exploring the viability of doing business in Singapore or are interested in using Singapore as a launch pad into the Asia Pacific, may wish to set-up a Representative Office (RO). By setting up an RO, it allows a foreign entity to assess the business environment in Singapore before deciding to set up a permanent establishment.</p>
+
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/roms" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Enterprise-Singapore-(EnterpriseSG)/Representative-Office">View Licence Details</a>
+
+        -----      
         **Rubber Licence**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
@@ -2234,14 +2244,14 @@
         <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Animal-Feed">View Licence Details</a>
 
         -----
-        **Registration to Import Live Frogs for Consumption or Fish Feeding**
+        **Registration to Import Live Frogs for Human Consumption**
 
         <span style="background: #EEF0F2; border-radius: 3px; width: 142px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #4A5561; display: flex; vertical-align: middle;"><img src="/images/licences/cp-mini.png" alt="For Business Users"> For Business Users </span>
 
-        <p>The Registration to Import Live Frogs for Human Consumption or Ornamental Fish Feeding may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import live frogs.</p>
+        <p>The Registration to Import Live Frogs for Human Consumption is issued by Singapore Food Agency. This registration is issued to importers to import live frogs intended for human consumption.</p>
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Consumption-or-Fish-Feeding" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Consumption-or-Fish-Feeding">View Licence Details</a>
+        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Human-Consumption" style="margin-left: 1em;">View Licence Details</a>
+        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Import-Live-Frogs-for-Human-Consumption">View Licence Details</a>
 
         -----
         **Registration to Import Processed Food Products and Food Appliances**
