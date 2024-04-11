@@ -76,6 +76,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td><a href='/productivity-solutions-grant/solutionrepo/201118056E-Stormshld-UTM-Frwll-Scurty-G' target='_blank'>Stormshield UTM Firewall Security</a><br></td>
 <td>Juss Solutions Group Pte Ltd</td>
 </tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200715324R-Fortgt-Frwll-for-IT-Scurty-or-VPN-v-1-G' target='_blank'>Fortigate Firewall for IT Security or VPN Version 1</a><br></td>
+<td>Computer Analysts and Recovery Experts Pte Ltd</td>
+</tr>
 </table>
 
 {% include banner-psg-survey.html %}
