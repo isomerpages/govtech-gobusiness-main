@@ -1,12 +1,20 @@
-- anchor: '#benefit-of-managing-ia-ip'
-  anchor_text: 'Setting up restaurant, cafe'
-- anchor: '#browse-comprehensive-ia-ip'
-  anchor_text: 'Setting up food and beverages (Food & Beverage) outlet'
-- anchor: '#list-as-ia-ip-service-provider'
-  anchor_text: 'Sales of liquor or sales for consumption of liquor'
-- anchor: '#resources-and-related-links'
-  anchor_text: 'Setting up food stall in a private establishment​'
-- anchor: '#resources-and-related-links'
-  anchor_text: 'Operating dormitory for foreign employees'
+@ -0,0 +1,19 @@
+- title: Setting up restaurant, café
+  url: /enterprisejobskills/programmes-and-initiatives/develop-human-capital/
+  text: View Licence
 
-  
+- title: Setting up food and beverages (Food & Beverage) outlet
+  url: /enterprisejobskills/programmes-and-initiatives/recruit-talent/
+  text: View Licence
+
+- title: Sales of liquor or sales for consumption of liquor
+  url: /enterprisejobskills/programmes-and-initiatives/upgrade-skills/
+  text: View Licence
+
+- title: Setting up food stall in a private establishment
+  url: /enterprisejobskills/programmes-and-initiatives/redesign-jobs/
+  text: View Licence
+
+- title: Operating dormitory for foreign employees
+  url: /enterprisejobskills/programmes-and-initiatives/learn-at-the-workplace/
+  text: View Licence
