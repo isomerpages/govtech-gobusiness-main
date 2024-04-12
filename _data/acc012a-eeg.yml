@@ -183,6 +183,23 @@
 
         <sup>4</sup> This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.
 
+    - title: What equipment are currently not supported under EEG (Advanced)?
+      content: | 
+        Installation/Purchase of the following would not be supported under EEG (Advanced).
+          a)	Vehicles 
+          b)	Bespoke equipment (e.g. specialised production equipment) that requires Measurement & Verification to ascertain if there is energy efficiency improvement. 
+          c)	Key equipment in systems* that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)
+          d)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements) 
+          e)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)
+          f)	International vessels
+
+          * For chilled water plant retrofit that shall comply with NEA's minimum energy efficiency standards (MEES), EEG (Advanced) can support chilled water system replacement/new installation that     
+            (1a) can meet or exceed MEES performance standard before MEES comes into effect, or 
+            (1b) exceed MEES performance standard after MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and 
+            (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).  
+
+          Applicant shall refer to the <a href='/images/eeg/third-party-assessment-report.docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
+
     - title: How is the grant support for the EEG (Advanced) calculated?
       content: |
         Please refer to the following [link](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1){:target="_blank"}{:rel="noopener"} to calculate the estimated grant support level for EEG (Advanced) based on the company’s size and equipment purchased.
