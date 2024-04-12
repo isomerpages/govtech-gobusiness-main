@@ -10,7 +10,7 @@ Find out which licences you need by answering a few questions, based on your bus
 
 This is a non-exhaustive list of business sectors. If you can’t find what you’re looking for, check the [full list of licences](/licences/find-licence-by-agency/?src=lic_guide_writeup) you can apply for. For licence renewals or amendment, use this list to [find licences to renew or amend](/licences/renew-amend-licence/?src=lic_guide_writeup).
 
-{% include panels-overview-licence.html panels=site.data.ov018-licence-browse-all %}
+{% include panels-featurelink.html panels=site.data.ov019-licence-guide.yml %}
 
 ## For all sectors
 
