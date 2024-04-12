@@ -12,6 +12,8 @@ This is a non-exhaustive list of business sectors. If you canâ€™t find what youâ
 
 {% include panels-featurelink.html panels=site.data.ov019-licence-guide.yml %}
 
+{% include panels-featurelink.html panels=site.data.faqdb000-localforeign %}
+
 ## For all sectors
 
 {% include letter-accordion.html accordions=site.data.acc080-licensing-e-adviser letter="aa" %}
