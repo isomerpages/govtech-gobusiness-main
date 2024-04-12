@@ -51,10 +51,10 @@ Vue Tech E-commerce solution offers SMEs a user-friendly, responsive user interf
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 5</td>
-<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Duda Website</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'>$3,600.00</td>
-<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_Package_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>SiteGiant Webstore Pro</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'>$5,540.00</td>
+<td style='padding: 10px;'><a href='/images/psg/Vue_Tech_Ecommerce_Website_11042024_Desensitised_Annex3_Part5.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 
