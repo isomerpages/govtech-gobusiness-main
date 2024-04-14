@@ -13,7 +13,7 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 
 <b>Type of organization:</b> SME
 
-<b>Address in Singapore:</b> 600 North Bridge Road #05-01 Parkview Square Singapore (188778)
+<b>Address in Singapore:</b> 600 North Bridge Road #05-01 Parkview Square Singapore 188778
 
 <b>Website:</b> <a href='https://www.bakertilly.sg/english/services/deal-advisory/'>https://www.bakertilly.sg/english/services/deal-advisory/</a>
 
@@ -75,4 +75,4 @@ Baker Tilly Singapore is a leading full-service accounting and advisory firm tha
 <p>
 <a class='btn' href='https://form.gov.sg/65fb9762e7798cdb74b0f56f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 27 March 2024

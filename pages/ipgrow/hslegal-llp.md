@@ -156,4 +156,4 @@ We are specialist intellectual property lawyers and agents. Our practice started
 <p>
 <a class='btn' href='https://form.gov.sg/65eeb8aae7798cdb742237ea' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 13 March 2024

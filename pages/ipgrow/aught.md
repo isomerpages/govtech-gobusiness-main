@@ -78,4 +78,4 @@ We are a communication design firm dedicated to creating Good Design that is rel
 <p>
 <a class='btn' href='https://form.gov.sg/65d6b7b4cf6e2d15a5920f9e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 28 February 2024

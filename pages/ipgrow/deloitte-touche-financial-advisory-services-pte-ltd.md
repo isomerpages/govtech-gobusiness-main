@@ -165,4 +165,4 @@ Deloitte Southeast Asia's Financial Advisory practice is a leading specialist in
 <p>
 <a class='btn' href='https://form.gov.sg/6565ab82991ea30012d09901' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 11 April 2024

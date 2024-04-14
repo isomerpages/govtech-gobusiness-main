@@ -116,4 +116,4 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 <p>
 <a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 13 March 2024

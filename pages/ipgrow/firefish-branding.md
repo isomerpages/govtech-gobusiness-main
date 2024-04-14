@@ -126,4 +126,4 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 <p>
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 13 March 2024

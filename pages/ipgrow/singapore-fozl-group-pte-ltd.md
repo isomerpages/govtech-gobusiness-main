@@ -122,4 +122,4 @@ FOZL Group, headquartered in Singapore's Raffles Place financial district, is an
 <p>
 <a class='btn' href='https://form.gov.sg/6523950bc470ab0011565143' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 13 March 2024
