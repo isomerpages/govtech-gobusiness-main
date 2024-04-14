@@ -1,69 +1,41 @@
-
 <style>
 
-    #toc-panel {
-    background-color: #EEF0F2;
-    word-break: break-word;
-    padding: 24px;
-    border-radius: 5px;
-    margin-top: 32px;
-    }
+#toc-panel {
+    background-color: #ffffff; 
+    padding: 20px; 
+    border: 1px solid #e0e0e0; 
+    border-radius: 5px; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); 
+}
 
-    .toc-title {
-    margin: 0;
-    font-size: 18px;
-    line-height: 27px;
-    font-family: 'hknova-semibold';
-    color: #313840 !important;
-    }
+.toc-title {
+    margin: 0; 
+    font-size: 18px; 
+    line-height: 27px; 
+    font-family: 'hknova-semibold'; 
+    color: #313840; 
+}
 
-    .toc-links {
-    margin-top: 16px;
-    margin-bottom: 8px;
-    font-size: 18px;
-    line-height: 27px;
+.panel-text {
+    font-size: 16px;
+    line-height: 24px;
     font-family: 'hknova-regular';
-    }
+    color: #000000;
+}
 
-    .toc-links li:last-child {
-    margin-bottom: 8px !important;
-    }
-
-    /* don't need to include in actual isomer code */
-
-    .toc-links li:not(:last-child) {
-    margin-bottom: 16px;
-    }
-
-    .toc-links a {
+.panel-text a {
     color: #2a6ebb;
-    }
+    text-decoration: none;
+}
 
-    .toc-links a:visited {
-    color: #89579B;
-    }
-
-    .toc-links a:hover {
-    color: #084E8A;
-    }
-
-    .toc-links a:visited:hover {
-    color: #521B88;
-    }
-
-    @media (max-width: auto) {
-        .toc-panel {
-            grid-template-columns: 1fr;
-        }
-    }
+.panel-text a:hover {
+    color: #084e8a;
+}
 
 </style>
 
+<!-- Panel content -->
 <div id="toc-panel" role="navigation">
-    <h2 class="toc-title">Commonly searched licence guides</h2>
-    <ul class="toc-links">
-    {% for anchorlink in include.anchorlinks %}
-      <li><a href="{{ anchorlink.anchor }}">{{ anchorlink.anchor_text}}</a></li> 
-    {% endfor %}
-     </ul>
+<h2 class="toc-title">{{ panel_Title }}</h2>
+<p class="panel-text">{{ panel_Text }}</p>
 </div>
