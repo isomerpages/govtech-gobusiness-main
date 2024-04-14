@@ -46,12 +46,12 @@ National Environment Agency (NEA)
 
 <H3>Documents Needed</H3>
 
-<ul>
-<li><strong>Declaration Form</strong><br>Download the <a href="http://www.nea.gov.sg/docs/default-source/anti-pollution-radiation-protection/chemical-pollution/application-form-for-ta-under-reg-24(1)-8-2-11.pdf" target="_blank" rel="noopener">declaration&nbsp;form</a> and upload the completed form detailing the safety requirements and emergency action plans<br><br></li>
-<li><strong>Tank Certificate from certified 3rd-party testing body</strong><br>To upload tanker certificate from certified 3rd-party testing body for ISO Tank, Vacuum Tank and IBC<br><br></li>
-<li><strong>Hazard Warning Panels and Labels for Vehicles/Tankers</strong><br>To submit information on hazard warning panels and labels used on vehicles/tankers<br><br></li>
-<li><strong>Container Labels</strong><br>To submit information on container labels<br><br></li>
-<li><strong>Hazmat Transport Driver Permit (HTDP)</strong><br>To submit driver's HTDP for transporting TIW</li>
+<ul> 
+<li><strong>Declaration Form</strong><br>Download the <a href="https://www.nea.gov.sg/docs/default-source/our-services/application-form-for-ta-under-reg-24(1)-8-2-11.pdf" target="_blank" rel="noopener">declaration&nbsp;form</a> and upload the completed form detailing the safety requirements and emergency action plans<br><br></li> 
+<li><strong>Tank Certificate from certified 3rd-party testing body</strong><br>To upload tanker certificate from certified 3rd-party testing body for ISO Tank, Vacuum Tank and IBC<br><br></li> 
+<li><strong>Hazard Warning Panels and Labels for Vehicles/Tankers</strong><br>To submit information on hazard warning panels and labels used on vehicles/tankers<br><br></li> 
+<li><strong>Container Labels</strong><br>To submit information on container labels<br><br></li> 
+<li><strong>Hazmat Transport Driver Permit (HTDP)</strong><br>To submit driver's HTDP for transporting TIW</li> 
 </ul>
 
 <H3>Requirements</H3>
