@@ -2,6 +2,7 @@
 title: Covid Overview
 permalink: /covid/
 third_nav_title: Covid-19
+published: false
 ---
 
 ![COVID Overview](/images/covid/Covid_Overview.jpg)

@@ -75,7 +75,13 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 <a name='testimonials'></a>
 ### Testimonials
 
-"We are pleased to have engaged AKIN as our preferred agency. The team has consistently demonstrated a deep understanding of our brand and our target audience. Their promptness, creativity, professionalism, and attention to detail have consistently been evident in every aspect, from planning to execution of our marketing campaigns." - Chester Ong, Product Manager, ESET."AKIN is reliable, intuitive, and exceptional. The team is very supportive, creative, and flexible. Our discussion sessions were enjoyable and effective, they are quick to grasp what we are looking for and work with us expeditiously to achieve it. With the brand and marketing strategy from AKIN, we are on the right path to expand our business in the region." - Bee Loong, Director, Cossiga."Working with AKIN has been an absolute pleasure from day one. Their team of dedicated professionals consistently go above and beyond to understand our needs and deliver exceptional results. Their expertise and knowledge is unparalleled, and we value the unbiased advice they provide, which is always aligned with our company values and expectations. We highly recommend their services to anyone looking for a dependable partner in their business ventures." - Ying, East Asia Marketing, Comms and Brand Manager, EATON.
+*"We are pleased to have engaged AKIN as our preferred agency. The team has consistently demonstrated a deep understanding of our brand and our target audience. Their promptness, creativity, professionalism, and attention to detail have consistently been evident in every aspect, from planning to execution of our marketing campaigns."* - Chester Ong, Product Manager, ESET.
+
+*"AKIN is reliable, intuitive, and exceptional. The team is very supportive, creative, and flexible. Our discussion sessions were enjoyable and effective, they are quick to grasp what we are looking for and work with us expeditiously to achieve it. With the brand and marketing strategy from AKIN, we are on the right path to expand our business in the region."* - Bee Loong, Director, Cossiga.
+
+*"Working with AKIN has been an absolute pleasure from day one. Their team of dedicated professionals consistently go above and beyond to understand our needs and deliver exceptional results. Their expertise and knowledge is unparalleled, and we value the unbiased advice they provide, which is always aligned with our company values and expectations. We highly recommend their services to anyone looking for a dependable partner in their business ventures."* - Ying, East Asia Marketing, Comms and Brand Manager, EATON.
+
+
 
 ---
 <a name='key-practice-experts'></a>

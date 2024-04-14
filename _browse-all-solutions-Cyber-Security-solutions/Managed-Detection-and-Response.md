@@ -36,10 +36,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Axiom IT Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201805298E-Cybots-AMDR-G' target='_blank'>Cybots AMDR</a><br></td>
-<td>Cybots Pte. Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201504939N-Grn-Rdr-Eml-Scurty-G' target='_blank'>Green Radar Email Security</a><br></td>
 <td>Netpluz Asia Pte Ltd</td>
 </tr>
@@ -54,10 +50,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201611915W-Mcrosoft-365-Dfndr-G' target='_blank'>Microsoft 365 Defender</a><br></td>
 <td>ACLOUD PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201427030G-MSSP-for-Asst-Bsd-Cybr-Dfnc-v-12-G' target='_blank'>MSSP for Asset Based Cyber Defence Version 1.2</a><br></td>
-<td>Toffs Technologies Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199405327E-Mcrosoft-Cybrscurty-Mngd-SVC-G' target='_blank'>Microsoft Cybersecurity Managed Service</a><br></td>

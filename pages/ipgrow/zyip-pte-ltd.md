@@ -15,7 +15,7 @@ Established in 2003, ZYIP is one of the premier Chinese IP firm with 16 offices 
 
 <b>Address in Singapore:</b> 88 Market Street, #21-01, CapitaSpring, Singapore 048948
 
-<b>Website:</b> <a href='www.zyip.com'>www.zyip.com</a>
+<b>Website:</b> <a href='https://www.zyip.com'>https://www.zyip.com</a>
 
 <a class='btn' href='https://form.gov.sg/65b1dc067ed92f9250f30b83' target='_blank' rel='noopener'>Get in touch</a>
 
