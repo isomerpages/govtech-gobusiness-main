@@ -12,6 +12,8 @@ This is a list of licences you can apply for. If you are looking to renew a lice
 
 {% include overview-licence.html notice=site.data.ov018-browse-all %} 
 
+{% include notice.html notice=site.data.dbfaq_notice%} 
+
 ## A
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
