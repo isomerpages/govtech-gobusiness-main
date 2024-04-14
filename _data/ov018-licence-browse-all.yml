@@ -2,8 +2,8 @@ show: true
 button: false
 title: "Commonly searched licence guides"
 content: |
-    - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 1</a>
-    - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 2</a>
-    - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 3</a>
-    - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 4</a>
-    - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 5</a>
+  - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 1</a>
+  - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 2</a>
+  - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 3</a>
+  - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 4</a>
+  - <a href="https://www1.bca.gov.sg/" target="_blank" rel="noopener">Licence number 5</a>
