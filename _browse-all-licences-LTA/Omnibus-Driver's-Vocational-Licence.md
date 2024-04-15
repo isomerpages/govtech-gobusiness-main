@@ -72,8 +72,8 @@ For Singaporean / SPR: NRIC<br>
 Mandatory to upload upon application for all type of vocational licences.<br>
 File format: pdf, jpg, jpeg, gif, png, bmp<BR>
 Maximum upload per application: 2 MB</li>
-<li><strong>Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be �Bus Driver�), Expiry date and Company Name � Front and Back</strong><br>
-For Foreigner: Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be �Bus Driver�), Expiry date and Company Name<br>
+<li><strong>Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be 'Bus Driver'), Expiry date and Company Name - Front and Back</strong><br>
+For Foreigner: Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be 'Bus Driver'), Expiry date and Company Name<br>
 Mandatory to upload upon application for all type of vocational licences.<br>
 File format: pdf, jpg, jpeg, gif, png, bmp<BR>
 Maximum upload per application: 2 MB</li>
