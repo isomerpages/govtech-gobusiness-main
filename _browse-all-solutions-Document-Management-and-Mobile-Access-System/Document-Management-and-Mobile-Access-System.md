@@ -44,10 +44,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>K&K IT Private Limited</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201708433H-AClss-Corport-Govrnnc-&-DOC-MGT-by-Slk-G' target='_blank'>A-Class Corporate Governance & Document Management by Sleek</a><br></td>
-<td>SLEEK TECH (PTE. LTD.)</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201815955C-TssCloud-DMS-G' target='_blank'>TessaCloud DMS</a><br></td>
 <td>Tessaract Technologies Private Limited</td>
 </tr>

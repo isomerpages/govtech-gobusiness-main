@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200500323W-Foundrs-Ecommrc-Jump-Strt-Pckg-v-4-G' target='_blank'>iFoundries E-commerce Jump Start Package Version 4</a><br></td>
-<td>iFoundries (Asia Pacific) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201729553C-WrlyEcom-v-13-G' target='_blank'>WarelyEcom Version 1.3</a><br></td>
 <td>PLUS 65 MARKETING PTE. LTD.</td>
 </tr>
@@ -70,14 +66,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201822015H-3D-Omn-Commrc-G' target='_blank'>3D Omni Commerce</a><br></td>
 <td>3D BRAND AGENCY PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201216251K-PSProfssonl-v-17-G' target='_blank'>ePSProfessional Version 1.7</a><br></td>
-<td>Efusion Technology Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
-<td>VUE TECH PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201415816M-Smplfys-Ecommrc-v-1-G' target='_blank'>Simpliify's E-commerce Version 1</a><br></td>
@@ -170,6 +158,18 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200908223H-Vrz-Dsgn-Ecommrc-SLNs--G' target='_blank'>Verz Design Ecommerce Solutions </a><br></td>
 <td>Verz Design Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201723984K-Sunpro-Ecommrc-SLN-G' target='_blank'>Sunpro E-commerce Solution</a><br></td>
+<td>SUNPRO INNO APPS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200200017N-Crtv-EShop-G' target='_blank'>Creative EShop</a><br></td>
+<td>Creative E-World Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201608054D-Vu-Tch-Ecommrc-Wbst-Pckg-G' target='_blank'>Vue Tech Ecommerce Website Package</a><br></td>
+<td>VUE TECH PTE LTD</td>
 </tr>
 </table>
 
