@@ -10,6 +10,8 @@ As we're still in the process of moving all licences over to GoBusiness Dashboar
 
 Select a government agency to see its licences and find out which platform to log in to.
 
+{% include overview-licence.html notice=site.data.ov020-licence-amend-renew %}
+
 ## A
 
 {% include letter-accordion.html accordions=site.data.acc079a-renew-amend-licences letter="a" %}
