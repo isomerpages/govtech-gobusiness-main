@@ -104,4 +104,4 @@ With 15 global offices and over 600 strategists, data analysts, marketers, digit
 <p>
 <a class='btn' href='https://form.gov.sg/6564095075c7100011b8e498' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 6 December 2023

@@ -101,4 +101,4 @@ AKIN envisions to humanise brands. Our clients typically engage us on three fron
 <p>
 <a class='btn' href='https://form.gov.sg/651b88ca94399a0011d39968' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 11 April 2024

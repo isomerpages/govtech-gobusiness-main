@@ -87,4 +87,4 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 <p>
 <a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 13 March 2024
