@@ -104,4 +104,4 @@ Domain Name Brokerage and Transaction Service: We act as an intermediary organis
 <p>
 <a class='btn' href='https://form.gov.sg/65d2b7190d9323466cd9c3a8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 28 February 2024

@@ -92,4 +92,4 @@ Currently, we are on the panel of both the Whole-of-Government (WOG) Creative Se
 <p>
 <a class='btn' href='https://form.gov.sg/647d2fe50590a40012eee7a3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 11 April 2024
