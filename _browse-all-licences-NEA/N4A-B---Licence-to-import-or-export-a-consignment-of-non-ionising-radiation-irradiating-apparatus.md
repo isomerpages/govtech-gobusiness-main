@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/e3750e2e-c924-41d7-b2bd-724547c4d235" type="primary" %}
+<p>Due to system maintenance, this application will not be available from 3 May 2024 1500hrs to 8 May 2024 0800hrs.</p>
 
 <H3>Application Details</H3>
 

@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/hazardoussubstancespermit" type="primary" %}
+<p>Due to system maintenance, this application will not be available from 3 May 2024 1500hrs to 8 May 2024 0800hrs.</p>
 
 <H3>Application Details</H3>
 
