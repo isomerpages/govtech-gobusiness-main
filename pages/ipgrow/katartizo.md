@@ -90,4 +90,4 @@ Having served over 30 industries and hundreds of brands, Katartizo's specialists
 <p>
 <a class='btn' href='https://form.gov.sg/64fad3758b89590011503dec' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024

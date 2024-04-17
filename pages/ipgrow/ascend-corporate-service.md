@@ -85,4 +85,4 @@ Ascend Corporate Service Pte Ltd, which has been providing company formation, co
 <p>
 <a class='btn' href='https://form.gov.sg/64d583fcd88b27001238f214' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024
