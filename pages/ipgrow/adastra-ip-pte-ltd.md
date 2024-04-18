@@ -263,4 +263,4 @@ Specializing in Intellectual Property Rights globally with emphasis in Malaysia,
 <p>
 <a class='btn' href='https://form.gov.sg/6549c84b96770c00113cbe05' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 11 April 2024

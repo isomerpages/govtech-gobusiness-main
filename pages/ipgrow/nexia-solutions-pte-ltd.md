@@ -91,4 +91,4 @@ Nexia Solutions Pte Ltd is an affiliate firm of Nexia Singapore PAC. Nexia Singa
 <p>
 <a class='btn' href='https://form.gov.sg/650bb6434284830013f329a3' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024
