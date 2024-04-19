@@ -1,6 +1,5 @@
 <head>
     <meta id="refresh" http-equiv="refresh">
-    <meta http-equiv="Content-Security-Policy" content="script-src-elem 'sha256-kZG5UP2/ci/4NO3QULxwhk30O85z3+O67w123yGKiAQ='">
     <title>Interim</title>
 </head>
 <body>
@@ -9,24 +8,6 @@
     <div>
         <p>Redirecting you in <span id="seconds">5</span>...</p>
     </div>
-    <script>
-        document.addEventListener("DOMContentLoaded", (event) => {
-            // Retrieve countdown seconds
-            const secondsElement = document.getElementById('seconds');
-            let seconds = secondsElement.textContent;
-
-            // Set destination page
-            const refreshElement = document.getElementById('refresh');
-            const searchParams = new URLSearchParams(document.location.search);
-            const destinationPage = searchParams.get('page');
-            refreshElement.content = `${seconds}; url=${destinationPage}`
-
-            // Trigger countdown
-            setInterval(() => {
-                seconds -= 1;
-                secondsElement.textContent = seconds;
-            }, 1000)
-        });
-    </script>
+    <script src="/jquery/jquery.min.js"></script>
+    <script src="/jquery/interim-page-refresh.js"></script>
 </body>
-</html>
