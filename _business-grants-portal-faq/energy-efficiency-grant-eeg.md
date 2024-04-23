@@ -1,5 +1,5 @@
 ---
-title: Energy Efficency Grant (EEG)
+title: Energy Efficiency Grant (EEG)
 permalink: /business-grants-portal-faq/eeg/
 ---
 
