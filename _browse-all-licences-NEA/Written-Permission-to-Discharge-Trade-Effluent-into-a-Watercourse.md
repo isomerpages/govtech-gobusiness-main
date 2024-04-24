@@ -10,7 +10,7 @@ National Environment Agency (NEA)
 
 {% include spcp-text.html type="cp" %}
 
-<p>Due to system maintenance, this application will not be available from 3 May 2024 1500hrs to 8 May 2024 0800hrs.</p>
+{% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" type="primary" %}
 
 <H3>Application Details</H3>
 
