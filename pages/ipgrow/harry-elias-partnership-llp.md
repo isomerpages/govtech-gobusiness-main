@@ -13,7 +13,7 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 
 <b>Year established in Singapore:</b> 2010
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting, Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Dispute Resolution
 
 <b>Intellectual property awards received:</b> Asian Legal Business 2022 - Tier 1 for Copyright/ Trademarks & Patents ; Asialaw Profiles 2022 - Recognised Firm for Intellectual Property ; Benchmark Litigation Asia-Pacific 2022 - Notable Firm for Intellectual Property ; WTR1000 2023 - Band Bronze for IP Enforcement and Litigation & IP Prosecution and Strategy ; IP Stars 2023 - Tier 3 for Trade Mark Contentious
 
@@ -31,26 +31,6 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 <a name='ip-related-service-areas'></a>
 ### IA/IP service areas
 
-**Branding Strategy Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**Contract Drafting Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Contract Drafting IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
-</ul>
-
 **Dispute Resolution Services**
 
 <ul>
@@ -58,116 +38,6 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of cases completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts in Singapore: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Dispute Resolution IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**Innovation Consultancy Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Audit Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Brokerage and Licensing Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of transactions completed in previous calendar year: 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Brokerage and Licensing experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Due Diligence Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Portfolio Management Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 26 to 30</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Portfolio Management experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Strategy Consulting Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Training Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:   $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**IP Watch Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of clients served in previous calendar year: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Watch experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**Patent Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents in Singapore: 61 to 100</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Patent Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
-</ul>
-
-**Registered Design Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate: $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of files completed in previous calendar year: 1 to 15</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Registered Design Agents overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): NA</li>
-</ul>
-
-**Trade Mark Agent Services**
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 251 to 500</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
 </ul>
 
@@ -195,37 +65,20 @@ Our experience and capability extend beyond the technical knowledge of IP as our
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Esther Wee**
-
-- Job Title: Partner & Head of IP
-- Years of Experience: 11 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Portfolio Management, IP Strategy Consulting, Contract Drafting
-- Certifications/Qualifications: Registered patent agent in Malaysia, Registered trademark agent in Malaysia, Registered industrial design agent in Malaysia
-- Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Intellectual Property, IP Stars 2022 - Trade mark Star, Asia IP 2022 - 50 IP Experts in Singapore, WTR1000 2023 - Band Silver for IP Prosecution and Strategy & Recommended for IP Transactions, SBR 2021 - Singapore's 18 most influential lawyers under 40
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/esther-wee-23b38b18" target="_blank" rel="noopener">https://www.linkedin.com/in/esther-wee-23b38b18</a>
-
 **Philip Fong**
 
 - Job Title: Managing Partner & Head of Litigation and Dispute Management
 - Years of Experience: 28 years
 - Location: Singapore
 - IA/IP-Related Expertise: Dispute Resolution
-- Certifications/Qualifications: Bachelor of Laws University of London, Economics Degree (major in Accounting) University of Adelaide, 
+- Certifications/Qualifications: Bachelor of Laws, University of London; Economics Degree (major in Accounting), University of Adelaide
 - Awards/Accolades: Best Lawyers 2024 - Best Lawyers in Singapore for Arbitration and Mediation, Asialaw Profiles 2022 - Distinguished Practitioner for Dispute Resolution, Asialaw Profiles 2020 - Client Service Excellence, Asialaw Profiles 2018, 2019 - Market-Leading Lawyer for Dispute Resolution
 - URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/partners/philip-fong" target="_blank" rel="noopener">https://www.harryelias.com/partners/philip-fong</a>
 
-**Daniel Yap**
 
-- Job Title: Legal Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Branding Strategy, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Bachelor of Laws (Honours) National University of Singapore, Advocate and Solicitor of the Supreme Court of Singapore 2021
-- URL of LinkedIn/Company Profile: <a href="https://www.harryelias.com/associates/daniel-yap" target="_blank" rel="noopener">https://www.harryelias.com/associates/daniel-yap</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/6449b8a4ee16a90012572202' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024

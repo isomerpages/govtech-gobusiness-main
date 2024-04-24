@@ -82,4 +82,4 @@ At PROTEUS-DT, we help businesses search for transformative digital solutions. O
 <p>
 <a class='btn' href='https://form.gov.sg/652399f98969da0012503f60' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 25 October 2023
+Profile last updated on 11 April 2024
