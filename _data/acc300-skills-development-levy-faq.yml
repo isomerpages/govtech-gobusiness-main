@@ -68,7 +68,7 @@
   data:
     - title: Who do I contact for further enquiries?
       content: |
-        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://portal.ssg-wsg.gov.sg/feedback){:target="_blank"}{:rel="noopener"} or call our helpdesk at [6785 5785](tel:+65 6785 5785).
+        You can contact SkillsFuture Singapore (SSG) through their [feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"} or call our helpdesk at [6785 5785](tel:+65 6785 5785).
 
 - accordion:
   letter: c
@@ -273,7 +273,7 @@
 
     - title: Can I pay in instalments for SDL?
       content: |
-        Employers who have difficulty paying the outstanding SDL in one lump sum may submit a request for instalment payments via [SkillsFuture Singapore (SSG)'s feedback portal](https://portal.ssg-wsg.gov.sg/feedback){:target="_blank"}{:rel="noopener"}.
+        Employers who have difficulty paying the outstanding SDL in one lump sum may submit a request for instalment payments via [SkillsFuture Singapore (SSG)'s feedback portal](https://service-portal.skillsfuture.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
         Information required includes the amount of outstanding SDL payable, reasons for the employer's inability to pay in one lump sum, and the number of instalments required.
     

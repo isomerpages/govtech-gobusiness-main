@@ -58,7 +58,7 @@ We just happen to be a likeable small boutique firm.
 
 **Percentage of revenue by organisational type, based on previous calendar year:**
 
-'- Small and medium-sized enterprises - 100%
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Small and medium-sized enterprises - 100%</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -76,4 +76,4 @@ We just happen to be a likeable small boutique firm.
 <p>
 <a class='btn' href='https://form.gov.sg/64eec2ef962d320012d72419' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 11 April 2024
