@@ -40,10 +40,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>AG NET PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201904063K-Crbont-HR-v-1-G' target='_blank'>Carbonate HR Version 1</a><br></td>
-<td>Carbonate Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
 </tr>
@@ -60,24 +56,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Net Solutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200612880H-OpnsoftHR-v-18-G' target='_blank'>OpensoftHR Version 18</a><br></td>
-<td>Opensoft Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201333659G-Pyboy-HRMS-G' target='_blank'>Payboy HRMS</a><br></td>
-<td>Payboy Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199609132G-SYNERGIX-v-TH6-G' target='_blank'>SYNERGIX Version TH6</a><br></td>
 <td>Synergix Technologies Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
 <td>TIME ACCESS INTERNATIONAL</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-v-12-G' target='_blank'>WhyzeHR Version 12</a><br></td>
-<td>Whyze Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201540990Z-YUVO-G' target='_blank'>YUVO</a><br></td>
@@ -92,16 +76,24 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>JustLogin Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/199804415D-TIMES-SOFTWARE-HRMS-v-18-G' target='_blank'>TIMES SOFTWARE HRMS Version 18</a><br></td>
-<td>Times Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200604587R-SMARTHRMS-v-1-G' target='_blank'>SMARTHRMS Version 1</a><br></td>
 <td>AVELOGIC PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201635071C-Swngvy-v-12330-G' target='_blank'>Swingvy Version 1.233.0</a><br></td>
 <td>SWINGVY PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200603587Z-Mllon-HR-MGT-Systm-G' target='_blank'>Million Human Resource Management System</a><br></td>
+<td>Rockbell International Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200804595N-HRsly-Onln-Pyroll-G' target='_blank'>HReasily Online Payroll</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200818854Z-WhyzHR-v-12-G' target='_blank'>WhyzeHR Version 12</a><br></td>
+<td>Whyze Solutions Pte Ltd</td>
 </tr>
 </table>
 

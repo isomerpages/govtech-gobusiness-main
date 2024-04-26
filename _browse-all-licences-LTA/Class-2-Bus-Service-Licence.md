@@ -54,7 +54,7 @@ Land Transport Authority (LTA)
 <p><strong>Fee</strong></p>
 <p>Application Fee: An application fee of $40 is applicable for every successful application for New BSL, Renewal of BSL, Amendment of Bus Service Operating Details/Bus Registration Numbers and Cancellation (or termination) of BSL.</p>
 <p>Class 2 Bus Service Licence Fee (for new and renewal):<br>2024 - $90 for each month (or part of a month) or $1,000, whichever is the lower.</p>
-<p>Amendment Fee:<br>Fare Amendments: No Charges<br>Amendment of Bus Registration Numbers: No Charges<br>Amendment of Bus Service Operating Details: $10</p>
+<p>Amendment Fee:<br>Fare Amendments: No Charges<br>Amendment of Bus Registration Numbers: No Charges<br>Amendment of Bus Service Operating Details: $9.17</p>
 <p>Security Deposit: $500 for new Bus Service Licence</p>
 
 <H3>Documents Needed</H3>

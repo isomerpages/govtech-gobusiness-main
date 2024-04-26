@@ -38,7 +38,7 @@ Additionally, our business valuation professionals are widely recognized for pro
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,000</li>
 </ul>
 
 ---
@@ -65,15 +65,6 @@ Additionally, our business valuation professionals are widely recognized for pro
 <a name='key-practice-experts'></a>
 ### Key practice experts
 
-**Jack Leung**
-
-- Job Title: Director
-- Years of Experience: 13 years
-- Location: Singapore
-- IA/IP-Related Expertise: Valuation (with IA/IP considerations)
-- Certifications/Qualifications: CVA, CFA, FRM  
-- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/jack-leung-6a694814a" target="_blank" rel="noopener">https://www.linkedin.com/in/jack-leung-6a694814a</a>
-
 **Li Bing Chiam**
 
 - Job Title: Manager
@@ -96,4 +87,4 @@ Additionally, our business valuation professionals are widely recognized for pro
 <p>
 <a class='btn' href='https://form.gov.sg/642242cfb69f640012f5b8c5' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024

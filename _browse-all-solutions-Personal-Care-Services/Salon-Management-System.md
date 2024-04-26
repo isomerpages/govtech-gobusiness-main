@@ -36,10 +36,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>ARCHER LOGIC (S) PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Buty-SLNs-v-3-G' target='_blank'>EQuipPOS Beauty Solutions Version 3</a><br></td>
-<td>Edgeworks Solutions Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200503951K-MEGAPOS-Buty-&-Wllnss-G' target='_blank'>MEGAPOS Beauty & Wellness</a><br></td>
 <td>Megasafe Technology Pte Ltd</td>
 </tr>
@@ -54,6 +50,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200205174N-ButSoft-V6372-G' target='_blank'>BeauteSoft V6.3.7.2</a><br></td>
 <td>SEQUOIA PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200809939C-WESS-Wllnss-MGT-Softwr-v-20-G' target='_blank'>WESS - Wellness Management Software Version 2.0</a><br></td>
+<td>Refine Solutions Pte Ltd</td>
 </tr>
 </table>
 

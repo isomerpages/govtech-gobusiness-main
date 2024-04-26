@@ -73,4 +73,4 @@ Piloto Asia is a full-service professional services firm, as Registered Filing A
 <p>
 <a class='btn' href='https://form.gov.sg/64b72627b8f4240012662480' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024
