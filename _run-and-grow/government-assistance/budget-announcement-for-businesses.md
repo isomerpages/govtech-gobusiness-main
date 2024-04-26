@@ -20,8 +20,6 @@ Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopene
 
 {% include subscribe-mailer.html title="Want to be notified when this page is updated?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
 
-### Budget 2024
-
 {% include letter-accordion.html accordions=site.data.acc078a-budget2024 letter="a" %}
 
 ### Find relevant schemes for your businesses
