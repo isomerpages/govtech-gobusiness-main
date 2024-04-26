@@ -11,8 +11,9 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 
 | **Scheduled Date** | **Remarks** |  
     
-| 25 Apr, 7pm - 26 Apr, 6am | **Application, amendment, renewal & cancellation of National Parks Board (NPARKS) licences** will be unavailable during the upcoming scheduled maintenance. |        
-| 27 Apr, 11pm - 28 Apr, 11pm | **Application, amendment & managed returns of Ministry of Culture, Community and Youth (MCCY) licences** will be unavailable during the upcoming scheduled maintenance. |              
+|26 Apr, 10pm - 27 Apr, 8am<br>27 Apr, 10pm - 28 Apr, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |         
+| 27 Apr, 11pm - 28 Apr, 11pm | **Application, amendment & managed returns of Ministry of Culture, Community and Youth (MCCY) licences** will be unavailable during the upcoming scheduled maintenance. |    
+| 28 Apr, 12am - 8am | **Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences** will be unavailable during the upcoming scheduled maintenance. |        
 | 3 May, 3pm - 6 May, 10am<br>23 May, 3pm - 27 May, 10am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |  
 
 
