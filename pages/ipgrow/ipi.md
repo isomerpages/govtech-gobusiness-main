@@ -112,4 +112,4 @@ With a strong belief that innovation is key to enterprise growth, IPI provides e
 <p>
 <a class='btn' href='https://form.gov.sg/64e30a9cc98c410011d5a366' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024

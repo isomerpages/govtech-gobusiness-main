@@ -9,13 +9,13 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <b>Year established in Singapore:</b> 2013
 
-<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service,Contract Drafting,Dispute Resolution
+<b>Top focus areas for IA/IP services:</b> Trade Mark Agent Service, Contract Drafting, Dispute Resolution
 
 <b>Type of organization:</b> SME
 
 <b>Address in Singapore:</b> 140 Upper Bukit Timah Road #03-08 Beauty World Plaza Singapore 588176
 
-<b>Website:</b> <a href='www.vickiheng.com'>www.vickiheng.com</a>
+<b>Website:</b> <a href='https://www.vickiheng.com/'>https://www.vickiheng.com/</a>
 
 <a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -79,7 +79,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Trade Mark Agent Service</li><li style='line-height: 27px; margin: 0px 0px !important'>Contract Drafting</li><li style='line-height: 27px; margin: 0px 0px !important'>Dispute Resolution</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -95,6 +95,10 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 
 <ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 85%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 15%</li></ul>
 
+**Percentage of revenue by organisational type, based on previous calendar year:**
+
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Non-Profit Organisations - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Small and medium-sized enterprises - 80%</li><li style='line-height: 27px; margin: 0px 0px !important'>Large enterprises - 15%</li></ul>
+
 ---
 <a name='key-practice-experts'></a>
 ### Key practice experts
@@ -104,7 +108,7 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 - Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Trademark Agent Service, Registered Design Agent Service, IP Portfolio Management, Contract Drafting, Dispute Resolution
-- URL of LinkedIn/Company Profile: [https://vickiheng.com/our-team/vhsl/](https://vickiheng.com/our-team/vhsl/)
+- URL of LinkedIn/Company Profile: <a href="https://vickiheng.com/our-team/vhsl/" target="_blank" rel="noopener">https://vickiheng.com/our-team/vhsl/</a>
 
 
 
@@ -112,4 +116,4 @@ Vicki Heng Law Corporation was established in 2013 as a solo boutique intellectu
 <p>
 <a class='btn' href='https://form.gov.sg/65eeb0744d5246341e3b11ae' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 13 March 2024

@@ -276,4 +276,4 @@ Schweiger & Partners is a registered patent law agency in Singapore, which means
 <p>
 <a class='btn' href='https://form.gov.sg/64c85800145131001232154e' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024

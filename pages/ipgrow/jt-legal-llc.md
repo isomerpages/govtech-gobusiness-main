@@ -37,6 +37,16 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars): Depending on the scope of work needed</li>
 </ul>
 
+**IP Intelligence and Search Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 50</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Intelligence and Search experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  Depending on the scope of work needed</li>
+</ul>
+
 **IP Portfolio Management Services**
 
 <ul>
@@ -86,7 +96,7 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 - Job Title: Managing Director
 - Years of Experience: 24 years
 - Location: Singapore
-- IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting
+- IA/IP-Related Expertise: Trade Mark Agent Service, Contract Drafting, IP Intelligence and Search, IP Portfolio Management
 - Certifications/Qualifications: 1995 - BA (Hons) Keele University, 1996 - Barrister-at-law of the Middle Temple (non-practising), 1998 - LLM, King's College London, 1999 - Advocate and Solicitor in Singapore, 2002 - Solicitor (England & Wales) (non-practising)   
 - URL of LinkedIn/Company Profile: <a href="https://jtlegal.com.sg/joshua-tan" target="_blank" rel="noopener">https://jtlegal.com.sg/joshua-tan</a>
 
@@ -94,4 +104,4 @@ We are a boutique corporate & corporate finance law firm specialising in mergers
 <p>
 <a class='btn' href='https://form.gov.sg/64474f4686f6760012553eda' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024
