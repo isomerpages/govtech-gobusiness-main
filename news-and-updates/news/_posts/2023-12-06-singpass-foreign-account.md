@@ -16,7 +16,7 @@ Foreign companies registered outside of Singapore can now transact on GoBusiness
 
 With a Corppass admin account, you can grant and customise access to individual users within your organisation as well as authorising third party providers to transact on your behalf.
 
-To apply for a Corppass, visit [Corppass' website](https://ww.corppass.gov.sg) for more info.
+To apply for a Corppass, visit [Corppass' website](https://www.corppass.gov.sg) for more info.
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
