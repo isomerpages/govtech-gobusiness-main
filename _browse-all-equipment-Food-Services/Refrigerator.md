@@ -957,8 +957,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - PRISM+ - FT4201GAGB
 - PRISM+ - FT4201SAIN
 - Ryker  - TF24101
-- Samsung  - 
-RT62K7057BS
+- Samsung  - RT62K7057BS
 - Samsung  - RB34T6054B1
 - Samsung  - RB45DG600EB1
 - Samsung  - RB45DG600ES9
