@@ -10,7 +10,7 @@ Public Utilities Board (PUB)
 
 {% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/f20067e5-4c94-42f7-bee6-3a134cf58531" type="primary" %} 
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/bd699b8c-5570-4d32-82ed-d8671af7d6d1" type="primary" %}
 
 <H3>Application Details</H3>
 

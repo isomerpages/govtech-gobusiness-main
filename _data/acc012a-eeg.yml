@@ -3,17 +3,9 @@
   data:
     - title: What is the Energy Efficiency Grant?
       content: |
-        The Energy Efficiency Grant (EEG) helps businesses transition towards being more energy efficient through co-funding support to invest in energy-efficient equipment.
+        The Energy Efficiency Grant helps businesses transition towards being more energy efficient by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. With the expanded EEG, EEG applications will be streamlined under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
 
-    - title: Why did the Government develop the Energy Efficiency Grant (EEG)? 
-      content: |
-        The Energy Efficiency Grant aims to support businesses in their sustainability journey by co-funding investments in energy-efficient equipment. As announced at Budget 2024, the EEG will be expanded to more sectors from 1 April 2024. 
-
-    - title: What is the objective of the EEG?
-      content: |
-        The Energy Efficiency Grant (EEG) aims to help businesses to adopt energy-efficient  equipment. The expanded EEG will streamline EEG applications for all sectors under one shopfront on GoBusiness, so that it is easier for businesses to access support for energy efficiency.
-
-    - title: Will the Government consider expanding the Energy Efficiency Grant to more sectors?
+    - title: Which sectors are covered by the EEG?
       content: |
         As announced at Budget 2024, the EEG will be expanded to more sectors. From 1 April 2024, companies in the Manufacturing, Food Services and Retail sectors<sup>1</sup> can apply for the EEG. We will further expand EEG to cover maritime, construction, data centres and their users by end 2024. More information will be available in due course.
 
@@ -22,7 +14,7 @@
 - accordion:
   letter: b
   data:
-    - title: What is the eligibility criteria for EEG (Base)?
+    - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
         - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail sector as defined below;
@@ -32,9 +24,11 @@
         <br><br>
         - Has a minimum of 30% local shareholding,
         - Employ at least one local employee at the firm-level
-        - Has a Group Annual Sales Turnover no more than S$500 million
+        - Has a Group Annual Sales Turnover no more than S$500 million<sup>3</sup>
 
-        Note that SME is defined as having:
+         <sup>2</sup> Companies may be requested to furnish supporting documents as part of the grant application process.
+
+        <sup>3</sup> SME is defined as having:
         - <b>Group Annual Sales Turnover</b> of no more than S$100 million; <b><u>or</u></b>
         - <b>Group Employment Size</b> of not more than 200 workers
 
@@ -42,38 +36,36 @@
       content: |
         The list of EEG equipment supported can be found on [GoBusiness](/energy-efficiency-grant/).
 
-        Companies who wish to submit equipment models for selected categories can do so via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"}. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
+        Companies can submit equipment models under selected categories via this [link](https://form.gov.sg/65dd54803c61c0ff3ca5ae54){:target="_blank"}{:rel="noopener"} to be considered for support. Please note that all equipment submissions must meet the respective technical requirements to be eligible for support.
 
     - title: What is the duration of the EEG (Base)?
       content: |
         The grant application window for the EEG (Base) is from 1 April 2024 to 31 March 2026.
         
-        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>2</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
+        Companies will have up to 1 year from the time an application is approved to purchase and install<sup>4</sup> the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful. 
 
-        <sup>2</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
+        <sup>4</sup> Only the actual purchase of the equipment is supportable. This excludes other related administrative fees/charges, e.g. delivery fees, installation.
 
     - title: How to apply for the EEG (Base)?
       content: |
-        <u>For Manufacturing Companies</u><br>
+        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
         Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
         To apply for the EEG (Base), manufacturing companies will have to:
-        
         i. Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
         ii. Obtain quotations from the vendor.<br>
         iii. Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
 
         <u>For Food Services and Retail Companies</u><br>
         Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.<br>
-        To apply for the EEG (Base), companies will have to:
-
+        To apply for the EEG (Base), companies will have to:<br>
         i. Visit GoBusiness to access the list of supported equipment brands and models. <br>
         ii. Obtain quotations from the vendor.  <br>
         iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.
 
     - title: How to claim for the EEG (Base)? 
       content: |
-        <u>For Manufacturing Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
+        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
         To claim for the EEG (Base), manufacturing companies will have to ensure:
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
@@ -134,14 +126,14 @@
 
         For Manufacturing companies, you may wish to visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
 
-    - title: Who can I contact for CorpPass assistance?
+    - title: How can I enquire for CorpPass assistance?
       content: |
         E: <a title="" href="mailto:support@corppass.gov.sg" target="_blank" rel="noopener">support@corppass.gov.sg</a><br>
         T: [+65 6643 0577](tel:+6566430577)
 
         The operating hours are from 8:00 am to 8:00 pm (Mondays to Fridays) and from 8:00 am to 2:00 pm (Saturdays).
 
-    - title: Who can I contact for Business Grants Portal assistance?
+    - title: How can I enquire for Business Grants Portal assistance?
       content: |
         Enquiry Form: [go.gov.sg/bgphelpdesk](https://go.gov.sg/bgphelpdesk){:target="_blank"}{:rel="noopener"}<br>
         T: [+65 6708 7288](tel:+6567087288)
@@ -191,6 +183,23 @@
 
         <sup>4</sup> This will be 70% and 30% of energy efficient equipment costs for SMEs and non-SMEs respectively.
 
+    - title: What equipment are currently not supported under EEG (Advanced)?
+      content: | 
+        Installation/Purchase of the following would not be supported under EEG (Advanced).<br>
+          a)	Vehicles<br>
+          b)	Bespoke equipment (e.g. specialised production equipment) that requires Measurement & Verification to ascertain if there is energy efficiency improvement.<br>
+          c)	Key equipment in systems* that require Measurement & Verification at system level for legislation compliance or Green Mark Scheme (or equivalent government scheme)<br>
+          d)	Blackbox solutions (i.e. software or hardware devices whose functioning cannot be explained by applying mainstream engineering knowledge and theories for EE improvements)<br>
+          e)	Non-EE equipment, including monitoring devices and equipment that reduce carbon emission but does not reduce energy consumption (e.g. solar PV Panel, wind turbine)<br>
+          f)	International vessels
+
+          <sup>*</sup> For chilled water plant retrofit that shall comply with NEA's minimum energy efficiency standards (MEES), EEG (Advanced) can support chilled water system replacement/new installation that<br>
+            (1a) can meet or exceed MEES performance standard before MEES comes into effect, or<br>
+            (1b) exceed MEES performance standard after MEES comes into effect, whichever applies at the point of the first EEG(Advanced) submission; and<br>
+            (2) is installed with M&V sensors/meters to facilitate post retrofit system efficiency determination for compliance with MEES. The cost of M&V sensors/meters would not be funded under EEG(Advanced).
+
+          Applicant shall refer to the <a href='/images/eeg/third-party-assessment-report.docx' target="_blank" rel="noopener">third-party assessment form</a> for details.  
+
     - title: How is the grant support for the EEG (Advanced) calculated?
       content: |
         Please refer to the following [link](https://www.checkfirst.gov.sg/c/551d6762-93f3-466c-a1be-418ef7f8d2f1){:target="_blank"}{:rel="noopener"} to calculate the estimated grant support level for EEG (Advanced) based on the company’s size and equipment purchased.
@@ -230,8 +239,8 @@
         </tr>
 
         <tr>
-          <td>Ngee Ann Polytechnic (NP) – The Environmental & Water Technology Centre of Innovation (EWTCOI)</td>
-          <td>Website: <br><a href="https://www.np.edu.sg/connect/industry-partners/ewtcoi" target="_blank" rel="noopener">EWTCOI (np.edu.sg)</a><br>Contact details: <br><a href="mailto:ewtcoi@np.edu.sg">ewtcoi@np.edu.sg</a><br><a href="mailto:Jin_Weixin@np.edu.sg">Jin_Weixin@np.edu.sg</a></td>
+          <td>Ngee Ann Polytechnic (NP) - The Centre for Environmental Sustainability (CfES) </td>
+          <td>Website: <br><a href="https://www.np.edu.sg/connect/industry-partners/cfes" target="_blank" rel="noopener">CfES (np.edu.sg)</a><br>Contact details: <br><a href="mailto:cfes@np.edu.sg">cfes@np.edu.sg</a><br><a href="mailto:Jin_Weixin@np.edu.sg">Jin_Weixin@np.edu.sg</a></td>
         </tr>
 
         </table>

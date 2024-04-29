@@ -175,7 +175,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
         Precision Engineering Centre of Innovation<br>(SIMTech)
     </td>
     <td>
-        Dr Chua Beng Wah<br><a href="bwchua@simtech.a-star.edu.sg">bwchua@simtech.a-star.edu.sg</a>
+        Dr Chua Beng Wah<br><a href="mailto:bwchua@simtech.a-star.edu.sg">bwchua@simtech.a-star.edu.sg</a>
     </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
         Ngee Ann Polytechnic
     </td>
     <td>
-        <a href="mailto:ewtcoi@np.edu.sg">ewtcoi@np.edu.sg</a>
+        <a href="mailto:cfes@np.edu.sg">cfes@np.edu.sg</a>
     </td>
 </tr>
 <tr>

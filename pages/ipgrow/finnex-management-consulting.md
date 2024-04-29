@@ -94,4 +94,4 @@ Being the consultancy that cares for Singapore SMEs, we continuously upskill our
 <p>
 <a class='btn' href='https://form.gov.sg/65b85de4523cf95b78fcaeed' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 
+Profile last updated on 28 February 2024
