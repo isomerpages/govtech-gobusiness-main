@@ -21,7 +21,7 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 
 <b>Website:</b> <a href='https://firefish.com'>https://firefish.com</a>
 
-<b>Offer:</b> Get a complimentary consultation
+<b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).
 
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -65,7 +65,7 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction, </li><li style='line-height: 27px; margin: 0px 0px !important'>Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals, </li><li style='line-height: 27px; margin: 0px 0px !important'>Enviromental Services,</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services,  </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media, </li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore, </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail, </li><li style='line-height: 27px; margin: 0px 0px !important'>Security, </li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Enviromental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -126,4 +126,4 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 <p>
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 September 2023
+Profile last updated on 13 March 2024
