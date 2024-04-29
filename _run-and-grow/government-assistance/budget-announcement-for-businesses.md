@@ -16,11 +16,11 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 Visit the [MOF website](https://www.mof.gov.sg/){:target="_blank"}{:rel="noopener"} for more information on Budget 2024.
 
+{% include letter-accordion.html accordions=site.data.acc078a-budget2024 letter="a" %}
+
 <b>Stay Tuned: More information related to Budget 2024 for Businesses will be updated here progressively.</b>
 
 {% include subscribe-mailer.html title="Want to be notified when this page is updated?" url="/mailing-list-subscription/?utm_source=gobiz&utm_medium=budget&utm_campaign="%}
-
-{% include letter-accordion.html accordions=site.data.acc078a-budget2024 letter="a" %}
 
 ### Find relevant schemes for your businesses
 
