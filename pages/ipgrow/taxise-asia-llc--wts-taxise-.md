@@ -99,4 +99,4 @@ We are the sole Singapore member firm of WTS Global, an international tax networ
 <p>
 <a class='btn' href='https://form.gov.sg/6477c3133acd5d00121955d0' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 11 April 2024
