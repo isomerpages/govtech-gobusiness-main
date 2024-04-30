@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/201003423H-Job-Rdsgn-CST-K
 
 **Description**
 
-KLC International Institute (KLCII) is a human capital development organisation. As a pioneer of early childhood teacher training since 1988, KLCII has organically evolved into the consultancy space, helping SMEs manage change in work processes and job roles due to business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. The JR efforts have led to elevated staff engagement, increased job value, and higher productivity.
+KLC International Institute (KLCII) is a human capital development organisation and a pioneer of early childhood teacher training since 1988. KLCII has seamlessly expanded into consultancy, assisting SMEs in navigating changes in work processes and job roles brought on by business and digital transformation. KLCII builds performance capabilities through upskilling and a learning-by-doing approach. Our Job Redesign (JR) initiatives have resulted in many business outcomes, including enriched job roles, enhanced staff engagement, higher productivity and better performance.
 
 ## Solution Packages Option(s)
 

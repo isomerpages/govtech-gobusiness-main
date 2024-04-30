@@ -72,10 +72,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>PIXEL MECHANICS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
-<td>The Little Black Book Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200502591G-DM-ThAsMd-Dgtl-Mrktng-PKG-G' target='_blank'>DM TheAsiaMedia Digital Marketing Packages</a><br></td>
 <td>TheAsiaMedia Pte Ltd</td>
 </tr>
@@ -110,10 +106,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201800551Z-DM-Fr-Cptl-Dgtl-Mrktng-PKG-G' target='_blank'>DM Fier Capital Digital Marketing Packages</a><br></td>
 <td>Fier Capital Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
-<td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/202016650R-DM-NBT-Dgtl-Prformnc-Mrktng-Pckg-G' target='_blank'>DM NBT Digital Performance Marketing Package</a><br></td>
@@ -222,6 +214,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201832282M-DM-QIANYI-TRADING-TIKTOK-DIGITAL-MARKETING-SLN-G' target='_blank'>DM QIANYI TRADING TIKTOK DIGITAL MARKETING SOLUTION</a><br></td>
 <td>QIANYI TRADING PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/200914055M-DM-Th-Lttl-Blck-Book-Socl-Md-Dgtl-Mrktng-Pckg-G' target='_blank'>DM The Little Black Book Social Media Digital Marketing Package</a><br></td>
+<td>The Little Black Book Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201325568H-DM-Bzsqur-Dgtl-Mrktng-Sut-PKG-G' target='_blank'>DM Bizsquare Digital Marketing Suite Packages</a><br></td>
+<td>Bizsquare Management Consultants Pte Ltd</td>
 </tr>
 </table>
 

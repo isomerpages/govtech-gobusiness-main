@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Building-Construction/3D-Modelling--Immersive-V
 
 **Support Level and Conditions**
 
-Up to 50% for SMEs, N.A. for non-SMEs
+Up to  for SMEs, N.A. for non-SMEs
 
 This solution is supported by BCA.
 
@@ -28,10 +28,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Mttrport-Pro2-3D-SLN-BC' target='_blank'>CSG - Matterport Pro2 3D Solution</a><br></td>
-<td>CSG Software Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201014126M-BIMAGE-AUTODESK-COLLECTION-BC' target='_blank'>BIMAGE - AUTODESK COLLECTION</a><br></td>
 <td>BIMAGE Consulting Pte. Ltd.</td>
 </tr>
@@ -42,6 +38,10 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201600202R-CSG-Autodsk-Collcton-BC' target='_blank'>CSG - Autodesk Collection</a><br></td>
 <td>CSG Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/199400358M-Autodsk-AEC-Collcton-BC' target='_blank'>Autodesk AEC Collection</a><br></td>
+<td>INNOCOM TECHNOLOGIES PTE LTD </td>
 </tr>
 </table>
 
