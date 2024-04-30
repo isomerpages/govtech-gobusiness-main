@@ -12,7 +12,7 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-
+| 30 Apr, 11pm - 1 May, 2am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |          
 | 2 May, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |    
 | 2 May, 10.50pm - 3 May, 2am | **Corppass Services** will be unavailable due to scheduled maintenance. |           
 | 3 May, 3pm - 6 May, 10am<br>23 May, 3pm - 27 May, 10am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |  
