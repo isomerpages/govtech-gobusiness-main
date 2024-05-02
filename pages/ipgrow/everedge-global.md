@@ -211,7 +211,7 @@ CEO & Tech Missionary, OTSAW.
 - Location: United States
 - IA/IP-Related Expertise: IP Audit, IP Due Diligence, IP Strategy Consulting, 
 Valuation (with IA/IP considerations), Dispute Resolution
-- Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA ) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
+- Certifications/Qualifications: Bachelor of Science (Finance) Brigham Young University (US), Master of Business Administration (Strategy) University of Utah (US), Chartered Valuer and Appraiser (CVA) Singapore Accountancy Commission, Certified Patent Valuation Analyst (CPVA) Business Development Academy (US), Registered Management Consultant (RMC) Institute of Management Consultants, Six Sigma Green Belt
 - Awards/Accolades: PWC XTax finalist
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/tyler-capson" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/tyler-capson</a>
 
@@ -220,7 +220,7 @@ Valuation (with IA/IP considerations), Dispute Resolution
 - Job Title: Senior Manager, Valuation 
 - Years of Experience: >10 years
 - Location: Singapore 
-- IA/IP-Related Expertise: Innovation Consultancy, IP Audit; IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
+- IA/IP-Related Expertise: Innovation Consultancy, IP Audit, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP consideration)
 - Certifications/Qualifications: Bachelor of Accountancy (Hons) - Nanyang Technological University, Chartered Accountant of Singapore (CA)
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/ian-lim" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/ian-lim</a>
 
@@ -239,7 +239,7 @@ Valuation (with IA/IP considerations), Dispute Resolution
 - Years of Experience: >40 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, IP Due Diligence, IP Strategy Consulting, Valuation (with IA/IP considerations), IP Training
-- Certifications/Qualifications: Bachelor of Commerce (Accounting and Marketing) � Otago University, Certificate of proficiency, New Zealand Society of Investment Analysts, Master of Commerce (Marketing and International Business) � The University of Auckland
+- Certifications/Qualifications: Bachelor of Commerce (Accounting and Marketing) – Otago University, Certificate of proficiency, New Zealand Society of Investment Analysts, Master of Commerce (Marketing and International Business) – The University of Auckland
 - URL of LinkedIn/Company Profile: <a href="https://www.everedgeglobal.com/staff/dean-prebble/" target="_blank" rel="noopener">https://www.everedgeglobal.com/staff/dean-prebble/</a>
 
 

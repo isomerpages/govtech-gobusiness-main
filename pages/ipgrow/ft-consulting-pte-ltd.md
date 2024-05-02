@@ -129,7 +129,7 @@ FT Consulting also conducts monthly IP Business Clinic sessions for IPOS.
 - Years of Experience: 25 years
 - Location: Singapore
 - IA/IP-Related Expertise: Branding Strategy, Innovation Consultancy, IP Strategy Consulting
-- Certifications/Qualifications: Senior PMC (Practising Management Consultant)-IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)
+- Certifications/Qualifications: Senior PMC (Practising Management Consultant)- IPM Certified - from SBACC (Singapore Business Advisors & Consultants Council)
 - Awards/Accolades: World's Leading IP Strategist Award
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/john-ong-9923b213" target="_blank" rel="noopener">https://www.linkedin.com/in/john-ong-9923b213</a>
 
