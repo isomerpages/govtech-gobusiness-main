@@ -165,7 +165,7 @@ Holborn Law LLC is in a Formal Law Alliance with CMS Cameron McKenna Nabarro Ols
 - Awards/Accolades: IAM Patent 1000 - Leading Individual, WTR (Trade Marks) - listed for Individuals: prosecution and strategy (Silver)/ Individuals: transactions (Recommended)/ Individuals: enforcement and litigation (Silver), MIP IP Stars - Patent Star, WIPR Leaders - Patents/Trade Marks/ Technology, Asia IP - IP Expert
 - URL of LinkedIn/Company Profile: <a href="https://sg.linkedin.com/in/sheena-r-jacob-66b1695" target="_blank" rel="noopener">https://sg.linkedin.com/in/sheena-r-jacob-66b1695</a>
 
-�**Sherman Poon**
+**Sherman Poon**
 
 - Job Title: Associate
 - Years of Experience: 4 years
