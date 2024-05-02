@@ -19,7 +19,7 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 
 <b>Website:</b> <a href='https://www.thinksme.sg'>https://www.thinksme.sg</a>
 
-<b>Offer:</b> Free 1:1 consultation and problem diagnosis
+<b>Offer:</b> Free 1-to-1 30-minute Consultation
 
 <a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -35,7 +35,7 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $400</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
 </ul>
 
@@ -47,6 +47,16 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $30,000</li>
+</ul>
+
+**Trade Mark Agent Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $600</li>
 </ul>
 
 ---
@@ -77,11 +87,12 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We're very pleased with what Think SME has provided for this branding & marketing project. Their team has been very prompt and accommodating to my request throughout the entire project. As our company is providing medical gloves to customers such as laboratories and pharmaceutical production, this rebranding exercise will be able to help us stand out from our competitors and provide very distinct brand identity to serve our clients better. We're also very impressed with the new branding packaging proposals which Think SME helped us for our home brand, ShieldPro. We wanted all 3 proposals actually as they were all very nicely designed! Highly recommended for all SMEs who are interested to tap on this EDG grant to do a rebranding exercise, u will definitely not regret it! Good job guys!"* - Bino, Director, B&C Laboratory Supplies Pte Ltd
+*"Nick , Edwin and all others in Think SME Team have been very professional and committed in their work. The best part is the easy communication that we can have with Think SME Team.  Industry knowledge and responsiveness is the best identified feature of this team.  Team JVKM wishes all the best to Team Think SME."* - JVKM Consultants Pte Ltd
 
-*"The new brand concept definitely gives our company a new refreshed look and the rebranding timing came just nice when we expanded to a new bigger office and change in management structure. Thank you Callum, Edison and Nick for hand holding us throughout the entire grant process, from application, rework from ESG to successfully obtaining the claim! Thank you, Think SME once again!"* - Barbara, Marketing Manager, Ecopluz Pte Ltd
+*"It is my great fortune to be able to meet up with Nick of Think SME. Nick assisted me in the rebranding my company. Nick is very knowledgeable and able to provide the much needed advice for my company. Nick also managed to link me up with funder for my company. Think SME is really true to their name - Think about SME, Think for SME. Thank you so much Think SME."* -  Yellow Stable Pte Ltd.
 
-*"Since implementing the fully customised preschool management system, our operations have been completely transformed. With its intuitive features and streamlined processes, we have saved time and reduced errors in tasks such as enrolment, attendance tracking, scheduling, and billing. The system's parent communication tools have fostered better collaboration and transparency, allowing us to provide a nurturing and enriching environment for our students while keeping parents well-informed."* - Corrine, Operation Manager, Childcare@fernvale Pte. Ltd.
+*"We're very pleased the with what Think SME has provided for this branding & marketing project. Their team has been very prompt and accommodating to my request throughout the entire project. As our company is providing medical gloves to customers such as laboratories and pharmaceutical production, this rebranding exercise will be able to help us stand out from our competitors and provide very distinct brand identity to serve our clients better. We're also very impressed with the new branding packaging proposals which Think SME helped us for our home brand, ShieldPro. We wanted all 3 proposals actually as they were all very nicely designed! Highly recommended for all SMEs who are interested to tap on this EDG grant to do a rebranding exercise, u will definitely not regret it! Good job guys!"* - B&C Laboratory Supplies Pte Ltd
+
 
 
 
@@ -89,7 +100,9 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.behance.net/thinksme" target="_blank" rel="noopener">case study 1</a></li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.behance.net/gallery/185167937/Brand-Manual-and-Brand-Identity-Jupiter-Protection" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 2]
+https://www.behance.net/gallery/186503941/Brand-Manual-and-Brand-Identity-RH-Tech</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 3]
+https://www.behance.net/gallery/186043061/Brand-Manual-and-Brand-Identity-B-C-Laboratory</li></ul>
 
 ---
 <a name='key-practice-experts'></a>
@@ -108,4 +121,4 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <p>
 <a class='btn' href='https://form.gov.sg/646ecaa15f5cf200110c9575' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 24 April 2024

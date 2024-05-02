@@ -7,7 +7,7 @@ permalink: /intellectual-property/ip-grow/withers-khattarwong-llp/
 
 Withers KhattarWong is the Singapore office of Withersworldwide, an international law firm with a broad-ranging client base, including multinational corporations, governments, international institutions and individuals and their businesses.
 
-With over 220 partners and more than 650 other lawyers globally, we have unparalleled expertise in commercial, tax, trusts, estate planning, financial services, litigation and international arbitration, public international law, real estate, charities, philanthropy, employment, family law and other legal issues facing individuals and their families. The firm has advised 66% of the top 100 UK Sunday Times Rich List, 25% of the Forbes 400 List.
+With over 220 partners and more than 850 other lawyers globally, we have unparalleled expertise in commercial, tax, trusts, estate planning, financial services, litigation and international arbitration, public international law, real estate, charities, philanthropy, employment, family law and other legal issues facing individuals and their families. The firm has advised 74% of the top 100 UK Sunday Times Rich List, 25% of the Forbes 400 List.
 
 Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Connecticut), Boston, San Francisco, San Diego, Los Angeles, Texas, Hong Kong, Singapore, Tokyo, the British Virgin Islands, Geneva, Milan, Padua and Cambridge.
 
@@ -138,20 +138,10 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Job Title: Partner
 - Years of Experience: 33 years
 - Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
+- IA/IP-Related Expertise: Trade Mark Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting, IP Training
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
 - Awards/Accolades: Chambers Asia Pacific 2023 - Ranked, Asia IP Experts 2021 - IP Expert, IP Stars 2021 - Trade mark and copyright - Expert, Doyle's Guide 2020 - TMT
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/jonathan-kok" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/jonathan-kok</a>
-
-**Alvin Lim**
-
-- Job Title: Special Counsel
-- Years of Experience: 17 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore  
-- Awards/Accolades: IP Stars 2021 - Patent - Expert
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/alvin-lim" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/alvin-lim</a>
 
 **Joyce Lee**
 
@@ -171,14 +161,6 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Certifications/Qualifications: Advocate & Solicitor in Singapore, Certified Information Privacy Professional/Europe (CIPP/E)
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/lee-in-hae" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/lee-in-hae</a>
 
-**Melanie Yun**
-
-- Job Title: Senior Patent Associate
-- Years of Experience: 8 years
-- Location: Singapore
-- IA/IP-Related Expertise: Patent Agent Service, Registered Design Agent Service, IP Due Diligence, IP Portfolio Management, Contract Drafting
-- Certifications/Qualifications: Patent Attorney Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/melanie-yun" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/melanie-yun</a>
 
 **Bernetta Foong**
 
@@ -189,18 +171,11 @@ Withers has 17 offices worldwide in London, New York, New Haven, Greenwich (Conn
 - Certifications/Qualifications: Advocate & Solicitor in Singapore
 - URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/bernetta-foong" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/bernetta-foong</a>
 
-**Valen Lim**
 
-- Job Title: Associate
-- Years of Experience: 2 years
-- Location: Singapore
-- IA/IP-Related Expertise: Registered Design Agent Service, Trade Mark Agent Service, IP Due Diligence, Contract Drafting, Dispute Resolution
-- Certifications/Qualifications: Advocate & Solicitor in Singapore
-- URL of LinkedIn/Company Profile: <a href="https://www.withersworldwide.com/en-gb/people/valen-lim" target="_blank" rel="noopener">https://www.withersworldwide.com/en-gb/people/valen-lim</a>
 
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/642e09e3f5467b0012bba932' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 24 April 2024
