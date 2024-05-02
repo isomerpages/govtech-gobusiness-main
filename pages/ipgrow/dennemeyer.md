@@ -287,4 +287,4 @@ In addition to a full spectrum of IP-related legal services, Dennemeyer offers I
 <p>
 <a class='btn' href='https://form.gov.sg/645a0df502527d0013e68201' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024

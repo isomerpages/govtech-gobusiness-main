@@ -181,4 +181,4 @@ We are a specialist IP law firm, established in 2001, providing expert legal adv
 <p>
 <a class='btn' href='https://form.gov.sg/64913e7cd94807001107ce82' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 26 July 2023
+Profile last updated on 11 April 2024
