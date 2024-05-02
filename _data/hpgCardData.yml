@@ -58,14 +58,14 @@
   alt: Explore More
   title: Explore More
   id: 4
-  href_1: '/intellectual-property/ip-grow/?src=home_quicklinks'
-  text_1: Intellectual Property
-  is_new_1: false 
-  href_2: '/regulatory-requirements-guides/?src=home_quicklinks'
-  text_2: Regulatory requirements guides
-  is_new_2: false
-  href_3: '/enterprisejobskills/?src=home_quicklinks'
-  text_3: Enterprise Portal for Jobs and Skills (EPJS)
+  href_1: '/enterprisejobskills/?src=home_quicklinks'
+  text_1: Skillsfuture for Business
+  is_new_1: true
+  href_2: '/intellectual-property/ip-grow/?src=home_quicklinks'
+  text_2: Intellectual Property
+  is_new_2: false 
+  href_3: '/regulatory-requirements-guides/?src=home_quicklinks'
+  text_3: Regulatory requirements guides
   is_new_3: false
   href_4: '/Haze/?src=home_quicklinks'
   text_4: Haze
