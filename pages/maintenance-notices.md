@@ -12,11 +12,13 @@ Kindly note the following scheduled maintenance. We apologise for the inconvenie
 | **Scheduled Date** | **Remarks** |  
 
 
-| 30 Apr, 11pm - 1 May, 2am | **ACRA** will be undergoing scheduled maintenance. **Name reservation application and business registration for Sole Proprietorship/Partnership, and information from ACRA for GoBusiness and Business Grants** will not be available during this period. |          
+ 
 | 2 May, 6pm - 11:59pm | **Application, amendment, renewal & cancellation of National Environmental Agency (NEA) licences** will be unavailable during the upcoming scheduled maintenance. |    
-| 2 May, 10.50pm - 3 May, 2am | **Corppass Services** will be unavailable due to scheduled maintenance. |           
-| 3 May, 3pm - 6 May, 10am<br>23 May, 3pm - 27 May, 10am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |  
-| 5 May, 12am - 6 May, 2am | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |      
+| 2 May, 7:15pm - 9:15pm | **Application, amendment, renewal & cancellation of Singapore Police Force (SPF) licences** will be unavailable during the upcoming scheduled maintenance. |                
+| 2 May, 10:50pm - 3 May, 2am | **Corppass Services** will be unavailable due to scheduled maintenance. |           
+| 3 May, 3pm - 6 May, 10am<br>23 May, 3pm - 27 May, 10am | **All NEA Licences & Submission of Returns** on GoBusiness Portal will be unavailable during the upcoming scheduled maintenance. |       
+| 4 May, 12am - 6am<br>4 May, 10pm - 5 May, 8am | **GoBusiness Licensing** will be unavailable due to scheduled maintenance. Guided Journey for Food Services will remain available. |                 
+      
 
 
 
