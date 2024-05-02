@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Newly revamped SkillsFuture for Business now open
-permalink: /news-and-updates/updates/enhancement-of-eeg
+permalink: /news-and-updates/updates/sfb-on-gobusiness
 published: true
 preview: |
   Experience a refreshed SkillsFuture for Business (formerly the Enterprise Portal for Jobs & Skills and SkillsFuture for Enterprise) on GoBusiness 
-image: /images/news/EnhancementOfEEG.png
+image: /images/news/SFBonGobiz.png
 ---
 
 ### Newly revamped SkillsFuture for Business now open
