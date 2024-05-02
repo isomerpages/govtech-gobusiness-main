@@ -32,20 +32,12 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201323996K-Adptv-Py-v-2022-G' target='_blank'>Adaptive Pay Version 2022</a><br></td>
-<td>Adaptive Cloud Systems Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200603625R-AGHRM-G' target='_blank'>AGHRM</a><br></td>
 <td>AG NET PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201324947N-QuckHR-G' target='_blank'>QuickHR</a><br></td>
 <td>Enable Business Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-v-8-AutomtHR-Frontr-G' target='_blank'>Frontier e-HR Version 8 - AutomateHR eFrontier</a><br></td>
-<td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200711480W-AI-INFOTECH-Cloud-HRMS-v-80-G' target='_blank'>(A.I.) INFO-TECH Cloud HRMS Version 8.0</a><br></td>
