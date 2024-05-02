@@ -32,10 +32,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>CalendarOne Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201330180E-Ebr-Loylty-Mrktng-Pltform--G' target='_blank'>Eber Loyalty Marketing Platform </a><br></td>
-<td>Eber Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201403211Z-QuckDsk-Mrktng-G' target='_blank'>QuickDesk Marketing</a><br></td>
 <td>QuickDesk Pte. Ltd.</td>
 </tr>
