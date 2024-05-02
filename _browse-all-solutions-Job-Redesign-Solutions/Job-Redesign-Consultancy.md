@@ -21,11 +21,11 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198901141D-Job-Rdsgn-CST-Aon-SLNs-SG-PL-G' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a><br></td>
-<td>BDO Consultants Pte Ltd</td>
+<td>Aon Solutions Singapore Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199806356D-Job-Rdsgn-CST-BDO-Consultnts-PL-G' target='_blank'>Job Redesign Consultancy - BDO Consultants Pte Ltd</a><br></td>
-<td>Cadence Group Pte Ltd</td>
+<td>BDO Consultants Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201714117R-Job-Rdsgn-CST-Cdnc-Group-PL-G' target='_blank'>Job Redesign Consultancy - Cadence Group Pte Ltd</a><br></td>
@@ -42,14 +42,6 @@ This solution is supported by Workforce Singapore (Workforce Singapore (WSG)).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198905395E-Job-Rdsgn-CST-Ernst-&-Young-Advsory-PL-G' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br></td>
 <td>Ernst & Young Advisory Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198600361K-Job-Rdsgn-CST-Wlls-Towrs-Wtson-CST-SG-PL-G' target='_blank'>Job Redesign Consultancy - Willis Towers Watson Consulting (Singapore) Pte Ltd</a><br></td>
-<td>Willis Towers Watson Consulting (Singapore) Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201323340N-Job-Rdsgn-CST-SG-Productvty-Cntr-PL-G' target='_blank'>Job Redesign Consultancy - Singapore Productivity Centre Pte Ltd</a><br></td>
-<td>Singapore Productivity Centre Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/197802499E-Job-Rdsgn-CST-Mrcr-SG-PL-G' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br></td>
