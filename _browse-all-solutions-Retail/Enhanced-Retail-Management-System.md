@@ -28,16 +28,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/198901360G-AZ-Dgtl-POS-SLN-G' target='_blank'>AZ Digital POS solution</a><br></td>
-<td>AZ Digital Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200310497R-MyRtlr-&rod-POS-G' target='_blank'>MyRetailer Android POS</a><br></td>
 <td>DCS Synthesis Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201002583D-EQupPOS-Rtl-SLNs-v-3-G' target='_blank'>EQuipPOS Retail Solutions Version 3</a><br></td>
-<td>Edgeworks Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200706756M-Eurostop-OmnChnnl-Rtl-MGT-Systm-v-10-G' target='_blank'>Eurostop Omni-Channel Retail Management System Version 10</a><br></td>

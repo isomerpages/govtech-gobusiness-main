@@ -37,16 +37,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201934693K-Invsron-Cybr-Dfnc-G' target='_blank'>Invisiron Cyber Defence</a><br></td>
-<td>Invisiron Pte. Ltd.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201834474D-ZBD-Totl-Fortfd-Cybr-Scurty-G' target='_blank'>ZBD Total Fortified Cyber Security</a><br></td>
 <td>Zebedee Solution Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200001459N-Mngd-Frwll-SLN-G' target='_blank'>Managed Firewall Solution</a><br></td>
-<td>LGA Telecom Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201300674N-AWECREATION-Fortnt-Mngd-Frwll-SLNs-G' target='_blank'>AWECREATION - Fortinet Managed Firewall Solutions</a><br></td>

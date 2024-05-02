@@ -159,4 +159,4 @@ FPA Patent Attorneys Asia has two focusses. One being on domestic SME's and star
 <p>
 <a class='btn' href='https://form.gov.sg/642f80ee20620f0012c04f2a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 23 August 2023
+Profile last updated on 11 April 2024
