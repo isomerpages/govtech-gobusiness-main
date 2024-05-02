@@ -36,6 +36,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Daikin - MKP75VVMG
 - Daikin - RKM25PVMG
 - Daikin - RKM25XVMG
+- Daikin - RXMUQ4AVEG
+- Daikin - RXMUQ5AVEG
+- Daikin - RXMUQ6AVEG
 - Daikin - RXQ10AYM
 - Daikin - RXQ10AYMW
 - Daikin - RXQ12AYM
@@ -60,7 +63,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Enovatek Energy - EES-ADX24GW-XA-32R+5
 - EuropAce - ESAC MA3R215A
 - EuropAce - ESAC MA4R285A
+- EuropAce - ESAC18CUD
+- EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
+- EuropAce - ESAC32CUD
 - Fujitsu - AJA040LELBH
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA
@@ -69,6 +75,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
 - Fujitsu - AOAH36CBTA
+- GREE - GMVL-120WL/A-K(P)
+- GREE - GMVL-140WL/A-K(P)
+- GREE - GMVL-160WL/A-K(P)
 - GREE - GMVL-224WM/G-X(P)
 - GREE - GMVL-280WM/G-X(P)
 - GREE - GWC09ATDXD-K6DNA3A/O
@@ -107,6 +116,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
+- LG - ZRUV030GSD5
+- LG - ZRUV040GSD5
+- LG - ZRUV050GSD5
 - Midea - M4OA-28CRFN8E
 - Midea - M4OA-32CRFN8E
 - Midea - M5OA-40CRFN8E
@@ -119,8 +131,12 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
+- Midea - MDV-V28WDHN1(SG)
+- Midea - MDV-V36WDHN1(SG)
+- Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
+- Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
@@ -129,6 +145,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Mitsubishi Electric - MXY-4H33VG2
 - Mitsubishi Electric - MXY-4H38VG
 - Mitsubishi Electric - MXY-5H48VG
+- Mitsubishi Electric - MXY-6C53VAM
+- Mitsubishi Electric - MXY-6D53VFM
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG
 - Mitsubishi Electric - PUCY-EP200YKE.TH-SG-BS
 - Mitsubishi Electric - PUCY-EP250YKE.TH-SG
@@ -223,6 +241,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Toshiba - RAS-5M51U2ACVG-SG
 - Tosot - TR32SAC18CUD
 - Tosot - TR32SAC21CUD
+- Tosot - TR32SAC28CUD
+- Tosot - TR32SAC32CUD
 
 
 <script src='/jquery/resize-tables.js'></script>
