@@ -7,13 +7,13 @@ permalink: /intellectual-property/ip-grow/firefish-branding/
 
 Established since 1998, Firefish is an award-winning branding agency and consultancy with presences in Singapore, London, New York, Shanghai, Jakarta and Kuala Lumpur. We provide end-to-end comprehensive branding solutions covering brand consulting, brand audit, brand naming, brand strategy, employer branding to brand activation.
 
-Our proprietary branding framework, Brandgrammar™ is based on masters research work in National University of Singapore. Over the years, Brandgrammar™ has been developed, tested and proven in actual branding projects and shown to deliver transformative branding results across industries.
+Our proprietary branding framework, Brandgrammar® is based on masters research work in National University of Singapore. Over the years, Brandgrammar® has been developed, tested and proven in actual branding projects and shown to deliver transformative branding results across industries.
 
 Ignited by passion and harnessing new knowledge constantly, we believe we are able to transform your business from the inside-out, scale your brand, and together make a sustainable impact in today's changing world.
 
 <b>Year established in Singapore:</b> 2015
 
-<b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy, IP Strategy Consulting
+<b>Top focus areas for IA/IP services:</b> Branding Strategy, Innovation Consultancy, IP Audit, IP Strategy Consulting, IP Training
 
 <b>Type of organization:</b> SME
 
@@ -21,7 +21,7 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 
 <b>Website:</b> <a href='https://firefish.com'>https://firefish.com</a>
 
-<b>Offer:</b> No-obligations discovery call over Zoom. Or better still, in-person over coffee (on us).
+<b>Offer:</b> Get a complimentary consultation
 
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>
 
@@ -35,37 +35,67 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 21 to 25</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 6 to 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $41,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 **Innovation Consultancy Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Innovation Consultancy IP experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $43,200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+</ul>
+
+**IP Audit Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Audit experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+</ul>
+
+**IP Due Diligence Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects on database in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Database experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 **IP Strategy Consulting Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 11 to 15</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $21,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
+</ul>
+
+**IP Training Services**
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  Less than $200 to $1200</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of courses completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts in Singapore: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Training experts overseas: 0</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $20,000</li>
 </ul>
 
 ---
 <a name='industry-focus'></a>
 ### Industry focus
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction</li><li style='line-height: 27px; margin: 0px 0px !important'>Education</li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals</li><li style='line-height: 27px; margin: 0px 0px !important'>Enviromental Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services</li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media</li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics</li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore</li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services</li><li style='line-height: 27px; margin: 0px 0px !important'>Retail</li><li style='line-height: 27px; margin: 0px 0px !important'>Security</li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Construction, </li><li style='line-height: 27px; margin: 0px 0px !important'>Education, </li><li style='line-height: 27px; margin: 0px 0px !important'>Energy and Chemicals, </li><li style='line-height: 27px; margin: 0px 0px !important'>Financial Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Manufacturing, </li><li style='line-height: 27px; margin: 0px 0px !important'>Food Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Healthcare, </li><li style='line-height: 27px; margin: 0px 0px !important'>Hotel, </li><li style='line-height: 27px; margin: 0px 0px !important'>ICT and Media, </li><li style='line-height: 27px; margin: 0px 0px !important'>Logistics, </li><li style='line-height: 27px; margin: 0px 0px !important'>Marine and Offshore, </li><li style='line-height: 27px; margin: 0px 0px !important'>Professional Services, </li><li style='line-height: 27px; margin: 0px 0px !important'>Real Estate, </li><li style='line-height: 27px; margin: 0px 0px !important'>Retail, </li><li style='line-height: 27px; margin: 0px 0px !important'>Sea Transport, </li><li style='line-height: 27px; margin: 0px 0px !important'>Security, </li><li style='line-height: 27px; margin: 0px 0px !important'>Wholesale Trade</li></ul>
 
 ---
 <a name='office-locations'></a>
@@ -126,4 +156,4 @@ Ignited by passion and harnessing new knowledge constantly, we believe we are ab
 <p>
 <a class='btn' href='https://form.gov.sg/64ed5e4dd8368600129020fc' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 26 September 2023

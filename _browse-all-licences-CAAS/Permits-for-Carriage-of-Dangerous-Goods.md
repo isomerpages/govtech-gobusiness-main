@@ -8,7 +8,7 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
-{% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/" type="primary" %}
+{% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/carriage-of-dangerous-goods/air-operators/dangerous-goods-permit" type="primary" %}
 
 <H3>Application Details</H3>
 

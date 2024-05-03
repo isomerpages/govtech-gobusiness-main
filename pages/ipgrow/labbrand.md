@@ -82,4 +82,4 @@ As a leading branding agency, we offer comprehensive consultancy on Branding, Na
 <p>
 <a class='btn' href='https://form.gov.sg/64f31887c5977e001157b37a' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 September 2023

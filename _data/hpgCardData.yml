@@ -39,8 +39,13 @@
   title: Government Assistance
   id: 3
   href_1: /gov-assist/budget-announcement-for-businesses/
+<<<<<<< HEAD
   text_1: Budget 2024
   is_update_1: true
+=======
+  text_1: Budget 2023
+  is_new_1: false
+>>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
   href_2: 'https://eadviser.gobusiness.gov.sg/govassist?src=home_quicklinks'
   text_2: 'e-Adviser: Find eligible schemes'
   target_2: _blank
@@ -49,7 +54,7 @@
   is_new_3: false
   href_4: '/energy-efficiency-grant/?src=home_quicklinks'
   text_4: Energy Efficiency Grant
-  is_update_4: true
+  is_new_4: false
   href_5: '/business-grants-portal/?src=home_quicklinks'
   text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'

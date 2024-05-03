@@ -96,4 +96,4 @@ We tailor our offer to suit our clients' needs, combining independent local & gl
 <p>
 <a class='btn' href='https://form.gov.sg/655574dcb5d87b001228ae4f' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 

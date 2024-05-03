@@ -75,10 +75,40 @@ Founded in 2006, OOm is a one-stop digital marketing company that helps SMEs and
 - IA/IP-Related Expertise: Branding Strategy
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/wyvanxu/" target="_blank" rel="noopener">https://www.linkedin.com/in/wyvanxu/</a>
 
+**Ang Yue Han**
 
+- Job Title: Team Lead, Senior Business Manager
+- Years of Experience: 7 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/ang-yue-han-17559210b/" target="_blank" rel="noopener">https://www.linkedin.com/in/ang-yue-han-17559210b/</a>
+
+**Rueben**
+
+- Job Title: Team Lead, Senior Business Manager
+- Years of Experience: 5 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/rueben-rajkumar-0b651a110/" target="_blank" rel="noopener">https://www.linkedin.com/in/rueben-rajkumar-0b651a110/</a>
+
+**Sebastian Tan**
+
+- Job Title: Team Lead, Senior Business Manager
+- Years of Experience: 5 years
+- Location: Singapore
+- IA/IP-Related Expertise: Branding Strategy
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/sebastian-tan-2a32a51a5/" target="_blank" rel="noopener">https://www.linkedin.com/in/sebastian-tan-2a32a51a5/</a>
+
+**James Kong**
+
+- Job Title: Team Lead, Senior Business Manager
+- Years of Experience: 3 years
+- Location: Singapore
+- IA/IP-Related Expertise: Brand Strategy
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/james-kong-2b24b061/" target="_blank" rel="noopener">https://www.linkedin.com/in/james-kong-2b24b061/</a>
 
 ---
 <p>
 <a class='btn' href='https://form.gov.sg/64a39cb9b529c3001260ab83' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 July 2023

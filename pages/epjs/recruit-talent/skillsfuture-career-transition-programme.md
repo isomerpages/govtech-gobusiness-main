@@ -5,6 +5,10 @@ permalink: /enterprisejobskills/programmes-and-initiatives/recruit-talent/skills
 
 ### Train, host, and hire mid-career individuals through project attachments at your company
 
+The SkillsFuture Career Transition Programme (SCTP) supports mid-career individuals in acquiring industry-relevant skills to improve employability and pivot to new sectors or job roles. It is a train-and-place programme that is available on a part-time or full-time format, ranging from three to 12 months.
+
+The SCTP is delivered by Continuing Education and Training (CET) Centres and the courses have been progressively rolled out from 1 April 2022 in sectors with good hiring opportunities such as Infocomm and Technology, Healthcare, Professional Services and Manufacturing.
+
 ---
 
 ### How you can benefit:
@@ -18,6 +22,8 @@ As an employer, you can partner the training providers to offer industry attachm
 ### Subsidies and funding:
 
 The SCTP courses are for self-sponsored individuals and will be subsidised at SSG's prevailing funding rates.
+
+Enterprises will be eligible for the Jobs Growth Incentive (JGI) when you hire the mid-career individuals and upon meeting the JGI conditions.
 
 ---
 

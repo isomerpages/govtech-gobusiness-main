@@ -1,28 +1,47 @@
 - accordion:
   letter: a
   data:
-    - title: Improve My Financial Management
+    - title: Help My Business through COVID-19
       content: |
+<<<<<<< HEAD
         **Enhanced Enterprise Financing Scheme - sme Working Capital Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
         <br>Extending support for SMEs to finance their operational cashflow needs. Maximum loan quantum increased to $500,000.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---sme-working-capital" target="_blank" rel="noopener">Find Out More</a>
 
         **Enterprise Financing Scheme (EFS) <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
+=======
+        **Enhanced Enterprise Financing Scheme - SME Working Capital Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">**
+        <br>Receive greater financing support to bridge your working capital gaps. Maximum supported loan of $500,000.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---sme-working-capital" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enhanced Enterprise Financing Scheme - Trade Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">**
+        <br>Get better access to trade financing amidst the current environment of slower business activities and longer payment cycles. Maximum supported loan of $10m, with 90% Government risk-share. 
+
+        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---trade-loan" target="_blank" rel="noopener">Find Out More</a>
+
+    - title: Improve My Financial Management
+      content: |
+        **Enhanced Enterprise Financing Scheme - Trade Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">**
+        <br>Extension of enhanced support for trade financing needs from 1 April 2022 to 30 September 2022, to ease enterprises' access to credit to mitigate short-term cashflow pressures.
+
+        Enhanced support for enterprises trading in challenged markets to encourage internationalisation.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---trade-loan" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enterprise Financing Scheme (EFS)**
+>>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
         <br>The EFS helps Singapore enterprises to access financing more readily. EnterpriseSG will share the loan default risk in the event of enterprise insolvency with the Participating Financial Institutions.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme" target="_blank" rel="noopener">Find Out More</a>
-
-        **Enterprise Financing Scheme-Green (EFS-Green) <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">**
-        <br>Extension of support to include the adoption of green solutions till March 2026.
-
-        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---green" target="_blank" rel="noopener">Find Out More</a>
 
 - accordion:
   letter: b
   data:
     - title: Building and Construction
       content: |
+<<<<<<< HEAD
         **Enhanced Enterprise Financing Scheme - Project Loan <img src="/images/budget2024/budget2024.png" alt="Mentioned during the Budget 2024">** 
         <br>Extension of support for domestic projects for construction sector until 31 March 2025.
 
@@ -34,3 +53,14 @@
         <br>Extension of support until 31 March 2025 at 50% Government risk-share.
 
         <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---trade-loan" target="_blank" rel="noopener">Find Out More</a>
+=======
+        **Enhanced Enterprise Financing Scheme - Merger & Acquisitions**
+        <br>Supports enterprises' M&A financing needs, including for domestic M&A deals from 1 April 2022 to 31 March 2026, to encourage restructuring and consolidation post-COVID.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---mergers-and-acquisitions" target="_blank" rel="noopener">Find Out More</a>
+
+        **Enhanced Enterprise Financing Scheme - Project Loan <img src="/images/budget2023/budget2023.png" alt="Mentioned during the Budget 2023">**
+        <br>Extension of support for domestic projects for construction sector from 1 April 2022 to 31 March 2023.
+
+        <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme---project-loan" target="_blank" rel="noopener">Find Out More</a>
+>>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)

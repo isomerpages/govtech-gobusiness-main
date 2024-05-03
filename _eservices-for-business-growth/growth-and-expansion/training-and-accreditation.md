@@ -24,6 +24,9 @@ The [Progressive Wage (PW) Mark](/accreditation/pwmark/) accreditation can be ap
 - [Application for accreditation to conduct verification](https://form.gov.sg/#!/5be3fcda9f12c6000fa3cb72){:target="_blank"}{:rel="noopener"}
   <br>Apply to be accredited to conduct third-party greenhouse gas verification under the Carbon Pricing Act.
 
+- [Enhanced Clean Mark Accreditation Scheme](https://www.nea.gov.sg/programmes-grants/schemes/enhanced-clean-mark-accreditation){:target="_blank"}{:rel="noopener"}
+  <br>Apply to have your business recognised for high cleaning standards through the training of workers, use of equipment to improve work processes, and fair employment practices.
+
 **Maritime and Port Authority of Singapore (MPA Singapore)**
 
 - [Accreditation Scheme for Bunker Suppliers](https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines){:target="_blank"}{:rel="noopener"}

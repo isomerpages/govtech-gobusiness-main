@@ -15,6 +15,8 @@ Before starting your business, it helps to have a clear idea of what you need to
 
 GoBusiness Start-up Guide will walk you through the questions above and more.
 
+{% include banner-improve-eadviser.html %}
+
 {% include overview.html anchorlinks=site.data.ov001-start %}
 
 <hr>

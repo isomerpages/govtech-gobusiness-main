@@ -107,7 +107,7 @@ The [SkillsFuture Enterprise Credits (SFEC)](https://www.gobusiness.gov.sg/enter
 ![Table providing an example computation of cost savings when using SFEC to offset training costs](/images/blog/content/HiringFirstEmployee 6.png)
 <figcaption>An example of how employers can tap on SFEC for subsidised courses</figcaption>
 
-No application is required for the SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing, and companies can find out their SFEC balance by logging in to the [SkillsFuture Enterprise Credit system](https://www.gobusiness.gov.sg/enterprisejobskills/digital-services/){:target="_blank"}{:rel="noopener"}.
+No application is required for the SFEC. Enterprises that are eligible for SFEC will be notified by Enterprise Singapore in writing, and companies can find out their SFEC balance by logging in to the [SkillsFuture Singapore’s SFEC microsite](https://sfec.enterprisejobskills.gov.sg/Callbackhandler/Prelogin.aspx){:target="_blank"}{:rel="noopener"}.
 
 Alternatively, employers can train your employees via lessons through the [SkillsFuture Series](https://www.skillsfuture.gov.sg/series){:target="_blank"}{:rel="noopener"}, a curation of short, industry-relevant training programmes that focus on emerging skills in the Digital, Green, Care, and Industry 4.0 economic growth pillars. The programme comprises 3 proficiency levels, namely Basic, Intermediate, and Advanced, and it targets Singaporeans who are keen to improve their knowledge of these emerging sectors to stay relevant for the future.
 

@@ -8,7 +8,7 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/freedomfromdisease" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/ccf3cdfb-9f8f-4e6d-b3a2-909afe8786dd" type="primary" %}
 
 <H3>Application Details</H3>
 

@@ -37,7 +37,7 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of classes completed in previous calendar year: 1 to 250</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Trade Mark Agents overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $100</li>
 </ul>
 
 ---
@@ -58,7 +58,7 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 
 **Percentage of clients by country, based on previous calendar year:**
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 89%</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Taiwan - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Switzerland -1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 1%</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> Singapore - 76%</li><li style='line-height: 27px; margin: 0px 0px !important'>Malaysia - 9%</li><li style='line-height: 27px; margin: 0px 0px !important'>Japan - 5%</li><li style='line-height: 27px; margin: 0px 0px !important'>Thailand - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Indonesia - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>India - 2%</li><li style='line-height: 27px; margin: 0px 0px !important'>Australia - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Hong Kong - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>China - 1%</li><li style='line-height: 27px; margin: 0px 0px !important'>Others - 1%</li></ul>
 
 ---
 <a name='testimonials'></a>
@@ -87,4 +87,4 @@ We lead with a dedication to quality and ethics, and are passionate about our cl
 <p>
 <a class='btn' href='https://form.gov.sg/6549cfafefc1a10012eba045' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 

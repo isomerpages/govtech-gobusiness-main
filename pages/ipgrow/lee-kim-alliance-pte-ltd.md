@@ -78,4 +78,4 @@ We have branches in Korea, Vietnam, and Hong Kong, and experts in each country p
 <p>
 <a class='btn' href='https://form.gov.sg/6549cc9f7e1a3a001240fa6b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 

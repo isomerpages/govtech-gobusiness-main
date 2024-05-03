@@ -47,7 +47,7 @@ Already know your business’ skills needs? Browse the Enterprise Portal for Job
 {% include panels-featurelink.html panels=site.data.rgp005a_skillsfuture-overview-epjs %}
 
 ---
-<a name="skills-development_levy"></a>
+<a name="entreprise_portal_for_jobs_and_skills_epjs"></a>
 ### About the Skills Development Levy (SDL)
 
 The SDL is a compulsory monthly levy that businesses have to pay on **all employees**, to support workforce upgrading programmes and to provide training grants. It is administrated by the SkillsFuture Singapore Agency (SSG).

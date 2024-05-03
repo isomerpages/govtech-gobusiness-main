@@ -182,4 +182,4 @@ Through our association with international law firm Gowling WLG, we support our 
 <p>
 <a class='btn' href='https://form.gov.sg/64d05bad09d6fc0011d7a842' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 August 2023

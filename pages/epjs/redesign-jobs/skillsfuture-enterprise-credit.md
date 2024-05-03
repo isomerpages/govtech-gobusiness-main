@@ -15,11 +15,11 @@ The SFEC supports programmes under two broad categories:
 
 - **Enterprise Transformation**: Programmes that support enterprise transformation
 
-- **Workforce Transformation**: Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, <a href="https://conversion.mycareersfuture.gov.sg/portal/programlisting.aspx?source=PCP" target="_blank" rel="noopener">Career Conversion Programmes</a> and sector-specific programmes
+- **Workforce Transformation**: Job redesign initiatives, and curated training programmes by SkillsFuture Singapore and Workforce Singapore, such as training courses aligned to the Skills Framework, Career Conversion Programmes and sector-specific programmes
 
 ---
 
-### For the full list of SFEC-supportable courses, please visit our <a href="https://courses.enterprisejobskills.gov.sg/Course_Internet" target="_blank" rel="noopener">Course Directory</a>.
+### For the full list of SFEC-supportable programmes, visit <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>.
 
 ---
 
@@ -68,7 +68,7 @@ Please refer to the table below for the qualifying periods and the respective el
 
 A separate application for SFEC is not necessary. ESG will notify all newly eligible employers for SFEC via email sent to their registered CorpPass Administrators.
 
-Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2025. Claims can be submitted only for training which has been completed.
+Employers newly qualified in 2021 may use their SFEC for supportable programmes applied from 1 April 2022. Employers who were previously qualified can continue to use their SFEC for supportable programmes submitted on or after 1 April 2020. Final claims for SFEC-supportable programmes must be submitted to the respective agencies by 30 June 2024. Claims can be submitted only for training which has been completed.
 
 For further questions on SFEC and on your eligibility, you may contact Enterprise Singapore <a href="https://go.gov.sg/askenterprisesg" target="_blank" rel="noopener">here</a> for assistance.
 
@@ -76,17 +76,19 @@ For further questions on SFEC and on your eligibility, you may contact Enterpris
 
 ### Resources
 
-- <a href="https://go.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-faq" target="_blank" rel="noopener">Frequently Asked Questions</a>
 
-- <a href="https://go.gov.sg/sfec-claim-guide" target="_blank" rel="noopener">SFEC Claim How-To Guide</a>
+- <a href="/images/epjs/programmes-and-initiatives/redesign-jobs/Quick_Guide_to_access_Training_Plans_in_the_Skills_Framework.pdf" target="_blank" rel="noopener">Quick Guide to access Training Plans in the Skills Framework (PDF,1086KB)</a>
+
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/sfec-user-claim-guide" target="_blank" rel="noopener">SFEC Claim guide</a>
+
+- <a href="/images/epjs/programmes-and-initiatives/redesign-jobs/SFEC_Infographic_2022_Final.pdf" target="_blank" rel="noopener">SFEC Infographic Guide (PDF,734KB)</a>
 
 ---
 
-Note: You will require a Corppass account with "EPJS_User" role assigned prior to login.
+### Related Digital Services
 
----
-
-{% include primary-btn.html href="https://cp.ssg-wsg.gov.sg/login?partnerID=https://cp.ssg-wsg.gov.sg&eserviceID=SFTS&type=CPOIDC" text="Submit SFEC claim" target="_blank" rel="noopener" %}
+- <a href="https://sfec-microsite.enterprisejobskills.gov.sg/home/" target="_blank" rel="noopener">SFEC Microsite</a>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>

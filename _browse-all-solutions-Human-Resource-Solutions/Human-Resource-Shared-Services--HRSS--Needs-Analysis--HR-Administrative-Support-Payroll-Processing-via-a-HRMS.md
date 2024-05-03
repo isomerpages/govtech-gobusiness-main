@@ -32,15 +32,35 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200005018Z-Frontr-HR-HRSS-v-8-G' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution248' target='_blank'>Frontier eHR HRSS Version 8</a><br></td>
 <td>Frontier e-HR Pte Ltd </td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201512065D-HRM-Lbs-Shrd-SVC-G' target='_blank'>HRM Labs Shared Service</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution287' target='_blank'>HRM Labs Shared Service</a><br></td>
 <td>Hrm Labs Pte Ltd</td>
 </tr>
 <tr>
+<<<<<<< HEAD
 <td><a href='/productivity-solutions-grant/solutionrepo/201539815G-HRSS-&-Pyroll-Procssng-wth-QuckHR-G' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
+=======
+<td><a href='/productivity-solutions-grant/solutionrepo/solution385' target='_blank'>HR administration with payroll processing via SaaS solutions Version 21-3.1</a><br></td>
+<td>MATCH RESOURCES PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution512' target='_blank'>HR Shared Services by RecruitSG</a><br></td>
+<td>RECRUIT.COM.SG PTE. LTD.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution979' target='_blank'>Enable Consulting HRSS - Payroll Outsourcing</a><br></td>
+<td>Enable Consulting Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1258' target='_blank'>BIPO Human Resource Management System and Payroll Outsourcing Services Version 1.21.53.80</a><br></td>
+<td>BIPO Service Singapore Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1355' target='_blank'>HRSS & Payroll Processing with QuickHR</a><br></td>
+>>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)
 <td>Acc Pro (Singapore) Pte. Ltd.</td>
 </tr>
 <tr>

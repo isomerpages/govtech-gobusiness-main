@@ -92,4 +92,4 @@ Born in 2008 in Malaysia, and incorporated in Singapore in 2012, we have helped 
 <p>
 <a class='btn' href='https://form.gov.sg/64c9ea4d862ac600126333d8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 August 2023

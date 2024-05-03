@@ -120,4 +120,4 @@ We offer a comprehensive range of services, including patent, registered design 
 <p>
 <a class='btn' href='https://form.gov.sg/64583ea79d94740011a92042' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 August 2023

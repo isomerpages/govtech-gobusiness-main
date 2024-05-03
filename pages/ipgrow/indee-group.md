@@ -82,4 +82,4 @@ INDEE Singapore stands as the go-to specialist consulting firm, empowering compa
 <p>
 <a class='btn' href='https://form.gov.sg/64894a4e70126600125b619c' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 26 July 2023

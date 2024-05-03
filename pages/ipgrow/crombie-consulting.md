@@ -31,20 +31,20 @@ We are the brand famous for making brands famous. Over the past 35 years, we hav
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Branding Strategy IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000-$25,000 based on project scope</li>
 </ul>
 
 **IP Strategy Consulting Services**
 
 <ul>
-<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts in Singapore: 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of IP Strategy Consulting experts overseas: 1 to 5</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000-$25,000 based on project scope</li>
 </ul>
 
 ---
@@ -101,4 +101,4 @@ We are the brand famous for making brands famous. Over the past 35 years, we hav
 <p>
 <a class='btn' href='https://form.gov.sg/646ec88fcdcda70012db33e8' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 26 July 2023

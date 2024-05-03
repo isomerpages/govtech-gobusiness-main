@@ -223,7 +223,7 @@ Businesses seeking to undertake qualifying innovation projects may contact the r
         Ngee Ann Polytechnic
     </td>
     <td>
-        <a href="mailto:cfes@np.edu.sg">cfes@np.edu.sg</a>
+        <a href="mailto:ewtcoi@np.edu.sg">ewtcoi@np.edu.sg</a>
     </td>
 </tr>
 <tr>

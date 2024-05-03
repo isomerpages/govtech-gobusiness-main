@@ -3,9 +3,17 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
+<<<<<<< HEAD
       - e-Permit-to-work--e-PTW-.md
       - Quantity-Surveying-and-Valuation.md
       - Coordination-Tools-and-Collaboration-Platform.md
       - FM-Workflow-Automation.md
       - 3D-Modelling--Immersive-Visualisation-Analysis.md
       - Integrated-and-Smart-Worksite-Monitoring-and-Inspection.md
+=======
+      - 3D-Modelling--Immersive-Visualisation-Analysis.md
+      - FM-Workflow-Automation.md
+      - e-Permit-to-work--e-PTW-.md
+      - Quantity-Surveying-and-Valuation.md
+      - Coordination-Tools-and-Collaboration-Platform.md
+>>>>>>> parent of 1cbb2806b (Merge branch 'staging' into TSJ)

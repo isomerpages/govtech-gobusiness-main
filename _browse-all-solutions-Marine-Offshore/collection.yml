@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
+      - Asset-Monitoring-and-Management-System.md
       - General-M&O-Equipment.md

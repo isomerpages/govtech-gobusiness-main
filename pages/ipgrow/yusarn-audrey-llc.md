@@ -280,4 +280,4 @@ In addition to this, we have developed new intellectual property strategic advis
 <p>
 <a class='btn' href='https://form.gov.sg/64b48c75b0717e0012c39889' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 August 2023

@@ -41,17 +41,17 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Tax Advisory IP experts overseas: 0</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  NA</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $8,000</li>
 </ul>
 
 **Valuation (with IA/IP considerations) Services**
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'>Hourly rate:  $401 to $800</li>
-<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 16 to 20</li>
+<li style='line-height: 27px; margin: 0px 0px !important'>Number of projects completed in previous calendar year: 6 to 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts in Singapore: 1 to 5</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Number of Valuation IP experts overseas: 0</li>
 <li style='line-height: 27px; margin: 0px 0px !important'>Project fee starts from (in Singapore dollars):  $10,000</li>
@@ -112,4 +112,4 @@ Established in 2007, Max Lewis Consultants Pte Ltd is a professional firm specia
 <p>
 <a class='btn' href='https://form.gov.sg/640e7c7002fada001204d744' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 13 March 2024
+Profile last updated on 23 August 2023

@@ -133,11 +133,9 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 <a name='testimonials'></a>
 ### Testimonials
 
-*"We have been working specifically with Kwan Chung Min (partner), and Chung Min has been assisting Opulent Electronics International Pte. Ltd. in protecting their patent and IP rights relating to LED systems, drivers, intelligent control systems, and LED modules since 2008. Chung Min and his team are highly capable of understanding the inventions and meeting the patent prosecution related requirements in a timely manner. In particular, Chung Min has been instrumental in assisting us in dealing with technical and patentability objections raised by different patent offices, enabling us to obtain patent grants in major jurisdictions like the USA, China and Europe. Chung Min has been able to understand our in-house culture and goes the extra mile to discuss various patentability requirements with the inventors in a way that is easier to understand. Overall, I highly recommend VJP and Chung Min to anyone seeking IP-related services"*. - Wee Kai Fook, Chief Executive Office, Opulent Electronics International Pte Ltd.
+*"I write to share my experience working with VJP, which has been handling Razer's patent drafting and prosecution work. The patent attorneys in VJP demonstrated a deep understanding of our business and our intellectual property needs. They are very efficient, professional, responsive, and proactive in providing us with clear and concise advice. They have been providing regular updates on the status of our patent applications, and ensuring that we are informed of any developments or changes of the patent laws in various jurisdictions. Overall, I highly recommend VJP to anyone seeking comprehensive and effective patent drafting and prosecution services. They are a truly exceptional team of professionals who are committed to providing their clients with the best possible results."* - Nina Duan, Lead Patent Attorney, Razer (Asia-Pacific) Pte Ltd.
 
-*"Our company is in the Manufacturing and Construction sector. Viering, Jentschura & Partner LLP (VJP), specifically Mr. Gerald Koh and his team, has handled our patents in various countries over several years. VJP has offered us unparalleled expertise in patent law, with a tailored approach that has consistently delivered successful outcomes for my company's patent needs. Their team of meticulous and experienced attorneys in Singapore embodies professionalism and dedication, ensuring comprehensive protection and strategic advice. I am truly impressed by their commitment and attention to details, and would highly recommend them to anyone seeking quality patent services with a global perspective."* - Gina Lee, Executive Director, Gliderol Doors (S) Pte Ltd
-
-*"We have to thank you to your team's support and efforts, especially this year is our challenge year to manage IP portfolio with the constraint of global economy. My patent agent gave a lot of compliments to your team's great collaboration and supports on patent matters. Thank you again."*
+*"Happy to share my working experience with VJP as they have been assisting my company in protecting our IP rights for many years.  The team at VJP is highly capable of understanding the inventions and meeting the Intellectual Property requirements in an efficient manner.  They are highly successful in removing any barriers of language, time, etc. and work in sync with the in-house counsels by providing helpful add-on advices and solutions. The quality of service and timely delivery of assignments are pretty unique features of theirs.  VJP team stays ahead by updating themselves and their clients of the new developments across all IP domains in multiple jurisdictions.   All in all, I can strongly recommend VJP for their excellent command over different specialized areas of IP, as this niche practice demands excellent quality, proactive behaviour and deep level of understanding, which they possess."* - In-house counsel, Tencent Holdings Limited.
 
 
 
@@ -165,6 +163,15 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 - Certifications/Qualifications: Singapore Patent Attorney
 - Awards/Accolades: MIP IP Star
 - URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/audrey-goh-75319613" target="_blank" rel="noopener">https://www.linkedin.com/in/audrey-goh-75319613</a>
+
+**Peter Lian**
+
+- Job Title: Partner
+- Years of Experience: 21 years
+- Location: Singapore
+- IA/IP-Related Expertise: Patent Agent Service, Freedom-to-Operate (FTO), IP Watch, IP Due Diligence, IP Portfolio Management
+- Certifications/Qualifications: Singapore Patent Attorney  
+- URL of LinkedIn/Company Profile: <a href="https://www.linkedin.com/in/peter-lian-a1338b11" target="_blank" rel="noopener">https://www.linkedin.com/in/peter-lian-a1338b11</a>
 
 **Michael Koch**
 
@@ -233,4 +240,4 @@ Viering, Jentschura & Partner (VJP) Singapore is part of a more than 250 member 
 <p>
 <a class='btn' href='https://form.gov.sg/643f4dbebce917001147346b' target='_blank' rel='noopener'>Get in touch</a>
 </p>
-Profile last updated on 11 April 2024
+Profile last updated on 23 August 2023
