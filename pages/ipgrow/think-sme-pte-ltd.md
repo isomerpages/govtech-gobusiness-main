@@ -100,7 +100,7 @@ Our comprehensive host of Financial, Branding & Marketing, Tech Solutions, and C
 <a name='case-studies'></a>
 ### Case studies
 
-<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.behance.net/gallery/185167937/Brand-Manual-and-Brand-Identity-Jupiter-Protection" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 2](https://www.behance.net/gallery/186503941/Brand-Manual-and-Brand-Identity-RH-Tech)</li><li style='line-height: 27px; margin: 0px 0px !important'>[case study 3](https://www.behance.net/gallery/186043061/Brand-Manual-and-Brand-Identity-B-C-Laboratory)</li></ul>
+<ul><li style='line-height: 27px; margin: 0px 0px !important'> <a href="https://www.behance.net/gallery/185167937/Brand-Manual-and-Brand-Identity-Jupiter-Protection" target="_blank" rel="noopener">case study 1</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.behance.net/gallery/186503941/Brand-Manual-and-Brand-Identity-RH-Tech" target="_blank" rel="noopener">case study 2</a></li><li style='line-height: 27px; margin: 0px 0px !important'><a href="https://www.behance.net/gallery/186043061/Brand-Manual-and-Brand-Identity-B-C-Laboratory" target="_blank" rel="noopener">case study 3</a></li></ul>
 
 ---
 <a name='key-practice-experts'></a>
