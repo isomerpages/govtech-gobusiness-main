@@ -46,14 +46,14 @@ Crowe Singapore is an award-winning firm and a member of Crowe Global, a top 10 
 
 #### EverEdge Global
 
-EverEdge provides specialist intangible asset advisory, valuation and corporate finance services.
+EverEdge helps companies unlock the value of intangible assets and reduce intangible asset risk.
 
 <ul>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 56 to 60</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> $200 to $800</li>
 <li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $10,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> EverEdge is a global intangible asset advisory, valuation, and corporate finance specialist. To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> To discuss how to identify, value and monetise your intangible assets, book a free one-hour consultation. </li>
 </ul>
 
 <a class='btn' href='https://form.gov.sg/63fc1cb344ce7f0012152941' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/everedge-global/){:target='_blank'}
@@ -304,6 +304,22 @@ Chay Corporate Advisory Pte Ltd is a boutique corporate advisory and business va
 
 ---
 
+#### Business Valuation Singapore
+
+The local valuation specialists of Intangible Assets and Intellectual Property in Singapore and Asia.
+
+<ul>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 6 to 10</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $5,500</li>
+<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial consultation</li>
+</ul>
+
+<a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/business-valuation-singapore/){:target='_blank'}
+
+---
+
 #### VALLARIS
 
 Vallaris helps entrepreneurs and CEOs with their mergers and acquisitions deals and disputes.
@@ -395,22 +411,6 @@ A boutique firm focusing on patent and trademark preparation, prosecution and ot
 </ul>
 
 <a class='btn' href='https://form.gov.sg/64d580da00881d00121b9f16' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/horizon-ip/){:target='_blank'}
-
----
-
-#### Business Valuation Singapore
-
-The local valuation specialists of Intangible Assets and Intellectual Property in Singapore and Asia.
-
-<ul>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>No. of connections made on GoBusiness IP Grow:</b> 1 - 10</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Number of projects completed in previous calendar year:</b> 1 to 5</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Hourly rate:</b> Less than $200 to $400</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Project fee starts from (SGD):</b> $7,000</li>
-<li style='line-height: 27px; margin: 0px 0px !important'><b>Offer:</b> Free initial consultation</li>
-</ul>
-
-<a class='btn' href='https://form.gov.sg/64d5eb027c3c4600111e1e8d' target='_blank' rel='noopener'>Get in touch</a>&emsp;[View Profile](/intellectual-property/ip-grow/business-valuation-singapore/){:target='_blank'}
 
 ---
 
