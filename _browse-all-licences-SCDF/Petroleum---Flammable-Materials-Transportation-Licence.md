@@ -97,7 +97,7 @@ Alternatively, you may choose to make off-line payment at HQ SCDF's counter via 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
-Email: <a href="Md_Zali_Ahmad@scdf.gov.sg">Md_Zali_Ahmad@scdf.gov.sg</a><br>
+Email: <a href="mailto:Md_Zali_Ahmad@scdf.gov.sg">Md_Zali_Ahmad@scdf.gov.sg</a><br>
 Name: Mohamed Zali Bin Ahmad<br>
 Designation: Import & Transport Licensing Specialist<br>
 Contact: <a href="tel:+6568481465">68481465</a><br><br>

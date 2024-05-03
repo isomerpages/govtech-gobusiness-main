@@ -28,7 +28,7 @@ New business owners can also turn to GoBusiness’ [e-Adviser for Business Struc
 ![e-Adviser for Business Structure](/images/blog/content/First year 1.jpg)
 <figcaption>The GoBusiness e-Adviser for Business Structure provides recommendations for business structures entrepreneurs can adopt based on their requirements (Image: Screengrab from GoBusiness)</figcaption>
 
-Upon finding a perfect location for the bookstore, the entrepreneur now has a [business address](/`start-a-business/submit-a-business-address/){:target="_blank"}{:rel="noopener"} and can register the business with the Accounting and Corporate Regulatory Authority (ACRA). The entrepreneur then applies for a [company name](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=C){:target="_blank"}{:rel="noopener"} and officially incorporates the business. 
+Upon finding a perfect location for the bookstore, the entrepreneur now has a [business address](/start-a-business/submit-a-business-address/){:target="_blank"}{:rel="noopener"} and can register the business with the Accounting and Corporate Regulatory Authority (ACRA). The entrepreneur then applies for a [company name](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/eServicesListing.jspx?transId=C){:target="_blank"}{:rel="noopener"} and officially incorporates the business. 
 
 This involves providing key information like when the financial year will end and personal information about appointed business officers, including the entrepreneur as the director and the business partner as the secretary. 
 
